@@ -34,7 +34,7 @@ Hors périmètre : suivi alimentaire détaillé (calories, macros), scores de lo
 - Juridique à vérifier avant toute diffusion (RGPD données de santé, HDS si hébergement, dispositif médical si recommandations individuelles) : non sourcé ici.
 
 ## Design (maquette validée par l'auteur)
-Maquette cliquable : https://claude.ai/artifact/E5TTWfwF6mJAutH3wwPoRL (privée ; source locale perdue avec la session, à reconstruire depuis cette description si besoin).
+Maquette cliquable : https://claude.ai/artifact/E5TTWfwF6mJAutH3wwPoRL (privée) ; source dans `docs/maquette/index.html` (HTML autonome, polices Google Fonts en ligne).
 - Cinq onglets : Aujourd'hui, Mesures, Leviers, Savoir, Moi.
 - Niveau de preuve en premier : lettre dans une pastille dont l'intensité varie (A plein, B moyen, C clair, D pointillé, ? hachuré) ; couleurs d'état séparées (dans la cible, à regarder, hors cible, zone discutée).
 - Calme et clinique, mobile d'abord. Fiche d'une mesure : valeur, barre de zones, courbe avec seuils, recommandations, ce qui peut fausser, leviers liés, source.
