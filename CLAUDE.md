@@ -14,10 +14,11 @@ Application mobile (PWA) de suivi des analyses biologiques et de leviers de sant
 - Le moteur de règles reste séparé de l'interface et passe `moteur/vecteurs/*.json` tels quels.
 - Pas de dose ni de protocole pour un injectable non autorisé.
 - Commit après chaque fonctionnalité essentielle, message `Thème : ce qui change`, sans pousser sans demande. Terminer le message par la ligne `Co-Authored-By` fournie par l'environnement.
-- Node n'était pas installé au 2026-11-02 : ne pas inventer de code TypeScript non exécutable ; installer Node d'abord (étape 2).
+- Node (nvm, v26) est installé depuis le 2026-11-02, hors profil du shell : charger avec `export NVM_DIR="$HOME/.nvm"; . "$NVM_DIR/nvm.sh"` avant `npm`. Ne pas écrire de TypeScript qu'on n'a pas exécuté (`npm test`, `npm run check`).
 
 ## Commandes
 ```sh
 python3 compilateur/compiler.py        # écrit build/ (ignoré par git)
 python3 -m unittest discover tests
+cd app && npm test && npm run check && npm run build   # SvelteKit statique (app/), après nvm
 ```
