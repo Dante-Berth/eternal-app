@@ -8,7 +8,7 @@ renvoie par identifiant, pour que les seuils puissent être corrigés dans la bi
 - `schema_version` : entier, incrémenté à chaque changement incompatible. Toute version a une migration testée vers la suivante.
 - Les valeurs sont stockées **telles que saisies**, avec leur unité. Aucune conversion destructive.
 - Dates en ISO 8601 (`2026-11-02`). Identifiants : chaînes minuscules avec tirets.
-- `marqueur` désigne un marqueur de la bibliothèque (identifiant stable, à définir dans `eternal/donnees/marqueurs.json` : à faire côté bibliothèque).
+- `marqueur` désigne un marqueur de la bibliothèque (identifiant stable défini dans `eternal/donnees/marqueurs.json` ; la mesure est exprimée dans une unité convertible vers l'unité usuelle du marqueur ; `forme: "paire"` = valeur `[systolique, diastolique]`).
   `fiche` désigne un identifiant de fiche (nom de fichier sans `.md`).
 - Aucun champ de texte libre n'entre dans le futur partage anonyme (voir `partage`).
 

@@ -52,18 +52,19 @@ Maquette cliquable : https://claude.ai/artifact/E5TTWfwF6mJAutH3wwPoRL (privée)
 
 ## Fait
 - Bibliothèque : 38 fiches biomarqueurs, dont 14 créées ou complétées le 2026-11-01 avec un tableau de seuils sourcés (colonnes fixes : Marqueur, Unité, Borne, Signification, Population, Source).
+- Bibliothèque : `donnees/marqueurs.json` (id, nom, fiche principale, unité usuelle, conversions affines, forme « paire » pour la tension), champ `marqueurs:` sur les 38 fiches biomarqueurs, contrôles dans `verifier.py`.
 - App : `.gitignore`, `decisions.md`, sous-module, compilateur Python (fiches → `build/index.json`, `build/fiches/<id>.json`, `build/seuils.json`), format de données v1, 19 vecteurs de test du moteur, 10 tests.
 
 ## Constats sur la bibliothèque (compilateur, 2026-11-02)
 - 23 des 38 fiches biomarqueurs ont un tableau de seuils exploitable ; 15 n'en ont pas (CRP, Lp(a), vitamine D, insuline/HOMA-IR, homocystéine, NT-proBNP, RDW, IL-6, fibrinogène, inflammation émergente, Alzheimer, fonctionnels, horloges…).
 - 39 lignes de seuils sur 291 ont une source « non retrouvée » : le moteur ne leur donne jamais de statut.
 - 30 fiches sur 38 n'ont pas d'`unite` (fiches multi-marqueurs).
-- Les marqueurs n'ont pas d'identifiant stable (`ldl-c`, `ferritine`…).
+- Identifiants stables des marqueurs : `donnees/marqueurs.json` (77 marqueurs, résolu le 2026-11-02). Il reste à relier les libellés des tableaux de seuils (« Uricémie », « PA domicile »…) à ces identifiants : fait par le moteur à l'étape 3, ou par une colonne dédiée.
 - Seuils à recontrôler : ferritine ASH 2026 (source secondaire), hémoglobine OMS 2024, glycémie OMS/IDF 2006. Toutes les fiches de ce lot sont `sources_verifiees: partielle`.
 - Pas de fiche obésité/surpoids dans `conditions/`. `apob-lipides-et-statines` et la fiche LDL-C se recoupent (non fusionnées).
 
 ## Prochaines étapes, dans l'ordre
-1. **Bibliothèque** : `donnees/marqueurs.json` (identifiant stable, nom, unité usuelle, conversions, fiche, population) ; champ `marqueurs:` dans le frontmatter et sa validation par `verifier.py` ; compléter les 15 fiches sans seuils.
+1. **Bibliothèque** (reste) : compléter les 15 fiches sans seuils (chaque seuil sourcé, PMID vérifié) ; décider comment lier les lignes de seuils à un identifiant de marqueur ; `population` par marqueur si le moteur en a besoin. Fait : `donnees/marqueurs.json`, champ `marqueurs:`, validation par `verifier.py`.
 2. **Environnement** : installer Node (via nvm), puis `npm create svelte` dans `eternal-app`.
 3. **Moteur** : implémenter le statut d'une mesure en TypeScript contre `moteur/vecteurs/statut.json`, puis classement des leviers et alertes. Il faut aussi des interactions (`donnees/interactions.json`, à écrire côté bibliothèque) et des contre-indications structurées.
 4. **Wiki** : recherche (index précalculé), lecture des fiches, hors-ligne.

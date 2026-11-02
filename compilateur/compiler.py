@@ -7,6 +7,7 @@ Usage :
 Sorties (déterministes, sans horodatage) :
   index.json        métadonnées de toutes les fiches + vocabulaire (chargé au démarrage de l'app)
   fiches/<id>.json  une fiche : sections Markdown, liens, PMID (chargée à la demande)
+  marqueurs.json    identifiants stables des marqueurs, unités et conversions (copie de donnees/marqueurs.json)
   seuils.json       lignes des tableaux « Valeurs, unités et seuils », une par seuil
 
 L'identifiant d'une fiche est son nom de fichier sans .md. Les liens Markdown entre fiches sont
@@ -173,7 +174,7 @@ def compiler(source):
             "cibles": fm.get("cibles", []), "preuve_globale": fm.get("preuve_globale", ""),
             "statut_fr": fm.get("statut_fr", ""), "derniere_maj": fm.get("derniere_maj", ""),
             "sources_verifiees": fm.get("sources_verifiees", ""), "unite": fm.get("unite", ""),
-            "mesure": fm.get("mesure", ""), "resume": resume(tldr),
+            "mesure": fm.get("mesure", ""), "marqueurs": fm.get("marqueurs", []), "resume": resume(tldr),
             "nb_pmid": len(pmids(texte)), "nb_seuils": 0,
         }
         index.append(meta)
@@ -224,6 +225,10 @@ def main(argv=None):
         "vocabulaire": vocab, "fiches": index})
     for fid, f in fiches.items():
         ecrire(os.path.join(a.sortie, "fiches", fid + ".json"), dict(f, schema_version=SCHEMA_VERSION))
+    marqueurs_chemin = os.path.join(a.source, "donnees", "marqueurs.json")
+    if os.path.exists(marqueurs_chemin):
+        with open(marqueurs_chemin, encoding="utf-8") as fh:
+            ecrire(os.path.join(a.sortie, "marqueurs.json"), json.load(fh))
     ecrire(os.path.join(a.sortie, "seuils.json"), {"schema_version": SCHEMA_VERSION, "seuils": seuils})
     print("%d fiches, %d lignes de seuils (%d à source non retrouvée) → %s" % (
         len(index), len(seuils), sum(1 for s in seuils if s["non_retrouve"]), a.sortie))
