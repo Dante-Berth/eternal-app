@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "_doc": "Règles de statut d'une mesure, écrites à la main à partir des tableaux « Valeurs, unités et seuils » des fiches eternal. Chaque référentiel cite sa fiche et la ligne du tableau. `bandes` : la première bande dont une condition de `si` est vraie l'emporte ; une bande sans `si` est le défaut. Condition : `min` inclus, `max` exclusif, `max_inclus`, `i` = composante d'une mesure en paire (0 systolique, 1 diastolique). `sexe` restreint la bande. Les seuils sont exprimés dans l'unité usuelle du marqueur (donnees/marqueurs.json). Un marqueur sans règle, ou dont le seuil est « non retrouvé », a le statut `inconnu`.",
+  "marqueurs": {
+    "ldl-c": {
+      "plausible": [0.05, 8],
+      "referentiels": [
+        {
+          "nom": "ESC/EAS 2019",
+          "source": "fiche:biomarqueur-ldl-cholesterol-total-hdl, ligne « LDL-C < 3,0 mmol/L (< 116 mg/dL), risque faible »",
+          "bandes": [
+            { "si": [{ "max": 1.16 }], "statut": "ok" },
+            { "statut": "a_regarder", "message": "Au-dessus de la cible du risque faible (3,0 mmol/L). La cible réelle dépend du risque cardiovasculaire : 1,8, 1,4 ou 1,0 mmol/L pour les risques élevé et très élevé." }
+          ]
+        }
+      ]
+    },
+    "ferritine": {
+      "plausible": [1, 5000],
+      "referentiels": [
+        {
+          "nom": "OMS 2020",
+          "source": "fiche:biomarqueur-fer-ferritine-transferrine, lignes OMS 2020 Table 1 (< 15 ; > 150 femme ; > 200 homme)",
+          "bandes": [
+            { "si": [{ "max": 15 }], "statut": "hors_cible", "message": "Carence en fer (stock épuisé)." },
+            { "si": [{ "min": 150 }], "sexe": "F", "statut": "a_regarder", "message": "Risque de surcharge en fer." },
+            { "si": [{ "min": 200 }], "sexe": "M", "statut": "a_regarder", "message": "Risque de surcharge en fer." },
+            { "statut": "ok" }
+          ]
+        },
+        {
+          "nom": "ASH 2026",
+          "fiabilite": "secondaire",
+          "source": "fiche:biomarqueur-fer-ferritine-transferrine, ligne ASH 2026 (≤ 30 ng/mL), PMID 42747316 lu via la presse : à recontrôler",
+          "bandes": [
+            { "si": [{ "max_inclus": 30 }], "statut": "a_regarder", "message": "Carence en fer possible selon l'ASH 2026 (source secondaire)." },
+            { "statut": "ok" }
+          ]
+        }
+      ]
+    },
+    "hba1c": {
+      "plausible": [2.5, 20],
+      "referentiels": [
+        {
+          "nom": "ADA 2026",
+          "source": "fiche:biomarqueur-hba1c, lignes ADA Standards of Care 2026 (PMID 41358893)",
+          "bandes": [
+            { "si": [{ "min": 6.5 }], "statut": "hors_cible", "message": "Seuil diagnostique du diabète : à confirmer par un 2e test." },
+            { "si": [{ "min": 5.7 }], "statut": "a_regarder", "message": "Plage de prédiabète (5,7–6,4 %)." },
+            { "statut": "ok" }
+          ]
+        }
+      ]
+    },
+    "vitamine-d-25-oh": {
+      "plausible": [1, 500],
+      "referentiels": [
+        {
+          "nom": "Dalamaga 2026",
+          "source": "fiche:biomarqueur-vitamine-d-25-oh, lignes < 30 nmol/L (PMID 42397501) et 30–74 nmol/L",
+          "bandes": [
+            { "si": [{ "max": 30 }], "statut": "hors_cible", "message": "Déficit sévère." },
+            { "si": [{ "max": 75 }], "statut": "discute", "message": "Zone discutée : la suffisance est débattue, pas de bénéfice démontré de la supplémentation chez les sujets non carencés." },
+            { "statut": "ok" }
+          ]
+        }
+      ]
+    },
+    "pa-domicile": {
+      "plausible": [40, 300],
+      "referentiels": [
+        {
+          "nom": "ESC 2024",
+          "source": "fiche:biomarqueur-tension-arterielle, lignes PA domicile (< 120/70 ; 120/70 à < 135/85 ; ≥ 135/85)",
+          "bandes": [
+            { "si": [{ "i": 0, "min": 135 }, { "i": 1, "min": 85 }], "statut": "hors_cible", "message": "Plage d'hypertension en automesure : diagnostic à confirmer par un médecin." },
+            { "si": [{ "i": 0, "min": 120 }, { "i": 1, "min": 70 }], "statut": "a_regarder", "message": "Pression élevée, sous le seuil d'hypertension en automesure." },
+            { "statut": "ok" }
+          ]
+        }
+      ]
+    },
+    "fer-serique": {
+      "inconnu": "Seuil de référence non retrouvé dans les fiches : aucun statut."
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "eternal-moteur",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Moteur de règles : statut d'une mesure. Paquet pur, sans dépendance à l'interface.",
+  "scripts": {
+    "test": "vitest --run",
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "typescript": "^6.0.3",
+    "vitest": "^4.1.8"
+  }
+}
