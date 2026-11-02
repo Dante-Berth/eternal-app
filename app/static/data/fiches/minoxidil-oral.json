@@ -1,0 +1,84 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "medicament",
+ "id": "minoxidil-oral",
+ "intro": "",
+ "liens": [
+  "finasteride",
+  "minoxidil",
+  "spironolactone"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 13,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "38598226",
+  "38031516",
+  "39954138",
+  "32516434",
+  "39521141",
+  "41901041",
+  "14996087",
+  "36161084",
+  "39774750",
+  "41367121",
+  "38861138",
+  "33639244",
+  "42626648"
+ ],
+ "preuve_globale": "B",
+ "resume": "Usage hors AMM pour la chute de cheveux : décision et suivi médicaux, pas d'automédication (statut : voir minoxidil, BDPM consultée le 2026-10-03 dans cette fiche).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Usage hors AMM pour la chute de cheveux : décision et suivi médicaux, pas d'automédication (statut : voir [minoxidil](fiche:minoxidil), BDPM consultée le 2026-10-03 dans cette fiche).\n- Efficacité : deux ECR comparant l'oral au minoxidil topique n'ont pas trouvé de supériorité nette sur la densité [B, ECR unique n=90 ; B, ECR unique n=65] (PMID 38598226, 38031516) ; l'essai à 3 bras ne montre pas de différence de grade clinique [B, ECR unique n=75] (PMID 39954138). Les séries de cas montrent des taux de réponse élevés mais sans témoin [B] (PMID 32516434).\n- Effet indésirable principal : hypertrichose, première cause d'arrêt (34,6 % des arrêts) [A, études sans groupe témoin] (PMID 39521141).\n- Cardio : pas de baisse significative de la tension en méta-analyse, mais fréquence cardiaque +2,67 bpm et symptômes hypotensifs chez 5,0 % des patients ; études sans témoin [A, faible certitude] (PMID 39521141). Le signal d'épanchement péricardique est disproportionné dans les déclarations spontanées (FAERS), sans incidence mesurable [?] (PMID 41901041).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Le minoxidil est un vasodilatateur antihypertenseur ; son métabolite (sulfate de minoxidil) ouvre les canaux potassiques KATP [D] (PMID 14996087, cité dans la fiche [minoxidil](fiche:minoxidil)). Le lien avec la repousse n'est pas démontré.\n- Dose-dépendance : méta-régression de 6 études, +1 mg/j associé à +47,1 cheveux/cm² de densité, +17,9 % de risque d'hypertrichose et +4,8 % d'événements cardiovasculaires à 6 mois [B, méta-régression d'études hétérogènes] (PMID 36161084).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| AGA, revue systématique (10 articles, 19 218 patients dont 19 003 hommes) | Amélioration objective chez 61-100 % des patients (AGA) et 18-82,4 % (pelade) ; doses 0,25 à 5 mg ; effets principaux : hypertrichose, hypotension orthostatique | [B, revue d'études surtout non contrôlées] (PMID 32516434) |\n| Homme, oral 5 mg/j vs topique 5 %, 24 sem. | Pas de supériorité sur la densité ; hypertrichose 49 % | [B, ECR unique n=90] (PMID 38598226) |\n| H et F, oral 1 mg/j vs topique 5 %, 6 mois | Pas de différence significative | [B, ECR unique n=65] (PMID 38031516) |\n| AGA, oral faible dose vs topique vs PRP + topique, 32 sem. (60 patients ayant terminé sur 75) | Amélioration d'un grade : 25 % (oral et PRP + topique) vs 10 % (topique), p = 0,62 ; densité de cheveux terminaux +47,5 % (oral), +48 % (topique), +57 % (PRP + topique) | [B, ECR n=75] (PMID 39954138) |\n| Minoxidil sublingual 0,45 mg/j, homme, 24 sem. | Hausse du diamètre de fibre, critère indirect de la miniaturisation ; sous-analyse de 33 patients | [B, ECR sous-analyse n=33] (PMID 39774750) |\n| Pelade et immunomodulateur associé | Revue systématique en lettre, résumé indisponible | [?] (PMID 41367121) |\n| Enfants | 442 patients pédiatriques dans 41 études ; faible dose possiblement sûre, doses moyennes/élevées pas sûres | [B] (PMID 38861138) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Doses étudiées : 0,25 à 5 mg par jour selon les études (PMID 32516434). Aucune spécialité n'est vendue pour cette indication en France : les comprimés étudiés sont des médicaments antihypertenseurs détournés ou des préparations magistrales ; leur dosage n'est ni validé ni détaillé ici.\n- Marché gris en ligne : qualité, dosage et origine non contrôlés ; ne pas s'y fier.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Oral : hors AMM pour la chute de cheveux ; aucune spécialité orale autorisée pour cette indication (BDPM, consultée le 2026-10-03, rapportée dans la fiche [minoxidil](fiche:minoxidil)). Je n'ai pas reconsulté la BDPM ni l'ANSM le 2026-10-06.\n- Sublingual : un ECR sublingual existe (PMID 39774750) ; statut réglementaire non vérifié [?].\n- AMA : sans objet pour cette fiche ; non vérifié.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Hypertrichose** : effet le plus fréquent, jusqu'à 49 % à 5 mg (PMID 38598226) et 15,1 % dans une cohorte de 1 404 patients (PMID 33639244, citée dans [minoxidil](fiche:minoxidil)) [B].\n- **Tension et cœur** : voir TL;DR ; céphalées (20 %), étourdissements (15 %), œdèmes des pieds (5 %) dans un ECR de 25 patients sous oral [B] (PMID 39954138).\n- **Péricardite / épanchement** : cas rapportés ; un cas sous 5 mg/j s'est révélé être un angiosarcome cardiaque, donc la causalité du minoxidil n'est pas toujours établie [B, cas clinique] (PMID 42626648). Signal FAERS à interpréter comme hypothèse, pas comme incidence [B] (PMID 41901041).\n- **Association à la spironolactone chez la femme** : fréquente, étudiée surtout en rétrospectif ; effets indésirables chez 37,7 %, risque orthostatique accru par d'autres médicaments modifiant la tension [B] (voir [spironolactone](fiche:spironolactone)).\n- **Contre-indications probables et interactions** : cardiopathie, hypotension, autres antihypertenseurs, grossesse, allaitement : non sourcés dans cette session [?] ; à évaluer par le médecin.\n- **Populations à risque** : enfants (doses moyennes/élevées non sûres) [B] (PMID 38861138) ; femmes (hypertrichose faciale, effet cosmétique important) [B] (PMID 32516434).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- Diagnostic (AGA vs effluvium vs pelade), exclusion d'autres causes ; antécédents cardiovasculaires, tension, fréquence cardiaque, œdèmes, essoufflement, douleur thoracique ; médicaments associés.\n- Choix entre minoxidil topique (mieux prouvé [A]), 5-ARI chez l'homme, et oral ; suivi clinique ; arrêt si symptômes cardiaques.\n- Alternative autorisée avec meilleures preuves : [minoxidil topique](fiche:minoxidil) [A], finastéride [A] (voir [finastéride](fiche:finasteride)).",
+   "titre": "Ce que le médecin évalue (pas de protocole ici)"
+  },
+  {
+   "markdown": "- **« L'oral marche bien mieux que le topique »** : deux ECR ne montrent pas de supériorité nette sur la densité [B] (PMID 38598226, 38031516).\n- **« Sans effet sur la tension donc sans risque »** : la méta-analyse sans témoin ne détecte pas de baisse de tension, mais voit la fréquence cardiaque monter et des signaux d'effusion sur déclarations spontanées [A, faible certitude ; ?] (PMID 39521141, 41901041).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit : aucun produit autorisé pour cette indication.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 32516434 — Sharma A.N. et al., *Int J Dermatol* 2020, revue systématique. doi:10.1111/ijd.14933\n- PMID 39521141 — Chen M. et al., *J Am Acad Dermatol* 2025, méta-analyse tension. doi:10.1016/j.jaad.2024.10.057\n- PMID 36161084 — Gupta A.K. et al., *Skin Appendage Disord* 2022, méta-régression. doi:10.1159/000525137\n- PMID 38598226 — Penha M.A. et al., *JAMA Dermatol* 2024. doi:10.1001/jamadermatol.2024.0284\n- PMID 38031516 — Asilian A. et al., *J Cosmet Dermatol* 2023. doi:10.1111/jocd.16086\n- PMID 39954138 — Janaani P. et al., *Arch Dermatol Res* 2025. doi:10.1007/s00403-025-03938-0\n- PMID 39774750 — Sinclair R. et al., *Clin Exp Dermatol* 2025. doi:10.1093/ced/llaf012\n- PMID 41901041 — Makkena H.B., Kasu V., *Life (Basel)* 2026, FAERS. doi:10.3390/life16030522\n- PMID 42626648 — Takahashi et al., *Eur Heart J Case Rep* 2026. doi:10.1093/ehjcr/ytag597\n- PMID 38861138 — Williams K.N. et al., *Dermatol Ther* 2024. doi:10.1007/s13555-024-01197-x\n- PMID 41367121 — McMullen E. et al., *Int J Dermatol* 2025, lettre. doi:10.1111/ijd.70194\n- PMID 33639244 et 14996087 : références reprises de [minoxidil](fiche:minoxidil), non relues ici.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "hors_amm",
+ "titre": "Minoxidil oral à faible dose",
+ "type": "actif",
+ "unite": ""
+}

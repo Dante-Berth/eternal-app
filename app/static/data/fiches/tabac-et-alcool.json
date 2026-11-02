@@ -1,0 +1,100 @@
+{
+ "cibles": [
+  "prevention",
+  "cerveau",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-08",
+ "famille": "",
+ "id": "tabac-et-alcool",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "anxiete",
+  "audition-et-perte-auditive",
+  "bilans-biologiques",
+  "declin-cognitif-et-neurodegenerescence",
+  "dents-et-parodontite",
+  "depistage-cancer-poumon",
+  "depistage-cancer-sein",
+  "depression",
+  "mode-de-vie-et-peau",
+  "sommeil",
+  "vue-dmla-et-cataracte"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 14,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "23343063",
+  "37696529",
+  "42642048",
+  "37000449",
+  "37905315",
+  "40987604",
+  "39290634",
+  "23728690",
+  "38289182",
+  "34604033",
+  "24825644",
+  "20238337",
+  "25522674",
+  "24831822"
+ ],
+ "preuve_globale": "A",
+ "resume": "Tabac : les fumeurs perdent plus de 10 ans d'espérance de vie ; arrêter à 25-34, 35-44 ou 45-54 ans fait regagner environ 10, 9 et 6 ans [B, cohorte transversale US, mortalité suivie jusqu'en 2006] (PMID 23343063).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Tabac : les fumeurs perdent plus de 10 ans d'espérance de vie ; arrêter à 25-34, 35-44 ou 45-54 ans fait regagner environ 10, 9 et 6 ans [B, cohorte transversale US, mortalité suivie jusqu'en 2006] (PMID 23343063).\n- Aides à l'arrêt : cigarette électronique à la nicotine (OR 2,37), varénicline (OR 2,33) et cytisine (OR 2,21) sont les plus efficaces vs contrôle, certitude élevée [A] (PMID 37696529) ; l'e-cigarette bat les substituts nicotiniques seuls (RR 1,61) [A] (PMID 42642048).\n- Alcool : le « verre qui protège » repose en grande partie sur des biais (abstinents contaminés par d'anciens buveurs malades, cohortes âgées) ; corrigé, le risque des petits buveurs n'est pas significativement différent de celui des abstinents à vie (RR 0,93, ns) [A] (PMID 37000449).\n- Cancer et démence : pas de seuil sûr pour le cancer du sein, de l'œsophage et du côlon-rectum dès la consommation légère [A, cohortes observationnelles] (PMID 37905315) ; la randomisation mendélienne donne une relation monotone avec la démence, sans protection [B, MR] (PMID 40987604, PMID 39290634).\n- Repères français (Santé publique France, 2019) : maximum 10 verres par semaine, 2 par jour, avec des jours sans alcool ; ce sont des repères de risque faible, pas de risque nul.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Non extraits dans cette session [?] (cancérogenèse du tabac et de l'acétaldéhyde, dépendance nicotinique). Seul point sourcé ici : la varénicline et la cytisine sont des agonistes partiels des récepteurs nicotiniques, la cytisine étant pharmacologiquement proche de la varénicline (PMID 23728690).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "### Tabac : aides à l'arrêt (abstinence à 6 mois ou plus vs contrôle)\n| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| E-cigarette avec nicotine | substitution nicotinique + gestuelle | [A] OR 2,37 (IC 1,73-3,24), 16 ECR, certitude élevée (PMID 37696529) ; vs substituts nicotiniques : RR 1,61 (1,23-2,12), 11 études, certitude élevée, soit 4 arrêts de plus pour 100 (PMID 42642048) | pas un produit de santé ; efficacité jugée insuffisante par le HCSP (ameli, mis à jour 2025-12-04, consulté le 2026-10-08) | non relevé |\n| Varénicline | agoniste partiel nicotinique | [A] OR 2,33 (2,02-2,68), 67 ECR, certitude élevée, 8 arrêts de plus pour 100 (PMID 37696529) | médicament sur ordonnance (Champix et génériques, liste I, remboursé 65 % ; BDPM, consulté le 2026-10-08) ; remboursement en 2e intention (ameli, 2025-12-04) | non relevé |\n| Cytisine | agoniste partiel nicotinique | [A] OR 2,21 (1,66-2,97), 7 ECR, certitude élevée (PMID 37696529) | aucune présentation dans la BDPM (recherche « cytisine » dans les fichiers de composition, consulté le 2026-10-08) | non applicable |\n| Substituts nicotiniques combinés (patch + forme orale) | substitution | [A] OR 1,93 (1,61-2,34), effet additif calculé, certitude non évaluée (PMID 37696529) | médicament, remboursé 65 % sur prescription (ameli, 2025-12-04) | non relevé |\n| Patch seul / forme orale seule | substitution | [A] OR 1,37 / 1,41 vs contrôle, certitude élevée, 2 et 3 arrêts de plus pour 100 (PMID 37696529) | idem ; certains sprays et inhalateurs non remboursés (ameli) | non relevé |\n| Bupropion | antidépresseur | [A] OR 1,43 (1,26-1,62) ; peut augmenter légèrement les événements indésirables graves (+1 pour 100, certitude modérée) (PMID 37696529) | médicament sur ordonnance ; statut précis non vérifié | non relevé |\n| Accompagnement comportemental seul ou associé | conseil, soutien | [?] aucune méta-analyse Cochrane dédiée retrouvée dans PubMed avec un chiffre lisible dans le résumé (recherche « behavioural counselling / combined pharmacotherapy and behavioural interventions »). Le résumé de la Cochrane (PMID 37696529) précise seulement que les études avec co-intervention équilibrée étaient éligibles. | Tabac Info Service : non consulté | 0 € |\n\nLimites : la méta-analyse en réseau agrège 319 ECR dont 51 à faible risque de biais, 104 à risque élevé ; 118 études rapportent un financement par l'industrie pharmaceutique ou de l'e-cigarette/du tabac ; exclure les ECR à risque élevé ne change pas les conclusions (PMID 37696529). Le résultat n'est donc pas un artefact de financement, mais il vient de la même équipe d'Oxford que la revue Cochrane sur l'e-cigarette (PMID 42642048), financée par Cancer Research UK et, pour de nouveaux critères, par le NIH et le centre FDA des produits du tabac.\n\nSécurité de l'e-cigarette dans les essais : événements graves similaires aux substituts nicotiniques (différence de risque 0,01, IC -0,01 à 0,02, certitude modérée) ; pas de signal de danger grave à court terme, mais la revue précise que des essais plus longs et plus larges sont nécessaires, que les produits testés étaient réglementés et que des produits illicites ou contenant du THC peuvent avoir un profil différent (PMID 42642048). Risques à long terme du vapotage (cancer, maladies respiratoires, cardiovasculaires) : [?] non extraits (recherches PubMed larges sans revue exploitable retrouvée dans cette session).\n\n### Tabac : gain à l'arrêt selon l'âge\n- Fumeurs actuels vs jamais-fumeurs, 25-79 ans : taux de décès toutes causes environ 3 fois plus élevé (HR 3,0 femmes, 2,8 hommes) ; probabilité de survie de 25 à 79 ans 70 % vs 38 % chez les femmes et 61 % vs 26 % chez les hommes [B, cohorte, 113 752 femmes et 88 496 hommes] (PMID 23343063).\n- Arrêt à 25-34, 35-44, 45-54 ans : environ 10, 9 et 6 ans de vie gagnés vs continuer ; arrêt avant 40 ans : environ 90 % du surrisque évité [B] (PMID 23343063).\n- Gain après 55 ans : [?] non lu dans le résumé (recherche « smoking cessation life years gained by age » : seule cette cohorte pivot a été relue).\n- Limites : cohorte américaine, tabagisme déclaré une seule fois à l'inclusion, suivi court (décès jusqu'au 31 décembre 2006) ; liens d'intérêts et financements non lus dans le résumé.\n\n### Alcool : courbe dose-réponse et mortalité\n| Niveau de consommation | Risque de mortalité toutes causes vs buveurs à vie nuls | Preuve |\n|---|---|---|\n| Occasionnel (>0 à <1,3 g/j) | RR 0,96 (0,86-1,06), ns | [A] (PMID 37000449) |\n| Faible (1,3-24 g/j) | RR 0,93, p=0,07, ns | [A] (PMID 37000449) |\n| 25-44 g/j | RR 1,05, ns | [A] (PMID 37000449) |\n| 45-64 g/j | RR 1,19, significatif | [A] (PMID 37000449) |\n| ≥65 g/j | RR 1,35, significatif | [A] (PMID 37000449) |\n| Femmes buveuses vs femmes abstinentes à vie | RR 1,22 (p=0,03) | [A] (PMID 37000449) |\n\nCette méta-analyse (107 cohortes, 4 838 825 participants, 425 564 décès) est celle d'un groupe canadien (Stockwell, Naimi et al.) connu pour critiquer l'hypothèse de protection ; le résumé ne déclare pas de financement industriel, l'orientation de l'équipe est à garder en tête. Le modèle ajuste le biais des anciens buveurs et la qualité de l'étude.\n\nPourquoi la « courbe en J » apparaissait : dans les études où l'âge moyen est supérieur à 55 ans ou où les abstinents incluent d'anciens buveurs et des buveurs occasionnels, le risque des petits buveurs est estimé nettement plus bas (RR 0,84, 0,79-0,89) ; dans les études de meilleure qualité (cohortes plus jeunes, suivi long, abstinents séparés), il est de 0,98 (0,87-1,11) [A] (PMID 38289182). Dans les cohortes de non-fumeurs, le RR des petits buveurs est de 1,16 (0,91-1,41), non significatif, analyse exploratoire [A, exploratoire] (PMID 38289182).\n\n### Alcool et cancer\n- 139 cohortes (106 en méta-analyse) : pas d'association significative entre consommation légère et cancer toutes localisations (RR 1,02, 0,99-1,04), mais consommation légère associée à un risque plus élevé de cancers de l'œsophage, du côlon-rectum et du sein ; légère à modérée : aussi larynx ; forte : estomac, foie, pancréas, prostate [A, cohortes observationnelles] (PMID 37905315). Les auteurs concluent à l'absence de niveau sans risque ; c'est une conclusion d'auteurs sur des données observationnelles, pas un essai.\n- Cancer de la vessie : association globale non significative ; pour les spiritueux, +9 % par verre quotidien supplémentaire (RR 1,09, 1,01-1,17) [A] (PMID 34604033).\n\n### Alcool et démence\n- Cohortes Million Veteran Program et UK Biobank, 559 559 adultes de 56-72 ans, 14 540 démences : association en U avec le risque (plus élevé chez les non-buveurs, les gros buveurs >40 verres/semaine HR 1,41 et les troubles de l'usage HR 1,51 vs buveurs légers) ; mais la randomisation mendélienne montre une hausse monotone du risque : +15 % par écart-type de log-verres/semaine (OR IVW 1,15, 1,03-1,27) [B, cohortes et MR] (PMID 40987604). Les auteurs notent une baisse de la consommation avant le diagnostic (causalité inverse) qui expliquerait l'effet protecteur apparent.\n- UK Biobank, 313 958 buveurs actuels : courbe en J classique (minimum à 12,2 unités/semaine) mais MR non linéaire non significative (p=0,45) et MR linéaire en faveur d'une hausse du risque (HR 2,22, 1,06-4,66 individuel ; 1,89, 1,53-2,32 en données résumées) [B, MR] (PMID 39290634).\n- Limites de la MR : les instruments génétiques supposent l'absence de pléiotropie ; les intervalles sont larges (borne basse proche de 1). Les deux études sont concordantes mais ne sont pas des essais.\n\n### Alcool : sevrage et maintien de l'abstinence\n- Médicaments du trouble de l'usage (ambulatoire) : acamprosate NNT 12 (8-26) pour éviter le retour à toute consommation ; naltrexone orale 50 mg/j NNT 20 pour retour à toute consommation et NNT 12 pour retour à une forte consommation ; pas de différence acamprosate vs naltrexone [A] (PMID 24825644). Nalméfène et topiramate : amélioration de certains critères de consommation, preuve modérée, usage hors AMM pour le topiramate selon la méta-analyse (PMID 24825644). Statut FR : acamprosate (Aotal et génériques) présent dans la BDPM (consulté le 2026-10-08) ; remboursement, naltrexone et nalméfène non vérifiés. Je ne donne aucune posologie.\n- Sevrage médicalisé : la Cochrane rappelle que les benzodiazépines constituent le traitement de première ligne du syndrome de sevrage alcoolique ; les anticonvulsants ne montrent pas de supériorité significative sur le placebo, et la carbamazépine n'a un avantage que sur le score CIWA-Ar vs benzodiazépines dans 3 études (262 participants), preuve limitée [A] (PMID 20238337). Un sevrage brutal chez un buveur dépendant est dangereux (convulsions, delirium tremens) : voir Quand consulter ; cette rubrique ne remplace pas un avis médical. Recommandations HAS/SFA sur le sevrage : [?] non consultées.",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Non rédigés : les médicaments d'aide à l'arrêt et au sevrage (varénicline, substituts, acamprosate, naltrexone, benzodiazépines) relèvent d'un prescripteur. Ce qu'un médecin peut évaluer : degré de dépendance (test de Fagerström pour le tabac), contre-indications, grossesse, comorbidités psychiatriques, environnement de sevrage.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Arrêter l'alcool brutalement, seul, après une consommation élevée et régulière (risque de sevrage grave) : se faire accompagner.\n- Penser qu'un verre de vin par jour est protecteur du cœur ou du cerveau : voir ci-dessus, la protection tient surtout à des biais [A].\n- Utiliser la vape comme un produit « sans risque » : les essais suivent des produits réglementés sur peu de temps ; les risques à long terme restent mal connus [?], et l'ameli rappelle que l'e-cigarette n'est pas un produit de santé et ne doit pas être utilisée pendant la grossesse (consulté le 2026-10-08).\n- Compter les « jours sans » comme une compensation : les repères officiels demandent des jours sans alcool et un plafond hebdomadaire, pas un cumul.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Un verre de vin protège le cœur / le cerveau » : [A] mortalité toutes causes non réduite pour les petits buveurs après correction des biais (PMID 37000449, PMID 38289182) ; MR sur la démence sans effet protecteur [B] (PMID 40987604, PMID 39290634). Conflit : la filière alcool a largement diffusé la courbe en J ; ce n'est pas démontré ici que le résultat vient d'un financement, seulement qu'il disparaît quand on corrige les biais.\n- Compléments ou cures « détox » du fumeur ou du buveur : aucune efficacité démontrée ; une revue critique indique l'absence d'ECR sur les régimes détox commerciaux chez l'humain, les rares études positives étant petites et méthodologiquement faibles [?] (PMID 25522674). Pas d'étude retrouvée sur des compléments « détox » spécifiques au tabac ou à l'alcool (recherche PubMed « detox supplements nicotine alcohol elimination »).\n- Patchs « anti-tabac » ou « anti-alcool » non médicamenteux (réflexologie, patchs plantes) : [?] aucune donnée retrouvée dans PubMed (recherche non spécifique), allégation fabricant [M]. Seuls les patchs de nicotine pharmaceutiques ont des preuves [A] (PMID 37696529).\n- « La vape est 95 % moins nocive » : chiffre non vérifié ici [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- La cytisine, en tête des aides efficaces dans la Cochrane (OR 2,21, certitude élevée), n'a aucune spécialité dans la BDPM française (consulté le 2026-10-08) [A] (PMID 37696529). Une revue d'évaluation économique anglaise estimait la cytisine plus efficace et moins chère que la varénicline, mais en comparaison indirecte, sans essai direct [A, comparaison indirecte] (PMID 24831822).\n- La varénicline dépasse les patchs seuls (OR 1,51) et les gommes (1,72), mais pas la combinaison de substituts nicotiniques (OR 1,06) dans l'ancienne Cochrane d'ensemble [A] (PMID 23728690).\n- L'effet protecteur de la consommation modérée pour la démence peut venir du fait que les futurs déments boivent moins avant le diagnostic [B] (PMID 40987604).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Avant d'arrêter l'alcool si la consommation est quotidienne ou élevée, en cas de tremblements, sueurs, hallucinations ou antécédent de convulsions au sevrage.\n- Pour toute aide à l'arrêt du tabac sur ordonnance, en cas de grossesse, de maladie cardiovasculaire ou psychiatrique.\n- Fumeurs de longue date : dépistage du cancer du poumon, voir la future fiche de dépistage [?] et [les bilans biologiques](fiche:bilans-biologiques).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- Substituts nicotiniques : remboursés à 65 % sur prescription depuis le 1er janvier 2019, plus de forfait annuel ; prescripteurs : médecins, sages-femmes, dentistes, infirmiers, masseurs-kinésithérapeutes ; certains sprays et inhalateurs non remboursés (ameli, page du 2025-12-04, consulté le 2026-10-08).\n- Varénicline : liste I, remboursée à 65 % (BDPM, consulté le 2026-10-08), en 2e intention après échec des substituts pour les fortes dépendances (Fagerström ≥ 7), contre-indiquée pendant la grossesse (ameli, 2025-12-04).\n- E-cigarette : pas un produit de santé ; le HCSP juge les preuves insuffisantes pour en faire une aide à l'arrêt (ameli, 2025-12-04). Position HAS actuelle : la page HAS a répondu 403 ; recommandation 2014 et note de cadrage 2023 d'actualisation vues uniquement via résultats de recherche (non relues).\n- Alcool : repères de Santé publique France du 26 mars 2019 : maximum 10 verres par semaine, maximum 2 verres par jour, jours sans consommation ; « les risques pour la santé d'une consommation d'alcool existent dès le premier verre quotidien » (Santé publique France, consulté le 2026-10-08).\n- AMA/WADA : [?] non recherché.",
+   "titre": "Statut réglementaire (France)"
+  },
+  {
+   "markdown": "- [Déclin cognitif et neurodégénérescence](fiche:declin-cognitif-et-neurodegenerescence) ; [sommeil](fiche:sommeil) ; [alimentation](fiche:alimentation) ; [mode de vie et peau](fiche:mode-de-vie-et-peau).\n\nVoir aussi : [Anxiété](fiche:anxiete) · [Dépression](fiche:depression) · [Vue : DMLA et cataracte](fiche:vue-dmla-et-cataracte) · [Audition et perte auditive](fiche:audition-et-perte-auditive) · [Dents et parodontite](fiche:dents-et-parodontite) · [Dépistage du cancer du poumon](fiche:depistage-cancer-poumon) · [Dépistage du cancer du sein](fiche:depistage-cancer-sein).",
+   "titre": "Liens utiles"
+  },
+  {
+   "markdown": "- PMID 37696529 — Lindson et al., Cochrane Database Syst Rev 2023 (NMA par composantes, 319 ECR, 157 179 participants ; 118 études financées par l'industrie).\n- PMID 42642048 — Lindson et al., Cochrane Database Syst Rev 2026, e-cigarettes (80 ECR, 29 861 participants ; Cancer Research UK, NIH/FDA CTP).\n- PMID 23728690 — Cahill et al., Cochrane Database Syst Rev 2013 (vue d'ensemble et NMA).\n- PMID 24831822 — Leaviss et al., Health Technol Assess 2014 (cytisine vs varénicline, comparaison indirecte).\n- PMID 23343063 — Jha et al., N Engl J Med 2013 (cohorte US).\n- PMID 37000449 — Zhao et al., JAMA Netw Open 2023 (107 cohortes).\n- PMID 38289182 — Stockwell et al., J Stud Alcohol Drugs 2024 (biais des études).\n- PMID 37905315 — Jun et al., Epidemiol Health 2023 (cancer, 139 cohortes).\n- PMID 34604033 — Lao et al., Front Oncol 2021 (vessie).\n- PMID 40987604 — Topiwala et al., BMJ Evid Based Med 2026 (MVP, UK Biobank, MR).\n- PMID 39290634 — Zheng et al., EClinicalMedicine 2024 (UK Biobank, MR).\n- PMID 24825644 — Jonas et al., JAMA 2014 (pharmacothérapie du trouble de l'usage d'alcool).\n- PMID 20238337 — Minozzi et al., Cochrane Database Syst Rev 2010 (anticonvulsants, sevrage alcoolique).\n- PMID 25522674 — Klein et al., J Hum Nutr Diet 2014 (régimes détox).\n- Santé publique France, repères de consommation (2019-03-26) : https://www.santepubliquefrance.fr/presse/alcool-et-sante-ameliorer-les-connaissances-et-reduire-les-risques — consulté le 2026-10-08.\n- Assurance maladie, prise en charge du sevrage tabagique (page du 2025-12-04) : https://www.ameli.fr/medecin/exercice-liberal/regles-de-prescription-et-formalites/medicaments-et-dispositifs/prise-en-charge-sevrage-tabagique — consulté le 2026-10-08.\n- BDPM (fichiers CIS, CIS_COMPO, CIS_CIP, CIS_CPD), https://base-donnees-publique.medicaments.gouv.fr/ — consulté le 2026-10-08 : Champix et génériques actifs, liste I, 65 % ; cytisine absente.\n- Non vérifiés : recommandations HAS (403), ANSM, Tabac Info Service, statut AMA, tarifs.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Tabac et alcool",
+ "type": "condition",
+ "unite": ""
+}

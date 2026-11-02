@@ -1,0 +1,77 @@
+{
+ "cibles": [
+  "muscle-os",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "complement",
+ "id": "vitamine-k2",
+ "intro": "",
+ "liens": [
+  "magnesium",
+  "osteoporose-et-densite-osseuse",
+  "vitamine-d"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "36033779",
+  "16801507",
+  "32977548",
+  "26389791",
+  "41268154",
+  "40054729",
+  "40428819",
+  "21205949",
+  "26962786"
+ ],
+ "preuve_globale": "A",
+ "resume": "Cofacteur de la carboxylation de protéines (ostéocalcine pour l'os, MGP pour les artères). Vendue comme « le calcium va dans les os, pas dans les artères ». La première moitié est partiellement soutenue ; la seconde ne l'est pas.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Cofacteur de la carboxylation de protéines (ostéocalcine pour l'os, MGP pour les artères). Vendue comme « le calcium va dans les os, pas dans les artères ». **La première moitié est partiellement soutenue ; la seconde ne l'est pas.**\n- Os : méta-analyse de 16 ECR (6 425 femmes ménopausées) : densité lombaire améliorée, mais **pas de réduction des fractures** dans l'analyse globale (RR 0,96 ; p = 0,65) ; la baisse (RR 0,43) n'apparaît qu'après exclusion d'une étude hétérogène [A, résultat fragile] (PMID 36033779). Les effets sur les fractures sont surtout rapportés chez des patients japonais avec la ménaquinone-4 (PMID 16801507).\n- Artères : la vitamine K améliore bien la carboxylation de la MGP, mais **ne prévient pas de façon constante la calcification, l'athérosclérose ou la rigidité artérielle** (9 ECR, hétérogènes, suivi court) (PMID 32977548) [A, négatif ou incertain]. Prévention cardiovasculaire primaire : un seul petit essai (n=60) trouvé par la Cochrane, sans événement clinique (PMID 26389791).\n- **Avertissement : jamais sans avis médical sous antivitamine K** (warfarine, fluindione…).\n- Aucune donnée solide sur longévité, peau ou cheveux [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- La vitamine K sert de cofacteur à la gamma-carboxylation de l'ostéocalcine et de la MGP (matrix Gla protein, inhibitrice de calcification vasculaire) (PMID 32977548). La supplémentation réduit l'ostéocalcine sous-carboxylée (uc-OC) (PMID 36033779) : c'est un **biomarqueur**, pas une fracture évitée.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Ostéoporose post-ménopausique, densité | 16 ECR, 6 425 sujets : DMO lombaire améliorée (p = 0,006) ; uc-OC et rapport uc-OC/cOC en baisse ; effets indésirables sans différence (RR 1,03) | [A] (PMID 36033779) |\n| Fractures | Analyse globale de 6 ECR : pas de différence (RR 0,96) ; RR 0,43 après exclusion d'une étude hétérogène | [A, fragile] (PMID 36033779) |\n| Fractures, ancienne méta-analyse | Phylloquinone et ménaquinone-4 réduisent la perte osseuse ; effet fort sur les fractures chez des patients japonais | [A, ancien, population japonaise] (PMID 16801507) |\n| Marqueurs de remodelage osseux | Méta-analyse 2025 chez la femme ménopausée ostéoporotique (titre vérifié, résumé non relu) | [?] (PMID 41268154) |\n| Calcification et rigidité artérielles | 9 ECR : progression non prévenue de façon constante ; bénéfice possible chez ceux déjà calcifiés à l'inclusion | [A, hétérogène] (PMID 32977548) |\n| Prévention cardiovasculaire primaire | Cochrane 2015 : 1 essai, 60 sujets sains de 40-65 ans, 3 mois, pas d'effet sur tension ni lipides | [A, très faible certitude] (PMID 26389791) |\n| Glycémie, lipides (MK-7) | Méta-analyse 2025 : HOMA-IR SMD −0,56 (−0,76 à −0,35) mais I² 84 % ; autres critères sans effet significatif | [A, hétérogène] (PMID 40054729) |\n| Dépression | Revue systématique 2025 (titre vérifié, résumé non relu) | [?] (PMID 40428819) |\n| Fractures, mortalité et événements cardiovasculaires avec MK-7 seul | Non retrouvés dans cette recherche | [?] |\n\nVoir [ostéoporose et densité osseuse](fiche:osteoporose-et-densite-osseuse) pour les traitements à preuve de fractures.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Doses des essais osseux (MK-4 japonais, MK-7 européens) : non extraites ici [?]. Dans l'analyse glycémique, un sous-groupe ≤ 90 mg de MK-7 sur moins de 12 semaines montre des effets « négligeables » sur plusieurs critères (PMID 40054729) : ne pas en déduire une dose.\n- Teneurs des produits français : non relevées [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- MK-4 (forme médicament au Japon), MK-7 (extrait de natto, forme la plus vendue en complément en Europe), K1 (phylloquinone, alimentaire). Statut réglementaire en France (plafonds, allégations), statut du MK-4 : non consultés [?]. AMA : non recherché [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Antivitamines K (warfarine, fluindione, acénocoumarol)** : la vitamine K s'oppose à leur mécanisme ; un supplément de vitamine K, ou son arrêt, peut modifier l'INR (cas publié : INR élevé à l'arrêt d'un supplément, PMID 21205949, titre vérifié, résumé non relu). Une revue systématique conclut que, pour la vitamine K *alimentaire* (hors suppléments), la restriction n'améliore pas l'anticoagulation ; l'essentiel est de garder des apports stables (PMID 26962786). Ces données ne couvrent pas les suppléments : **ne pas commencer ni arrêter un supplément sans avis du prescripteur.** Anticoagulants oraux directs : non recherchés [?].\n- Effets indésirables dans la méta-analyse osseuse : pas de différence avec le contrôle (RR 1,03) (PMID 36033779).\n- Grossesse, allaitement, insuffisance rénale ou hépatique : non recherchés [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Vitamine K2 + D3 : le calcium va dans les os » : la densité améliore, les fractures restent incertaines (PMID 36033779) ; l'effet sur les artères n'est pas démontré (PMID 32977548). Voir [vitamine D](fiche:vitamine-d).\n- « Détartre les artères » : aucune donnée n'indique une régression de la calcification existante ; un bénéfice possible n'apparaît que chez des sujets déjà calcifiés, sur des essais courts (PMID 32977548).\n- « Sans risque » : faux sous antivitamine K.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour.\n\nVoir aussi : [vitamine D](fiche:vitamine-d), [magnésium](fiche:magnesium), [ostéoporose et densité osseuse](fiche:osteoporose-et-densite-osseuse).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Ma ML et al. *Front Public Health* 2022 — PMID 36033779 — [DOI](https://doi.org/10.3389/fpubh.2022.979649)\n2. Cockayne S et al. *Arch Intern Med* 2006 — PMID 16801507 — [DOI](https://doi.org/10.1001/archinte.166.12.1256)\n3. Vlasschaert C et al. *Nutrients* 2020 — PMID 32977548 — [DOI](https://doi.org/10.3390/nu12102909)\n4. Hartley L et al. *Cochrane Database Syst Rev* 2015 — PMID 26389791 — [DOI](https://doi.org/10.1002/14651858.CD011148.pub2)\n5. Nikpayam O et al. *Prostaglandins Other Lipid Mediat* 2025 — PMID 40054729 — [DOI](https://doi.org/10.1016/j.prostaglandins.2025.106970)\n6. Violi F et al. *Medicine (Baltimore)* 2016 — PMID 26962786 — [DOI](https://doi.org/10.1097/MD.0000000000002895)\n7. PMID 21205949 (Miesner AR, *Ann Pharmacother* 2011), PMID 41268154 (Zhang Z, *Front Endocrinol* 2025), PMID 40428819 (Hashim MH, *Medicina* 2025) : titres et premiers auteurs vérifiés, résumés non relus.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Vitamine K2 (ménaquinones : MK-4, MK-7)",
+ "type": "actif",
+ "unite": ""
+}

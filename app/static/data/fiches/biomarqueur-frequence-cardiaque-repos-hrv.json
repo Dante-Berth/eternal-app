@@ -1,0 +1,107 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite",
+  "prevention"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-frequence-cardiaque-repos-hrv",
+ "intro": "Fiche « mesure ». Elle porte sur deux chiffres que les montres affichent en continu. La fréquence de repos a des associations pronostiques solides en population ; la HRV n'a, dans les sources lues, aucune plage de référence ni aucun seuil pour l'adulte sain. Le seuil de risque trouvé concerne les patients après infarctus.",
+ "liens": [
+  "bilans-biologiques",
+  "biomarqueur-tension-arterielle",
+  "biomarqueur-thyroide-tsh-t4-anti-tpo",
+  "cafeine",
+  "depistage-fibrillation-atriale-montres-connectees",
+  "exercice-physique",
+  "hiit-et-zone-5-vo2max",
+  "vo2max-et-aptitude-cardio-respiratoire",
+  "zone-2-et-endurance"
+ ],
+ "marqueurs": [
+  "fc-repos",
+  "sdnn",
+  "rmssd"
+ ],
+ "mesure": "fonctionnel",
+ "nb_pmid": 12,
+ "nb_seuils": 10,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28552551",
+  "27551034",
+  "20663071",
+  "3812275",
+  "39905563",
+  "8598068",
+  "26629022",
+  "31558032",
+  "33806038",
+  "29069045",
+  "37872373",
+  "30855232"
+ ],
+ "preuve_globale": "B",
+ "resume": "Chaque tranche de 10 battements/min de fréquence de repos en plus est associée à +17 % de mortalité toutes causes (RR 1,17, IC 1,14–1,19) et +15 % de maladie cardiovasculaire (RR 1,15) [B, méta-analyse de 87 études de cohortes, forte hétérogénéité] (PMID 28552551). Association, pas essai : aucune…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Chaque tranche de 10 battements/min de fréquence de repos en plus est associée à +17 % de mortalité toutes causes (RR 1,17, IC 1,14–1,19) et +15 % de maladie cardiovasculaire (RR 1,15) [B, méta-analyse de 87 études de cohortes, forte hétérogénéité] (PMID 28552551). Association, pas essai : aucune étude retrouvée ne montre qu'abaisser sa fréquence de repos réduit les événements chez le sujet sain [?].\n- Par catégories : au-dessus de 80 battements/min, maladie coronaire RR 1,30 et maladies non cardiovasculaires RR 1,57, contre moins de 60 [B, méta-analyse de 45 cohortes] (PMID 27551034).\n- HRV : pas de valeur de référence adulte sain fiable dans les sources lues. La revue de 44 études (21 438 sujets) trouve de grandes variations entre individus et des méthodes disparates, et appelle à de nouvelles données de population [B, revue systématique] (PMID 20663071).\n- Le seul seuil pronostique retrouvé vient de patients : après infarctus, un SDNN de 24 h < 50 ms contre > 100 ms multiplie par 5,3 le risque de décès [B, cohorte n=808] (PMID 3812275). Ne s'applique pas à une montre ni à un sujet sain.\n- Les capteurs optiques (montres) mesurent la fréquence correctement au repos mais la HRV moins bien, surtout si l'on bouge (PMID 39905563).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Fréquence cardiaque de repos (FCR)** : nombre de battements par minute au repos (pouls ou ECG). Unité : battements/min (bpm). FC (bpm) = 60 000 / intervalle RR (ms).\n- **HRV** : variation d'un battement à l'autre de l'intervalle RR. Indices usuels : SDNN (écart-type de tous les intervalles, en ms), RMSSD (variation entre battements successifs, en ms). La norme de mesure est le rapport d'un groupe de travail de l'ESC et de la société nord-américaine de rythmologie (Circulation 1996, PMID 8598068), dont le résumé PubMed est vide : définitions non relues ici [?].\n- **Mesure** : ECG, Holter, ceinture thoracique, montre ou bague à capteur optique (photopléthysmographie). Les valeurs de HRV dépendent de la durée d'enregistrement, de la posture, du filtrage des battements ectopiques (PMID 20663071).\n- Voir pour le rythme irrégulier et les montres : [dépistage de la fibrillation atriale par montre](fiche:depistage-fibrillation-atriale-montres-connectees).",
+   "titre": "Ce que mesure l'examen"
+  },
+  {
+   "markdown": "Conversion : FC (bpm) = 60 000 / RR (ms) ; 1 s = 1 000 ms. Aucune référence de laboratoire ou recommandation officielle (HAS, ESC, OMS) de plage « normale » de FCR ou de HRV n'a été retrouvée dans les sources lues : ligne marquée [?]. Les lignes pronostiques viennent d'études (tag + PMID) et ne sont pas des seuils diagnostiques.\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| FC de repos | bpm | plage « normale » officielle | non retrouvée dans les sources lues | adulte | [?] |\n| FC de repos | bpm | < 60 | catégorie de référence des méta-analyses | adultes, population générale et patients | [B, méta-analyse de cohortes] (PMID 27551034) |\n| FC de repos | bpm | 60–70 | maladie coronaire RR 0,99 (0,93–1,04), non significatif ; maladies non cardiovasculaires RR 1,17 (0,94–1,46), non significatif ; vs < 60 | adultes | [B] (PMID 27551034) |\n| FC de repos | bpm | 70–80 | coronaire RR 1,08 (1,01–1,16) ; maladies non cardiovasculaires RR 1,31 (1,12–1,54) | adultes | [B] (PMID 27551034) |\n| FC de repos | bpm | > 80 | coronaire RR 1,30 (1,19–1,43) ; non cardiovasculaire RR 1,57 (1,39–1,77) ; mortalité cardiovasculaire RR 1,49 (1,24–1,79) (autre méta-analyse de 20 études) | adultes | [B] (PMID 27551034, 26629022) |\n| FC de repos | bpm | +10 | mortalité toutes causes RR 1,17 (1,14–1,19) ; cardiovasculaire RR 1,15 (1,11–1,18) ; cancer total RR 1,14 (1,06–1,23) ; relation en J pour la fibrillation atriale (pas d'excès) | adultes | [B, 87 études] (PMID 28552551) |\n| SDNN sur 24 h (Holter) | ms | < 50 | mortalité × 5,3 vs > 100 ms (suivi moyen 31 mois) | patients 11 ± 3 jours après un infarctus | [B, cohorte n=808] (PMID 3812275) |\n| SDNN sur 24 h (Holter) | ms | > 100 | groupe de référence | patients après infarctus | [B] (PMID 3812275) |\n| HRV (SDNN, RMSSD) | ms | valeurs de référence adulte sain | non retrouvées : variations interindividuelles très larges, méthodes hétérogènes | adulte sain | [?] (PMID 20663071) |\n| HRV, patients avec maladie cardiovasculaire | rapport | HRV basse vs haute | décès toutes causes HR 2,27 (1,72–3,00) ; événements cardiovasculaires HR 1,41 (1,16–1,72) ; 28 cohortes, 3 094 sujets | patients cardiovasculaires, suivi ≥ 1 an | [B, méta-analyse de cohortes] (PMID 31558032) |",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| FCR et mortalité toutes causes | RR 1,17 par +10 bpm ; 48 études ; hétérogénéité I² 94 % | [B, méta-analyse] (PMID 28552551) |\n| FCR et maladie coronaire | RR 1,12 (1,09–1,14) par +10 bpm (45 études) ; relation linéaire ; stroke RR 1,05 (1,01–1,08) ; mort subite RR 1,12 (1,02–1,24), sans association dans les populations générales seules | [B, méta-analyse] (PMID 27551034) |\n| FCR et mortalité cardiovasculaire | plus haut vs plus bas niveau RR 1,69 (1,42–2,00), I² 87,5 % | [B, méta-analyse de 20 études] (PMID 26629022) |\n| FCR et cancer | positive : résultat de revue systématique sur 12 études en méta-analyse | [B] (PMID 33806038) |\n| FCR et insuffisance cardiaque à fraction d'éjection préservée | +10 bpm : décès toutes causes HR 1,04 (1,02–1,06), pas d'association en fibrillation atriale | [B, méta-analyse de 6 études] (PMID 29069045) |\n| HRV et pronostic après infarctus | SDNN 24 h < 50 ms vs > 100 ms : risque de décès × 5,3, indépendant de la fraction d'éjection | [B, cohorte n=808] (PMID 3812275) |\n| HRV et pronostic dans les maladies cardiovasculaires | HR 2,27 de décès pour la HRV la plus basse | [B, méta-analyse de 28 cohortes] (PMID 31558032) |\n| HRV chez le sujet sain, utilité de suivi individuel | pas de norme ; pas d'étude de suivi d'une montre retrouvée [?] | [?] |\n\nLimites : tous ces résultats viennent de cohortes. La FCR reflète le tonus autonome, la condition physique, la forme physique (voir [VO2max](fiche:vo2max-et-aptitude-cardio-respiratoire)), l'état inflammatoire et la maladie sous-jacente : le sens de la causalité n'est pas établi.",
+   "titre": "Ce que dit la preuve (valeur prédictive, utilité clinique)"
+  },
+  {
+   "markdown": "- **Entraînement d'endurance** : chaque 30 minutes par semaine d'exercice aérobie baisse la FCR de 1,08 bpm (IC −1,46 à −0,71) chez des hypertendus, 23 essais [A, certitude faible] (PMID 37872373). Voir [exercice physique](fiche:exercice-physique), [zone 2 et endurance](fiche:zone-2-et-endurance), [HIIT et VO2max](fiche:hiit-et-zone-5-vo2max). Effet sur la HRV : non recherché dans ce cycle [?].\n- **Caféine** : revue parapluie citée dans la [fiche caféine](fiche:cafeine) (tension, rythme cardiaque) ; effet sur la FCR non chiffré ici [?].\n- **Médicaments et maladies** : effet des médicaments sur la FC (bêtabloquants, stimulants, thyroxine…) et des maladies (thyroïde, anémie, fièvre, fibrillation atriale) non recherchés dans ce cycle [?]. Voir [thyroïde](fiche:biomarqueur-thyroide-tsh-t4-anti-tpo).\n- **Conditions de mesure** : l'effet de la posture, du moment de la journée, du sommeil, de l'alcool et du stress n'a pas été quantifié dans les sources lues [?]. La revue de Nunan cite comme sources de valeurs disparates le traitement des données RR (reconnaissance et édition des battements) (PMID 20663071). Comparer toujours sur la même condition (réveil, couché, même appareil).\n- **Capteur** : la FC d'un poignet est proche de l'ECG : écart moyen −1,80 bpm (Apple Watch 3) et −3,47 bpm (Fitbit Charge 2) sur 24 h, un seul sujet [B, étude à sujet unique] (PMID 30855232). La HRV d'un capteur optique est moins fidèle, y compris sur du matériel de recherche, dès que l'on bouge (PMID 39905563) [B, 40 sujets, 4 appareils].",
+   "titre": "Ce qui fait varier le résultat (leviers, médicaments, compléments, conditions de prélèvement)"
+  },
+  {
+   "markdown": "- Aucune conduite officielle sur un chiffre de montre n'a été retrouvée [?].\n- FC de repos durablement élevée sans cause évidente (fièvre, café, anxiété, manque de sommeil) ou changement net de ses valeurs habituelles : en parler à un médecin ; bilan à discuter selon contexte (ECG, thyroïde, hémogramme : voir [thyroïde](fiche:biomarqueur-thyroide-tsh-t4-anti-tpo), [bilans biologiques](fiche:bilans-biologiques)).\n- Palpitations, malaise, douleur thoracique, essoufflement : consulter (pas un chiffre à interpréter seul).\n- HRV basse sur une montre : ne justifie ni test ni traitement en l'état des données lues ; ne pas utiliser le seuil post-infarctus.",
+   "titre": "Que faire d'un résultat anormal"
+  },
+  {
+   "markdown": "- FCR : pouls ou tensiomètre (la HAS demande de relever la FC pendant la mesure de la tension, fiche mémo 2016, voir [biomarqueur tension artérielle](fiche:biomarqueur-tension-arterielle)).\n- HRV médicale : analyse d'un Holter ou d'un ECG de longue durée par un cardiologue. Remboursement et indications en France : non consultés [?].\n- Pour un suivi personnel : même heure, même posture, même appareil, plusieurs jours de suite ; la tendance sur quelques semaines compte plus qu'une valeur.",
+   "titre": "Qui, quand, comment (fréquence, remboursement)"
+  },
+  {
+   "markdown": "- Mesure par ECG ou Holter : acte médical, cotation non consultée [?].\n- Montres, bagues, ceintures : produits grand public, bien-être ou dispositif médical selon la revendication ; certaines fonctions (ECG, détection de fibrillation) peuvent être des dispositifs médicaux. Statut des marques non consulté [?].\n- Aucune recommandation officielle (HAS, ESC) sur la HRV d'une montre retrouvée [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Comparer la HRV de deux appareils ou de deux marques : les algorithmes et les indices (SDNN, RMSSD) diffèrent ; la littérature relève une hétérogénéité des méthodes (PMID 20663071).\n- Interpréter la HRV mesurée en mouvement ou pendant l'effort avec une montre optique : l'accord avec l'ECG se dégrade (PMID 39905563).\n- Appliquer à un sujet sain le seuil de 50 ms de SDNN validé après infarctus (PMID 3812275).\n- Faire de la FC de repos un score de longévité individuel : les méta-analyses sont hétérogènes (I² jusqu'à 94 %) et observationnelles (PMID 28552551).\n- Se comparer à des « moyennes par âge » sans source : les valeurs de référence de la HRV adulte sont mal établies [?].",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Votre score de récupération (HRV) dit si vous êtes prêt à vous entraîner » : aucun essai sur la performance ou les blessures n'a été recherché ici [?] ; la valeur du capteur dépend de l'appareil et du mouvement (PMID 39905563).\n- « Une HRV haute est toujours saine » : après infarctus, un SDNN bas est un facteur de risque, mais cela ne se transpose pas à une HRV haute mesurée par montre ; aucune preuve retrouvée chez le sujet sain [?].\n- « La fréquence de repos de 50 bpm, c'est la meilleure » : les catégories de risque comparent à < 60 bpm ; un seuil de bénéfice n'est pas défini [?].\n- « La montre vous donne une HRV comme un ECG » : voir plus haut (PMID 39905563).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Dans la méta-analyse de 87 études, la relation entre FCR et fibrillation atriale est en J : pas d'excès de risque avec une FCR plus élevée (RR 0,97, IC 0,92–1,02) [B] (PMID 28552551).\n- La FCR n'est pas associée à la mort subite quand l'analyse se limite aux populations générales (association présente en incluant les patients hypertendus ou diabétiques) [B] (PMID 27551034).\n- Les valeurs de HRV de la littérature récente sont plus basses que celles du rapport de 1996 [B] (PMID 20663071).\n- En fibrillation atriale, la FC n'est pas associée au pronostic dans l'insuffisance cardiaque à FE préservée [B] (PMID 29069045).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Palpitations, syncope, essoufflement, douleur thoracique.\n- FCR > 100 bpm au repos persistante ou changement net par rapport à ses valeurs : demander un avis (seuil de 100 bpm cité couramment mais source officielle non retrouvée [?]).\n- Montre signalant un rythme irrégulier : voir [fibrillation atriale et montres](fiche:depistage-fibrillation-atriale-montres-connectees).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 28552551, Aune et al., Nutr Metab Cardiovasc Dis 2017, doi:10.1016/j.numecd.2017.04.004 (résumé relu).\n- PMID 27551034, Zhang et al., CMAJ 2016, doi:10.1503/cmaj.160050 (résumé relu).\n- PMID 26629022, Li et al., Int J Clin Exp Med 2015 (résumé relu).\n- PMID 33806038, RHR et mortalité par cancer, J Clin Med 2021, doi:10.3390/jcm10071354 (résumé relu).\n- PMID 29069045, HFpEF, Medicine 2017, doi:10.1097/MD.0000000000008431 (résumé relu).\n- PMID 3812275, Kleiger et al., Am J Cardiol 1987 (résumé relu).\n- PMID 31558032, Fang et al., Biol Res Nurs 2020 (résumé relu).\n- PMID 20663071, Nunan et al., Pacing Clin Electrophysiol 2010 (résumé relu).\n- PMID 8598068, Task Force ESC/NASPE, Circulation 1996 (résumé PubMed vide ; non utilisé pour un chiffre).\n- PMID 37872373, Jabbarzadeh Ganjeh et al., Hypertens Res 2024 (résumé relu).\n- PMID 30855232, Nelson et al., JMIR Mhealth Uhealth 2019 (résumé relu ; étude à un seul sujet, premier auteur = participant).\n- PMID 39905563, Sinichi et al., Psychophysiology 2025 (résumé relu).\n- Fiches liées : [Tension artérielle (marqueur)](fiche:biomarqueur-tension-arterielle), [VO2max](fiche:vo2max-et-aptitude-cardio-respiratoire), [Exercice physique](fiche:exercice-physique), [Caféine](fiche:cafeine).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : fréquence cardiaque de repos et variabilité (HRV)",
+ "type": "biomarqueur",
+ "unite": ""
+}

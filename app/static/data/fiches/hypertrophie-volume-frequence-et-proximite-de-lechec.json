@@ -1,0 +1,90 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "comportement",
+ "id": "hypertrophie-volume-frequence-et-proximite-de-lechec",
+ "intro": "Fiche de détail pour la prise de muscle. Elle complète [entrainement-en-resistance.md](fiche:entrainement-en-resistance) (vue d'ensemble, force, sénior, mortalité) et [exercices-polyarticulaires.md](fiche:exercices-polyarticulaires) (choix des exercices) sans les répéter. Presque toutes les synthèses portent sur de jeunes adultes, majoritairement des hommes ; les gains mesurés (épaisseur ou surface musculaire, masse maigre) sont souvent petits et hétérogènes.",
+ "liens": [
+  "creatine",
+  "entrainement-en-resistance",
+  "exercices-polyarticulaires",
+  "prise-de-masse-surplus-calorique-et-recomposition",
+  "proteines",
+  "sommeil-recuperation-et-croissance-musculaire"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 16,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "41343037",
+  "27433992",
+  "42099260",
+  "30558493",
+  "38970765",
+  "36334240",
+  "33497853",
+  "42410632",
+  "28834797",
+  "25601394",
+  "42709703",
+  "40570881",
+  "26605807",
+  "42172438",
+  "42841600",
+  "41718208"
+ ],
+ "preuve_globale": "A",
+ "resume": "Volume : c'est la variable la mieux établie. Plus de séries hebdomadaires = plus d'hypertrophie, avec rendements décroissants (67 études, 2058 participants) [A, méta-régression, adultes jeunes] (PMID 41343037). Ancienne méta-régression : +0,37 % de gain relatif par série hebdomadaire supplémentai…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Volume** : c'est la variable la mieux établie. Plus de séries hebdomadaires = plus d'hypertrophie, avec rendements décroissants (67 études, 2058 participants) [A, méta-régression, adultes jeunes] (PMID 41343037). Ancienne méta-régression : +0,37 % de gain relatif par série hebdomadaire supplémentaire (15 études) [A] (PMID 27433992). Nombre optimal de séries par groupe : non tranché par ces analyses [?]. Une revue narrative propose 10 à 20 séries par groupe et par semaine [B, avis de revue, pas un résultat mesuré] (PMID 42099260).\n- **Fréquence** : à volume égal, aucune différence d'hypertrophie entre fréquences élevées et faibles (25 études) [A] (PMID 30558493). C'est une affaire de répartition, pas un levier propre.\n- **Proximité de l'échec** : l'hypertrophie augmente quand on s'approche de l'échec, mais l'échec complet n'est pas nécessaire. Les synthèses se contredisent sur le détail [A, contradictoire] (PMID 38970765, 36334240, 33497853, 42410632).\n- **Charge** : l'hypertrophie est similaire entre charges légères (≤ 60 % 1RM) et lourdes (> 60 % 1RM) quand les séries vont à l'échec (21 études) ; la force maximale favorise les charges lourdes [A] (PMID 28834797).\n- **Tempo** : une large plage de durées de répétition (environ 0,5 à 8 s) donne la même hypertrophie [A] (PMID 25601394, 42709703).\n- **Amplitude et longueur musculaire** : pas de différence d'hypertrophie démontrée entre travail en position allongée et raccourcie (12 études) [A, jeunes adultes, écart de longueur faible] (PMID 40570881).\n- **Repos entre séries** : un seul petit ECR sur des hommes entraînés (n=21) trouve plus de gain à 3 min qu'à 1 min [B, ECR unique n=21] (PMID 26605807). Pas de méta-analyse vérifiée [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Tension mécanique répétée sur les fibres, recrutement des unités motrices de haut seuil quand la série approche l'échec, puis synthèse protéique. Un résumé d'experts (conférence de Jyväskylä 2025) décrit l'hypertrophie comme une croissance radiale (plus de myofibrilles) et longitudinale (sarcomères ajoutés le long des fibres) et note que volume hebdomadaire, repos entre séries et proximité de l'échec influencent le résultat alors que le choix des exercices est flexible [B, résumé de conférence, pas une méta-analyse] (PMID 42172438). Le détail moléculaire n'est pas repris ici [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Variable | Résultat | Tag |\n|---|---|---|\n| Volume hebdomadaire | probabilité postérieure de pente > 0 de 100 % pour l'hypertrophie comme pour la force ; rendements décroissants, beaucoup plus marqués pour la force (méthode « fractionnelle » pour les séries indirectes) (PMID 41343037) | [A, méta-régression, 67 études] |\n| Volume (ancienne analyse) | +0,023 d'effet par série, soit +0,37 % de gain ; haut vs bas volume : +3,9 % ; catégories < 5, 5-9, 10+ séries par muscle : tendance seulement (p = 0,074) (PMID 27433992) | [A, 15 études] |\n| Fréquence, volume égalisé | aucune différence significative ; meilleure fréquence pour des études non égalisées en volume, écart modeste entre 1 et 3+ séances par semaine (PMID 30558493) | [A, 25 études] |\n| Fréquence, effet propre | compatible avec un effet négligeable pour l'hypertrophie, identifiable pour la force (PMID 41343037) | [A, méta-régression] |\n| Proximité de l'échec (RIR estimé) | pentes négatives et significatives pour l'hypertrophie (plus près de l'échec = plus de muscle), pente nulle pour la force ; RIR estimé a posteriori (PMID 38970765) | [A, exploratoire] |\n| Échec musculaire vs non-échec | hypertrophie : échec momentané ES 0,12 (IC -0,13 à 0,37), échec de série au sens large ES 0,19 (IC 0,00 à 0,37) ; relation possiblement non linéaire (15 études) (PMID 36334240) | [A, 15 études] |\n| Échec vs non-échec, par statut | hypertrophie ES 0,22 (IC -0,11 à 0,55) toutes études ; sous-groupe entraînés ES 0,15 (IC 0,03 à 0,26) en faveur de l'échec (PMID 33497853) | [A, 15 études, jeunes adultes] |\n| Non-échec vs échec (2026) | 20 études, 556 participants : force dynamique SMD 0,24 (IC 0,06 à 0,42) en faveur du non-échec ; hypertrophie, force isométrique, endurance et puissance sans différence (PMID 42410632) | [A] |\n| Charge légère vs lourde | 21 études, séries à l'échec : 1RM supérieur avec charges lourdes, force isométrique et hypertrophie similaires (PMID 28834797) | [A] |\n| Tempo | 14 études : différence faster − slower de 0,09 (IC crédible -0,04 à 0,22), probabilité d'un effet au moins moyen de 0,1 % ; ancienne revue : 0,5-8 s similaires, > 10 s possiblement inférieur, peu d'études (PMID 42709703, 25601394) | [A, 14 puis 8 études] |\n| Longueur musculaire | 12 études, jeunes adultes : SMD 0,05 à 0,09 (proximal, médian, distal), écart moyen de longueur de 21,8 % seulement ; hypertrophie similaire pour longueurs plus longues et plus courtes (PMID 40570881) | [A, Bayésienne, jeunes adultes] |\n| Partiels allongés vs amplitude complète | 8 semaines, 16 hommes entraînés, une jambe chaque : écart de surface du vaste latéral -1,4 cm² (IC -6,1 à 3,8), sans différence significative des fibres ni des signaux anabolisants (PMID 42841600) | [B, ECR intra-sujet n=16] |\n| Repos 1 min vs 3 min | 21 hommes entraînés, 8 semaines : 1RM squat et développé supérieurs, épaisseur de la cuisse antérieure supérieure, triceps tendance (p = 0,06) avec 3 min (PMID 26605807) | [B, ECR unique n=21] |\n| Méthodes avancées | pas de supériorité claire sur l'entraînement classique (voir la fiche résistance) ; rest-pause possiblement modeste avantage, drop sets et clusters comparables à volume et effort égalisés (PMID 41718208) | [A, hétérogène] |\n| Séries uniques vs multiples, entraînés | non trouvé dans la recherche menée [?] | [?] |\n| Femmes, plus de 60 ans | non extrait des méta-régressions citées (adultes ~25 ans, 79 % d'hommes) [?] | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Ce qui suit est une lecture des résultats ci-dessus, pas un protocole sourcé :\n- Le volume est le premier levier à augmenter avant d'ajouter des séances. Compter d'abord les séries dures par groupe et par semaine, puis monter par paliers.\n- Proximité de l'échec : les synthèses disent « plus près = mieux » (méta-régression) et « l'échec n'est pas supérieur au non-échec » (comparaisons directes). Une zone de quelques répétitions en réserve est compatible avec les deux, mais la valeur exacte du RIR n'est pas établie [?] ; le coût de l'échec en fatigue et en volume futur n'a pas été extrait [?].\n- Charges, tempo et amplitude : choisir ce qui permet le plus de séries dures de bonne qualité, car l'hypertrophie est insensible à ces paramètres dans les plages étudiées [A].\n- Repos : la seule donnée comparative directe conclut à l'avantage de repos longs (3 min) ; attendre complètement entre séries sur les polyarticulaires lourds est cohérent avec cela [B].",
+   "titre": "Paramètres étudiés, lecture pratique"
+  },
+  {
+   "markdown": "- **« Il faut tirer chaque série à l'échec »** : pas supérieur pour l'hypertrophie en moyenne (ES 0,12, IC incluant 0) ni pour la force [A] (PMID 36334240, 42410632). Nuance : chez les entraînés, un avantage de 0,15 en faveur de l'échec existe dans une autre synthèse [A] (PMID 33497853). Les synthèses divergent ; l'essentiel est de s'en approcher.\n- **« Charges lourdes obligatoires pour grossir »** : l'hypertrophie est comparable de ≤ 60 % à > 60 % 1RM quand on va à l'échec [A] ; seule la force maximale favorise les charges lourdes [A] (PMID 28834797).\n- **« Tempo lent / négatif de 4 à 5 secondes »** : l'hypertrophie reste équivalente entre rapide et lent dans la plage étudiée [A] (PMID 42709703).\n- **« Étirement en position allongée = la clé »** : la méta-analyse sur la longueur musculaire ne détecte aucune différence, avec une réserve sur le faible écart de longueur comparé [A, réserve] (PMID 40570881) ; un ECR intra-sujet sur partiels allongés est neutre [B] (PMID 42841600).\n- **« Il faut s'entraîner chaque muscle 2 à 3 fois par semaine »** : vrai pour la force, pas pour l'hypertrophie à volume égal [A] (PMID 30558493, 41343037).\n- **« Toujours plus de volume »** : rendements décroissants, surtout pour la force [A] (PMID 41343037).\n- **« Les méthodes avancées (drop sets, clusters) font mieux »** : pas d'avantage aggloméré en hypertrophie [A] (PMID 41718208, voir aussi la fiche résistance).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucun produit n'est concerné. Les chiffres de séries, de RIR et de repos des programmes populaires (« 10 à 20 séries », « RIR 0-2 », « 3 min de repos ») proviennent de revues de synthèse ou d'un petit ECR (voir ci-dessus) ; ils ne sont pas des seuils démontrés.",
+   "titre": "Doses et valeurs vendues"
+  },
+  {
+   "markdown": "Non applicable (pratique d'entraînement).",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- Aller jusqu'à l'échec avec charges lourdes augmente la fatigue et le risque de mauvaise technique ; l'incidence de blessure par proximité de l'échec n'a pas été extraite [?].\n- Voir [entrainement-en-resistance.md](fiche:entrainement-en-resistance) et [exercices-polyarticulaires.md](fiche:exercices-polyarticulaires) pour Valsalva, cardiovasculaire, genou, lombaire.\n- Un volume élevé avec peu de sommeil et d'énergie dégrade la récupération et les gains : voir [prise de masse et surplus calorique](fiche:prise-de-masse-surplus-calorique-et-recomposition) et [sommeil, récupération et croissance musculaire](fiche:sommeil-recuperation-et-croissance-musculaire).",
+   "titre": "Sécurité, contre-indications"
+  },
+  {
+   "markdown": "Aucun. Les aides à la prise de muscle (protéines, créatine) sont dans [protéines](fiche:proteines) et [créatine](fiche:creatine).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 41343037 — Pelland J.C. et al., *Sports Med* 2025 (volume et fréquence). doi:10.1007/s40279-025-02344-w\n- PMID 27433992 — Schoenfeld B.J. et al., *J Sports Sci* 2017 (volume hebdomadaire et masse musculaire). doi:10.1080/02640414.2016.1210197\n- PMID 30558493 — Schoenfeld B.J. et al., *J Sports Sci* 2019 (fréquence). doi:10.1080/02640414.2018.1555906\n- PMID 38970765 — Robinson Z.P. et al., *Sports Med* 2024 (proximité de l'échec, RIR). doi:10.1007/s40279-024-02069-2\n- PMID 36334240 — Refalo M.C. et al., *Sports Med* 2023 (échec et hypertrophie). doi:10.1007/s40279-022-01784-y\n- PMID 33497853 — Grgic J. et al., *J Sport Health Sci* 2022 (échec ou non-échec). doi:10.1016/j.jshs.2021.01.007\n- PMID 42410632 — Wu S. et al., *BMC Sports Sci Med Rehabil* 2026 (non-échec). doi:10.1186/s13102-026-01861-z\n- PMID 28834797 — Schoenfeld B.J. et al., *J Strength Cond Res* 2017 (charge légère vs lourde). doi:10.1519/JSC.0000000000002200\n- PMID 25601394 — Schoenfeld B.J. et al., *Sports Med* 2015 (durée des répétitions). doi:10.1007/s40279-015-0304-0\n- PMID 42709703 — Enes A. et al., *J Strength Cond Res* 2025 (tempo). doi:10.1519/JSC.0000000000005302\n- PMID 40570881 — Varovic D. et al., *Int J Sports Med* 2025 (longueur musculaire). doi:10.1055/a-2615-4935\n- PMID 42841600 — Plotkin D.L. et al., *Med Sci Sports Exerc* 2026 (partiels allongés vs amplitude complète). doi:10.1249/MSS.0000000000004183\n- PMID 26605807 — Schoenfeld B.J. et al., *J Strength Cond Res* 2016 (repos 1 vs 3 min). doi:10.1519/JSC.0000000000001272\n- PMID 41718208 — Tsartsapakis I. et al., *J Funct Morphol Kinesiol* 2026 (systèmes avancés). doi:10.3390/jfmk11010080\n- PMID 42172438 — Roberts M.D. et al., *J Appl Physiol* 2026 (résumé de conférence, hétérogénéité de réponse). doi:10.1152/japplphysiol.00289.2026\n- PMID 42099260 — Vergara Nieto A.A. et al., *Sports Health* 2026 (revue narrative, hypertrophie). doi:10.1177/19417381261438760\n\nRéférences relues contre leur résumé PubMed le 2026-10-13 (titre, auteurs, chiffres du résumé).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Hypertrophie : volume, fréquence, proximité de l'échec, charge, tempo et repos",
+ "type": "actif",
+ "unite": ""
+}

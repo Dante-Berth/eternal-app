@@ -1,0 +1,74 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-18",
+ "famille": "alimentation",
+ "id": "sarrasin-quinoa-et-pseudo-cereales",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "avoine-et-beta-glucanes",
+  "ble-gluten-epeautre-et-cereales-anciennes",
+  "cereales-completes-et-raffinees",
+  "legumineuses"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28582812",
+  "29955719",
+  "36847233",
+  "38553358"
+ ],
+ "preuve_globale": "B",
+ "resume": "Peu de preuves cliniques pour ces aliments. Pour le sarrasin, je n'ai trouvé qu'un petit essai croisé sur 19 patients atteints de sensibilité au gluten non cœliaque [B, ECR unique n = 19] (PMID 28582812). Pour le quinoa : un essai de 12 semaines sur 50 personnes en surpoids et une méta-analyse de…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Peu de preuves cliniques pour ces aliments.** Pour le sarrasin, je n'ai trouvé qu'un petit essai croisé sur 19 patients atteints de sensibilité au gluten non cœliaque [B, ECR unique n = 19] (PMID 28582812). Pour le quinoa : un essai de 12 semaines sur 50 personnes en surpoids et une méta-analyse de 7 essais (n = 258).\n- **Quinoa à 50 g/j : triglycérides en baisse, mais un seul essai.** TG de 1,14 à 0,72 mmol/L à 12 semaines dans le groupe 50 g/j ; poids, composition corporelle, cholestérol total, LDL et HDL inchangés ; la prévalence du syndrome métabolique baisse de 70 % dans ce groupe [B, ECR unique n = 50, simple aveugle] (PMID 29955719).\n- **Glycémie : signal probable sur la glycémie à jeun, aucun sur le poids.** 7 essais (n = 258), 15-50 g/j, 28-180 jours : effet non linéaire sur la glycémie à jeun ; IMC (-0,25) et poids (-0,54 kg) sans différence significative contre placebo [A, peu d'essais] (PMID 36847233).\n- **Sans gluten naturellement** (sarrasin, quinoa), donc utiles dans le régime d'un cœliaque, sous réserve de contamination croisée (voir Sécurité).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Le sarrasin et le quinoa sont des graines de plantes non graminées (pseudo-céréales) ; ils contiennent des fibres, des protéines et des polyphénols. Le mécanisme des effets observés n'est pas établi dans les résumés lus [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Sarrasin dans la SGNC | 19 patients, croisé, 12 semaines (6 de sarrasin contre régime sans gluten habituel) : douleurs abdominales et ballonnements en baisse (p = 0,03) ; magnésium sérique +4,7 % ; interféron-γ -33,3 % et MCP-1 -46,5 % ; pas d'aveugle décrit dans le résumé (PMID 28582812) | [B, ECR unique n = 19] |\n| Sarrasin dans le diabète | 4 essais inclus dans la revue sur les « céréales anciennes » ; aucun résultat poolé pour lui (PMID 38553358) | [?] |\n| Sarrasin : cholestérol, glycémie, tension | non trouvés en essais humains ciblés | [?] |\n| Quinoa : triglycérides | 50 g/j réduit les TG chez des personnes en surpoids (n = 50) ; 25 g/j : pas de changement (PMID 29955719) | [B, ECR unique n = 50] |\n| Quinoa : glycémie à jeun | 7 ECR, relation non linéaire, pente plus marquée vers 25 g/j (PMID 36847233) | [A, peu d'essais] |\n| Quinoa : poids, IMC | pas d'effet significatif (PMID 36847233, 29955719) | [A] |\n| Millet, amarante, teff, épeautre, riz sauvage | non recherchés | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Quinoa** : 15 à 50 g/j selon les essais, 28 à 180 jours (PMID 36847233) ; 25 et 50 g/j dans l'essai sur les TG (PMID 29955719).\n- **Sarrasin** : quantité exacte consommée dans l'essai croisé non extraite du résumé [?].\n- **Farines, pâtes, galettes** : les produits transformés (« pâtes de sarrasin », galettes de blé noir) ne sont pas évalués ; leur teneur réelle en sarrasin vs farine de blé : étiquette [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Aliments (graines, farine, flocons, crêpes). Quinoa ou sarrasin « sans gluten » : voir le règlement (UE) n° 828/2014 (20 mg/kg, consulté le 2026-10-18) pour la mention.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Contamination par le gluten** : le sarrasin est naturellement sans gluten (PMID 28582812), mais une contamination pendant la récolte, la mouture ou la fabrication est possible ; les galettes de « blé noir » et les pâtes au sarrasin contiennent souvent du blé. Aucune source de contamination retenue ici [?].\n- **Allergie au sarrasin, saponines du quinoa** : non recherchées [?].\n- **Interactions médicamenteuses** : non recherchées [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Superaliment »** : quinoa et sarrasin n'ont que quelques petits essais humains ; les effets (TG, glycémie à jeun) sont modestes et hétérogènes [B, A selon l'effet] (PMID 29955719, 36847233).\n- **« Le quinoa fait maigrir »** : poids et IMC inchangés [A] (PMID 36847233).\n- **« Sarrasin = blé »** : le blé noir n'est pas du blé et ne contient pas de gluten, mais « galette de blé noir » ou « pâtes au sarrasin » peuvent contenir de la farine de blé : lire l'étiquette.\n\nVoir aussi : [céréales complètes et raffinées](fiche:cereales-completes-et-raffinees) · [avoine et β-glucanes](fiche:avoine-et-beta-glucanes) · [blé, gluten, épeautre](fiche:ble-gluten-epeautre-et-cereales-anciennes) · [légumineuses](fiche:legumineuses) · [alimentation : synthèse](fiche:alimentation).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 28582812 — Dinu et al., *Asia Pac J Clin Nutr* 2017 (sarrasin, SGNC). doi:10.6133/apjcn.072016.07\n- PMID 29955719 — Navarro-Perez et al., *Curr Dev Nutr* 2017 (quinoa, triglycérides). doi:10.3945/cdn.117.001321\n- PMID 36847233 — Atefi et al., *Curr Med Chem* 2024 (quinoa, glycémie, poids). doi:10.2174/0929867330666230227151852\n- PMID 38553358 — Magi et al., *Nutr Metab Cardiovasc Dis* 2024 (céréales anciennes et diabète). doi:10.1016/j.numecd.2024.03.005\n- Règlement (UE) n° 828/2014 (EUR-Lex, consulté le 2026-10-18).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Sarrasin, quinoa et pseudo-céréales",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,79 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-18",
+ "famille": "alimentation",
+ "id": "millets-sorgho-teff-fonio-et-mais",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "cereales-completes-et-raffinees",
+  "glycemie-et-prediabete",
+  "mais-grille-sale-apres-le-sport",
+  "riz-blanc-complet-et-arsenic",
+  "sarrasin-quinoa-et-pseudo-cereales"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "34395493",
+  "41447873",
+  "42672549",
+  "27734128",
+  "34681305",
+  "40736155",
+  "30995755",
+  "35357820"
+ ],
+ "preuve_globale": "B",
+ "resume": "Les millets et le sorgho ont un indice glycémique (IG) plus bas que le riz blanc et le blé raffiné, surtout mesuré à court terme. Revue de 65 études : IG moyen des millets 52,7 ± 10,3, contre 71,7 pour le riz blanc usiné et 74,2 pour le blé raffiné ; IG bas (< 55) pour les larmes de Job, le fonio…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Les millets et le sorgho ont un indice glycémique (IG) plus bas que le riz blanc et le blé raffiné, surtout mesuré à court terme.** Revue de 65 études : IG moyen des millets 52,7 ± 10,3, contre 71,7 pour le riz blanc usiné et 74,2 pour le blé raffiné ; IG bas (< 55) pour les larmes de Job, le fonio, le millet des oiseaux (*foxtail*), le millet *barnyard* et le teff ; IG intermédiaire (55-69) pour le millet perlé, l'éleusine, le sorgho et d'autres [B, la plupart des mesures sont de courte durée] (PMID 34395493). Chez les diabétiques, une consommation prolongée de millets abaisserait la glycémie à jeun de 12 % et la glycémie postprandiale de 15 % selon cette revue [B, hétérogène] (PMID 34395493).\n- **Le niveau de preuve clinique reste faible.** Revue systématique de 2025 : 1 ECR, 3 essais croisés, 2 études non randomisées ; les rotis multicéréales (éleusine, millet des oiseaux, sorgho, avoine, maïs) réduisent l'HbA1c et le LDL chez des diabétiques de type 2 ; la nature du millet et la préparation modifient la réponse glycémique [B, très peu d'essais] (PMID 41447873). Méta-analyse de 2026 (20 études, 11 poolées) : l'aire sous la courbe postprandiale baisse avec le sorgho, l'éleusine et le millet perlé (d = -2,10 en moyenne, tailles d'effet très grandes, donc à prendre avec prudence) (PMID 42672549).\n- **Sorgho : essais aigus minuscules.** 10 sujets (boisson de sorgho avant une charge de glucose : réponse glycémique de la charge plus basse) [B, n = 10] (PMID 27734128) ; 10 hommes (pain de sorgho brun : IG bas vs pain de riz) [B, n = 10] (PMID 34681305) ; 14 sujets (boisson germinée-extrudée : GLP-1 plus élevé, insuline et faim plus basses) [B, n = 14] (PMID 40736155).\n- **Teff, fonio, amarante, maïs : aucun essai clinique d'intérêt trouvé** ; seulement des données d'IG (teff, fonio) et de la technologie alimentaire [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Fibres, amidon à digestion lente, composés phénoliques et tanins du sorgho ; les 3-désoxyanthocyanidines du sorgho sont citées comme actives dans l'essai de 2018 (PMID 27734128). Pas de mécanisme démontré à l'échelle clinique [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| IG (millets) | 52,7 en moyenne, tous les millets sauf le petit millet (*little millet*, données incohérentes) ont un IG plus bas que le riz blanc, le blé raffiné, le pain blanc et le glucose (PMID 34395493) | [B] |\n| Glycémie et HbA1c chez les diabétiques | baisse de la glycémie à jeun (12 %) et postprandiale (15 %) en consommation prolongée (PMID 34395493) ; rotis multicéréales : HbA1c et LDL en baisse (PMID 41447873) | [B, très peu d'essais] |\n| Glycémie postprandiale (sorgho, éleusine, millet perlé) | iAUC en baisse, d = -2,10 (PMID 42672549) | [A, tailles d'effet très grandes, qualité à examiner] |\n| Sorgho, essais aigus sur sujets sains | 3 essais de 10 à 14 sujets (PMID 27734128, 34681305, 40736155) | [B, très petits effectifs] |\n| Teff, fonio | IG bas (< 55) dans la revue (PMID 34395493) ; aucun essai clinique | [?] |\n| Maïs, polenta, tortillas | aucune donnée humaine pertinente trouvée sur la santé cardiométabolique ; seuls des essais sur des fibres ou amidons de maïs enrichis, hors sujet [?] | [?] |\n| Amarante, riz sauvage, triticale | non recherchés | [?] |\n| Poids, tension, inflammation, cancer | non recherchés | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Doses** : variables et rarement standardisées dans les résumés lus ; les essais utilisent des préparations spécifiques (rotis, dosas, boissons, pains) ; la dose en g/j d'un millet à manger au quotidien n'est pas établie [?].\n- **Produits du commerce** : galettes, pâtes ou barres « aux millets » : proportion réelle de millet à l'étiquette ; effet du procédé (extrusion, soufflage) sur l'IG : non évalué hors des essais lus [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Aliments. Millet, sorgho, teff, fonio, maïs sont naturellement sans gluten (général) ; la mention « sans gluten » d'un produit relève du règlement (UE) n° 828/2014 (20 mg/kg, EUR-Lex, consulté le 2026-10-18) et d'un risque de contamination croisée à la fabrication [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Maïs grillé salé en collation après le sport** : voir [maïs grillé salé après le sport](fiche:mais-grille-sale-apres-le-sport).\n- **Maïs : mycotoxines et pellagre** : les revues « Mycotoxins during the Processes of Nixtamalization and Tortilla Production » (PMID 30995755) et sur l'acrylamide dans les aliments à base de maïs (PMID 35357820) existent, mais seuls leurs titres ont été lus : aucun chiffre repris [?]. La pellagre est une carence en niacine liée à un régime presque exclusivement à base de maïs non traité ; aucune source retenue ici [?].\n- **Cadmium** : limite UE pour le riz et le quinoa à 0,15 mg/kg ; pour les autres céréales 0,10 mg/kg ; millets et sorgho : cas non extrait (règlement (UE) 2023/915, annexe I, point 3.2.12, EUR-Lex, consulté le 2026-10-18) [?].\n- **Tanins du sorgho et absorption du fer** : non recherchés [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Le millet/le sorgho sont des super-aliments anti-diabète »** : IG plus bas et petits essais encourageants [B], mais pas d'essai de grande taille ni sur critères cliniques ; la méta-analyse de 2026 rapporte des tailles d'effet très élevées qui appellent à vérifier la qualité des études [?] (PMID 42672549).\n- **« Le teff et le fonio sont démontrés bons pour la santé »** : IG bas mesuré, aucun essai clinique trouvé [?].\n- **« Le maïs est un \"mauvais\" glucide »** : aucune donnée humaine trouvée dans la recherche ; ni démonstration de nocivité, ni de bénéfice [?].\n\nVoir aussi : [sarrasin, quinoa et pseudo-céréales](fiche:sarrasin-quinoa-et-pseudo-cereales) · [céréales complètes et raffinées](fiche:cereales-completes-et-raffinees) · [riz et arsenic](fiche:riz-blanc-complet-et-arsenic) · [glycémie et prédiabète](fiche:glycemie-et-prediabete) · [alimentation : synthèse](fiche:alimentation).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 34395493 — Anitha et al., *Front Nutr* 2021 (millets et diabète). doi:10.3389/fnut.2021.687428\n- PMID 41447873 — Naik et al., *Diabetes Metab Syndr* 2026 (millets, glycémie et lipides). doi:10.1016/j.dsx.2025.103359\n- PMID 42672549 — Dunna et al., *Nutr Rev* 2026 (sorgho, éleusine, millet perlé). doi:10.1093/nutrit/nuag124\n- PMID 27734128 — Anunciação et al., *Eur J Nutr* 2018 (boisson de sorgho extrudé). doi:10.1007/s00394-016-1314-x\n- PMID 34681305 — Dos Reis Gallo et al., *Foods* 2021 (pain de sorgho sans gluten). doi:10.3390/foods10102256\n- PMID 40736155 — da Silva et al., *J Am Nutr Assoc* 2026 (boisson de sorgho germiné et extrudé). doi:10.1080/27697061.2025.2539424\n- PMID 30995755 — Schaarschmidt et al., *Toxins* 2019 (mycotoxines, nixtamalisation ; titre seul).\n- PMID 35357820 — Žilić et al., *J Agric Food Chem* 2022 (acrylamide dans les aliments à base de maïs ; titre seul).\n- Règlements (UE) n° 828/2014 et 2023/915 (EUR-Lex, consultés le 2026-10-18).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Millets, sorgho, teff, fonio et maïs",
+ "type": "actif",
+ "unite": ""
+}

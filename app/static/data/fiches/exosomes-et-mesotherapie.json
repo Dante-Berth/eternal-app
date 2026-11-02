@@ -1,0 +1,89 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "",
+ "id": "exosomes-et-mesotherapie",
+ "intro": "",
+ "liens": [
+  "alopecie-androgenetique",
+  "dutasteride",
+  "finasteride",
+  "minoxidil",
+  "prp"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 16,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "37558233",
+  "41603616",
+  "35253335",
+  "42377704",
+  "40586152",
+  "33269529",
+  "31032783",
+  "40955427",
+  "39447204",
+  "40146273",
+  "41037530",
+  "35642921",
+  "19538379",
+  "19363858",
+  "31444843",
+  "41097876"
+ ],
+ "preuve_globale": "B",
+ "resume": "Deux techniques très vendues en cabinet esthétique dont les preuves se limitent à de petites études, souvent ouvertes et sans groupe témoin [B] ; les exosomes d'origine humaine ou animale n'ont aucune autorisation en France, et leur injection relève du marché non autorisé.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Deux techniques très vendues en cabinet esthétique dont les preuves se limitent à de petites études, souvent ouvertes et sans groupe témoin [B] ; les exosomes d'origine humaine ou animale n'ont aucune autorisation en France, et leur injection relève du marché non autorisé.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- **Mésothérapie** (micro-injections intradermiques de minoxidil, dutastéride, vitamines, « cocktails ») : petits gains de densité rapportés, protocoles non standardisés [B] (PMID 37558233, 41603616, 35253335).\n- **Exosomes** (vésicules extracellulaires issues de cellules souches, de plaquettes ou de plantes, appliquées après microneedling ou injectées) : mécanismes surtout précliniques [C] ; études humaines petites, rétrospectives ou sans témoin [B] (PMID 42377704).\n- Aucune des deux ne remplace le traitement médical de fond de l'[alopécie androgénétique](fiche:alopecie-androgenetique).",
+   "titre": "Ce que ça corrige / ne corrige pas"
+  },
+  {
+   "markdown": "### Mésothérapie\n- Revue systématique 2023 (27 articles, 6 classes d'agents : dutastéride, minoxidil, facteurs de croissance, toxine botulique, cellules souches, multivitamines) : améliorations statistiques rapportées, aucun schéma standardisé, effets indésirables décrits [B] (PMID 37558233).\n- Revue systématique 2026 (30 études : 7 interventionnelles, 11 observationnelles, 12 descriptives) : bénéfice cosmétique possible, surtout avec le dutastéride, mais petits effectifs, protocoles variables, suivis courts ; « essais randomisés standardisés requis avant toute recommandation » [B] (PMID 41603616).\n- Revue 2022 (12 études dont 6 ECR, 527 participants) : efficacité « dans une certaine mesure » dans toutes les études, effectifs trop faibles [B] (PMID 35253335).\n- **Dutastéride en mésothérapie vs oral** : en méta-analyse en réseau (33 études), la mésothérapie au dutastéride est significativement **moins efficace** que le dutastéride oral 0,5 mg/j [A] (PMID 40586152).\n- Minoxidil 0,5 % intradermique vs sérum physiologique chez 54 femmes : ratio terminal/duvet et cheveux en anagène améliorés [B, ECR unique n=54] (PMID 33269529).\n- « Cocktail » de vitamines vs minoxidil 5 % chez 30 femmes, 12 semaines : pas de différence de densité ni de chute ; satisfaction plus élevée sous mésothérapie [B, ECR unique n=30] (PMID 31032783).\n\n### Exosomes\n- Revue systématique 2026 (39 études, 2019-2025) : voies Wnt/β-caténine, Sonic Hedgehog, TGF-β démontrées en préclinique [C] ; études cliniques précoces rapportant **+8 à 20 % de densité**, mais petits effectifs, designs rétrospectifs, **pas de groupe témoin**, critères hétérogènes ; fabrication non standardisée et cadre réglementaire manquant selon les auteurs [B] (PMID 42377704).\n- Revue systématique 2025 (11 études cliniques : 2 ECR, 3 rétrospectives, 3 prospectives à un bras, 1 série, 2 cas) : +9,5 à +35 cheveux/cm², aucun effet grave rapporté ; preuve limitée par l'hétérogénéité et les petits effectifs [B] (PMID 40955427).\n- Revue 2024 : 9 études cliniques sur l'alopécie, 125 patients traités au total [B] (PMID 39447204).\n- Exemples d'études primaires : 16 hommes, exosomes topiques après microneedling, ouverte, sans témoin, +35 cheveux/cm² à 12 mois [B, série ouverte n=16] (PMID 40146273) ; 30 sujets, produit d'un fabricant (BENEV) après microneedling radiofréquence, sans témoin [B, essai ouvert n=30] (PMID 41037530). Dans ces designs, la part du microneedling seul est impossible à isoler.",
+   "titre": "Preuves (efficacité, durabilité) avec tags"
+  },
+  {
+   "markdown": "- **Mésothérapie** : alopécie paradoxale, cicatrices, dermatite aiguë [B] (PMID 41603616) ; alopécie après injections esthétiques sous-déclarée (10 articles) [B] (PMID 35642921) ; panniculites et infections à mycobactéries atypiques décrites [B, cas cliniques] (PMID 19538379, 19363858, 31444843). La HAS a cartographié en 2014 les risques infectieux (dont mycobactéries atypiques), pharmacologiques et psychopathologiques de la mésothérapie esthétique (HAS, rapport d'évaluation validé en juin 2014, consulté le 2026-10-03). Fréquences : inconnues [?].\n- **Exosomes** : 4 femmes avec érythème persistant, nodules, inflammation granulomateuse et cicatrices après injection intradermique de produits à exosomes non autorisés, hors cadre médical ; résolution incomplète chez toutes [B, série de 4 cas] (PMID 41097876). Au moins 10 effets graves rapportés en dermatologie au sens large [B] (PMID 39447204). Fréquences : inconnues [?].\n- **Produits** : composition, origine et stérilité des exosomes commercialisés non standardisées (PMID 42377704).",
+   "titre": "Complications et fréquences"
+  },
+  {
+   "markdown": "- Les injections à visée esthétique ne sont autorisées qu'aux médecins (et aux chirurgiens-dentistes dans leur cadre) ; leur réalisation par d'autres est illégale (réponse ministérielle à la question écrite AN n° 7585, JO du 23 mai 2023, consulté le 2026-10-03).\n- **Exosomes** : aucune thérapie par cellules souches et exosomes n'a d'AMM en France ou en Europe ; selon l'ANSM, « aucune donnée robuste » n'atteste de leur efficacité, sécurité ou qualité (ANSM, décision de police sanitaire du 17 octobre 2025 contre Linden Clinics, actualité du 3 novembre 2025, consultée le 2026-10-03 ; la décision vise une offre thérapeutique, pas esthétique). Les « cellules, tissus ou produits d'origine humaine » sont interdits dans les cosmétiques (règlement (CE) 1223/2009, annexe II, entrée 416, consulté le 2026-10-03). Les exosomes d'origine végétale vendus en cosmétique topique ne sont donc pas des exosomes humains. L'interdiction des injections d'exosomes en France est affirmée par l'Inserm (Canal Détox, 22 mai 2025, consulté le 2026-10-03) ; je n'ai pas trouvé de texte ANSM spécifique à l'usage esthétique [?].\n- **Mésothérapie** : acte d'injection, donc médical ; pas de texte spécifique trouvé au-delà du rapport HAS 2014 [?].",
+   "titre": "Qui peut le pratiquer en France (réglementation)"
+  },
+  {
+   "markdown": "- Mésothérapie capillaire : 90 € la séance (Dr Scemama, consulté le 2026-10-03) ; à partir de 150 €, consultation 50 € (Beaujour Médical, consulté le 2026-10-03). Protocoles de plusieurs séances (une par semaine pendant 8 semaines puis espacées selon Dr Scemama). Sources commerciales : fait de prix uniquement.\n- Exosomes : prix non renseigné (aucune source fiable retenue) [?].\n- Durabilité : non étudiée au-delà de 12 mois [?].",
+   "titre": "Coût et durabilité"
+  },
+  {
+   "markdown": "- Minoxidil topique [A], finastéride ou dutastéride oraux chez l'homme [A] : voir [minoxidil](fiche:minoxidil), [finastéride](fiche:finasteride), [dutastéride](fiche:dutasteride).\n- [PRP](fiche:prp) si un acte est souhaité : méta-analyses d'ECR [A, faible certitude], meilleure base que les exosomes.",
+   "titre": "Alternatives moins invasives"
+  },
+  {
+   "markdown": "- Injection d'exosomes « de cellules souches » : aucun produit autorisé ; la série coréenne de complications concernait des injections hors cadre médical (PMID 41097876).\n- Produit sans origine déclarée (humaine, animale, végétale), sans numéro de lot, acheté en ligne.\n- Promesse « régénération », « repousse garantie » : aucune étude contrôlée de qualité.\n- Injection en institut, à domicile ou par un non-médecin : illégal.",
+   "titre": "Signaux d'alerte (praticien, tourisme médical, produits)"
+  },
+  {
+   "markdown": "- **« Exosomes = traitement régénératif validé »** [M] : mécanismes précliniques [C], études humaines sans témoin [B] ; aucun produit autorisé (ANSM 2025).\n- **« Mésothérapie au dutastéride = dutastéride sans effets systémiques, aussi efficace »** [M] : moins efficace que le dutastéride oral en méta-analyse en réseau [A] (PMID 40586152).\n- **« Cocktails vitaminiques anti-chute »** : un seul petit ECR (n=30), sans différence de densité vs minoxidil [B] (PMID 31032783).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Malih S et al., *Mol Biol Rep* 2026 — PMID 42377704 — [DOI](https://doi.org/10.1007/s11033-026-12255-2)\n- Al Ameer MA et al., *Clin Cosmet Investig Dermatol* 2025 — PMID 40955427 — [DOI](https://doi.org/10.2147/CCID.S543451)\n- Queen D et al., *Dermatol Surg* 2024 — PMID 39447204 — [DOI](https://doi.org/10.1097/DSS.0000000000004480)\n- Wan J et al., *Aesthetic Plast Surg* 2025 — PMID 40146273 — [DOI](https://doi.org/10.1007/s00266-025-04817-9)\n- Ablon G et al., *J Drugs Dermatol* 2025 — PMID 41037530 — [DOI](https://doi.org/10.36849/JDD.9244)\n- Park KY, *J Cosmet Dermatol* 2025 — PMID 41097876 — [DOI](https://doi.org/10.1111/jocd.70520)\n- Gupta AK et al., *J Dermatolog Treat* 2023 — PMID 37558233 — [DOI](https://doi.org/10.1080/09546634.2023.2245084)\n- Beer J et al., *Dermatol Surg* 2026 — PMID 41603616 — [DOI](https://doi.org/10.1097/DSS.0000000000004999)\n- Tang Z et al., *J Cosmet Dermatol* 2022 — PMID 35253335 — [DOI](https://doi.org/10.1111/jocd.14900)\n- Gupta AK et al., *J Cosmet Dermatol* 2025 — PMID 40586152 — [DOI](https://doi.org/10.1111/jocd.70320)\n- Uzel BPC et al., *Dermatol Ther* 2020 — PMID 33269529 — [DOI](https://doi.org/10.1111/dth.14622)\n- Hunter N et al., *Acta Dermatovenerol Croat* 2019 — PMID 31032783\n- Issa NT et al., *Dermatol Surg* 2022 — PMID 35642921 — [DOI](https://doi.org/10.1097/DSS.0000000000003498)\n- Plachouri KM et al., *J Cosmet Dermatol* 2019 — PMID 31444843 — [DOI](https://doi.org/10.1111/jocd.13115)\n- Difonzo EM et al., *Int J Dermatol* 2009 — PMID 19538379 — [DOI](https://doi.org/10.1111/j.1365-4632.2009.03487.x)\n- Beer K, *J Drugs Dermatol* 2009 — PMID 19363858\n- Réglementation : [ANSM, Linden Clinics](https://ansm.sante.fr/actualites/promotion-illegale-de-therapie-cellulaire-nous-prenons-une-decision-de-police-sanitaire-a-lencontre-de-la-societe-linden-clinics) ; [règlement (CE) 1223/2009](https://health.ec.europa.eu/system/files/2016-11/cosmetic_1223_2009_regulation_en_0.pdf), annexe II ; [HAS 2014, mésothérapie à visée esthétique](https://www.has-sante.fr/jcms/c_1522566/fr/evaluation-des-risques-lies-aux-pratiques-de-mesotherapie-a-visee-esthetique-rapport-d-evaluation) ; [Inserm Canal Détox](https://presse.inserm.fr/canal-detox/medecine-anti-age-des-exosomes-pour-regenerer-la-peau-et-les-cheveux-vraiment/) ; [question écrite AN n° 7585](https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE7585) (tous consultés le 2026-10-03).\n- Prix : [Dr Scemama](https://drscemama.com/mesotherapie-cheveux/), [Beaujour Médical](https://beaujourmedical.fr/traitements/mesotherapie-capillaire/) (consultés le 2026-10-03 ; fait de prix uniquement).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Exosomes et mésothérapie du cuir chevelu",
+ "type": "acte",
+ "unite": ""
+}

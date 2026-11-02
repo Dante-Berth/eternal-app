@@ -1,0 +1,78 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "cancer-oesophage-barrett",
+ "intro": "",
+ "liens": [
+  "cancer-estomac-helicobacter-pylori",
+  "prevention-des-cancers",
+  "tabac-et-alcool"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42866690",
+  "41738629",
+  "38709808"
+ ],
+ "preuve_globale": "B",
+ "resume": "Le Barrett est une lésion précancéreuse de l'adénocarcinome de l'œsophage. La surveillance endoscopique repose sur la biopsie, jugée subjective et incapable de repérer les progresseurs rapides (PMID 42866690).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Le Barrett est une lésion précancéreuse de l'adénocarcinome de l'œsophage. La surveillance endoscopique repose sur la biopsie, jugée subjective et incapable de repérer les progresseurs rapides (PMID 42866690).\n- Marqueur p53 anormal (20 % des Barrett) : progression vers dysplasie de haut grade/cancer 8 pour 100 personnes-années contre 0,3 sans anomalie ; RR 10,2 (6,9-15,0) en cohortes [B] ; mais sensibilité 42 % dans le Barrett non dysplasique : outil insuffisant seul (PMID 41738629).\n- Pour la progression néoplasique, l'ablation par radiofréquence et la chirurgie font mieux que la surveillance (méta-analyse en réseau, 23 ECR, 1 675 participants) [A, risque de biais élevé pour 6 études] (PMID 38709808).\n- Dépistage de la population générale du Barrett : aucune donnée retrouvée ici [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Reflux chronique -> métaplasie intestinale -> dysplasie -> adénocarcinome. Mécanisme détaillé : non développé [?].",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Ablation par radiofréquence | Détruit la muqueuse métaplasique | [A] meilleur que surveillance sur progression néoplasique (PMID 38709808) | Acte médical | non recherché |\n| Chirurgie | Résection | [A] idem (PMID 38709808) | Acte médical | non recherché |\n| Surveillance endoscopique + biopsies | Détection de la dysplasie | [B] | Acte médical | non recherché |\n| p53 / TSP-9 (biomarqueurs) | Stratification du risque | [A] HR 5,05 (p53) et 7,65 (TSP-9), VPN > 90 % ; sensibilités 60 % et 57 % (PMID 42866690) | Statut de remboursement : non consulté [?] | non recherché |\n| IPP, anti-H2 | Antiacides | classés parmi les moins efficaces pour l'ablation du Barrett (SUCRA) (PMID 38709808) | Médicaments | non applicable |\n\nLes SUCRA sont des probabilités de rang, pas des effets mesurés.",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Débutant : reflux persistant > plusieurs années, surtout homme, tabagique, obèse : en parler au médecin. Critères exacts de dépistage : non vérifiés [?].\n- Avancé : gastroentérologue ; intervalles de surveillance, choix ablation vs surveillance : décision spécialisée. La forte VPN des biomarqueurs « soutient » d'espacer la surveillance chez les faibles risques selon les auteurs (PMID 42866690) ; pas de pratique française établie ici [?].",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Traiter le Barrett par IPP en pensant « éliminer » la métaplasie.\n- Ignorer une dysphagie nouvelle.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "Aucun complément n'a de preuve de régression du Barrett dans ce qui a été consulté [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Les marqueurs ont d'excellentes VPN mais une sensibilité d'environ 60 % : un résultat négatif rassure, un résultat positif n'est pas un diagnostic (PMID 42866690, 41738629).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Dysphagie, perte de poids, vomissements, reflux nocturne persistant, anémie.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "Pas de dépistage organisé retrouvé ; recommandations de la HAS/SNFGE : non consultées [?]. Pas de statut AMA.",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "[Estomac](fiche:cancer-estomac-helicobacter-pylori), [tabac et alcool](fiche:tabac-et-alcool), [prévention des cancers](fiche:prevention-des-cancers).",
+   "titre": "Voir aussi"
+  },
+  {
+   "markdown": "- PMID 42866690 — Zaher A et al., *Gastro Hep Adv* 2026. doi:10.1016/j.gastha.2026.101113\n- PMID 41738629 — Sawas T et al., *Am J Gastroenterol* 2026. doi:10.14309/ajg.0000000000003977\n- PMID 38709808 — Zhang Q et al., *PLoS One* 2024 (méta-analyse en réseau).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Cancer de l'œsophage et endobrachyœsophage (Barrett)",
+ "type": "condition",
+ "unite": ""
+}

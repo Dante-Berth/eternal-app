@@ -1,0 +1,66 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "medicament",
+ "id": "differine-adapalene-0-1",
+ "intro": "",
+ "liens": [
+  "effederm-tretinoine-0-05",
+  "retinoides"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "12833014",
+  "40990960",
+  "30105991",
+  "9990414"
+ ],
+ "preuve_globale": "B",
+ "resume": "Rétinoïde sur ordonnance stable à la lumière et plutôt mieux toléré que la trétinoïne, mais avec des preuves anti-âge plus minces : option de repli si la trétinoïne irrite trop.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Rétinoïde sur ordonnance stable à la lumière et plutôt mieux toléré que la trétinoïne, mais avec des preuves anti-âge plus minces : option de repli si la trétinoïne irrite trop.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- Adapalène 0,1 g pour 100 g de gel ; excipients dont propylèneglycol, parahydroxybenzoate de méthyle, phénoxyéthanol (BDPM, consulté le 2026-10-03).\n- Photovieillissement : adapalène 0,1 % et 0,3 % éclaircissent les lentigos (57 % vs 36 % sous excipient, 9 mois, 90 sujets) [B] ; adapalène 0,1 % crème vs absence de traitement, 58 femmes, 6 mois : score de vieillissement −5,4 points [B] ; 0,3 % non inférieur à la trétinoïne 0,05 % [B]. Détail : [rétinoïdes](fiche:retinoides).\n- Stable à la lumière et en présence de peroxyde de benzoyle, contrairement à la trétinoïne [D].",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Médicament liste I, commercialisé ; tube de 30 g à 3,80 € (4,82 € honoraire compris), remboursé à 30 % ; indication : acné de sévérité moyenne, surtout rétentionnelle ; contre-indiqué pendant la grossesse et chez la femme qui planifie une grossesse (BDPM, consulté le 2026-10-03). Générique : Adapalène Zentiva 0,1 % crème, 4,44 €, remboursé à 30 % (BDPM, consulté le 2026-10-03). Usage anti-âge = hors AMM.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "Pas d'allégation anti-âge (médicament de l'acné). Preuves anti-âge : [B] seulement, essais petits ou sans excipient.",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Selon la prescription (la notice indique une application le soir). Les essais anti-âge : une fois par jour, parfois deux après 4 semaines si toléré [B]. Picotements (64 %) et sécheresse (25 %) fréquents les 2 premiers mois [B].",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "Prix réglementé (4,82 € ; générique 4,44 €). Durée d'un tube de 30 g pour le visage non indiquée ; estimation 2 mois (estimation personnelle, pas une donnée de la notice) → environ 2 à 3 €/mois. Alternative à meilleure preuve et moins chère : [Effederm 0,05 %](fiche:effederm-tretinoine-0-05) (trétinoïne [A], 3,39 €), au prix d'une irritation plus forte.",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non recherchés pour ce produit [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- BDPM, Differine 0,1 %, gel — [fiche](https://base-donnees-publique.medicaments.gouv.fr/medicament/63066469/extrait) ; Adapalène Zentiva 0,1 %, crème — [fiche](https://base-donnees-publique.medicaments.gouv.fr/medicament/67245747/extrait) (consultées le 2026-10-03)\n- Références cliniques (PMID 12833014, 40990960, 30105991, 9990414) : voir [rétinoïdes](fiche:retinoides)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "true",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Differine 0,1 % gel (adapalène)",
+ "type": "produit",
+ "unite": ""
+}

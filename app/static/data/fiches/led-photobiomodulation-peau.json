@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "",
+ "id": "led-photobiomodulation-peau",
+ "intro": "",
+ "liens": [
+  "acide-azelaique",
+  "differine-adapalene-0-1",
+  "finasteride",
+  "laser-basse-intensite",
+  "lasers-fractionnes",
+  "microneedling",
+  "minoxidil",
+  "peelings",
+  "protection-solaire",
+  "retinoides",
+  "toxine-botulique",
+  "vitamine-c"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "36310510",
+  "34696155",
+  "39960921",
+  "40770824",
+  "40253006"
+ ],
+ "preuve_globale": "B",
+ "resume": "Sûre dans les essais et plausible pour l'acné (LED rouge et bleue) et un léger lissage des rides, mais les preuves sont des essais petits, hétérogènes et la plupart des critères sont de faible certitude (financement des essais non relevé) ; la photobiomodulation n'a de recommandation solide que p…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Sûre dans les essais et plausible pour l'acné (LED rouge et bleue) et un léger lissage des rides, mais les preuves sont des essais petits, hétérogènes et la plupart des critères sont de faible certitude (financement des essais non relevé) ; la photobiomodulation n'a de recommandation solide que pour des indications médicales précises (alopécie androgénétique, cicatrisation, radiodermite), pas pour le « glow ».",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- Corrige (preuves variables) : acné inflammatoire, léger lissage des rides péri-oculaires.\n- Ne corrige pas : rides profondes, relâchement cutané, taches installées ; aucune donnée de remplacement du botox, des lasers ablatifs ou des rétinoïdes dans les sources lues [?].\n- Autres effets avancés par le marketing (collagène « boosté », cicatrices, rosacée, taches) : non vérifiés ici [?].",
+   "titre": "Ce que ça corrige / ne corrige pas"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Acné vulgaire (LED rouge et bleue) | Méta-analyse de 31 études sur la LED en dermatologie : SMD global −2,42 (IC 95 % −2,64 à −2,15), I² 17 % ; étude hétérogène sur les autres indications (cicatrisation, dermatite atopique), biais de publication possible | [A, faible certitude] (PMID 36310510) |\n| Acné inflammatoire (lumière bleue) | Revue systématique de 8 ECR : améliorations globales significatives ; les auteurs réclament des essais plus détaillés | [B, petits essais] (PMID 34696155) |\n| Rajeunissement (rides du coin des yeux) | ECR double aveugle contre appareil factice, 60 participants de 30-65 ans, masque 630 nm + 850 nm 16 semaines : score de pattes d'oie amélioré à 8, 12, 16 semaines (amélioration rapportée jusqu'à 86 % selon les évaluateurs) ; essai multicentrique asiatique (financement non relevé) | [B, ECR unique n=60] (PMID 39960921) |\n| Rajeunissement et autres indications (synthèse) | Même méta-analyse : rajeunissement, herpès, psoriasis avec des résultats cohérents (LED jaunes et proche infrarouge) ; plaies et dermatite atopique hétérogènes (I² 85 % et 90 %) | [A, faible certitude] (PMID 36310510) |\n| Alopécie androgénétique | Photobiomodulation : preuve de densité capillaire avec certitude modérée dans une revue parapluie (SMD 1,32 ; 1,00-1,63) ; voir [laser et LED basse intensité](fiche:laser-basse-intensite) | [A, certitude modérée] (PMID 40770824) |\n| Consensus d'experts (21 experts, Delphi) | PBM sûre chez l'adulte, la lumière rouge n'induit pas de dommage de l'ADN ; efficace pour la neuropathie périphérique, l'alopécie androgénétique, les ulcères, la douleur du pied diabétique, la radiodermite aiguë | [B, consensus] (PMID 40253006) |\n| Durabilité des effets sur la peau | Non rapportée dans les sources lues | [?] |",
+   "titre": "Preuves (efficacité, durabilité) avec tags"
+  },
+  {
+   "markdown": "- Dans l'essai du masque 630/850 nm : appareil jugé efficace, bien toléré et indolore selon les auteurs (PMID 39960921) ; fréquence détaillée des effets indésirables non lue dans le résumé [?].\n- Consensus 2025 : pas de dommage de l'ADN avec la lumière rouge (PMID 40253006) [B]. Sécurité oculaire des masques, utilisation sur peau très foncée ou sous médicaments photosensibilisants (isotrétinoïne, doxycycline), durée de vie des appareils bon marché : non recherchées [?].",
+   "titre": "Complications et fréquences"
+  },
+  {
+   "markdown": "- Appareils de salon, de cabinet ou à domicile : statut de dispositif médical ou de produit cosmétique/de bien-être selon l'appareil, marquage CE, allégations autorisées : non consultés (ANSM, DGCCRF) [?]. Fiabilité des puissances annoncées (par exemple « mW/cm² » des masques grand public) : aucune vérification indépendante trouvée [?].",
+   "titre": "Qui peut le pratiquer en France (réglementation)"
+  },
+  {
+   "markdown": "Prix de séance en cabinet et d'appareils à domicile : non relevés [?]. Durabilité : aucun suivi à long terme trouvé [?].",
+   "titre": "Coût et durabilité"
+  },
+  {
+   "markdown": "- Acné : rétinoïdes topiques (voir [rétinoïdes](fiche:retinoides), [adapalène](fiche:differine-adapalene-0-1)), peroxyde de benzoyle, [acide azélaïque](fiche:acide-azelaique) ; ils ont des essais plus nombreux.\n- Rides : [protection solaire](fiche:protection-solaire) quotidienne, rétinoïdes (preuve la mieux établie), [vitamine C](fiche:vitamine-c), niacinamide ; actes avec preuves, voir [microneedling](fiche:microneedling), [lasers fractionnés](fiche:lasers-fractionnes), [peelings](fiche:peelings), [toxine botulique](fiche:toxine-botulique).\n- Alopécie : [minoxidil](fiche:minoxidil), [finastéride](fiche:finasteride).",
+   "titre": "Alternatives moins invasives"
+  },
+  {
+   "markdown": "- Appareil sans marquage CE ni notice de puissance, promesses de « collagène x3 » ou de « remplacement du botox », études citées uniquement par la marque.\n- Utiliser un appareil à domicile sans avis médical en cas de lésion pigmentée suspecte, d'antécédent de cancer cutané ou de photosensibilité : à faire examiner par un dermatologue [?].",
+   "titre": "Signaux d'alerte (praticien, tourisme médical, produits)"
+  },
+  {
+   "markdown": "1. Ngoc LTN et al. *Photodermatol Photoimmunol Photomed* 2023 — PMID 36310510 — [DOI](https://doi.org/10.1111/phpp.12841)\n2. Diogo MLG et al. *Sensors (Basel)* 2021 — PMID 34696155 — [DOI](https://doi.org/10.3390/s21206943)\n3. Park SH et al. *Medicine (Baltimore)* 2025 — PMID 39960921 — [DOI](https://doi.org/10.1097/MD.0000000000041596)\n4. Son Y et al. *Syst Rev* 2025 — PMID 40770824 — [DOI](https://doi.org/10.1186/s13643-025-02902-3)\n5. Maghfour J et al. *J Am Acad Dermatol* 2025 — PMID 40253006 — [DOI](https://doi.org/10.1016/j.jaad.2025.04.031)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "dispositif_medical",
+ "titre": "LED et photobiomodulation pour la peau (masques LED, lumière rouge, lumière bleue)",
+ "type": "acte",
+ "unite": ""
+}

@@ -1,0 +1,75 @@
+{
+ "cibles": [
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "medicament",
+ "id": "rapamycine",
+ "intro": "",
+ "liens": [
+  "bilans-biologiques"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "19587680",
+  "40188830",
+  "36342748",
+  "41863332",
+  "40971115",
+  "39873920"
+ ],
+ "preuve_globale": "B",
+ "resume": "Médicament immunosuppresseur sur ordonnance ; l'usage « longévité » chez le sujet sain est hors AMM.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Médicament immunosuppresseur sur ordonnance ; l'usage « longévité » chez le sujet sain est hors AMM.\n- Souris : l'un des rares composés à allonger la durée de vie, dans des souris génétiquement hétérogènes, même débuté tard [C] (PMID 19587680).\n- Humain sain : un essai randomisé de 48 semaines (PEARL) conclut à une sécurité acceptable à faible dose intermittente, sans effet sur le critère principal (graisse viscérale) [B, ECR unique] (PMID 40188830). Aucun essai ne montre d'allongement de la vie ou de réduction des maladies liées à l'âge [?].\n- L'essai PEARL est financé et mené par une société qui vend des prescriptions de rapamycine pour la longévité (AgelessRx) : conflit d'intérêts à garder en tête.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Inhibition de mTOR (complexe mTORC1 surtout), voie de croissance/nutriments, liée à l'autophagie et à la sénescence dans les modèles animaux. Les effets chez la souris dépendent du sexe et de l'organe (PMID 36342748, PMID 41863332).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Niveau | Donnée |\n|---|---|---|\n| Durée de vie (souris hétérogènes) | [C] | Début à 600 jours : âge au 90e centile de mortalité +14 % (femelles), +9 % (mâles) (PMID 19587680). |\n| Fonction motrice, performance physique (souris) | [C] | Effet protecteur surtout chez la femelle (PMID 41863332) ; amélioration endurance et structure cardiaque selon début précoce ou tardif (PMID 36342748). |\n| Sécurité et marqueurs, sujet sain 48 semaines | [B, ECR unique] | Événements indésirables similaires entre groupes ; masse maigre et douleur améliorées chez les femmes du bras le plus dosé, critère principal nul. Effectif non repris du résumé (PMID 40188830). |\n| Fonction cardiaque/endothéliale, hommes âgés | [B, pilote ouvert n=6] | Amélioration sur IRM cardiaque après 8 semaines ; pas de placebo (PMID 40971115). |\n| Longévité / maladies liées à l'âge chez l'humain | [?] | Aucun essai trouvé. |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Les produits « longévité » sont souvent préparés en pharmacie (préparations magistrales) ; une étude observationnelle de la même société rapporte une biodisponibilité plus faible et très variable d'une personne à l'autre selon la formulation (PMID 39873920) [B]. Aucune dose n'est indiquée ici : à décider avec un médecin seulement.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Sirolimus : médicament sur ordonnance dans le cadre de la transplantation ; autres indications à vérifier en BDPM (non consulté pour cette fiche).\n- Usage longévité : hors AMM ; pas de recommandation officielle [?].\n- AMA/WADA  : liste 2026 inaccessible (wada-ama.org, page et PDF, tentatives 2026-10-06) ; statut non vérifié, à contrôler avant toute compétition [?].\n- Circuits de vente en ligne ou « peptides » : risque de produit non conforme.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Effets connus de l'immunosuppresseur (infections, ulcères buccaux, troubles des lipides et de la glycémie, retard de cicatrisation, protéinurie) : à confirmer dans le RCP/BDPM ; non vérifié ici, d'après les données des transplantés, pas des sujets sains.\n- Interactions importantes avec les inhibiteurs ou inducteurs du CYP3A4/P-gp : non vérifié ici.\n- Vaccins vivants et grossesse : à discuter avec un médecin ; données non vérifiées ici.\n- Chez le sujet sain, les risques à long terme sont inconnus [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « La rapamycine allonge la vie humaine » : seulement chez la souris [C] ; aucune donnée de longévité humaine [?].\n- « Doses faibles = sans risque » : un ECR de 48 semaines ne couvre pas les risques à plusieurs années ; le promoteur est commercial.\n- Les résultats positifs secondaires (douleur, masse maigre) viennent d'analyses de sous-groupes d'un essai à critère principal négatif.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Si l'objectif est la prévention : bilan cardiovasculaire et métabolique (voir [bilans biologiques](fiche:bilans-biologiques)). Alternatives autorisées mieux prouvées : exercice, alimentation, sommeil, arrêt du tabac. Participation à un essai clinique encadré plutôt qu'automédication.",
+   "titre": "Ce qu'un médecin pourrait évaluer"
+  },
+  {
+   "markdown": "Aucune fiche produit.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 19587680 — Harrison DE et al., *Nature* 2009. doi:10.1038/nature08221\n- PMID 40188830 — Moel M et al., *Aging (Albany NY)* 2025 (PEARL). doi:10.18632/aging.206235\n- PMID 40971115 — Moody AJ et al., *GeroScience* 2025. doi:10.1007/s11357-025-01855-8\n- PMID 39873920 — Harinath G et al., *GeroScience* 2025. doi:10.1007/s11357-025-01532-w\n- PMID 41863332 — Singh R et al., *J Gerontol A* (souris UM-HET3).\n- PMID 36342748 — Herrera JJ et al., *J Gerontol A* (acarbose/rapamycine, souris).\n- Statut réglementaire (BDPM, ANSM, liste AMA) : non consultés.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "hors_amm",
+ "titre": "Rapamycine (sirolimus)",
+ "type": "actif",
+ "unite": ""
+}

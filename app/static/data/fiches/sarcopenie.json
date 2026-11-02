@@ -1,0 +1,100 @@
+{
+ "cibles": [
+  "muscle-os",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-07",
+ "famille": "",
+ "id": "sarcopenie",
+ "intro": "",
+ "liens": [
+  "biomarqueur-poids-imc-tour-de-taille",
+  "creatine",
+  "creatine-creapure-nutrimuscle",
+  "creatine-monohydrate-decathlon",
+  "entrainement-de-puissance-et-vitesse",
+  "entrainement-en-resistance",
+  "epitalon",
+  "equilibre-mobilite-et-prevention-chutes",
+  "exercices-polyarticulaires",
+  "osteoporose-et-densite-osseuse",
+  "proteine-pois-isolat-bulk",
+  "proteines",
+  "semaglutide-et-glp1",
+  "systeme-nerveux-et-vieillissement-musculaire",
+  "vitamine-d",
+  "whey-native-nutrimuscle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 15,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "30312372",
+  "34816624",
+  "34315158",
+  "37057640",
+  "30498820",
+  "33074327",
+  "38520141",
+  "27891296",
+  "37596923",
+  "35183490",
+  "39955964",
+  "30982854",
+  "32483625",
+  "37494893",
+  "34229269"
+ ],
+ "preuve_globale": "A",
+ "resume": "Maladie du muscle définie d'abord par une force basse (préhension < 27 kg chez l'homme, < 16 kg chez la femme, ou 5 levers de chaise > 15 s), confirmée par une masse musculaire basse (EWGSOP2, PMID 30312372). Elle touche 10 à 27 % des plus de 60 ans selon la définition [B, méta-analyse d'études t…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Maladie du muscle définie d'abord par une **force basse** (préhension < 27 kg chez l'homme, < 16 kg chez la femme, ou 5 levers de chaise > 15 s), confirmée par une masse musculaire basse (EWGSOP2, PMID 30312372). Elle touche 10 à 27 % des plus de 60 ans selon la définition [B, méta-analyse d'études transversales] (PMID 34816624).\n- Elle est associée à un **doublement de la mortalité** (HR 2,00) [B, méta-analyse de cohortes] (PMID 34315158).\n- Traitement de référence : **musculation**, seule ou combinée à l'équilibre, à l'aérobie et à un apport protéique (42 ECR) [A] (PMID 37057640). C'est la seule recommandation « forte » des recommandations internationales (PMID 30498820).\n- Protéines, créatine et HMB n'ajoutent qu'un petit effet à l'entraînement, avec des preuves de faible qualité [A, faible certitude]. Aucun médicament n'est autorisé pour la sarcopénie ; le bimagrumab augmente la masse maigre sans améliorer la fonction [B] (PMID 33074327).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Avec l'âge, la force baisse 2 à 5 fois plus vite que la masse : la perte d'unités motrices et une réinnervation insuffisante y contribuent (voir [système nerveux et vieillissement musculaire](fiche:systeme-nerveux-et-vieillissement-musculaire)) [B].\n- C'est pour cette raison qu'EWGSOP2 a fait de la **force** le critère d'entrée, et non plus la masse : la masse sert à confirmer, la performance (vitesse de marche ≤ 0,8 m/s) mesure la sévérité (PMID 30312372, tableau des seuils lu dans le texte intégral).\n- La définition mondiale GLIS (2024, consensus Delphi de 107 experts de 29 pays) retient trois composantes : la masse, la force et la force rapportée à la masse (« force spécifique ») (PMID 38520141). Les seuils opérationnels GLIS ne figurent pas dans ce résumé [?].\n- Facteurs proposés : sédentarité, apport protéique bas, inflammation chronique, maladies chroniques, baisse des hormones anaboliques. Leur poids respectif chez l'humain n'est pas chiffré par les références lues ici [?].\n- La sarcopénie a un code de maladie depuis 2016 (CIM-10-CM M62.84, classification américaine) (PMID 27891296).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Étape | Mesure | Homme | Femme |\n|---|---|---|---|\n| Dépistage | Questionnaire SARC-F | — | — |\n| Force basse (sarcopénie probable) | Force de préhension | < 27 kg | < 16 kg |\n| | 5 levers de chaise | > 15 s | > 15 s |\n| Masse basse (confirmation) | Masse maigre appendiculaire (DXA) | < 20 kg | < 15 kg |\n| | Masse appendiculaire / taille² | < 7,0 kg/m² | < 5,5 kg/m² |\n| Performance basse (sévérité) | Vitesse de marche | ≤ 0,8 m/s | ≤ 0,8 m/s |\n\nDépistage : le SARC-F a une bonne spécificité (87 %) mais rate de nombreux cas ; l'outil MSRA est plus sensible (82 %) [A, méta-analyse diagnostique de 42 études] (PMID 37596923). Un SARC-F normal n'exclut donc pas une sarcopénie.",
+   "titre": "Seuils diagnostiques EWGSOP2 (texte intégral, PMID 30312372)"
+  },
+  {
+   "markdown": "| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Musculation, seule ou combinée à l'équilibre et à l'aérobie | stimulus mécanique, recrutement des unités motrices | Méta-analyse en réseau de 42 ECR (3 728 sarcopéniques, âge médian 72,9 ans, suivi médian 12 semaines) : la résistance, avec ou sans nutrition, et la combinaison résistance + aérobie + équilibre sont les plus efficaces sur la qualité de vie (SMD 0,68 à 1,11, certitude élevée à modérée). Résistance + équilibre + nutrition : préhension +4,19 kg, sous la différence cliniquement importante de 5 kg ; vitesse de marche +0,16 m/s [A] (PMID 37057640). Autre réseau (59 ECR) : l'exercice mixte arrive en tête pour la masse (SUCRA 94 %), mais la plupart des études sont à haut risque de biais [A, risque de biais élevé] (PMID 35183490) | non_applicable | 0 € à domicile ; salle : non relevé |\n| Protéines ajoutées à l'exercice | apport en acides aminés, leucine | 13 ECR (n = 1 057, ≥ 65 ans, sarcopénie ou fragilité) : vs exercice seul, index de masse musculaire +0,89 kg/m² et préhension +2,64 kg ; protéines seules : petit effet sur la force, peu sur la performance ; qualité des preuves **très faible** [A, très faible certitude] (PMID 39955964). Voir [protéines](fiche:proteines) | complément alimentaire / aliment | 9-36 € selon le produit ([pois](fiche:proteine-pois-isolat-bulk), [whey](fiche:whey-native-nutrimuscle), prix relevés en 2026-10) |\n| Créatine ajoutée à la musculation | réserves de phosphocréatine, volume d'entraînement | Adulte âgé : +1,4 kg de masse maigre et petit gain de force vs musculation seule ; sans entraînement, peu ou pas d'effet [A] (voir [créatine](fiche:creatine)) | complément alimentaire | 2-10 € ([Decathlon](fiche:creatine-monohydrate-decathlon), [Creapure](fiche:creatine-creapure-nutrimuscle)) |\n| HMB (β-hydroxy-β-méthylbutyrate) | métabolite de la leucine | 15 ECR (2 137 patients, divers contextes cliniques) : force SMD 0,31, masse SMD 0,25 (limite de la significativité, p = 0,05) ; petits effets [A, populations hétérogènes, non spécifique de la sarcopénie] (PMID 30982854) | complément alimentaire (statut non vérifié) | non relevé |\n| Leucine seule | signal mTOR | seul supplément à effet sur la masse chez l'âgé sarcopénique dans une revue de revues [A, faible certitude] (PMID 32483625, voir [protéines](fiche:proteines)) | complément alimentaire | non relevé |\n| Vitamine D | — | pas de recommandation possible faute de preuves (PMID 30498820) ; chez l'adulte non carencé, ni chutes ni fractures évitées [A] (voir [vitamine D](fiche:vitamine-d)) | complément ou médicament | voir fiche |\n| Testostérone (homme âgé à testostérone basse) | hormone anabolisante | 13 ECR (n = 2 043) : force g = 0,21 (0,15-0,28), plus marquée en intramusculaire et quand la testostérone de départ est basse ; pas d'excès d'événements prostatiques ou coronariens détecté dans ces essais [A] (PMID 37494893). Les recommandations internationales ne la recommandent pas pour la sarcopénie (PMID 30498820) | médicament sur ordonnance (indication hypogonadisme ; BDPM non consultée pour cette fiche) | non relevé |\n| Bimagrumab (anticorps anti-récepteur de l'activine) | lève le frein de la myostatine | ECR de 6 mois, 180 sarcopéniques de 70 ans et plus : masse maigre +7 % vs +1 %, mais **SPPB, marche de 6 min et vitesse de marche non différentes** du placebo (régime + exercice à domicile dans les deux bras) [B, ECR unique n=180] (PMID 33074327) | non autorisé (aucune AMM connue ; base EMA non consultée) | — |\n\nLecture : prendre de la masse ne suffit pas à mieux fonctionner (bimagrumab), et le gain des protéines sur la préhension reste sous le seuil cliniquement important de 5 kg utilisé par la méta-analyse en réseau (PMID 37057640).",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Repères tirés des fiches existantes, sans posologie médicamenteuse :\n- **Débutant** : 2 séances de renforcement par semaine sur les grands groupes musculaires, plus des exercices d'équilibre ; voir [entraînement en résistance](fiche:entrainement-en-resistance), [exercices polyarticulaires](fiche:exercices-polyarticulaires) et [équilibre et prévention des chutes](fiche:equilibre-mobilite-et-prevention-chutes).\n- **Intermédiaire** : apport protéique suffisant à chaque repas (repères chiffrés dans la fiche [protéines](fiche:proteines), issus d'avis d'experts [?]) ; créatine si l'entraînement est régulier.\n- **Avancé** : progression des charges, travail de puissance et de vitesse (voir [entraînement de puissance et vitesse](fiche:entrainement-de-puissance-et-vitesse)) ; suivi par la force de préhension et le test de lever de chaise.\n- Un kinésithérapeute ou un enseignant en activité physique adaptée (APA) peut encadrer un programme ; l'APA peut être prescrite par un médecin en France (règle de prescription non relue pour cette fiche [?]).",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Se fier au poids ou à l'IMC : la sarcopénie existe chez les personnes en surpoids. L'obésité sarcopénique touche environ 11 % des plus de 65 ans, 23 % des 75 ans et plus [B, méta-analyse de 50 études] (PMID 34229269).\n- Juger sur la masse (impédancemétrie grand public) plutôt que sur la force : EWGSOP2 part de la force (PMID 30312372).\n- Prendre des protéines ou de la créatine sans s'entraîner : effet faible ou nul (voir les fiches).\n- Perdre du poids rapidement (régime, médicament GLP-1) sans musculation ni apport protéique : une part de la perte est du muscle (voir [sémaglutide et GLP-1](fiche:semaglutide-et-glp1)).\n- Rassuré par un SARC-F normal : sa sensibilité est faible (PMID 37596923).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Ce complément anti-sarcopénie redonne du muscle »** : aucun complément n'a d'effet démontré sans entraînement ; les gains combinés sont petits et de qualité très faible (PMID 39955964) [A, très faible certitude].\n- **« La perte de muscle est normale avec l'âge, on n'y peut rien »** : la musculation améliore force, fonction et qualité de vie même chez les sarcopéniques de 70 ans et plus (PMID 37057640) [A].\n- **« Plus de masse = plus de fonction »** : le bimagrumab augmente la masse maigre de 6 % sans gain fonctionnel (PMID 33074327) [B].\n- **« Les inhibiteurs de myostatine du marché gris (follistatine, etc.) »** : les produits analysés ne contiennent souvent pas la molécule annoncée (voir [épitalon](fiche:epitalon), section qualité du marché gris) ; aucune donnée d'efficacité humaine pour ces produits [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Selon la définition EWGSOP2, les hommes sont plus souvent sarcopéniques que les femmes (11 % vs 2 %), alors que la définition IWGS donne l'inverse (17 % vs 12 %) : la prévalence dépend surtout de la définition choisie (PMID 34816624) [B].\n- L'association avec la mortalité (HR 2,00) se retrouve quelle que soit la population, la définition ou la durée du suivi (PMID 34315158) [B, association].",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Préhension faible, lever de chaise difficile, chutes, perte de poids involontaire, vitesse de marche lente : bilan en médecine générale ou en gériatrie (recherche d'une dénutrition, d'une maladie chronique, d'un médicament en cause).\n- Avant un programme de musculation en cas de maladie cardiovasculaire, d'[ostéoporose](fiche:osteoporose-et-densite-osseuse) fracturaire ou de douleurs articulaires importantes.\n- Avant toute testostérone : bilan hormonal et prostatique, indication médicale uniquement.\n\nFiches « examen » liées : [poids, IMC, tour de taille](fiche:biomarqueur-poids-imc-tour-de-taille)",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 30312372 — Cruz-Jentoft AJ et al., EWGSOP2, *Age Ageing* 2019. doi:10.1093/ageing/afy169 (résumé et tableau des seuils du texte intégral relus).\n- PMID 38520141 — Kirk B et al., GLIS, *Age Ageing* 2024. doi:10.1093/ageing/afae052 (résumé relu).\n- PMID 34816624 — Petermann-Rocha F et al., *J Cachexia Sarcopenia Muscle* 2022. doi:10.1002/jcsm.12783 (résumé relu).\n- PMID 34315158 — Xu J et al., *Gerontology* 2022. doi:10.1159/000517099 (résumé relu).\n- PMID 37057640 — Shen Y et al., *J Cachexia Sarcopenia Muscle* 2023. doi:10.1002/jcsm.13225 (résumé relu).\n- PMID 35183490 — Negm AM et al., *J Am Med Dir Assoc* 2022. doi:10.1016/j.jamda.2022.01.057 (résumé relu).\n- PMID 39955964 — Yoshimura Y et al., *Arch Gerontol Geriatr* 2025. doi:10.1016/j.archger.2025.105783 (résumé relu).\n- PMID 30982854 — Bear DE et al., HMB, *Am J Clin Nutr* 2019. doi:10.1093/ajcn/nqy373 (résumé relu).\n- PMID 37596923 — Huang L et al., outils de dépistage, *Age Ageing* 2023. doi:10.1093/ageing/afad152 (résumé relu).\n- PMID 30498820 — Dent E et al., recommandations ICFSR, *J Nutr Health Aging* 2018. doi:10.1007/s12603-018-1139-9 (résumé relu).\n- PMID 37494893 — Lee TW et al., testostérone, *Gerontology* 2023. doi:10.1159/000532062 (résumé relu).\n- PMID 33074327 — Rooks D et al., bimagrumab, *JAMA Netw Open* 2020. doi:10.1001/jamanetworkopen.2020.20836 (résumé relu).\n- PMID 27891296 — Anker SD et al., code CIM-10, *J Cachexia Sarcopenia Muscle* 2016 (résumé relu).\n- PMID 34229269 — Gao Q et al., obésité sarcopénique, *Clin Nutr* 2021. doi:10.1016/j.clnu.2021.06.009 (résumé relu).\n- PMID 32483625 : repris de la fiche [protéines](fiche:proteines), non relu à nouveau.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Sarcopénie",
+ "type": "condition",
+ "unite": ""
+}

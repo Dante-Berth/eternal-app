@@ -1,0 +1,82 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "comportement",
+ "id": "sommeil-recuperation-et-croissance-musculaire",
+ "intro": "Angle muscle uniquement : [sommeil.md](fiche:sommeil) traite la durée et la mortalité, l'insomnie, les sportifs et la performance (sans la masse musculaire) ; [récupération musculaire](fiche:recuperation-musculaire) traite les courbatures et les marqueurs de dommage, et note que le sommeil n'y est « pas étudié ». Ici : ce qu'un manque de sommeil change à la synthèse protéique, à la force et à l'hypertrophie, et ce que le sommeil ne fait pas. Les preuves humaines directes sur la **prise de muscle** sont minces : pas d'ECR trouvé qui allonge le sommeil pour mesurer l'hypertrophie [?].",
+ "liens": [
+  "entrainement-en-resistance",
+  "hypertrophie-volume-frequence-et-proximite-de-lechec",
+  "prise-de-masse-surplus-calorique-et-recomposition",
+  "proteines",
+  "recuperation-musculaire",
+  "recuperation-quotidien",
+  "sarcopenie",
+  "sommeil"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "32078168",
+  "29422383",
+  "38766755",
+  "42099260",
+  "30247714",
+  "26513007"
+ ],
+ "preuve_globale": "B",
+ "resume": "Synthèse protéique : 5 nuits à 4 h de sommeil abaissent la synthèse des protéines myofibrillaires (1,24 %/j vs 1,53 %/j avec 8 h) chez 24 jeunes hommes ; trois séances de HIIT pendant la restriction l'ont maintenue à 1,61 %/j [B, ECR n=24, 5 nuits] (PMID 32078168).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Synthèse protéique** : 5 nuits à 4 h de sommeil abaissent la synthèse des protéines myofibrillaires (1,24 %/j vs 1,53 %/j avec 8 h) chez 24 jeunes hommes ; trois séances de HIIT pendant la restriction l'ont maintenue à 1,61 %/j [B, ECR n=24, 5 nuits] (PMID 32078168).\n- **Force** : la privation totale de sommeil change peu la force maximale ; des nuits consécutives de sommeil restreint réduisent la force sur mouvements polyarticulaires, pas monoarticulaires (17 études de qualité « moyenne ou faible ») [B, revue systématique] (PMID 29422383).\n- **Réponse à l'entraînement** : 9 nuits à 5 h modifient la réponse transcriptomique du muscle à 4 séances de musculation chez 10 jeunes femmes entraînées (39 % des gènes régulés à la baisse en commun avec le sommeil normal) [B, ECR croisé n=10, mécanisme, pas de mesure d'hypertrophie] (PMID 38766755).\n- **Gain de muscle sur le long terme** : l'effet d'un sommeil court prolongé sur l'hypertrophie après des semaines ou mois d'entraînement : non trouvé [?].\n- **Durée recommandée** : 7 à 9 h/nuit dans une revue narrative sur l'hypertrophie, avec preuves « B/C » selon les auteurs [B, avis de revue] (PMID 42099260).\n- **Protéines avant le coucher** : n'augmentent pas les gains de masse et de force chez l'homme âgé actif (41 hommes, 12 semaines) [B, ECR n=41] (PMID 30247714).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Hypothèse issue des études : un manque de sommeil réduit la synthèse protéique musculaire. La baisse mesurée est de 1,24 vs 1,53 %/j sur 5 nuits, mais les régulateurs moléculaires mesurés (p-AKT, p-mTOR, Foxo1/3, LC3) n'ont pas changé : le mécanisme n'est donc pas expliqué par cette étude [B] (PMID 32078168). Chez le rat, 96 h de privation de sommeil provoquent une atrophie musculaire avec corticostérone plus haute et IGF-1 et testostérone plus basses ; un entraînement de force préalable atténue cette perte [C, animal] (PMID 26513007). Chez l'humain, ces hormones n'ont pas de résultat cohérent dans la revue systématique (« résultats contradictoires ») [B] (PMID 29422383).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Tag |\n|---|---|---|\n| Synthèse protéique myofibrillaire | 5 nuits à 4 h : 1,24 ± 0,21 %/j vs 1,53 ± 0,09 (sommeil normal) vs 1,61 ± 0,14 (sommeil restreint + HIIT) ; 24 hommes (PMID 32078168) | [B, ECR n=24] |\n| Force maximale | privation totale : effet faible ; restriction sur nuits consécutives : baisse de la force des mouvements polyarticulaires ; rien sur les monoarticulaires (17 études, qualité moyenne à faible) (PMID 29422383) | [B, revue systématique] |\n| Réponse du muscle à la musculation | 9 nuits à 5 h vs ≥ 7 h : transcriptome de repos inchangé, mais interaction avec l'exercice (≈ 3000 transcrits régulés 48 h après, 39 % des gènes régulés à la baisse et 18 % à la hausse communs aux deux conditions) ; 10 jeunes femmes (PMID 38766755) | [B, n=10, mécanisme] |\n| Hypertrophie après semaines de sommeil restreint | non trouvé [?] | [?] |\n| Allonger le sommeil pour grossir | aucun ECR trouvé [?] | [?] |\n| Siestes, qualité du sommeil, apnée et masse maigre | non recherché de façon vérifiée [?] | [?] |\n| Durée de sommeil et sarcopénie en population | non recherché de façon vérifiée [?] ; voir [sarcopénie](fiche:sarcopenie) | [?] |\n| Protéines avant le coucher | muscle des cuisses, 1RM et fibres de type II : mêmes gains avec protéines (21 g) ou placebo énergétiquement équivalent ; 41 hommes de 70 ans (PMID 30247714) | [B, ECR n=41] |\n| Recommandation de durée | 7-9 h/nuit pour l'adaptation, preuves de niveau « B/C » selon la revue, plus d'ECR sur critères d'hypertrophie nécessaires (PMID 42099260) | [B, revue narrative] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Cinq nuits de sommeil très court ont déjà un effet mesurable sur la synthèse protéique : un sommeil chroniquement court est un mauvais environnement pour grossir [B]. Le chiffre de perte de muscle réel sur plusieurs mois n'est pas disponible [?].\n- Un manque de sommeil peut abaisser la force sur squat ou développé, donc la qualité de séance [B] (PMID 29422383) ; la caféine et l'entraînement en groupe sont cités par les auteurs comme palliatifs de motivation, sans mesure d'hypertrophie [?].\n- Pour la durée optimale chez le sportif, voir [sommeil.md](fiche:sommeil) (cohortes de mortalité) et [récupération au quotidien](fiche:recuperation-quotidien).",
+   "titre": "Ce que cela donne, sans extrapoler"
+  },
+  {
+   "markdown": "- **« Il faut une dose de protéines (caséine) juste avant de dormir pour que le muscle pousse »** : l'ECR sur 21 g de protéines après l'entraînement et avant le coucher ne trouve aucun gain supplémentaire de masse ni de force chez l'homme âgé actif [B, ECR n=41] (PMID 30247714). Chez les jeunes ou à un autre apport, non évalué ici [?].\n- **« L'hormone de croissance nocturne fait le muscle »** : aucune donnée trouvée liant une hormone nocturne à la croissance musculaire chez l'humain ; les mesures hormonales de la revue sont contradictoires [B] (PMID 29422383).\n- **« Avec du HIIT ou de la caféine, plus besoin de dormir »** : le HIIT maintient la synthèse protéique sur 5 nuits dans une étude de 24 hommes, sans mesure de masse musculaire [B] (PMID 32078168) ; la caféine compense une partie de la vigilance (voir [sommeil.md](fiche:sommeil)), pas la synthèse protéique, non mesurée [?].\n- **« Un complément de récupération (ZMA, magnésium, mélatonine) fait gagner du muscle »** : pas d'étude sur l'hypertrophie dans cette recherche [?]. Voir [récupération au quotidien](fiche:recuperation-quotidien).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Non applicable (comportement).",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- Ronflements, pauses respiratoires, somnolence diurne : consulter (apnée). Insomnie chronique : voir [sommeil.md](fiche:sommeil).\n- Ne pas masquer un sommeil insuffisant par des hypnotiques ou des stimulants pour s'entraîner : interactions et risques dans [sommeil.md](fiche:sommeil).\n- Surentraînement, fatigue persistante, baisse de performance de plusieurs semaines : avis médical ; non quantifié ici [?].",
+   "titre": "Sécurité, contre-indications"
+  },
+  {
+   "markdown": "Aucun. Compléments associés à la récupération : [récupération au quotidien](fiche:recuperation-quotidien), [protéines](fiche:proteines).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "[Hypertrophie : volume et échec](fiche:hypertrophie-volume-frequence-et-proximite-de-lechec) · [Prise de masse, surplus calorique](fiche:prise-de-masse-surplus-calorique-et-recomposition) · [Entraînement en résistance](fiche:entrainement-en-resistance)",
+   "titre": "Voir aussi"
+  },
+  {
+   "markdown": "- PMID 32078168 — Saner N.J. et al., *J Physiol* 2020 (restriction de sommeil, HIIT, MyoPS). doi:10.1113/JP278828\n- PMID 29422383 — Knowles O.E. et al., *J Sci Med Sport* 2018 (sommeil insuffisant et force). doi:10.1016/j.jsams.2018.01.012\n- PMID 38766755 — Knowles O.E. et al., *Physiol Genomics* 2024 (sommeil restreint, musculation, transcriptome). doi:10.1152/physiolgenomics.00010.2024\n- PMID 26513007 — Mônico-Neto M. et al., *Appl Physiol Nutr Metab* 2015 (rat, privation de sommeil et musculation). doi:10.1139/apnm-2015-0061\n- PMID 30247714 — Holwerda A.M. et al., *J Nutr* 2018 (protéines avant le coucher, hommes âgés). doi:10.1093/jn/nxy169\n- PMID 42099260 — Vergara Nieto A.A. et al., *Sports Health* 2026 (revue narrative, hypertrophie). doi:10.1177/19417381261438760\n\nRéférences relues contre leur résumé PubMed le 2026-10-13.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Sommeil et croissance musculaire",
+ "type": "actif",
+ "unite": ""
+}

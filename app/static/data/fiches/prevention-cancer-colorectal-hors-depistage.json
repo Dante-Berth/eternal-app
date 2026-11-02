@@ -1,0 +1,82 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "prevention-cancer-colorectal-hors-depistage",
+ "intro": "Le dépistage (FIT, coloscopie) est traité dans [dépistage colorectal](fiche:depistage-cancer-colorectal), qui ne couvre pas aspirine, calcium, fibres ni viande.",
+ "liens": [
+  "alimentation",
+  "cancer-foie-carcinome-hepatocellulaire",
+  "depistage-cancer-colorectal",
+  "prevention-des-cancers",
+  "tabac-et-alcool",
+  "vitamine-d"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "41919561",
+  "27182169",
+  "22074852",
+  "33591366"
+ ],
+ "preuve_globale": "A",
+ "resume": "Aspirine : Cochrane 2026, 10 ECR, 124 837 participants : pas de différence d'incidence à 5-10 ans (HR 1,00, 0,81-1,24) ni à 10-15 ans (HR 0,95) [A, certitude modérée] ; réduction possible à ≥ 15 ans (HR 0,78, 0,67-0,91) mais certitude très faible ; hémorragie extracrânienne grave RR 1,59 (1,30-1,…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Aspirine : Cochrane 2026, 10 ECR, 124 837 participants : pas de différence d'incidence à 5-10 ans (HR 1,00, 0,81-1,24) ni à 10-15 ans (HR 0,95) [A, certitude modérée] ; réduction possible à ≥ 15 ans (HR 0,78, 0,67-0,91) mais certitude très faible ; hémorragie extracrânienne grave RR 1,59 (1,30-1,95) [A, certitude haute] (PMID 41919561). Pas un bon pari en prévention primaire.\n- Calcium : 4 ECR, 1 200-2 000 mg/j, récidive d'adénome RR 0,89 (0,82-0,96) (effets fixes), NNT 20 [A, haute qualité] ; sur la récidive, pas l'incidence de cancer (PMID 27182169).\n- Fibres : +10 g/j de fibres totales, RR 0,90 (0,86-0,94) ; 3 portions/j de céréales complètes RR 0,83 (0,78-0,89) [B, cohortes] (PMID 22074852).\n- Revue parapluie : preuve convaincante pour viande rouge (↑), alcool ≥ 4 verres/j (↑), fibres, calcium alimentaire, yaourt (↓) ; viande transformée seulement « suggestive » [B] (PMID 33591366).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Non développés [?].",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Levier | Résultat | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Aspirine faible dose | Voir TL;DR | [A, contradictoire selon l'horizon] | Médicament sans ordonnance/ordonnance selon dose : non consulté [?] | non recherché |\n| Calcium supplémenté | Récidive d'adénome | [A] (PMID 27182169) | Complément | non recherché |\n| Fibres, céréales complètes | Association | [B] (PMID 22074852) | Aliment | non applicable |\n| Réduire viande rouge, alcool | Association convaincante | [B] (PMID 33591366) | Non applicable | non applicable |\n| Yaourt, calcium alimentaire | Association inverse | [B] (PMID 33591366) | Aliment | non applicable |\n\nAspirine à plus haute dose et autres AINS : aucun ECR retrouvé sur les AINS non aspirine en population générale (PMID 41919561).",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Débutant : dépistage dès l'âge, fibres/céréales complètes, moins de viande rouge et d'alcool ([alimentation](fiche:alimentation), [tabac et alcool](fiche:tabac-et-alcool)).\n- Intermédiaire : apports calciques alimentaires ; [vitamine D](fiche:vitamine-d) et calcium en supplément : voir fiches (effet cancer non établi pour l'incidence).\n- Avancé : aspirine seulement si indication cardiovasculaire posée par un médecin ; non à visée anticancer pour le grand public.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "Prendre de l'aspirine « pour le côlon » : bénéfice incertain à long terme, risque hémorragique certain.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "« Les fibres en complément remplacent la coloscopie » : association observationnelle d'alimentation, jamais un substitut du dépistage.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- À 5-10 ans, un ECR retrouve même une surmortalité par cancer colorectal sous aspirine (HR 1,77, 1,02-3,07, 1 étude, certitude faible), puis une baisse à ≥ 15 ans : signal incohérent selon l'horizon (PMID 41919561).\n- Sur 109 associations alimentaires examinées, 74 (68 %) n'ont aucune preuve (PMID 33591366).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Voir [dépistage colorectal](fiche:depistage-cancer-colorectal).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "Aspirine, calcium : statuts BDPM/ANSES non consultés [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "[Dépistage colorectal](fiche:depistage-cancer-colorectal), [prévention des cancers](fiche:prevention-des-cancers), [foie](fiche:cancer-foie-carcinome-hepatocellulaire).",
+   "titre": "Voir aussi"
+  },
+  {
+   "markdown": "- PMID 41919561 — Cai Z et al., *Cochrane Database Syst Rev* 2026. doi:10.1002/14651858.CD015266.pub3\n- PMID 27182169 — Bonovas S et al., *World J Gastroenterol* 2016\n- PMID 22074852 — Aune D et al., *BMJ* 2011\n- PMID 33591366 — Veettil SK et al., *JAMA Netw Open* 2021. doi:10.1001/jamanetworkopen.2020.37341",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Prévention du cancer colorectal hors dépistage",
+ "type": "condition",
+ "unite": ""
+}

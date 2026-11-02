@@ -1,0 +1,68 @@
+{
+ "cibles": [
+  "hormones-sexualite"
+ ],
+ "derniere_maj": "2026-10-08",
+ "famille": "",
+ "id": "dysfonction-erectile",
+ "intro": "",
+ "liens": [
+  "tabac-et-alcool",
+  "tadalafil"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42557727",
+  "42296271"
+ ],
+ "preuve_globale": "A",
+ "resume": "Les inhibiteurs de la PDE5 (sildénafil, tadalafil, vardénafil, avanafil) sont le traitement de référence : 83 essais contre placebo, n=6029 [A] ; sildénafil 100 mg OR 9,06 vs placebo pour une fonction érectile satisfaisante (IIEF > 26), tadalafil 20 mg OR 7,13.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Les inhibiteurs de la PDE5 (sildénafil, tadalafil, vardénafil, avanafil) sont le traitement de référence : 83 essais contre placebo, n=6029 [A] ; sildénafil 100 mg OR 9,06 vs placebo pour une fonction érectile satisfaisante (IIEF > 26), tadalafil 20 mg OR 7,13.\n- Les ORs viennent d'une méta-analyse en réseau cosignée par des employés de Viatris (fabricant de génériques et de sildénafil) : le classement entre molécules est à lire avec prudence [A].\n- Après prostatectomie, le tadalafil seul marche moins bien que les associations, mais la certitude des preuves est faible à très faible [A, faible certitude].\n- Une dysfonction érectile peut précéder un événement cardiovasculaire : un bilan médical fait partie de la prise en charge [?] (non vérifié dans cette session).\n- Les « boosters naturels » : aucune preuve recherchée ici ; l'ANSM, la DGCCRF et les douanes ont alerté le 27 juillet 2021 sur des produits « aphrodisiaques » (miels, confitures) contenant du sildénafil ou du tadalafil non déclaré, avec convulsions, hémorragies pulmonaires et insuffisances rénales rapportées aux centres antipoison (ANSM, consulté le 2026-10-08).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Non extraits dans cette session [?]. Les PDE5i bloquent la dégradation du GMPc dans le corps caverneux ; sans désir ni stimulation, ils ne provoquent pas d'érection (connaissance générale, non sourcée ici).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Sildénafil | PDE5i | [A] OR 9,06 (100 mg), 7,90 (50 mg) | médicament sur ordonnance (liste I, BDPM) | non relevé |\n| [Tadalafil](fiche:tadalafil) | PDE5i, demi-vie longue | [A] OR 7,13 (20 mg), 3,14 (10 mg) ; le moins d'effets indésirables des 4 | médicament sur ordonnance (liste I, BDPM ; Cialis non remboursé d'après la BDPM) | non relevé |\n| Vardénafil | PDE5i | [A] OR 7,78 (10 mg) ; le plus d'effets indésirables | médicament sur ordonnance (liste I, BDPM) | non relevé |\n| Avanafil | PDE5i | [A] OR 3,42 (200 mg), 1,75 (100 mg) | médicament sur ordonnance (Spedra, liste I, BDPM) | non relevé |\n| Alprostadil intra-urétral, vacuum, ondes de choc | autres | [A, faible certitude] seulement associés au tadalafil après prostatectomie | alprostadil intracaverneux (Edex, Caverject) : liste I, remboursé 30 % ; crème Vitaros : prescription, remboursée 15 % (BDPM) ; vacuum et ondes de choc : non vérifié | non relevé |\n| Mode de vie (exercice, poids, tabac, alcool) | vasculaire | [?] non recherché | libre | 0 € |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Non rédigés. Les doses d'un médicament sur ordonnance relèvent du prescripteur.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Acheter en ligne hors pharmacie : seuls les médicaments sans prescription peuvent être vendus sur des sites de pharmacies autorisés ; l'ANSM met en garde contre les médicaments falsifiés et la présence récurrente d'impuretés ou de substances toxiques dans les produits achetés en ligne (ANSM, page mise à jour le 2025-09-19, consulté le 2026-10-08). Les PDE5i sont sur ordonnance (liste I, BDPM).\n- Ignorer les contre-indications : dérivés nitrés (toute forme) et riociguat sont contre-indiqués avec le tadalafil, doxazosine non recommandée (RCP européen Cialis, EMA, consulté le 2026-10-08) ; voir [la fiche tadalafil](fiche:tadalafil).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- Compléments « naturels » pour l'érection : aucune évaluation faite ici [?]. Fiches à écrire.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Après radiothérapie prostatique, le tadalafil à la demande donne OR 8,0 vs placebo [A, faible certitude] (PMID 42557727).\n- Le tadalafil a la plus faible probabilité d'effets indésirables des 4 PDE5i dans la NMA, intervalles larges [A] (PMID 42296271).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "D'emblée : l'origine est souvent vasculaire, hormonale, médicamenteuse ou psychologique, et un médecin la cherche. Urgence si érection douloureuse prolongée sous traitement (priapisme) [?].\n\nVoir aussi : [Tabac et alcool](fiche:tabac-et-alcool).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 42296271 — Salonia et al., J Sex Med 2026 (NMA, 83 essais, n=6029 ; auteurs dont des salariés Viatris).\n- PMID 42557727 — Eshetie et al., World J Mens Health 2026 (NMA, 41 études, n=4157, après traitement du cancer de la prostate).\n- BDPM (fichiers de téléchargement), https://base-donnees-publique.medicaments.gouv.fr/telechargement — consulté le 2026-10-08 : Cialis, génériques de tadalafil, génériques de sildénafil, vardénafil (Accord) et Spedra (avanafil) en liste I ; aucun taux de remboursement renseigné pour ces présentations orales ; Edex/Caverject remboursés 30 %, Vitaros 15 % (Caverject non commercialisé).\n- ANSM, alerte aphrodisiaques frauduleux (2021-07-27) : https://ansm.sante.fr/actualites/mise-en-garde-concernant-des-denrees-alimentaires-frauduleuses-aux-allegations-aphrodisiaques — consulté le 2026-10-08.\n- ANSM, vente de médicaments sur Internet : https://ansm.sante.fr/actualites/vente-de-medicament-sur-internet-hors-du-circuit-legal-attention-aux-falsifications — consulté le 2026-10-08.\n- EMA, RCP Cialis : https://www.ema.europa.eu/en/documents/product-information/cialis-epar-product-information_en.pdf — consulté le 2026-10-08.\n- Non vérifiés : RCP du sildénafil, vardénafil, avanafil ; statut AMA.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Dysfonction érectile",
+ "type": "condition",
+ "unite": ""
+}

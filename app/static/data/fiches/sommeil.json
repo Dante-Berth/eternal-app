@@ -1,0 +1,85 @@
+{
+ "cibles": [
+  "cerveau",
+  "sante-mentale",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "comportement",
+ "id": "sommeil",
+ "intro": "",
+ "liens": [
+  "anxiete",
+  "ashwagandha",
+  "bruit-rose-et-sons-pour-dormir",
+  "cafeine",
+  "declin-cognitif-et-neurodegenerescence",
+  "depression",
+  "glycemie-et-prediabete",
+  "insomnie",
+  "melatonine",
+  "mode-de-vie-et-cheveux",
+  "mode-de-vie-et-peau",
+  "musique-432-hz",
+  "recuperation-quotidien",
+  "stress-chronique-et-cortisol",
+  "tabac-et-alcool"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 16,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "37462808",
+  "41985272",
+  "28889101",
+  "26900147",
+  "42806363",
+  "42813493",
+  "41627391",
+  "41428471",
+  "42761483",
+  "41535530",
+  "42145807",
+  "32723316",
+  "30371228",
+  "40217556",
+  "42751933",
+  "42834920"
+ ],
+ "preuve_globale": "B",
+ "resume": "Sportifs : allonger la nuit et faire des siestes sont les interventions les plus efficaces pour le sommeil et la performance, dans une revue systématique de 25 études de qualité limitée [B] (PMID 37462808).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Sportifs** : allonger la nuit et faire des siestes sont les interventions les plus efficaces pour le sommeil et la performance, dans une revue systématique de 25 études de qualité limitée [B] (PMID 37462808).\n- **Cerveau** : les anomalies du sommeil (efficacité, REM, ondes lentes) s'aggravent le long du continuum Alzheimer ; c'est une **association** transversale, pas une preuve que mieux dormir ralentit la maladie [B] (PMID 41985272).\n- **Cheveux et peau** : sommeil perturbé plus fréquent en cas d'alopécie, et associé au vieillissement cutané visible ; associations, pas de causalité démontrée [B].\n- **Durée et mortalité** : relation en U avec un minimum de risque autour de 7 h/nuit ; 6 h et 8 h associés à un risque faiblement plus élevé, 9 h et plus nettement plus [B, méta-analyses de cohortes ; causalité inverse probable pour les longues durées] (PMID 28889101, 26900147).\n- **Insomnie chronique** : la TCC-I (thérapie cognitivo-comportementale de l'insomnie) est le traitement de première intention ; en ligne, elle réduit l'ISI de 4,2 points [A, certitude modérée] (PMID 42806363). Chez le senior, benzodiazépines et Z-drugs augmentent le risque de chute [A, faible certitude] (PMID 42813493).\n- **Sons pour dormir** : preuve faible pour le bruit rose ou blanc ; en laboratoire, le bruit rose a réduit le sommeil paradoxal et les bouchons d'oreille ont fait mieux [B] (PMID 41627391) ; voir [bruit rose et sons pour dormir](fiche:bruit-rose-et-sons-pour-dormir) et [musique à 432 Hz](fiche:musique-432-hz).\n- Aucun produit ne remplace le sommeil : la caféine ne fait que compenser en partie un déficit (voir [caféine](fiche:cafeine)).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Non revérifié (clairance glymphatique, hormones, inflammation) : non affirmé [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Cerveau et déclin cognitif\n- Sommeil et MCI/Alzheimer : [B] NMA comparant des groupes à différents stades, sans intervention (PMID 41985272). Les auteurs suggèrent que cibler le sommeil « pourrait » ralentir la progression : hypothèse non testée ici [?].\n- Dormir ≥ 8 h/nuit est associé à plus de MCI dans une cohorte rurale chinoise : pas une raison de dormir moins, la causalité inverse est plausible [B] (PMID 41428471).\n- Manque de sommeil : la caféine compense en partie (vigilance SMD 0,73 vs placebo) [A] (PMID 42761483).\n- Interventions sur le sommeil et incidence de la démence : [?] non trouvées.\n\nVoir [déclin cognitif](fiche:declin-cognitif-et-neurodegenerescence).\n\n### Récupération et performance sportive\n| Intervention | Preuve |\n|---|---|\n| Allonger la nuit, siestes | [B] les plus efficaces (PMID 37462808) |\n| Pleine conscience, manipulation de la lumière | [B] prometteurs, à confirmer (PMID 37462808) |\n| Hygiène du sommeil seule, retrait des écrans, immersion froide | [B] sans effet sur sommeil ou performance dans les rares études (PMID 37462808) |\n| Compléments (mélatonine, vitamine D, acides aminés) | [A, faible qualité] voir [récupération au quotidien](fiche:recuperation-quotidien) |\n| Durée optimale chez le sportif | [?] non extraite (voir mortalité générale ci-dessous) |\n\n### Cheveux\nRevue systématique de 29 études : sommeil perturbé plus fréquent dans l'alopécie areata, l'alopécie androgénétique et l'effluvium télogène ; qualité faible à modérée, études surtout transversales, relation probablement bidirectionnelle [B] (PMID 41535530). Voir [mode de vie et cheveux](fiche:mode-de-vie-et-cheveux).\n\n### Peau\nSommeil insuffisant et stress chronique altèrent la récupération de la barrière cutanée et l'expression de gènes liés au collagène, et sont associés à un vieillissement visible accéléré, selon une revue narrative [B] (PMID 42145807). Voir [mode de vie et peau](fiche:mode-de-vie-et-peau).\n\n### Durée du sommeil et mortalité (population générale)\n| Source | Résultat | Preuve |\n|---|---|---|\n| 35 articles (1,5 M de personnes pour le sommeil nocturne) | vs 7 h : 6 h RR 1,01 (1,00-1,02), 8 h 1,07 (1,06-1,09), 9 h 1,21 (1,18-1,24), 10 h 1,37 (1,32-1,42), 5 h 1,04 (1,01-1,07), 4 h 1,07 (1,03-1,13) (PMID 26900147) | [B, méta-analyse de cohortes] |\n| Cohortes prospectives, personnes en bonne santé | minimum vers 7 h ; RR 1,06 par heure en moins sous 7 h, 1,13 par heure en plus au-dessus (PMID 28889101) | [B] |\n| Personnes âgées | risque accru pour les longues durées surtout chez les femmes, pour les courtes durées chez les hommes seulement (PMID 32723316) | [B, hétérogénéité] |\n| Qualité subjective | mauvais sommeil associé à plus de maladie coronarienne (RR 1,44), pas à la mortalité (PMID 30371228) | [B] |\n| Activité physique × sommeil | forte activité physique + sommeil court : pas d'excès de mortalité (RR 1,05, 0,97-1,14) ; faible activité + sommeil court RR 1,42 (PMID 40217556) | [B] |\n\nLe sommeil est auto-déclaré dans ces cohortes ; une durée longue peut refléter une maladie sous-jacente. Ces chiffres ne disent pas qu'allonger son sommeil de 6 h à 8 h améliore la survie [?] : aucun essai randomisé trouvé.\n\n### Insomnie : traitements\n- Digital CBT-I vs contrôle, 96 ECR (18 419 pers.), méta-analyse en réseau : ISI −4,24 points (certitude modérée) ; latence d'endormissement −12,6 min, efficacité du sommeil +7,3 % (certitude faible) ; qualité des essais : 79 « réserves », 15 « risque élevé » ; plusieurs critères sous le seuil de pertinence clinique [A] (PMID 42806363).\n- Senior : TCC-I en présentiel, 14 ECR, amélioration cliniquement significative d'après les auteurs ; antagonistes de l'orexine (suvorexant, lemborexant, daridorexant) : latence subjective SMD −0,28 ; benzodiazépines et Z-drugs : risque de chute RR ~1,47, déclin cognitif [A, faible certitude, 22 études, forte hétérogénéité sur certaines mesures] (PMID 42813493).\n- Aide à l'arrêt des Z-drugs/benzodiazépines par TCC-I : pas de preuve de certitude élevée sur l'arrêt complet ; réduction de dose possible (3 petits essais) [A, faible certitude] (PMID 42751933).\n- Durée de la TCC-I, moments de la journée : non couverts [?]. Mélatonine : voir [melatonine.md](fiche:melatonine) (jet lag [A] ; insomnie : effet petit, environ 7 min d'endormissement gagnées, inférieur aux hypnotiques [A] ; retard de phase [B] ; « anti-âge » sans donnée humaine [?]).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Hygiène du sommeil, TCC de l'insomnie, mélatonine, hypnotiques : TCC-I documentée ci-dessus ; mélatonine : complément sous 2 mg/j, médicament sur ordonnance à 2 mg LP (voir [melatonine.md](fiche:melatonine)) ; autres hypnotiques non couverts [?]. Statut réglementaire des hypnotiques (liste I/II, ANSM) : non vérifié [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "Insomnie chronique, ronflements, apnées : consultation ; détail traitements, sécurité et apnée dans [insomnie chronique](fiche:insomnie). Apnée du sommeil et biomarqueurs d'Alzheimer : associations compartiment-dépendantes, certitude faible à très faible, hypothèse non conclusive [B] (PMID 42834920). Hypnotiques de type benzodiazépines/Z-drugs chez le senior : chutes et déclin cognitif [A, faible certitude] (PMID 42813493). Contre-indications et interactions de la mélatonine (populations déconseillées par l'ANSES, warfarine, épilepsie, glycémie) : voir [melatonine.md](fiche:melatonine).\n\nVoir aussi : [ashwagandha](fiche:ashwagandha).\n\nVoir aussi : [Glycémie et prédiabète](fiche:glycemie-et-prediabete) · [Tabac et alcool](fiche:tabac-et-alcool).\n\nÀ voir aussi : [Stress chronique et cortisol](fiche:stress-chronique-et-cortisol) · [Anxiété](fiche:anxiete) · [Dépression](fiche:depression).",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- PMID 37462808 — Cunha L.A. et al., *Sports Med Open* 2023 (interventions de sommeil chez l'athlète). doi:10.1186/s40798-023-00599-z\n- PMID 41985272 — Zhang et al., *Sleep Med Rev* 2026 (sommeil et stades de la maladie d'Alzheimer, NMA). doi:10.1016/j.smrv.2026.102289\n- PMID 41428471 — Tian et al., *J Alzheimers Dis* 2025 (MCI en zone rurale chinoise). doi:10.1177/13872877251405904\n- PMID 42761483 — Wang et al., *Front Nutr* 2026 (caféine et privation de sommeil). doi:10.3389/fnut.2026.1893033\n- PMID 41627391 — Basner et al., *Sleep* 2026 (bruit rose et bouchons d'oreille contre le bruit environnemental). doi:10.1093/sleep/zsag001\n- PMID 41535530 — Boghosian T. et al., *Dermatol Ther (Heidelb)* 2026 (sommeil et chute de cheveux). doi:10.1007/s13555-025-01641-6\n- PMID 42145807 — Nwaopara A., Woolery-Lloyd H., *Am J Lifestyle Med* 2026 (mode de vie et vieillissement cutané). doi:10.1177/15598276261450495\n- PMID 28889101 — Yin J. et al., *J Am Heart Assoc* 2017 (durée du sommeil, mortalité). doi:10.1161/JAHA.117.005947\n- PMID 26900147 — Shen X. et al., *Sci Rep* 2016 (sommeil nocturne et 24 h, mortalité). doi:10.1038/srep21480\n- PMID 32723316 — He M. et al., *BMC Public Health* 2020 (durée du sommeil, personnes âgées). doi:10.1186/s12889-020-09275-3\n- PMID 30371228 — Kwok C.S. et al., *J Am Heart Assoc* 2018 (durée et qualité). doi:10.1161/JAHA.118.008552\n- PMID 40217556 — Duncan M.J. et al., *J Act Sedentary Sleep Behav* 2023 (activité, sédentarité, sommeil). doi:10.1186/s44167-023-00026-4\n- PMID 42806363 — Tong et al., *BMC Med* 2026 (thérapies numériques, insomnie). doi:10.1186/s12916-026-05129-8\n- PMID 42813493 — Shalihin et al., *Med J Malaysia* 2026 (insomnie gériatrique) ; pas de DOI renvoyé par PubMed.\n- PMID 42751933 — Zhang et al., *J Int Med Res* 2026 (TCC-I et sevrage Z-drugs). doi:10.1177/03000605261487272\n- PMID 42834920 — Wang et al., *Front Neurol* 2026 (apnée du sommeil et biomarqueurs d'Alzheimer). doi:10.3389/fneur.2026.1817426",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Sommeil",
+ "type": "actif",
+ "unite": ""
+}

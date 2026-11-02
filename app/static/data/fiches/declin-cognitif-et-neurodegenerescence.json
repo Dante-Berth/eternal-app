@@ -1,0 +1,82 @@
+{
+ "cibles": [
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "",
+ "id": "declin-cognitif-et-neurodegenerescence",
+ "intro": "",
+ "liens": [
+  "alimentation-cerveau",
+  "audition-et-perte-auditive",
+  "cafeine",
+  "creatine",
+  "dents-et-parodontite",
+  "depression",
+  "exercice-physique",
+  "omega-3",
+  "protocole-debutant-cerveau",
+  "semaglutide-et-glp1",
+  "sommeil",
+  "tabac-et-alcool"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42137868",
+  "41016407",
+  "41428471",
+  "40355028",
+  "40049759",
+  "40747850"
+ ],
+ "preuve_globale": "A",
+ "resume": "Chez l'adulte âgé sans trouble cognitif, l'exercice seul, l'entraînement cognitif seul et leur combinaison améliorent modestement la cognition globale [A] (SMD 0,14 / 0,21 / 0,26).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Chez l'adulte âgé sans trouble cognitif, l'exercice seul, l'entraînement cognitif seul et leur combinaison améliorent modestement la cognition globale [A] (SMD 0,14 / 0,21 / 0,26).\n- Plus de « domaines » ≠ plus d'effet : la combinaison exercice + entraînement cognitif est la meilleure, pas l'intervention à 4 piliers [A].\n- Aucun effet démontré ici sur l'incidence de démence : ces essais mesurent des scores cognitifs, pas des diagnostics [?].\n- Aucun complément n'a de preuve solide pour « régénérer les neurones » chez l'humain [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Non revérifiés dans cette session (neurogenèse hippocampique adulte, réserve cognitive, BDNF) : je ne les affirme pas. Dans une NMA sur MCI, les suppléments n'ont pas modifié le BDNF de façon significative [A] (PMID 42137868) → le « booster de BDNF » est un argument marketing peu soutenu.",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| [Exercice](fiche:exercice-physique) | non extrait | [A] | libre | 0 € sans équipement |\n| Entraînement cognitif (stratégies) | non extrait | [A] global (NMA, PMID 41016407) | libre | 0 € |\n| [Alimentation (méditerranéen, cacao, multivitamine)](fiche:alimentation-cerveau) | non extrait | [B] patterns ; [A] cacao, multivitamine (effets petits) | libre | ? |\n| [Créatine](fiche:creatine) | énergétique cérébrale (supposé) | [A] faible/modérée (16 RCT, n=492) | complément | ? |\n| [Oméga-3](fiche:omega-3) | anti-inflammatoire (supposé) | [A] très modeste | complément / médicament selon forme | ? |\n| [Caféine](fiche:cafeine) | non extrait | [A] aigu, privation de sommeil | alimentaire | ? |\n| [Sommeil](fiche:sommeil) | — | [?] causalité non établie ici | — | 0 € |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Voir [protocole débutant](fiche:protocole-debutant-cerveau). Intermédiaire/avancé : non rédigés (données insuffisantes pour justifier une escalade).",
+   "titre": "Protocoles"
+  },
+  {
+   "markdown": "- Confondre association observationnelle (ex. sommeil ≥ 8 h associé au MCI en cohorte rurale chinoise, PMID 41428471) et causalité [B].\n- Se fier à un aliment « miracle » : voir [alimentation](fiche:alimentation-cerveau).\n- Empiler des compléments à la place de l'exercice, l'intervention la mieux étayée (avec l'entraînement cognitif).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Boost de BDNF / neurogenèse » par complément : [M] ; BDNF non modifié dans la NMA MCI (PMID 42137868).\n- Vitamines B après AVC : méta-analyse d'effet **négatif** sur la cognition globale (SMD −0,40) [A] (PMID 40355028), résumé par les auteurs comme « aucun effet » ; population AVC uniquement, non extrapolable.\n- « Plus c'est complet mieux c'est » : faux pour les programmes multidomaines [A] (PMID 41016407).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Les effets de l'exercice sur la cognition sont généralement plus grands à intensité faible/modérée et sur cures courtes (1–3 mois) dans l'umbrella review [A] (PMID 40049759) — peut-être en partie un artefact de méthode (interprétation non testée) ; ne pas en conclure qu'il faut peu s'entraîner.\n- Biais de publication suspecté dans la NMA multidomaine pour les comparaisons vs éducation à la santé ; 40 % des essais à risque de biais élevé [A] (PMID 41016407).\n- Dans FINGER (n=1259), l'effet de l'intervention n'était pas significativement modulé par le score génétique Alzheimer ; analyse exploratoire [B] (PMID 40747850).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Perte de mémoire gênant le quotidien, changement de personnalité, désorientation, chutes. Un médecin évalue les causes réversibles ; ne pas auto-traiter.\n\nVoir aussi : [sémaglutide et GLP-1](fiche:semaglutide-et-glp1) (essais Alzheimer négatifs).\n\nVoir aussi : [Tabac et alcool](fiche:tabac-et-alcool).\n\nÀ voir aussi : [Dépression](fiche:depression) · [Audition et perte auditive](fiche:audition-et-perte-auditive) · [Dents et parodontite](fiche:dents-et-parodontite).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 41016407 — Mendes et al., Lancet Healthy Longev 2025 (NMA, 109 RCT, 23 010 participants).\n- PMID 40049759 — Singh et al., Br J Sports Med 2025 (umbrella review).\n- PMID 42137868 — Wang et al., Front Nutr 2026 (NMA suppléments MCI, 13 essais, hétérogénéité I²=96 %).\n- PMID 40355028 — Amanat et al., Adv Nutr 2025.\n- PMID 40747850 — Saadmaan et al., Brain 2026 (FINGER).\n- PMID 41428471 — Tian et al., J Alzheimers Dis 2025.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Déclin cognitif et neurodégénérescence",
+ "type": "condition",
+ "unite": ""
+}

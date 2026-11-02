@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "cerveau",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "alimentation",
+ "id": "noix-et-fruits-a-coque",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "alimentation-cerveau",
+  "apob-lipides-et-statines",
+  "huile-olive-vierge-extra"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "41350177",
+  "39638677",
+  "34494363",
+  "29897866",
+  "37296019",
+  "40944180",
+  "35204285",
+  "18258628",
+  "31026738",
+  "36698500",
+  "21856002"
+ ],
+ "preuve_globale": "A",
+ "resume": "Cohortes : plus de noix, moins d'événements cardiovasculaires et de décès. Méta-analyse de 33 publications (63 études), plus forte vs plus faible consommation : maladie coronarienne RR 0,81, AVC 0,91, mortalité CV 0,74, mortalité toutes causes 0,77 ; par 28 g de plus par semaine, mortalité toutes…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Cohortes : plus de noix, moins d'événements cardiovasculaires et de décès.** Méta-analyse de 33 publications (63 études), plus forte vs plus faible consommation : maladie coronarienne RR 0,81, AVC 0,91, mortalité CV 0,74, mortalité toutes causes 0,77 ; par 28 g de plus par semaine, mortalité toutes causes RR 0,92 [B, cohortes] (PMID 41350177). Association ≠ causalité : les mangeurs de noix ont d'autres habitudes saines.\n- **Lipides : effet réel mais petit, démontré par essais randomisés.** 113 essais, n=8 060, dose médiane 45,5 g/j : LDL -0,12 mmol/L (-0,14 à -0,09), cholestérol total -0,14, apolipoprotéine B -0,04 g/L ; HDL inchangé ; certitude surtout modérée à faible [A] (PMID 39638677).\n- **Poids : la crainte « ça fait grossir » n'est pas confirmée.** Essais : +0,09 kg (-0,09 à +0,27), certitude élevée ; cohortes : surpoids/obésité RR 0,93 [A] (PMID 34494363).\n- **PREDIMED** : régime méditerranéen + noix mélangées vs régime pauvre en graisses, événements CV majeurs HR 0,72 (0,54-0,95) [B, ECR unique n=7447, publication corrigée] (PMID 29897866). C'est un régime entier, pas la noix seule.\n- **Cerveau** : un seul petit essai croisé repéré (28 personnes de 65 ans) : 60 g/j de noix mélangées pendant 16 semaines, débit sanguin cérébral et mémoire visuospatiale/verbale améliorés, fonctions exécutives inchangées [B, ECR croisé n=28] (PMID 37296019).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Non extrait des sources lues comme explication démontrée [?]. L'essai de 28 personnes mesure une amélioration de la fonction vasculaire cérébrale et périphérique (dilatation flux-dépendante brachiale +1,6 point de pourcentage, vitesse d'onde de pouls carotido-fémorale -0,6 m/s), qui est un marqueur, pas un critère de démence (PMID 37296019).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Événements CV et mortalité (cohortes) | coronaropathie RR 0,81 (0,75-0,87), CV total 0,86, mortalité CV 0,74, mortalité totale 0,77 ; dose-réponse non linéaire pour la mortalité toutes causes ; AVC par 28 g/sem. RR 0,99 (0,97-1,01) non significatif (PMID 41350177) | [B] |\n| Prévention primaire (haut risque) | PREDIMED, noix : HR 0,72 (0,54-0,95) ; 83 événements (3,4 %) vs 109 (4,4 %) sous contrôle (PMID 29897866) | [B, ECR unique n=7447] |\n| Lipides sanguins | LDL -0,12 mmol/L, TG -0,05, ApoB -0,04 g/L ; sous-groupes modifient la plupart des paramètres (PMID 39638677) | [A] |\n| Amandes | méta-analyse des ECR sur les lipides (Musa-Veloso 2025) : non lue en détail [?] (PMID 40944180, titre seul) | [?] |\n| Poids, adiposité | ECR : +0,09 kg ; métarégression : plus de noix associé à moins de poids et de masse grasse (PMID 34494363) | [A] |\n| Cognition, flux sanguin cérébral | 60 g/j, 16 semaines : débit sanguin cérébral régional +5,0 à +5,6 mL/100 g/min selon la région ; mémoire visuospatiale -4 erreurs, mémoire verbale +1 mot ; fonction exécutive et vitesse psychomotrice inchangées (PMID 37296019) | [B, ECR croisé n=28] |\n| Noix du Brésil, sélénium | 8 ECR : sélénium sanguin SMD 6,93 (3,99-9,87), glutathion peroxydase SMD 0,53 ; lipides inchangés (PMID 35204285) ; 2 noix/j pendant 12 semaines élèvent le sélénium plasmatique de 64,2 % (apport réel moyen 53 µg/j, de 20 à 84 selon les noix), comparable à 100 µg de sélénométhionine (PMID 18258628) | [A] pour le sélénium ; [?] pour tout bénéfice clinique |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Dose des essais** : médiane 45,5 g/j (PMID 39638677) ; 60 g/j dans l'essai cérébral (PMID 37296019). Cohortes : unité de 28 g (une poignée) par semaine (PMID 41350177).\n- **Vendus** : noix nature, mélanges salés/sucrés/grillés à l'huile, beurres de noix : la teneur en sel, sucre et huile ajoutés n'est pas dans les essais lus. Les essais utilisent des noix non transformées ; l'effet des mélanges apéritif n'est pas démontré [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Aliment. Les fruits à coque (amandes, noisettes, noix, noix de cajou, noix de pécan, noix du Brésil, pistaches, noix de macadamia) figurent parmi les 14 catégories d'allergènes à déclaration obligatoire de l'annexe II du règlement (UE) n° 1169/2011 (EUR-Lex, consulté le 2026-10-14).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Allergie** : risque sérieux chez les personnes allergiques ; allergènes à déclaration obligatoire (voir ci-dessus). Prévalence et gravité : non recherchées ici [?].\n- **Noix du Brésil : le sélénium se surdose.** Une seule noix par jour (environ 1 261 µg de sélénium) pendant 2 mois chez 55 femmes obèses a élevé les marqueurs de sélénium et l'expression génique de marqueurs pro-inflammatoires (IL-6, TNF-α, TLR2/4) sans changement des marqueurs plasmatiques [B, ECR n=55] (PMID 31026738). La teneur varie beaucoup d'une noix à l'autre (20 à 84 µg pour deux noix dans l'ECR néo-zélandais) (PMID 18258628). Seuil officiel : l'EFSA fixe une limite supérieure de sécurité de 255 µg/j de sélénium pour l'adulte (toutes sources), critère : alopécie, LOAEL 330 µg/j dans l'essai SELECT ; elle note que les consommateurs réguliers de noix du Brésil et de compléments dosés peuvent la dépasser (EFSA 2023, PMID 36698500, consulté le 2026-10-14). Une noix à 1 261 µg dépasse donc largement cette limite ; ordre de grandeur par noix dans l'ECR : 10 à 40 µg (20 à 84 µg pour deux). Une étude de l'Amazonie brésilienne n'a trouvé aucun signe clinique de sélénose malgré des sélénémies très élevées (n=448) [B, transversale] (PMID 21856002).\n- Cadmium : la limite européenne pour les fruits à coque est fixée par le règlement (UE) 2023/915 ; valeur par catégorie non relevée ici [?].\n- Interactions médicamenteuses : non recherchées [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Les noix font grossir »** : les essais ne montrent pas de prise de poids (+0,09 kg, IC -0,09 à +0,27) [A] (PMID 34494363).\n- **« Les noix (en forme de cerveau) protègent le cerveau »** : un essai croisé de 28 personnes avec des critères de mémoire ; aucun essai sur la démence lu ici [B] (PMID 37296019).\n- **« Deux noix du Brésil par jour, c'est parfait »** : le sélénium apporté varie de 20 à 84 µg par paire ; une noix très riche peut apporter plus de 1 000 µg [B] (PMID 18258628, 31026738).\n- **« Les noix salées/grillées du supermarché = les noix des études »** : non testé [?].\n\nVoir aussi : [huile d'olive vierge extra](fiche:huile-olive-vierge-extra) · [alimentation : synthèse](fiche:alimentation) · [alimentation et cerveau](fiche:alimentation-cerveau) · [lipides et ApoB](fiche:apob-lipides-et-statines).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 41350177 — Liu et al., *Arch Cardiovasc Dis* 2026 (33 publications, cohortes). doi:10.1016/j.acvd.2025.08.010\n- PMID 39638677 — Nishi et al., *Nutr Metab Cardiovasc Dis* 2025 (113 ECR, lipides). doi:10.1016/j.numecd.2024.10.009\n- PMID 34494363 — Nishi et al., *Obes Rev* 2021 (poids). doi:10.1111/obr.13330\n- PMID 29897866 — Estruch et al., *N Engl J Med* 2018 (PREDIMED, publication corrigée). doi:10.1056/NEJMoa1800389\n- PMID 37296019 — Nijssen et al., *Clin Nutr* 2023 (ECR croisé, 28 personnes). doi:10.1016/j.clnu.2023.05.025\n- PMID 35204285 — Godos et al., *Antioxidants* 2022 (noix du Brésil, 8 ECR). doi:10.3390/antiox11020403\n- PMID 18258628 — Thomson et al., *Am J Clin Nutr* 2008 (noix du Brésil et sélénium). doi:10.1093/ajcn/87.2.379\n- PMID 31026738 — Duarte et al., *Nutrition* 2019 (noix du Brésil, femmes obèses). doi:10.1016/j.nut.2019.02.009\n- PMID 40944180 — Musa-Veloso et al., *Nutrients* 2025 (amandes et lipides ; titre seul). doi:10.3390/nu17172791\n- Règlement (UE) n° 1169/2011, annexe II (EUR-Lex, consulté le 2026-10-14).\n- PMID 36698500 — Turck et al. (EFSA NDA Panel), *EFSA J* 2023 (limite supérieure sélénium). doi:10.2903/j.efsa.2023.7704\n- PMID 21856002 — Lemire et al., *Environ Int* 2012 (sélénium, Amazonie). doi:10.1016/j.envint.2011.07.005",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Noix et fruits à coque",
+ "type": "actif",
+ "unite": ""
+}

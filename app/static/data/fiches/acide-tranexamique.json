@@ -1,0 +1,79 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "medicament",
+ "id": "acide-tranexamique",
+ "intro": "",
+ "liens": [
+  "acide-azelaique",
+  "lasers-fractionnes",
+  "microneedling",
+  "protection-solaire",
+  "vitamine-c"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 10,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "38843906",
+  "39574359",
+  "40555739",
+  "42602406",
+  "40167772",
+  "37086183",
+  "42025113",
+  "27206758",
+  "41256337",
+  "42166116"
+ ],
+ "preuve_globale": "A",
+ "resume": "Antifibrinolytique (médicament) utilisé hors indication contre le mélasma, par voie orale, topique, intradermique ou associé au microneedling.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Antifibrinolytique (médicament) utilisé **hors indication** contre le mélasma, par voie orale, topique, intradermique ou associé au microneedling.\n- 22 RCT, 1 280 patients : réduction significative des scores MASI/mMASI ; l'effet est le plus marqué par voie orale, puis injection, puis topique ; **forte hétérogénéité**, durées de 8 semaines à près de 2 ans [A, hétérogène] (PMID 38843906).\n- 17 RCT sur la comparaison des voies : injection intradermique et microneedling devant l'oral, puis le topique ; le topique est moins satisfaisant que l'injection pour les patients [A] (PMID 39574359).\n- Microneedling + acide tranexamique : pas mieux que les autres traitements en général, mais mieux que le microneedling seul [A, faible] (PMID 40555739) ; pas de différence avec microneedling + vitamine C sur 8 études, 232 patients, 6-16 semaines de suivi (PMID 42602406).\n- Laser erbium:YAG fractionné + acide tranexamique contre acide tranexamique seul : effet court terme qui s'estompe, pas d'effet durable constant sur 13 études [A, résultats négatifs à long terme] (PMID 40167772).\n- Les revues ne permettent pas de conclure sur la **récidive** et la sécurité à long terme.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- D'après une revue, l'acide tranexamique abaisse la plasmine et la tyrosinase, ce qui réduit la mélanine ; la voie topique est limitée par une faible pénétration cutanée et une faible disponibilité au niveau des mélanocytes [D, mécanisme proposé] (PMID 37086183).\n- Chez l'humain, un essai randomisé de 50 femmes (voie orale, 3 mois, biopsies avant et après) montre une baisse de la mélanine épidermique dans les deux groupes (avec ou sans kétotifène), sans changement du VEGF dermique ni du nombre de mélanocytes ni de mastocytes [B, sans groupe placebo] (PMID 42025113). Le mécanisme exact dans le mélasma reste donc non établi.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Mélasma, toutes voies | MASI en baisse ; oral > injection > topique ; hétérogénéité forte | [A] (PMID 38843906) |\n| Mélasma, comparaison des voies | Injection et microneedling devant oral puis topique ; satisfaction : oral devant injection, topique en retrait | [A] (PMID 39574359) |\n| Microneedling + TXA | Meilleur que microneedling seul, sans avantage global sur les autres options | [A, faible] (PMID 40555739) |\n| Microneedling TXA vs vitamine C | Hedges' g −0,123 (−0,311 à 0,065), non significatif | [A, faible] (PMID 42602406) |\n| Laser erbium:YAG + TXA vs TXA | Aucun effet durable constant à 6 mois | [A] (PMID 40167772) |\n| Hyperpigmentation post-inflammatoire, taches solaires | Non recherchés | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Schémas, doses et concentrations variables selon les études, non extraits des résumés lus [?]. Pas de dose recommandée dans cette fiche (usage hors AMM).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **France : médicament sur ordonnance, indication hémostatique uniquement.** Exacyl 500 mg comprimé et Exacyl 1 g/10 ml solution buvable (liste I, sur ordonnance uniquement, remboursables, AMM valide) sont indiqués dans les saignements liés à une fibrinolyse excessive (règles abondantes, saignements digestifs, certaines hématuries, chirurgie ORL) ; le mélasma ne figure pas parmi les indications, donc **usage hors AMM** (BDPM, fiches Exacyl, consulté le 2026-10-13 ; RCP du 10/04/2026).\n- Sérums cosmétiques « acide tranexamique » : statut dans la base CosIng et dans les annexes du règlement (CE) 1223/2009 non vérifié dans la base officielle (page non lisible) [?]. Une base du secteur (COSMILE Europe) liste l'ingrédient avec des fonctions astringent et soin de la peau, sans information réglementaire.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Effets indésirables rapportés : gêne digestive, irritation cutanée, troubles du cycle menstruel (PMID 38843906) [A].\n- Série rétrospective de 561 patients sous voie orale pour mélasma (Singapour) : 89,7 % améliorés, rechute chez 27,2 % des répondeurs, effets indésirables chez 40 patients (7,1 %), pour la plupart transitoires ; **une thrombose veineuse profonde**, chez une patiente ensuite diagnostiquée d'un déficit familial en protéine S. Les auteurs recommandent de dépister les facteurs de risque personnels et familiaux de thromboembolie avant de commencer [B] (PMID 27206758).\n- Une cohorte multicentrique appariée sur dossiers médicaux est titrée « voie orale pour mélasma non associée à une thromboembolie » ; résumé indisponible, chiffres non relus [?] (PMID 41256337). Une revue systématique sur la voie intradermique rapporte des effets secondaires légers et transitoires [B, revue systématique] (PMID 42166116).\n- Libellé officiel (RCP Exacyl, BDPM, consulté le 2026-10-13) : **contre-indiqué** en cas de thrombose veineuse ou artérielle aiguë, d'insuffisance rénale grave, d'antécédent de convulsions et d'hypersensibilité (allergie au blé hors maladie cœliaque pour le comprimé) ; les facteurs de risque thromboembolique doivent être évalués avant l'emploi ; prudence chez les patientes sous œstroprogestatifs (risque thrombotique accru) ; arrêt immédiat en cas d'événement thromboembolique.\n- Grossesse (RCP Exacyl, BDPM) : préférable de ne pas l'utiliser au premier trimestre, données cliniques insuffisantes, pas d'effet tératogène chez l'animal. Allaitement, interactions autres que les œstroprogestatifs : non relus [?].\n- Raison suffisante pour que la voie orale, hors AMM, relève d'un médecin qui évalue ces risques.\n- Le mélasma récidive et dépend du soleil : [protection solaire](fiche:protection-solaire) obligatoire.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Le sérum à l'acide tranexamique efface le mélasma » : par voie topique, c'est la voie la moins efficace dans les comparaisons (PMID 39574359, PMID 38843906).\n- « Résultat durable après laser + acide tranexamique » : pas d'effet constant à 6 mois (PMID 40167772).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour.\n\nVoir aussi : [microneedling](fiche:microneedling), [lasers fractionnés](fiche:lasers-fractionnes), [vitamine C](fiche:vitamine-c), [acide azélaïque](fiche:acide-azelaique), [protection solaire](fiche:protection-solaire).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Calacattawi R et al. *J Dermatolog Treat* 2024 — PMID 38843906 — [DOI](https://doi.org/10.1080/09546634.2024.2361106)\n2. Chen LY et al. *Facial Plast Surg Aesthet Med* 2025 — PMID 39574359 — [DOI](https://doi.org/10.1089/fpsam.2024.0187)\n3. Wang Q et al. *Aesthetic Plast Surg* 2025 — PMID 40555739 — [DOI](https://doi.org/10.1007/s00266-025-05043-z)\n4. Roddaje T et al. *J Med Life* 2026 — PMID 42602406 — [DOI](https://doi.org/10.25122/jml-2026-0051)\n5. Alghamdi SMH et al. *Arch Dermatol Res* 2025 — PMID 40167772 — [DOI](https://doi.org/10.1007/s00403-025-04178-y)\n6. Verma P, Yadav KS. *Expert Opin Drug Deliv* 2023 — PMID 37086183 — [DOI](https://doi.org/10.1080/17425247.2023.2206645)\n7. Cruz ACL et al. *An Bras Dermatol* 2026 — PMID 42025113 — [DOI](https://doi.org/10.1016/j.abd.2026.501336)\n8. Lee HC et al. *J Am Acad Dermatol* 2016 — PMID 27206758 — [DOI](https://doi.org/10.1016/j.jaad.2016.03.001)\n9. Hernandez T et al. *JAAD Int* 2025 — PMID 41256337 — [DOI](https://doi.org/10.1016/j.jdin.2025.09.005) (titre seul, résumé indisponible)\n10. Piras M et al. *Ital J Dermatol Venerol* 2026 — PMID 42166116 — [DOI](https://doi.org/10.23736/S2784-8671.26.08528-2)\n11. BDPM, « EXACYL 500 mg, comprimé pelliculé » — https://base-donnees-publique.medicaments.gouv.fr/medicament/61224073/extrait ; « EXACYL 1 g/10 ml, solution buvable » — https://base-donnees-publique.medicaments.gouv.fr/medicament/60862443/extrait (consulté le 2026-10-13)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Acide tranexamique (mélasma)",
+ "type": "actif",
+ "unite": ""
+}

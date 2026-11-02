@@ -1,0 +1,84 @@
+{
+ "cibles": [
+  "sante-mentale"
+ ],
+ "derniere_maj": "2026-10-07",
+ "famille": "complement",
+ "id": "ashwagandha",
+ "intro": "",
+ "liens": [
+  "anxiete",
+  "creatine",
+  "entrainement-en-resistance",
+  "l-theanine",
+  "sommeil",
+  "stress-chronique-et-cortisol"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 14,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "36017529",
+  "41644067",
+  "34559859",
+  "42738987",
+  "30854916",
+  "37756041",
+  "42367407",
+  "16355578",
+  "42198398",
+  "41140145",
+  "33670194",
+  "33150931",
+  "31991029",
+  "25624699"
+ ],
+ "preuve_globale": "A",
+ "resume": "Stress et anxiété : les méta-analyses sont favorables, mais avec une certitude faible et des tailles d'effet invraisemblables (SMD jusqu'à −5,9 pour le stress, soit près de 6 écarts-types d'écart avec le placebo) : signe probable d'essais petits, hétérogènes et souvent financés par les fabricants…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Stress et anxiété** : les méta-analyses sont favorables, mais avec une certitude **faible** et des tailles d'effet invraisemblables (SMD jusqu'à −5,9 pour le stress, soit près de 6 écarts-types d'écart avec le placebo) : signe probable d'essais petits, hétérogènes et souvent financés par les fabricants d'extraits [A, faible certitude] (PMID 36017529, 41644067).\n- **Sommeil** : petit effet (SMD −0,59 ; 5 ECR, 400 participants), surtout en cas d'insomnie [A, petits essais] (PMID 34559859).\n- **Force, testostérone** : gains rapportés dans 3 petits ECR de musculation (n = 161), qui ne tiennent plus avec une analyse statistique plus prudente ; certitude faible [A, faible certitude] (PMID 42738987). Testostérone +14,7 % dans un ECR croisé, sans effet sur la fatigue ni la vitalité [B] (PMID 30854916).\n- **Sécurité** : atteintes du foie (cholestase, jaunisse) décrites dans plusieurs séries de cas, dont 3 décès chez des patients déjà cirrhotiques [B, séries de cas] (PMID 37756041, 42367407) ; cas de thyrotoxicose [B, cas isolé] (PMID 16355578).\n- **L'ANSES (avril 2024)** recommande de s'en abstenir en cas de maladie de la thyroïde, du foie ou du cœur, d'hyperandrogénie, de grossesse, d'allaitement, avant 18 ans et sous sédatif. Elle juge impossible de fixer une dose sans risque (ANSES, saisine 2021-SA-0077).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Plante ayurvédique dont la racine contient des withanolides. Elle est vendue comme « adaptogène » : terme marketing sans définition pharmacologique [M].\n- Effet sur le cortisol : baisses rapportées de façon répétée dans les essais chez l'adulte sain (revue systématique de 23 ECR, PMID 42198398) [A, essais d'extraits standardisés, qualité variable]. Lien de causalité avec l'effet sur le stress ressenti : non démontré [?].\n- L'ANSES souligne que les extraits étudiés sont trop mal caractérisés pour relier un composé précis à un effet biologique (ANSES 2024, conclusions).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Stress et anxiété (adultes sans diagnostic) | 12 ECR, 1 002 participants : anxiété SMD −1,55 (I² 93,8 %), stress SMD −1,75 (I² 83,1 %) ; certitude **faible** (PMID 36017529). Méta-analyse 2026 (22 ECR) : stress SMD −5,88, anxiété −6,87, dépression −5,68 (PMID 41644067). Un SMD de −5,9 placerait le groupe traité à près de 6 écarts-types du placebo : une valeur aussi extrême fait suspecter des essais petits et hétérogènes ou des erreurs d'extraction plutôt qu'un effet réel (interprétation, non vérifiée dans le texte intégral [?]) | [A, faible certitude] |\n| Troubles psychiatriques diagnostiqués (surtout anxieux) | 14 ECR, 713 patients, suivi médian 8 semaines : anxiété SMD −1,13 après correction des valeurs aberrantes ; effet sur la dépression non confirmé par l'analyse bayésienne ; tolérance non différente du comparateur (PMID 41140145) | [A, petits essais, forte hétérogénéité] |\n| Sommeil | 5 ECR, 400 participants : SMD −0,59 (I² 62 %), plus net en cas d'insomnie, à ≥ 600 mg/j et ≥ 8 semaines ; pas d'effet sur la qualité de vie (PMID 34559859) | [A, petits essais] |\n| Force avec musculation | 3 ECR poolables (n = 161) : 1RM développé couché SMD 0,60, membres inférieurs 0,52 ; pas d'effet sur la masse grasse ; avec la correction de Hartung-Knapp, les deux résultats de force ne sont plus significatifs et chacun dépend d'un seul essai ; certitude faible (PMID 42738987) | [A, faible certitude] |\n| Performance physique (13 études) | méta-analyse bayésienne favorable, sans taille d'effet chiffrée dans le résumé (PMID 33670194) | [A, résumé peu informatif] |\n| Testostérone (homme) | revue de 32 ECR sur les plantes : ashwagandha et fenugrec associés à une hausse ; 6 études sur 32 à faible risque de biais ; surtout des hommes jeunes (PMID 33150931). ECR croisé, 43-57 hommes de 40-70 ans en surpoids : testostérone salivaire +14,7 %, DHEA-S +18 %, mais **pas de différence** sur la fatigue, la vigueur ou les symptômes du vieillissement masculin (PMID 30854916) | [B] |\n| Cognition, longévité | non revu en détail ; aucune donnée de longévité humaine | [?] |\n\nFinancement : de nombreux ECR testent des extraits de marque (KSM-66, Sensoril, Shoden, Witholytin) ; la part des essais financés par les fabricants n'est pas chiffrée dans les résumés lus [?].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais : 125 à 600 mg/j d'extrait standardisé de racine, de quelques jours à 180 jours (PMID 42198398) ; dose médiane de 600 mg/j dans les essais psychiatriques (PMID 41140145).\n- Produits vendus : teneur en withanolides et partie de la plante (racine seule ou racine + feuille) variables ; l'ANSES juge impossible de fixer un niveau de consommation sans risque (ANSES 2024). Ces chiffres décrivent les essais, pas une posologie recommandée.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **France** : l'ashwagandha ne figure pas sur la liste des plantes autorisées dans les compléments alimentaires (arrêté du 24 juin 2014). Les produits sont mis sur le marché par **reconnaissance mutuelle**, au titre de l'article 16 du décret n° 2006-352, la plante étant autorisée en Belgique et en Italie (ANSES, avis du 19 avril 2024, saisine 2021-SA-0077, consulté le 2026-10-07).\n- **Recommandation de l'ANSES** : « compte tenu des suspicions d'effets indésirables sur la thyroïde, le foie, le cœur, le système nerveux central, la fertilité et le développement fœtal, l'Anses recommande aux personnes présentant des pathologies thyroïdiennes, hépatiques, cardiaques, une hyperandrogénie ainsi que les femmes enceintes et les personnes sous traitement sédatif ou ayant une action dépressive sur le système nerveux central, de s'abstenir de consommer des compléments alimentaires contenant Withania somnifera ». Par précaution, la recommandation s'étend aux femmes allaitantes et aux moins de 18 ans (même avis).\n- **Autres pays** : l'ANSES rejoint les rapports de l'Allemagne (2012), du Danemark (2020) et des Pays-Bas (2024) (même avis). Mesures d'interdiction éventuelles dans ces pays : non vérifiées ici [?].\n- **Nutrivigilance** : 8 signalements d'effets indésirables reçus par l'ANSES de 2009 à septembre 2023, dont 6 analysés (même avis).\n- **AMA** : non concernée à notre connaissance ; liste 2026 non consultée [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Foie** : revue de 2026, 13 publications, 25 patients : atteinte surtout cholestatique (jaunisse, démangeaisons) après quelques semaines d'usage ; guérison en quelques semaines à mois le plus souvent ; une greffe de foie et 3 décès chez des patients déjà cirrhotiques [B, séries de cas] (PMID 42367407). Série indienne : 8 cas avec un produit à ingrédient unique, sans contaminant retrouvé à l'analyse (PMID 37756041) ; série islandaise et américaine : 5 cas, analyses chimiques sans autre toxique (PMID 31991029) [B]. Ce n'est donc pas qu'un problème de produit frelaté.\n- **Thyroïde** : thyrotoxicose chez une femme de 32 ans, régressive à l'arrêt [B, cas isolé] (PMID 16355578) ; hausse de la T4 chez 3 patients traités dans un petit ECR (PMID 25624699) [B, très petit effectif].\n- **Essais chez l'adulte sain** : 23 ECR, 2 317 participants, jusqu'à 180 jours : biomarqueurs hépatiques, rénaux, thyroïdiens dans les normes, effets indésirables légers (digestifs, céphalées, somnolence), présents aussi sous placebo (PMID 42198398) [A, essais courts]. Les atteintes hépatiques sont rares et imprévisibles : elles n'apparaissent pas dans des essais de quelques centaines de personnes.\n- **Interactions** : données hétérogènes ; prudence avec les sédatifs et les dépresseurs du système nerveux central, les traitements thyroïdiens, et signaler la prise à son médecin (ANSES 2024).\n- **À éviter** (ANSES 2024) : grossesse, allaitement, moins de 18 ans, maladies de la thyroïde, du foie ou du cœur, hyperandrogénie (par exemple syndrome des ovaires polykystiques), traitement sédatif.\n- Signe d'alerte : jaunisse, urines foncées, démangeaisons, fatigue inhabituelle → arrêter et faire un bilan hépatique.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Adaptogène naturel, donc sans risque »** : atteintes hépatiques documentées, dont des formes graves en cas de maladie du foie (PMID 42367407) ; l'ANSES juge impossible de fixer une dose sans risque (ANSES 2024).\n- **« Réduit le stress de 50 % »** : les méta-analyses donnent des effets dont la taille même est un signal d'alerte (SMD −5,9), avec une certitude faible (PMID 41644067, 36017529) [A, faible certitude].\n- **« Booste la testostérone et le muscle »** : petite hausse hormonale sans effet ressenti dans un ECR (PMID 30854916) ; gain de force qui ne résiste pas à une analyse prudente (PMID 42738987). Pour le muscle, voir [créatine](fiche:creatine) et [entraînement en résistance](fiche:entrainement-en-resistance).\n- **« Améliore le sommeil comme un somnifère »** : effet petit (SMD −0,59) (PMID 34559859) ; voir [sommeil](fiche:sommeil) et [L-théanine](fiche:l-theanine).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit pour l'instant. Avant tout achat : vérifier la partie de plante (racine), l'extrait standardisé et les avertissements d'étiquetage, et relire les contre-indications ci-dessus.\n\nVoir aussi : [Stress chronique et cortisol](fiche:stress-chronique-et-cortisol) · [Anxiété](fiche:anxiete).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 36017529 — Akhgarjand C et al., *Phytother Res* 2022. doi:10.1002/ptr.7598 (résumé relu).\n- PMID 41644067 — Alsanie SA et al., *Complement Ther Med* 2026. doi:10.1016/j.ctim.2026.103325 (résumé relu).\n- PMID 41140145 — Marchi M et al., *BJPsych Open* 2025. doi:10.1192/bjo.2025.10885 (résumé relu).\n- PMID 34559859 — Cheah KL et al., sommeil, *PLoS One* 2021. doi:10.1371/journal.pone.0257843 (résumé relu).\n- PMID 42738987 — Lee JC et al., musculation, *Nutrients* 2026. doi:10.3390/nu18172815 (résumé relu).\n- PMID 33670194 — Bonilla DA et al., performance, *J Funct Morphol Kinesiol* 2021. doi:10.3390/jfmk6010020 (résumé relu).\n- PMID 33150931 — Smith SJ et al., plantes et testostérone, *Adv Nutr* 2021. doi:10.1093/advances/nmaa134 (résumé relu).\n- PMID 30854916 — Lopresti AL et al., *Am J Mens Health* 2019. doi:10.1177/1557988319835985 (résumé relu).\n- PMID 42198398 — Coope OC et al., sécurité des extraits de racine, *Pharmaceuticals* 2026. doi:10.3390/ph19050725 (résumé relu).\n- PMID 42367407 — McIntyre D et al., atteintes hépatiques, *Cureus* 2026. doi:10.7759/cureus.109764 (résumé relu).\n- PMID 37756041 — Philips CA et al., *Hepatol Commun* 2023. doi:10.1097/HC9.0000000000000270 (résumé relu).\n- PMID 31991029 — Björnsson HK et al., *Liver Int* 2020. doi:10.1111/liv.14393 (résumé relu).\n- PMID 16355578 — van der Hooft CS et al., thyrotoxicose, *Ned Tijdschr Geneeskd* 2005 (résumé relu).\n- PMID 25624699 — Gannon JM et al., thyroïde, *J Ayurveda Integr Med* 2014. doi:10.4103/0975-9476.146566 (résumé relu).\n- ANSES, avis du 19 avril 2024 relatif aux risques liés à l'utilisation des préparations de Withania somnifera (L.) Dunal dans les compléments alimentaires, saisine n° 2021-SA-0077 — https://www.anses.fr/fr/system/files/NUT2021SA0077.pdf (contexte, nutrivigilance et conclusions relus, consulté le 2026-10-07).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Ashwagandha (Withania somnifera)",
+ "type": "actif",
+ "unite": ""
+}

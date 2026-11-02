@@ -1,0 +1,86 @@
+{
+ "cibles": [
+  "muscle-os",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "l-carnitine",
+ "intro": "",
+ "liens": [
+  "l-carnitine-carnipure-nutrimuscle",
+  "recuperation-musculaire"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 19,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "20045157",
+  "27335245",
+  "37533033",
+  "42778937",
+  "12804452",
+  "16901595",
+  "34959912",
+  "16826026",
+  "11502782",
+  "34684429",
+  "12930169",
+  "40298161",
+  "18065594",
+  "24448972",
+  "38594107",
+  "23430574",
+  "41177307",
+  "34949826",
+  "29490096"
+ ],
+ "preuve_globale": "A",
+ "resume": "Récupération musculaire (L-carnitine tartrate, LCLT) : de petits essais (n=10 à 80, tous [B]) trouvent des CK, de la myoglobine et des courbatures plus basses après un effort, surtout avec 2 g/j de carnitine pendant 3 à 5 semaines. Pas de méta-analyse trouvée ; plusieurs essais viennent du même g…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Récupération musculaire (L-carnitine tartrate, LCLT)** : de petits essais (n=10 à 80, tous [B]) trouvent des CK, de la myoglobine et des courbatures plus basses après un effort, surtout avec 2 g/j de carnitine pendant 3 à 5 semaines. Pas de méta-analyse trouvée ; plusieurs essais viennent du même groupe de recherche (Kraemer, Volek) [B].\n- **Performance** : aucun effet net démontré. Un essai chez l'adulte actif de 45–52 ans trouve moins de dommages mais **aucun effet sur la force ni la puissance** [B] (PMID 20045157). La revue systématique de 11 études sur la performance n'est pas une méta-analyse [B].\n- **Perte de poids** : méta-analyse de 9 ECR (n=911) : environ −1,3 kg de poids, effet qui diminue avec la durée [A] (PMID 27335245). Aucun effet « brûleur de graisse » démontré chez le sujet entraîné en bonne santé [?].\n- **Sécurité** : la carnitine alimente la voie microbiote → TMA → TMAO. Un ECR de 12 semaines (LCLT 1 g/j) montre une hausse du TMAO plasmatique [B] (PMID 37533033). Le lien TMAO → événements cardiovasculaires est observationnel, et l'effet est surestimé selon une méta-analyse parapluie de 2026 [A, observationnel] (PMID 42778937). Aucun essai de la supplémentation sur des événements cardiovasculaires trouvé [?].\n- **Cognition (acétyl-L-carnitine)** : Cochrane sur la démence d'Alzheimer : pas de bénéfice objectif [A, négatif] (PMID 12804452).\n- **France** : statut du complément non vérifié ici (BDPM, ANSES) [?] ; statut AMA non vérifié [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "La carnitine transporte les acides gras à longue chaîne vers la mitochondrie pour la bêta-oxydation (PMID 16901595, PMID 34959912) [B, revues]. L'organisme la synthétise (foie, rein) et l'apporte par l'alimentation ; le déficit en dehors de maladies (dialyse, maladies métaboliques) n'est pas documenté ici [?]. Le raisonnement marketing « plus de carnitine = plus de graisse brûlée » suppose que la carnitine musculaire limite l'oxydation chez un sujet non carencé : non démontré dans les sources lues [?].\n\nAutres mécanismes proposés pour la récupération : baisse du stress oxydant et des marqueurs de la purine, augmentation des récepteurs aux androgènes musculaires (PMID 20045157, PMID 16826026) [B, biomarqueurs, pas des critères cliniques]. La carnitine freine aussi l'entrée des hormones thyroïdiennes dans le noyau (voir sécurité) (PMID 11502782).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Récupération, dommages musculaires (LCLT)\n| Étude | Résultat | Preuve |\n|---|---|---|\n| ECR double aveugle, 80 adultes 21–65 ans, 5 semaines (PMID 34684429) | récupération perçue et courbatures meilleures (p=0,021), CK sérique plus basse (p=0,016), déclin de force et de puissance atténué après un effort intense ; résultat indépendant de l'âge et du sexe | [B, ECR unique n=80] |\n| Crossover, 18 adultes de 45–52 ans, 2 g/j de carnitine, 3 semaines (PMID 20045157) | myoglobine, CK, malondialdéhyde et courbatures atténués ; **force, puissance et test de marche inchangés** | [B, n=18] |\n| Crossover, 10 hommes, 2 g/j de LCLT, 3 semaines (PMID 12930169) | moins de dommage tissulaire en IRM de la cuisse après squats ; hormones peu modifiées sauf IGFBP-3 | [B, n=10] |\n| Crossover, 10 hommes entraînés en résistance (PMID 16826026) | contenu en récepteurs aux androgènes plus élevé avant l'effort sous LCLT | [B, n=10, biomarqueur] |\n\nLecture honnête : les effets sont sur des **marqueurs** (CK, myoglobine) et sur des symptômes subjectifs, avec de petits effectifs. Je n'ai trouvé aucune méta-analyse isolant la carnitine seule sur la récupération [?], et aucun effet clair sur la performance mesurée. Les CK sont un marqueur biologique, pas un gain de santé en soi. Sur la méthode, les essais crossover sont courts (3 semaines). Voir [récupération musculaire](fiche:recuperation-musculaire).\n\n### Performance sportive\n- Revue systématique de 11 études (L-carnitine, LCLT, propionyl/glycine-propionyl-L-carnitine ; 1 à 3 g/j en chronique pendant 4 à 24 semaines, 3 à 4 g en aigu) : certaines études rapportent moins d'effort perçu, plus de puissance en test de type Wingate, plus de répétitions à la presse (PMID 34959912) ; revue sans méta-analyse, résultats hétérogènes selon les protocoles [B]. Je n'ai lu que le début du résumé : la conclusion globale de la revue n'a pas été vérifiée [?].\n- Chez le sujet entraîné non carencé, aucune méta-analyse de la performance trouvée [?]. Les effets les mieux décrits portent sur la récupération (ci-dessus), pas sur la performance maximale (PMID 20045157).\n\n### Masse maigre, composition corporelle, perte de graisse\n| Indication | Résultat | Preuve |\n|---|---|---|\n| Poids, adultes (9 ECR, n=911) | −1,33 kg (IC −2,09 à −0,57), IMC −0,47 ; l'effet diminue avec la durée (méta-régression p=0,002) | [A] (PMID 27335245) |\n| Méta-analyse parapluie (8 méta-analyses, 16 352 sujets) | poids ES −1,11, IMC ES −0,33, tour de taille ES −1,34 ; I² ≈ 90 % pour poids et IMC | [A, forte hétérogénéité] (PMID 40298161) |\n| Centenaires fatigués, 2 g/j, ECR n=66 | masse grasse −1,8 kg vs +0,6 kg, masse musculaire +3,8 kg vs +0,8 kg (placebo) | [B, ECR n=66, centenaires] (PMID 18065594) |\n\nLecture honnête : un effet de l'ordre de 1 kg est cliniquement mince ; l'hétérogénéité est forte et la méta-régression indique un effet qui s'érode. La méta-analyse parapluie recoupe des méta-analyses qui partagent les mêmes essais. Le gain de masse musculaire de 3,8 kg chez les centenaires est surprenant par son ampleur et n'a pas été répliqué dans les sources lues [?]. Aucune donnée trouvée chez le sujet jeune entraîné sur la masse maigre [?].\n\n### Fatigue, âge, sarcopénie\n- ECR chez 66 centenaires avec fatigue à l'effort, 2 g/j de lévocarnitine : fatigue physique et mentale réduites, MMSE +4,1 vs +0,6 [B, ECR n=66, centenaires] (PMID 18065594). Population très particulière, peu transposable à un adulte de 50 ans.\n- Sarcopénie : une recherche PubMed sur « carnitine sarcopenia older adults » a renvoyé 45 résultats que je n'ai pas lus : [?].\n\n### Cognition\n- Acétyl-L-carnitine dans la démence d'Alzheimer (Cochrane, 11 essais, recherche arrêtée en 2003) : bénéfice sur l'impression clinique globale à 12 et 24 semaines (OR 2,33 ; 3,91), **aucun bénéfice** sur la cognition, la sévérité ou l'autonomie ; les auteurs jugent le résultat possiblement dû au hasard (comparaisons multiples) [A, négatif] (PMID 12804452). Revue ancienne.\n- Adulte sain : aucun essai ou méta-analyse trouvé [?].\n- Dépression chronique (dysthymie) : une méta-analyse en réseau classe l'acétyl-L-carnitine plus efficace que le placebo (OR 5,67), mais le résumé ne détaille pas le nombre ni la taille des essais ; je le traite comme hypothèse, pas comme preuve [A, preuves limitées] (PMID 24448972).\n\n### Diabète, résistance à l'insuline\n| Population | Résultat | Preuve |\n|---|---|---|\n| Diabète de type 2, 21 ECR (n=2 041) | HbA1c −0,16 % par g/j (IC −0,32 à −0,01, I²=94 %, GRADE modéré), LDL −0,11 mmol/L ; les auteurs : « interpréter très prudemment » | [A, forte hétérogénéité] (PMID 38594107) |\n| Diabète de type 2, 4 ECR (n=284) | glycémie à jeun −14,3 mg/dL ; HbA1c non significative | [A, peu d'essais] (PMID 23430574) |\n| Femmes en surpoids/obésité, 8 études | glycémie à jeun −2,93 mg/dL, HOMA-IR −0,69, QUICKI inchangé | [A, effet faible] (PMID 41177307) |\n\nLecture honnête : effet réel mais petit ; la carnitine ne remplace pas un traitement antidiabétique. À discuter avec un médecin avant tout ajout.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Doses étudiées en performance : 1 à 3 g/j (chronique), 3 à 4 g (aigu) (PMID 34959912).\n- Récupération : 2 g/j de carnitine sous forme de tartrate, 3 semaines (PMID 12930169, 20045157) ; 5 semaines dans l'ECR n=80 (dose non relevée dans le résumé) (PMID 34684429).\n- ECR sur le TMAO : 1 g/j de LCLT pendant 12 semaines, avec leucine (PMID 37533033).\n- Seuil de sécurité : un « niveau observé sûr » de 2 000 mg/j de L-carnitine en prise chronique, calculé par une analyse de risque signée par un syndicat de l'industrie des compléments (CRN) ; au-delà, données jugées insuffisantes [B, revue de l'industrie] (PMID 16901595).\n- **Doses vendues en France** : non relevées, aucun produit vérifié ici [?]. À distinguer : la dose est exprimée soit en tartrate, soit en L-carnitine équivalente ; comparer les étiquettes à la dose de carnitine équivalente des essais.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "| Forme | Usage étudié | Remarque |\n|---|---|---|\n| L-carnitine base | poids, diabète, fatigue | forme la plus étudiée dans les méta-analyses cardiométaboliques |\n| L-carnitine L-tartrate (LCLT) | récupération musculaire | essais de Kraemer, Ho, Stefan |\n| Acétyl-L-carnitine (ALCAR) | cognition, démence, humeur | efficacité nulle dans l'Alzheimer (Cochrane) |\n| Propionyl-L-carnitine / glycine-propionyl | performance (revue) | peu d'essais isolés |\n\n- **France/UE** : la carnitine est vendue comme complément alimentaire ; le statut exact (liste des substances autorisées, arrêté du 26 septembre 2016) et l'éventuelle spécialité à base de lévocarnitine inscrite à la BDPM n'ont pas été vérifiés ici : à contrôler sur la BDPM et sur Légifrance [?].\n- **AMA** : statut non vérifié sur la liste des interdictions en vigueur ; ne pas présumer. Le risque pour un sportif contrôlé reste la contamination du produit : préférer un produit certifié antidopage [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **TMAO** : la carnitine alimentaire est transformée par le microbiote en TMA, puis en TMAO par le foie, via le γ-butyrobétaïne (PMID 34949826). Dans l'ECR n=27 de femmes ménopausées sous LCLT 1 g/j, le TMAO plasmatique était plus élevé que sous placebo (p<0,001), sans variation de la densité osseuse [B, ECR n=27] (PMID 37533033). Chez des patients PKU, l'excrétion urinaire de TMAO était plus élevée avec la carnitine dans l'alimentation médicale [B] (PMID 29490096).\n- **TMAO et risque cardiovasculaire, données humaines vs observationnelles** :\n  - Cohorte clinique (n=2 918) : γ-butyrobétaïne plasmatique associée aux événements cardiovasculaires ; souris axéniques : le microbe qui convertit le γBB en TMA augmente le TMAO et la thrombose [B, cohorte + C, souris] (PMID 34949826). Cette étude vient d'un groupe avec des liens industriels déclarés.\n  - Méta-analyse parapluie 2026 (120 publications ; 34 cohortes) : HR TMAO–MACE 1,20 (IC 1,12–1,27), intervalle de prédiction 0,93–1,54 ; après correction du biais de publication HR 1,10 ; les cas-témoins après correction : OR 1,05 (non significatif). Les auteurs concluent que les résultats « ne soutiennent pas » une cause ou un marqueur de MACE [A, observationnel] (PMID 42778937).\n  - Aucun essai randomisé n'a testé la supplémentation en carnitine sur des événements cardiovasculaires dans les sources lues [?]. Position honnête : hausse du TMAO prouvée, conséquence clinique **inconnue**, signal observationnel faible. Prudence raisonnable en cas de maladie cardiovasculaire, d'insuffisance rénale ou de risque élevé.\n- **Hormones thyroïdiennes** : la carnitine antagonise l'action périphérique des hormones thyroïdiennes (ECR n=50, femmes sous lévothyroxine à dose suppressive, 2 ou 4 g/j, 6 mois : moins de symptômes d'hyperthyroïdie) [B, ECR n=50] (PMID 11502782). Conséquence théorique : atténuation possible de l'effet de la lévothyroxine ; non testée chez l'hypothyroïdien traité [?]. Avis médical si thyroïde.\n- **Anticoagulants** : aucune étude trouvée dans PubMed (recherche « carnitine acenocoumarol INR » : 0 résultat) ; interaction non documentée dans mes sources [?]. Un article de 2006 (Hathcock, industrie) affirme l'absence d'interaction mais ne fait pas autorité ici (PMID 16901595).\n- **Odeur de poisson, troubles digestifs** : non retrouvés dans les résumés lus ; fréquence inconnue [?]. L'odeur corporelle de poisson est plausible par production de TMA, mais non sourcée ici [?].\n- **Insuffisance rénale, dialyse, grossesse** : populations particulières (la carnitine est utilisée en dialyse sous contrôle médical) ; données non lues en détail [?]. Avis médical obligatoire.\n- **Niveau de sécurité global** : « sûr jusqu'à 2 000 mg/j » est une évaluation de l'industrie, à nuancer (PMID 16901595).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Brûleur de graisse »** : méta-analyse de 9 ECR : −1,3 kg environ, effet qui s'érode avec le temps [A] (PMID 27335245) ; hétérogénéité très forte dans la méta-analyse parapluie [A] (PMID 40298161). Pas de preuve d'effet sur la graisse chez le sujet entraîné non carencé [?].\n- **« Précurseur d'énergie »** : la carnitine est un transporteur d'acides gras, pas un carburant ; aucun gain de force ou de puissance dans l'essai de l'adulte actif (PMID 20045157) [B].\n- **« Améliore la mémoire / protège le cerveau » (ALCAR)** : Cochrane : aucun bénéfice objectif dans l'Alzheimer (PMID 12804452) [A, négatif] ; adulte sain : aucune donnée [?].\n- **« Accélère la récupération »** : partiellement vrai sur des marqueurs (CK) dans de petits essais [B] ; effet sur la performance non démontré (PMID 20045157).\n- **« Sans effet secondaire, c'est naturel »** : le TMAO augmente sous LCLT [B] (PMID 37533033).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "[Carnitine Carnipure® Nutrimuscle](fiche:l-carnitine-carnipure-nutrimuscle) ; autres produits non relevés [?].",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "Recherche menée uniquement via PubMed (MCP), résumés lus ; 2026-10-06.\n- PMID 34684429 — Stefan M et al., *Nutrients* 2021 (ECR n=80, LCLT 5 semaines). doi:10.3390/nu13103432\n- PMID 20045157 — Ho JY et al., *Metabolism* 2010 (crossover, adultes de 45–52 ans). doi:10.1016/j.metabol.2009.11.012\n- PMID 12930169 — Kraemer WJ et al., *J Strength Cond Res* 2003 (crossover n=10). (DOI non reproduit : contient des chevrons)\n- PMID 16826026 — Kraemer WJ et al., *Med Sci Sports Exerc* 2006 (récepteurs aux androgènes). doi:10.1249/01.mss.0000227314.85728.35\n- PMID 34959912 — Mielgo-Ayuso J et al., *Nutrients* 2021 (revue systématique, performance). doi:10.3390/nu13124359\n- PMID 27335245 — Pooyandjoo M et al., *Obes Rev* 2016 (méta-analyse, poids). doi:10.1111/obr.12436\n- PMID 40298161 — Hamedi-Kalajahi F et al., *Int J Vitam Nutr Res* 2025 (méta-analyse parapluie). doi:10.31083/IJVNR40033\n- PMID 18065594 — Malaguarnera M et al., *Am J Clin Nutr* 2007 (centenaires). doi:10.1093/ajcn/86.5.1738\n- PMID 12804452 — Hudson S, Tabet N, *Cochrane Database Syst Rev* 2003 (ALC et démence). doi:10.1002/14651858.CD003158\n- PMID 24448972 — Kriston L et al., *Depress Anxiety* 2014 (méta-analyse en réseau, dépression persistante). doi:10.1002/da.22236\n- PMID 38594107 — Mirrafiei A et al., *Clin Ther* 2024 (diabète de type 2, dose-réponse). doi:10.1016/j.clinthera.2024.03.002\n- PMID 23430574 — Vidal-Casariego A et al., *Exp Clin Endocrinol Diabetes* 2013 (diabète de type 2). doi:10.1055/s-0033-1333688\n- PMID 41177307 — Liu H et al., *Diabetes Res Clin Pract* 2025 (femmes en surpoids). doi:10.1016/j.diabres.2025.112981\n- PMID 37533033 — Olek RA et al., *Nutr Metab* 2023 (ECR n=27, TMAO, os). doi:10.1186/s12986-023-00752-1\n- PMID 34949826 — Buffa JA et al., *Nat Microbiol* 2022 (gbu, carnitine, CVD). doi:10.1038/s41564-021-01010-x\n- PMID 42778937 — Obeid R et al., *Nutr Metab* 2026 (TMAO et MACE, méta-analyse parapluie). doi:10.1186/s12986-026-01214-0\n- PMID 29490096 — Stroup BM et al., *J Nutr* 2018 (PKU, TMAO urinaire). doi:10.1093/jn/nxx039\n- PMID 11502782 — Benvenga S et al., *J Clin Endocrinol Metab* 2001 (carnitine, hyperthyroïdie). doi:10.1210/jcem.86.8.7747\n- PMID 16901595 — Hathcock JN, Shao A, *Regul Toxicol Pharmacol* 2006 (analyse de risque, niveau observé sûr). doi:10.1016/j.yrtph.2006.06.007\n- Statuts FR/UE et AMA : non consultés [?].",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "L-carnitine (tartrate, acétyl-L-carnitine, propionyl)",
+ "type": "actif",
+ "unite": ""
+}

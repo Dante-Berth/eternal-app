@@ -1,0 +1,68 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "cosmetique",
+ "id": "la-roche-posay-retinol-b3-serum",
+ "intro": "",
+ "liens": [
+  "differine-adapalene-0-1",
+  "effederm-tretinoine-0-05",
+  "niacinamide",
+  "protocole-debutant-peau",
+  "retinoides"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "20078381",
+  "25738849",
+  "35675051"
+ ],
+ "preuve_globale": "B",
+ "resume": "Un rétinol cosmétique à preuve [B] (petits essais sur d'autres formules), à concentration non déclarée et 5 à 10 fois plus cher par mois que la trétinoïne sur ordonnance, dont les essais sont bien plus solides ; à envisager seulement si l'on refuse l'ordonnance et l'irritation de la trétinoïne.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Un rétinol cosmétique à preuve [B] (petits essais sur d'autres formules), à concentration non déclarée et 5 à 10 fois plus cher par mois que la trétinoïne sur ordonnance, dont les essais sont bien plus solides ; à envisager seulement si l'on refuse l'ordonnance et l'irritation de la trétinoïne.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- Actifs annoncés : rétinol « pur + à libération graduelle », niacinamide, glycérine, hyaluronate de sodium, huile de soja (pharmacies, consultées le 2026-10-06). **Concentration en rétinol non indiquée** sur les pages lues [?].\n- INCI partiel relevé dans un extrait de recherche web d'une page de pharmacie, non relu sur la page : Aqua, Glycerin, Cyclohexasiloxane, Alcohol Denat., Pentylene Glycol, Niacinamide, Dimethicone, Glycine Soja Oil, PPG-6-Decyltetradeceth-30, Sodium Hyaluronate, Retinol, Adenosine… [?]. Alcool dénaturé présent : risque d'irritation et de sécheresse (propriété de l'ingrédient, non testée sur ce produit [?]).\n- **Rétinol et photovieillissement, autres formules** : 0,075 % crème, 26 semaines, 57 Japonaises, hémivisage : rides fines améliorées chez 50 % vs 24 % côté excipient ; 3 arrêts pour irritation (Kikuchi 2009, PMID 20078381) [B] ; 0,1 % « stabilisé », 52 semaines, 62 sujets : supérieur à l'excipient, rides fines des pattes d'oie améliorées de 44 % à 52 semaines (Randhawa 2015, PMID 25738849) [B] ; essai de l'industrie du soin selon la fiche rétinoïdes, affiliations non lisibles dans le résumé.\n- **Rétinol vs trétinoïne** : sur 20 femmes analysées, aucune différence significative de score de photovieillissement à 24 semaines entre un mélange rétinol/esters 1,1 % et la trétinoïne 0,02 % (IC −2 à 1), érythème 11 % vs 64 % ; **absence de preuve de différence, pas une preuve d'équivalence** (Chien 2022, PMID 35675051) [B].\n- **Ce produit** : aucun essai publié sur PubMed pour cette formule trouvé (non recherché par nom exact) [?]. Les concentrations des essais (0,04 à 0,4 %) ne peuvent pas être comparées à une dose non déclarée.\n- Niacinamide : voir [niacinamide](fiche:niacinamide) (essais à 4-5 %, [B]) ; sa dose ici est non déclarée [?].\n- Détail du niveau de preuve : [rétinoïdes](fiche:retinoides).",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "- Cosmétique (règlement (CE) n° 1223/2009). Le règlement (UE) 2024/996 plafonne rétinol et esters à 0,3 % équivalent rétinol (ER) hors lotions corporelles (0,05 %) et impose la mention « Contient de la vitamine A. Tenez compte de votre apport quotidien avant utilisation » ; produits non conformes interdits de mise sur le marché depuis le 2025-11-01 et de mise à disposition à partir du 2027-05-01 (EUR-Lex, consulté le 2026-10-06). Le règlement ne contient aucune mention de la grossesse (EUR-Lex, consulté le 2026-10-06).\n- Grossesse : les pages vendeurs lues ne donnent aucun avertissement spécifique (consultées le 2026-10-06). Les rétinoïdes médicamenteux sont contre-indiqués (RCP, voir [rétinoïdes](fiche:retinoides)) ; pour le rétinol cosmétique, une position officielle (ANSM) n'a pas été retrouvée sur une source officielle : seuls des blogs la citent, donc non retenue [?]. Précaution raisonnable : éviter pendant la grossesse et l'allaitement, par analogie, pas par donnée.\n- AMA : sans objet.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- « Réduit les rides profondes, uniformise le teint, resurface » : rides fines améliorées par le rétinol dans des essais d'autres formules [B] ; rides profondes améliorées chez 28 % vs 2 % des sujets à 0,075 % [B] (PMID 20078381) ; pour ce produit précis [M].\n- « Formule rétinol pur + libération graduelle » : mécanisme de formulation de la marque, aucune donnée comparative trouvée [M].\n- « Convient aux peaux sensibles » : allégation de la marque [M] ; un vendeur signale des avis rapportant irritation et sécheresse en usage quotidien initial (Parapharmacie Lafayette, consultée le 2026-10-06), indicateur secondaire de tolérance.",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Le soir sur visage et cou, seul ou sous une crème ; SPF ≥ 15 le matin (consigne de la marque, pharmacies consultées le 2026-10-06). Commencer 2 à 3 soirs par semaine puis augmenter selon la tolérance : conseil de bon sens, non issu d'un essai [?]. Voir [protocole débutant](fiche:protocole-debutant-peau).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix relevés (30 ml) : 31,42 € (promotion, Parapharmacie Lafayette ; 34,92 € hors promotion), 31,98 € (Pharmacie City Pharma), 33,70 € (Pharmacie Polygone) (relevés du 2026-10-06).\n- Durée d'un flacon non indiquée ; estimation personnelle : 2 mois en usage quotidien → environ 15 à 18 €/mois.\n- Alternatives à preuve supérieure et moins chères : [Effederm 0,05 %](fiche:effederm-tretinoine-0-05) (trétinoïne [A], 3,39 € le tube, ordonnance, hors AMM pour l'anti-âge) ; [Differine 0,1 %](fiche:differine-adapalene-0-1) (adapalène [B], 4,82 €). Aucun rétinol cosmétique moins cher à concentration déclarée comparé ici [?].",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Texture annoncée « fluide soyeux, non collant » (City Pharma) ; irritation et sécheresse rapportées par certains acheteurs (Lafayette). Non systématisé [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Composition, prix, consignes : [Pharmacie City Pharma](https://pharmacie-citypharma.fr/en/la-roche-posay-retinol-b3-anti-wrinkle-serum-30ml), [Pharmacie Polygone](https://www.pharmaciepolygone.com/fr/products/la-roche-posay-retinol-b3-serum-30ml), [Parapharmacie Lafayette](https://www.parapharmacielafayette.com/fr/p/la-roche-posay-retinol-b3-serum-regenerant-anti-rides-30-ml-F60342.html) (consultés le 2026-10-06) ; site de la marque illisible (HTTP 403)\n- Réglementation : [Règlement (UE) 2024/996](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R0996) (consulté le 2026-10-06)\n- Kikuchi K et al., J Dermatolog Treat 2009 — PMID 20078381 — [DOI](https://doi.org/10.1080/09546630902973987)\n- Randhawa M et al., J Drugs Dermatol 2015 — PMID 25738849 (pas de DOI indexé)\n- Chien AL et al., JAMA Dermatol 2022 — PMID 35675051 — [DOI](https://doi.org/10.1001/jamadermatol.2022.1891)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "La Roche-Posay Rétinol B3 sérum (30 ml)",
+ "type": "produit",
+ "unite": ""
+}

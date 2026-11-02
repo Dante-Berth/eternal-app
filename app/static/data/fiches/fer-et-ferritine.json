@@ -1,0 +1,84 @@
+{
+ "cibles": [
+  "prevention",
+  "cheveux",
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-10",
+ "famille": "complement",
+ "id": "fer-et-ferritine",
+ "intro": "",
+ "liens": [
+  "bilans-biologiques",
+  "biomarqueur-fer-ferritine-transferrine",
+  "effluvium-telogene",
+  "tardyferon-80-mg"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 10,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "27087396",
+  "29626044",
+  "12763985",
+  "25700159",
+  "42747316",
+  "40945632",
+  "38407751",
+  "37632415",
+  "20888064",
+  "36728680"
+ ],
+ "preuve_globale": "A",
+ "resume": "Le fer ne se prend pas à l'aveugle : il se prescrit sur une carence mesurée (ferritine). Chez une femme réglée, la supplémentation quotidienne réduit l'anémie (RR 0,39) et la carence (RR 0,62), améliore la performance à l'effort et réduit la fatigue ressentie [A] (PMID 27087396).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Le fer ne se prend **pas à l'aveugle** : il se prescrit sur une carence mesurée (ferritine). Chez une femme réglée, la supplémentation quotidienne réduit l'anémie (RR 0,39) et la carence (RR 0,62), améliore la performance à l'effort et réduit la fatigue ressentie [A] (PMID 27087396).\n- Chez les adultes carencés **sans anémie**, le fer réduit la fatigue déclarée (SMD −0,38) mais pas les mesures objectives de capacité physique (VO2max) [A] (PMID 29626044). Un essai sur 144 femmes montre le bénéfice seulement si la ferritine est ≤ 50 µg/l [B, ECR unique n=144] (PMID 12763985).\n- Cheveux : le lien ferritine basse – chute diffuse est une association [B] ; aucun essai de supplémentation contrôlé trouvé [?]. Voir [effluvium télogène](fiche:effluvium-telogene).\n- Prix à payer : effets digestifs fréquents avec le sulfate ferreux (OR 2,32 contre placebo) [A] (PMID 25700159).\n- Seuils : l'ASH 2026 place la carence à une ferritine ≤ 30 ng/mL chez la plupart des adultes (50 ng/mL pour certains profils à risque), avec ou sans anémie ; l'ancien seuil était 15 ng/mL (ASH 2026, PMID 42747316 ; chiffres lus dans la presse spécialisée, pas dans le texte intégral).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Le fer entre dans l'hémoglobine, la myoglobine et des enzymes du métabolisme énergétique et cérébral. La ferritine reflète les réserves ; elle monte aussi avec l'inflammation, d'où un seuil plus haut en cas d'inflammation (ferritine < 100 ng/mL ou saturation de la transferrine < 20 % : à considérer, selon l'ASH 2026, PMID 42747316).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Niveau | Donnée |\n|---|---|---|\n| Anémie et carence chez la femme réglée | [A] | 67 essais, 8 506 femmes : hémoglobine plus haute, moins d'anémie et de carence ; peu d'essais à faible risque de biais (10 sur 67) (PMID 27087396). |\n| Fatigue, carence sans anémie | [A] | 18 essais, 1 170 patients : fatigue −0,38 SMD ; pas d'effet sur le VO2max (PMID 29626044). |\n| Fatigue inexpliquée, femmes non anémiques | [B, ECR unique n=144] | Fatigue −29 % sous fer contre −13 % sous placebo à 4 semaines ; seules les femmes avec ferritine ≤ 50 µg/l s'améliorent (PMID 12763985). |\n| Humeur, cognition, non anémiques | [A, hétérogène] | 12 essais randomisés : anxiété d = 0,34, fatigue d = 0,34, mémoire à court terme d = 0,53 ; pas d'effet sur l'attention ni la dépression ; effets absents si on exclut les carencés (PMID 40945632). |\n| Athlètes | [A, certitude modérée à faible] | 13 essais, 449 sportifs : la ferritine monte (SMD 1,27), hémoglobine inchangée, VO2max : tendance non significative (SMD 0,49, p = 0,086) (PMID 38407751). |\n| Insuffisance cardiaque avec carence | [A] | Fer intraveineux (carboxymaltose), 3 essais, 4 501 patients : moins d'hospitalisations (RR 0,86), pas d'effet sur la mortalité (PMID 37632415). Usage médical hospitalier. |\n| Chute de cheveux diffuse | [B] | Revue : association ferritine basse – alopécie, études de petite taille, aucun essai randomisé de traitement (PMID 20888064). |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Dose et schéma (quotidien, un jour sur deux) relèvent du médecin ou du pharmacien. Les formes comparées : le bisglycinate ferreux donne moins d'effets digestifs que les autres sels (IRR 0,36) et plus d'hémoglobine chez la femme enceinte [A] (PMID 36728680). La méta-analyse sur le sulfate ferreux ne trouve pas de relation entre dose et effets digestifs (PMID 25700159). Teneur réelle des compléments vendus en France : non recherchée [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Médicaments (sulfate ferreux : Tardyferon 80 mg, 50 mg réservé à la femme enceinte) : remboursables, indiqués dans l'anémie par carence en fer et la prévention chez la femme enceinte à risque (BDPM, fiches mises à jour le 2026-08-31 et 2026-08-03 ; HAS, SMR important, avis de 2021, consultés le 2026-10-10 via recherche web).\n- Compléments alimentaires : statut et plafond réglementaire non consultés [?].\n- Fer intraveineux : acte hospitalier.\n- AMA : le fer n'est pas une substance interdite ; en revanche l'érythropoïétine et les méthodes de dopage sanguin le sont. Liste 2026 non relue pour le fer spécifiquement [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Effets digestifs : OR 2,32 contre placebo (43 essais, 6 831 adultes), constipation RR 2,07 et diarrhée RR 2,13 chez la femme réglée (PMID 25700159, 27087396) [A].\n- Surcharge en fer (hémochromatose), risque en cas de prise prolongée sans carence, interactions (thé, calcium, IPP, lévothyroxine) : non sourcés ici [?]. Raison de plus pour doser avant de prendre.\n- Dosage à faire avant : une ferritine « normale » basse ou une inflammation faussent la lecture.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Fer anti-chute de cheveux » : seule l'association avec une ferritine basse est documentée [B] ; chez qui a des réserves normales, aucune donnée [?].\n- « Ma ferritine est dans la norme du labo, donc tout va bien » : les anciennes normes (15 ng/mL) sont jugées trop basses par l'ASH 2026 (PMID 42747316) ; juger avec un médecin.\n- « Fer = performance » : chez les athlètes, la ferritine monte mais la performance mesurée n'est pas établie (PMID 38407751).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Cause de la carence (règles abondantes, alimentation, saignement digestif, maladie cœliaque), ferritine + CRP + saturation, choix oral ou intraveineux ; voir [bilans biologiques](fiche:bilans-biologiques).",
+   "titre": "Ce qu'un médecin pourrait évaluer"
+  },
+  {
+   "markdown": "[Tardyferon 80 mg](fiche:tardyferon-80-mg) (médicament remboursé).\n\nFiches « examen » liées : [bilan biologique du fer (seuils)](fiche:biomarqueur-fer-ferritine-transferrine)",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 27087396 — Low MS et al., *Cochrane Database Syst Rev* 2016. doi:10.1002/14651858.CD009747.pub2\n- PMID 29626044 — Houston BL et al., *BMJ Open* 2018.\n- PMID 12763985 — Verdon F et al., *BMJ* 2003.\n- PMID 40945632 — Fiani D et al., *Neurosci Biobehav Rev* 2025.\n- PMID 38407751 — Šmid AN et al., *Sports Med* 2024.\n- PMID 37632415 — Ponikowski P et al., *Eur Heart J* 2023.\n- PMID 25700159 — Tolkien Z et al., *PLoS One* 2015.\n- PMID 36728680 — Fischer JAJ et al., *Nutr Rev* 2023.\n- PMID 20888064 — St Pierre SA et al., *J Am Acad Dermatol* 2010.\n- PMID 42747316 — Powers JM et al., *Blood Adv* 2026, lignes directrices ASH ; seuils vus via la presse (uspharmacist.com, patientcareonline.com), consultés le 2026-10-10.\n- BDPM Tardyferon 80 mg et 50 mg (base-donnees-publique.medicaments.gouv.fr), HAS avis Tardyferon (has-sante.fr/jcms/p_3245669), consultés le 2026-10-10.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Fer et ferritine",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,84 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-18",
+ "famille": "alimentation",
+ "id": "tomate-carotte-poivron-et-aliments-colores",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "antioxydants-alimentaires-et-absorption",
+  "baies-myrtilles-et-anthocyanes",
+  "legumes-comparatif-et-tier-list",
+  "legumes-verts-a-feuilles",
+  "vitamines-aliments-et-absorption"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28799780",
+  "28129549",
+  "37496241",
+  "42300210",
+  "33000670",
+  "30971126",
+  "20155614",
+  "38598978",
+  "35028521"
+ ],
+ "preuve_globale": "B",
+ "resume": "Oui, le poivron rouge contient environ 2,4 fois plus de vitamine C que l'orange : 128 mg contre 53 mg pour 100 g d'aliment cru (USDA FoodData Central, base SR Legacy, FDC 170108 et 169097, consulté le 2026-10-18). Ce que cela change pour la santé n'est pas démontré : aucune étude lue ne compare l…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Oui, le poivron rouge contient environ 2,4 fois plus de vitamine C que l'orange** : 128 mg contre 53 mg pour 100 g d'aliment cru (USDA FoodData Central, base SR Legacy, FDC 170108 et 169097, consulté le 2026-10-18). Ce que cela change pour la santé n'est pas démontré : aucune étude lue ne compare la vitamine C du poivron à celle de l'orange sur des critères cliniques [?].\n- **Tomate : les cohortes lient lycopène et tomate à moins d'AVC et de maladie cardiovasculaire.** Méta-analyse de 28 publications : consommation ou taux sérique de lycopène les plus hauts, AVC HR 0,74 (0,62-0,89), maladie cardiovasculaire HR 0,86 (0,77-0,95) ; taux sérique le plus haut et mortalité HR 0,63 (0,49-0,81) ; pas d'association significative avec l'infarctus [B, observationnel] (PMID 28799780).\n- **Les essais sont plus modestes.** Méta-analyse de 21 essais d'intervention (tomate ou lycopène) : LDL -0,22 mmol/L, IL-6 en baisse (DMS -0,25), dilatation médiée par le flux +2,53 % avec la tomate ; tension systolique -5,66 mmHg avec la supplémentation en lycopène [B, le résumé ne précise pas que tous les essais sont randomisés] (PMID 28129549). Méta-analyse plus récente (34 ECR) : baisse du malondialdéhyde, mais pas d'effet significatif sur les autres facteurs de risque cités dans le résumé (triglycérides, entre autres) [A, hétérogène] (PMID 37496241). Chez les personnes en surpoids ou obèses (11 ECR) : tour de taille -1,15 cm (-2,27 à -0,04), pas d'effet cohérent sur le poids ni l'IMC [A, effet minime] (PMID 42300210).\n- **Carottes et légumes-racines : association avec moins de mortalité en cohortes, pas d'essai identifié.** Dans 81 cohortes, les carottes font partie des sources de légumes les plus associées à un bénéfice cardiovasculaire [B] (PMID 33000670) ; légumes-racines et mortalité toutes causes RR 0,76 (0,66-0,88) dans une revue de méta-analyses [B] (PMID 30971126). Étude ou essai propre à la carotte : non trouvé [?].\n- **Piège : le bêta-carotène en complément.** Les essais ATBC et CARET chez des fumeurs ont rapporté plus de tumeurs pulmonaires après une supplémentation élevée et prolongée ; d'autres études (Physicians' Health, Linxian) n'ont pas confirmé ; la revue qui le décrit est écrite par une salariée d'un fabricant de bêta-carotène (DSM) et conclut à un bénéfice chez les non-fumeurs en bonne santé [B, revue d'un auteur à conflit d'intérêts] (PMID 20155614). Les carotènes des aliments ne sont pas ceux des gélules à haute dose.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Lycopène (tomate), bêta-carotène (carotte, poivron, courges), vitamine C et polyphénols. L'étude de 2026 sur la tomate note l'absence de dose-réponse au lycopène : l'effet, s'il existe, serait celui de l'aliment entier plutôt que d'une molécule isolée [?] (PMID 42300210, résumé tronqué dans les sources lues).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| AVC, maladie cardiovasculaire (lycopène, tomate) | HR 0,74 et 0,86 (PMID 28799780) | [B, observationnel] |\n| Mortalité (lycopène sérique) | HR 0,63 (0,49-0,81) (PMID 28799780) | [B] |\n| LDL, inflammation, endothélium (essais, tomate) | LDL -0,22 mmol/L ; FMD +2,53 % ; IL-6 DMS -0,25 (PMID 28129549) | [B] |\n| Tension (lycopène en supplément) | -5,66 mmHg systolique (PMID 28129549) | [B] |\n| Tour de taille (tomate, surpoids) | -1,15 cm (PMID 42300210) | [A, effet minime] |\n| Carottes, légumes-racines | RR mortalité 0,76 pour les légumes-racines (PMID 30971126) ; carottes parmi les sources associées à plus de bénéfice (PMID 33000670) | [B] |\n| Légumes rouges/jaunes et cognition | cités avec les crucifères et les verts à feuilles comme associés à un meilleur maintien cognitif (PMID 38598978) | [B, observationnel] |\n| Diabète de type 2 (légumes totaux) | par 200 g/j, RR 0,97 (0,94-1,01), non significatif ; fruits 0,96 (0,92-1,00) (PMID 35028521) | [B] |\n| Fruits colorés (agrumes, pommes, baies) | voir ci-dessous | [B] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Dans 81 cohortes, les agrumes, le jus de fruit 100 % et les fruits à pépins font partie des sources de fruits avec le plus de bénéfice cardiovasculaire ; aucune source n'a d'association néfaste (PMID 33000670).\n- Diabète de type 2 : associations inverses pour pommes, myrtilles, pamplemousse, raisins ; positives pour melon cantaloup et jus de fruit (peu d'études chacune) (PMID 35028521). Le jus ne vaut pas le fruit entier sur ce point.\n- Baies : voir [baies et anthocyanes](fiche:baies-myrtilles-et-anthocyanes). Un classement « par couleur » (« mangez l'arc-en-ciel ») n'a pas été testé tête à tête dans les sources lues [?].",
+   "titre": "Fruits colorés"
+  },
+  {
+   "markdown": "- **Composition (USDA FoodData Central, base SR Legacy, cru, par 100 g, consulté le 2026-10-18)**\n\n| Aliment | Vit. C (mg) | Vit. A (µg RAE) | Folates (µg) | Potassium (mg) | Fibres (g) | kcal | FDC |\n|---|---|---|---|---|---|---|---|\n| Poivron rouge | 128 | 157 | 46 | 211 | 2,1 | 26 | 170108 |\n| Orange | 53,2 | non relevé | non relevé | non relevé | non relevé | non relevé | 169097 |\n| Tomate | 13,7 | 42 | 15 | 237 | 1,2 | 18 | 170457 |\n\nCarotte, poivron jaune ou vert, patate douce, courges, fruits rouges : non relevés (accès à l'API limité) [?].\n- **Doses efficaces** : pas de dose en g/j de tomate établie dans les sources lues [?].\n- **Cuisson** (tomate cuite et lycopène, carotte cuite et caroténoïdes) : pas de source vérifiée ici [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Aliments (frais, concentré, coulis) ; compléments de lycopène et de bêta-carotène : statut et allégations non consultés [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Bêta-carotène en gélule : à éviter chez les fumeurs et anciens gros fumeurs** (ATBC, CARET ; PMID 20155614). À discuter avec un médecin pour tout autre profil.\n- **Caroténodermie** (peau orangée) en cas de consommation très élevée de carottes ou de bêta-carotène : fréquence et réversibilité non sourcées ici [?].\n- **Aliments acides** (tomate) et reflux : non recherché [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Le poivron rouge a plus de vitamine C que l'orange, donc il vaut mieux »** : le chiffre est exact (128 vs 53 mg/100 g crus) mais l'avantage clinique n'est pas démontré ; la vitamine C se détruit en partie à la cuisson (valeur après cuisson non relevée) [?].\n- **« Le lycopène (gélule) fait baisser le risque cardiovasculaire »** : bénéfice sur la tension dans une méta-analyse d'essais d'intervention (PMID 28129549), mais la méta-analyse de 34 ECR ne trouve pas d'effet significatif sur la plupart des facteurs de risque (PMID 37496241) [B, discordant].\n- **« Plus c'est coloré, mieux c'est »** : non testé ; dans l'analyse des 81 cohortes, aucune source de fruit ou de légume n'a d'association néfaste (PMID 33000670).\n- **« Le bêta-carotène est un antioxydant protecteur en complément »** : effet délétère possible chez les fumeurs (PMID 20155614).\n\nVoir aussi : [légumes : tier list](fiche:legumes-comparatif-et-tier-list) · [légumes verts à feuilles](fiche:legumes-verts-a-feuilles) · [baies et anthocyanes](fiche:baies-myrtilles-et-anthocyanes) · [antioxydants alimentaires et absorption](fiche:antioxydants-alimentaires-et-absorption) · [vitamines : aliments et absorption](fiche:vitamines-aliments-et-absorption) · [alimentation : synthèse](fiche:alimentation).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 28799780 — Cheng et al., *Crit Rev Food Sci Nutr* 2017 (lycopène, tomate et maladies cardiovasculaires).\n- PMID 28129549 — Cheng et al., *Atherosclerosis* 2017 (tomate, lycopène et facteurs de risque).\n- PMID 37496241 — Zamani et al., *Curr Pharm Des* 2023 (lycopène, tomate, facteurs de risque).\n- PMID 42300210 — Sani et al., *Food Funct* 2026 (tomates et obésité). doi:10.1039/d6fo00495d\n- PMID 33000670 — Zurbau et al., *J Am Heart Assoc* 2020. doi:10.1161/JAHA.120.017728\n- PMID 30971126 — Kwok et al., *Eur J Prev Cardiol* 2019. doi:10.1177/2047487319843667\n- PMID 38598978 — Huang et al., *J Nutr Health Aging* 2024.\n- PMID 35028521 — Halvorsen et al., *BMJ Nutr Prev Health* 2021 (fruits, légumes et diabète de type 2).\n- PMID 20155614 — Goralczyk, *Nutr Cancer* 2009 (bêta-carotène, fumeurs ; auteur affilié à DSM Nutritional Products). doi:10.1080/01635580903285155\n- USDA FoodData Central, base SR Legacy, FDC 170108, 169097, 170457 (consulté le 2026-10-18).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Tomate, carotte, poivron rouge et aliments colorés (caroténoïdes, vitamine C)",
+ "type": "actif",
+ "unite": ""
+}

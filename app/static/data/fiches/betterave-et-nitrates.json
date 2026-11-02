@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "muscle-os",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "alimentation",
+ "id": "betterave-et-nitrates",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "citrulline",
+  "exercice-physique",
+  "tadalafil",
+  "tension-arterielle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 10,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "23596162",
+  "28319596",
+  "39069465",
+  "38546454",
+  "27600147",
+  "28566306",
+  "26332900",
+  "7410821",
+  "8148871",
+  "30725697"
+ ],
+ "preuve_globale": "A",
+ "resume": "Tension : baisse de la systolique en consultation, qui ne se retrouve pas toujours en mesure ambulatoire. 16 essais croisés (n=254, 2 h à 15 jours) : systolique -4,4 mmHg (-5,9 à -2,8), diastolique -1,1 (NS) [A, petits essais] (PMID 23596162). 13 essais de 1 à 6 semaines (n=325) : systolique -4,1…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Tension : baisse de la systolique en consultation, qui ne se retrouve pas toujours en mesure ambulatoire.** 16 essais croisés (n=254, 2 h à 15 jours) : systolique -4,4 mmHg (-5,9 à -2,8), diastolique -1,1 (NS) [A, petits essais] (PMID 23596162). 13 essais de 1 à 6 semaines (n=325) : systolique -4,1 mmHg, diastolique -2,0 en consultation, **mais aucun effet significatif sur la tension mesurée sur 24 h ou à domicile** [A] (PMID 28319596). Chez les hypertendus (11 essais, n=349, 200 à 800 mg de nitrate/jour) : systolique en consultation -5,31 mmHg (-7,46 à -3,16), pas d'effet sur la diastolique ni sur la tension de 24 h ; certitude faible [A, faible certitude] (PMID 39069465).\n- **Un essai de 4 semaines chez 15 hypertendus de 56-71 ans déjà traités (2 × 400 mg de nitrate/jour) ne trouve aucun effet sur la tension ni sur la fonction vasculaire**, alors que le nitrate et le nitrite plasmatiques et salivaires augmentent [B, ECR croisé n=15] (PMID 38546454).\n- **Performance sportive : petit effet, surtout sur le temps jusqu'à épuisement.** 47 études (76 essais) : effet global sur les contre-la-montre trivial et non significatif (ES -0,10, -0,27 à 0,06) ; temps jusqu'à épuisement ES 0,33 (0,15-0,50) [A, hétérogène] (PMID 27600147).\n- **Cohortes** : chez 1 226 femmes de 70-85 ans suivies 15 ans, chaque écart-type de nitrate issu des légumes est associé à une mortalité athérosclérotique plus basse (HR 0,79) ; l'association s'atténue après ajustement sur la qualité de l'alimentation (HR 0,85, 0,72-1,01) [B, cohorte] (PMID 28566306).\n- **Le bain de bouche antiseptique peut annuler une partie de l'effet** (voir Mécanisme).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Les nitrates des légumes sont réduits en nitrite par les bactéries de la bouche, puis en oxyde nitrique, vasodilatateur. Un bain de bouche à la chlorhexidine (« fort ») ou plus faible réduit la montée du nitrite plasmatique après six jours de jus de betterave (12 volontaires) ; la tension de repos n'a pas changé mais la tension systolique et moyenne à la marche était plus élevée 4 h après la dernière prise avec le bain de bouche fort [B, ECR n=12] (PMID 26332900). Part des effets due au nitrate plutôt qu'aux autres composés de la betterave : non tranchée dans les sources lues [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Tension, population générale | SBP -4,4 mmHg (-5,9 à -2,8), DBP -1,1 (NS) ; lien avec la dose de nitrate (PMID 23596162) | [A, essais courts, n petits] |\n| Tension, 1 à 6 semaines | SBP -4,1, DBP -2,0 en consultation ; pas d'effet en tension de 24 h ou à domicile (PMID 28319596) | [A] |\n| Tension, hypertendus | clinique SBP -5,31 mmHg ; pas d'effet sur DBP ni 24 h ; GRADE faible ; pas de signe de tolérance (PMID 39069465) | [A, faible certitude] |\n| Hypertendus traités, 4 semaines | aucun effet sur la tension ni la fonction vasculaire, 15 sujets (PMID 38546454) | [B, ECR croisé n=15, négatif] |\n| Performance d'endurance | contre-la-montre ES -0,10 (NS), temps jusqu'à épuisement ES 0,33 (0,15-0,50) (PMID 27600147) | [A, hétérogène] |\n| Mortalité athéroscléreuse (cohorte) | HR 0,79 (0,68-0,93) par écart-type de nitrate des légumes, 0,85 (0,72-1,01) après ajustement sur la qualité de l'alimentation ; mortalité toutes causes HR 0,87 (0,78-0,97) (PMID 28566306) | [B] |\n| Cognition, érection, glycémie | non recherchés dans cette fiche [?] | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Nitrate** : 200 à 800 mg/jour sous forme de jus de betterave chez les hypertendus (PMID 39069465) ; 2 × ~400 mg/jour dans l'essai négatif de 4 semaines (PMID 38546454) ; 70 mL de jus (6,2 mmol de nitrate) deux fois par jour dans l'essai bain de bouche (PMID 26332900).\n- **Vendus** : jus de betterave et « shots » concentrés, poudres, gélules : la teneur en nitrate varie ; elle n'est pas toujours déclarée ; non vérifiée sur les produits français [?]. Le placebo de l'essai de 4 semaines est un jus de betterave appauvri en nitrate (PMID 38546454).\n- **Légumes riches en nitrate** (feuilles vertes, roquette, épinards, betterave) : les cohortes ci-dessus portent sur le nitrate des légumes (PMID 28566306).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Aliment (betterave cuite ou crue, jus). Compléments à base de betterave ou de nitrate : statut et allégations non consultés [?]. Statut AMA : non concerné pour l'aliment (liste en vigueur non consultée) [?]. Le règlement (UE) 2023/915 fixe des teneurs maximales en nitrates pour les épinards, laitues et roquette et les aliments pour bébés (EUR-Lex, consulté le 2026-10-14) ; la betterave n'y figure pas pour les nitrates (cadmium : 0,060 mg/kg pour les betteraves).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Antihypertenseurs, dérivés nitrés, médicaments de l'érection (inhibiteurs de la PDE5)** : interaction possible avec le même mécanisme (oxyde nitrique) ; recherche PubMed ciblée (betterave/nitrate alimentaire et sildenafil ou inhibiteur de PDE5, pression artérielle) : aucun essai d'interaction trouvé [?]. En cas de traitement, demander l'avis du médecin avant une cure régulière.\n- **Bain de bouche antiseptique** : peut diminuer la production de nitrite (PMID 26332900). Tension à l'effort chez le sujet utilisant un produit fort, voir ci-dessus.\n- **Oxalates et calculs rénaux** : la betterave contient beaucoup d'oxalate (dosage enzymatique de 1980 : teneur 5 fois supérieure aux valeurs publiées avant, parmi les aliments riches avec épinards, rhubarbe, cacahuètes, chocolat, persil, thé) (PMID 7410821, ancien, valeur absolue non reprise) ; risque de calculs chez le patient lithiasique : non étudié dans les sources lues [?]. **Urines rouges (bétanurie)** : urine rose ou rouge après betterave, estimée chez 10 à 14 % de la population, plus fréquente en cas de carence en fer et de malabsorption (PMID 8148871) ; la gravité n'est pas discutée dans l'extrait lu (PMID 30725697, fiche de référence).\n- **Nitrate de la charcuterie vs nitrate des légumes** : distinction non étudiée ici [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché. Pour la citrulline (pastèque), voir [citrulline](fiche:citrulline).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Un shot de betterave baisse la tension »** : baisse de quelques mmHg en consultation, pas confirmée en tension de 24 h ni dans un essai de 4 semaines chez des hypertendus traités [A, B] (PMID 28319596, 38546454).\n- **« La betterave booste la performance »** : effet trivial et non significatif sur le contre-la-montre ; petit effet sur le temps jusqu'à épuisement [A] (PMID 27600147).\n- **« Plus de nitrate, toujours mieux »** : relation dose-réponse sur la systolique dans une méta-analyse (PMID 23596162) mais certitude faible chez les hypertendus (PMID 39069465).\n- **« Les nitrates, c'est toujours mauvais (charcuterie) »** : la cohorte lue porte sur le nitrate des légumes, pas des viandes transformées [B] (PMID 28566306).\n\nVoir aussi : [alimentation : synthèse](fiche:alimentation) · [tension artérielle](fiche:tension-arterielle) · [citrulline](fiche:citrulline) · [exercice physique](fiche:exercice-physique) · [sexualité : tadalafil](fiche:tadalafil).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 23596162 — Siervo et al., *J Nutr* 2013 (nitrate, betterave et tension). doi:10.3945/jn.112.170233\n- PMID 28319596 — Ashor et al., *J Hypertens* 2017 (tension, effets à moyen terme). doi:10.1097/HJH.0000000000001305\n- PMID 39069465 — Grönroos et al., *Nutr Metab Cardiovasc Dis* 2024 (hypertendus). doi:10.1016/j.numecd.2024.06.009\n- PMID 38546454 — Fejes et al., *Food Funct* 2024 (4 semaines, hypertendus âgés). doi:10.1039/d3fo03749e\n- PMID 27600147 — McMahon et al., *Sports Med* 2017 (endurance). doi:10.1007/s40279-016-0617-7\n- PMID 28566306 — Blekkenhorst et al., *Am J Clin Nutr* 2017 (cohorte de femmes âgées). doi:10.3945/ajcn.116.146761\n- PMID 26332900 — McDonagh et al., *Int J Sports Med* 2015 (bain de bouche). doi:10.1055/s-0035-1554700\n- Règlement (UE) 2023/915, annexe (EUR-Lex, consulté le 2026-10-14).\n- PMID 8148871 — Watts et al., *Pharmacogenetics* 1993 (bétanurie). doi:10.1097/00008571-199312000-00004\n- PMID 30725697 — Sauder et al., *StatPearls* 2023 (Beeturia).\n- PMID 7410821 — Kasidas et al., *J Hum Nutr* 1980 (oxalate des aliments). doi:10.3109/09637488009143446",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Betterave et nitrates alimentaires",
+ "type": "actif",
+ "unite": ""
+}

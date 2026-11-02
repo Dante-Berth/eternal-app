@@ -1,0 +1,90 @@
+{
+ "cibles": [
+  "prevention",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "goutte-et-hyperuricemie",
+ "intro": "Dans la goutte, la cause (l'urate) est ciblable : maintenir l'uricémie sous un seuil permet la dissolution des cristaux (ameli). Pourtant seulement un tiers à la moitié des patients reçoivent un traitement hypo-uricémiant (PMID 32541923). À l'inverse, traiter une hyperuricémie sans symptôme pour protéger le cœur ou le rein n'a pas fonctionné dans les essais lus.",
+ "liens": [
+  "alimentation",
+  "apnee-du-sommeil",
+  "arthrose-prevention-et-prise-en-charge",
+  "biomarqueur-acide-urique",
+  "prevention-avc-et-infarctus",
+  "prevention-maladie-renale-chronique",
+  "tabac-et-alcool"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 10,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "32541923",
+  "27457514",
+  "30343856",
+  "36216006",
+  "32579811",
+  "15094272",
+  "15014182",
+  "29527974",
+  "30485934",
+  "39520613"
+ ],
+ "preuve_globale": "B",
+ "resume": "Traitement de fond dès la goutte confirmée, avec cible d'uricémie < 360 µmol/L (< 6 mg/dL), < 300 si goutte sévère (EULAR 2016) ; allopurinol en première intention, dose progressive [B, recommandations] (PMID 27457514). Ameli donne la même cible (consulté 2026-10-15).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Traitement de fond dès la goutte confirmée, avec cible d'uricémie < 360 µmol/L (< 6 mg/dL)**, < 300 si goutte sévère (EULAR 2016) ; allopurinol en première intention, dose progressive [B, recommandations] (PMID 27457514). Ameli donne la même cible (consulté 2026-10-15).\n- **Le soin organisé marche** : soins infirmiers structurés avec cible d'uricémie : 95 % vs 30 % sous la cible à 2 ans (RR 3,18 ; 2,42-4,18) [B, ECR unique n=517] (PMID 30343856).\n- **Hyperuricémie sans crise : pas de traitement médicamenteux** (ameli). Allopurinol chez coronariens sans goutte : HR 1,04 (0,89-1,21) sur infarctus/AVC/mort CV [B, ECR unique n=5721] (PMID 36216006) ; chez insuffisants rénaux : eGFR -3,33 vs -3,23 ml/min/an [B, ECR unique n=363] (PMID 32579811).\n- **Alcool, surtout la bière, et viande/fruits de mer augmentent le risque** (bière RR 1,49 par 12 oz/jour ; alcool ≥ 50 g/j RR 2,53), **produits laitiers le réduisent** (RR 0,56) [B, cohortes] (PMID 15094272, 15014182).\n- **Febuxostat vs allopurinol (gouttes avec maladie CV)** : non-infériorité sur le critère composite (HR 1,03) mais mortalité CV plus élevée sous febuxostat (HR 1,34 ; 1,03-1,73) [B, ECR unique n=6190] (PMID 29527974).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Hyperuricémie chronique (excès de production, surtout défaut d'élimination rénale selon ameli) qui conduit au dépôt de cristaux d'urate de sodium, détectés par les macrophages et à l'origine de la crise inflammatoire (ameli, 2026-10-12). Les purines alimentaires (viandes rouges, abats, alcool, bière, boissons sucrées) contribuent mais ne sont pas la cause principale selon ameli. Fructose : OR 2,14 pour la goutte (PMID 30485934).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Levier | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Allopurinol (fond) | inhibe la xanthine oxydase | première intention, cible < 360 µmol/L [B, recommandations] (PMID 27457514) ; soins infirmiers 95 % vs 30 % sous cible [B, ECR unique n=517] (PMID 30343856) | médicament sur ordonnance (ameli) | non recherché |\n| Febuxostat | idem, non purinique | CARES : HR 1,03 critère composite ; mortalité CV HR 1,34 vs allopurinol [B, ECR unique n=6190] (PMID 29527974) | médicament ; BDPM non consultée [?] | non recherché |\n| Uricosuriques, pegloticase | élimination rénale / enzyme | recommandés en seconde ligne ou goutte réfractaire (EULAR) [B] (PMID 27457514) | non consulté [?] | — |\n| Colchicine (crise) | anti-inflammatoire | EULAR : colchicine, AINS ou corticoïdes pour la crise [B] (PMID 27457514) ; posologie abaissée par l'ANSM (ameli, sans insuffisance rénale : 1 mg puis 0,5 mg 1 h après, puis 0,5 mg 2-3 fois/j) | médicament sur ordonnance ; toxique en surdosage (ameli) | non recherché |\n| Perte de poids | baisse de l'uricémie | revue de 11 études (11 256 patients) après chirurgie bariatrique : goutte 4,1 % → 2,9 % à 8,5 mois en moyenne, mais poussées plus fréquentes en début de suivi [B] (PMID 39520613) | acte | — |\n| Réduction alcool, bière, viande/fruits de mer, fructose ; plus de laitages | baisse de l'apport en purines / fructose | cohortes : voir ci-dessous [B] (PMID 15094272, 15014182, 30485934) | non applicable | 0 |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- **EULAR 2016 (Delphi, 3 principes, 11 recommandations)** : traitement de la crise par colchicine, AINS, corticoïdes (oraux ou intra-articulaires) ou combinaison ; ULT à envisager dès la première présentation ; cible < 6 mg/dL, < 5 mg/dL si sévère ; allopurinol en première intention, dose ajustée à la fonction rénale ; si cible non atteinte, febuxostat, uricosurique ou association ; pegloticase si réfractaire [B, recommandations] (PMID 27457514).\n- **Soins infirmiers** (Doherty, 517 patients ayant eu une crise dans l'année) : 95 % sous 360 µmol/L à 2 ans vs 30 % ; critères secondaires favorables au groupe infirmier ; coût 5 066 £ par QALY (PMID 30343856).\n- **ALL-HEART** (5 721 patients ≥ 60 ans avec cardiopathie ischémique et sans goutte, allopurinol jusqu'à 600 mg/j, suivi 4,8 ans) : critère composite 11,0 % vs 11,3 % (HR 1,04 ; 0,89-1,21) [B, ECR unique n=5721] (PMID 36216006). Essai ouvert.\n- **CKD-FIX** (363 patients, MRC stade 3-4, sans goutte, urate moyen 8,2 mg/dL) : variation du DFGe sans différence (-3,33 vs -3,23 ml/min/1,73 m²/an ; différence -0,10 ; -1,18 à 0,97) [B, ECR unique n=363] (PMID 32579811). Voir [prévention de la maladie rénale chronique](fiche:prevention-maladie-renale-chronique).\n- **CARES** (6 190 patients goutteux avec maladie CV, médiane 32 mois, 56,6 % d'arrêts du traitement) : critère composite 10,8 % febuxostat vs 10,4 % allopurinol (HR 1,03) ; mortalité toutes causes HR 1,22 (1,01-1,47) ; mortalité CV HR 1,34 (1,03-1,73) ; financé par Takeda [B, ECR unique n=6190] (PMID 29527974).\n- **Alcool** (47 150 hommes, 12 ans, 730 cas) : RR 1,32 (10-14,9 g/j), 1,49 (15-29,9), 1,96 (30-49,9), 2,53 (≥ 50) ; bière RR 1,49 par 12 oz (~355 mL)/j, spiritueux 1,15, vin 1,04 (0,88-1,22) [B, cohorte] (PMID 15094272).\n- **Alimentation** (même cohorte) : viande RR 1,41 (1,07-1,86), fruits de mer RR 1,51 (1,17-1,95), produits laitiers RR 0,56 (0,42-0,74) pour les quintiles extrêmes ; légumes riches en purines et protéines totales : pas d'association [B, cohorte] (PMID 15014182). Méta-analyse (19 études) : alcool OR 2,58, fructose OR 2,14, viande rouge OR 1,29, laitages OR 0,56, café OR 0,47 pour la goutte [A, observationnel] (PMID 30485934).\n- **Épidémiologie** : prévalence < 1 % à 6,8 % selon les populations ; associations avec maladie cardiovasculaire, maladie rénale chronique, apnée du sommeil, fibrillation auriculaire, ostéoporose (PMID 32541923).",
+   "titre": "Ce que montrent les essais"
+  },
+  {
+   "markdown": "- **Débutant** : réduire la bière et l'alcool, les boissons sucrées, la viande rouge et les fruits de mer ; plus de laitages ; perdre du poids si excès. Pendant une crise : repos de l'articulation, glace sur linge toutes les 4 h, traitement précoce prescrit (ameli).\n- **Intermédiaire** : après la première crise confirmée, discuter du traitement de fond ; cible d'uricémie < 360 µmol/L (< 300 si possible) ; prophylaxie de crise (colchicine faible dose ou AINS) durant les 6 premiers mois, contrôle de l'uricémie 1 à 2 fois par an (ameli).\n- **Avancé** : goutte avec tophi : uricémie < 200 µmol/L ; suivi multidisciplinaire (rhumatologue, cardiologue, néphrologue) du risque cardiovasculaire (ameli).",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Traiter un chiffre d'acide urique élevé sans crise ni calcul : non indiqué (ameli) et sans bénéfice cardiaque ou rénal démontré (PMID 36216006, 32579811).\n- Arrêter l'allopurinol après une crise ou parce qu'il « n'a pas évité les crises » les premiers mois : les crises peuvent survenir les premiers mois du traitement de fond (ameli).\n- Débuter l'hypo-uricémiant pendant la crise à pleine dose : ameli indique de débuter à distance de la crise et à la plus faible dose.\n- Dépasser la posologie de colchicine : cause d'intoxications (ANSM, rapportée par ameli).\n- Compter sur le régime seul pour atteindre la cible : non évalué ici [?].",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Cerise, vinaigre de cidre, détox pour dissoudre l'acide urique »** [M] : non recherché ; seule la cible d'uricémie sous traitement a un effet démontré sur la dissolution des cristaux (ameli) [?].\n- **« Éviter tous les légumes riches en purines »** [M] : pas d'association au risque de goutte (RR non significatif) [B, cohorte] (PMID 15014182).\n- **« L'hyperuricémie, c'est une maladie du cœur et des reins à traiter »** : ALL-HEART et CKD-FIX montrent l'absence de bénéfice de l'allopurinol dans ces populations (PMID 36216006, 32579811).\n- **« La goutte est une maladie d'excès alimentaires »** : ameli la décrit surtout comme un défaut d'élimination rénale de l'acide urique, avec facteurs alimentaires associés.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Seulement 30 % des patients sous soins usuels atteignaient la cible à 2 ans, contre 95 % avec un suivi infirmier : le problème est surtout l'organisation du suivi (PMID 30343856).\n- Le vin n'est pas associé à la goutte à la différence de la bière et des spiritueux dans la cohorte masculine de Choi (RR 1,04 ; 0,88-1,22) (PMID 15094272). Cohorte d'hommes (professionnels de santé) : transposition aux femmes non testée [?].\n- Après une chirurgie bariatrique, l'uricémie et les crises montent d'abord avant de baisser sous la valeur de départ (PMID 39520613).\n- Les crises de goutte sont plus fréquentes dans les premiers mois du traitement de fond ; la prophylaxie dure au moins 6 mois (ameli).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Ameli, « Goutte » (définition et facteurs ; traitement), pages mises à jour le 2026-10-12, consultées le 2026-10-15 : allopurinol en première intention en l'absence d'insuffisance rénale ; colchicine contre-indiquée en insuffisance rénale chronique sévère ; AINS < 7 jours ; traitement de fond non prescrit en cas d'hyperuricémie sans symptôme.\n- ANSM : posologie curative et préventive de la colchicine abaissée (rapporté par ameli ; communiqué ANSM non consulté).\n- Febuxostat, uricosuriques, pegloticase : BDPM non consultée [?].\n- AMA : non concerné.",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Articulation brutalement rouge, chaude, très douloureuse (souvent le gros orteil) : traitement précoce.\n- Deuxième crise, tophus, calcul rénal : traitement de fond.\n- Douleur articulaire fébrile : éliminer une arthrite septique.\n- Maladie rénale chronique ou cardiopathie avec uricémie élevée : avis médical.\n\nFiches « examen » liées : [acide urique](fiche:biomarqueur-acide-urique)",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 27457514 — Richette P et al., *Ann Rheum Dis* 2017, EULAR goutte (résumé relu).\n- PMID 30343856 — Doherty M et al., *Lancet* 2018 (résumé relu).\n- PMID 36216006 — Mackenzie IS et al., *Lancet* 2022, ALL-HEART (résumé relu).\n- PMID 32579811 — Badve SV et al., *N Engl J Med* 2020, CKD-FIX (résumé relu).\n- PMID 29527974 — White WB et al., *N Engl J Med* 2018, CARES (résumé relu).\n- PMID 15094272 — Choi HK et al., *Lancet* 2004, alcool (résumé relu).\n- PMID 15014182 — Choi HK et al., *N Engl J Med* 2004, alimentation (résumé relu).\n- PMID 30485934 — Li R et al., *Asia Pac J Clin Nutr* 2018 (résumé relu).\n- PMID 32541923 — Dehlin M et al., *Nat Rev Rheumatol* 2020 (résumé relu).\n- PMID 39520613 — Soricelli E et al., *Updates Surg* 2025 (résumé relu).\n- Web : ameli.fr, goutte (définition-facteurs favorisants ; traitement), consultés le 2026-10-15.\n\nVoir aussi : [apnée du sommeil](fiche:apnee-du-sommeil), [prévention de la maladie rénale chronique](fiche:prevention-maladie-renale-chronique), [prévention de l'AVC et de l'infarctus](fiche:prevention-avc-et-infarctus), [tabac et alcool](fiche:tabac-et-alcool), [arthrose](fiche:arthrose-prevention-et-prise-en-charge), [alimentation](fiche:alimentation).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Goutte et hyperuricémie",
+ "type": "condition",
+ "unite": ""
+}

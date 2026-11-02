@@ -1,0 +1,79 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "medicament",
+ "id": "statines",
+ "intro": "",
+ "liens": [
+  "apob-lipides-et-statines",
+  "berberine",
+  "biomarqueur-ldl-cholesterol-total-hdl",
+  "coenzyme-q10",
+  "omega-3",
+  "tension-arterielle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "35997724",
+  "23440795",
+  "34261627",
+  "35169843",
+  "42670961",
+  "25579834",
+  "20167359",
+  "36049498"
+ ],
+ "preuve_globale": "A",
+ "resume": "Les médicaments hypolipémiants les mieux prouvés : moins d'infarctus, d'AVC et, en prévention primaire chez les adultes à risque accru, moins de décès toutes causes. Cette fiche synthétise les données de prévention primaire et de tolérance ; l'analyse par mmol/L de LDL-C, les alternatives (ézétim…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Les médicaments hypolipémiants les mieux prouvés : moins d'infarctus, d'AVC et, en prévention primaire chez les adultes à risque accru, moins de décès toutes causes. Cette fiche synthétise les données de **prévention primaire** et de **tolérance** ; l'analyse par mmol/L de LDL-C, les alternatives (ézétimibe, PCSK9, acide bempédoïque) et l'ApoB sont dans [ApoB, lipides et statines](fiche:apob-lipides-et-statines).\n- Prévention primaire, revue systématique de l'USPSTF (22 essais, 90 624 patients, 6 mois à 6 ans) : mortalité toutes causes RR 0,92 (IC 95 % 0,87-0,98 ; −0,35 point), AVC RR 0,78, infarctus RR 0,67, événements cardiovasculaires composites RR 0,72 (−1,28 point) ; mortalité cardiovasculaire non significative (RR 0,91) [A] (PMID 35997724). Cochrane : mortalité toutes causes OR 0,86 (0,79-0,94), événements CV RR 0,75 (PMID 23440795) [A].\n- **Les chiffres absolus sont petits** : −1,28 point d'événements composites sur quelques années en prévention primaire ; c'est pourquoi le risque de départ décide de l'intérêt (voir la fiche lipides).\n- Tolérance : méta-analyse de 62 essais, 120 456 participants : plaintes musculaires auto-rapportées OR 1,06, anomalies hépatiques OR 1,33, insuffisance rénale OR 1,14 ; pas d'excès de troubles musculaires confirmés ni de diabète dans cette analyse ; bénéfice supérieur au risque [A] (PMID 34261627).\n- **Intolérance « vraie »** : prévalence de 9,1 % (IC 8,0-10 %) dans 176 études (112 RCT), 7,0 % à 5,9 % selon les définitions internationales ; probablement surestimée (PMID 35169843) [A].\n- Après 70 ans sans maladie CV (essai STAREE, 9 971 participants, âge moyen 74,7 ans, 5,9 ans de suivi) : événements cardiovasculaires majeurs réduits (HR 0,70 ; IC 95 % 0,61-0,82 ; 297 contre 412 événements) mais **pas de gain de survie sans handicap** ni sur la démence ; événements musculosquelettiques, hépato-biliaires et liés au diabète plus fréquents sous atorvastatine [A] (PMID 42670961).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Inhibition de la synthèse hépatique de cholestérol (HMG-CoA réductase) ; voir [ApoB, lipides et statines](fiche:apob-lipides-et-statines).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Prévention primaire (adultes à risque accru) | 22 essais : mortalité −0,35 point, AVC RR 0,78, infarctus RR 0,67, événements composites RR 0,72 ; mortalité CV n.s. | [A] (PMID 35997724) |\n| Prévention primaire (Cochrane) | 18 RCT, 56 934 participants : mortalité OR 0,86, événements CV RR 0,75, revascularisation RR 0,62 ; pas de préjudice grave identifié | [A] (PMID 23440795) |\n| Personnes âgées sans maladie CV | STAREE : bénéfice sur les événements CV majeurs, pas sur la survie sans handicap (critère combiné décès, démence ou handicap persistant : HR 0,94 ; 0,84-1,05 ; p = 0,25) | [A, un seul essai] (PMID 42670961) |\n| Femmes et hommes | Réduction proportionnelle similaire par mmol/L de LDL-C (RR 0,84 chez la femme, 0,78 chez l'homme), y compris à faible risque | [A] (PMID 25579834) |\n| Prévention secondaire, comparaisons entre statines, stratégies de dose | Voir la fiche [lipides](fiche:apob-lipides-et-statines) | [A] |\n| Longévité de la population générale en bonne santé | Aucun essai de survie en dehors des populations à risque | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet pour cette fiche : le choix de la molécule et de la dose se fait avec le médecin ; l'analyse de dose-réponse de la méta-analyse de tolérance conclut que les preuves pour adapter le type ou la dose à la sécurité avant de commencer sont limitées (PMID 34261627).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Médicaments oraux sur ordonnance en France ; génériques ; rosuvastatine remboursée à 65 %, prix cité dans la fiche lipides d'après une copie non officielle de la BDPM (2026-10-08). Statut BDPM actuel de chaque molécule, restrictions (grossesse, interactions) : non revérifiés pour cette fiche [?].\n- AMA : non concernées à ma connaissance, non revérifié [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Effets signalés dans les essais : symptômes musculaires (OR 1,06), anomalies hépatiques (OR 1,33), insuffisance rénale (OR 1,14) ; les troubles musculaires confirmés (myopathie) et le diabète n'étaient pas augmentés dans l'analyse BMJ (PMID 34261627). Le diabète est en revanche augmenté dans d'autres analyses citées dans la fiche lipides (PMID 20167359).\n- Intolérance : 9,1 % en pratique avec les définitions internationales (PMID 35169843). Une grande part des plaintes musculaires ne vient pas de la statine selon la fiche lipides (PMID 36049498).\n- Interactions (pamplemousse, macrolides, fibrates, ciclosporine…), grossesse, insuffisance hépatique : non relues dans les RCP pour cette fiche [?].\n- Chez la personne âgée : bénéfice CV sans gain de survie sans handicap dans STAREE (PMID 42670961) ; décision individuelle.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Les statines ne servent à rien en prévention primaire » : mortalité et événements CV réduits dans les revues d'essais, avec des chiffres absolus petits (PMID 35997724, PMID 23440795).\n- « Les statines détruisent les muscles » : dans les essais en double aveugle, le surrisque de plaintes musculaires est petit (OR 1,06) et les troubles musculaires confirmés ne sont pas augmentés (PMID 34261627).\n- « Une statine naturelle (berbérine, levure de riz rouge) fait pareil » : voir [berbérine](fiche:berberine) ; la levure de riz rouge apporte de la lovastatine sans essais d'événements (fiche lipides).\n- « Tout le monde au-dessus de 70 ans en a besoin » : STAREE ne montre pas de gain de survie sans handicap (PMID 42670961).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour.\n\nVoir aussi : [ApoB, lipides et statines](fiche:apob-lipides-et-statines), [tension artérielle](fiche:tension-arterielle), [berbérine](fiche:berberine), [coenzyme Q10](fiche:coenzyme-q10), [oméga-3](fiche:omega-3).\n\nFiches « examen » liées : [LDL-C, cholestérol total, HDL-C](fiche:biomarqueur-ldl-cholesterol-total-hdl)",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Chou R et al. *JAMA* 2022 — PMID 35997724 — [DOI](https://doi.org/10.1001/jama.2022.12138)\n2. Taylor F et al. *Cochrane Database Syst Rev* 2013 — PMID 23440795 — [DOI](https://doi.org/10.1002/14651858.CD004816.pub5)\n3. Cai T et al. *BMJ* 2021 — PMID 34261627 — [DOI](https://doi.org/10.1136/bmj.n1537)\n4. Bytyçi I et al. *Eur Heart J* 2022 — PMID 35169843 — [DOI](https://doi.org/10.1093/eurheartj/ehac015)\n5. Zoungas S et al. *N Engl J Med* 2026 — PMID 42670961 — [DOI](https://doi.org/10.1056/NEJMoa2607314) (essai STAREE ; résumé relu, texte complet non lu)\n6. Cholesterol Treatment Trialists' Collaboration. *Lancet* 2015 — PMID 25579834 — [DOI](https://doi.org/10.1016/S0140-6736(14)61368-4)\n7. PMID 20167359 et PMID 36049498 : repris de la fiche [ApoB, lipides et statines](fiche:apob-lipides-et-statines).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Statines (atorvastatine, rosuvastatine, simvastatine…)",
+ "type": "actif",
+ "unite": ""
+}

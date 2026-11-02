@@ -1,0 +1,73 @@
+{
+ "cibles": [
+  "sante-mentale"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "complement",
+ "id": "amoseeds-ashwagandha-ksm-66-bio",
+ "intro": "",
+ "liens": [
+  "anxiete",
+  "ashwagandha",
+  "insomnie"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "36017529",
+  "41644067",
+  "34559859",
+  "30854916",
+  "42367407",
+  "16355578"
+ ],
+ "preuve_globale": "A",
+ "resume": "Extrait standardisé connu (KSM-66) à 17,99 € les 60 gélules, mais la fiche vendeur ne donne ni la masse d'extrait par gélule ni la teneur en withanolides par prise, donc impossible de comparer à une dose d'essai ; et surtout l'ANSES recommande de s'abstenir en cas de maladie du foie, de la thyroï…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Extrait standardisé connu (KSM-66) à 17,99 € les 60 gélules, mais la fiche vendeur ne donne **ni la masse d'extrait par gélule ni la teneur en withanolides par prise**, donc impossible de comparer à une dose d'essai ; et surtout l'ANSES recommande de s'abstenir en cas de maladie du foie, de la thyroïde ou du cœur, ce qui pèse plus que le prix.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur déclarée | Preuve |\n|---|---|---|\n| Extrait de racine d'ashwagandha bio (KSM-66™) | Standardisé à 5 % de withanolides ; mg d'extrait par gélule : non indiqué | Stress/anxiété : méta-analyses favorables mais certitude faible, tailles d'effet invraisemblables ; sommeil : SMD −0,59 sur 5 ECR [A, faible certitude] (voir [ashwagandha](fiche:ashwagandha)) |\n| Gélule | Végétale | Sans objet |\n\nComposition et prix : Redcare Pharmacie (redcare-pharmacie.fr), consulté le 2026-10-12. Excipients : non listés sur la page [?]. Analyse indépendante : aucune trouvée [?]. Les essais utilisent des extraits de différentes origines, pas tous le KSM-66 : le lien entre ce produit précis et les résultats cités n'est pas établi [?].",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Complément alimentaire. Évaluation de l'ANSES, avril 2024 (saisine 2021-SA-0077), reprise dans la [fiche ashwagandha](fiche:ashwagandha) : abstention recommandée en cas de maladie de la thyroïde, du foie ou du cœur, d'hyperandrogénie, de grossesse, d'allaitement, avant 18 ans et sous sédatif ; dose sans risque non déterminable. Page ANSES et arrêté sur les plantes : non rouverts pour cette fiche [?]. AMA : non recherché [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque / le vendeur dit | Les études |\n|---|---|\n| « Contribue à la relaxation », aide à gérer stress et anxiété | Effet rapporté mais certitude faible et essais souvent financés par des fabricants d'extraits [A, faible certitude] (PMID 36017529, PMID 41644067) |\n| Aide à l'endormissement | SMD −0,59, 5 ECR, 400 participants [A, petits essais] (PMID 34559859) |\n| Soutient la fertilité et la fonction sexuelle | Testostérone +14,7 % dans un ECR croisé, sans effet sur la fatigue ni la vitalité [B] (PMID 30854916) ; effet sur la fertilité : non vérifié ici [?] |\n| « Adaptogène » | Terme marketing sans définition pharmacologique [M] |\n| Mémoire et apprentissage | Non recherché [?] |",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Vendeur : 1 à 2 gélules par jour, avec un grand verre d'eau, en commençant à 1. Cette consigne n'est pas rattachée à une dose d'essai (mg d'extrait non indiqué). Les durées d'essai sont de plusieurs semaines ; les atteintes hépatiques décrites surviennent après quelques semaines d'usage (PMID 42367407).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- 60 gélules : 17,99 € (Redcare, 2026-10-12), soit 0,30 €/gélule ; lot de 2×60 : 34,19 €. À 1 gélule par jour : 60 jours, soit **≈ 9 €/mois** ; à 2 par jour : 30 jours, soit **≈ 18 €/mois**.\n- Alternatives relevées par recherche (non vérifiées par page, vendeurs en 403 ou sans teneur) : Sunday Natural, 500 mg d'extrait par gélule (25 mg de withanolides annoncés), 100 gélules à 16,90 € ; Bulk, 9,99 € (30 ou 90 gélules, teneur non précisée). Deuxième prix vérifié sur page : aucun [?].\n- Alternatives à preuve meilleure pour l'insomnie : TCC de l'insomnie, voir [insomnie](fiche:insomnie) ; pour l'anxiété : [anxiété](fiche:anxiete).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non consultés [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Atteintes hépatiques cholestatiques (séries de cas, dont décès chez des cirrhotiques) et cas de thyrotoxicose : voir [ashwagandha](fiche:ashwagandha) (PMID 42367407, PMID 16355578). Le vendeur n'affiche pas ces risques ; il déconseille seulement la grossesse et l'allaitement sans avis médical.\n- Sédatifs, traitements thyroïdiens : signaler la prise au médecin (ANSES 2024).",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "1. Redcare Pharmacie, Amoseeds Ashwagandha KSM-66 Bio — https://www.redcare-pharmacie.fr/hygiene-et-sante/F00448346/amoseeds-ashwagandha-ksm-66-bio-5-withanolides.htm (consulté le 2026-10-12)\n2. Sunday Natural, Bulk : prix issus d'un résultat de recherche du 2026-10-12, pages non lues (403 ou non ouvertes).\n3. ANSES, ashwagandha, avril 2024, saisine 2021-SA-0077, telle que citée dans [ashwagandha](fiche:ashwagandha).\n4. PMID 36017529, PMID 41644067, PMID 34559859, PMID 30854916, PMID 42367407, PMID 16355578 : études reprises de la fiche [ashwagandha](fiche:ashwagandha).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Amoseeds Ashwagandha KSM-66 Bio 5 % withanolides",
+ "type": "produit",
+ "unite": ""
+}

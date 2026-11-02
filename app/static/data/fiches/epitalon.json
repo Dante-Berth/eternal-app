@@ -1,0 +1,97 @@
+{
+ "cibles": [
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-07",
+ "famille": "peptide",
+ "id": "epitalon",
+ "intro": "",
+ "liens": [
+  "bpc-157",
+  "exercice-physique",
+  "melatonine",
+  "retatrutide",
+  "sommeil",
+  "tb-500",
+  "telomeres"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 18,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "40141333",
+  "14501183",
+  "12937682",
+  "15455129",
+  "40908429",
+  "32019204",
+  "35413689",
+  "9701766",
+  "12374906",
+  "17426848",
+  "22451889",
+  "14523363",
+  "12195242",
+  "12791421",
+  "42752426",
+  "25168622",
+  "30029448",
+  "31758732"
+ ],
+ "preuve_globale": "C",
+ "resume": "Tétrapeptide synthétique Ala-Glu-Asp-Gly (AEDG), conçu à partir de la composition en acides aminés de l'épithalamine, un extrait de glande pinéale bovine (PMID 40141333). Presque toute la littérature vient d'un seul réseau : l'Institut de bio-régulation et de gérontologie de Saint-Pétersbourg (V.…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Tétrapeptide synthétique Ala-Glu-Asp-Gly (AEDG), conçu à partir de la composition en acides aminés de l'**épithalamine**, un extrait de glande pinéale bovine (PMID 40141333). Presque toute la littérature vient d'**un seul réseau** : l'Institut de bio-régulation et de gérontologie de Saint-Pétersbourg (V. Khavinson), souvent avec V. Anisimov (Institut d'oncologie Petrov).\n- Les « preuves » de longévité sont **animales** : chez la souris SHR, l'épitalon n'a **pas modifié la durée de vie moyenne** ; il a augmenté de 12,3 % la durée de vie maximale [C] (PMID 14501183). Pas d'essai de durée de vie chez l'humain [?].\n- Les données de survie humaines citées en ligne portent sur l'**épithalamine** (extrait), pas sur l'épitalon, dans des essais de la même équipe, sur de petites cohortes de patients coronariens russes/ukrainiens [B]. Aucun ECR indépendant sur l'épitalon trouvé dans PubMed.\n- « Rallonge les télomères » : démontré **in vitro** (fibroblastes fœtaux, lignées) [D]. Aucune donnée humaine sur la longueur des télomères [?].\n- Non autorisé en France (ni médicament, ni complément) ; marché gris sans contrôle de qualité. Aux États-Unis, la FDA l'a classé en 2023 parmi les substances à « risques de sécurité significatifs » pour la préparation magistrale (immunogénicité, impuretés, aucune donnée de sécurité humaine).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Régulation pinéale / mélatonine** : l'épitalon est présenté comme normalisant la synthèse de mélatonine ; la revue de 2025 note qu'un effet direct sur la synthèse de mélatonine est décrit, mais qu'on ne sait pas si c'est le mécanisme unique (PMID 40141333) [C] ; effet sur la mélatonine chez l'humain : aucune donnée contrôlée trouvée [?].\n- **Télomérase** : dans des fibroblastes fœtaux humains télomérase-négatifs, l'épithalon induit l'expression de la sous-unité catalytique, l'activité télomérase et l'allongement des télomères [D] (PMID 12937682) ; ces cellules ont fait 10 divisions de plus que le témoin [D] (PMID 15455129). Les deux articles sont de l'équipe de Khavinson.\n- Réplication indépendante récente (Brunel, UK) : allongement des télomères dans des cellules normales via hTERT/télomérase, et dans des cellules de cancer du sein via **ALT** (voie alternative de maintien des télomères) [D] (PMID 40908429).\n- **Épigénétique supposée** : liaison aux histones prédite par modélisation moléculaire, hausse de 1,6 à 1,8 fois de l'ARNm de marqueurs neuronaux dans des cellules souches gingivales ; article cosigné par l'équipe de Khavinson [D] (PMID 32019204).\n- Antioxydant : réduit les ROS dans des ovocytes de souris vieillissants en culture à 0,1 mM [D] (PMID 35413689).",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Durée de vie, souris SHR femelles (n=54 par groupe) | Durée de vie moyenne **inchangée** ; durée de vie maximale +12,3 % ; +13,3 % pour les 10 % de survivantes les plus âgées ; leucémies ÷6, tumeurs totales inchangées ; essai de l'équipe d'Anisimov/Khavinson | [C] (PMID 14501183) |\n| Durée de vie, mouches, rongeurs, avec **épithalamine** (extrait, pas l'épitalon) | Durée de vie moyenne +11 à 31 % selon l'espèce (drosophile, souris SHR et C3H/Sn, rats) ; mortalité inchangée chez les SHR | [C] (PMID 9701766) |\n| Revue de l'équipe sur l'épitalon (souris, drosophile, singes rhésus âgés) | Allégations de hausse de durée de vie et de rétablissement des rythmes mélatonine/cortisol ; revue d'auteur, chiffres non vérifiés ici | [C, revue de l'équipe] (PMID 12374906) |\n| Survie humaine, patients coronariens âgés, **épithalamine** (extrait) | ECR 12 ans : mortalité totale −28 % vs témoin, mortalité cardiovasculaire ÷2 ; effectifs non précisés dans le résumé ; essai cosigné par Khavinson. La publication « 15 ans » (mêmes auteurs, même population de coronariens à « vieillissement accéléré ») porte sur 39 + 40 patients ; il s'agit très probablement de la **même cohorte**, pas d'un second essai. Son titre PubMed parle d'un peptide de l'« hypophyse » (pituitary) alors que le résumé décrit l'épithalamine, extrait pinéal : erreur de titre | [B, un seul petit ECR, non indépendant] (PMID 17426848, PMID 22451889) |\n| Survie humaine, 266 sujets âgés, **épithalamine ± thymaline** | Mortalité ÷1,6 à ÷1,8 avec l'épithalamine seule ; tout le bénéfice annoncé vient d'une publication de l'équipe elle-même ; extrapolation à l'épitalon non démontrée | [B, non indépendant] (PMID 14523363) |\n| Rétinite pigmentaire, **épitalon** (humain) | « Effet clinique positif dans 90 % des cas » ; essai contrôlé non randomisé selon la classification PubMed, effectif non donné dans le résumé ; auteurs de l'équipe | [B, non indépendant] (PMID 12195242) |\n| Télomères humains in vivo | Aucune étude identifiée (PubMed « epitalon OR epithalamin » + « telomere », recherche du 2026-10-07 : seules des études cellulaires et des revues de l'équipe) | [?] |\n| Cancer du sein (rongeurs) | Revue : l'épitalon inhibe la cancérogenèse mammaire chez le rongeur ; revue de Anisimov, auteur du modèle | [C] (PMID 12791421) |\n| Sommeil, mélatonine, cognition, peau, cheveux (humain) | Aucune donnée contrôlée trouvée | [?] |\n\nVérifié dans PubMed (« epitalon », « epithalon », « epithalamin ») : aucun ECR indépendant (hors Saint-Pétersbourg/Kiev) évaluant l'épitalon chez l'humain. Les cohortes et essais humains datent de 2002 à 2011, publiés dans des revues de l'Académie russe et d'*Neuro Endocrinology Letters*, avec très peu de détails méthodologiques dans les résumés (aveugle, tirage au sort, perdus de vue : non vérifiables ici) [?].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet (règle 7 : pas de posologie). Les études in vitro utilisent des concentrations en culture non transposables à une dose chez l'humain ; la dose chez l'humain n'est pas établie [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **France / UE** : aucune autorisation de mise sur le marché ni statut de complément alimentaire trouvés ; pas de fiche dans les bases consultées (recherche non exhaustive : BDPM et base EMA non interrogées depuis cette session) [?]. Un peptide injectable de ce type est, en pratique, un produit non autorisé.\n- **ANSM** : la mise en garde « “Peptides” vendus en ligne : ne les utilisez pas, ils peuvent être dangereux » (2026-07-02, mise à jour 2026-08-31) cite comme exemples le rétatrutide, le BP180, le TB500, le GH, le GHK-Cu, le BPC-157, le NAD+, « etc. » ; l'épitalon ne figure pas dans la liste d'exemples reprise dans [TB-500](fiche:tb-500) et [BPC-157](fiche:bpc-157) ; le message général (produits non évalués, non autorisés) s'applique à l'ensemble des « peptides » vendus en ligne (ANSM, consulté 2026-10-03 via les fiches du dépôt ; page non relue pour cette fiche).\n- **AMA** : statut de l'épitalon sur la Liste des interdictions 2026 **non vérifié** (liste non consultée pour cette fiche) [?]. Pour un sportif, un peptide non autorisé relève de la clause S0 (substances non approuvées) ou d'une catégorie voisine : à confirmer sur la liste de l'année avant toute décision. Détention : voir l'arrêté cité dans [TB-500](fiche:tb-500), dont la liste n'a pas été relue pour l'épitalon [?].\n- **USA** : la FDA a placé l'épitalon en **catégorie 2** des substances nominées pour la préparation magistrale (« risques de sécurité significatifs ») le 29 septembre 2023 ; motif : risque d'immunogénicité lié à l'agrégation et aux impuretés peptidiques, et absence de données de sécurité pour la voie proposée (« l'agence ne dispose pas d'informations suffisantes pour savoir si le produit nuirait à l'humain »). Sur la page mise à jour le 2026-04-22, l'épitalon figure parmi les substances dont la nomination a été **retirée** par le demandeur, avec BPC-157, GHK-Cu, TB-4 fragment et d'autres : ce retrait est procédural, ce n'est **pas** une autorisation ni une levée des réserves de sécurité (FDA, « Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks », consulté le 2026-10-07). La revue de pharmacie de 2026 discute ces recommandations du PCAC ; conclusion non extraite du résumé (PMID 42752426).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Souris : pas d'effet sur le poids ni la prise alimentaire dans l'étude de longue durée ; les auteurs en concluent « la sécurité de l'administration prolongée chez la souris » (PMID 14501183) [C]. Conclusion des auteurs qui ont conçu la molécule ; non transposable à l'humain.\n- Chez l'humain : tolérance, effets indésirables, interactions, grossesse, allaitement : **aucune donnée sérieuse** [?].\n- **Cancer (théorique)** : la télomérase est réactivée dans la majorité des cancers. Dans des cellules de cancer du sein, l'épitalon a augmenté la longueur des télomères par activation d'ALT [D] (PMID 40908429), ce qui est précisément l'effet qu'on ne souhaite pas dans un tissu tumoral. Chez la souris, pas d'hausse de l'incidence totale des tumeurs [C] (PMID 14501183). Risque chez l'humain : inconnu [?]. Les auteurs de l'étude de Brunel concluent à un allongement « dans les cellules saines », mais cela ne permet pas d'exclure un risque en présence de lésions précancéreuses.\n- Injection : risques propres au marché gris (infection, contamination), voir ci-dessous.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- Les analyses de peptides vendus en ligne montrent des produits mal dosés ou falsifiés : 337 produits du marché noir analysés par le laboratoire antidopage de Cologne (2010–2013) [B, analyse de produits saisis] (PMID 25168622) ; peptides de pharmacies en ligne illégales : pureté de 5 à 75 % pour les peptides à cystéine, arsenic et plomb au-delà des limites ICH parentérales [B] (PMID 30029448) ; « follistatine » : molécule annoncée présente dans 9 cas sur 17 [B] (PMID 31758732). L'épitalon n'est pas l'objet de ces études.\n- Analyse de flacons d'épitalon (identité, pureté, endotoxines) : aucune étude trouvée [?].",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- « **Rallonge les télomères, donc la vie** » : l'allongement n'est démontré qu'in vitro, dans des cellules en culture, essentiellement par l'équipe qui a conçu la molécule [D]. Aucune mesure humaine in vivo [?]. Allonger les télomères d'une cellule ne prolonge pas la vie d'un organisme : chez la souris SHR, la durée de vie moyenne n'a pas bougé [C].\n- « **Prouvé chez l'humain** » : les cohortes de survie portent sur l'épithalamine (un extrait), pas sur le peptide vendu ; elles proviennent de l'équipe de l'inventeur [B].\n- « **Sûr, car naturel** » : peptide synthétique, risque télomérase/cancer non évalué chez l'humain [?].\n- « **Remet le sommeil/la mélatonine en ordre** » : aucune donnée contrôlée sur l'épitalon chez l'humain [?]. Pour le sommeil, voir [sommeil](fiche:sommeil).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Si la motivation est le **vieillissement** : bilan cardiovasculaire, glycémique, lipidique, activité physique et sommeil, qui ont des preuves bien supérieures ; voir [exercice physique](fiche:exercice-physique).\n- Si la motivation est le **sommeil** : évaluation médicale d'une insomnie, mélatonine dans ses indications (voir [mélatonine](fiche:melatonine)) plutôt qu'un peptide non autorisé.\n- Si la motivation est une **dégénérescence rétinienne** : suivi ophtalmologique spécialisé ; ne pas remplacer une prise en charge par un peptide.\n- Pas de protocole de dosage, de reconstitution ou d'injection, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).\n\nVoir aussi : [télomères](fiche:telomeres), [rétatrutide](fiche:retatrutide).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Araj SK et al. *Int J Mol Sci* 2025 — PMID 40141333 — [DOI](https://doi.org/10.3390/ijms26062691)\n2. Anisimov VN et al. *Biogerontology* 2003 — PMID 14501183 — [DOI](https://doi.org/10.1023/a:1025114230714)\n3. Anisimov VN, Mylnikov SV, Khavinson VK. *Mech Ageing Dev* 1998 — PMID 9701766 — [DOI](https://doi.org/10.1016/s0047-6374(98)00034-7)\n4. Khavinson V. *Neuro Endocrinol Lett* 2002 (Peptides and Ageing) — PMID 12374906\n5. Khavinson VKh, Bondarev IE, Butyugov AA. *Bull Exp Biol Med* 2003 — PMID 12937682 — [DOI](https://doi.org/10.1023/a:1025493705728)\n6. Khavinson VKh et al. *Bull Exp Biol Med* 2004 — PMID 15455129 — [DOI](https://doi.org/10.1023/b:bebm.0000038164.49947.8c)\n7. Al-Dulaimi S et al. *Biogerontology* 2025 — PMID 40908429 — [DOI](https://doi.org/10.1007/s10522-025-10315-x)\n8. Khavinson V et al. *Molecules* 2020 — PMID 32019204 — [DOI](https://doi.org/10.3390/molecules25030609)\n9. Yue X et al. *Aging* 2022 — PMID 35413689 — [DOI](https://doi.org/10.18632/aging.204007)\n10. Korkushko OV et al. *Bull Exp Biol Med* 2006 — PMID 17426848 — [DOI](https://doi.org/10.1007/s10517-006-0365-z)\n11. Korkushko OV et al. *Bull Exp Biol Med* 2011 — PMID 22451889 — [DOI](https://doi.org/10.1007/s10517-011-1332-x)\n12. Khavinson VKh, Morozov VG. *Neuro Endocrinol Lett* 2003 — PMID 14523363\n13. Khavinson V et al. *Neuro Endocrinol Lett* 2002 — PMID 12195242\n14. Anisimov VN. *Crit Rev Oncol Hematol* 2003 — PMID 12791421 — [DOI](https://doi.org/10.1016/s1040-8428(03)00021-0)\n15. Willis J, Vu N. *Int J Pharm Compd* 2026 — PMID 42752426\n16. Krug O et al. *Eur J Clin Pharmacol* 2014 — PMID 25168622 — [DOI](https://doi.org/10.1007/s00228-014-1743-5)\n17. Janvier S et al. *Talanta* 2018 — PMID 30029448 — [DOI](https://doi.org/10.1016/j.talanta.2018.06.023)\n18. Reichel C et al. *Drug Test Anal* 2019 — PMID 31758732 — [DOI](https://doi.org/10.1002/dta.2741)\n19. ANSM, « “Peptides” vendus en ligne : ne les utilisez pas, ils peuvent être dangereux », 2026-07-02, mis à jour 2026-08-31 — https://ansm.sante.fr/actualites/peptides-vendus-en-ligne-ne-les-utilisez-pas-ils-peuvent-etre-dangereux (consulté le 2026-10-03, via les fiches du dépôt)\n20. FDA, « Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks », mis à jour 2026-04-22 — https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks (consulté le 2026-10-07)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "Épitalon (épithalone, AEDG)",
+ "type": "actif",
+ "unite": ""
+}

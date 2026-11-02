@@ -1,0 +1,105 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "the-et-sante",
+ "intro": "",
+ "liens": [
+  "cafeine",
+  "declin-cognitif-et-neurodegenerescence",
+  "egcg-et-extraits-de-the-vert",
+  "extrait-the-vert-egcg-now-foods",
+  "l-theanine",
+  "l-theanine-200mg-nutriforce",
+  "matcha-bio-ceremonial-aromandise"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 33,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "38938012",
+  "32073596",
+  "36599267",
+  "24331002",
+  "25689396",
+  "23780706",
+  "40497293",
+  "11804530",
+  "31216091",
+  "39947165",
+  "26202661",
+  "40525136",
+  "41073208",
+  "39213264",
+  "38057603",
+  "37374383",
+  "35413574",
+  "39178989",
+  "37369612",
+  "21745623",
+  "40647065",
+  "11880757",
+  "42371142",
+  "38986356",
+  "27318851",
+  "30891750",
+  "35320401",
+  "35836856",
+  "40504749",
+  "36583212",
+  "41960756",
+  "26119069",
+  "23235664"
+ ],
+ "preuve_globale": "B",
+ "resume": "Mortalité : environ 2 tasses/jour sont associées à 10 % de mortalité toutes causes en moins (ES 0,91 à 2 tasses/j ; 38 jeux de données de cohortes, 1,96 million de sujets), sans gain supplémentaire au-delà [B] (PMID 38938012). Association observationnelle, certitude jugée « faible » par une autre…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Mortalité** : environ 2 tasses/jour sont associées à 10 % de mortalité toutes causes en moins (ES 0,91 à 2 tasses/j ; 38 jeux de données de cohortes, 1,96 million de sujets), sans gain supplémentaire au-delà [B] (PMID 38938012). Association observationnelle, certitude jugée « faible » par une autre méta-analyse [B] (PMID 32073596). Aucun essai randomisé sur la mortalité [?].\n- **AVC** : thé vert, 5 cohortes, RR 0,74 pour la plus forte consommation, courbe non linéaire [B] (PMID 36599267).\n- **Diabète de type 2 (prévention)** : cohortes, ~5 % de risque en moins pour 2 tasses/j [B] (PMID 24331002) ; en essais randomisés chez le diabétique, thé ou extrait sans effet sur la glycémie à jeun [A] (PMID 25689396).\n- **Tension, lipides** : effets petits en essais (de l'ordre de 1 à 3 mmHg de systolique), non stables selon les méta-analyses [A, faible certitude] (PMID 23780706, 40497293).\n- **Cognition, os, cancers** : associations de cohortes, hétérogènes, parfois contradictoires entre méta-analyses ; rien de démontré en essai [B, contradictoire].\n- **Risques réels** : **boisson très chaude** (> 65 °C, classée « probablement cancérogène » par le CIRC pour l'œsophage) ; **sucre** dans le thé glacé ou sucré ; **fer** (le thé en mangeant réduit l'absorption du fer non héminique) ; **fluorure** surtout avec les thés briques ; **caféine** (≈ 4 à 14 mg par 200 mL à l'infusion, variable).\n- **Statut** : aliment (boisson). Les extraits concentrés en capsules relèvent d'une autre fiche : [EGCG et extraits de thé vert](fiche:egcg-et-extraits-de-the-vert).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Thé vert : riche en catéchines (EGCG > ECG > EC > EGC > C) ; 51,5 à 84,3 mg de catéchines par g de feuille sèche dans les thés verts britanniques analysés, contre 5,6 à 47,5 mg/g pour les noirs, car l'oxydation (« fermentation ») transforme les catéchines (PMID 11804530). Le thé noir contient aussi des théaflavines (PMID 38938012).\n- Estimation de 280 mg (noir) à 338 mg (vert) de flavonoïdes totaux par tasse de 236,6 mL (PMID 32073596).\n- Mécanismes proposés (antioxydant, vasculaire, glycémique) : en grande partie issus de l'in vitro et de l'animal [D] ; non détaillés ici faute de source clinique lue. Les cohortes ne séparent pas l'effet des polyphénols de celui de la caféine, de la théanine ou du mode de vie des buveurs [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Biais des études : cohortes vs essais randomisés\n- La quasi-totalité des données « santé du thé » vient de **cohortes** : au mieux [B], quelle que soit la taille de la méta-analyse. Une méta-analyse de 39 cohortes note que les études à plus haut risque de biais montrent les associations les plus fortes (PMID 32073596). Une revue parapluie de 96 méta-analyses conclut que des essais randomisés sont nécessaires pour savoir si les associations sont causales (PMID 31216091).\n- Causes de confusion plausibles (déduction, non mesurée dans les sources lues) : les buveurs de thé diffèrent des non-buveurs par le tabac, l'alimentation, le revenu, l'activité physique ; la « tasse » varie de 100 mL à 500 mL selon les pays (PMID 36599267, 32073596).\n- Dose-réponse non linéaire fréquente : plateau vers 1,5 à 3 tasses/j pour la mortalité cardiovasculaire (PMID 38938012). « Plus = mieux » n'est pas démontré.\n- Hétérogénéité géographique : l'association thé vert et cognition existe dans les populations asiatiques, pas européennes (PMID 39947165). On ne peut pas extrapoler à un buveur de thé noir français.\n\n### Mortalité toutes causes, cardiovasculaire\n| Source | Résultat | Preuve |\n|---|---|---|\n| 38 jeux de cohortes, 1 956 549 sujets (Kim 2024) | toutes causes ES 0,90 (0,86–0,95) ; cardiovasculaire 0,86 (0,79–0,94) ; cancer 0,90 (0,78–1,03), non significatif ; minimum à 2 tasses/j | [B] (PMID 38938012) |\n| 39 cohortes (Chung 2020) | par tasse/j : −4 % mortalité CV, −4 % AVC, −1,5 % mortalité toutes causes ; force de preuve « faible » ou « modérée » selon l'âge | [B] (PMID 32073596) |\n| 18 cohortes (Tang 2015) | thé vert : toutes causes RR 0,80 (0,68–0,93), CV 0,67 (0,46–0,96), cancer 1,06 (0,98–1,15) ; thé noir : toutes causes 0,90 (0,83–0,98), CV 0,88 (0,77–1,01), cancer 0,79 (0,65–0,97) | [B] (PMID 26202661) |\n| Diabétiques, 6 cohortes pour le thé | toutes causes HR 0,85 (0,79–0,92) ; CV 0,86 (0,80–0,93) ; optimum jusqu'à ~2 tasses/j | [B] (PMID 40525136) |\n\nLecture : association modeste, cohérente entre méta-analyses, mais le thé vert protège sur le cancer dans l'une et pas dans l'autre : [B, contradictoire].\n\n### AVC, tension, lipides\n- **AVC** (thé vert, 11 421 cas, 645 393 sujets) : RR 0,74 (0,66–0,83) pour la plus forte consommation ; 0,79 à 500 mL/j ; 0,84 à 1 500 mL/j [B] (PMID 36599267).\n- **Tension** : 36 essais de thé vert (boisson ou extrait) : PAS −1,08 mmHg (−1,98 à −0,18), PAD −1,09 mmHg ; hétérogénéité I² 85 % et 74 %, pas de relation dose-durée claire [A, faible certitude] (PMID 40497293). Cochrane 2013 (11 essais, 821 sujets, aucun événement CV rapporté) : thé noir LDL −0,43 mmol/L et PAS −1,85 mmHg ; thé vert LDL −0,64 mmol/L et PAS −3,18 mmHg mais non stable à l'analyse de sensibilité [A, faible certitude] (PMID 23780706).\n- Chez les sujets avec syndrome métabolique, thé vert : aucun effet significatif sur tension, lipides ni glycémie dans l'ensemble [A] (PMID 41073208).\n\n### Diabète\n- Prévention (16 cohortes, 545 517 sujets) : association linéaire inverse, RR prédit 0,95 à 2 tasses/j et 0,85 à 6 tasses/j ; hétérogénéité I² 60 % [B] (PMID 24331002).\n- Traitement chez le diabétique (10 essais, 608 sujets) : glycémie à jeun −0,05 mmol/L (−0,51 à 0,40), non significative ; légère baisse du tour de taille au-delà de 8 semaines [A] (PMID 25689396).\n- Les cohortes suggèrent un bénéfice préventif, les essais n'en montrent pas chez le malade : [B, contradictoire].\n\n### Cognition et démence\n- Thé vert, 18 études observationnelles (58 929 sujets) : déclin cognitif OR 0,63 (0,54–0,73) ; démence OR 0,74 (0,56–0,99) ; effet absent chez les Européens [B] (PMID 39947165).\n- Essai randomisé sur le matcha, 2 g/j pendant 12 mois (n=99, déclin cognitif subjectif ou léger) : critères principaux (MoCA, activités quotidiennes) sans changement ; amélioration d'un score de perception des émotions faciales (p=0,028) [B, ECR unique n=99] (PMID 39213264).\n- Prévention de la démence par le thé : [?] aucun essai de prévention à long terme trouvé. Voir [déclin cognitif](fiche:declin-cognitif-et-neurodegenerescence) et [L-théanine](fiche:l-theanine).\n\n### Os\n- 20 études observationnelles : fractures RR 0,91 (0,85–0,98), densité osseuse et ostéoporose améliorées chez les buveurs de thé, meilleure association sous 4,5 tasses/j [B] (PMID 38057603).\n- Autre méta-analyse (20 études, 508 312 sujets) : aucune association avec la densité osseuse (différence 0,039 ; −0,012 à 0,09) ni le risque de fracture de hanche (HR 0,93 ; 0,84–1,03) [B, contradictoire] (PMID 37374383).\n- Confusion par le mode de vie possible dans les deux (déduction). Un excès de fluorure peut au contraire abîmer l'os (voir plus bas).\n\n### Cancers\n- Mortalité par cancer toutes localisations : non significative dans la méta-analyse de Kim (PMID 38938012) ; 1,06 pour le thé vert et 0,79 pour le thé noir selon Tang (PMID 26202661).\n- Vessie : 12 cohortes poolées, 532 949 sujets, HR 0,84 (0,75–0,95) pour la forte consommation vs aucune [B] (PMID 35413574).\n- Gliome (revue parapluie) : RR 0,84 (0,79–0,89) pour le thé [B] (PMID 39178989). Poumon : association protectrice de « faible qualité » [B] (PMID 37369612).\n- **Œsophage et estomac** : risque accru lié à la **température** de la boisson, pas au thé en soi (voir plus bas) [B] (PMID 31216091).\n- Aucun essai randomisé de prévention du cancer par la boisson [?].\n\n### Poids, thé noir, oolong, pu-erh\n- Oolong : aucun essai clinique de santé trouvé dans cette recherche [?].\n- Pu-erh : extrait de thé noir riche en acide gallique (333 mg avant chaque repas, dans du thé d'orge ; 36 adultes japonais en préobésité, 12 semaines) : IMC et poids plus bas qu'avec le placebo à partir de la semaine 8 [B, ECR unique n=36] (PMID 21745623). Extrait, pas boisson.\n- Thé vert et poids : voir la fiche [EGCG et extraits](fiche:egcg-et-extraits-de-the-vert).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Unité des cohortes : la « tasse » (236,6 mL dans la méta-analyse de Chung) ; optimum le plus souvent entre 1,5 et 3 tasses/j (PMID 32073596, 38938012).\n- **Caféine par 200 mL d'infusion** (HPLC, 6 types de thé, une seule étude) : noir 14 ± 1,0 mg ; pu-erh 13 ± 2,9 ; thé vert 11 ± 2,1 ; blanc 5,8 ± 0,7 ; oolong 4 ± 1,6 ; elle augmente avec le temps d'infusion (jaune : 53 ± 16,9 mg à 10 min) et la température pour l'oolong ; un sachet « tasse » de thé noir donne 39 ± 9,9 mg contre 24 ± 7,2 mg pour la feuille en vrac (PMID 40647065). Autre mesure, en mg par g de feuille sèche : noir 22–28, vert 11–20 ; soit 92 à 146 mg/j pour trois tasses de 200 mL à 1 % de feuilles (PMID 11804530).\n- Ces valeurs dépendent de la marque, du temps d'infusion et de la taille de la tasse. Ne comptez pas sur un chiffre « par tasse » unique. Les valeurs de laboratoire standard surestiment parfois la consommation réelle : thé infusé plus de 3 min = 42 mg dans une étude de femmes enceintes (PMID 11880757).\n- **Matcha** : on avale la feuille entière, donc plus de caféine et de catéchines que dans une infusion ; teneur par portion : [?] non vérifiée par une source PubMed. Voir la [fiche matcha](fiche:matcha-bio-ceremonial-aromandise).\n- Limites de caféine (EFSA) : voir [caféine](fiche:cafeine) (chiffres non confirmés sur page officielle).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Thés** (vert, noir, oolong, blanc, pu-erh, matcha, briques) : denrées alimentaires, pas de limite réglementaire propre. Statut `aliment`.\n- **Thé glacé en bouteille / boisson sucrée** : le sucre ajouté est le facteur à considérer : UK Biobank (167 142 sujets), thé sans sucre : risque cardiovasculaire plus bas à tous les niveaux ; thé sucré > 5 unités/j : HR 1,13 (1,01–1,26) [B] (PMID 42371142). La teneur en sucre des bouteilles du commerce n'a pas été relevée ici [?].\n- **Extraits en capsules** : autre statut et risque hépatique : voir [EGCG et extraits](fiche:egcg-et-extraits-de-the-vert).\n- AMA : le thé ne figure pas sur la liste ; non vérifié sur la liste en vigueur [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Température, cancer de l'œsophage** :\n  - Le CIRC (Lancet Oncology 2016) a classé la consommation de **boissons très chaudes** (> 65 °C) comme « probablement cancérogène » (formulation reprise dans PMID 38986356 ; texte de l'évaluation du CIRC sans résumé accessible : détails de classement du café et du maté [?]) (PMID 27318851).\n  - Cohorte iranienne de Golestan (50 045 sujets, 317 carcinomes épidermoïdes de l'œsophage) : thé ≥ 60 °C vs < 60 °C HR 1,41 (1,10–1,81) ; préférence « très chaud » HR 2,41 (1,27–4,56) ; ≥ 700 mL/j à ≥ 60 °C : environ +90 % [B] (PMID 30891750).\n  - Pratique : laisser refroidir (déduction de ces données, pas de seuil validé par essai).\n- **Fer** : le thé fixe le fer. Une poudre de thé noir, cacao et jus de raisin réduit l'absorption du fer non héminique d'environ 40 % chez 14 patients atteints d'hémochromatose [B, ECR n=14, mélange de trois extraits] (PMID 35320401). Chez la femme enceinte, thé ou café forts sont un facteur de risque de carence en fer dans une étude rétrospective [B] (PMID 35836856). Conséquence : si carence en fer ou anémie, boire le thé loin des repas riches en fer (déduction).\n- **Fluorure** : le thé accumule le fluorure du sol ; en moyenne, thé brique 4,78 mg/L, thé noir 2,73, thé vert 1,37, blanc 0,49 ; une infusion longue en libère davantage ; les thés briques dépassent les repères de l'OMS à tous les âges ; le thé noir pose problème pour les enfants et les gros buveurs [B, revue de portée] (PMID 40504749). Fluorose squelettique liée aux thés briques au Tibet : prévalence poolée 33,8 % chez l'adulte [B, revue] (PMID 36583212). Pour la consommation courante en France : aucun risque chiffré trouvé [?].\n- **Métaux** : analyse de 8 marques de thé noir turques : l'aluminium et le plomb sont présents dans les feuilles, bien moins dans les infusions ; indices de risque (THQ, HI) < 1 [B, une seule étude, 8 marques] (PMID 41960756). Pesticides, thé en poudre de matcha (feuille avalée) : [?].\n- **Caféine** : insomnie, anxiété, grossesse : voir [caféine](fiche:cafeine).\n- **Thé et folate** : pas de baisse de folate plasmatique chez 1 724 femmes enceintes chinoises (coupe transversale) [B] (PMID 26119069).\n- **Médicaments** : surtout pour les extraits ; voir [EGCG et extraits](fiche:egcg-et-extraits-de-the-vert).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- Matcha : [Matcha de cérémonie bio Premium — Aromandise](fiche:matcha-bio-ceremonial-aromandise).\n- Théanine isolée : [L-théanine 200 mg — Nutriforce](fiche:l-theanine-200mg-nutriforce).\n- Extrait capsule : [EGCg 400 mg — NOW Foods](fiche:extrait-the-vert-egcg-now-foods).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Le thé vert est un super-aliment anti-âge »** : cohortes modestes, certitude faible, pas d'essai sur la longévité [B] (PMID 32073596).\n- **« Le thé brûle la graisse »** : voir la fiche extraits ; Cochrane : perte non significative et sans intérêt clinique [A] (PMID 23235664).\n- **« Plus de tasses, plus de bénéfice »** : plateau entre 1,5 et 3 tasses/j pour la mortalité [B] (PMID 38938012).\n- **« Le thé glacé en bouteille, c'est du thé »** : le sucre peut annuler l'association favorable [B] (PMID 42371142).\n- **« Le thé est sans danger à n'importe quelle température »** : au-delà de 60 à 65 °C, risque d'œsophage [B] (PMID 30891750).\n- **« Le thé protège les os »** : deux méta-analyses se contredisent [B, contradictoire] (PMID 38057603, 37374383).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 38938012 — Kim Y et al., *Epidemiol Health* 2024 (38 cohortes, mortalité). doi:10.4178/epih.e2024056\n- PMID 32073596 — Chung M et al., *Adv Nutr* 2020 (dose-réponse, 39 cohortes). doi:10.1093/advances/nmaa010\n- PMID 26202661 — Tang J et al., *Br J Nutr* 2015 (18 cohortes). doi:10.1017/S0007114515002329\n- PMID 40525136 — Ding L et al., *Front Nutr* 2025 (café et thé chez les diabétiques). doi:10.3389/fnut.2025.1570644\n- PMID 31216091 — Yi M et al., *Mol Nutr Food Res* 2019 (revue parapluie). doi:10.1002/mnfr.201900389\n- PMID 36599267 — Wang et al., *Nutrition* 2022 (thé vert et AVC). doi:10.1016/j.nut.2022.111936\n- PMID 24331002 — Yang WS et al., *Br J Nutr* 2013 (thé et diabète de type 2). doi:10.1017/S0007114513003887\n- PMID 25689396 — Li Y et al., *Diabetes Metab Res Rev* 2015 (essais, diabète). doi:10.1002/dmrr.2641\n- PMID 23780706 — Hartley L et al., *Cochrane Database Syst Rev* 2013. doi:10.1002/14651858.CD009934.pub2\n- PMID 40497293 — Rezaei et al., *Blood Press* 2025 (tension). doi:10.1080/08037051.2025.2517122\n- PMID 41073208 — Ghoflchi et al., *Clin Ther* 2025 (syndrome métabolique). doi:10.1016/j.clinthera.2025.09.011\n- PMID 39947165 — Zhou S et al., *Neuroepidemiology* 2025 (thé vert, cognition). doi:10.1159/000543784\n- PMID 39213264 — Uchida et al., *PLoS One* 2024 (matcha, ECR 12 mois). doi:10.1371/journal.pone.0309287\n- PMID 38057603 — Zhou F et al., *J Bone Miner Metab* 2023 (os). doi:10.1007/s00774-023-01479-y\n- PMID 37374383 — Chen CC et al., *Medicina* 2023 (os, hanche). doi:10.3390/medicina59061177\n- PMID 35413574 — Al-Zalabani et al., *Clin Nutr* 2022 (vessie). doi:10.1016/j.clnu.2022.03.020\n- PMID 39178989 — Abbasi et al., *Clin Nutr ESPEN* 2024 (gliome). doi:10.1016/j.clnesp.2024.08.013\n- PMID 37369612 — Bunjaku et al., *Hematol Oncol Clin North Am* 2023 (poumon). doi:10.1016/j.hoc.2023.05.018\n- PMID 21745623 — Kubota et al., *Nutr Res* 2011 (pu-erh). doi:10.1016/j.nutres.2011.05.004\n- PMID 23235664 — Jurgens et al., *Cochrane Database Syst Rev* 2012 (thé vert, poids). doi:10.1002/14651858.CD008650.pub2\n- PMID 27318851 — Loomis D et al., *Lancet Oncol* 2016 (CIRC, boissons très chaudes ; sans résumé). doi:10.1016/S1470-2045(16)30239-X\n- PMID 38986356 — Menya D et al., *Cancer Epidemiol* 2024 (boissons chaudes en Afrique de l'Est). doi:10.1016/j.canep.2024.102614\n- PMID 30891750 — Islami F et al., *Int J Cancer* 2019 (température et carcinome œsophagien). doi:10.1002/ijc.32220\n- PMID 42371142 — Ding et al., *Eur J Nutr* 2026 (UK Biobank, thé sucré). doi:10.1007/s00394-026-04023-6\n- PMID 40647065 — Ayakdaş et al., *Foods* 2025 (caféine et théanine par type de thé). doi:10.3390/foods14132313\n- PMID 11804530 — Khokhar et al., *J Agric Food Chem* 2002 (catéchines, caféine). doi:10.1021/jf010153l\n- PMID 11880757 — Bracken et al., *Epidemiology* 2002 (caféine déclarée vs standard). doi:10.1097/00001648-200203000-00011\n- PMID 35320401 — Buerkli et al., *Eur J Nutr* 2022 (polyphénols et fer, hémochromatose). doi:10.1007/s00394-022-02829-8\n- PMID 35836856 — Zhao et al., *Am J Transl Res* 2022 (carence en fer, femmes enceintes d'altitude). Pas de DOI renseigné dans PubMed.\n- PMID 40504749 — Jayasingha et al., *Crit Rev Food Sci Nutr* 2025 (fluorure du thé). doi:10.1080/10408398.2025.2516756\n- PMID 36583212 — Wen et al., *Front Nutr* 2022 (fluorose, thé brique). doi:10.3389/fnut.2022.1030344\n- PMID 41960756 — Hamitoğlu et al., *Turk J Pharm Sci* 2026 (métaux dans le thé noir). doi:10.4274/tjps.galenos.2026.86132\n- PMID 26119069 — Liu et al., *Birth Defects Res A* 2015 (thé et folate). doi:10.1002/bdra.23398\n- Recherche PubMed (MCP) du 2026-10-06 ; aucune donnée tirée de mémoire.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Thé et santé (vert, noir, oolong, matcha, pu-erh)",
+ "type": "actif",
+ "unite": ""
+}

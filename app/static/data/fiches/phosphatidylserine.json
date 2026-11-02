@@ -1,0 +1,82 @@
+{
+ "cibles": [
+  "cerveau",
+  "sante-mentale"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "phosphatidylserine",
+ "intro": "",
+ "liens": [
+  "anxiete",
+  "citicoline",
+  "declin-cognitif-et-neurodegenerescence",
+  "ginkgo",
+  "omega-3"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 12,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "11842880",
+  "21103034",
+  "39317299",
+  "33539192",
+  "42538853",
+  "24992464",
+  "16869708",
+  "23495677",
+  "38173190",
+  "42494057",
+  "37603263",
+  "12385596"
+ ],
+ "preuve_globale": "B",
+ "resume": "Phospholipide des membranes neuronales, vendu pour la mémoire des seniors et l'attention des enfants. Les essais sont petits, courts, souvent faits avec la même forme (PS de soja) et sans réplication solide.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Phospholipide des membranes neuronales, vendu pour la mémoire des seniors et l'attention des enfants. **Les essais sont petits, courts, souvent faits avec la même forme (PS de soja) et sans réplication solide.**\n- **Mémoire du sujet âgé** : un ECR de 12 semaines **négatif** (120 sujets avec trouble de mémoire lié à l'âge, 300 ou 600 mg/j de PS de soja : aucune différence sur aucun critère) [B, ECR unique n=120] (PMID 11842880). À l'inverse, un ECR de 6 mois (78 personnes de 50 à 69 ans, 100 ou 300 mg/j de PS de soja) montre une amélioration du rappel différé uniquement chez les sujets au score initial bas ; **tous les groupes, placebo compris, ont progressé** aux tests [B, ECR unique n=78] (PMID 21103034). Un ECR chinois de 12 mois (190 MCI) est positif mais utilise un mélange (PS 31,5 mg + acide alpha-linolénique + flavonoïdes de ginkgo + vitamines B) dont la PS n'est pas isolable [B, ECR unique n=190] (PMID 39317299).\n- **TDAH de l'enfant** : méta-analyse de 3 ECR (n=216), 200–300 mg/j : inattention ES 0,36 (0,07–0,64), TDAH global ES 0,76 (−0,07 à 1,60, non significatif), qualité faible [A, faible certitude] (PMID 33539192).\n- **Troubles psychiatriques, adultes et enfants** : revue systématique de 11 études (PS ou citicoline) : résultats « hétérogènes et incohérents », usage « adjuvant ou expérimental » plutôt que fondé sur la preuve [A, non concluant] (PMID 42538853).\n- **UE** : allégations « améliore la mémoire du sujet âgé » non autorisées (avis EFSA 2010 : aliment insuffisamment caractérisé), d'après une édition ancienne du registre (voir statut).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Phospholipide anionique majeur des membranes neuronales, nécessaire à l'activation d'Akt, de Raf-1 et de la protéine kinase C et à la libération des neurotransmetteurs ; la revue conclut seulement que des améliorations de mémoire ont été observées chez des sujets cognitivement atteints après supplémentation, « mécanisme peu clair » (PMID 24992464, résumé relu). Effet d'un apport oral sur ces fonctions chez l'humain : [?] non démontré ; la pharmacocinétique orale n'est pas entièrement élucidée, avec probablement de petites hausses du contenu membranaire (PMID 16869708). Dans les essais cités, la PS est d'origine soja (PMID 21103034, 23495677).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Trouble de mémoire lié à l'âge, 12 semaines | 120 sujets de plus de 57 ans, placebo vs 300 mg/j vs 600 mg/j de PS de soja ; rappel différé et reconnaissance (critères principaux), apprentissage, temps de réaction, attention : **aucune différence significative** entre les groupes, y compris selon la sévérité des plaintes (PMID 11842880) | [B, ECR unique n=120] |\n| Sujet âgé avec plaintes mnésiques | 78 sujets, 6 mois, 100 ou 300 mg/j de PS de soja : scores neuropsychologiques en hausse dans tous les groupes dont le placebo ; mémoire améliorée de façon significative contre la ligne de base uniquement chez les sujets au score initial bas, surtout sur le rappel verbal différé ; pas d'effet indésirable noté (PMID 21103034) | [B, ECR unique n=78] |\n| MCI, mélange multi-ingrédients | 190 patients, 12 mois : arithmétique β 0,688 (0,103–1,274), test de similitudes β 1,070 (0,472–1,667), mémoire à court terme β 0,600 (0,399–0,800) ; la PS ne peut pas être isolée des autres composés (PMID 39317299) | [B, ECR unique n=190] |\n| TDAH de l'enfant (ECR) | 36 enfants de 4 à 14 ans, 200 mg/j de PS de soja, 2 mois : symptômes TDAH et mémoire auditive à court terme améliorés (p < 0,01 à < 0,05) (PMID 23495677) | [B, ECR unique n=36] |\n| TDAH de l'enfant (synthèse) | 3 ECR, n=216 : inattention ES 0,36 (0,07–0,64) ; hyperactivité-impulsivité ES 0,24 (−0,04 à 0,53) non significative ; revue narrative : 4 études, n=344 (PMID 33539192) | [A, faible certitude] |\n| TDAH + épilepsie (PS enrichie en oméga-3) | 74 randomisés, essai arrêté faute de recrutement : inattention −1,57 (PS-oméga-3) vs −2,90 (placebo), p=0,33 ; « n'améliore pas » les symptômes (PMID 38173190) | [B, ECR unique n=74] |\n| Troubles psychiatriques (adultes + enfants) | Revue systématique, 11 études (10 ECR) : hétérogène, certaines améliorations sélectives, preuve insuffisante (PMID 42538853) | [A, non concluant] |\n| AD ou MCI, méta-analyse en réseau | 29 ECR, n=2 000, tous suppléments confondus : PS 100 mg classée supérieure au placebo sur le MMSE (MD −1,14 ; −1,86 à −0,41, signe tel que rapporté dans le résumé) mais **aucun supplément n'améliore l'ADAS-Cog** ; réseau peu précis, comparaisons indirectes (PMID 42494057) | [A, faible certitude] |\n| Panorama « suppléments pour la mémoire » | La revue de 2023 range la PS parmi les 18 ingrédients des compléments mémoire avec « quelques preuves » de bénéfice, loin des ingrédients « sans preuve convaincante » (PMID 37603263) | [B, revue narrative] |\n| Performance sportive | Revue de 2006 : séries de petits essais, PS bovine 800 mg/j ou PS de soja 750–800 mg/j ; modération de la réponse du cortisol à l'entraînement, gain de capacité en cyclisme intense à 750 mg/j, mais résultats « équivoques » selon les participants ; aucune méta-analyse ; doses bien supérieures à celles des essais cognitifs (PMID 16869708) | [B, revue narrative] |\n\nCochrane sur la PS : recherchée dans PubMed (titre « phosphatidylserine » dans les Cochrane Database of Systematic Reviews), aucune revue Cochrane trouvée. Stress et démence établie : [?] non recherchés.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Étudié** : 100 à 300 mg/j de PS de soja chez l'adulte âgé (PMID 21103034) ; 300 et 600 mg/j (PMID 11842880, 12385596) ; 200 mg/j chez l'enfant (PMID 23495677) ; 200–300 mg/j dans la méta-analyse TDAH (PMID 33539192) ; 31,5 mg par gélule × 2 dans le mélange chinois (PMID 39317299).\n- **Vendu** : teneurs des compléments du marché français : [?] non relevées (aucun produit dans le dépôt). Repère de la revue de 2006 : doses recommandées sur les étiquettes « usuellement 100 à 500 mg/j » (PMID 16869708). Source de la PS : la PS de soja est préférée à la PS de cortex bovin, en raison du risque de transmission de prions (PMID 16869708).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Gélules, poudre de PS de soja ; mélanges avec oméga-3 (« PS-oméga-3 »).\n- **UE, allégations** : dans le registre des allégations de santé (édition générée le 14/02/2013, fichier relu le 2026-10-14), trois allégations « peut améliorer la mémoire / les performances cognitives du sujet âgé » sont **non autorisées** : l'aliment n'est « pas suffisamment caractérisé » pour une évaluation scientifique (avis EFSA 2010;8(10):1749). État actuel du registre en ligne : [?] inaccessible depuis cet environnement (application dynamique) ; l'édition 2013 est la dernière relue.\n- **France** : aucune spécialité contenant de la phosphatidylsérine dans la base de composition de la BDPM, donc pas d'AMM (BDPM, consulté le 2026-10-14). Statut comme ingrédient de complément (nouvel aliment ou non) : [?] catalogue Novel Food inaccessible depuis cet environnement ; aucune alerte DGCCRF/ANSES retrouvée.\n- **AMA** : non nommée dans la Liste des interdictions 2026 (recherche par nom, fichier du 2026-10-13).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Étude de sécurité chez 120 sujets âgés, placebo vs 300 vs 600 mg/j de PS de soja pendant 12 semaines : aucune différence sur la biologie, la tension, la fréquence cardiaque ni les événements indésirables ; les auteurs jugent la PS de soja sûre jusqu'à 200 mg 3 fois par jour (très probablement la même cohorte que PMID 11842880, même schéma et mêmes effectifs) [B, ECR n=120] (PMID 12385596).\n- Bonne tolérance dans les essais cités : aucun effet indésirable noté chez les sujets âgés (PMID 21103034) et chez les enfants (PMID 23495677) [B, ECR petits].\n- Allergie au soja (la PS étudiée dérive du soja) : conclusion logique, [?] non documentée par une source ; aucune donnée dans les résumés lus.\n- Grossesse, allaitement, interactions (anticoagulants, médicaments cholinergiques) : [?] recherchés (PubMed « phosphatidylserine safety adverse effects review », BDPM) ; aucune étude d'interaction ni RCP ; ne pas conclure à l'absence d'interaction.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Aucune fiche produit.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Prouvé contre le déclin de la mémoire »** : l'ECR de 2010 montre une progression aussi chez le placebo et un bénéfice limité à un sous-groupe (PMID 21103034) [B, ECR unique n=78] ; l'ECR de 2001 (n=120, 300 et 600 mg/j) est nul (PMID 11842880) [B, ECR unique n=120].\n- **« Traitement naturel du TDAH »** : l'effet sur l'inattention est modeste (ES 0,36) sur 3 petits ECR, sans effet sur la sévérité globale du TDAH (PMID 33539192) ; ne remplace pas une prise en charge médicale [A, faible certitude].\n- **« Allégation officielle »** : aucune allégation PS n'est autorisée dans l'édition du registre UE consultée (statut ci-dessus).\n\nÀ voir aussi : [citicoline](fiche:citicoline) · [Déclin cognitif et neurodégénérescence](fiche:declin-cognitif-et-neurodegenerescence) · [oméga-3](fiche:omega-3) · [ginkgo](fiche:ginkgo) · [Anxiété](fiche:anxiete).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 21103034 — Kato-Kataoka A et al., *J Clin Biochem Nutr* 2010. doi:10.3164/jcbn.10-62 (résumé relu).\n- PMID 39317299 — Duan J et al., *J Affect Disord* 2025. doi:10.1016/j.jad.2024.09.131 (résumé relu).\n- PMID 23495677 — Hirayama S et al., *J Hum Nutr Diet* 2014. doi:10.1111/jhn.12090 (résumé relu).\n- PMID 33539192 — Bruton A et al., *J Altern Complement Med* 2021. doi:10.1089/acm.2020.0432 (résumé relu).\n- PMID 38173190 — Rheims S et al., *Epilepsia Open* 2024. doi:10.1002/epi4.12892 (résumé relu).\n- PMID 42538853 — Kucuksahin NG et al., *Hum Psychopharmacol* 2026. doi:10.1002/hup.70058 (résumé relu).\n- PMID 24992464 — Kim HY et al., *Prog Lipid Res* 2014. doi:10.1016/j.plipres.2014.06.002 (résumé relu).\n- PMID 11842880 — Jorissen BL et al., *Nutr Neurosci* 2001. doi:10.1080/1028415x.2001.11747356 (résumé relu).\n- PMID 12385596 — Jorissen BL et al., *Nutr Neurosci* 2002. doi:10.1080/1028415021000033802 (résumé relu).\n- PMID 16869708 — Kingsley M, *Sports Med* 2006. doi:10.2165/00007256-200636080-00003 (résumé relu).\n- PMID 42494057 — Li Y et al., *Nutr Neurosci* 2026. doi:10.1080/1028415X.2026.2703619 (résumé relu).\n- PMID 37603263 — Hersant H et al., *CNS Drugs* 2023. doi:10.1007/s40263-023-01031-6 (résumé relu).\n- Registre de l'UE des allégations nutritionnelles et de santé, édition générée le 14/02/2013 (fichier du 2026-10-13, relu le 2026-10-14) : entrées Art. 13(1) phosphatidylsérine, avis EFSA 2010;8(10):1749, statut « Non-authorised ».\n- Liste des interdictions AMA 2026, recherche par nom, fichier du 2026-10-13.\n- BDPM, fichier de composition des spécialités (CIS_COMPO_bdpm.txt, base-donnees-publique.medicaments.gouv.fr/download/file/CIS_COMPO_bdpm.txt), recherche par nom de substance (phosphatidylsérine), consulté le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Phosphatidylsérine",
+ "type": "actif",
+ "unite": ""
+}

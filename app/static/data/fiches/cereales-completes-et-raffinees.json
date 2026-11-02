@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-18",
+ "famille": "alimentation",
+ "id": "cereales-completes-et-raffinees",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "avoine-et-beta-glucanes",
+  "ble-gluten-epeautre-et-cereales-anciennes",
+  "glycemie-et-prediabete",
+  "legumineuses",
+  "maladie-coeliaque-et-intolerances",
+  "psyllium-et-fibres-solubles",
+  "riz-blanc-complet-et-arsenic",
+  "sarrasin-quinoa-et-pseudo-cereales",
+  "seigle-et-orge"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "27301975",
+  "36789934",
+  "34930065",
+  "30638909",
+  "38664726"
+ ],
+ "preuve_globale": "B",
+ "resume": "L'association est solide en cohortes, mais c'est de l'observationnel. 45 études prospectives : par 90 g/j de céréales complètes (3 portions), maladie cardiovasculaire RR 0,78 (0,73-0,85), cardiopathie coronarienne 0,81, mortalité toutes causes 0,83 (0,77-0,90, I² = 83 %), cancer 0,85 ; AVC 0,88 (…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **L'association est solide en cohortes, mais c'est de l'observationnel.** 45 études prospectives : par 90 g/j de céréales complètes (3 portions), maladie cardiovasculaire RR 0,78 (0,73-0,85), cardiopathie coronarienne 0,81, mortalité toutes causes 0,83 (0,77-0,90, I² = 83 %), cancer 0,85 ; AVC 0,88 (0,75-1,03, non significatif) [B] (PMID 27301975). Une méta-analyse plus récente (24 articles, 1,6 M de personnes) trouve des effets plus petits : par 30 g/j, maladie cardiovasculaire RR 0,92 (0,88-0,96), coronaires 0,94, mortalité totale 0,94, AVC 0,98 (0,96-1,00) [B] (PMID 36789934).\n- **Les céréales raffinées ne sont pas démontrées nocives.** Pas d'association claire avec la maladie cardiovasculaire ; seul un lien positif avec la mortalité totale apparaît sur la courbe en splines, jugé de qualité faible [B, faible certitude] (PMID 36789934). Pas d'association nette pour le riz blanc ni pour les céréales totales (PMID 27301975).\n- **Les essais randomisés sont plus modestes que les cohortes.** Complètes vs raffinées : glycémie postprandiale SMD -0,30, insulinémie SMD -0,23, HbA1c SMD -0,21 ; aucun effet sur la glycémie à jeun, l'insuline à jeun ni l'HOMA-IR [A] (PMID 34930065).\n- **Le plus gros apport probable est la fibre, pas « la céréale complète » en soi** : 25-29 g de fibres par jour correspondent à la plus grande réduction de risque dans la synthèse de la série *Lancet* [B] (PMID 30638909).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Les céréales complètes gardent le son et le germe, donc fibres, minéraux et composés phénoliques ; le raffinage les retire. La part de l'effet due aux fibres, aux composés bioactifs, ou au simple remplacement d'aliments moins bons n'est pas démêlée dans les sources lues [?] (PMID 30638909, 36789934).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Mortalité toutes causes | 90 g/j : RR 0,83 (0,77-0,90), forte hétérogénéité (PMID 27301975) ; 30 g/j : RR 0,94 (0,92-0,97), qualité de méta-preuve « élevée » selon NutriGrade (PMID 36789934) | [B] |\n| Maladie cardiovasculaire | 90 g/j : 0,78 (PMID 27301975) ; 30 g/j : 0,92 (PMID 36789934) | [B] |\n| AVC, insuffisance cardiaque | AVC 0,88 (NS) puis 0,98 (0,96-1,00) ; insuffisance cardiaque 0,97 (0,89-1,07, NS) | [B] |\n| Diabète de type 2 (cohortes) | 10 cohortes : par 50 g/j, RR 0,761 (0,700-0,828), I² = 72 % ; courbe plate jusqu'à environ 150 g/j puis décroissante pour les marqueurs glycémiques des essais (PMID 38664726) | [B] |\n| Glycémie à jeun (essais) | 37 ECR : -0,103 mmol/L (-0,178 à -0,028), HbA1c -0,06 % (NS, p = 0,05) (PMID 38664726) | [A, hétérogène et effet minime] |\n| Perte de poids, tension, cancer colorectal, cognition | non recherchés dans cette fiche [?] | [?] |\n| Riz complet vs blanc | voir [riz et arsenic](fiche:riz-blanc-complet-et-arsenic) | [B] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Doses des cohortes** : 30 à 90 g/j (soit 1 à 3 portions) ; la réduction de risque continue jusqu'à 210-225 g/j pour la plupart des critères (PMID 27301975, 36789934).\n- **Étiquetage** : « complet », « multicéréales », « aux céréales », « brun » ou « rustique » ne garantissent pas une farine complète. Définition légale française et teneur minimale : non consultées [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Aliment. Pain complet, riz complet, pâtes complètes, flocons, son, céréales de petit-déjeuner. Statut réglementaire spécifique : aucun (aliment courant).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Maladie cœliaque, allergie au blé, sensibilité au gluten non cœliaque** : les céréales complètes de blé, seigle et orge contiennent du gluten ; voir [blé, gluten, épeautre](fiche:ble-gluten-epeautre-et-cereales-anciennes) et [maladie cœliaque](fiche:maladie-coeliaque-et-intolerances).\n- **Ballonnements à l'augmentation rapide des fibres** : fréquent, non sourcé ici [?].\n- **Riz : arsenic et cadmium** : voir [riz et arsenic](fiche:riz-blanc-complet-et-arsenic).\n- **Phytates et absorption du fer, du zinc** : non recherché [?].\n- **Médicaments** : aucune interaction recherchée [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Les céréales complètes protègent massivement »** : les cohortes comparent des mangeurs de céréales complètes à des profils de vie différents (limite inhérente de l'observationnel) ; les essais randomisés ne montrent que de petits effets sur les marqueurs glycémiques [A] (PMID 34930065, 38664726).\n- **« Les céréales raffinées sont un poison »** : pas de signal net pour la maladie cardiovasculaire dans la méta-analyse la plus large ; qualité de preuve faible, donc pas de conclusion ferme [B, faible certitude] (PMID 36789934).\n- **« Pain complet = bon pour la glycémie »** : le pain « complet » industriel finement moulu n'a pas été comparé ici au pain à mouture grossière [?]. Les céréales complètes sont dans les cohortes ; leur forme (grains entiers ou farine fine) n'est pas tranchée dans les sources lues [?].\n- **Gluten-free = plus sain** : voir la fiche blé et gluten.\n\nVoir aussi : [alimentation : synthèse](fiche:alimentation) · [avoine et β-glucanes](fiche:avoine-et-beta-glucanes) · [riz et arsenic](fiche:riz-blanc-complet-et-arsenic) · [seigle et orge](fiche:seigle-et-orge) · [sarrasin, quinoa](fiche:sarrasin-quinoa-et-pseudo-cereales) · [légumineuses](fiche:legumineuses) · [psyllium et fibres solubles](fiche:psyllium-et-fibres-solubles) · [glycémie et prédiabète](fiche:glycemie-et-prediabete).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 27301975 — Aune et al., *BMJ* 2016 (céréales complètes, 45 études prospectives). doi:10.1136/bmj.i2716\n- PMID 36789934 — Hu et al., *Am J Clin Nutr* 2022 (complètes et raffinées, dose-réponse). doi:10.1016/j.ajcnut.2022.10.010\n- PMID 38664726 — Ying et al., *Nutr J* 2024 (céréales complètes et glycémie). doi:10.1186/s12937-024-00952-2\n- PMID 34930065 — Sanders et al., *Crit Rev Food Sci Nutr* 2021 (complètes vs raffinées, glycémie postprandiale). doi:10.1080/10408398.2021.2017838\n- PMID 30638909 — Reynolds et al., *Lancet* 2019 (qualité des glucides et fibres). doi:10.1016/S0140-6736(18)31809-9",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Céréales complètes vs raffinées (pain, riz, pâtes, céréales du petit-déjeuner)",
+ "type": "actif",
+ "unite": ""
+}

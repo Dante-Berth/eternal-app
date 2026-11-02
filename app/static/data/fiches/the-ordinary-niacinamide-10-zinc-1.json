@@ -1,0 +1,65 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "cosmetique",
+ "id": "the-ordinary-niacinamide-10-zinc-1",
+ "intro": "",
+ "liens": [
+  "niacinamide",
+  "protection-solaire"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "32356369",
+  "18047609",
+  "38725769"
+ ],
+ "preuve_globale": "B",
+ "resume": "Un sérum à 10 % de niacinamide à environ 6 € : l'actif a des preuves modestes à 4-5 % [B], le 10 % n'a pas de supériorité démontrée et le zinc PCA n'a aucune donnée propre trouvée [?] ; achat sans regret au prix, à condition de n'en attendre ni anti-acné ni resserrement de pores mesurable.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Un sérum à 10 % de niacinamide à environ 6 € : l'actif a des preuves modestes à 4-5 % [B], le 10 % n'a pas de supériorité démontrée et le zinc PCA n'a aucune donnée propre trouvée [?] ; achat sans regret au prix, à condition de n'en attendre ni anti-acné ni resserrement de pores mesurable.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- INCI : Aqua (Water), Niacinamide, Pentylene Glycol, Zinc PCA, Dimethyl Isosorbide, Tamarindus Indica Seed Gum, Xanthan Gum, Isoceteth-20, Ethoxydiglycol, Phenoxyethanol, Chlorphenesin (site de la marque, consulté le 2026-10-06).\n- **Niacinamide 10 %** (déclaré) : ECR hémi-visage à 4-5 % sur rides fines, taches et rougeurs [B] ; aucun essai à 10 % lu [?]. Détail : [niacinamide](fiche:niacinamide).\n- **Zinc PCA 1 %** (déclaré) : régulation du sébum revendiquée par la marque et les revendeurs [M] ; pas d'essai sur le zinc PCA topique trouvé [?]. La revue Cochrane sur l'acné inclut le zinc topique dans son titre ; son résumé n'en détaille pas les résultats [?] (PMID 32356369).\n- Ordre INCI : niacinamide en deuxième position, cohérent avec une forte concentration ; le zinc PCA vient en quatrième, après le pentylène glycol, ce qui est compatible avec 1 %.",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Cosmétique (règlement (CE) n° 1223/2009). La marque indique de faire un test préalable sur une petite zone (site de la marque, consulté le 2026-10-06). Un revendeur français précise qu'il ne s'agit « pas d'un traitement de l'acné » et renvoie à un professionnel de santé en cas d'acné persistante (Boticinal, consulté le 2026-10-06). Le produit est vendu en France par la marque et plusieurs revendeurs.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- « Réduit l'aspect des pores, améliore la texture, renforce la barrière » (site de la marque) : amélioration des pores et de l'uniformité du teint à 4 % sur 8 semaines dans un essai taïwanais [B] (PMID 18047609) ; « renforce la barrière » [M] pour ce produit.\n- « Contrôle du sébum » : un ECR de 41 participants à une concentration non précisée dans la revue qui le cite [B] (PMID 38725769) ; pas d'essai sur ce produit [?].\n- « Éclat instantané » [M].\n- Aucun essai clinique propre au produit trouvé [?].",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Quelques gouttes matin et soir après le nettoyage, avant les hydratants (consigne de la marque, consultée le 2026-10-06). Écran solaire le jour : indispensable avec tout traitement des taches (voir [protection solaire](fiche:protection-solaire)).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- **Prix relevés (30 ml)** : 5,59 € (Redcare Pharmacie, remisé de 6,19 €), 5,99 € (Boticinal), 6,00 € (site de la marque) ; 7,90 € chez Sephora France (relevé par moteur de recherche, page non lisible directement) (relevés du 2026-10-06). Fourchette : 5,59-7,90 €.\n- **Format 60 ml** : 10,99 € chez Redcare, soit 5,50 € les 30 ml (consulté le 2026-10-06).\n- Durée du flacon non déclarée par la marque : l'estimation de 1 à 2 mois est une hypothèse [?].\n- **Alternative moins chère** : aucune trouvée ; c'est déjà l'un des sérums à 10 % les moins chers. Le format 60 ml est le moins cher au millilitre.\n- Comparaisons plus chères à preuve équivalente : La Roche-Posay Pure Niacinamide 10, 45,05 € (prix remisé de 53 €, Benlux, un seul vendeur relevé, consulté le 2026-10-06), contient en plus du phényléthyl résorcinol, sans essai propre cité sur la page ; The Inkey List Niacinamide à 10 % : 9,60 € après remise de 20 % chez Sephora France (relevé par moteur de recherche, non vérifié sur la page). Pas de supériorité démontrée pour l'une ou l'autre par rapport à un sérum à 5-10 % [?].",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Note moyenne de 4,8/5 sur 88 avis chez Redcare Pharmacie, consulté le 2026-10-06 ; texture aqueuse décrite par la marque. Les avis ne servent pas de preuve d'efficacité. Tolérance détaillée non étudiée [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Composition, consignes, prix : [The Ordinary](https://theordinary.com/en-fr/niacinamide-10-zinc-1-serum-100436.html), [Redcare Pharmacie](https://www.redcare-pharmacie.fr/beaute/BE04657888/the-ordinary-niacinamide-10-zinc-1.htm), [Boticinal](https://www.boticinal.com/the-ordinary-niacinamide-10-zinc-1-serum-anti-imperfections-visage-peaux-normales-a-imperfections-30ml.html), [Sephora France](https://www.sephora.fr/p/niacinamide-10%25-zinc-1%25---serum-anti-imperfections-P3921091.html) (page inaccessible, prix relevé par moteur de recherche), [Benlux](https://www.benlux.fr/pure-niacinamide-10-serum-visage-concentre-anti-taches-la-roche-posay) (consultés le 2026-10-06 ; faits de prix et de composition uniquement).\n- Preuves : voir [niacinamide](fiche:niacinamide) (PMID 18047609, 38725769, 32356369).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "The Ordinary Niacinamide 10% + Zinc 1% (30 ml)",
+ "type": "produit",
+ "unite": ""
+}

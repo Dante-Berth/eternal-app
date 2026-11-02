@@ -1,0 +1,83 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "",
+ "id": "rides-et-sillons-nasogeniens",
+ "intro": "",
+ "liens": [
+  "acide-hyaluronique-filler",
+  "collagene-oral",
+  "mode-de-vie-et-peau",
+  "retinoides"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "23732711",
+  "39014236",
+  "39171587",
+  "35675051",
+  "32294278",
+  "40358958",
+  "22835509",
+  "30327185",
+  "40542236",
+  "37261136",
+  "36909866"
+ ],
+ "preuve_globale": "A",
+ "resume": "Rides fines / photovieillissement : seuls les rétinoïdes ont un socle d'essais solide (voir retinoides). Le reste de la cosmétique est surtout [B] ou [M].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Rides fines / photovieillissement : seuls les **rétinoïdes** ont un socle d'essais solide (voir [retinoides](fiche:retinoides)). Le reste de la cosmétique est surtout [B] ou [M].\n- **Sillon nasogénien** : aucune crème ni aucun sérum n'a montré qu'il le comble [?]. Seul l'acide hyaluronique injecté a des méta-analyses d'essais randomisés, qui portent sur la tolérance et l'ajout de lidocaïne plutôt que sur l'efficacité vs absence de traitement [A] ; risque vasculaire rare mais grave.\n- Collagène oral : gain modeste d'hydratation/élasticité [A], biais importants, effet sur les rides très incertain.\n- **Protection solaire** : dans l'essai randomisé de Nambour (903 adultes < 55 ans), un écran large spectre appliqué chaque jour a réduit de 24 % le vieillissement cutané sur 4,5 ans par rapport à un usage à la demande (odds relatif 0,76, IC 0,59–0,98) [B, ECR unique n=903] (PMID 23732711).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Photovieillissement (UV) + vieillissement chronologique : dégradation du collagène/élastine, perte d'hydratation. Mécanisme général, [?] non sourcé ici.\n- Sillon nasogénien : rôle de la perte de volume du tiers moyen du visage et de la gravité, non sourcé ici [?]. Dans les essais de fillers, la sévérité est mesurée par des échelles cliniques (wrinkle severity rating scale) (PMID 39014236).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Option | Cible | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Tretinoïne / rétinoïdes topiques | Rides fines, photo-dommage | [B] ici (1 RCT n=20 vérifié) ; littérature plus large non vérifiée ici | Tretinoïne : médicament sur ordonnance (à vérifier) ; rétinol : cosmétique | ? |\n| Filler AH injecté | Sillon nasogénien | [A] méta-analyses d'ECR sur la tolérance et la lidocaïne ([fiche](fiche:acide-hyaluronique-filler)) | Dispositif médical, acte médical | ponctuel, ? |\n| Collagène hydrolysé oral | Hydratation, élasticité | [A] biaisée ([fiche](fiche:collagene-oral)) | Complément alimentaire | ? |\n| Microneedling | Rides, texture | [B] (revue systématique, critères surtout déclaratifs) | Acte/dispositif | ? |\n| Peptides topiques (palmitoyl pentapeptide-4) | Rides | [B] (1 RCT n=21, pattes d'oie, 8 sem) | Cosmétique | ? |\n| Niacinamide topique | Hydratation, sébum ; rides | [B] une formule contenant de la niacinamide (ECR, 67 femmes, 8 sem.) : hydratation ↑, perte en eau ↓, sébum ↓ ; rides : [?] (seulement l'avis des participantes) (PMID 39171587) | Cosmétique | ? |\n| Vitamine C topique | Photovieillissement | [?] : essais trouvés = formulations mixtes/post-laser, pas de preuve isolée vérifiée | Cosmétique | ? |\n| Protection solaire quotidienne | Prévention du photovieillissement | [B, ECR unique n=903] −24 % de vieillissement cutané sur 4,5 ans (PMID 23732711) | Cosmétique | ? |\n| Mode de vie (sport, sommeil, alimentation, tabac) | Prévention globale | [B] revue narrative, causalité non établie ([fiche](fiche:mode-de-vie-et-peau)) | n/a | 0 |\n| Acide hyaluronique topique (crème) | Hydratation de surface | [?] non vérifié | Cosmétique | ? |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Pas de protocole rédigé pour les injectables (règle 7). Pour le topique : voir les fiches actifs ; protocole complet à écrire après vérification des essais rétinoïdes vs placebo.",
+   "titre": "Protocoles"
+  },
+  {
+   "markdown": "- Attendre d'un sérum qu'il comble un sillon nasogénien : les seules données de comblement concernent l'injection [A].\n- Croire qu'un « rétinol » OTC équivaut toujours à la tretinoïne : un seul petit RCT vérifié (n=20) n'a pas trouvé de différence à 24 sem, mais l'IC est large (−2 à +1 sur le score de Griffiths) → absence de preuve de différence, pas preuve d'équivalence [B]. Le mélange de rétinol et d'esters a en revanche provoqué 6 fois moins d'érythème (11 % vs 64 %) (PMID 35675051).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Peptides = effet botox / lifting »** [M] : le seul RCT vérifié est minuscule (21 sujets, 8 sem, pattes d'oie, population indonésienne, groupe placebo ~7) et conclut lui-même qu'il faut un échantillon plus grand [B].\n- **« Collagène oral = rides effacées »** [M] : les méta-analyses portent surtout sur hydratation et élasticité ; elles signalent des biais dans les RCT inclus [A].\n- **Sérums « clinically proven »** : une partie des études cosmétiques est conduite ou cofinancée par l'industrie (ex. étude de microscopie cutanée cofinancée par LVMH Research, PMID 32294278) → vérifier les affiliations avant de croire un chiffre.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Lidocaïne dans le filler AH : pas de différence d'efficacité sur le sillon nasogénien (MD 0,08 ; IC −0,09 à 0,24), mais douleur nettement réduite [A] (PMID 39014236).\n- Complications sévères (infection, occlusion vasculaire) : 0,0041 % sur 290 307 injections dans une série rétrospective d'un réseau de cliniques ; sur 10 occlusions vasculaires, 8 au front et 1 touchant sillon nasogénien et nez [B] (PMID 40358958). Des occlusions rétiniennes après injection du sillon nasogénien sont documentées (4 cas sur 12, série) [B] (PMID 22835509). Étude cadavérique : zones à risque du tiers moyen, anastomoses avec l'artère angulaire/dorsale nasale [B, étude anatomique sur cadavres] (PMID 30327185).",
+   "titre": "Ce que peu de gens savent (sourcé)"
+  },
+  {
+   "markdown": "Tout projet d'injection (praticien médical formé uniquement) ; lésion cutanée suspecte parmi des « rides » ; douleur oculaire, baisse de vision, blanchiment ou douleur cutanée après injection = urgence.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "Rétinoïdes : irritation, photosensibilité, **contre-indiqués pendant la grossesse** (retinoïdes : connaissance générale, [?] non sourcée ici). Microneedling : érythème transitoire 6,8 %, desquamation 1,7 %, brûlure 1,5 % [B] (PMID 40542236). Détail dans les fiches actifs.",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "1. Chien AL et al., JAMA Dermatol 2022 — PMID 35675051 — [DOI](https://doi.org/10.1001/jamadermatol.2022.1891)\n2. Liu H et al., Aesthetic Plast Surg 2024 — PMID 39014236 — [DOI](https://doi.org/10.1007/s00266-024-04233-5)\n3. Colon J et al., Cureus 2023 — PMID 37261136 — [DOI](https://doi.org/10.7759/cureus.38286)\n4. Tamura T et al., Ann Plast Surg 2025 — PMID 40358958 — [DOI](https://doi.org/10.1097/SAP.0000000000004327)\n5. Park SW et al., Am J Ophthalmol 2012 — PMID 22835509 — [DOI](https://doi.org/10.1016/j.ajo.2012.04.019)\n6. Hufschmidt K et al., JPRAS 2018 — PMID 30327185 — [DOI](https://doi.org/10.1016/j.bjps.2018.09.010)\n7. Foppiani JA et al., Aesthetic Plast Surg 2025 — PMID 40542236 — [DOI](https://doi.org/10.1007/s00266-025-04972-z)\n8. Aruan RR et al., J Clin Aesthet Dermatol 2023 — PMID 36909866\n9. Vergilio MM, Leonardi GR, Curr Med Chem 2025 — PMID 39171587 — [DOI](https://doi.org/10.2174/0109298673325125240813075250)\n10. Cinotti E et al., JEADV 2020 — PMID 32294278 — [DOI](https://doi.org/10.1111/jdv.16466)\n11. Hughes MC et al., Ann Intern Med 2013 — PMID 23732711 — [DOI](https://doi.org/10.7326/0003-4819-158-11-201306040-00002)",
+   "titre": "Sources (vérifiées PubMed)"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Rides du visage, vieillissement cutané et sillons nasogéniens",
+ "type": "condition",
+ "unite": ""
+}

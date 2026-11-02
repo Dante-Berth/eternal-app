@@ -1,0 +1,87 @@
+{
+ "cibles": [
+  "cerveau",
+  "sante-mentale"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "medicament",
+ "id": "lithium-faible-dose",
+ "intro": "",
+ "liens": [
+  "declin-cognitif-et-neurodegenerescence",
+  "depression",
+  "tension-arterielle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 15,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28832877",
+  "38743015",
+  "30947755",
+  "25093483",
+  "38810780",
+  "40770094",
+  "22746245",
+  "42268602",
+  "38364914",
+  "39212809",
+  "33045847",
+  "42312809",
+  "40152059",
+  "28421576",
+  "34146638"
+ ],
+ "preuve_globale": "B",
+ "resume": "Le lithium carbonate est un médicament à marge thérapeutique étroite, sur ordonnance (liste II), indiqué en France dans la prévention des rechutes des troubles bipolaires et les états maniaques (BDPM, Téralithe LP 400 mg, consulté le 2026-10-14). Son usage « anti-âge » ou « neuroprotecteur » n'a…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Le lithium carbonate est un médicament à marge thérapeutique étroite**, sur ordonnance (liste II), indiqué en France dans la prévention des rechutes des troubles bipolaires et les états maniaques (BDPM, Téralithe LP 400 mg, consulté le 2026-10-14). Son usage « anti-âge » ou « neuroprotecteur » n'a **aucune indication**.\n- **L'idée vient d'études observationnelles** : moins de démence là où l'eau contient plus de lithium, mais l'association est non linéaire (une tranche de 5,1–10 µg/L est associée à **plus** de démence, IRR 1,22) et peut être due à des facteurs de confusion liés au lieu de résidence [B, étude cas-témoins nationale] (PMID 28832877). Les études de patients traités par lithium ne confirment pas : méta-analyse de 8 études (377 060 sujets), OR 0,94 (0,77–1,24) pour la démence [A, observationnel] (PMID 38743015).\n- **Un seul ECR chez des MCI** (n=61, lithium carbonate à des taux sanguins sub-thérapeutiques de 0,25–0,5 mEq/L, 2 ans) : stabilité cognitive et fonctionnelle contre déclin sous placebo, hausse du bêta-amyloïde 1-42 dans le liquide céphalo-rachidien [B, ECR unique n=61] (PMID 30947755). Une analyse de sécurité portant sur 61 patients MCI randomisés (cohorte identique probable, non précisée dans le résumé) rapporte plus d'effets indésirables, de diabète et d'arythmie sous lithium (PMID 25093483).\n- **Orotate et micro-doses** : étude humaine d'imagerie (9 hommes, 5 mg/j pendant 28 jours) uniquement [B, étude pilote] (PMID 38810780) ; efficacité clinique de l'orotate chez l'humain : [?] aucun ECR trouvé. L'article *Nature* 2025 sur la carence en lithium et l'orotate repose sur du tissu cérébral humain (lithium réduit chez les MCI) et sur des expériences chez la souris [C] (PMID 40770094).\n- **Ne pas s'auto-médiquer avec du carbonate.** En France, l'orotate n'a pas d'AMM (absent de la base de composition de la BDPM) ; son statut comme complément (Novel Food, DGCCRF) reste [?]. Il existe en revanche des oligoéléments à AMM contenant du lithium à très faible dose (0,28 à 1 mg de lithium par ampoule), voir « Formes disponibles et statut ».",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Le lithium inhibe la phosphorylation de GSK-3α et β, kinases liées au traitement de la protéine précurseur de l'amyloïde et à l'hyperphosphorylation de tau (PMID 22746245, rappel dans le résumé de l'essai). Une revue de 2026 décrit aussi une induction de Bcl-2, une hausse de signalisation BDNF et une stabilisation mitochondriale ; ces mécanismes viennent surtout de modèles précliniques [C] (PMID 42268602, revue narrative). Une méta-analyse d'études animales (29) et humaines (3) conclut à un effet neuroprotecteur chez l'animal [C] (PMID 38364914). Effet chez l'humain de très faibles doses : [?] seules deux études cliniques, un ECR de microdose non répliqué (PMID 22746245) et un pilote d'imagerie sur 9 hommes (PMID 38810780).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication / question | Résultat | Preuve |\n|---|---|---|\n| Lithium dans l'eau et démence | Danemark, 73 731 cas et 733 653 témoins ; médiane d'exposition 11,5 µg/L (cas) vs 12,2 µg/L (témoins). Par rapport à 2,0–5,0 µg/L : > 15 µg/L IRR 0,83 (0,81–0,85) ; 10,1–15 µg/L 0,98 (0,96–1,01) ; 5,1–10 µg/L **1,22** (1,19–1,25) ; les auteurs notent un biais de confusion possible (PMID 28832877) | [B, cas-témoins] |\n| Synthèse eau potable / démence | 5 études ; association avec moins de démence dès 0,002 mg/L pour les auteurs qui appellent à des essais ; revue d'études corrélationnelles (PMID 39212809) | [B, revue d'observationnel] |\n| Lithium en médicament et démence | 8 études observationnelles, 377 060 sujets : démence OR 0,94 (0,77–1,24) ; Alzheimer OR 0,69 (0,31–1,65) ; chez les bipolaires seuls OR 0,9 (0,71–1,15) : pas d'association significative (PMID 38743015) | [A, observationnel] |\n| MCI amnésique, lithium carbonate sub-thérapeutique | 61 patients, 2 ans en double aveugle + 24 mois en simple aveugle : stabilité sous lithium, déclin sous placebo (ADAS-Cog, CDR-SB) ; mémoire et attention meilleures à 24 mois ; Aβ1-42 du LCR augmenté à 36 mois (PMID 30947755) | [B, ECR unique n=61] |\n| Alzheimer, « microdose » de 300 µg/j | 15 mois : MMSE stable sous lithium, en baisse chez le groupe contrôle ; effectif non lu dans le résumé ; dose 500 fois plus petite que les 150 mg de l'essai MCI (PMID 22746245) | [B, ECR, effectif non lu] |\n| Suicide, lithium dans l'eau | 14 études, 94 millions de personnes : r = −0,191 (−0,287 à −0,090) ; hétérogénéité I² 80,7 %, biais de publication (PMID 33045847) | [A, écologique, forte hétérogénéité] |\n| Cerveau de personnes avec MCI ou Alzheimer | Aron et coll. : seul métal significativement réduit dans le cerveau des MCI ; déplétion en lithium chez la souris = pathologie accélérée ; orotate de lithium prévient les lésions chez la souris (PMID 40770094) | [C] |\n\nUn commentaire de 2026 (British Journal of Psychiatry) conteste l'idée que l'orotate se comporterait autrement que le carbonate : pas de preuve d'un complexe stable dans les fluides, dissociation attendue dans l'estomac, pharmacocinétique comparable (PMID 42312809) [C, lettre]. Les revues favorables restent des revues narratives qui concluent à la nécessité d'un essai (PMID 42268602).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Étudié** : lithium carbonate visant 0,25–0,5 mEq/L sanguin (PMID 30947755) ; 300 µg/j dans l'essai de microdose (PMID 22746245) ; 5 mg/j d'orotate pendant 28 jours chez 9 hommes, soit 2–7 % de la teneur en lithium d'une dose thérapeutique de carbonate (PMID 38810780) ; concentrations de l'eau potable étudiées : quelques µg/L.\n- **Vendu** : teneurs des gélules d'orotate du marché français : [?] non relevées (aucune fiche produit, aucune source officielle de teneur). À titre de repère, les oligoéléments à AMM apportent 0,28 à 1 mg de lithium par ampoule (BDPM), les 5 mg/j d'orotate de l'étude d'imagerie représentant 2–7 % d'une dose thérapeutique de carbonate (PMID 38810780).\n- Un taux sanguin de 0,25–0,5 mEq/L suppose un dosage sanguin régulier, ce qui est incompatible avec l'automédication.",
+   "titre": "Concentrations (doses) étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Lithium carbonate** : Téralithe LP 400 mg (comprimé sécable à libération prolongée) et Téralithe 250 mg : médicaments soumis à prescription (liste II) ; le LP 400 mg est remboursé à 65 % (BDPM) ; indications : prévention des rechutes des troubles bipolaires et des états schizo-affectifs intermittents, traitement curatif des états d'excitation maniaque ou hypomaniaque (BDPM, consulté le 2026-10-14).\n- **Orotate de lithium** : aucune spécialité à base d'orotate dans la base de composition de la BDPM (consultée le 2026-10-14) ; statut comme complément alimentaire (catalogue Novel Food, DGCCRF) : [?] catalogue inaccessible depuis cet environnement, aucune alerte ANSM/DGCCRF/ANSES retrouvée par recherche web.\n- **Oligoéléments à AMM contenant du lithium (BDPM, consulté le 2026-10-14)** : LITHIUM OLIGOSOL (gluconate de lithium 8,14 mg, soit 0,2796 mg de lithium par ampoule de 2 ml ; RCP du 01/08/2023) et GRANIONS DE LITHIUM 1 mg/2 ml (citrate de lithium 13,54 mg, soit 1,00 mg de lithium ; RCP du 21/07/2023). Indication : « modificateur du terrain » pour troubles psychiques ou psychosomatiques mineurs (sommeil léger, irritabilité) de l'adulte et de l'enfant de plus de 6 ans, 1 à 4 ampoules/jour ; les RCP précisent que le lithium oligoélément « n'a pas de place » dans le traitement des maladies psychiatriques nécessitant du lithium, déconseillent la grossesse et l'allaitement, et ne prévoient pas d'interaction cliniquement significative à cette dose. Aucun de ces RCP ne revendique un effet sur la démence ou le vieillissement. Pour comparaison, un comprimé de Téralithe 250 mg contient 250 mg de carbonate, soit 6,8 mEq de lithium.\n- **AMA** : non nommé dans la Liste des interdictions 2026 (recherche par nom, fichier du 2026-10-13).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **RCP du carbonate (BDPM, consulté le 2026-10-14)** : marge de sécurité étroite, lithiémie à surveiller régulièrement ; contre-indications : allergie, allaitement, insuffisance cardiaque, maladie d'Addison, insuffisance rénale sauf surveillance stricte, syndrome de Brugada ; sodium, déshydratation et fonction rénale modifient la toxicité ; association déconseillée avec les antagonistes de l'angiotensine II, les AINS, les IEC, certains diurétiques, les corticoïdes et la carbamazépine ; prudence avec le topiramate ; en grossesse, augmentation du taux de malformations, surtout cardiaques ; prudence chez le sujet âgé et l'épileptique ; contrôles réguliers de la fonction rénale, de la thyroïde, de l'ECG et de la calcémie.\n- **Interactions complémentaires du RCP Téralithe 250 mg (BDPM, mis à jour par l'ANSM le 28/07/2026, consulté le 2026-10-14)** : ISRS (citalopram, escitalopram, fluoxétine, paroxétine, sertraline…) : risque de syndrome sérotoninergique ; neuroleptiques : signes évoquant un syndrome malin ou une intoxication au lithium ; diurétiques épargneurs de potassium, méthyldopa, métronidazole : lithémie qui monte ; bicarbonate et chlorure de sodium, mannitol, acétazolamide, théophylline, calcitonine, empagliflozine et dapagliflozine : lithémie qui baisse (perte d'efficacité) ; arrêt brutal de la caféine : lithémie qui peut monter ; orlistat : échec du traitement. Le RCP demande de ne pas modifier l'apport en sodium et de maintenir l'hydratation (chaleur, fièvre, troubles digestifs).\n- **Faible dose chez le sujet âgé** : 4 ans de lithium sub-thérapeutique n'ont pas altéré le DFG estimé, mais ont augmenté neutrophiles, TSH et poids, avec plus d'événements indésirables (p=0,045), de diabète (p=0,037) et d'arythmie (p=0,028) que le placebo [B, ECR n=61] (PMID 25093483).\n- **Compléments de lithium en vie réelle** : enquête transversale opportuniste de 211 adultes prenant du lithium en complément (le plus souvent de l'aspartate à 10 mg/j, aussi de l'orotate et du lithium ionique) : bénéfices perçus surtout cognitifs et d'humeur, mais effets indésirables et phénomènes de sevrage « plus fréquents que prévu » ; auto-déclaré, sans groupe contrôle [B, enquête] (PMID 40152059). Un cas néerlandais : une patiente croyant prendre du lithium avait un produit acheté sur Internet (orotate) avec une lithémie < 0,05 mmol/L, c'est-à-dire pratiquement pas de lithium dosable, ce qui illustre l'incertitude sur le contenu réel [B, cas isolé] (PMID 28421576).\n- **Orotate** : toxicologie préclinique favorable chez le rat (28 jours, dose sans effet 400 mg/kg/j), [C] (PMID 34146638, financement non lu) ; absence de données de sécurité clinique à long terme [?] (recherche PubMed « lithium orotate » : aucun ECR, seulement des revues, un pilote d'imagerie, des études animales et toxicologiques, deux articles anciens (1973, 1976) et des cas). Les commentaires qui voient dans l'orotate une forme « plus sûre » sont contestés (PMID 42312809).\n- Interactions avec l'[hypertension et ses traitements](fiche:tension-arterielle) : les antihypertenseurs cités par le RCP (IEC, sartans, diurétiques) augmentent la lithiémie.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- Chez une personne qui craint la démence : bilan cognitif, pression artérielle, audition, sommeil, activité physique ; ce sont les leviers retenus dans la fiche [Déclin cognitif et neurodégénérescence](fiche:declin-cognitif-et-neurodegenerescence), pas le lithium.\n- Chez un patient bipolaire : le lithium carbonate est un traitement de référence encadré par un psychiatre ; voir [dépression](fiche:depression) pour le contexte.\n- Un essai de lithium orotate à faible dose en MCI est appelé de leurs vœux par une revue narrative (PMID 42268602) ; aucun n'existe dans les sources lues (recherche PubMed « lithium orotate »), à tenir pour une absence de preuve, pas pour une preuve d'absence.",
+   "titre": "Ce qu'un médecin pourrait évaluer, et les alternatives"
+  },
+  {
+   "markdown": "Aucune fiche produit.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Micro-dose de lithium, protection prouvée contre Alzheimer »** : un petit ECR de MCI avec du carbonate dosé dans le sang (PMID 30947755), une microdose non répliquée (PMID 22746245) ; la méta-analyse d'observationnel ne montre pas d'association (PMID 38743015) [B].\n- **« Les eaux riches en lithium protègent »** : relation non linéaire, avec une tranche à risque accru (IRR 1,22) et confusion possible (PMID 28832877) [B].\n- **« Orotate = meilleur carbonate, sans risque »** : étude murine, données rat de toxicité, et contestation de la chimie (PMID 40770094, 34146638, 42312809) [C].\n- **« Naturel, c'est un oligo-élément »** : le carbonate est un médicament à surveillance sanguine (RCP BDPM).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 28832877 — Kessing LV et al., *JAMA Psychiatry* 2017. doi:10.1001/jamapsychiatry.2017.2362 (résumé relu).\n- PMID 38743015 — Huang J et al., *J Clin Psychopharmacol* 2024. doi:10.1097/JCP.0000000000001863 (résumé relu).\n- PMID 39212809 — Fraiha-Pegado J et al., *Int J Bipolar Disord* 2024. doi:10.1186/s40345-024-00348-5 (résumé relu).\n- PMID 30947755 — Forlenza OV et al., *Br J Psychiatry* 2019. doi:10.1192/bjp.2019.76 (résumé relu).\n- PMID 25093483 — Aprahamian I et al., *J Clin Psychiatry* 2014. doi:10.4088/JCP.13m08741 (résumé relu).\n- PMID 22746245 — Nunes MA et al., *Curr Alzheimer Res* 2013. doi:10.2174/1567205011310010014 (résumé relu).\n- PMID 33045847 — Eyre-Watt B et al., *Aust N Z J Psychiatry* 2021. doi:10.1177/0004867420963740 (résumé relu).\n- PMID 40770094 — Aron L et al., *Nature* 2025. doi:10.1038/s41586-025-09335-x (résumé relu).\n- PMID 38810780 — Neal J et al., *J Affect Disord* 2024. doi:10.1016/j.jad.2024.05.128 (résumé relu).\n- PMID 42312809 — Hajek T et al., *Br J Psychiatry* 2026. doi:10.1192/bjp.2026.10699 (résumé relu).\n- PMID 42268602 — Moore GJ et al., *JAMA Psychiatry* 2026. doi:10.1001/jamapsychiatry.2026.1296 (résumé relu, revue narrative).\n- PMID 38364914 — Singulani MP et al., *Ageing Res Rev* 2024. doi:10.1016/j.arr.2024.102231 (résumé relu).\n- PMID 40152059 — Strawbridge R et al., *Can J Psychiatry* 2025. doi:10.1177/07067437251328282 (résumé relu).\n- PMID 28421576 — van Weringh G et al., *Tijdschr Psychiatr* 2017 (pas de DOI ; résumé relu).\n- PMID 34146638 — Murbach TS et al., *Regul Toxicol Pharmacol* 2021. doi:10.1016/j.yrtph.2021.104973 (résumé relu).\n- BDPM, TERALITHE 250 mg comprimé sécable (RCP 4.4 et 4.5, mis à jour par l'ANSM le 28/07/2026), base-donnees-publique.medicaments.gouv.fr/medicament/62124478/extrait, consulté le 2026-10-14.\n- BDPM, LITHIUM OLIGOSOL (/medicament/63672890/extrait, RCP du 01/08/2023) et GRANIONS DE LITHIUM 1 mg/2 ml (/medicament/66793609/extrait, RCP du 21/07/2023), consultés le 2026-10-14.\n- BDPM, fichier de composition des spécialités (CIS_COMPO_bdpm.txt, base-donnees-publique.medicaments.gouv.fr/download/file/CIS_COMPO_bdpm.txt), recherche par nom de substance (lithium, orotate), consulté le 2026-10-14.\n- BDPM, TERALITHE LP 400 mg, comprimé sécable à libération prolongée (page extrait, RCP 4.1, 4.3-4.6), base-donnees-publique.medicaments.gouv.fr/medicament/67292476/extrait, consulté le 2026-10-14.\n- Liste des interdictions AMA 2026, recherche par nom, fichier du 2026-10-13.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Lithium à faible dose (carbonate, orotate)",
+ "type": "actif",
+ "unite": ""
+}

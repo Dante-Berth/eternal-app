@@ -1,0 +1,78 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "cerveau",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "alimentation",
+ "id": "baies-myrtilles-et-anthocyanes",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "alimentation-cerveau",
+  "antioxydants-alimentaires-et-absorption",
+  "tension-arterielle",
+  "vue-dmla-et-cataracte"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "30277799",
+  "33066847",
+  "30007479",
+  "36972800",
+  "40856863",
+  "28283823",
+  "29703387"
+ ],
+ "preuve_globale": "B",
+ "resume": "Cohortes : un signal modeste. Méta-analyse de cohortes prospectives : plus d'anthocyanes alimentaires, maladie coronarienne RR 0,91 (0,83-0,99), mortalité CV RR 0,92 (0,87-0,97) ; pas d'association avec l'infarctus, l'AVC ou les maladies CV totales ; effet plus marqué pour les anthocyanidines que…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Cohortes : un signal modeste.** Méta-analyse de cohortes prospectives : plus d'anthocyanes alimentaires, maladie coronarienne RR 0,91 (0,83-0,99), mortalité CV RR 0,92 (0,87-0,97) ; **pas d'association** avec l'infarctus, l'AVC ou les maladies CV totales ; effet plus marqué pour les anthocyanidines que pour les baies elles-mêmes [B] (PMID 30277799).\n- **Essais sur les facteurs de risque CV : insuffisants.** 11 ECR de myrtille : aucun effet significatif sur les critères CV (triglycérides -0,27 mmol/L, p = 0,06, non significatif) ; les auteurs concluent à une preuve insuffisante [A, résultat nul] (PMID 33066847). 19 ECR d'anthocyanes : pas d'effet sur poids ni tension ; HOMA-IR -0,21 (-0,36 à -0,07) ; LDL et cholestérol total abaissés seulement à > 300 mg/j pendant > 12 semaines [A, hétérogène] (PMID 30007479).\n- **Meilleur essai unique : myrtille sauvage lyophilisée, 12 semaines** (61 personnes de 65 à 80 ans en bonne santé, 26 g/j soit 302 mg d'anthocyanes, équivalent de 178 g frais) : dilatation flux-dépendante +0,86 point de pourcentage, tension systolique ambulatoire de 24 h -3,59 mmHg (-6,95 à -0,23), meilleur rappel immédiat verbal [B, ECR n=61] (PMID 36972800).\n- **Cognition chez les personnes âgées avec déclin léger** : 9 ECR, n=513, mémoire épisodique SMD 0,34 (0,11-0,57) ; vitesse de traitement, mémoire de travail, apprentissage visuospatial : pas d'effet [A, petits essais] (PMID 40856863).\n- **Rien ne prouve que « plus d'anthocyanes » en gélule vaille des baies entières** : voir ci-dessous.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Les polyphénols sont en grande partie transformés par le microbiote ; les métabolites circulants, pas la molécule d'origine, sont probablement les actifs (voir [antioxydants alimentaires et absorption](fiche:antioxydants-alimentaires-et-absorption)). Dans l'essai de myrtille sauvage, l'excrétion urinaire de polyphénols augmente, mais ni le débit sanguin cérébral ni la composition du microbiote ne changent (PMID 36972800) : le mécanisme des effets observés reste non élucidé [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Maladies CV, cohortes | coronaropathie RR 0,91 ; mortalité CV RR 0,92 ; infarctus, AVC, CV total : pas d'association (PMID 30277799) | [B] |\n| Facteurs de risque CV, myrtille | 11 ECR : pas de bénéfice significatif ; une perte de poids n'apparaît que dans des sous-groupes (> 6 semaines, poudre ou lyophilisée) (PMID 33066847) | [A, nul] |\n| Anthocyanes (aliments et extraits) | 19 ECR : tension, poids, glycémie à jeun, insuline : pas d'effet ; HOMA-IR -0,21 ; HbA1c -0,32 (-0,64 à 0,00), p = 0,050 (PMID 30007479) | [A, hétérogène] |\n| Vasculaire, tension, cognition, sujet sain âgé | ECR, 26 g/j de poudre pendant 12 semaines : FMD +0,86 pt, tension ambulatoire systolique -3,59 mmHg ; débit cérébral et microbiote inchangés (PMID 36972800) | [B, ECR n=61] |\n| Fonctions exécutives, sujet âgé | ECR de 37 personnes de 60-75 ans, 24 g/j de myrtille lyophilisée (équivalent d'une tasse fraîche) pendant 90 jours : moins d'erreurs de répétition au test verbal et coût de changement de tâche réduit ; équilibre et marche inchangés (PMID 28283823) | [B, ECR n=37] |\n| Déclin cognitif léger | 9 ECR, n=513 : mémoire épisodique SMD 0,34, langage (MCI) SMD 0,30 (0,01-0,60) ; autres domaines nuls (PMID 40856863) | [A, petits essais] |\n| Vision, vision nocturne, fatigue oculaire | essais sur extraits standardisés de myrtille existent (presbytie, sécheresse) : non lus en détail, aucun chiffre repris [?] | [?] |\n| Cancer, diabète de type 2, démence (incidence) | non recherchés dans cette fiche [?] | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Fruit** : équivalent d'une tasse (178 g de fruits frais ≈ 26 g de poudre lyophilisée, 302 mg d'anthocyanes) dans le meilleur essai (PMID 36972800) ; 24 g/j de poudre (≈ 1 tasse) dans l'autre (PMID 28283823).\n- **Anthocyanes isolées** : effet sur LDL et cholestérol total seulement à > 300 mg/j pendant > 12 semaines (PMID 30007479).\n- **Gélules « myrtille »** : teneur en anthocyanes variable ; non vérifiée sur les produits français [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Aliment (baies fraîches, surgelées, jus, poudres lyophilisées). Extraits de myrtille : compléments alimentaires ; statut et allégations autorisées non consultés [?]. Statut AMA : non concerné (non vérifié).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Pas de signal de sécurité dans les essais lus ; interactions avec les anticoagulants : recherche PubMed ciblée (myrtille/anthocyanes et warfarine ou INR), aucune donnée trouvée [?]. Une revue de 46 ECR sur les jus de fruits autres que le pamplemousse n'a pas relevé d'interaction sévère, hors cas isolés ; jus de myrtille et étanercept classé combinaison favorable (PMID 29703387).\n- Jus et confitures : sucre ajouté ; l'équivalence avec les fruits entiers n'est pas démontrée par ces essais [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Les myrtilles sont le super-aliment antioxydant n°1 »** : aucun classement d'aliments n'est démontré sur des critères cliniques ; les mesures de laboratoire (ORAC) ne prouvent rien in vivo [?] (voir [antioxydants alimentaires](fiche:antioxydants-alimentaires-et-absorption)).\n- **« Des gélules d'anthocyanes baissent la tension »** : méta-analyse de 19 ECR sans effet sur la tension [A, nul] (PMID 30007479).\n- **« La myrtille réduit le risque cardiovasculaire »** : 11 ECR sans bénéfice significatif sur les facteurs de risque [A, nul] (PMID 33066847) ; cohortes avec signal limité à la mortalité CV [B] (PMID 30277799).\n- **« La myrtille protège la vision »** : aucune donnée solide reprise ici [M] / [?].\n\nVoir aussi : [alimentation : synthèse](fiche:alimentation) · [alimentation et cerveau](fiche:alimentation-cerveau) · [tension artérielle](fiche:tension-arterielle) · [vue : DMLA et cataracte](fiche:vue-dmla-et-cataracte).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 30277799 — Kimble et al., *Crit Rev Food Sci Nutr* 2019 (cohortes, anthocyanes). doi:10.1080/10408398.2018.1509835\n- PMID 33066847 — Miraghajani et al., *Complement Ther Med* 2020 (myrtille, 11 ECR). doi:10.1016/j.ctim.2020.102389\n- PMID 30007479 — Daneshzad et al., *Clin Nutr* 2019 (anthocyanes, 19 ECR). doi:10.1016/j.clnu.2018.06.979\n- PMID 36972800 — Wood et al., *Am J Clin Nutr* 2023 (myrtille sauvage, ECR n=61). doi:10.1016/j.ajcnut.2023.03.017\n- PMID 28283823 — Miller et al., *Eur J Nutr* 2018 (ECR n=37). doi:10.1007/s00394-017-1400-8\n- PMID 40856863 — da Silva et al., *Biogerontology* 2025 (cognition, 9 ECR). doi:10.1007/s10522-025-10308-w\n- PMID 29703387 — Chen et al., *J Food Drug Anal* 2018 (jus de fruits et médicaments). doi:10.1016/j.jfda.2018.01.009",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Baies, myrtilles et anthocyanes",
+ "type": "actif",
+ "unite": ""
+}

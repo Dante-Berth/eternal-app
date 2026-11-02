@@ -1,0 +1,65 @@
+{
+ "cibles": [
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-23",
+ "famille": "alimentation",
+ "id": "regime-paleo",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "cereales-completes-et-raffinees",
+  "legumineuses",
+  "regime-carnivore",
+  "regime-cetogene-et-pauvre-en-glucides",
+  "regime-mediterraneen",
+  "vitamine-d"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "33492173",
+  "36257717"
+ ],
+ "preuve_globale": "A",
+ "resume": "Marqueurs métaboliques améliorés chez des patients atteints de troubles métaboliques : HOMA-IR −0,39, triglycérides −0,29 mmol/L, LDL −0,35 mmol/L, tension systolique −5,89 mmHg, CRP −0,84 mg/L, vs groupes témoins [A, hétérogénéité non chiffrée dans le résumé] (PMID 33492173).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Marqueurs métaboliques améliorés** chez des patients atteints de troubles métaboliques : HOMA-IR −0,39, triglycérides −0,29 mmol/L, LDL −0,35 mmol/L, tension systolique −5,89 mmHg, CRP −0,84 mg/L, vs groupes témoins [A, hétérogénéité non chiffrée dans le résumé] (PMID 33492173).\n- **Résultat sur des petits essais** : 10 études ; le résumé ne dit ni la taille des essais, ni le régime témoin, ni le risque de biais, donc l'ampleur est incertaine [A, faible certitude présumée] (PMID 33492173).\n- **Sclérose en plaques** : réduction de fatigue (SMD −1,27) mais crédibilité de la preuve « très faible » (PMID 36257717) [A, certitude très faible].\n- **Aucune donnée d'événements cliniques** (infarctus, mortalité, cancer) trouvée [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Principe courant** : viandes maigres, poissons, œufs, légumes, fruits, noix, graines ; sans céréales, légumineuses, laitages, sucres ajoutés ni produits transformés. Description courante, non sourcée par les résumés lus [?] ; les méta-analyses n'en donnent pas la définition (PMID 33492173, 36257717).\n- **Hétérogénéité** : les régimes témoins des 10 essais ne sont pas détaillés dans le résumé (PMID 33492173), et la rigueur de la « version paléo » d'un essai à l'autre non plus [?].\n- **Dans la sclérose en plaques** : le paléo est comparé à des régimes low-fat, méditerranéen, cétogène, anti-inflammatoire, jeûne, restriction calorique et habituel dans une méta-analyse en réseau (PMID 36257717). Contenu précis de chaque bras : non extrait [?].\n- **Écart avec le carnivore** : le paléo garde les végétaux ; voir [carnivore](fiche:regime-carnivore).",
+   "titre": "Variantes et contenu"
+  },
+  {
+   "markdown": "Non revérifié [?]. Le régime exclut céréales, légumineuses, laitages, sucres ajoutés et ultra-transformés ; difficile de dire si l'effet vient de ce qui est retiré (transformés, sucre) ou du retrait de groupes d'aliments par ailleurs associés à des bénéfices (légumineuses, céréales complètes : voir [légumineuses](fiche:legumineuses), [céréales complètes](fiche:cereales-completes-et-raffinees)).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Troubles métaboliques\n| Source | Résultat | Preuve |\n|---|---|---|\n| Méta-analyse de 10 articles (ECR) | HOMA-IR −0,39 (IC −0,70 à −0,08), insuline à jeun −12,17 µU/mL, cholestérol total −0,32, triglycérides −0,29, LDL −0,35 mmol/L, PAS −5,89 (−9,97 à −1,86), PAD −4,01, CRP −0,84 mg/L (PMID 33492173) | [A, faible certitude présumée] |\n\n### Sclérose en plaques (fatigue et qualité de vie)\nMéta-analyse en réseau, 12 essais, 608 pers. : paléo, low-fat et méditerranéen réduisent la fatigue vs régime habituel (paléo SMD −1,27, IC −1,81 à −0,74) ; qualité de vie physique et mentale améliorées pour paléo et méditerranéen ; crédibilité NutriGRADE « très faible » pour toutes les comparaisons directes (essais à biais élevé ou modéré, petits effectifs) [A, certitude très faible] (PMID 36257717).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « C'est ce que mangeaient nos ancêtres, donc c'est optimal » : argument anthropologique non recherché ici [?] ; les essais testent un régime moderne qui imite ce schéma, pas le régime paléolithique réel.\n- « Il faut bannir céréales et légumineuses » : aucune étude lue ne montre un bénéfice de leur exclusion en soi ; l'effet vient peut-être du retrait des transformés [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Calcium et vitamine D à surveiller en l'absence de laitages ([vitamine D](fiche:vitamine-d)) ; non sourcé ici [?]. Coût et contraintes pratiques non recherchés. Grossesse, maladie rénale, enfants : non couverts.\n\nStatut réglementaire : sans objet (pattern alimentaire).\n\nVoir aussi : [carnivore](fiche:regime-carnivore) · [cétogène](fiche:regime-cetogene-et-pauvre-en-glucides) · [régime méditerranéen](fiche:regime-mediterraneen) · [synthèse alimentation](fiche:alimentation).",
+   "titre": "Sécurité, populations à risque"
+  },
+  {
+   "markdown": "- PMID 33492173 — Sohouli M.H. et al., *Crit Rev Food Sci Nutr* 2021. doi:10.1080/10408398.2021.1876625\n- PMID 36257717 — Snetselaar L.G. et al., *Neurology* 2022. doi:10.1212/WNL.0000000000201371",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Régime paléolithique (paléo)",
+ "type": "actif",
+ "unite": ""
+}

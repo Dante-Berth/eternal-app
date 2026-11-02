@@ -1,0 +1,67 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "medicament",
+ "id": "alostil-5-mousse",
+ "intro": "",
+ "liens": [
+  "minoxidil",
+  "minoxidil-cooper-5-solution"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "17761356",
+  "21700360",
+  "27391640",
+  "26387973",
+  "34370845"
+ ],
+ "preuve_globale": "A",
+ "resume": "Même minoxidil 5 % que les solutions, sans propylène glycol et plus agréable à coiffer, mais environ deux à trois fois plus cher : à réserver aux hommes que la solution irrite ou gêne.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Même minoxidil 5 % que les solutions, sans propylène glycol et plus agréable à coiffer, mais environ deux à trois fois plus cher : à réserver aux hommes que la solution irrite ou gêne.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Composant | Quantité | Rôle | Preuve |\n|---|---|---|---|\n| Minoxidil | 50 mg/g | Actif | [A] (voir [minoxidil](fiche:minoxidil)) ; mousse 5 % supérieure au placebo chez 352 hommes à 16 sem. [B, ECR unique n=352] (PMID 17761356) |\n| Éthanol anhydre, eau, butylhydroxytoluène (E321), acides lactique et citrique, glycérol, alcools cétylique et stéarylique, polysorbate 60, gaz propulseur | — | Excipients | Sans propylène glycol ; alcools cétylique et stéarylique et BHT peuvent rarement sensibiliser [?] |\n\nComposition selon le RCP (BDPM, consulté le 2026-10-03). Flacon pressurisé de 60 g, boîtes de 1 ou 3.",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Médicament sans ordonnance, non remboursable, prix libre ; titulaire Kenvue France ; indiqué chez l'homme adulte ; posologie 1 g deux fois par jour ; RCP révisé le 10/11/2025 (BDPM, fiche 69250554, consulté le 2026-10-03).",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- Avantage réel : moins d'intolérance locale (prurit, pellicules) que la solution 2 % au propylène glycol chez 113 femmes (p = 0,046) [B, ECR unique n=113] (PMID 21700360).\n- Pas d'avantage d'efficacité démontré sur la solution : chez la femme, mousse 5 % une fois par jour et solution 2 % deux fois par jour donnent des résultats proches (+23,9 vs +24,2 cheveux/cm²) [B, ECR unique n=322] (PMID 27391640).\n- Sur 104 semaines (étude ouverte), les gains reviennent vers la valeur initiale : le produit freine plus qu'il ne fait repousser durablement [B] (PMID 26387973).",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "1 g (une demi-capsule de mousse) deux fois par jour sur cuir chevelu sec, en écartant les cheveux ; mains lavées après ; éviter le contact avec nourrissons et animaux (RCP, BDPM ; PMID 34370845).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix relevés pour 3 × 60 g : 39,99 € à 51,10 € (Mon-armoire-à-pharmacie, Pharmacie des Rochettes, Pharmaleo, Pharmacie Jules Verne, Pharmashopi, relevés le 2026-10-03). À 2 g/j, 180 g = 90 jours, soit **13 à 17 €/mois**.\n- Alternative moins chère à preuve équivalente : [Minoxidil Cooper 5 % solution](fiche:minoxidil-cooper-5-solution), également sans propylène glycol, 5 à 8 €/mois.",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Aucune source d'avis exploitable relevée [?]. Les participantes de l'essai de 2011 jugeaient plus souvent que la mousse « ne gêne pas la coiffure » (p = 0,002) [B] (PMID 21700360).",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 17761356 — Olsen E.A. et al., *J Am Acad Dermatol* 2007. doi:10.1016/j.jaad.2007.04.012\n- PMID 21700360 — Blume-Peytavi U. et al., *J Am Acad Dermatol* 2011. doi:10.1016/j.jaad.2010.09.724\n- PMID 27391640 — Blume-Peytavi U. et al., *J Drugs Dermatol* 2016.\n- PMID 26387973 — Kanti V. et al., *J Eur Acad Dermatol Venereol* 2015. doi:10.1111/jdv.13324\n- PMID 34370845 — Tater K.C. et al., *J Am Anim Hosp Assoc* 2021. doi:10.5326/JAAHA-MS-7154\n- BDPM, Alostil 5 % mousse (69250554), consulté le 2026-10-03.\n- Prix : mon-armoire-a-pharmacie.com, pharmaciedesrochettes.fr, pharmaleo.fr, pharmacie-jules-verne.fr, pharmashopi.com, relevés le 2026-10-03.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "true",
+ "statut_fr": "medicament_sans_ordonnance",
+ "titre": "Alostil 5 %, mousse pour application cutanée",
+ "type": "produit",
+ "unite": ""
+}

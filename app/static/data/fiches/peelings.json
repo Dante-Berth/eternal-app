@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "",
+ "id": "peelings",
+ "intro": "",
+ "liens": [
+  "acide-hyaluronique-filler",
+  "lasers-fractionnes",
+  "microneedling",
+  "niacinamide",
+  "protection-solaire",
+  "retinoides",
+  "toxine-botulique",
+  "vitamine-c"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "38530985",
+  "40145274",
+  "39110247",
+  "31802394",
+  "42429955",
+  "32356369",
+  "28349655",
+  "33010868",
+  "42087526"
+ ],
+ "preuve_globale": "A",
+ "resume": "Les peelings superficiels à l'acide glycolique donnent de bons résultats dans le mélasma d'après des revues d'essais hétérogènes [A, faible certitude], mais restent égaux ou inférieurs aux topiques de référence avec plus d'effets indésirables ; pour le photovieillissement les ECR solides manquent…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Les peelings superficiels à l'acide glycolique donnent de bons résultats dans le mélasma d'après des revues d'essais hétérogènes [A, faible certitude], mais restent égaux ou inférieurs aux topiques de référence avec plus d'effets indésirables ; pour le photovieillissement les ECR solides manquent dans mes recherches [?], et le risque de dyschromie sur peau mate est le point critique.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- **Peut aider** : mélasma (adjuvant), taches solaires, cicatrices d'acné atrophiques en association [A, faible certitude] (PMID 38530985, 40145274, 39110247).\n- **Ne corrige pas** : relâchement, volume, rides dynamiques ([toxine botulique](fiche:toxine-botulique), [filler](fiche:acide-hyaluronique-filler), lifting).\n- Trois profondeurs : **superficiel** (acides glycolique, salicylique, mandélique ; épiderme), **moyen** (TCA 35-40 % ou combinaisons, derme papillaire), **profond** (TCA ≥ 50 %, phénol). Les chiffres de concentration proviennent de sites de cabinets et de laboratoires, pas d'une source officielle, et varient d'un praticien à l'autre [?].",
+   "titre": "Ce que ça corrige / ne corrige pas"
+  },
+  {
+   "markdown": "- **Mélasma** : revue systématique de 24 études (15 ECR, 1 075 patients, 8 à 36 semaines) : peelings sûrs et efficaces, acide glycolique le plus sûr et le plus efficace ; méta-analyse impossible, données hétérogènes [A, faible certitude] (PMID 38530985).\n- **Mélasma, rang par rapport aux topiques** : revue de 113 études (6 897 participants) : triple association et hydroquinone seule restent les plus efficaces ; peelings et lasers « égaux ou inférieurs aux topiques » avec plus d'effets indésirables [A, faible certitude] (PMID 31802394).\n- **Taches solaires (lentigos)** : revue de 41 essais cliniques (3 234 patients) : peelings au TCA, 12 à 46 % de succès ; lasers plus efficaces que les autres modalités [B, essais hétérogènes dont non randomisés] (PMID 40145274).\n- **Cicatrices d'acné** : réseau de 24 ECR (1 546 participants) : microneedling + peeling chimique donne les meilleurs résultats d'amélioration et de satisfaction, devant microneedling seul, peeling seul et laser ; effets indésirables sans différence nette [A, faible certitude] (PMID 39110247). Le peeling figure parmi les 34 interventions du réseau de 56 ECR de [PMID 42429955] [A, faible certitude].\n- **Acné active** : revue Cochrane : peeling à l'acide glycolique vs peeling salicylique-mandélique, une étude de 40 participants, pas de différence d'amélioration globale ; qualité faible [B] (PMID 32356369).\n- **Photovieillissement (rides, texture)** : ma recherche PubMed n'a pas isolé de méta-analyse ni d'ECR exploitable pour les peelings seuls ; à approfondir [?].\n- **Durabilité** : non extraite des sources lues ; l'effet sur le mélasma est connu pour récidiver (voir [PMID 31802394]) [?].",
+   "titre": "Preuves (efficacité, durabilité) avec tags"
+  },
+  {
+   "markdown": "- Gonflement, douleur, érythème persistant, prurit, allergie, folliculite/poussée d'acné, infection, réactivation d'herpès, hypo- et hyperpigmentation, lignes de démarcation, cicatrices ; les complications augmentent avec la profondeur, avec les phototypes foncés, certains agents et l'exposition solaire post-peeling [B, revue narrative] (PMID 28349655). Les fréquences chiffrées ne figurent pas dans le résumé [?].\n- Les complications les plus courantes des techniques de resurfaçage (laser, peeling, dermabrasion) : infection, hypo- et hyperpigmentation, cicatrices ; le phototype de Fitzpatrick et l'échelle de Glogau guident le risque [B, revue] (PMID 33010868).\n- Dans les revues de mélasma, les événements indésirables des traitements sont surtout irritation, sécheresse, brûlure, érythème et hyperpigmentation post-inflammatoire [A, faible certitude] (PMID 31802394).\n- **Acides et autres actifs le jour d'un soin** : un consensus Delphi (14 experts, 2026) classe glycolique, lactique, salicylique, rétinoïdes, hydroquinone et acide azélaïque comme inadaptés le jour de tout soin à barrière altérée ; céramides, acide hyaluronique, niacinamide et peptides sont appropriés à tous les stades [B, consensus d'experts] (PMID 42087526). Voir [niacinamide](fiche:niacinamide), [rétinoïdes](fiche:retinoides).\n- Tout peeling : protection solaire stricte ensuite ([protection solaire](fiche:protection-solaire)).",
+   "titre": "Complications et fréquences"
+  },
+  {
+   "markdown": "- L'arrêté du 6 janvier 1962 (art. 2, 4°) réserve aux médecins « tout acte de physiothérapie aboutissant à la destruction si limitée, soit-elle des téguments » (version en vigueur depuis le 27 mai 2024, Légifrance, consulté le 2026-10-06). Le texte ne mentionne pas le mot « peeling » : classer les peelings moyens et profonds (TCA, phénol) comme actes médicaux est une lecture, sans décision officielle trouvée qui la confirme ; la limite exacte pour les peelings superficiels en institut n'a pas été trouvée dans une source officielle [?].\n- **Cosmétiques en vente libre** : les peelings « maison » (AHA, BHA) relèvent du règlement (CE) n° 1223/2009. Sur les limites AHA, le document SCCNFP/0370/00 (adopté le 28 juin 2000, consulté le 2026-10-06) rapporte la conclusion du panel CIR (grand public : ≤ 10 % à pH ≥ 3,5, avec protection solaire ; usage professionnel : ≤ 30 % à pH ≥ 3,0, application brève et rincée) et la recommandation allemande du BGVV (acide glycolique ≤ 4 % à pH ≥ 3,8 ; acide lactique ≤ 2,5 % à pH ≥ 5). Ces valeurs sont des avis, pas une limite légale européenne que j'aie vérifiée [?].",
+   "titre": "Qui peut le pratiquer en France (réglementation)"
+  },
+  {
+   "markdown": "- Peeling doux : 80 à 160 € par séance ; peeling profond au TCA : 250 à 700 € selon la surface (AFME, tarifs moyens de novembre 2022, consulté le 2026-10-06).\n- Peeling superficiel : 250 € TTC ; peeling moyen (TCA 20 %) : 200 à 400 € la séance (Dr Mayeux, Paris 16, consulté le 2026-10-06). Faits de prix uniquement.\n- Nombre de séances : variable, non fixé a priori par le cabinet cité ; durabilité non démontrée [?].",
+   "titre": "Coût et durabilité"
+  },
+  {
+   "markdown": "- [Rétinoïdes](fiche:retinoides) topiques (acné, photovieillissement) ; hydroquinone et triple association pour le mélasma, mieux étayées que les peelings [A, faible certitude] (PMID 31802394).\n- [Niacinamide](fiche:niacinamide) et [vitamine C](fiche:vitamine-c) pour les taches, en adjuvant [B].\n- [Microneedling](fiche:microneedling) pour les cicatrices ; [lasers fractionnés](fiche:lasers-fractionnes) pour efficacité supérieure et risque pigmentaire plus élevé.",
+   "titre": "Alternatives moins invasives"
+  },
+  {
+   "markdown": "- Peeling moyen ou profond en institut, à domicile ou par un non-médecin (voir arrêté de 1962, lecture non confirmée).\n- Phototype IV-VI : peeling agressif sans discussion du risque de dyschromie, sans préparation ni écran solaire strict [B] (PMID 28349655).\n- Peelings « médicaux » achetés en ligne (TCA, phénol) pour usage personnel : risque de brûlure et de cicatrice ; fréquences non trouvées [?].\n- Combinaison de peeling avec rétinoïde, isotrétinoïne récente ou herpès non évoqués [?].",
+   "titre": "Signaux d'alerte (praticien, tourisme médical, produits)"
+  },
+  {
+   "markdown": "- Sarkar R, Lakhani R, *Dermatol Surg* 2024 — PMID 38530985 — [DOI](https://doi.org/10.1097/DSS.0000000000004167)\n- McKesey J et al., *Am J Clin Dermatol* 2020 — PMID 31802394 — [DOI](https://doi.org/10.1007/s40257-019-00488-w)\n- Mardani G et al., *J Cosmet Dermatol* 2025 — PMID 40145274 — [DOI](https://doi.org/10.1111/jocd.70133)\n- Li H et al., *Arch Dermatol Res* 2024 — PMID 39110247 — [DOI](https://doi.org/10.1007/s00403-024-03256-x)\n- Ou Y et al., *Aesthetic Plast Surg* 2026 — PMID 42429955 — [DOI](https://doi.org/10.1007/s00266-026-06165-8)\n- Liu H et al., *Cochrane Database Syst Rev* 2020 — PMID 32356369 — [DOI](https://doi.org/10.1002/14651858.CD011368.pub2)\n- Costa IMC et al., *J Cosmet Dermatol* 2017 — PMID 28349655 — [DOI](https://doi.org/10.1111/jocd.12329)\n- Hamilton MM, Kao R, *Facial Plast Surg Clin North Am* 2020 — PMID 33010868 — [DOI](https://doi.org/10.1016/j.fsc.2020.06.008)\n- Bjerring P et al., *J Cosmet Dermatol* 2026 — PMID 42087526 — [DOI](https://doi.org/10.1111/jocd.70880)\n- Réglementation : [arrêté du 6 janvier 1962, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021066541/) ; [SCCNFP/0370/00, AHA](https://ec.europa.eu/health/ph_risk/committees/sccp/documents/out121_en.pdf) (consultés le 2026-10-06).\n- Prix : [AFME](https://www.afme.org/prix-soins-tarifs-medecine-esthetique/), [Dr Mayeux](https://www.paris-medecine-esthetique.fr/tarifs/) (consultés le 2026-10-06 ; fait de prix uniquement).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Peelings chimiques (AHA, BHA, TCA)",
+ "type": "acte",
+ "unite": ""
+}

@@ -1,0 +1,91 @@
+{
+ "cibles": [
+  "longevite",
+  "prevention"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-thyroide-tsh-t4-anti-tpo",
+ "intro": "Fiche « examen ». Bilan général : [bilans biologiques](fiche:bilans-biologiques). La TSH est dosée en première intention ; la T4 libre confirme et classe la situation. Les anticorps anti-TPO ne sont pas traités en détail ici [?].",
+ "liens": [
+  "ashwagandha",
+  "bilans-biologiques",
+  "biotine"
+ ],
+ "marqueurs": [
+  "tsh",
+  "t4-libre"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 8,
+ "nb_seuils": 10,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "41922998",
+  "42768899",
+  "42732446",
+  "25114871",
+  "42219800",
+  "41965091",
+  "42466561",
+  "40417451"
+ ],
+ "preuve_globale": "B",
+ "resume": "Hypothyroïdie fruste (TSH élevée, T4 libre normale) chez la personne âgée : pas de bénéfice démontré de la lévothyroxine. Revue systématique 2026 (8 études, 4 892 sujets ≥ 60 ans, TSH 4,5–10 mUI/L) : aucun gain de qualité de vie ni baisse des événements cardiovasculaires (RR 0,88–0,94 dans les 2…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Hypothyroïdie fruste (TSH élevée, T4 libre normale) chez la personne âgée : pas de bénéfice démontré de la lévothyroxine.** Revue systématique 2026 (8 études, 4 892 sujets ≥ 60 ans, TSH 4,5–10 mUI/L) : aucun gain de qualité de vie ni baisse des événements cardiovasculaires (RR 0,88–0,94 dans les 2 ECR, intervalles incluant 1) [B, revue systématique, 2 ECR + 6 cohortes] (PMID 41922998).\n- Une revue narrative allemande 2026 estime que la cible de TSH chez la personne âgée est **4–10 mUI/L** ; le **surtraitement** par la lévothyroxine augmente le risque cardiovasculaire, cognitif et osseux (HR 1,37–2,02) ; l'hyperthyroïdie fruste (le plus souvent due à un traitement mal dosé) expose à la fibrillation atriale et aux fractures [B, revue narrative] (PMID 42768899).\n- Revue 2026 sur le risque cardio-métabolique : l'hypothyroïdie fruste est associée à des anomalies lipidiques/vasculaires, mais les plus gros essais contrôlés chez l'âgé trouvent **aucune amélioration** des symptômes, de l'athérosclérose carotidienne ou de la fonction cardiaque malgré la baisse de TSH [B, revue systématique narrative] (PMID 42732446).\n- Prix et remboursement de la TSH en France : non établis [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "La TSH hypophysaire monte quand la thyroïde produit trop peu d'hormone ; la T4 libre reflète l'hormone circulante. TSH élevée + T4 libre normale = « fruste » (subclinique) ; TSH élevée + T4 libre basse = hypothyroïdie avérée, qui se traite à tout âge (PMID 42768899).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "Conversions : TSH en mUI/L (= µUI/mL) ; T4 libre en pmol/L (1 ng/dL ≈ 12,9 pmol/L, facteur usuel non sourcé ici) ; anti-TPO en UI/mL. Le HAS précise que l'intervalle de référence varie selon les kits de dosage des laboratoires : celui imprimé sur le compte rendu fait foi. Bornes numériques de l'intervalle de référence de la TSH et de la T4 libre chez l'adulte, et seuil de positivité des anti-TPO : non retrouvés dans le texte HAS [?].\n\nSeuils diagnostiques (recommandation officielle, sans tag de preuve) :\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| TSH | mUI/L | > intervalle de référence du laboratoire sur 2 prélèvements ≥ 6 semaines d'écart, T4L normale | Hypothyroïdie fruste | Adulte | HAS, Prise en charge des hypothyroïdies chez l'adulte, déc. 2022, consulté le 2026-11-01 (3.2.2) |\n| TSH | mUI/L | > 10 avec T4L < intervalle de référence | Hypothyroïdie avérée | Adulte | HAS, Prise en charge des hypothyroïdies chez l'adulte, déc. 2022, consulté le 2026-11-01 (3.2.2) |\n| TSH | mUI/L | 4–10 | Traitement à envisager seulement si signe clinique, anti-TPO positifs, antécédent ou facteur de risque cardiovasculaire, ou goitre (décision partagée, deux dosages à 6–12 semaines d'écart avant tout traitement) | Adulte | HAS, Prise en charge des hypothyroïdies chez l'adulte, déc. 2022, consulté le 2026-11-01 |\n| TSH | mUI/L | > 10 avec T4L normale | Traitement recommandé | Adulte | HAS, Prise en charge des hypothyroïdies chez l'adulte, déc. 2022, consulté le 2026-11-01 |\n| TSH | mUI/L | limite haute = décennie d'âge (p. ex. 8 pour 80–89 ans) | Limite supérieure proposée de l'intervalle de référence, qui n'est pas un seuil de traitement | ≥ 60 ans | HAS, Prise en charge des hypothyroïdies chez l'adulte, déc. 2022, consulté le 2026-11-01 (9.1.2.1) |\n| TSH | mUI/L | ≤ 4 (à défaut de valeurs par trimestre) | Limite supérieure utilisable à tout trimestre, ≈ 0,5 mUI/L sous la limite de population générale | Grossesse | HAS, Prise en charge des hypothyroïdies chez l'adulte, déc. 2022, consulté le 2026-11-01 (10.3) |\n| TSH | mUI/L | > 4 confirmée | Hypothyroïdie fruste : traitement par lévothyroxine recommandé | Désir de grossesse | HAS, Prise en charge des hypothyroïdies chez l'adulte, déc. 2022, consulté le 2026-11-01 (11.2, 11.3) |\n| TSH | mUI/L | > 2,5 et < 4 | Traitement à discuter (avis spécialisé, décision partagée) en cas d'AMP, ou d'antécédents de fausses couches avec anti-TPO positifs | Désir de grossesse | HAS, Prise en charge des hypothyroïdies chez l'adulte, déc. 2022, consulté le 2026-11-01 (11.3) |\n| TSH | mUI/L | 1er trimestre 2,5 ; 2e 3,0 ; 3e 3,5 (limites hautes, si valeurs locales indisponibles) | Limites supérieures de l'intervalle de référence ; antérieures au HAS, qui retient 4 en bloc | Grossesse | ETA 2014, recommandation 2 (PMID 25114871), consulté le 2026-11-01 |\n| T4 libre | pmol/L | < 2,5e centile de l'intervalle propre à la grossesse, TSH normale | Hypothyroxinémie isolée (traitement non recommandé aux 2e-3e trimestres) | Grossesse | ETA 2014 (PMID 25114871), consulté le 2026-11-01 |\n\nLes recommandations ATA 2026 sur la grossesse (PMID 42219800, résumé lu) remplacent celles de 2017 ; leurs seuils chiffrés de TSH : texte intégral non lu [?]. L'ETA 2014 est donc possiblement dépassée. Les cibles de TSH sous traitement ne sont pas des seuils de référence : cible avant conception, TSH entre la limite inférieure et proche de 2,5 mUI/L (HAS 11.3, débattue dans le texte). Seuil pronostique issu d'études : voir ci-dessous la cible 4–10 mUI/L de l'âgé, revue narrative [B, revue narrative] (PMID 42768899), qui diverge de la limite par décennie du HAS ; ne pas les mélanger.",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Lévothyroxine, hypothyroïdie fruste de l'âgé, qualité de vie / événements CV | Aucun bénéfice ; RR événements CV 0,88–0,94 (IC incluant 1) dans 2 ECR | [B] (PMID 41922998) |\n| Biomarqueurs cardio-métaboliques sous traitement (post hoc, 286 sujets ≥ 65 ans, TSH médiane 6,44) | Aucun effet sur l'ApoB (−0,03 g/L ; −0,07 à 0,00) | [B, analyse post hoc de 2 ECR] (PMID 41965091) |\n| Cible de TSH de l'âgé | 4–10 mUI/L | [B, revue narrative] (PMID 42768899) |\n| Surdosage de lévothyroxine | Risque CV, cognitif, osseux accru (HR 1,37–2,02) | [B, revue narrative] (PMID 42768899) |\n| Hyperthyroïdie fruste | Risque de fibrillation atriale et fractures ; souvent d'origine iatrogène | [B, revue narrative] (PMID 42768899) |",
+   "titre": "Ce que dit la preuve"
+  },
+  {
+   "markdown": "- **Recommandations HAS (décembre 2022), telles que relayées par La Revue du Praticien du 14 mars 2023** (texte HAS ouvert et relu le 2026-11-01, voir le tableau des seuils) : TSH en première intention ; hypothyroïdie fruste = TSH élevée sur **deux prélèvements espacés d'au moins 6 semaines** avec T4 libre normale ; traitement non systématique, à discuter si TSH entre 4 et 10 mUI/L avec un critère associé (signes cliniques, anti-TPO positifs, goitre, facteurs de risque cardiovasculaire) ; **anticorps anti-TPO non systématiques**, pour rechercher une origine auto-immune ; **après 65 ans, TSH seulement sur signes d'appel** (symptômes évocateurs, déclin cognitif récent, amiodarone) ; limite haute de TSH = la décennie d'âge à partir de 60 ans (8 mUI/L pour 80–89 ans). Le texte relayé ne mentionne **aucun dépistage en population générale**.\n- Désaccord entre sources : la revue allemande cite une cible de 4–10 mUI/L chez l'âgé (PMID 42768899), la HAS une limite haute selon la décennie d'âge. Ne pas les mélanger : décision par le médecin.\n- **Biotine** : une directive de l'European Thyroid Association 2026 classe la biotine parmi les causes d'interférence avec les immunodosages thyroïdiens (PMID 42466561). Avec des réactifs anciens, > 500 ng/mL de biotine faussent la T4 libre à la hausse ; les réactifs récents tolèrent 1 000 à 3 000 ng/mL selon le test, et la tolérance varie selon la marque (PMID 40417451). Le délai d'arrêt avant la prise de sang n'est pas donné dans les résumés lus : demander au laboratoire [?] (voir [biotine](fiche:biotine)).",
+   "titre": "Qui, quand, comment"
+  },
+  {
+   "markdown": "- **TSH élevée et T4 libre normale** : en âge avancé, la surveillance active est une option raisonnable (PMID 41922998, 42768899). Décision par le médecin.\n- Chez une personne déjà traitée, une TSH trop basse peut signifier un surdosage : à réévaluer par le médecin (PMID 42768899).\n- Aucun complément « soutien thyroïdien » n'est démontré ici ; un cas de thyrotoxicose sous ashwagandha est signalé dans [ashwagandha](fiche:ashwagandha).",
+   "titre": "Que faire d'un résultat anormal"
+  },
+  {
+   "markdown": "Examen de biologie médicale prescrit. Les conditions d'inscription à la NABM ont été revues après l'avis HAS 2022 et sont décrites comme applicables depuis le 2024-09-10 (lettres de laboratoires, source secondaire ; texte officiel non ouvert). Cotation actuelle et prix : non retrouvés (les chiffres trouvés — code 1208, 28 B en 2017 — sont anciens) [?]. Lévothyroxine : médicament sur ordonnance (BDPM non consultée) [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Traiter un chiffre de TSH légèrement élevé chez une personne âgée sans symptômes ni T4 libre basse (aucun bénéfice démontré, PMID 41922998).\n- Poursuivre indéfiniment la lévothyroxine sans réévaluer l'indication et la dose (PMID 42768899).\n- Doser sous forte dose de biotine sans prévenir le laboratoire.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Une TSH au-dessus de 2,5 doit être corrigée pour la longévité »** : aucune donnée retrouvée (recherche PubMed 2026-10-17). Les recommandations relayées ne mentionnent pas ce seuil : l'hypothyroïdie fruste y est définie par une TSH supérieure à l'intervalle de référence du laboratoire, sur deux prélèvements, avec une limite haute qui monte avec l'âge après 60 ans (HAS 2022, via La Revue du Praticien).\n- **« La lévothyroxine redonne de l'énergie dans l'hypothyroïdie fruste »** : les ECR n'ont pas montré d'amélioration des symptômes ni de la qualité de vie (PMID 41922998, 42768899).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Dans une enquête britannique citée par la revue allemande, environ 10 % des personnes de plus de 70 ans suivent un traitement pour hypothyroïdie ; la revue souligne que, chez certaines, l'arrêt progressif peut être envisagé en l'absence d'indication (PMID 42768899).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Fatigue inexpliquée avec frilosité, prise de poids, constipation, peau sèche (hypothyroïdie) ; palpitations, amaigrissement, tremblements (hyperthyroïdie) ; goitre ou nodule. Avis médical dans tous les cas.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 42466561 — Campi I et al., 2026 ETA guideline on interference in immunoassay measurements used in assessment of thyroid function. *Eur Thyroid J* 2026. doi:10.1530/ETJ-26-0011\n- PMID 40417451 — Chiu KC et al., Biotin interference in routine clinical immunoassays. *Pract Lab Med* 2025. doi:10.1016/j.plabm.2025.e00472\n- HAS, recommandations de bonne pratique sur les dysthyroïdies de l'adulte (décembre 2022), relayées par La Revue du Praticien, « Dysthyroïdies : nouvelles recos de la HAS », 14 mars 2023 (larevuedupraticien.fr, consulté le 2026-10-17).\n- HAS, Prise en charge des hypothyroïdies chez l'adulte, déc. 2022, consulté le 2026-11-01 (has-sante.fr, PDF recommandation_prise_en_charge_des_hypothyroidies_chez_ladulte_mel.pdf, 37 p.).\n- PMID 25114871 — Lazarus J et al., 2014 European Thyroid Association guidelines for the management of subclinical hypothyroidism in pregnancy and in children. *Eur Thyroid J* 2014 (recommandations 1-2 et 12-13 lues dans PMC4109520).\n- PMID 42219800 — American Thyroid Association 2026 Guidelines for Thyroid Disease in Preconception, Pregnancy, and Postpartum. *Thyroid* 2026 (résumé lu).\n- PMID 41922998 — Tuesta-Nole JR et al., Levothyroxine for subclinical hypothyroidism in older adults. *BMC Geriatr* 2026. doi:10.1186/s12877-026-07369-y\n- PMID 42768899 — Bojunga J, Indications for Dose Adjustment of Thyroid Hormones in Older Patients. *Dtsch Arztebl Int* 2026. doi:10.3238/arztebl.m2026.0161\n- PMID 42732446 — Hag Elagib MA et al., Cardiometabolic Outcomes and Levothyroxine Treatment Effects in Subclinical Hypothyroidism. *Cureus* 2026. doi:10.7759/cureus.114468\n- PMID 41965091 — Levothyroxine treatment response of cardiometabolic biomarkers in older adults with subclinical hypothyroidism. *J Clin Endocrinol Metab* 2026 (résumé relu).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : thyroïde (TSH, T4 libre, anti-TPO)",
+ "type": "biomarqueur",
+ "unite": "                # plusieurs marqueurs (TSH mUI/L, T4 libre pmol/L, anti-TPO UI/mL)"
+}

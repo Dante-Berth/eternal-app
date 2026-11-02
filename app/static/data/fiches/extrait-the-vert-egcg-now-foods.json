@@ -1,0 +1,73 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "extrait-the-vert-egcg-now-foods",
+ "intro": "",
+ "liens": [
+  "egcg-et-extraits-de-the-vert",
+  "matcha-bio-ceremonial-aromandise",
+  "the-et-sante"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "31174941",
+  "23780706",
+  "25689396",
+  "28765194",
+  "36178169"
+ ],
+ "preuve_globale": "B",
+ "resume": "Une capsule par jour (200 mg d'EGCG) reste à un quart du seuil de 800 mg/j visé par la réglementation UE sur les extraits de thé vert, pour ≈ 6 €/mois, mais les effets sur le poids sont faibles ([A, qualité hétérogène]) et le risque hépatique devient documenté en essai randomisé à 843 mg/j d'EGCG.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Une capsule par jour (200 mg d'EGCG) reste à un quart du seuil de 800 mg/j visé par la réglementation UE sur les extraits de thé vert, pour ≈ 6 €/mois, mais les effets sur le poids sont faibles ([A, qualité hétérogène]) et le risque hépatique devient documenté en essai randomisé à 843 mg/j d'EGCG.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur déclarée | Preuve |\n|---|---|---|\n| EGCG | 200 mg/capsule (50 % de l'extrait) | Voir ci-dessous |\n| Catéchines totales | ≥ 80 % de l'extrait | idem |\n| Caféine | jusqu'à 4 mg/capsule (revendeur) | Négligeable ; la mention « décaféiné » n'a pas été lue sur la page consultée [?] |\n\nComposition : biogo.fr, consulté le 2026-10-06 (le détail excipients non relevé [?]) ; page Naturitas en 403, non lue.\n\nEfficacité :\n- Extrait de thé et syndrome métabolique avec obésité : 16 ECR, n=1090 ; IMC SMD -0,27 (IC 95 % -0,40 à -0,15), glycémie SMD -0,22 ; événements indésirables sans différence (OR 0,99) [A, hétérogène] (PMID 31174941).\n- Thé vert (surtout boisson) et prévention cardiovasculaire : cholestérol total et LDL en baisse (LDL -0,64 mmol/L), pression artérielle en baisse, peu d'essais, résultats instables à l'analyse de sensibilité, aucun événement cardiovasculaire rapporté [A, faible certitude] (PMID 23780706).\n- Diabète de type 2 : thé ou extrait, 10 ECR, n=608 ; insuline à jeun et tour de taille (>8 semaines), glycémie et IMC sans effet [A, effet limité] (PMID 25689396).\n- Perte de poids chez le sujet sain avec cet extrait seul : [?] non trouvée dans la recherche courte effectuée.",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Complément alimentaire. Règlement (UE) 2022/2340 : extraits de thé vert contenant de l'EGCG ; consommation journalière à ne pas porter à 800 mg d'EGCG ou plus ; mentions obligatoires : avertissement contre une consommation ≥ 800 mg/j, teneur en EGCG par portion, ne pas consommer avec d'autres produits à base de thé vert le même jour, déconseillé femmes enceintes ou allaitantes et moins de 18 ans, ne pas prendre à jeun (EUR-Lex, consulté le 2026-10-06 ; texte lu via résumé automatique, à recontrôler [?]). Applicable depuis le 21 décembre 2022, transition jusqu'au 21 juin 2023. Avis scientifique EFSA 2018 (doi 10.2903/j.efsa.2018.5239) : page éditeur en 403, contenu non lu, aucune valeur citée [?]. AMA : non concerné, non revérifié [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque dit | Les études |\n|---|---|\n| « 1 capsule ≈ 2-3 tasses de thé vert » | Équivalence de teneur en polyphénols revendiquée, non vérifiée [M] |\n| Soutien « antioxydant » | Aucun critère clinique recherché ici [?] |\n| Bénéfices métaboliques (implicites : poids) | IMC SMD -0,27 chez des obèses avec syndrome métabolique, 16 ECR [A, hétérogène] (PMID 31174941) |\n\nVoir [EGCG et extraits de thé vert](fiche:egcg-et-extraits-de-the-vert) et [thé et santé](fiche:the-et-sante).",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Marque : 1 capsule/j **avec un repas**, jamais à jeun. 200 mg d'EGCG/j, soit 25 % de 800 mg. Ne pas cumuler avec un autre extrait de thé vert ni du matcha en grande quantité (voir [matcha](fiche:matcha-bio-ceremonial-aromandise)). Surveiller le foie (urines foncées, jaunisse, fatigue inhabituelle) et arrêter.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- 90 capsules : 18,25 € (biogo.fr, 2026-10-06) ; autres revendeurs via recherche web : 10,40 à 11,59 € les 90 (pages non lues, 403 sur Naturitas) [?] ; 180 capsules : 24,19 € (auroxhealth.com, via recherche web, non lu [?]).\n- À 18,25 € : 0,20 €/capsule, 90 jours à 1/j, soit **≈ 6,1 €/mois**. À 2/j (400 mg EGCG) : ≈ 12 €/mois.\n- Alternative moins chère à preuve équivalente : 2-3 tasses de thé vert par jour (≈ 1-3 € le mois), avec les mêmes essais sur boisson dans la revue Cochrane (PMID 23780706) [A, faible certitude]. Pas d'extrait nécessaire.",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non consultés [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Foie : dans un ECR de 12 mois (n=1021 femmes ménopausées) avec 843 mg/j d'EGCG, ALT +5,4 U/L (IC 95 % 3,6-7,1), 5,1 % d'anomalies modérées ou pires vs placebo, OR 7,0 (IC 95 % 2,4-20,3), réversible à l'arrêt et réapparaissant à la reprise [B, ECR unique] (PMID 28765194). Génotype de COMT/UGT1A4 : ALT +78 % à 6-9 mois chez certains porteurs [B, analyse secondaire] (PMID 36178169).\n- Dose de cette capsule : 200 mg/j, 4 fois moins que l'essai ; aucun essai à 200 mg/j sur le foie lu ici [?].\n- Contre-indications UE : grossesse, allaitement, moins de 18 ans (Règlement 2022/2340). Maladie hépatique, médicaments hépatotoxiques : avis médical.\n- Interactions médicamenteuses et chélation du fer : [?] non recherchées.",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- PMID 31174941 — Li X et al., *Clin Nutr* 2019. doi:10.1016/j.clnu.2019.05.019\n- PMID 23780706 — Hartley L et al., *Cochrane Database Syst Rev* 2013. doi:10.1002/14651858.CD009934.pub2\n- PMID 25689396 — Li Y et al., *Diabetes Metab Res Rev* 2015. doi:10.1002/dmrr.2641\n- PMID 28765194 — Yu Z et al., *Cancer Prev Res* 2017. doi:10.1158/1940-6207.CAPR-17-0160\n- PMID 36178169 — Acosta L et al., *J Diet Suppl* 2022. doi:10.1080/19390211.2022.2128501\n- Règlement d'exécution (UE) 2022/2340, EUR-Lex, consulté le 2026-10-06.\n- biogo.fr, NOW Foods EGCg 400 mg, consulté le 2026-10-06.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "EGCg extrait de thé vert 400 mg — NOW Foods",
+ "type": "produit",
+ "unite": ""
+}

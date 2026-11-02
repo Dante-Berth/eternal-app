@@ -1,0 +1,65 @@
+{
+ "cibles": [
+  "muscle-os",
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "creatine-monohydrate-decathlon",
+ "intro": "",
+ "liens": [
+  "creatine",
+  "creatine-creapure-nutrimuscle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "25946994",
+  "27328852"
+ ],
+ "preuve_globale": "A",
+ "resume": "Même molécule, même preuve que les créatines à 3-4 fois le prix, pour environ 2 €/mois ; le seul vrai manque est la traçabilité de la matière première et l'absence de certification antidopage vérifiée.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Même molécule, même preuve que les créatines à 3-4 fois le prix, pour environ 2 €/mois ; le seul vrai manque est la traçabilité de la matière première et l'absence de certification antidopage vérifiée.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur déclarée | Preuve |\n|---|---|---|\n| Créatine monohydrate (seul ingrédient) | 3 g de créatine par dose de 3,5 g ; 500 g = 142 doses | Force des membres inférieurs, ES global 0,235 [A] (PMID 25946994) ; membres supérieurs, ES global 0,317 [A] (PMID 27328852) ; exercices < 3 min |\n\nComposition et dose : extraits de résultats de recherche Decathlon (WebSearch, 2026-10-06). **La page produit Decathlon est inaccessible (erreur 403) et une autre URL en 404 : composition, marque exacte (Domyos ou Aptonia selon les sites) et prix non relus à la source [?].**",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Complément alimentaire. Plafond français de 3 000 mg de créatine par portion journalière (arrêté du 26 septembre 2016, voir [Creapure Nutrimuscle](fiche:creatine-creapure-nutrimuscle), consulté le 2026-10-03) : 3 g par dose est exactement le plafond. Allégation UE à 3 g/j : performance sur efforts brefs et intenses (règlement (UE) n° 432/2012, voir même fiche). Antidopage : aucune certification trouvée [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque dit | Les études |\n|---|---|\n| Aide à améliorer les capacités physiques lors de séries successives d'exercices très intenses et de courte durée (résultats de recherche Decathlon) | [A] effet réel mais modeste sur la force avec ES ≈ 0,24 (jambes) à 0,32 (bras) (PMID 25946994, 27328852) |\n| Pureté « 100 % monohydrate » | Fabricant [M] ; aucune analyse indépendante trouvée [?] |",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "3 g de créatine par dose (une dose de 3,5 g) ; l'étiquette détaillée n'a pas été lue [?]. Non recommandé en insuffisance rénale ou hépatique, grossesse, moins de 16 ans selon un résumé de la fiche relevé sur une page d'avis (non officielle). Détails de sécurité : [créatine](fiche:creatine).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- 500 g à 10 € (Decathlon, résultats de recherche, 2026-10-06) ; 142 doses.\n- 30 doses de 3,5 g = 105 g/mois : **≈ 2,1 €/mois**.\n- Comparaison : [Creapure Nutrimuscle](fiche:creatine-creapure-nutrimuscle) 9-10 €/mois ; Myprotein Créatine Monohydrate Elite 1 kg à 40,99 € (47,99 € barré), 294 portions de 3,4 g (3 g de créatine), certifiée Informed-Sport par la marque : ≈ 4,2 €/mois (fr.myprotein.com, consulté le 2026-10-06 ; prix très variable selon promotions, 28,79 € relevé en recherche web). Le produit Decathlon est donc le moins cher ; Myprotein Elite est le compromis si la certification Informed-Sport compte.\n- Un seul vendeur lu pour le produit Decathlon : critère de 2 vendeurs non rempli [?].",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Note de 4,1/5 sur 32 avis (résultats de recherche Decathlon) ; la poudre se dissout difficilement, il est conseillé de la mélanger seule 30 secondes avant d'ajouter d'autres ingrédients (même source, avis non relus à la page). Pas d'autre donnée de tolérance relevée [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 25946994 — Lanhers C et al., *Sports Med* 2015. doi:10.1007/s40279-015-0337-4\n- PMID 27328852 — Lanhers C et al., *Sports Med* 2017. doi:10.1007/s40279-016-0571-4\n- Decathlon.fr, produit « Créatine monohydrate neutre 500 g » (prix, composition, avis), via recherche web, page inaccessible, 2026-10-06.\n- Myprotein France, page « Créatine monohydratée Elite », consultée le 2026-10-06.\n- Arrêté du 26 septembre 2016 ; règlement (UE) n° 432/2012 (via fiche Creapure), consultés le 2026-10-03.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Créatine monohydrate neutre 500 g — Decathlon",
+ "type": "produit",
+ "unite": ""
+}

@@ -1,0 +1,86 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-10",
+ "famille": "peptide",
+ "id": "ghk-cu",
+ "intro": "",
+ "liens": [
+  "nooance-serum-jeunesse-peptides-cuivre",
+  "rides-et-sillons-nasogeniens",
+  "the-ordinary-multi-peptide-copper-peptides-1"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 15,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "39963574",
+  "42787770",
+  "16847171",
+  "25690343",
+  "26236730",
+  "29986520",
+  "34781677",
+  "14648529",
+  "37896245",
+  "17703734",
+  "27489425",
+  "42619529",
+  "30057663",
+  "27892491",
+  "8619018"
+ ],
+ "preuve_globale": "B",
+ "resume": "Beaucoup d'effets en culture cellulaire et chez l'animal [D] [C], presque rien chez l'humain : une revue de 2024 relève une « absence surprenante d'études cliniques » sur le GHK-Cu en anti-rides (PMID 39963574).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Beaucoup d'effets en culture cellulaire et chez l'animal [D] [C], presque rien chez l'humain : une revue de 2024 relève une « absence surprenante d'études cliniques » sur le GHK-Cu en anti-rides (PMID 39963574).\n- Seul essai randomisé identifié par ma recherche (une revue systématique de 2026 évoque « la plupart des essais randomisés, petits », sans que je les aie identifiés ; PMID 42787770) : 13 patients après laser CO2, **aucune différence objective** sur rides, rougeur ou qualité de peau ; seule la satisfaction déclarée était meilleure [B, ECR unique n=13] (PMID 16847171).\n- Cheveux : aucun essai humain du GHK-Cu seul trouvé [?] ; données ex vivo sur un analogue (AHK-Cu) [D].\n- Pénétration : à travers une peau humaine intacte, presque aucun peptide ni cuivre ne passe in vitro [D] (PMID 25690343).\n- Incompatibilité « vitamine C / acides » : **hypothèse chimique et consigne de marque, aucune étude** sur peau ou formule [?]. Détail plus bas.\n- Le GHK-Cu **injectable** vendu en ligne est visé nommément par la mise en garde de l'ANSM (2026) ; le cosmétique ne l'est pas.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Revues récentes : « surprenante absence » d'essais cliniques (PMID 39963574) et des essais humains « maigres et fragmentés » face à plus de 40 ans de données précliniques (PMID 42787770, revue systématique 2026, résumé lu).\n- Tripeptide présent dans le plasma, qui forme un complexe avec Cu2+ ; présenté comme stimulant la synthèse et la dégradation du collagène et des glycosaminoglycanes, et modulant métalloprotéinases et leurs inhibiteurs [D] (PMID 26236730).\n- Ces revues, très favorables (« reset » de 4 000 gènes), sont signées par L. Pickart, affilié à Skin Biology R&D (affiliation industrielle) (PMID 26236730, 29986520) : à lire comme plaidoyer, pas comme synthèse indépendante.\n- Le Cu(II)GHK est réduit en Cu(I) par le glutathion, réducteur physiologique [D, chimie en solution] (PMID 34781677).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Rides, qualité de peau (topique seul) | Aucun essai contrôlé publié trouvé ; la revue 2024 conclut à l'absence d'études cliniques | [?] (PMID 39963574) |\n| Soins après laser CO2 péri-buccal | 13 patients : pas de différence d'érythème, de rides ni de qualité de peau (évaluateurs en aveugle, analyse informatique) ; satisfaction déclarée meilleure (p = 0,04) | [B, ECR unique n=13] (PMID 16847171) |\n| Cicatrisation (animal) | Plaies ischémiques chez le rat (n=24) : surface réduite de 64,5 % à J13 vs 45,6 % (excipient) et 28,2 % (témoin), gel Iamin 2 % du fabricant ProCyte | [C] (PMID 14648529) |\n| Synthèse de collagène, élastase | Effets en culture ; inhibition de l'élastase de 49 % in vitro (liposomes) | [D] (PMID 37896245) |\n| Chute de cheveux (GHK-Cu seul) | Aucun essai humain trouvé (nouvelle recherche PubMed 2026-10-06 : seule une revue systématique 2026 réclame des essais en alopécie androgénétique, PMID 42787770) | [?] |\n| Analogue AHK-Cu sur follicules humains | Allongement des follicules ex vivo, prolifération des cellules de la papille | [D] (PMID 17703734) |\n| Complexe 5-ALA + GHK (sans cuivre), alopécie masculine | ECR n=45, 6 mois : nombre de cheveux augmenté vs placebo, pas de différence de longueur ni d'épaisseur | [B, ECR unique n=45] (PMID 27489425) |\n\nRevue systématique 2026 (20 études, dont 18 précliniques et 2 ECR) : au niveau clinique, satisfaction meilleure après laser et « réduction significative du volume et de la profondeur des rides par rapport aux témoins » ; limites reconnues par les auteurs : variabilité méthodologique, très peu d'essais bien conçus (PMID 42619529) [B, revue]. Le second ECR n'est pas nommé dans le résumé et je ne l'ai pas retrouvé dans PubMed (recherches du 2026-10-10) : cette phrase reste invérifiée [?].\n\nLa série japonaise de 18 918 hommes (finastéride + minoxidil + injections d'un cocktail contenant notamment du « copper tripeptide ») ne permet aucune conclusion sur le cuivre : association de traitements, pas de groupe témoin [B] (PMID 30057663).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais humains : concentrations non données dans le résumé de l'unique ECR (PMID 16847171) [?].\n- Ex vivo : effet de l'AHK-Cu entre 10⁻¹² et 10⁻⁹ M (PMID 17703734) [D] ; aucune correspondance établie avec un % cosmétique.\n- Vendu : « 1 % de peptides de cuivre » (The Ordinary, sans préciser s'il s'agit du peptide pur ou d'une solution commerciale), « 2 % de peptide de cuivre » dans un complexe à 9 % de peptides (Nooance, consulté le 2026-10-06). Aucune étude ne relie ces % à un résultat clinique [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Topique cosmétique** : ingrédient INCI « Copper Tripeptide-1 » utilisé dans des cosmétiques vendus en France (étiquettes des produits ci-dessous). La fiche CosIng (base UE) reste inaccessible depuis cette session (page en JavaScript, API refusée, nouvel essai le 2026-10-06) : fonctions et éventuelles restrictions à vérifier à la main [?].\n- **Injectable** : l'ANSM cite le « GHK-Cu » parmi les « produits proposés sans autorisation des autorités sanitaires » ; « Ces produits n'ont pas été évalués par les autorités de santé et ne sont pas autorisés » (ANSM, actualité du 2026-07-02 mise à jour le 2026-08-31, consultée le 2026-10-03). Règle 7 : pas de détail sur cet usage.\n- **AMA** : GHK et peptides de cuivre ne sont pas nommés dans la Liste des interdictions 2026 (décret n° 2025-1226 du 15 décembre 2025, Légifrance, consulté le 2026-10-03). Un usage injecté pourrait relever de la clause générale S0 (substances sans autorisation thérapeutique) : à faire confirmer par l'AFLD.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Irritation : sur kératinocytes, le GHK-Cu n'est pas cytotoxique et n'induit pas les marqueurs d'irritation, contrairement au chlorure et à l'acétate de cuivre [D] (PMID 27892491). Aucun effet indésirable notable rapporté dans l'ECR post-laser [B].\n- Grossesse : aucune donnée [?] ; une marque (Nooance) le déconseille pendant la grossesse sur son site [M].\n- **Vitamine C pure (acide ascorbique)** :\n  - Fait chimique : les métaux de transition comme le cuivre catalysent l'oxydation de l'ascorbate, et l'ascorbate réduit le cuivre, ce qui augmente sa chimie pro-oxydante (réaction de Fenton) [D, chimie générale] (PMID 8619018).\n  - Le Cu(II)GHK est réductible par un autre réducteur biologique, le glutathion [D] (PMID 34781677) : il n'est donc pas chimiquement inerte.\n  - Mais **aucune étude n'a testé GHK-Cu + vitamine C dans une formule, sur la peau ou en usage alterné** (matin/soir) [?]. L'incompatibilité est plausible pour un mélange dans le même flacon, non démontrée pour deux produits appliqués à des moments différents.\n  - The Ordinary déconseille d'associer son sérum avec « vitamine C directe, acides directs, rétinoïdes » [M].\n- **Acides AHA/BHA** : aucune étude trouvée sur la stabilité du GHK-Cu en milieu acide cosmétique ni sur l'association clinique [?]. L'idée que le pH acide décroche le cuivre du peptide est une hypothèse de chimie de coordination, non vérifiée ici.\n- **Bilan sur l'exemple de CLAUDE.md** : « GHK-Cu incompatible avec la vitamine C pure ou les acides » = hypothèse chimique [D] + consigne fabricant [M], sans preuve clinique [?]. Précaution raisonnable : ne pas mélanger dans le même geste ; alterner (matin/soir) n'a jamais été montré nocif.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- Règle du dépôt : un avis est un indicateur secondaire (tolérance, texture), jamais une preuve d'efficacité. Raisons concrètes ici : biais de sélection (les satisfaits postent, les déçus abandonnent), pas de groupe témoin (la peau s'améliore aussi avec un hydratant, du soleil en moins, un rétinoïde pris en parallèle), effet placebo fort sur des critères subjectifs, et conflits d'intérêts (codes affiliés, marques). Dans l'unique ECR, la satisfaction déclarée était meilleure alors que les mesures objectives étaient identiques (PMID 16847171) : c'est exactement l'écart que les avis ne peuvent pas démêler.\n- L'hypothèse « la majorité ne répond pas, une minorité répond très bien » est plausible mais se teste par des analyses de sous-groupes dans des essais contrôlés, pas par des témoignages. Aucune analyse de répondeurs trouvée pour le GHK-Cu [?].\n- Les posts Reddit ne sont pas ici une source d'efficacité ; ils ne sont pas non plus analysés [?] (non recherché).",
+   "titre": "Retours d'utilisateurs (Reddit, avis produits) et « répondeurs »"
+  },
+  {
+   "markdown": "- **« Les peptides de cuivre régénèrent la peau / effacent les rides »** [M] : le seul ECR trouvé ne montre aucune différence objective (PMID 16847171) ; la revue 2024 constate l'absence d'études cliniques (PMID 39963574).\n- **« Repousse des cheveux grâce aux peptides de cuivre »** [M] : aucun essai humain du GHK-Cu seul ; les données viennent d'un analogue sur follicules en culture [D].\n- **« Remet à zéro 4 000 gènes »** : affirmation tirée de profils d’expression génique, présentée par un auteur à affiliation industrielle (PMID 26236730) ; aucun effet clinique démontré [D].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Top selon CLAUDE.md (1. preuve de l'actif principal, 2. concentration efficace, 3. prix, 4. tolérance). Preuve de l'actif identique et faible pour les deux, aucune concentration efficace connue : le prix départage.\n1. [The Ordinary Multi-Peptide + Copper Peptides 1 %](fiche:the-ordinary-multi-peptide-copper-peptides-1) : même niveau de preuve (faible), environ 12–18 €/mois, deux fois moins cher.\n2. [Nooance Sérum Jeunesse 2 % peptides de cuivre](fiche:nooance-serum-jeunesse-peptides-cuivre) : % de cuivre plus élevé mais sans lien démontré avec un effet, environ 15–30 €/mois.\n3. Pas de troisième fiche : aucune autre formule n'apporterait plus de preuve. Alternative mieux prouvée pour les rides : rétinoïdes (voir [rides](fiche:rides-et-sillons-nasogeniens)).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Mortazavi SM et al. *Bioimpacts* 2024 — PMID 39963574 — [DOI](https://doi.org/10.34172/bi.30071)\n2. Miller TR et al. *Arch Facial Plast Surg* 2006 — PMID 16847171 — [DOI](https://doi.org/10.1001/archfaci.8.4.252)\n3. Li H et al. *Pharm Res* 2015 — PMID 25690343 — [DOI](https://doi.org/10.1007/s11095-015-1652-z)\n4. Li H et al. *Sci Rep* 2016 — PMID 27892491 — [DOI](https://doi.org/10.1038/srep37664)\n5. Pickart L et al. *Biomed Res Int* 2015 — PMID 26236730 — [DOI](https://doi.org/10.1155/2015/648108)\n6. Pickart L, Margolina A. *Int J Mol Sci* 2018 — PMID 29986520 — [DOI](https://doi.org/10.3390/ijms19071987)\n7. Ufnalska I et al. *Inorg Chem* 2021 — PMID 34781677 — [DOI](https://doi.org/10.1021/acs.inorgchem.1c02669)\n8. Buettner GR, Jurkiewicz BA. *Radiat Res* 1996 — PMID 8619018 (pas de DOI dans PubMed)\n9. Canapp SO et al. *Vet Surg* 2003 — PMID 14648529 — [DOI](https://doi.org/10.1111/j.1532-950x.2003.00515.x)\n10. Dymek M et al. *Pharmaceutics* 2023 — PMID 37896245 — [DOI](https://doi.org/10.3390/pharmaceutics15102485)\n11. Pyo HK et al. *Arch Pharm Res* 2007 — PMID 17703734 — [DOI](https://doi.org/10.1007/BF02978833)\n12. Lee WJ et al. *Ann Dermatol* 2016 — PMID 27489425 — [DOI](https://doi.org/10.5021/ad.2016.28.4.438)\n13. Tanaka Y et al. *J Clin Aesthet Dermatol* 2018 — PMID 30057663 (pas de DOI)\n14. ANSM, « “Peptides” vendus en ligne : ne les utilisez pas, ils peuvent être dangereux », 2026-07-02, mis à jour 2026-08-31 — https://ansm.sante.fr/actualites/peptides-vendus-en-ligne-ne-les-utilisez-pas-ils-peuvent-etre-dangereux (consulté le 2026-10-03)\n15. Décret n° 2025-1226 du 15 décembre 2025 (Liste des interdictions 2026) — https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053036083 (consulté le 2026-10-03)\n16. Najafi N et al. *Arch Intern Med Res* 2026 — PMID 42787770 — [DOI](https://doi.org/10.26502/aimr.0255)\n17. Mokhtar J et al. *Aesthet Surg J* 2026 — PMID 42619529 (résumé lu, 2026-10-10)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "GHK-Cu (peptide de cuivre, copper tripeptide-1)",
+ "type": "actif",
+ "unite": ""
+}

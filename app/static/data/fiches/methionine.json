@@ -1,0 +1,85 @@
+{
+ "cibles": [
+  "longevite",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-16",
+ "famille": "complement",
+ "id": "methionine",
+ "intro": "",
+ "liens": [
+  "glycine",
+  "jeune-intermittent-et-restriction-calorique",
+  "metformine",
+  "n-acetylcysteine",
+  "proteines",
+  "taurine",
+  "vitamine-b12-et-folates"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 13,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "16702346",
+  "12765841",
+  "15870821",
+  "28108330",
+  "28816346",
+  "26647293",
+  "12056788",
+  "12446535",
+  "24340103",
+  "34327571",
+  "21346062",
+  "38195568",
+  "36806866"
+ ],
+ "preuve_globale": "B",
+ "resume": "Pas toxique aux apports alimentaires ni aux doses des essais, mais pas anodine. Les études nutritionnelles et métaboliques n'ont pas rapporté d'effets indésirables chez l'adulte avec des apports au-dessus et en dessous du besoin ; des apports > 5 fois la normale élèvent l'homocystéine (revue de G…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Pas toxique aux apports alimentaires ni aux doses des essais, mais pas anodine.** Les études nutritionnelles et métaboliques n'ont pas rapporté d'effets indésirables chez l'adulte avec des apports au-dessus et en dessous du besoin ; des apports > 5 fois la normale élèvent l'homocystéine (revue de Garlick) [B, revue narrative] (PMID 16702346).\n- **Le risque réel est la dose massive ou le terrain** : une dose de charge 10 fois supérieure à la dose standard, administrée par erreur, a causé un décès ; chez le nourrisson, 2 à 5 fois les apports normaux ont freiné la croissance (PMID 16702346) ; un cluster de 10 nourrissons a eu une hyperméthioninémie sévère par formule trop riche, avec œdème cérébral à l'IRM chez 2, résolutif à la baisse des apports [B, série de cas] (PMID 12765841).\n- **Supplémenter en méthionine n'a pas de bénéfice démontré**, et élève l'homocystéine : 1 500 mg/j pendant 4 semaines → homocystéine 8,9 → 11,0 µmol/l chez 12 témoins sains malgré un statut vitaminique correct [B, ECR croisé n=20] (PMID 15870821).\n- **Restriction en méthionine** : allonge la vie chez les rongeurs et les invertébrés [C] (PMID 28108330) ; chez l'humain, seulement des effets sur des marqueurs métaboliques à court terme [B] ; aucune donnée de survie [?].\n- **Homocystéine** : la baisser par vitamines B ne réduit ni infarctus ni mortalité, seulement l'AVC (RR 0,90) [A] (PMID 28816346). L'homocystéine n'est donc pas un levier prouvé, et la méthionine n'est pas dangereuse « à cause d'elle » seulement.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Acide aminé essentiel soufré. Précurseur de la S-adénosylméthionine (donneur de méthyle), puis de l'homocystéine, qui est soit reméthylée en méthionine (folates, B12, bétaïne), soit transsulfurée en cystéine (B6) (PMID 26647293).\n- Toxicité aiguë : charge massive → pic d'homocystéine et dysfonction endothéliale transitoire (PMID 16702346). Chez le nourrisson, hypothèse avancée pour l'œdème cérébral : inhibition de la Na+/K+-ATPase par la méthionine et ses métabolites (hypothèse des auteurs, non démontrée) (PMID 12765841).\n- Hypothèse athérogène indépendante de l'homocystéine : chez des souris ApoE-/-, une alimentation riche en méthionine donne des lésions de l'arc aortique même avec homocystéine normale, alors que le déficit en vitamines B (homocystéine très élevée) n'en donne pas [C] (PMID 26647293).\n- Restriction : chez le rongeur, tissu adipeux brunisé, FGF21 hépatique, moindre stress oxydatif mitochondrial [C] (PMID 28108330).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Test de charge (100 mg/kg) : sécurité | 887 sujets : effets transitoires (étourdissements, somnolence, nausées, variation de tension) chez 33 % des femmes et 16,5 % des hommes ; aucun décès à 30 jours | [B, série de cas n=887] (PMID 12056788) |\n| Supplémentation 1 500 mg/j, 4 semaines | Homocystéine plasmatique +2 µmol/l environ (p<0,001 chez les témoins), méthionine et cystathionine sériques augmentées | [B, ECR croisé n=20] (PMID 15870821) |\n| Dose massive / nourrisson | Décès après dose 10× la dose de charge ; retard de croissance à 2-5× chez l'enfant ; œdème cérébral chez 2 nourrissons à hyperméthioninémie extrême | [B, rapports de cas] (PMID 16702346, PMID 12765841) |\n| Homocystéine et maladie cardiovasculaire (causalité) | Méta-analyse 2002 : OR 1,32 pour la cardiopathie ischémique par +5 µmol/l (études prospectives) | [A, ancienne, avant les grands essais d'intervention] (PMID 12446535) |\n| Baisser l'homocystéine (B6, B9, B12) | 15 ECR, 71 422 sujets : infarctus RR 1,02 (0,95-1,10), mortalité RR 1,01 (0,96-1,06), AVC RR 0,90 (0,82-0,99) | [A] (PMID 28816346) |\n| Apport alimentaire et cancer colorectal | Méta-analyse de 8 cohortes (431 029 sujets) : RR 0,89 (0,77-1,03) pour le colorectal, 0,77 (0,64-0,92) pour le côlon, plus haut vs plus bas apport | [A, observationnelle, association] (PMID 24340103) |\n| Apport en acides aminés soufrés et mortalité | NHANES III (15 083 adultes, 16,9 ans) : mortalité par diabète HR 2,45 (1,37-4,38) pour la méthionine, Q5 vs Q1 ; pas d'association avec la mortalité totale | [B, cohorte observationnelle] (PMID 34327571) |\n| Restriction : humains avec syndrome métabolique | 26 sujets, 16 semaines, 2 mg/kg/j : oxydation des graisses +12 % et graisse hépatique réduite, indépendamment de la perte de poids ; le groupe contrôle (33 mg/kg/j de méthionine en capsules) a lui aussi amélioré sa sensibilité à l'insuline | [B, ECR unique n=26] (PMID 21346062) |\n| Restriction en acides aminés soufrés : surpoids ou obésité | 59 sujets, 8 semaines, ~2 vs ~5,6 g/j : perte de poids supérieure de 1,14 kg, leptine réduite, cétones augmentées | [B, ECR unique n=59] (PMID 38195568) |\n| Restriction : adultes sains | 20 sujets, 3 périodes de 4 semaines : sous restriction des acides aminés soufrés, baisse du poids, du LDL, de l'IGF-1, de la leptine ; aucun effet indésirable rapporté | [B, étude d'alimentation contrôlée n=20] (PMID 36806866) |\n| Restriction et durée de vie | Allongement chez les rongeurs et les invertébrés | [C] (PMID 28108330) |\n| Restriction et durée de vie humaine | Aucun essai | [?] |\n\nLimites : toutes les études de restriction humaines durent de 4 à 16 semaines et mesurent des marqueurs, pas des événements. Le contrôle de l'essai de 2011 a aussi amélioré ses marqueurs : le bénéfice propre de la restriction y est étroit (oxydation des graisses, graisse hépatique).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Test de charge standard : 100 mg/kg (≈ 7 g pour 70 kg), utilisé en diagnostic (PMID 12056788). Dose citée comme létale par erreur : 10 fois plus (PMID 16702346).\n- Essai de supplémentation : 500 mg × 3/j, 4 semaines (PMID 15870821).\n- Restriction : 2 mg/kg/j dans l'essai de 2011 (PMID 21346062) ; l'apport habituel est bien supérieur (NHANES : « bien au-dessus des apports recommandés », selon les auteurs, PMID 34327571).\n- Doses des produits vendus et seuil de sécurité : non recherchés [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- L-méthionine en gélules, DL-méthionine (additif alimentaire pour l'élevage), S-adénosylméthionine (SAMe, autre molécule : non traitée ici).\n- Statut réglementaire France/UE de la méthionine en complément alimentaire, éventuel usage médicamenteux, statut AMA : non consultés [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Élève l'homocystéine à dose supplémentée (PMID 15870821) ; vitamines B6, B12, C et folates atténuent cet effet (PMID 16702346).\n- Schizophrénie : la méthionine aggrave les symptômes psychotiques chez les patients, pas d'effet décrit chez les sujets sains (PMID 16702346).\n- Populations à risque : nourrissons (formules, nutrition parentérale : PMID 12765841), erreurs du métabolisme (déficit en CBS, hyperhomocystéinémie), schizophrénie. Insuffisance rénale ou hépatique, grossesse, interactions médicamenteuses : non recherchées [?].\n- Test de charge : étourdissements et somnolence fréquents (PMID 12056788).\n- Tout ce qui précède porte sur la méthionine libre ; la méthionine d'un repas de protéines animales ne se comporte pas pareil : non étudié ici [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « La méthionine est un poison / à éviter absolument » : faux aux apports alimentaires ; le risque tient à la dose massive, au nourrisson et au terrain (PMID 16702346).\n- « Restreindre la méthionine allonge la vie humaine » : preuve animale [C] ; chez l'humain, des marqueurs à court terme [B] et aucune survie [?]. Les régimes à restriction forte sont difficiles à tenir sans plan nutritionnel (non évalué ici).\n- « Baisser l'homocystéine protège le cœur » : Cochrane 2017, pas d'effet sur l'infarctus ni la mortalité [A] (PMID 28816346).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour.\n\nVoir aussi : [vitamine B12 et folates](fiche:vitamine-b12-et-folates) (remise de l'homocystéine en méthionine), [glycine](fiche:glycine) (hypothèse d'imitation de la restriction en méthionine), [N-acétylcystéine](fiche:n-acetylcysteine), [taurine](fiche:taurine), [protéines](fiche:proteines), [jeûne intermittent et restriction calorique](fiche:jeune-intermittent-et-restriction-calorique), [metformine](fiche:metformine).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Garlick PJ. *J Nutr* 2006 — PMID 16702346\n2. Krupková-Meixnerová L et al. *Clin Nutr* 2002 — PMID 12056788\n3. Ditscheid B et al. *Eur J Clin Nutr* 2005 — PMID 15870821\n4. Mudd SH et al. *Mol Genet Metab* 2003 — PMID 12765841\n5. Selhub J et al. *Ann N Y Acad Sci* 2016 — PMID 26647293\n6. Wald DS et al. *BMJ* 2002 — PMID 12446535\n7. Martí-Carvajal AJ et al. *Cochrane Database Syst Rev* 2017 — PMID 28816346\n8. Zhou ZY et al. *PLoS One* 2013 — PMID 24340103\n9. Dong Z et al. *Eur J Nutr* 2022 — PMID 34327571\n10. Plaisance EP et al. *J Clin Endocrinol Metab* 2011 — PMID 21346062\n11. Olsen T et al. *J Transl Med* 2024 — PMID 38195568\n12. Richie JP Jr et al. *J Nutr Health Aging* 2023 — PMID 36806866\n13. Ables GP, Johnson JE. *Exp Gerontol* 2017 — PMID 28108330",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Méthionine (toxicité, restriction et longévité)",
+ "type": "actif",
+ "unite": ""
+}

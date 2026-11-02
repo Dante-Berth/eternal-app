@@ -1,0 +1,64 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-23",
+ "famille": "alimentation",
+ "id": "regime-japonais",
+ "intro": "",
+ "liens": [
+  "aliments-fermentes-kefir-yaourt-kimchi",
+  "poissons-gras-omega-3-et-mercure",
+  "regime-mediterraneen",
+  "regimes-comparatif",
+  "riz-blanc-complet-et-arsenic",
+  "tension-arterielle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 1,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "35631146"
+ ],
+ "preuve_globale": "B",
+ "resume": "Une seule méta-analyse relue, uniquement des cohortes japonaises : forte adhésion au régime japonais associée à moins de mortalité cardiovasculaire (RR 0,83, IC 0,77-0,89), par AVC (RR 0,80) et cardiopathie (RR 0,81) [B] (PMID 35631146).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Une seule méta-analyse relue, uniquement des cohortes japonaises** : forte adhésion au régime japonais associée à moins de mortalité cardiovasculaire (RR 0,83, IC 0,77-0,89), par AVC (RR 0,80) et cardiopathie (RR 0,81) [B] (PMID 35631146).\n- **Aliments associés à moins de décès CV** : légumes, fruits, poisson, thé vert, produits laitiers, fibres, protéines végétales ; **le sel est associé à plus** de décès CV et d'AVC [B] (PMID 35631146).\n- **Données anciennes** : la plupart des enquêtes alimentaires datent de 1980-1990. Les auteurs demandent une cohorte qui reflète l'alimentation actuelle [B].\n- **Aucun essai randomisé** du régime japonais dans les résultats lus [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Deux niveaux d'analyse** : le régime japonais comme score de conformité (9 études, 469 190 pers.) et des aliments japonais caractéristiques pris un à un (49 études, 2 668 238 pers.) (PMID 35631146).\n- **Aliments associés à moins de décès CV** : légumes, fruits, poisson, thé vert, lait et produits laitiers, fibres, protéines végétales ; **sel** associé à plus de décès (PMID 35631146).\n- **Composition d'un repas « japonais »** (riz, soja, algues, poisson, légumes, miso) : description courante, non extraite des résumés lus [?]. Riz : voir [riz et arsenic](fiche:riz-blanc-complet-et-arsenic).\n- **Régime d'Okinawa**, bento, washoku : non recherchés [?].",
+   "titre": "Variantes et contenu"
+  },
+  {
+   "markdown": "Non revérifié [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Source | Résultat | Preuve |\n|---|---|---|\n| Méta-analyse de cohortes japonaises : 9 études sur le régime japonais (469 190 pers.), 49 sur des aliments (2 668 238 pers.) | forte adhésion : mortalité CVD RR 0,83 (0,77-0,89, I² = 58 %), AVC 0,80 (0,69-0,93), cardiopathie/ischémique 0,81 (0,75-0,88, I² = 0 %) ; biais de publication non détecté (Egger) (PMID 35631146) | [B] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « Le régime japonais explique la longévité des Japonais » : une méta-analyse de cohortes ne le démontre pas ; elle montre une association avec la mortalité cardiovasculaire, pas la longévité en général [B] (PMID 35631146).\n- « Tout est sain dans l'assiette japonaise » : le sel élevé est associé à plus de mortalité CV et d'AVC [B] (PMID 35631146).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Hypertension : sel à surveiller (voir [tension artérielle](fiche:tension-arterielle)). Mercure et polluants du poisson : voir [poissons gras](fiche:poissons-gras-omega-3-et-mercure). Autres résultats que la mortalité CV (cancer, démence) : non relus [?].\n\nStatut réglementaire : sans objet (pattern alimentaire).\n\nVoir aussi : [régime méditerranéen](fiche:regime-mediterraneen) · [riz et arsenic](fiche:riz-blanc-complet-et-arsenic) · [aliments fermentés](fiche:aliments-fermentes-kefir-yaourt-kimchi) · [comparatif des régimes](fiche:regimes-comparatif).",
+   "titre": "Sécurité, populations à risque"
+  },
+  {
+   "markdown": "- PMID 35631146 — Shirota M. et al., *Nutrients* 2022. doi:10.3390/nu14102008",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Régime japonais",
+ "type": "actif",
+ "unite": ""
+}

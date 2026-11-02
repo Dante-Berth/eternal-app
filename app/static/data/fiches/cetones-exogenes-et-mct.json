@@ -1,0 +1,85 @@
+{
+ "cibles": [
+  "muscle-os",
+  "cerveau",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "cetones-exogenes-et-mct",
+ "intro": "",
+ "liens": [
+  "cafeine",
+  "creatine",
+  "glycemie-et-prediabete",
+  "jeune-intermittent-et-restriction-calorique",
+  "semaglutide-et-glp1"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 10,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "32045881",
+  "27475046",
+  "29109686",
+  "35380602",
+  "25636220",
+  "31870908",
+  "36254193",
+  "31039280",
+  "40243975",
+  "38936302"
+ ],
+ "preuve_globale": "A",
+ "resume": "Performance sportive : la méta-analyse de 13 ECR (ingestion aiguë de cétones) ne trouve aucune différence de performance (Hedges g −0,05 ; IC −0,30 à 0,20), ni pour les esters (g −0,07) ni pour les sels (g −0,02) [A] (PMID 32045881). Des résultats favorables isolés existent (39 athlètes, ester de…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Performance sportive** : la méta-analyse de 13 ECR (ingestion aiguë de cétones) ne trouve **aucune différence** de performance (Hedges g −0,05 ; IC −0,30 à 0,20), ni pour les esters (g −0,07) ni pour les sels (g −0,02) [A] (PMID 32045881). Des résultats favorables isolés existent (39 athlètes, ester de cétone) [B] (PMID 27475046), et un essai de 2017 montre **une baisse de performance** de cyclistes professionnels (n = 10, diester de 1,3-butanediol, −2 % au contre-la-montre, inconfort digestif) [B, ECR croisé n=10] (PMID 29109686).\n- **Glycémie** : l'ingestion aiguë d'esters ou de sels de cétones fait monter le BHB sanguin (+1,98 mM vs placebo) et baisser la glycémie (−0,47 mM) ; effets plus forts avec les monoesters ; **peu de données sur la prise prolongée** [A] (PMID 35380602). Effet aigu pharmacologique, pas un traitement du diabète.\n- **MCT (huile de coco fractionnée, C8-C10)** : perte de poids très modeste vs lipides à longue chaîne (−0,51 kg, 13 ECR, n = 749, durée > 3 semaines) [A, effet faible] (PMID 25636220). Cognition dans l'Alzheimer débutant : amélioration d'un score combiné (SMD −0,289 ; IC −0,551 à −0,027) [A, risque de biais] (PMID 31870908).\n- **UE : l'EFSA a conclu en 2022 que la sécurité des sels de BHB comme nouvel aliment n'est pas établie** (identité, production et composition insatisfaisantes) (PMID 36254193).\n- Aucun résultat de longévité ou de cancer.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Les cétones (BHB, acétoacétate) sont un carburant alternatif et un signal métabolique. Un ester de cétone élève le BHB sans régime cétogène ; chez 39 athlètes d'élite, l'état de cétose a réduit la glycolyse musculaire et le lactate, et augmenté l'oxydation des triglycérides intramusculaires [B] (PMID 27475046). Cette modification du métabolisme ne s'est pas traduite par une meilleure performance dans la méta-analyse (PMID 32045881).\n- Les MCT sont absorbés vite et partiellement convertis en cétones par le foie ; l'élévation du BHB après MCT est modeste (MD = 0,355 dans la méta-analyse Alzheimer, unité non précisée dans le résumé) [A] (PMID 31870908).\n- Un ester de cétone limite des symptômes de surentraînement fonctionnel dans un petit ECR de 18 hommes entraînés (3 semaines de charge d'entraînement), avec un meilleur résultat d'endurance ; effet à confirmer, effectif minuscule [B, ECR n=18] (PMID 31039280).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Performance d'endurance (aigu) | 13 ECR : g global −0,05 (IC −0,30 à 0,20) ; contre-la-montre −0,04 ; esters −0,07 ; sels −0,02 ; BHB sanguin toujours augmenté (PMID 32045881). Contre-exemples : améliorations de l'endurance décrites chez 39 athlètes d'élite en 5 études, sans chiffre de performance dans le résumé (PMID 27475046) ; diester : −2 ± 1 % au contre-la-montre de ~31 km, 10 cyclistes professionnels, avec inconfort digestif et effort perçu plus élevé (PMID 29109686) | [A, résultat nul] |\n| Glycémie | méta-analyse : après ingestion aiguë, glycémie −0,54 mM vs avant et −0,47 mM vs placebo ; BHB +1,98 mM ; monoesters > sels ; données prolongées limitées (PMID 35380602) | [A, aigu] |\n| Insuffisance cardiaque à fraction d'éjection préservée | ECR croisé, 20 patients de 71 ans, ester de cétone en dose aiguë : VO2 pic inchangé (10,4 vs 10,5 mL/kg/min), endurance à charge constante inchangée (9,7 vs 8,7 min, p = 0,51) ; débit cardiaque de repos +0,6 L/min (PMID 40243975) | [B, ECR n=20] négatif sur les critères d'exercice |\n| Surentraînement | 18 hommes entraînés, 3 semaines, ester après l'effort : atténuation de symptômes de surentraînement et meilleure performance d'endurance (PMID 31039280) | [B, ECR n=18] |\n| Poids / composition corporelle (MCT) | 13 ECR, n = 749 : poids −0,51 kg, tour de taille −1,46 cm, masse grasse totale SMD −0,39 vs lipides à chaîne longue (PMID 25636220). Réévaluation 2024 : MCT purs −1,62 % de poids (IC −2,78 à −0,46), triglycérides et HOMA-IR plus bas (PMID 38936302) | [A, effet faible, poids de l'ordre de 0,5 à 1,5 kg] |\n| Cognition, MCI / Alzheimer (MCT) | 12 études, 422 participants : BHB MD 0,355 ; ADAS-Cog −0,539 (tendance) ; score combiné SMD −0,289 (IC −0,551 à −0,027), I² 0 % ; les auteurs relèvent un risque de biais (PMID 31870908) | [A, risque de biais] |\n| Cétone exogène en cancer, longévité, perte de poids, sommeil | aucune donnée solide retenue | [?] |\n\nLimites : biomarqueur (BHB) très modifiable, résultats cliniques minces ; effets aigus ≠ effets chroniques ; produits de marque, financement industriel parfois présent dans ce champ (non vérifié pour les essais lus) [?].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Esters, sels : doses des essais non relevées dans les résumés lus [?]. Prix et marques : non relevés [?].\n- MCT : durées > 3 semaines dans les ECR de perte de poids (PMID 25636220) ; doses exactes selon les essais, non relevées [?].\n- Distinction utile : **ester de cétone** (monoester, puissant, goût amer), **sels de BHB** (apport en sodium, magnésium, calcium), **MCT** (précurseurs de cétones, huile) : trois produits différents.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Esters de cétone (boissons de marque), sels de BHB (poudres), huile MCT / C8 / C10 (huile ou poudre), huile de coco (mélange non équivalent à des MCT purs : le sous-groupe « MLCT » ne réduit pas le poids dans PMID 38936302).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Sels de BHB (UE, nouvel aliment)** : l'EFSA conclut en 2022 que « la sécurité du nouvel aliment n'a pas été établie » ; identité, production et composition « insatisfaisantes », impossibilité de fixer une dose sûre (EFSA Journal 2022, abstract lu via PubMed PMID 36254193, consulté le 2026-10-14). Vérification directe : aucun sel de BHB ni ester de cétone dans la liste de l'Union des nouveaux aliments (règlement d'exécution (UE) 2017/2470, version consolidée du 2026-08-10, texte intégral FR, recherche « hydroxybutyr », « hydroxybutyl », « cétone » : aucune entrée correspondante ; EUR-Lex/Office des publications, consulté le 2026-10-14). Ils ne sont donc pas autorisés comme nouveaux aliments à cette date, sauf à démontrer un usage significatif avant mai 1997 (catalogue Novel Food en ligne inaccessible, application JavaScript).\n- **Esters de cétone** : pas d'entrée dans la liste de l'Union (voir ci-dessus) ; statut commercial réel des produits vendus en UE non vérifié (DGCCRF non consultée) [?].\n- France, substances à but nutritionnel ou physiologique : arrêté du 26 septembre 2016 (Légifrance, version en vigueur, consulté le 2026-10-14) : hors caféine, carnitine, créatine et lycopène (doses plafonnées), ces substances sont autorisées dans les compléments « sous réserve qu'elles ne soient pas considérées comme des nouveaux ingrédients » ; la DGCCRF tient un registre non consulté ici (non public à ma connaissance).\n- **MCT** : huiles alimentaires ordinaires, ni nouvel aliment ni médicament ; la liste de l'Union cite les TCM seulement comme support d'extraits. Usage médical (nutrition clinique) non détaillé ici.\n- AMA : ni les cétones (BHB, esters) ni les MCT ne figurent dans la Liste des interdictions 2026 (PDF officiel, parcouru par mots-clés, consulté le 2026-10-14).",
+   "titre": "Réglementaire"
+  },
+  {
+   "markdown": "- Cétones exogènes : tolérance digestive et neurologique, acidose chez le diabétique de type 1 ou sous inhibiteur de SGLT2 : **non étudiés dans les sources lues** ; prudence logique, car augmenter les cétones en cas de diabète insulinodépendant peut être dangereux [?].\n- MCT : troubles digestifs fréquents en pratique à forte dose ; fréquence non relevée dans les résumés lus [?].\n- Grossesse, allaitement, insuffisance hépatique ou rénale, interactions médicamenteuses : aucune donnée trouvée [?].\n- L'ingestion de cétones fait baisser la glycémie (−0,47 mM vs placebo) : à discuter avec un médecin en cas d'antidiabétiques [A] (PMID 35380602).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Cétones = énergie et endurance »** : performance inchangée dans la méta-analyse de 13 ECR (g = −0,05) [A] (PMID 32045881).\n- **« Cétose en bouteille sans régime »** : l'ester élève le BHB, mais la méta-analyse ne montre aucun gain de performance ; effets chroniques : peu de données [?].\n- **« L'huile de coco fait maigrir »** : MCT purs −0,5 à −1,6 % de poids vs lipides à longue chaîne ; l'huile de coco n'est pas un MCT pur et le sous-groupe MLCT n'agit pas (PMID 38936302, 25636220).\n- **« MCT = traitement de l'Alzheimer »** : amélioration d'un score combiné dans de petites études à risque de biais [A] (PMID 31870908) ; pas de prévention de la maladie.\n- **« Les sels de BHB sont validés en Europe »** : avis EFSA défavorable (PMID 36254193).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit dans ce dépôt. Voir [créatine](fiche:creatine), [caféine](fiche:cafeine), [jeûne intermittent et restriction calorique](fiche:jeune-intermittent-et-restriction-calorique), [sémaglutide et GLP-1](fiche:semaglutide-et-glp1), [glycémie et prédiabète](fiche:glycemie-et-prediabete).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 32045881, Valenzuela et al., « Acute Ketone Supplementation and Exercise Performance: A Systematic Review and Meta-Analysis of Randomized Controlled Trials », Int J Sports Physiol Perform 2020 (résumé relu).\n- PMID 35380602, Falkenhain et al., « Effects of Exogenous Ketone Supplementation on Blood Glucose: A Systematic Review and Meta-analysis », Adv Nutr 2022 (résumé relu).\n- PMID 27475046, Cox et al., « Nutritional Ketosis Alters Fuel Preference and Thereby Endurance Performance in Athletes », Cell Metab 2016 (résumé relu).\n- PMID 29109686, Leckey et al., « Ketone Diester Ingestion Impairs Time-Trial Performance in Professional Cyclists », Front Physiol 2017 (résumé relu).\n- PMID 31039280, Poffé et al., « Ketone ester supplementation blunts overreaching symptoms during endurance training overload », J Physiol 2019 (résumé relu).\n- PMID 40243975, Selvaraj et al., ester de cétone dans l'HFpEF, JACC Heart Fail 2025 (résumé relu).\n- PMID 25636220, Mumme et al., « Effects of medium-chain triglycerides on weight loss and body composition: a meta-analysis of randomized controlled trials », J Acad Nutr Diet 2015 (résumé relu).\n- PMID 38936302, He et al., « The impact of medium-chain triglycerides on weight loss and metabolic health in individuals with overweight or obesity », Clin Nutr 2024 (résumé relu).\n- PMID 31870908, Avgerinos et al., « Medium Chain Triglycerides induce mild ketosis and may improve cognition in Alzheimer's disease », Ageing Res Rev 2020 (résumé relu).\n- Réglementaire : règlement (UE) 2017/2470 consolidé 2026-08-10 ; Liste AMA 2026 ; consultés le 2026-10-14.\n- PMID 36254193, Turck et al. (EFSA NDA Panel), « Safety of β-hydroxybutyrate salts as a novel food pursuant to Regulation (EU) 2015/2283 », EFSA J 2022 (résumé relu).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Cétones exogènes (esters, sels de BHB) et MCT",
+ "type": "actif",
+ "unite": ""
+}

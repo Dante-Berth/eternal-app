@@ -1,0 +1,104 @@
+{
+ "cibles": [
+  "longevite",
+  "hormones-sexualite",
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-igf1-dhea-s",
+ "intro": "Fiche « examen » pour deux marqueurs qui baissent avec l'âge et que l'on vend comme des « jauges de jeunesse ». Leviers et traitements : [sécrétagogues de GH et hormone de croissance](fiche:secretagogues-de-gh-et-hormone-de-croissance), [DHEA](fiche:dhea), [protéines](fiche:proteines), [jeûne intermittent et restriction calorique](fiche:jeune-intermittent-et-restriction-calorique). Autres hormones : [testostérone et SHBG](fiche:biomarqueur-testosterone-shbg), [bilan hormonal de la femme](fiche:biomarqueur-bilan-hormonal-femme), [cortisol](fiche:biomarqueur-cortisol).",
+ "liens": [
+  "biomarqueur-bilan-hormonal-femme",
+  "biomarqueur-cortisol",
+  "biomarqueur-psa",
+  "biomarqueur-testosterone-shbg",
+  "dhea",
+  "horloges-epigenetiques-et-age-biologique",
+  "jeune-intermittent-et-restriction-calorique",
+  "proteines",
+  "secretagogues-de-gh-et-hormone-de-croissance"
+ ],
+ "marqueurs": [
+  "igf1",
+  "dhea-s"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 10,
+ "nb_seuils": 4,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "35048526",
+  "41529806",
+  "17766155",
+  "37938144",
+  "42945622",
+  "37673294",
+  "42736152",
+  "41090700",
+  "31631676",
+  "28479316"
+ ],
+ "preuve_globale": "B",
+ "resume": "IGF-1 et mortalité : relation en U. Méta-analyse de 19 cohortes prospectives (30 876 adultes) : mortalité plus élevée à IGF-1 bas (HR 1,33 ; IC 1,14-1,57 vs intermédiaire) et à IGF-1 haut (HR 1,23 ; 1,06-1,44), avec une mortalité minimale pour 120-160 ng/mL selon les auteurs [A, études observatio…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **IGF-1 et mortalité : relation en U.** Méta-analyse de 19 cohortes prospectives (30 876 adultes) : mortalité plus élevée à IGF-1 bas (HR 1,33 ; IC 1,14-1,57 vs intermédiaire) et à IGF-1 haut (HR 1,23 ; 1,06-1,44), avec une mortalité minimale pour 120-160 ng/mL selon les auteurs [A, études observationnelles, causalité non établie] (PMID 35048526). Il n'existe donc pas de « plus c'est haut, mieux c'est ».\n- Aucun intervalle de référence chiffré par âge et par sexe n'a été retrouvé dans une source relue pour l'adulte [?] : ils dépendent du dosage et de l'âge. Entre deux méthodes (immunodosage vs spectrométrie de masse), les limites d'accord à 95 % couvrent ±24 ng/mL (PMID 41529806) : ne pas comparer deux laboratoires.\n- Un IGF-1 **normal n'exclut pas** un déficit en GH ; un IGF-1 **très bas** chez un patient à fort soupçon clinique (atteinte hypophysaire) peut suffire à le prouver, sinon un test de stimulation est nécessaire (PMID 17766155). Le « déficit en GH lié à l'âge » n'est pas un diagnostic (voir [sécrétagogues](fiche:secretagogues-de-gh-et-hormone-de-croissance)).\n- **DHEA-S** : baisse avec l'âge (limite haute de l'intervalle −44 % entre les hommes les plus jeunes et les plus âgés d'une cohorte allemande ; −12 % chez les femmes après la ménopause) (PMID 37938144). Aucune cible « optimale » de longévité n'est établie [?].\n- Remonter IGF-1 ou DHEA-S « au niveau jeune » est un résultat sur un marqueur, pas un bénéfice démontré : voir les fiches liées (MK-677 : essai arrêté tôt pour un signal d'insuffisance cardiaque chez des patients âgés, dans la [fiche sécrétagogues](fiche:secretagogues-de-gh-et-hormone-de-croissance)).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **IGF-1** (somatomédine C) : produit surtout par le foie sous l'effet de la GH ; reflet intégré de l'activité GH sur des jours, moins fluctuant que la GH elle-même. Régulé aussi par des protéines de liaison (IGFBP) et par une protéase (PAPP-A), si bien que l'IGF-1 total n'équivaut pas à l'IGF-1 actif (PMID 42945622, résumé de la revue systématique de 38 études observationnelles, mortalité) [B].\n- **DHEA-S** : sulfate de la DHEA, issu de la surrénale. Marqueur de la fonction surrénalienne (androgènes), pas un « marqueur d'âge » validé.",
+   "titre": "Ce que mesure l'examen"
+  },
+  {
+   "markdown": "Conversions : IGF-1 1 ng/mL = 1 µg/L ≈ 0,131 nmol/L (calcul, masse 7,65 kDa) ; DHEA-S 1 µg/mL (= 1 mg/L) ≈ 2,71 µmol/L ; 100 µg/dL ≈ 2,71 µmol/L (calcul, masse 368,5).\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| IGF-1 | ng/mL | 120–160 | Plage associée à la mortalité la plus basse dans la méta-analyse dose-réponse ; **pas une cible** : dépend du dosage et de l'âge des cohortes | Adultes, 19 cohortes | Rahmani 2022, PMID 35048526 [A, observationnel] |\n| IGF-1 | ng/mL | intervalle de référence adulte par âge et sexe | non retrouvé [?] | Hommes / femmes adultes | [?] |\n| IGF-1 | – | « très bas » | Suffisant pour affirmer un déficit sévère en GH si l'atteinte hypophysaire est évidente ; seuil chiffré non retrouvé [?] | Adulte à risque d'hypopituitarisme | Ghigo 2007, PMID 17766155 [revue] |\n| DHEA-S | µg/dL ou µmol/L | intervalle de référence adulte par âge et sexe | non retrouvé [?] : chiffres absents des textes relus ; la limite haute baisse de 44 % chez l'homme (plus jeune → plus âgé) et de 12 % chez la femme après la ménopause | Adultes 32-90 ans, 519 personnes, LC-MS/MS | Cohorte KORA, PMID 37938144 [B] |\n\nIntervalles pédiatriques : disponibles pour l'IGF-1 chez l'enfant (CALIPER, PMID 37673294 ; capillaire en Chine, PMID 42736152) mais sans objet pour l'adulte.",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "- **IGF-1 et mortalité** : relation en U (PMID 35048526) [A, observationnel] ; le HR global « haut vs bas » (0,84 ; 0,68-1,05) est non significatif, ce qui est le piège des études qui comparent seulement deux catégories. Une revue systématique de 38 études sur l'axe STC–PAPP-A–IGFBP–IGF conclut que les associations avec la mortalité sont hétérogènes ; le résumé n'est pas détaillé ici (PMID 42945622) [B, revue sans méta-analyse].\n- **IGF-1 et GH** : le dosage ne remplace pas les tests de stimulation pour le diagnostic de déficit en GH de l'adulte (PMID 17766155) [B, revue].\n- **IGF-1 et prostate / cancer** : association décrite dans la fiche [sécrétagogues](fiche:secretagogues-de-gh-et-hormone-de-croissance) (observationnelle) ; non reprise ici. Si un traitement qui élève l'IGF-1 est envisagé, la lecture du PSA est décrite dans [PSA](fiche:biomarqueur-psa).\n- **DHEA-S et santé** : dans 124 patients cirrhotiques décompensés, un DHEA-S bas est le seul facteur hormonal associé indépendamment à une mauvaise performance physique (SPPB) et à la fragilité (PMID 41090700) [B, transversal, population très spécifique]. Association DHEA-S–mortalité en population générale : non relue [?]. DHEA-S et obésité : la corrélation avec l'IMC est négative chez l'homme (r = −0,22) (PMID 37938144) [B].\n- **Effet d'un traitement qui remonte le marqueur** : voir [DHEA](fiche:dhea) (DHEA orale : effets cliniques limités) et [sécrétagogues](fiche:secretagogues-de-gh-et-hormone-de-croissance) : le marqueur monte, la preuve de bénéfice clinique reste faible ou absente [?].",
+   "titre": "Ce que dit la preuve (valeur prédictive, utilité clinique)"
+  },
+  {
+   "markdown": "- **Âge, sexe** : l'IGF-1 et le DHEA-S baissent avec l'âge ; la méthode influence le niveau (PMID 41529806, 37938144).\n- **Nutrition** : la réduction de l'apport en protéines est associée à des IGF-1 plus bas dans une revue (PMID 31631676, résumé relu) [B, revue narrative]. Voir [protéines](fiche:proteines) et [jeûne intermittent et restriction calorique](fiche:jeune-intermittent-et-restriction-calorique). L'IGF-1 est aussi associé à l'apport en protéines, glucides, certains micronutriments (PMID 35048526, résumé).\n- **Maladies** : un DHEA-S bas accompagne la fragilité dans la cirrhose décompensée (PMID 41090700) ; effet des maladies chroniques sur l'IGF-1 et liste complète : non relus [?].\n- **Médicaments et compléments** : DHEA orale (fait monter le DHEA-S, et l'IGF-1 chez la femme dans une méta-analyse [A, faible], voir [DHEA](fiche:dhea)) ; hormone de croissance, MK-677, CJC-1295/ipamoréline : font monter l'IGF-1 (voir [sécrétagogues](fiche:secretagogues-de-gh-et-hormone-de-croissance)) ; pilule œstroprogestative : modifie des stéroïdes surrénaliens (PMID 28479316) ; effet précis sur le DHEA-S : non relu [?].\n- **Prélèvement** : repas, jeûne, effort, horaire : aucune source relue pour l'IGF-1 [?]. Mêmes laboratoire et méthode pour un suivi.\n- **Dopage** : GH et IGF-1 sont des substances interdites (statut AMA : voir la fiche sécrétagogues, liste de l'année à consulter [?]).",
+   "titre": "Ce qui fait varier le résultat (leviers, médicaments, compléments, conditions de prélèvement)"
+  },
+  {
+   "markdown": "- **IGF-1 bas ou haut isolé, sans symptôme ni maladie** : ne pas le « corriger » ; refaire le dosage dans le même laboratoire, chercher une cause (dénutrition, maladie hépatique, hypothyroïdie, diabète déséquilibré, excès de GH) avec un médecin. Liste de causes non relue [?].\n- **IGF-1 très élevé** : suspicion d'excès de GH (acromégalie) : bilan endocrinologique (seuils non relus [?]).\n- **DHEA-S bas** : pas de supplémentation systématique ; les bénéfices cliniques de la DHEA sont décrits dans [DHEA](fiche:dhea). En cas de suspicion d'insuffisance surrénalienne, voir [cortisol](fiche:biomarqueur-cortisol).\n- **DHEA-S très élevé chez une femme avec hirsutisme ou troubles du cycle** : bilan endocrinologique (seuils et causes non relus [?]).",
+   "titre": "Que faire d'un résultat anormal"
+  },
+  {
+   "markdown": "- IGF-1 : prescrit en endocrinologie pour suspicion de déficit ou d'excès de GH, suivi d'un traitement par GH. DHEA-S : prescrit pour un hirsutisme, un trouble du cycle, un bilan surrénalien.\n- Ni l'un ni l'autre ne sont recommandés comme dosage de dépistage « anti-âge » : aucune recommandation en ce sens retrouvée [?].\n- Cotation et remboursement : non retrouvés [?].",
+   "titre": "Qui, quand, comment (fréquence, remboursement)"
+  },
+  {
+   "markdown": "Examens de biologie médicale prescrits ; cotation et remboursement non consultés [?]. Somatropine : médicament sur ordonnance ; GH et IGF-1 interdits en compétition (voir fiche sécrétagogues) ; DHEA : statut français décrit dans [DHEA](fiche:dhea). Kits « IGF-1 à domicile » : non consultés [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Viser « l'IGF-1 d'un trentenaire » : la relation avec la mortalité est en U et l'optimum dépend du dosage (PMID 35048526, 41529806).\n- Comparer un IGF-1 d'un laboratoire à l'intervalle d'un autre : les méthodes diffèrent (PMID 41529806).\n- Conclure à un déficit en GH sur un IGF-1 « bas pour l'âge » : le diagnostic repose sur un contexte clinique et des tests (PMID 17766155).\n- Doser le DHEA-S pour « mesurer son âge biologique » : il n'est pas validé comme horloge (voir [horloges épigénétiques](fiche:horloges-epigenetiques-et-age-biologique)).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Un IGF-1 élevé = longévité »** : la méta-analyse trouve une surmortalité aux deux extrêmes (HR 1,33 bas, 1,23 haut) (PMID 35048526). La GH et ses sécrétagogues font monter l'IGF-1 sans bénéfice clinique solide démontré (voir [sécrétagogues](fiche:secretagogues-de-gh-et-hormone-de-croissance)) [M].\n- **« Le DHEA-S mesure ta jeunesse hormonale, supplémente-le »** : le marqueur baisse avec l'âge et l'IMC (PMID 37938144) mais aucun bénéfice cible n'est démontré en le remontant (voir [DHEA](fiche:dhea)) [M].\n- **« Réduire protéines et IGF-1 prolonge la vie chez l'humain »** : association mécanistique, pas essai ; la revue elle-même parle d'incertitudes (PMID 31631676) [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Les limites d'accord entre deux méthodes d'IGF-1 sont de ±24 ng/mL, soit presque l'intervalle optimal du U (120-160) (PMID 41529806, 35048526).\n- L'étude du HR haut vs bas (0,84, non significatif) cache un U : c'est l'analyse dose-réponse qui l'a révélé (PMID 35048526).\n- La limite haute du DHEA-S baisse de 44 % chez l'homme mais de seulement 12 % chez la femme entre la période avant et après la ménopause dans une cohorte, tandis que celle de l'androstènedione chute de 46 % chez la femme (PMID 37938144).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Fatigue intense avec perte de poids, antécédent d'atteinte hypophysaire ou de radiothérapie crânienne, grandissement des mains/pieds, mâchoire, sueurs (excès de GH), hirsutisme ou irrégularités du cycle (androgènes), puberté inhabituelle chez l'enfant. Toute supplémentation en GH, IGF-1 ou DHEA : médecin, et incompatible avec une compétition sportive soumise à l'AMA.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 35048526 — Rahmani J et al., Association between IGF-1 levels ranges and all-cause mortality: a meta-analysis. *Aging Cell* 2022 (résumé relu)\n- PMID 42945622 — Barrero et al., Stanniocalcin-PAPP-A-IGFBP-IGF axis and all-cause mortality in aged and middle-aged adults: a systematic review. *Growth Horm IGF Res* 2026 (début du résumé relu seulement)\n- PMID 41529806 — Yan W et al., Consistency of IGF-1 detection by MALDI-TOF MS and chemiluminescence immunoassay. *Clin Chim Acta* 2026. doi:10.1016/j.cca.2026.120835 (résumé relu)\n- PMID 17766155 — Ghigo E et al., Diagnosis of adult GH deficiency. *Growth Horm IGF Res* 2007 (résumé relu)\n- PMID 37938144 — Steroid hormone reference intervals by LC-MS/MS kit (KORA). *Endocr Connect* 2023. doi:10.1530/EC-23-0225 (texte intégral relu)\n- PMID 28479316 — Adrenal steroids reference intervals, LC-MS/MS. *Clin Chim Acta* 2017 (résumé relu)\n- PMID 41090700 — Adamantou et al., Hormonal status, sarcopenia, frailty in decompensated cirrhosis. *Liver Int* 2025 (résumé relu)\n- PMID 31631676 — Ekmekcioglu C, Nutrition and longevity: from mechanisms to uncertainties. *Crit Rev Food Sci Nutr* 2019 (résumé relu)\n- PMID 37673294 — CALIPER, pediatric reference intervals incl. IGF-1 (Liaison XL). *Clin Biochem* 2023 (résumé relu)\n- PMID 42736152 — Intervalles de référence IGF-1 et IGFBP-3 capillaires chez l'enfant de 0 à 6 ans, Jiangsu. *Zhonghua Yu Fang Yi Xue Za Zhi* 2026 (résumé relu)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : IGF-1 et DHEA-S (valeurs par âge et sexe, pièges de la « longévité »)",
+ "type": "biomarqueur",
+ "unite": ""
+}

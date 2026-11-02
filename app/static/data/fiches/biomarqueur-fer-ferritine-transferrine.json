@@ -1,0 +1,114 @@
+{
+ "cibles": [
+  "prevention",
+  "cheveux",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-fer-ferritine-transferrine",
+ "intro": "Fiche « examen ». Le traitement par le fer (voies, effets indésirables, essais) est dans [fer et ferritine](fiche:fer-et-ferritine) ; le produit remboursé : [Tardyferon 80 mg](fiche:tardyferon-80-mg). L'hémoglobine et le VGM sont dans [NFS et anémie](fiche:biomarqueur-nfs-hemoglobine-anemie) ; l'indice RDW dans [RDW](fiche:biomarqueur-rdw-hemogramme). Chute de cheveux et ferritine : [effluvium télogène](fiche:effluvium-telogene). Autres carences d'anémie : [B12 et folates](fiche:biomarqueur-vitamine-b12-folates).",
+ "liens": [
+  "bilans-biologiques",
+  "biomarqueur-crp-hscrp",
+  "biomarqueur-foie-alat-ggt-fib4-fibroscan",
+  "biomarqueur-nfs-hemoglobine-anemie",
+  "biomarqueur-rdw-hemogramme",
+  "biomarqueur-vitamine-b12-folates",
+  "biotine",
+  "effluvium-telogene",
+  "fer-et-ferritine",
+  "lactoferrine",
+  "maladie-coeliaque-et-intolerances",
+  "regime-vegetarien-vegetalien",
+  "semaglutide-et-glp1",
+  "steatose-hepatique-metabolique-masld",
+  "tabac-et-alcool",
+  "tardyferon-80-mg",
+  "vitamine-c-orale",
+  "zinc"
+ ],
+ "marqueurs": [
+  "ferritine",
+  "cst",
+  "fer-serique",
+  "transferrine"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 9,
+ "nb_seuils": 20,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42747316",
+  "34028001",
+  "42559859",
+  "42222086",
+  "35662478",
+  "27087396",
+  "29626044",
+  "32567529",
+  "38407751"
+ ],
+ "preuve_globale": "A",
+ "resume": "La ferritine est le premier examen pour chercher une carence en fer : la HAS (2011) écrit qu'une ferritine abaissée suffit à affirmer la carence, sans autre marqueur, et ne recommande pas le fer sérique seul ni l'association fer + ferritine (HAS, communiqué du 14 juin 2011, consulté le 2026-11-01).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **La ferritine est le premier examen** pour chercher une carence en fer : la HAS (2011) écrit qu'une ferritine abaissée suffit à affirmer la carence, sans autre marqueur, et ne recommande pas le fer sérique seul ni l'association fer + ferritine (HAS, communiqué du 14 juin 2011, consulté le 2026-11-01).\n- **Le seuil dépend de qui l'on est et de l'inflammation** : OMS 2020, carence si ferritine < 15 µg/L chez l'adulte apparemment sain, mais < 70 µg/L s'il y a une infection ou une inflammation. L'ASH 2026 remonte le seuil à ≤ 30 ng/mL pour la plupart des adultes (≤ 50 selon le profil) (OMS 2020 ; ASH 2026, PMID 42747316, chiffres lus dans la presse).\n- **Performance** : à 30 µg/L, la ferritine détecte la carence avec 79 % de sensibilité (58–91 %) et 98 % de spécificité (91–100 %) chez des adultes non sains consultant (9 études, 512 participants) [A, certitude faible] (PMID 34028001).\n- **Une ferritine élevée n'est pas forcément un excès de fer** : ferritine = protéine de phase aiguë, elle monte avec l'inflammation, l'alcool, la stéatose, l'obésité. Chez la plupart des adultes avec hyperferritinémie, il n'y a pas de vraie surcharge (PMID 34028001, PMID 42559859, PMID 42222086). Le tri se fait avec la **saturation de la transferrine (CST)**.\n- **Surcharge** : l'hémochromatose HFE C282Y est suspectée par CST > 45 % avec ferritine > 200 µg/L (femme) ou CST > 50 % avec ferritine > 300 µg/L (homme et femme ménopausée) (EASL 2022, PMID 35662478).\n- **Fer sérique** : instable, sans seuil de référence officiel retrouvé, à ne pas doser seul (HAS 2011).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Ferritine sérique** : reflète les réserves en fer, mais comme protéine de phase aiguë elle monte en cas d'inflammation ou d'infection (PMID 34028001).\n- **Fer sérique** : fer circulant lié à la transferrine, sans valeur de réserve.\n- **Transferrine** (protéine de transport) et **CST** : fer sérique rapporté à la capacité de fixation de la transferrine. La HAS propose de les doser si inflammation, insuffisance rénale chronique, ou ferritine non abaissée malgré une forte suspicion de carence (HAS 2011).\n- **Récepteurs solubles de la transferrine (sTfR)** : la HAS ne les recommande pas en pratique courante (HAS 2011) ; ils aident à distinguer carence en fer et anémie inflammatoire mais sont eux-mêmes influencés par l'inflammation (PMID 42559859).",
+   "titre": "Ce que mesure l'examen"
+  },
+  {
+   "markdown": "Conversions : ferritine 1 µg/L = 1 ng/mL ; fer sérique 1 µg/dL = 0,179 µmol/L (facteur usuel, non sourcé ici) ; CST en %. Les seuils OMS viennent de la brochure officielle de l'OMS (Table 1, « New thresholds for the use of ferritin concentrations to assess iron status in individuals and populations ») consultée le 2026-11-01 ; les seuils ASH 2026 sont lus dans la presse spécialisée (uspharmacist.com, patientcareonline.com, consultés le 2026-11-01), le texte intégral n'ayant pas été lu. Les bornes de référence du laboratoire varient d'un laboratoire à l'autre : la HAS le souligne (HAS 2011).\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| Ferritine | µg/L | < 15 | carence en fer (stock épuisé) | Adulte (20–59 ans), adolescent (13–19 ans), personne âgée (60+), apparemment en bonne santé | OMS 2020, Table 1 (brochure), consulté le 2026-11-01 |\n| Ferritine | µg/L | < 70 | carence en fer | Mêmes classes d'âge, avec infection ou inflammation | idem |\n| Ferritine | µg/L | < 15 | carence en fer | Grossesse, 1er trimestre | idem (la brochure ne donne pas de seuil pour les autres trimestres) |\n| Ferritine | µg/L | < 12 | carence en fer | Enfant 0–59 mois, sain | idem |\n| Ferritine | µg/L | < 30 | carence en fer | Enfant 0–59 mois, avec infection ou inflammation | idem |\n| Ferritine | µg/L | > 150 | risque de surcharge en fer | Femme (tout âge ≥ 5 ans), apparemment en bonne santé | idem |\n| Ferritine | µg/L | > 200 | risque de surcharge en fer | Homme (tout âge ≥ 5 ans), apparemment en bonne santé | idem |\n| Ferritine | µg/L | > 500 | surcharge possible ou autre maladie ; nécessite une évaluation clinique et biologique | Adulte non sain | idem |\n| Ferritine | ng/mL | ≤ 30 | carence en fer, avec ou sans anémie (ancien seuil : 15) | Adulte (hors profils ci-dessous) | ASH 2026 (PMID 42747316), via presse, consulté le 2026-11-01 |\n| Ferritine | ng/mL | ≤ 50 | carence en fer à considérer | Adulte avec règles abondantes, symptômes, facteurs de risque, chirurgie programmée ou projet de grossesse | idem |\n| Ferritine | ng/mL | ≤ 30 ; ≤ 50 si anémie | carence en fer | Grossesse | idem |\n| Ferritine | ng/mL | < 100 | carence en fer possible (à lire avec la CST : ferritine < 100 ng/mL ou CST < 20 %) | Adulte avec inflammation (anémie inflammatoire) | idem |\n| CST | % | < 20 | carence en fer possible | Adulte avec inflammation | idem |\n| CST | % | > 45 (avec ferritine > 200 µg/L) | surcharge provisoire en fer, suspicion d'hémochromatose HFE | Femme homozygote C282Y | EASL 2022, résumé (PMID 35662478), consulté le 2026-11-01 |\n| CST | % | > 50 (avec ferritine > 300 µg/L) | surcharge provisoire en fer, suspicion d'hémochromatose HFE | Homme et femme ménopausée homozygotes C282Y | idem |\n| Ferritine | µg/L | < 50 (induction) ; < 100 (entretien) | cibles de traitement par saignées dans l'hémochromatose | Hémochromatose HFE | idem (décision médicale) |\n| Ferritine | µg/L | 30 | seuil testé : sensibilité 79 %, spécificité 98 % pour la carence | Adulte non sain consultant | Garcia-Casal, Cochrane 2021 (PMID 34028001) [A, certitude faible] |\n| Fer sérique | µmol/L | seuil de référence | non retrouvé [?] ; la HAS ne recommande pas son dosage seul | Adulte | HAS 2011 |\n| Transferrine | g/L | seuil de référence | non retrouvé [?] | Adulte | — |\n| CST (seuil par sexe en l'absence d'inflammation) | % | seuil de carence | non retrouvé [?] (le 20 % ASH vise l'inflammation) | Adulte | — |",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Ferritine < 30 µg/L pour détecter une carence (adultes consultant, non sains) | Sensibilité 79 % (58–91), spécificité 98 % (91–100), OR diagnostique 140 ; 9 études, 512 participants | [A, faible certitude] (PMID 34028001) |\n| Même question, adultes consultant, tous seuils (12 à 200 µg/L) | OR diagnostique estimé 50 ; sensibilité 90 % pour 85 % de spécificité en prévalence 35 % ; seuils des études très hétérogènes | [A, faible certitude] (PMID 34028001) |\n| Dépistage de la carence chez des personnes sans symptôme | Preuve insuffisante pour dire si la ferritine fonctionne aussi bien ; confiance très faible | [A, très faible certitude] (PMID 34028001) |\n| Ferritine élevée pour détecter une surcharge (36 études, 1 927 participants, tous non sains) | Sensibilité 80 % pour 65 % de spécificité à prévalence 42 % ; OR diagnostique 8 ; très faible certitude | [A, très faible certitude] (PMID 34028001) |\n| Hyperferritinémie : vraie surcharge ou non | La plupart des adultes avec hyperferritinémie n'ont pas de surcharge en fer ; les causes métaboliques, inflammatoires, génétiques et « réactionnelles » sont confondues, d'où sous-investigation et sur-traitement ; algorithme guidé par la CST | [B, revue narrative] (PMID 42559859) |\n| Ferritine et facteurs métaboliques en population générale | Hyperferritinémie chez 21,6 % des hommes et 12,0 % des femmes (SCAPIS, n = 1 272) ; IMC, alcool, LDL et triglycérides associés à la ferritine dans les deux sexes ; hyperferritinémie associée au syndrome métabolique | [B, étude transversale] (PMID 42222086) |\n| Réserves en fer : sexe | Les hommes ont des réserves plus élevées que les femmes pré- et post-ménopausées | [B, étude transversale] (PMID 42222086) |\n| Fer en traitement, chez la femme réglée | Anémie RR 0,39, carence RR 0,62 avec fer quotidien | [A] (PMID 27087396) |\n| Traitement en l'absence d'anémie | Fatigue réduite (SMD −0,38), pas la capacité physique (VO2max) | [A] (PMID 29626044) |\n\nLe seuil ASH de 30 ng/mL est plus généreux que le seuil OMS de 15 µg/L : plus de personnes seront classées carencées, ce qui est voulu par l'ASH pour détecter les carences sans anémie (PMID 42747316).",
+   "titre": "Ce que dit la preuve (valeur prédictive, utilité clinique)"
+  },
+  {
+   "markdown": "- **Inflammation, infection** : la ferritine augmente, un taux « normal » peut masquer une carence ; la CRP est à doser en parallèle (OMS 2020, note de bas de tableau : les marqueurs d'inflammation doivent être évalués avec la ferritine, et la ferritine ajustée si nécessaire ; PMID 34028001 pour la ferritine protéine de phase aiguë). Voir [CRP](fiche:biomarqueur-crp-hscrp).\n- **Foie, alcool, obésité, syndrome métabolique** : ferritine plus haute sans surcharge (PMID 42222086). Voir [stéatose hépatique](fiche:steatose-hepatique-metabolique-masld) et [alcool et tabac](fiche:tabac-et-alcool).\n- **Inhibiteurs de SGLT2** : modifient l'interprétation de la ferritine ; agonistes du GLP-1 possiblement, preuve humaine insuffisante (PMID 42559859). Voir [sémaglutide et GLP-1](fiche:semaglutide-et-glp1).\n- **Biotine** : peut fausser des dosages immunologiques, dont la ferritine (PMID 32567529). Voir [biotine](fiche:biotine) ; arrêter selon l'avis du médecin ou du laboratoire avant le prélèvement.\n- **Sexe, âge, règles, grossesse** : seuils distincts (tableau) ; hémodilution en grossesse (voir [NFS et anémie](fiche:biomarqueur-nfs-hemoglobine-anemie)).\n- **Supplémentation en fer, repas, heure du prélèvement, prise de fer avant la prise de sang** : effet sur le fer sérique et la CST non sourcé dans les recherches faites [?]. La HAS ne recommande pas le fer sérique seul (HAS 2011).\n- **Compléments qui touchent l'absorption** : [vitamine C orale](fiche:vitamine-c-orale), [zinc](fiche:zinc), [lactoferrine](fiche:lactoferrine) ; effet sur les valeurs du bilan non établi dans les sources relues [?].\n- **Saignements** (règles abondantes, digestifs), **malabsorption** ([maladie cœliaque](fiche:maladie-coeliaque-et-intolerances)), **régime sans viande** ([régime végétarien/végétalien](fiche:regime-vegetarien-vegetalien)) : causes de carence ; la proportion de chaque cause n'a pas été recherchée [?].\n- **Variabilité biologique de la ferritine, de la CST et du fer** (variabilité intra-individuelle) : non recherchée [?].",
+   "titre": "Ce qui fait varier le résultat (leviers, médicaments, compléments, conditions de prélèvement)"
+  },
+  {
+   "markdown": "- **Ferritine basse** : chercher la cause (règles abondantes, apports, saignement digestif, malabsorption) avec un médecin ([bilans biologiques](fiche:bilans-biologiques)) ; fer oral ou intraveineux selon le profil, voir [fer et ferritine](fiche:fer-et-ferritine) ; contrôle de la ferritine et de l'hémoglobine après traitement (délai non fixé par les sources relues [?]).\n- **Ferritine « limite » (15–30) sans anémie, avec fatigue ou chute de cheveux** : classée carence selon l'ASH 2026, normale selon l'ancien seuil OMS ; le bénéfice de traiter n'est documenté que sur la fatigue déclarée (SMD −0,38), pas sur la capacité physique (PMID 29626044) ; pour les cheveux, aucun essai contrôlé trouvé ([effluvium télogène](fiche:effluvium-telogene)).\n- **Ferritine haute** : refaire à distance, associer CRP, CST, bilan hépatique et ASAT/ALAT, glycémie ([foie](fiche:biomarqueur-foie-alat-ggt-fib4-fibroscan)). Si CST élevée (> 45–50 %), la génétique HFE et l'IRM hépatique relèvent d'un médecin ou d'un hépatologue (PMID 35662478). Pas de supplément de fer en attendant : voir [fer et ferritine](fiche:fer-et-ferritine).\n- Le traitement de l'hémochromatose (saignées) est médical (PMID 35662478).",
+   "titre": "Que faire d'un résultat anormal"
+  },
+  {
+   "markdown": "- Prélèvement veineux, sur ordonnance. À jeun ou non : non documenté dans les sources relues [?]. À distance d'un épisode infectieux aigu si possible (ferritine élevée par l'inflammation) (PMID 34028001).\n- Dépistage systématique de la ferritine chez l'adulte sans symptôme : preuve insuffisante pour trancher (PMID 34028001). L'ASH 2026 vise la détection des carences sans anémie dans les populations à risque (PMID 42747316).\n- Cotation NABM et remboursement de la ferritine, du fer, de la transferrine : non relevés [?].",
+   "titre": "Qui, quand, comment (fréquence, remboursement)"
+  },
+  {
+   "markdown": "- Actes de biologie médicale, sur prescription. La HAS (communiqué du 14 juin 2011, demandé par l'Assurance maladie, consulté le 2026-11-01) recommande la ferritine en première intention ; fer + transferrine pour le CST dans les cas particuliers ; ne recommande pas le fer seul, l'association fer + ferritine, ni les sTfR en routine ; rappelle que les normes de ferritine varient d'un laboratoire à l'autre. Le document « texte court » du bilan martial n'a pas pu être ouvert.\n- Cotation et remboursement : non consultés [?].\n- Traitements : voir [fer et ferritine](fiche:fer-et-ferritine) (BDPM, HAS).",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Doser le fer sérique seul : instable, non recommandé par la HAS.\n- Lire une ferritine « normale » comme une absence de carence quand la CRP est élevée.\n- Lire une ferritine élevée comme une surcharge sans mesurer la CST ni regarder le foie, l'alcool et le poids (PMID 42559859).\n- Comparer deux laboratoires sans regarder les bornes de chacun.\n- Prendre des compléments de fer « préventifs » sans résultat biologique.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Ferritine optimale à 100 pour les cheveux ou la performance »** : aucune étude relue ne fixe un tel optimum ; pour les athlètes, la ferritine monte avec le fer mais la performance mesurée n'est pas établie [A] (PMID 38407751, voir [fer et ferritine](fiche:fer-et-ferritine)).\n- **« Ferritine haute = bonne réserve »** : la ferritine s'élève avec l'inflammation, l'alcool et le syndrome métabolique ; c'est souvent un marqueur métabolique, pas un excès de fer (PMID 42222086, PMID 42559859).\n- **« Le seuil OMS de 15 est trop bas, tout le monde doit viser 50 »** : l'ASH a remonté à 30 (50 pour certains profils) ; ce n'est pas un objectif de santé pour tous (PMID 42747316).\n- **« Chélater le fer pour ralentir le vieillissement »** : aucune donnée humaine relue [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Le seuil OMS de la ferritine passe de 15 à 70 µg/L dès qu'il y a une inflammation (OMS 2020).\n- Un taux de ferritine peut être altéré par un inhibiteur de SGLT2 (PMID 42559859).\n- Pour dépister la surcharge en fer dans la population générale, aucune étude de la méta-analyse Cochrane ne concerne des personnes sans maladie (PMID 34028001).\n- La biotine à doses de compléments peut fausser la ferritine selon la technique de dosage (PMID 32567529).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Ferritine < 15 µg/L (OMS) ou ≤ 30 ng/mL (ASH) avec fatigue, essoufflement, règles abondantes, ou anémie associée ; ferritine > 300 µg/L (ou CST > 45–50 %) ; saignement digestif visible ou selles noires ; fatigue persistante malgré supplémentation ; douleurs articulaires, diabète ou anomalies hépatiques avec ferritine élevée.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 34028001 — Garcia-Casal MN et al., Serum or plasma ferritin concentration as an index of iron deficiency and overload. *Cochrane Database Syst Rev* 2021. doi:10.1002/14651858.CD011817.pub2 (auteurs OMS, financements : voir déclaration d'intérêts)\n- PMID 35662478 — EASL, Clinical Practice Guidelines on haemochromatosis. *J Hepatol* 2022. doi:10.1016/j.jhep.2022.03.033 (résumé relu)\n- PMID 42747316 — Powers JM et al., ASH 2026 guidelines for diagnosis of iron deficiency. *Blood Adv* 2026. doi:10.1182/bloodadvances.2025015950 (résumé relu ; chiffres via uspharmacist.com et patientcareonline.com, 2026-11-01)\n- PMID 42559859 — Kim Y et al., Hyperferritinemia: Pathophysiology, Etiologies, and Diagnostic Approach. *Eur J Haematol* 2026. doi:10.1111/ejh.70285\n- PMID 42222086 — Li W et al., Sex differences in iron stores and associations of body iron with cardiovascular risk factors in the middle-aged general population. *Front Endocrinol* 2026. doi:10.3389/fendo.2026.1832141\n- PMID 32567529 — Moerman A, Delanghe JR, Sense and nonsense concerning biotin interference in laboratory tests. *Acta Clin Belg* 2022. doi:10.1080/17843286.2020.1780770\n- PMID 27087396 — Low MS et al., *Cochrane Database Syst Rev* 2016. doi:10.1002/14651858.CD009747.pub2\n- PMID 29626044 — Houston BL et al., *BMJ Open* 2018 (repris de la fiche liée).\n- PMID 38407751 — Šmid AN et al., *Sports Med* 2024 (repris de la fiche liée).\n- OMS, « New thresholds for the use of ferritin concentrations to assess iron status in individuals and populations » (brochure du WHO Guideline on use of ferritin concentrations, 2020, publié le 21 avril 2020), cdn.who.int, consulté le 2026-11-01.\n- HAS, « Suspicion de carence en fer : quels examens prescrire ? », communiqué du 14 juin 2011, has-sante.fr/jcms/c_1062859, consulté le 2026-11-01.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : bilan du fer (ferritine, saturation de la transferrine, fer sérique)",
+ "type": "biomarqueur",
+ "unite": ""
+}

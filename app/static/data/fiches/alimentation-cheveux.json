@@ -1,0 +1,77 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "alimentation",
+ "id": "alimentation-cheveux",
+ "intro": "",
+ "liens": [
+  "collagene-oral",
+  "effluvium-telogene",
+  "omega-3",
+  "proteines"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "40627570",
+  "40836838",
+  "39739356",
+  "40814988",
+  "25573272",
+  "41561175",
+  "41317036",
+  "40688823",
+  "42710827"
+ ],
+ "preuve_globale": "B",
+ "resume": "Aucun aliment ne traite l'alopécie androgénétique : les seules données solides portent sur des compléments, et elles sont de qualité limitée [A, faible qualité].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Aucun aliment ne traite l'alopécie androgénétique : les seules données solides portent sur des compléments, et elles sont de qualité limitée [A, faible qualité].\n- Associations observées : vitamine D et fer plus élevés = moins d'alopécie ; plus d'alcool et de boissons sucrées = plus de chute [B] (revue systématique de 17 études, 97 % de femmes, causalité non établie).\n- Priorité réaliste : éviter carences et régimes extrêmes ; faire doser ferritine et vitamine D avant de supplémenter.\n- Danger inverse : trop de sélénium, zinc, niacine ou biotine peut nuire (alopécie, fausse lecture des analyses) [B].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Les carences (fer, vitamine D, minéraux) jouent un rôle dans la chute selon une revue narrative [B] (PMID 40627570) ; aucun effet démontré de l'alimentation seule sur la miniaturisation androgénique [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Levier | Indication | Preuve |\n|---|---|---|\n| Vitamine D / fer élevés | Alopécie en général | [B] association inverse (PMID 40836838) |\n| Alcool, boissons sucrées | Chute | [B] association positive (PMID 40836838) |\n| Vitamine D et zinc bas | Alopécie areata | [A, méta-analyse d'études observationnelles] 34 articles, 4931 participants : vitamine D et zinc sériques plus bas chez les patients ; carence en vitamine D OR 2,48 pour le risque d'AA ; ne prouve pas que supplémenter guérit (PMID 39739356) |\n| Vitamine D topique/intralésionnelle | Alopécie areata | [A] méta-analyse : taux de succès ~54 % ; petit nombre d'essais randomisés ; ce n'est pas de l'alimentation (PMID 40814988) |\n| Oméga 3&6 + antioxydants | Alopécie féminine | [B, ECR unique n=120] 6 mois, densité ↑ et télogène ↓ vs un groupe témoin non décrit comme placebo ; essai mené par le fabricant (Laboratoires Innéov) : biais possible (PMID 25573272) |\n| Huile de graines de courge, palmier nain, extraits (Nutrafol, tocotriénols…) | AGA | [A] NMA de 19 RCT (1658 patients), 16 compléments : amélioration de la densité mais « futurs essais de qualité nécessaires » ; ce sont des compléments, pas des aliments (PMID 41561175) |\n| Probiotiques | Peau/cheveux | [B] « preuves préliminaires » seulement pour l'alopécie (PMID 41317036) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Non extraites des abstracts : aucune dose recommandée ici [?]. Un médecin ou diététicien décide d'une supplémentation après dosage.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Sources de fer (viande rouge, légumineuses, œufs…) et de vitamine D (poissons gras, œufs…) : liste issue de la nutrition générale, non sourcée par une étude cheveux [?]. L'objectif est d'éviter la carence, pas d'« booster » les cheveux.\n- Apports protéiques suffisants : cohérent avec la fiche [protéines](fiche:proteines), mais pas testé sur les cheveux [?].\n- Poissons gras (oméga-3) : voir [oméga-3](fiche:omega-3) ; effet cheveux seulement via l'essai de 120 femmes ci-dessus [B].",
+   "titre": "Aliments à privilégier (sur la base des associations ci-dessus)"
+  },
+  {
+   "markdown": "- Alcool et boissons sucrées [B].\n- Régimes « viraux » (cétogène strict, carnivore, vegan cru) : liés à la chute de cheveux dans une revue narrative, niveau des études sous-jacentes non précisé dans le résumé [B] (PMID 40688823).\n- Perte de poids rapide : association avec l'effluvium télogène, notamment sous GLP-1 [B] (voir [effluvium télogène](fiche:effluvium-telogene)).",
+   "titre": "À limiter"
+  },
+  {
+   "markdown": "- Excès de sélénium, zinc, niacine : alopécie, dermatite, ongles [B] (PMID 40688823, 42710827).\n- Biotine : peut interférer avec des tests de laboratoire [B] (PMID 40627570) ; à signaler avant une prise de sang (troponine/thyroïde : non précisé dans l'abstract).\n- Fer : ne pas supplémenter sans dosage (non sourcé ici).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Nutrafol et autres : à traiter en fiches produit, avec la mention du conflit d'intérêts possible. Collagène : [collagène oral](fiche:collagene-oral) ; seul un essai capillaire lu [B].",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 40836838 — Gomes N. et al., *Nutr Health* 2025. doi:10.1177/02601060251367206\n- PMID 39739356 — Wu R. et al., *J Cosmet Dermatol* 2025. doi:10.1111/jocd.16740\n- PMID 40814988 — Alsaati A.A. et al., *Indian Dermatol Online J* 2025. doi:10.4103/idoj.idoj_958_24\n- PMID 25573272 — Le Floc'h C. et al., *J Cosmet Dermatol* 2015. doi:10.1111/jocd.12127\n- PMID 41561175 — Zhou L. et al., *Front Nutr* 2026. doi:10.3389/fnut.2025.1719711\n- PMID 40688823 — Parga A.D. & Coven H., *Cureus* 2025. doi:10.7759/cureus.86334\n- PMID 40627570 — Leavitt A. et al., *J Drugs Dermatol* 2025. doi:10.36849/JDD.8763\n- PMID 41317036 — Hillier R.A. et al., *Nutr Rev* 2026. doi:10.1093/nutrit/nuaf205\n- PMID 42710827 — Pierce W.G. & Mackrill J.J., *Biochimie* 2026. doi:10.1016/j.biochi.2026.09.002",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Alimentation et cheveux",
+ "type": "actif",
+ "unite": ""
+}

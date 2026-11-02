@@ -1,0 +1,80 @@
+{
+ "cibles": [
+  "muscle-os",
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-23",
+ "famille": "alimentation",
+ "id": "regime-hyperproteine",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "exercice-physique",
+  "legumineuses",
+  "oeufs",
+  "prise-de-masse-surplus-calorique-et-recomposition",
+  "proteines",
+  "regime-cetogene-et-pauvre-en-glucides",
+  "regimes-comparatif"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 10,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28698222",
+  "31794597",
+  "42289790",
+  "32699048",
+  "32076944",
+  "31466731",
+  "32232404",
+  "24852037",
+  "41996864",
+  "36594428"
+ ],
+ "preuve_globale": "A",
+ "resume": "Muscle : un petit gain, avec un plafond : au-delà de ~1,6 g/kg/j d'apport total, pas de gain supplémentaire de masse maigre en musculation [A] (PMID 28698222). Au-dessus de l'apport recommandé, +0,32 kg de masse maigre toutes situations confondues, +0,36 kg en restriction énergétique [A, hétérogè…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Muscle : un petit gain, avec un plafond** : au-delà de ~1,6 g/kg/j d'apport total, pas de gain supplémentaire de masse maigre en musculation [A] (PMID 28698222). Au-dessus de l'apport recommandé, +0,32 kg de masse maigre toutes situations confondues, +0,36 kg en restriction énergétique [A, hétérogène] (PMID 31794597). Les « 2 à 3 g/kg » ne reposent sur rien de démontré dans ces sources.\n- **Composition corporelle sans maladie rénale** : moins de masse grasse, masse maigre inchangée vs apport normal ou faible, 22 essais [A] (PMID 42289790).\n- **Reins sains : pas de signe d'atteinte, mais le recul manque** : eGFR en hausse (SMD 0,39) sans changement de la créatinine sérique (SMD 0,08, IC −0,09 à 0,25) ; les auteurs y voient plutôt une adaptation hémodynamique de courte durée et jugent l'effet rénal à long terme incertain [A, faible certitude] (PMID 42289790).\n- **Mortalité en cohortes : l'origine de la protéine compte** : plus de protéines végétales = moins de mortalité ; le total est associé soit à moins (RR 0,94), soit à plus (RR 1,05) de décès selon la méta-analyse [B, contradictoire] (PMID 32699048, 32076944).\n- **Diabète de type 2** : pas d'amélioration de la glycémie ni de la tension ; LDL et triglycérides un peu plus bas [A] (PMID 31466731).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Non revérifié [?]. Pas d'étude lue ici ne tranche si les effets viennent des protéines ou de ce qu'elles remplacent (glucides, graisses).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "Pas de seuil unique : 25-35 % de l'énergie ou ≥ 2,0 g/kg/j dans la méta-analyse rénale de 2026 (PMID 42289790) ; apport recommandé de référence 0,8 g/kg/j (PMID 31794597). Comparer d'une étude à l'autre exige de vérifier ce que « hyperprotéiné » veut dire.",
+   "titre": "Définition utilisée par les études"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Masse maigre, musculation | point de rupture à 1,62 g/kg/j (PMID 28698222) ; masse maigre +0,77 kg avec musculation, 3 comparaisons seulement (PMID 31794597) | [A] |\n| Masse maigre, restriction énergétique | +0,36 kg, 14 comparaisons (PMID 31794597) | [A, hétérogène] |\n| Supplémentation en protéines, adultes sains (65 études, 2 907 pers.) | masse maigre +0,62 kg (adultes) et +0,46 kg (> 55 ans) ; pas d'effet significatif sur la force de préhension ni la presse à cuisses ; le moment de la prise ne change rien (PMID 32232404) | [A] |\n| Reins, sans maladie rénale (22 ECR) | eGFR SMD 0,39 (0,09-0,69), I² = 75 % ; créatinine 19 essais n=1 044, SMD 0,08 (−0,09 à 0,25) ; masse grasse et % de graisse en baisse, masse maigre inchangée (PMID 42289790) | [A, faible certitude] |\n| Reins, méta-analyse antérieure (30 études, 2 160 pers.) | eGFR +7,18 mL/min/1,73 m², urée +1,75 mmol/L, calciurie +25,4 mg/24 h ; acide urique en hausse ; les auteurs recommandent la prudence avec des protéines animales chez les personnes obèses (PMID 24852037) | [A, durée courte] |\n| Diabète de type 2 (12 articles, 1 138 pers.) | HbA1c −0,05, glycémie à jeun −0,13 : pas de différence ; LDL −0,10, cholestérol total −0,21, TG −0,19 mmol/L, HOMA-IR −0,27 ; tension inchangée (PMID 31466731) | [A] |\n| Mortalité, 31 cohortes, 715 128 pers. | protéines totales RR 0,94 (0,89-0,99) toute cause ; végétales 0,92 (0,87-0,97) toute cause, 0,88 (0,80-0,96) CV ; animales sans lien avec CV ni cancer ; +3 % d'énergie en protéines végétales ≈ −5 % de mortalité (PMID 32699048) | [B] |\n| Mortalité, Rotterdam + 11 cohortes | protéines totales RR 1,05 (1,01-1,10) toute cause, tirée par les protéines animales (CVD 1,09) ; végétales 0,93 (0,87-0,99) (PMID 32076944) | [B] |\n| Remplacer protéines animales par végétales, 9 cohortes | mortalité toute cause HR 0,91 (0,87-0,94) ; CV 0,88 (3 %) et 0,77 (5 %) (PMID 41996864) | [B] |\n\nLes deux méta-analyses de cohortes se contredisent sur le total de protéines. Les deux s'accordent sur le fait que les protéines végétales sont du côté favorable ; association ≠ causalité, l'alimentation, le mode de vie et la cause inverse restent confondants [B].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « Plus de protéines, toujours plus de muscle » : plafond à ~1,6 g/kg/j en musculation et gain moyen de moins d'un kilo de masse maigre [A] (PMID 28698222, 31794597).\n- « Le shake juste après l'entraînement » : le moment de la prise n'a pas modifié la masse maigre ni la force [A] (PMID 32232404).\n- « Les protéines abîment les reins sains » : pas de signal de lésion biochimique dans les essais courts ; le long terme est inconnu [A, faible certitude] (PMID 42289790).\n- « Ça maigrit tout seul » : les essais montrent moins de masse grasse, sans que les résumés lus isolent l'effet de la protéine de celui du déficit calorique [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- **Maladie rénale chronique** : sujet distinct. La revue Cochrane de restriction protéique dans la néphropathie diabétique conclut à des effets incertains sur le déclin du DFG et peu de différence sur la mortalité et l'insuffisance rénale, preuve de très faible certitude, avec une adhésion insatisfaisante dans près de la moitié des études (PMID 36594428). Avis du néphrologue avant tout régime riche en protéines.\n- **Calciurie et uricémie** en hausse sous régime hyperprotéiné (PMID 24852037) : calculs rénaux ou goutte : risque non évalué dans les résumés lus, avis médical [?].\n- Origine : privilégier l'azote végétal quand on le peut (cohortes) ; viande et laitages sont les sources animales associées à la mortalité CV dans une cohorte [B] (PMID 32076944).\n- Grossesse, enfants, troubles du comportement alimentaire : non couverts [?].",
+   "titre": "Sécurité, interactions, populations à risque"
+  },
+  {
+   "markdown": "Aliments ordinaires ; poudres de protéines : voir [protéines (complément)](fiche:proteines). Statut réglementaire du régime : sans objet.\n\nVoir aussi : [prise de masse et déficit](fiche:prise-de-masse-surplus-calorique-et-recomposition) · [légumineuses](fiche:legumineuses) · [œufs](fiche:oeufs) · [cétogène et low-carb](fiche:regime-cetogene-et-pauvre-en-glucides) · [comparatif des régimes](fiche:regimes-comparatif) · [synthèse alimentation](fiche:alimentation) · [exercice physique](fiche:exercice-physique).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- PMID 28698222 — Morton R.W. et al., *Br J Sports Med* 2018. doi:10.1136/bjsports-2017-097608\n- PMID 31794597 — Hudson J.L. et al., *Adv Nutr* 2020. doi:10.1093/advances/nmz106\n- PMID 32232404 — Wirth J. et al., *J Nutr* 2020. doi:10.1093/jn/nxaa049\n- PMID 42289790 — Teixeira Silva et al., *Diabetes Obes Metab* 2026. doi:10.1111/dom.70996\n- PMID 24852037 — Schwingshackl L. et al., *PLoS One* 2014. doi:10.1371/journal.pone.0097656\n- PMID 31466731 — Yu Z. et al., *Clin Nutr* 2019. doi:10.1016/j.clnu.2019.08.008\n- PMID 32699048 — Naghshi S. et al., *BMJ* 2020. doi:10.1136/bmj.m2412\n- PMID 32076944 — Chen Z. et al., *Eur J Epidemiol* 2020. doi:10.1007/s10654-020-00607-6\n- PMID 41996864 — Barrantes-Espinola et al., *Clin Nutr* 2026. doi:10.1016/j.clnu.2026.106654\n- PMID 36594428 — Jiang S. et al., *Cochrane Database Syst Rev* 2023. doi:10.1002/14651858.CD014906.pub2",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Alimentation hyperprotéinée",
+ "type": "actif",
+ "unite": ""
+}

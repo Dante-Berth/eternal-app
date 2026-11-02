@@ -1,0 +1,111 @@
+{
+ "cibles": [
+  "cerveau",
+  "sante-mentale"
+ ],
+ "derniere_maj": "2026-10-10",
+ "famille": "",
+ "id": "insomnie",
+ "intro": "",
+ "liens": [
+  "anxiete",
+  "ashwagandha",
+  "bruit-rose-et-sons-pour-dormir",
+  "depression",
+  "l-theanine",
+  "magnesium",
+  "melatonine",
+  "musique-432-hz",
+  "sommeil"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 13,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "38231522",
+  "42806363",
+  "35843245",
+  "42813493",
+  "36333079",
+  "29761479",
+  "33865376",
+  "40056718",
+  "34559859",
+  "42751933",
+  "40258387",
+  "34229295",
+  "42334823"
+ ],
+ "preuve_globale": "A",
+ "resume": "Premier choix : la TCC-I (thérapie cognitivo-comportementale de l'insomnie), en face à face de préférence : méta-analyse en composantes de 241 essais, rémission mieux obtenue avec restriction du sommeil, contrôle du stimulus et restructuration cognitive [A] (PMID 38231522). En ligne : ISI −4,24 p…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Premier choix : la TCC-I** (thérapie cognitivo-comportementale de l'insomnie), en face à face de préférence : méta-analyse en composantes de 241 essais, rémission mieux obtenue avec restriction du sommeil, contrôle du stimulus et restructuration cognitive [A] (PMID 38231522). En ligne : ISI −4,24 points, certitude modérée [A] (PMID 42806363).\n- **Les hypnotiques marchent à court terme, avec un prix** : benzodiazépines et Z-drugs sont les plus efficaces en aigu, mais zolpidem et zopiclone font plus abandonner pour effets indésirables que le placebo [A] (PMID 35843245) ; chute et déclin cognitif chez le senior [A, faible certitude] (PMID 42813493).\n- **Mélatonine, magnésium, L-théanine, ashwagandha** : effets petits, preuves de faible qualité ; aucun ne remplace la TCC-I.\n- **À écarter avant tout** : l'apnée du sommeil. 30 à 50 % des patients apnéiques en clinique du sommeil rapportent aussi des symptômes d'insomnie (PMID 36333079).\n- Les données directes sur l'association hypnotiques + apnée non obstructive traitée n'ont pas été recherchées [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Insomnie chronique = difficultés d'endormissement ou de maintien du sommeil avec retentissement diurne, présentes depuis au moins 3 mois (définition de l'indication Quviviq, HAS, avis du 24 mai 2023, consulté le 2026-10-10). Les mécanismes (hyperéveil, conditionnement) sont des cadres théoriques ; la fiche [sommeil](fiche:sommeil) couvre l'hygiène, les rythmes et la lumière. Pour la mélatonine, voir [mélatonine](fiche:melatonine).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| TCC-I (en personne ou numérique) | restriction du sommeil, contrôle du stimulus, restructuration cognitive | [A] (PMID 38231522, 42806363) | acte de soins psychologiques, accès variable | non relevé [?] |\n| Benzodiazépines, Z-drugs | agonistes GABA-A | [A] efficaces en aigu, certitude haute à modérée (PMID 35843245) | médicament sur ordonnance | non relevé [?] |\n| Antagonistes de l'orexine (suvorexant, lemborexant, daridorexant) | blocage de l'éveil orexinergique | [A, faible certitude] (PMID 42813493) ; lemborexant plus efficace que le placebo en aigu, sécurité à long terme inconcluante (PMID 35843245) | daridorexant : AMM, remboursé 30 % | non relevé [?] |\n| Doxépine faible dose, antidépresseurs sédatifs | antihistaminique H1 | [A] tricycliques (dont doxépine) : qualité de sommeil SMD −0,39, sommeil +22,9 min, latence sans effet net (PMID 29761479) | pas d'AMM insomnie trouvée [?] | — |\n| Mélatonine | chronobiotique | [A] effet petit, voir fiche | mixte | voir fiche |\n| Magnésium | non établi | [A, très faible certitude] (PMID 33865376) | complément | voir fiche |\n| L-théanine | non établi | [A, faible certitude] (PMID 40056718) | complément | voir fiche |\n| Ashwagandha | non établi | [A, hétérogénéité] (PMID 34559859) | complément | voir fiche |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- **Composantes utiles** : 241 essais, 31 452 participants. Restructuration cognitive (iOR de rémission 1,68, IC 95 % 1,28 à 2,20), restriction du sommeil (1,49), contrôle du stimulus (1,43) ; l'éducation à l'hygiène du sommeil n'est pas essentielle (1,01) et la relaxation est possiblement contre-productive (0,81, IC 0,64 à 1,02). Les programmes en personne avec thérapeute sont les plus bénéfiques (iOR 1,83) [A] (PMID 38231522).\n- **Version numérique** : 96 essais, 18 419 participants, ISI −4,24 points (certitude modérée), latence d'endormissement −12,6 min et efficacité du sommeil +7,3 % (certitude faible) ; qualité des essais médiocre (2 à faible risque, 15 à risque élevé) [A] (PMID 42806363).\n- **Senior** : 14 ECR de TCC-I en présentiel, efficacité du sommeil +8,4 % et éveils nocturnes −23 min, hétérogénéité forte (I² 85 %) [A, faible certitude] (PMID 42813493).\n- **Aide au sevrage des hypnotiques** : 13 ECR ; l'arrêt complet précoce n'est pas démontré (RR 1,35, IC 0,87 à 2,11), ISI plus bas avec TCC-I (−4,73, 3 petits essais) ; pas de preuve de certitude élevée [A, faible certitude] (PMID 42751933).",
+   "titre": "TCC-I"
+  },
+  {
+   "markdown": "- **Benzodiazépines et Z-drugs** : 154 ECR, 44 089 participants. En aigu, benzodiazépines, eszopiclone, zolpidem et zopiclone font mieux que le placebo (SMD 0,36 à 0,83) et mieux que mélatonine, ramélteon et zaleplon (SMD 0,27 à 0,71). Zolpidem et zopiclone : plus d'abandons pour effets indésirables que le placebo (OR 1,79 et 2,00) [A] (PMID 35843245).\n- **Orexine** : lemborexant plus efficace que le placebo en aigu ; daridorexant et suvorexant efficaces mais tolérance ou effets à long terme documentés de façon incomplète selon cette méta-analyse [A] (PMID 35843245). Chez le senior, effet sur la latence subjective SMD −0,28 [A, faible certitude] (PMID 42813493).\n- **Doxépine, trazodone** : la méta-analyse du *Lancet* juge la doxépine bien tolérée mais les données d'efficacité trop rares pour conclure (PMID 35843245) ; Cochrane : tricycliques (5 essais de doxépine sur 6) qualité de sommeil SMD −0,39, sommeil +22,9 min, latence −4,3 min non significative ; trazodone SMD −0,34 [A] (PMID 29761479). Cette revue date de recherches jusqu'en 2015.\n- **Conflits d'intérêts** : non relevés pour ces revues ici.",
+   "titre": "Hypnotiques"
+  },
+  {
+   "markdown": "- **Sons pour dormir** (bruit rose, bruit blanc, musique « 432 Hz ») : preuve faible, et le bruit rose a réduit le sommeil paradoxal dans un essai de laboratoire : voir [bruit rose et sons pour dormir](fiche:bruit-rose-et-sons-pour-dormir) et [musique à 432 Hz](fiche:musique-432-hz).\n- **Mélatonine** : −7 min de latence environ, 8 min de sommeil en plus, moins efficace que les hypnotiques : voir [mélatonine](fiche:melatonine).\n- **Magnésium** : 3 ECR, 151 sujets âgés, latence −17,4 min (IC 95 % −27,3 à −7,4), sommeil total +16 min non significatif, risque de biais modéré à élevé, certitude faible à très faible [A, très faible certitude] (PMID 33865376). Voir [magnésium](fiche:magnesium).\n- **L-théanine** : 18 ECR, 897 participants ; latence subjective SMD 0,15 (IC 0,01 à 0,29), qualité globale SMD 0,43 (0,04 à 0,83) ; peu d'études sur la L-théanine pure [A, faible certitude] (PMID 40056718). Voir [L-théanine](fiche:l-theanine).\n- **Ashwagandha** : 5 ECR, 400 participants, SMD −0,59 (IC −0,75 à −0,42), I² 62 %, plus net avec ≥ 600 mg/j et ≥ 8 semaines ; données de sécurité à long terme limitées [A, hétérogénéité] (PMID 34559859). Voir [ashwagandha](fiche:ashwagandha).",
+   "titre": "Mélatonine et compléments"
+  },
+  {
+   "markdown": "- **Pourquoi** : une insomnie qui cache (ou accompagne) une apnée obstructive ne se règle pas avec un somnifère. Environ 30 à 50 % des patients apnéiques d'une clinique du sommeil rapportent des symptômes d'insomnie, et l'insomnie comorbide diminue l'observance de la PPC [B, revue narrative] (PMID 36333079).\n- **COMISA** (insomnie + apnée) : plus difficile à traiter que chacune seule ; la prise en charge des deux est associée aux meilleurs résultats, TCC-I incluse [B, revue narrative] (PMID 36333079). Associée à un risque cardiovasculaire et métabolique et à une charge de santé mentale plus élevés (PMID 40258387) [B, revue narrative].\n- **Signaux d'alerte** : ronflements forts, pauses respiratoires constatées, somnolence diurne, hypertension, obésité. Dépistage par un médecin (polygraphie ou polysomnographie).\n- **Limite** : ces revues ont des auteurs financés par des fabricants de PPC (ResMed, Philips, cf. conflits d'intérêts déclarés dans PMID 36333079, 34229295). Sécurité des hypnotiques en cas d'apnée : non recherchée [?].",
+   "titre": "Apnée du sommeil : à écarter"
+  },
+  {
+   "markdown": "- **Débutant** : horaires fixes, lumière du matin, caféine et alcool tardifs en cause, voir [sommeil](fiche:sommeil). L'hygiène seule n'est pas la composante efficace de la TCC-I (PMID 38231522).\n- **Intermédiaire** : TCC-I numérique validée ou thérapeute formé (PMID 42806363).\n- **Avancé** : consultation médicale (cause, apnée, comorbidité psychiatrique), puis, si besoin, hypnotique court sous contrôle ou TCC-I d'aide au sevrage (PMID 42751933). Voir aussi [anxiété](fiche:anxiete) et [dépression](fiche:depression).",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Traiter une insomnie chronique avec un hypnotique à long terme : le sevrage est difficile et la TCC-I aide à la réduction de dose sans preuve de certitude élevée sur l'arrêt complet (PMID 42751933).\n- Empiler mélatonine, magnésium, théanine, ashwagandha : aucun essai de combinaison trouvé [?].\n- Ne pas chercher d'apnée, d'anxiété ou de dépression sous-jacentes.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Somnifère naturel »** : effet de la mélatonine faible, inférieur aux hypnotiques (PMID 35843245) ; voir [mélatonine](fiche:melatonine).\n- **« Le magnésium règle le sommeil »** : trois petits essais chez le senior, qualité très faible (PMID 33865376).\n- **« L'hygiène du sommeil suffit »** : non essentielle dans la TCC-I (iOR 1,01) (PMID 38231522).\n- **« Relaxation = TCC-I »** : possiblement contre-productive (iOR 0,81, IC 0,64 à 1,02, non significatif) (PMID 38231522).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- **Dépendance et sevrage** : les benzodiazépines et Z-drugs exposent à dépendance, sevrage, insomnie de rebond, troubles cognitifs et chutes, selon l'introduction de la méta-analyse sur le sevrage (PMID 42751933).\n- **Chutes** : RR ~1,47 chez le senior ; ces molécules sont classées médicaments potentiellement inappropriés [A, faible certitude] (PMID 42813493).\n- **Démence** : 13 études observationnelles, 721 354 sujets ; usage de sédatifs-hypnotiques associé à une maladie d'Alzheimer (OR 1,29, IC 1,10 à 1,53, I² 86,5 %), mais HR non significatif (1,17, IC 0,87 à 1,58). Association, pas causalité ; biais d'indication possible (l'insomnie elle-même est un facteur de risque) [B, observationnel] (PMID 42334823).\n- **Orexine, doxépine, autres** : effets indésirables spécifiques non relevés dans les sources lues [?].\n- Interactions (alcool, opioïdes, autres sédatifs), grossesse : non recherchées dans cette fiche [?].",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- **Durée maximale des hypnotiques** : 4 semaines, sevrage compris ; TCC-I en première intention pour toute insomnie autre qu'occasionnelle ; zolpidem sur ordonnance sécurisée (HAS, « Quelle place pour les benzodiazépines dans l'insomnie ? », et ANSM, consulté le 2026-10-10). Statut sécurisé du zopiclone : non vérifié [?].\n- **Daridorexant (Quviviq)** : avis favorable au remboursement, SMR modéré, ASMR IV, avis de la Commission de la transparence du 24 mai 2023, remboursement 30 % (HAS, consulté le 2026-10-10) ; BDPM consulté le 2026-10-10 (fiche mise à jour le 2026-09-29).\n- **Mélatonine** : voir [mélatonine](fiche:melatonine) (Circadin sur ordonnance, compléments < 2 mg/j).\n- **Doxépine à faible dose dans l'insomnie** : pas d'AMM trouvée en France [?].\n- **Statut AMA** : non recherché [?].",
+   "titre": "Statut règlementaire (France/UE)"
+  },
+  {
+   "markdown": "- Dans la méta-analyse en réseau du *Lancet*, mélatonine et ramélteon ne montrent pas de bénéfice global net, alors que des benzodiazépines et Z-drugs, plus efficaces, ont un risque connu (PMID 35843245).\n- Plusieurs critères de la TCC-I numérique restent sous le seuil de pertinence clinique (PMID 42806363).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Insomnie depuis 3 mois ou plus avec retentissement ; ronflements forts, pauses respiratoires, somnolence au volant ; idées dépressives ou anxiété ; prise de somnifères depuis plus de 4 semaines ; chutes ou confusion chez une personne âgée.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 38231522 — Furukawa Y et al., *JAMA Psychiatry* 2024 (composantes de la TCC-I).\n- PMID 42806363 — Tong et al., *BMC Med* 2026 (thérapies numériques). doi:10.1186/s12916-026-05129-8\n- PMID 42813493 — Shalihin et al., *Med J Malaysia* 2026 (insomnie gériatrique).\n- PMID 42751933 — Zhang et al., *J Int Med Res* 2026 (TCC-I et sevrage). doi:10.1177/03000605261487272\n- PMID 35843245 — De Crescenzo F et al., *Lancet* 2022. doi:10.1016/S0140-6736(22)00878-9\n- PMID 29761479 — Everitt H et al., *Cochrane Database Syst Rev* 2018.\n- PMID 42334823 — da Silva AMP et al., *Drugs* 2026.\n- PMID 36333079 — Sweetman A et al., *Sleep Med Clin* 2022. doi:10.1016/j.jsmc.2022.07.006\n- PMID 34229295 — Sweetman A et al., *Sleep Med Rev* 2021 (conflits d'intérêts seulement relus). doi:10.1016/j.smrv.2021.101519\n- PMID 40258387 — Meira E Cruz M et al., *Semin Respir Crit Care Med* 2025 (résumé relu).\n- PMID 33865376 — Mah J, Pitre T, *BMC Complement Med Ther* 2021. doi:10.1186/s12906-021-03297-z\n- PMID 40056718 — Bulman A et al., *Sleep Med Rev* 2025. doi:10.1016/j.smrv.2025.102076\n- PMID 34559859 — Cheah KL et al., *PLoS One* 2021.\n- HAS, « Quelle place pour les benzodiazépines dans l'insomnie ? » (has-sante.fr/jcms/c_2015058), consulté le 2026-10-10.\n- HAS, avis CT Quviviq (daridorexant), 24 mai 2023 (has-sante.fr), consulté le 2026-10-10.\n- BDPM, Quviviq (base-donnees-publique.medicaments.gouv.fr), consulté le 2026-10-10.\n- ANSM, durées de prescription des benzodiazépines (archive.ansm.sante.fr), consulté le 2026-10-10.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Insomnie chronique",
+ "type": "condition",
+ "unite": ""
+}

@@ -1,0 +1,79 @@
+{
+ "cibles": [
+  "peau",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "peptide",
+ "id": "kpv",
+ "intro": "",
+ "liens": [
+  "bpc-157",
+  "ll-37",
+  "melanotan-et-bremelanotide"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "18612139",
+  "18092346",
+  "18061177",
+  "27458604",
+  "28143741",
+  "35245681",
+  "15102092"
+ ],
+ "preuve_globale": "C",
+ "resume": "Tripeptide correspondant aux acides aminés 11 à 13 de l'hormone alpha-MSH. Il garde l'effet anti-inflammatoire de l'alpha-MSH sans son effet pigmentaire (revue, PMID 18612139), d'où l'idée d'un « anti-inflammatoire sans mélanotan ». Il se vend en ligne pour l'intestin (« colite », « perméabilité…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Tripeptide correspondant aux acides aminés 11 à 13 de l'hormone alpha-MSH. Il garde l'effet anti-inflammatoire de l'alpha-MSH sans son effet pigmentaire (revue, PMID 18612139), d'où l'idée d'un « anti-inflammatoire sans mélanotan ». Il se vend en ligne pour l'intestin (« colite », « perméabilité »), la peau (eczéma, acné) et les articulations.\n- Les données sont **animales et cellulaires** : réduction de l'inflammation dans deux modèles de colite de souris, dont une partie de la réponse passe par le transporteur PepT1 [C] (PMID 18092346, PMID 18061177). **Aucun essai humain trouvé** [?], PubMed et ClinicalTrials.gov interrogés le 2026-10-14.\n- Le transporteur PepT1, par lequel KPV entre dans les cellules, est surexprimé dans les tumeurs colorectales humaines et favorise la tumorigenèse associée à la colite chez la souris ; le KPV a réduit les tumeurs chez la souris sauvage mais pas chez la souris sans PepT1 [C] (PMID 27458604).\n- Les études de colite sont des **systèmes de délivrance** (nanoparticules, hydrogels) conçus pour cibler le côlon, très différents d'un flacon de poudre du marché gris [C] (PMID 28143741, PMID 35245681).\n- Aucun médicament à base de KPV dans la base publique des médicaments.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- L'alpha-MSH agit sur les récepteurs de la mélanocortine et freine NF-κB, les cytokines pro-inflammatoires et la migration des cellules inflammatoires ; KPV reproduirait cet effet anti-inflammatoire sans pigmentation (PMID 18612139) [C].\n- Dans les cellules intestinales et les lymphocytes T humains en culture, des concentrations de l'ordre du nanomolaire inhibent NF-κB et les voies MAP kinase, et le KPV entre dans la cellule par PepT1 [D] (PMID 18061177).\n- Chez des souris dont le récepteur MC1R est non fonctionnel, KPV protège pourtant contre la mort par colite : le mécanisme n'est donc pas seulement le récepteur de la mélanocortine [C] (PMID 18092346).",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Colite, modèles murins (DSS et transfert de lymphocytes CD45RB) | Récupération plus rapide du poids, moins d'infiltrats inflammatoires et d'activité myéloperoxydase ; tous les animaux MC1R-déficients survivent sous KPV | [C] (PMID 18092346) |\n| Colite, DSS et TNBS chez la souris | Baisse de l'incidence de la colite et des cytokines pro-inflammatoires ; effet via PepT1 | [C] (PMID 18061177) |\n| Cancer associé à la colite, souris | Baisse des tumeurs et de l'inflammation sous KPV chez les animaux sauvages ; pas d'effet sans PepT1 ; PepT1 plus exprimé dans le cancer colorectal humain | [C] (PMID 27458604) |\n| Kératinocytes humains | Aucune élévation de l'AMPc avec l'alpha-MSH ou KPV ; élévation rapide du calcium intracellulaire (10⁻¹⁵ à 10⁻⁷ M), observée seulement en présence d'un agoniste de l'adénosine (PIA) dans les HaCaT | [D] (PMID 15102092) |\n| Maladie inflammatoire de l'intestin, peau, articulations chez l'humain | Aucun essai trouvé | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet (règle 7 : pas de posologie). Les doses animales et les formulations ciblées sur le côlon des études ne se transposent pas à un produit acheté en ligne ; le contenu réel des flacons est inconnu sans analyse.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **France** : aucune occurrence de « KPV », d'alpha-MSH ou de mélanotropine dans les fichiers CIS_bdpm et CIS_COMPO_bdpm de la base publique des médicaments (BDPM, téléchargés le 2026-10-14). Le KPV n'est pas cité nommément dans la mise en garde ANSM sur les « peptides » vendus en ligne (« Ces produits n'ont pas été évalués par les autorités de santé et ne sont pas autorisés », ANSM, 2026-07-02 mise à jour 2026-08-31, consultée le 2026-10-14).\n- **AMA** : pas de mention nominative (recherche dans le texte de la Liste 2026 (PDF WADA, consulté le 2026-10-14) : aucune mention nominative) ; sans approbation, il relève de S0 (substances non approuvées, interdites en permanence) par la définition de la classe.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Aucune donnée de sécurité humaine trouvée [?].\n- **Risque théorique lié à PepT1** : transporteur surexprimé dans le cancer colorectal ; effet protecteur observé chez la souris, mais aucune donnée sur un usage prolongé chez un humain porteur de lésions coliques [C] (PMID 27458604).\n- Immunomodulateur dans le cadre d'une infection, d'un cancer ou d'un traitement immunosuppresseur : interactions non étudiées [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Risques génériques signalés par l'ANSM : composition incertaine, produits frauduleux ; sous-dosage, mauvaise molécule, contamination, endotoxines (ANSM, consultée le 2026-10-14). Analyse de flacons de KPV : aucune trouvée [?].",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- Symptômes digestifs chroniques (diarrhée, sang dans les selles, douleurs) : consultation gastro-entérologique, calprotectine fécale, coloscopie ; une maladie inflammatoire de l'intestin se traite avec des médicaments autorisés dont l'efficacité est démontrée chez l'humain.\n- Eczéma, acné, rosacée : dermatologue (voir [peau](../../vues/themes/peau.md)).\n- Pas de protocole de dosage ni d'injection, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).\n\nVoir aussi : [mélanotan et brémélanotide](fiche:melanotan-et-bremelanotide) (autres dérivés de la mélanocortine, avec leurs propres risques), [LL-37](fiche:ll-37), [BPC-157](fiche:bpc-157) (autre peptide vendu pour l'intestin).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Brzoska T et al. *Endocr Rev* 2008 — PMID 18612139 — [DOI](https://doi.org/10.1210/er.2007-0027) (revue)\n2. Kannengiesser K et al. *Inflamm Bowel Dis* 2008 — PMID 18092346 — [DOI](https://doi.org/10.1002/ibd.20334)\n3. Dalmasso G et al. *Gastroenterology* 2008 — PMID 18061177 — [DOI](https://doi.org/10.1053/j.gastro.2007.10.026)\n4. Viennois E et al. *Cell Mol Gastroenterol Hepatol* 2016 — PMID 27458604 — [DOI](https://doi.org/10.1016/j.jcmgh.2016.01.006)\n5. Xiao B et al. *Mol Ther* 2017 — PMID 28143741 (nanoparticules d'acide hyaluronique chargées en KPV, colite de souris ; résumé relu le 2026-10-14).\n6. Zhao Y et al. *Acta Biomater* 2022 — PMID 35245681 (hydrogel rectal, colite TNBS du rat ; résumé relu le 2026-10-14).\n7. Elliott RJ et al. *J Invest Dermatol* 2004 — PMID 15102092 (kératinocytes humains et cellules CHO ; résumé relu le 2026-10-14).\n8. ANSM, « “Peptides” vendus en ligne : ne les utilisez pas, ils peuvent être dangereux », 2026-07-02, mis à jour 2026-08-31 — https://ansm.sante.fr/actualites/peptides-vendus-en-ligne-ne-les-utilisez-pas-ils-peuvent-etre-dangereux (consulté le 2026-10-14)\n9. BDPM, fichiers CIS_bdpm et CIS_COMPO_bdpm, téléchargés le 2026-10-14. ClinicalTrials.gov, recherche « KPV tripeptide » (2026-10-14) : aucune étude.\n10. AMA, Liste des interdictions 2026, classe S0 (consultée le 2026-10-14).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "KPV (tripeptide Lys-Pro-Val, fragment de l'alpha-MSH)",
+ "type": "actif",
+ "unite": ""
+}

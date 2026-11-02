@@ -1,0 +1,107 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-triglycerides-non-hdl-remnants",
+ "intro": "Fiche « examen » pour les lipides **hors LDL-C**. LDL-C, cibles et statines : [ApoB, lipides et statines](fiche:apob-lipides-et-statines), [statines](fiche:statines). Comptage des particules : [ApoB](fiche:biomarqueur-apob). Oméga-3 : [oméga-3](fiche:omega-3).",
+ "liens": [
+  "alimentation",
+  "apob-lipides-et-statines",
+  "biomarqueur-apob",
+  "biomarqueur-ldl-cholesterol-total-hdl",
+  "exercice-physique",
+  "omega-3",
+  "statines"
+ ],
+ "marqueurs": [
+  "triglycerides",
+  "non-hdl-c",
+  "ldl-c",
+  "hdl-c"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 9,
+ "nb_seuils": 11,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "19903920",
+  "23265341",
+  "37358553",
+  "39322327",
+  "36342113",
+  "30415628",
+  "27122601",
+  "38503751",
+  "31504418"
+ ],
+ "preuve_globale": "B",
+ "resume": "Le non-HDL-C (cholestérol total − HDL-C) additionne le cholestérol de toutes les particules athérogènes (LDL, VLDL, remnants, Lp(a)). Sur 302 430 sujets (68 cohortes) : HR coronaire 1,50 (1,39-1,61) par écart-type, contre 0,99 (0,94-1,05) pour les triglycérides seuls ; les auteurs concluent qu'on…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Le **non-HDL-C** (cholestérol total − HDL-C) additionne le cholestérol de toutes les particules athérogènes (LDL, VLDL, remnants, Lp(a)). Sur 302 430 sujets (68 cohortes) : HR coronaire 1,50 (1,39-1,61) par écart-type, contre 0,99 (0,94-1,05) pour les triglycérides seuls ; les auteurs concluent qu'on peut évaluer le risque lipidique **sans jeûne et sans tenir compte des triglycérides** [A, données individuelles] (PMID 19903920).\n- Les **triglycérides** sont un marqueur de particules riches en triglycérides (remnants), pas une cause directe : c'est le cholestérol qu'elles transportent qui est athérogène en randomisation mendélienne. Remnant cholesterol : OR causal 2,8 (1,9-4,2) par 1 mmol/L (≈ 39 mg/dL) vs HR observationnel 1,4 [B, RM, Copenhague] (PMID 23265341) ; 2,59 (1,99-3,36) par 1 mmol/L, indépendant de l'ApoB [B, RM, UK Biobank] (PMID 37358553).\n- Par particule, les remnants sont au moins **3,9 fois (2,8-5,4) plus athérogènes** que le LDL [B, RM] (PMID 39322327).\n- **Abaisser les triglycérides n'est pas une cible démontrée** : pemafibrate (PROMINENT, 10 497 patients diabétiques) baisse les triglycérides de 26,2 % et le cholestérol remnant de 25,6 % mais n'a **aucun effet** sur les événements (HR 1,03 ; 0,91-1,15), l'ApoB ayant augmenté de 4,8 % [A, ECR] (PMID 36342113). L'icosapent éthyl (REDUCE-IT, 8 179 patients, financé par Amarin) a réduit les événements (HR 0,75 ; 0,68-0,83) mais avec plus d'hospitalisations pour fibrillation atriale (3,1 % vs 2,1 %) [A, ECR unique, financé par le fabricant] (PMID 30415628).\n- **Pas besoin d'être à jeun** pour un bilan lipidique en routine (consensus EAS/EFLM) ; jeûne à envisager si triglycérides non à jeun > 5 mmol/L (440 mg/dL) [recommandation d'experts] (PMID 27122601).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Les triglycérides circulent dans les VLDL et les chylomicrons ; après hydrolyse restent des **remnants**, particules enrichies en cholestérol qui, contrairement aux chylomicrons entiers, pénètrent l'intima artérielle (mécanisme proposé, non relu dans les résumés [C]).\n- Le **cholestérol remnant** est un indice **calculé** à partir du bilan standard (formule non relue ici) ; une mesure directe existe mais n'a pas été étudiée dans ce travail [?].\n- Non-HDL-C = cholestérol total − HDL-C ; il dépend peu du jeûne : changement moyen après repas −0,2 mmol/L (−8 mg/dL), triglycérides +0,3 mmol/L (+26 mg/dL), HDL-C et ApoB non modifiés (PMID 27122601).\n- Unités : mmol/L ou mg/dL (1 mmol/L de cholestérol ≈ 39 mg/dL ; 1 mmol/L de triglycérides ≈ 89 mg/dL, conversion hors résumé).",
+   "titre": "Mécanisme et ce que mesure l'examen"
+  },
+  {
+   "markdown": "Seuils d'alerte du consensus EAS/EFLM 2016, pas des cibles thérapeutiques : triglycérides ≥ 2 mmol/L (175 mg/dL) ; cholestérol remnant calculé ≥ 0,9 mmol/L (35 mg/dL) ; non-HDL-C calculé ≥ 3,9 mmol/L (150 mg/dL) ; LDL-C ≥ 3 mmol/L (115 mg/dL) ; ApoB ≥ 1,0 g/L ; à jeun, triglycérides ≥ 1,7 mmol/L (150 mg/dL) [consensus d'experts] (PMID 27122601). Les cibles de traitement des recommandations ESC/EAS ne sont pas relues ici [?] (voir [ApoB, lipides et statines](fiche:apob-lipides-et-statines)).",
+   "titre": "Seuils de signalement (laboratoire, échantillon non à jeun)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Risque coronaire, 1 écart-type (68 cohortes, 302 430 sujets) | non-HDL-C HR 1,50 (1,39-1,61) ; HDL-C 0,78 (0,74-0,82) ; triglycérides 0,99 (0,94-1,05) | [A, données individuelles] (PMID 19903920) |\n| Taux de coronaropathie / 1 000 personnes-années, tiers bas vs haut | triglycérides 2,6 vs 6,2 ; non-HDL-C 2,3 vs 6,7 | [A] (PMID 19903920) |\n| Causalité du cholestérol remnant (non à jeun, 73 513 sujets, 11 984 cas) | OR causal 2,8 (1,9-4,2) par 1 mmol/L ; HDL-C seul 0,7 (0,4-1,4) | [B, RM] (PMID 23265341) |\n| Remnants vs LDL, ajusté sur l'ApoB (UK Biobank) | OR 2,59 (1,99-3,36) vs 1,37 (1,27-1,48) par 1 mmol/L | [B, RM] (PMID 37358553) |\n| Atherogénicité par particule | remnants ≥ 3,9× LDL (2,8-5,4) ; OR par 10 mg/dL d'ApoB : 1,15 (cluster LDL) vs 1,70 (cluster remnants) | [B, RM] (PMID 39322327) |\n| Multimorbidité cardiométabolique (diabète, cardiopathie, AVC) | association et RM positives avec remnants et triglycérides | [B, UK Biobank, RM] (PMID 38503751) |\n\nLecture : les remnants pèsent, mais **le cholestérol qu'ils portent et leur nombre, pas le chiffre de triglycérides isolé**, expliquent le risque. Les études de RM peuvent être biaisées par la pléiotropie génétique (limite écrite par les auteurs de PMID 23265341). Pour le non-HDL-C, les auteurs de PMID 39322327 notent qu'il peut sous-estimer le risque quand la part de remnants est élevée.",
+   "titre": "Ce que les chiffres prédisent"
+  },
+  {
+   "markdown": "| Intervention | Résultat | Preuve |\n|---|---|---|\n| Pemafibrate (diabète de type 2, triglycérides 200-499 mg/dL, HDL-C ≤ 40, LDL-C ≤ 100) | événements CV HR 1,03 (0,91-1,15) ; triglycérides −26,2 %, remnants −25,6 %, ApoC-III −27,6 %, ApoB +4,8 % ; plus d'événements rénaux et de thromboembolies veineuses, moins de foie gras non alcoolique | [A, ECR] (PMID 36342113) |\n| Icosapent éthyl 4 g/j, sous statine, triglycérides à jeun 135-499 mg/dL | critère principal 17,2 % vs 22,0 % (HR 0,75 ; 0,68-0,83) ; décès CV 4,3 % vs 5,2 % ; hospitalisation pour fibrillation atriale 3,1 % vs 2,1 % (p=0,004) ; saignements graves 2,7 % vs 2,1 % (p=0,06) | [A, ECR unique n=8179, financé par Amarin] (PMID 30415628) |\n\nPROMINENT montre que baisser les triglycérides et le cholestérol remnant **sans baisser l'ApoB** ne suffit pas, ce qui renforce l'idée que le nombre de particules compte plus que le chiffre de triglycérides. REDUCE-IT n'établit pas que la baisse des triglycérides explique son bénéfice : le mécanisme est débattu et non tranché dans les résumés lus [?]. Statut en France de l'icosapent éthyl et du pemafibrate : non consulté (BDPM) [?]. Oméga-3 en compléments : voir la [fiche oméga-3](fiche:omega-3).",
+   "titre": "Traitements : ce que montrent les essais"
+  },
+  {
+   "markdown": "Conversion : cholestérol, 1 mmol/L = 38,67 mg/dL ; triglycérides, 1 mmol/L ≈ 88,5 mg/dL (la fiche utilise 89 plus haut) ; 1 g/L = 100 mg/dL. Recommandation : ESC/EAS 2019 (Mach F et al., *Eur Heart J* 2020, PMID 31504418), texte lu sur academic.oup.com, consulté le 2026-11-01. Cibles de LDL-C : voir [LDL-C, cholestérol total et HDL-C](fiche:biomarqueur-ldl-cholesterol-total-hdl).\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| Non-HDL-C | mmol/L (mg/dL) | < 2,2 (< 85) | objectif secondaire | risque très élevé | ESC/EAS 2019, consulté le 2026-11-01 |\n| Non-HDL-C | mmol/L (mg/dL) | < 2,6 (< 100) | objectif secondaire | risque élevé | ESC/EAS 2019, consulté le 2026-11-01 |\n| Non-HDL-C | mmol/L (mg/dL) | < 3,4 (< 130) | objectif secondaire | risque modéré | ESC/EAS 2019, consulté le 2026-11-01 |\n| Triglycérides | mmol/L (mg/dL) | < 1,7 (< 150) | risque plus faible ; au-dessus, chercher d'autres facteurs de risque (pas d'objectif thérapeutique) | adulte | ESC/EAS 2019, consulté le 2026-11-01 |\n| Triglycérides | mmol/L (mg/dL) | ≥ 2 (175) | seuil de signalement, échantillon non à jeun | adulte | consensus EAS/EFLM 2016, PMID 27122601 |\n| Triglycérides | mmol/L (mg/dL) | ≥ 1,7 (150) | seuil de signalement, à jeun | adulte | consensus EAS/EFLM 2016, PMID 27122601 |\n| Triglycérides | mmol/L (mg/dL) | > 5 (440) | envisager un prélèvement à jeun | adulte | consensus EAS/EFLM 2016, PMID 27122601 |\n| Cholestérol remnant (calculé) | mmol/L (mg/dL) | ≥ 0,9 (35) | seuil de signalement | adulte, non à jeun | consensus EAS/EFLM 2016, PMID 27122601 |\n| Non-HDL-C (calculé) | mmol/L (mg/dL) | ≥ 3,9 (150) | seuil de signalement | adulte, non à jeun | consensus EAS/EFLM 2016, PMID 27122601 |\n| Non-HDL-C, objectif en risque faible | | non retrouvé [?] | absent du texte ESC/EAS 2019 lu (règle : 0,8 mmol/L/30 mg/dL au-dessus de la cible de LDL-C) | | |\n| Triglycérides, seuil de risque de pancréatite | | non retrouvé [?] | non recherché | | |\n\nLa Figure 1 de la mise à jour 2025 n'a pas été lue ; le texte lu donne les cibles de LDL-C comme inchangées [?].",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "- Triglycérides et non-HDL-C sortent du bilan lipidique standard ; pas d'examen supplémentaire. Le cholestérol remnant est une ligne calculée que certains laboratoires n'impriment pas.\n- Cas où ce bilan pèse le plus : triglycérides élevés, diabète de type 2, syndrome métabolique, obésité abdominale, consommation d'alcool importante (lien alcool-triglycérides non sourcé ici [?]).\n- Triglycérides très élevés : le risque de pancréatite est un sujet distinct, non traité dans ce travail [?] ; un chiffre de cet ordre relève d'un avis médical rapide.\n- Prélèvement : non à jeun accepté en routine (PMID 27122601) ; variation d'un prélèvement à l'autre : non recherchée [?].",
+   "titre": "Qui, quand, comment"
+  },
+  {
+   "markdown": "Les leviers à preuve passent par le poids, l'alimentation (alcool, sucres rapides, graisses), l'activité physique, l'équilibre du diabète, puis un avis médical pour les médicaments : détail dans [alimentation](fiche:alimentation), [exercice physique](fiche:exercice-physique), [ApoB, lipides et statines](fiche:apob-lipides-et-statines). **La priorité reste le LDL-C/ApoB/non-HDL-C**, pas le chiffre de triglycérides. Pas de dosage de médicament ici.",
+   "titre": "Que faire de triglycérides ou de remnants élevés"
+  },
+  {
+   "markdown": "Examens de biologie médicale prescrits (bilan lipidique standard). Remboursement et nomenclature : non retrouvés dans les sources officielles consultées [?]. Aucun statut AMA pertinent (examen).",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Se focaliser sur le chiffre de triglycérides et ignorer le non-HDL-C/ApoB : les triglycérides seuls n'ajoutent rien en prédiction (HR 0,99, PMID 19903920).\n- Venir à jeun 12 heures « pour que le bilan soit fiable » : non nécessaire en routine (PMID 27122601).\n- Penser qu'un médicament qui baisse les triglycérides protège forcément : pemafibrate, −26 % de triglycérides, zéro effet sur les événements (PMID 36342113).\n- Acheter des oméga-3 en complément en croyant reproduire REDUCE-IT : l'essai utilisait un médicament purifié à 4 g/j d'EPA ; voir [oméga-3](fiche:omega-3).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Les triglycérides sont le vrai coupable, le cholestérol est secondaire »** : le non-HDL-C prédit mieux (HR 1,50) que les triglycérides (HR 0,99) (PMID 19903920) ; les remnants comptent via leur cholestérol et leur nombre (PMID 23265341, 39322327) [A, B].\n- **« Baisser les triglycérides = protéger le cœur »** : essai négatif à −26 % de triglycérides (PMID 36342113) [A].\n- **« Le jeûne est obligatoire pour un bilan lipidique »** : non, consensus EAS/EFLM (PMID 27122601).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Les remnants riches en triglycérides sont au moins 3,9 fois plus athérogènes par particule que le LDL (PMID 39322327) : un non-HDL-C identique peut cacher un risque supérieur quand la part de remnants est élevée (même article).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Triglycérides très élevés, douleurs abdominales intenses, xanthomes, antécédent familial d'infarctus précoce, diabète : avis médical ; seuils de risque de pancréatite non sourcés ici [?].",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 31504418 — Mach F et al., 2019 ESC/EAS Guidelines for the management of dyslipidaemias. *Eur Heart J* 2020 (texte lu sur academic.oup.com, consulté le 2026-11-01).\n- PMID 19903920 — Emerging Risk Factors Collaboration (Di Angelantonio E), Major lipids, apolipoproteins, and risk of vascular disease. *JAMA* 2009 (résumé relu).\n- PMID 27122601 — Nordestgaard BG et al., Fasting is not routinely required for determination of a lipid profile: EAS/EFLM consensus. *Eur Heart J* 2016 (résumé relu).\n- PMID 23265341 — Varbo A et al., Remnant cholesterol as a causal risk factor for ischemic heart disease. *J Am Coll Cardiol* 2013 (résumé relu).\n- PMID 37358553 — Björnson E et al., Triglyceride-rich lipoprotein remnants, LDL and risk of CHD: UK Biobank. *Eur Heart J* 2023 (résumé relu).\n- PMID 39322327 — Björnson E et al., Quantifying TRL atherogenicity, associations with inflammation, and implications for non-HDL-C risk assessment. *J Am Coll Cardiol* 2024 (résumé relu).\n- PMID 38503751 — Zhao Y et al., Elevated blood remnant cholesterol and triglycerides are causally related to cardiometabolic multimorbidity. *Nat Commun* 2024 (résumé relu).\n- PMID 36342113 — Das Pradhan A et al., Triglyceride lowering with pemafibrate to reduce cardiovascular risk (PROMINENT). *N Engl J Med* 2022 (résumé relu, tronqué en fin).\n- PMID 30415628 — Bhatt DL et al., Cardiovascular risk reduction with icosapent ethyl for hypertriglyceridemia (REDUCE-IT). *N Engl J Med* 2019 (résumé relu ; financement Amarin).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : triglycérides, non-HDL-C et remnants",
+ "type": "biomarqueur",
+ "unite": ""
+}

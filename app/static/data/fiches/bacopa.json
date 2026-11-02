@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "cerveau",
+  "sante-mentale"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "bacopa",
+ "intro": "",
+ "liens": [
+  "ashwagandha",
+  "cafeine",
+  "declin-cognitif-et-neurodegenerescence",
+  "ginkgo",
+  "l-theanine",
+  "rhodiola"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 10,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "24252493",
+  "22747190",
+  "41091332",
+  "41678913",
+  "35612544",
+  "40507208",
+  "18611150",
+  "41640686",
+  "38538390",
+  "37829299"
+ ],
+ "preuve_globale": "A",
+ "resume": "Plante ayurvédique vendue pour la mémoire. Les revues de petits ECR de 12 semaines (300–450 mg d'extrait/j) trouvent un signal sur le rappel libre et la vitesse d'attention : méta-analyse de 9 ECR (518 sujets) avec Trail B −17,9 (IC −24,6 à −11,2) et temps de réaction au choix −10,6 ms (−12,1 à −…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Plante ayurvédique vendue pour la mémoire. Les revues de petits ECR de 12 semaines (300–450 mg d'extrait/j) trouvent un **signal sur le rappel libre et la vitesse d'attention** : méta-analyse de 9 ECR (518 sujets) avec Trail B −17,9 (IC −24,6 à −11,2) et temps de réaction au choix −10,6 ms (−12,1 à −9,2) [A, petits essais] (PMID 24252493) ; revue systématique de 6 ECR où la bacopa améliore 9 tests de rappel libre sur 17 et presque rien d'autre [A, petits essais] (PMID 22747190).\n- **Un ECR plus récent est nul** : 101 adultes de 40–70 ans avec plaintes mnésiques, 300 mg/j pendant 12 semaines, aucune différence sur l'apprentissage verbal (p=0,391), l'attention (p=0,713) ni la mémoire de travail (p=0,610) ; plus d'effets indésirables digestifs et de maux de tête que le placebo (p=0,024) [B, ECR unique n=101] (PMID 41091332).\n- **Une méta-analyse en réseau de 2026 donne des tailles d'effet invraisemblables** (SMD ≈ 1,8–2,0 sur la mémoire de travail pour ≥ 600 mg/j) ; à lire (interprétation) comme un signal de biais, pas comme un effet réel [A, faible certitude] (PMID 41678913).\n- **Pas d'effet démontré sur la démence** : revue systématique de 5 essais (Alzheimer ou MCI, 125 à 500 mg × 2/j, souvent en association avec d'autres plantes) : tous à risque de biais élevé, aucune différence face au placebo ou au donépézil, certitude très faible [A, très faible certitude] (PMID 35612544).\n- **France** : plante autorisée dans les compléments (arrêté du 24 juin 2014, annexe I), donc vendue librement ; pas d'allégation de santé UE trouvée.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "La plante contient des alcaloïdes, des saponines et des cucurbitacines ; les études animales rapportent une réduction de symptômes et une neuroprotection [C] (PMID 40507208, revue narrative). Mécanisme chez l'humain : [?]. Dans l'ECR de 2025, les marqueurs sanguins (BDNF, malondialdéhyde, activité de l'acétylcholinestérase) n'ont pas différé du placebo (PMID 41091332).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Cognition de l'adulte sain, ≥ 12 semaines | 9 ECR, 518 sujets ; Trail B −17,9 (−24,6 à −11,2), temps de réaction au choix −10,6 ms (−12,1 à −9,2) ; les auteurs concluent à un effet sur la « vitesse d'attention » et réclament un essai comparatif sur médicament de référence (PMID 24252493) | [A, petits essais] |\n| Mémoire (rappel libre) | 6 ECR de 12 semaines, 300–450 mg/j : amélioration de 9 tests sur 17 de rappel libre ; « peu de preuves » dans les autres domaines ; tests hétérogènes (PMID 22747190) | [A, petits essais] |\n| Plaintes de mémoire, 40–70 ans | 101 participants, 12 semaines, 300 mg/j : critères principaux nuls (p=0,391 ; 0,713 ; 0,610) ; réduction de la « réactivité au stress » auto-déclarée (p=0,03) en critère secondaire (PMID 41091332) | [B, ECR unique n=101] |\n| Sujet âgé sain (≥ 65 ans, moyenne 73,5 ans) | 54 randomisés, 48 terminent ; 300 mg/j ; rappel différé (AVLT) et Stroop meilleurs que le placebo, pas d'effet sur l'attention divisée ni la mémoire de travail (PMID 18611150) | [B, ECR unique n=54] |\n| Comparaison avec le ginkgo (adultes sains) | 29 ECR, 2 107 sujets ; ≥ 600 mg/j de bacopa : mémoire de travail SMD 1,84 (1,05–2,64) vs bacopa faible dose, 2,03 (1,28–2,78) vs placebo ; SUCRA 100 % ; pas de différence sur attention soutenue ni vitesse de traitement ; pas de comparaison directe entre les deux plantes (PMID 41678913). Le SUCRA est une probabilité de rang, pas un effet mesuré | [A, faible certitude] |\n| Réseau de méta-analyse chez le sujet âgé sain | « Bacopa monnieri compound » en tête (SUCRA 91,3 %) pour la fonction exécutive, en tête de 10 substances végétales ; seulement 25 études, 1 861 sujets (PMID 41640686) | [A, faible certitude] |\n| Maladie d'Alzheimer / MCI | 5 essais (dont 3 avec association de plantes, 2 face au donépézil), 125–500 mg × 2/j ; MMSE, ADAS-Cog, échelles de mémoire : qualité très faible, tous à risque de biais élevé ; pas de différence face au placebo ou au donépézil ; pas de problème de sécurité majeur rapporté (PMID 35612544) | [A, très faible certitude] |\n| MCI, ECR unique | 62 patients, 160 mg/j pendant 2 mois : résumé incohérent sur le score cognitif global (p=0,939 et 0,661 aux deux premiers points, p=0,029 au « troisième ») ; attention et fluence verbale meilleures ; sommeil inchangé ; je ne tire pas de conclusion (PMID 38538390) | [B, ECR unique n=62] |\n\nTDAH, anxiété, dépression : [?] cherchés (PubMed, méta-analyses « Bacopa + TDAH/anxiété/dépression ») : seules des revues générales sur les plantes ; aucune méta-analyse dédiée à la bacopa retrouvée, non lues plus loin (PMID 40507208 pour l'état des lieux).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Étudié** : 300–450 mg/j d'extrait standardisé en une ou deux prises, pendant ≥ 12 semaines (PMID 22747190) ; la méta-analyse en réseau compare ≥ 600 mg/j et 300 à < 600 mg/j (PMID 41678913). Plusieurs extraits différents (ex. Bacumen®, CDRI 08) ont été testés ; leurs résultats ne sont pas interchangeables.\n- Autres doses : 160 mg/j pendant 2 mois en MCI (PMID 38538390) ; 125 à 500 mg × 2/j en Alzheimer (PMID 35612544).\n- **Vendu** : poudres et gélules à teneur en bacosides très variable ; teneurs des produits du marché français : [?] non relevées (aucune fiche produit dans le dépôt, aucune source officielle de teneur ; les marques ne sont pas une preuve).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Gélules, poudre, extraits ; produit ayurvédique classique.\n- **France** : *Bacopa monnieri* (L.) Wettst., « toutes parties », figure à l'annexe I de l'arrêté du 24 juin 2014 (plantes autorisées dans les compléments alimentaires), (Légifrance, JORFTEXT000029254516). Annexe I relue sur Légifrance, texte affiché « en vigueur au 14 octobre 2026 » sans texte modificatif listé : « toutes parties », famille Plantaginaceae (Légifrance, consulté le 2026-10-14).\n- **Allégation de santé UE** : aucune allégation autorisée trouvée dans l'édition 2013 du registre (relue) ; édition en ligne actuelle : [?] inaccessible depuis cet environnement.\n- **AMA** : non nommée dans la Liste des interdictions 2026 (recherche par nom, fichier du 2026-10-13).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Digestif** : troubles gastro-intestinaux surtout ; 9 événements (bacopa) vs 10 (placebo), « surtout des maux d'estomac », dans l'essai de 54 sujets âgés (PMID 18611150) ; plus fréquents sous bacopa dans l'essai de 101 sujets (p=0,024) (PMID 41091332).\n- La revue de 2025 mentionne des interactions médicamenteuses possibles et une précaution en cas d'hyperthyroïdie, sans détail dans le résumé (PMID 40507208). Revue rétrospective de 1 816 déclarations d'effets indésirables (adaptogènes + antidépresseurs) : cas isolés avec la bacopa (agomélatine : dorsalgie et hyperhidrose ; moclobémide : infarctus du myocarde), causalité non établie ; les auteurs invoquent une inhibition possible des CYP et de la P-gp [B, séries de cas] (PMID 37829299).\n- Grossesse, allaitement : la même revue demande des recherches supplémentaires chez ces femmes ; avis médical avant usage (PMID 40507208).\n- Atteinte hépatique, interactions avec les anticholinestérasiques ou les médicaments sédatifs : [?] recherchés dans PubMed (« Bacopa + liver / interaction / safety ») ; aucune étude dédiée, aucune monographie EMA/HMPC retrouvée pour la bacopa.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Aucune fiche produit.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Mémoire spectaculaire en quelques jours »** : les effets étudiés demandent 12 semaines, sont petits et absents dans l'essai le plus récent (PMID 41091332) [B, ECR unique n=101].\n- **« Prouvé par des dizaines d'essais »** : les méta-analyses regroupent de 6 à 9 petits ECR, plusieurs extraits, des tests différents (PMID 24252493, 22747190) [A, petits essais].\n- **« Naturel donc sans risque »** : plus d'effets digestifs que le placebo dans le plus récent ECR (PMID 41091332) [B, ECR unique n=101].\n\nÀ voir aussi : [Déclin cognitif et neurodégénérescence](fiche:declin-cognitif-et-neurodegenerescence) · [ginkgo](fiche:ginkgo) · [ashwagandha](fiche:ashwagandha) · [L-théanine](fiche:l-theanine) · [caféine](fiche:cafeine) · [rhodiola](fiche:rhodiola).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 24252493 — Kongkeaw C et al., *J Ethnopharmacol* 2014. doi:10.1016/j.jep.2013.11.008 (résumé relu).\n- PMID 22747190 — Pase MP et al., *J Altern Complement Med* 2012. doi:10.1089/acm.2011.0367 (résumé relu).\n- PMID 41091332 — Lopresti AL et al., *Clin Drug Investig* 2025. doi:10.1007/s40261-025-01492-1 (résumé relu ; financement non lu).\n- PMID 18611150 — Calabrese C et al., *J Altern Complement Med* 2008. doi:10.1089/acm.2008.0018 (résumé relu).\n- PMID 41678913 — Tiemtad P et al., *Phytomedicine* 2026. doi:10.1016/j.phymed.2026.157915 (résumé relu).\n- PMID 41640686 — Feng X et al., *Front Pharmacol* 2026. doi:10.3389/fphar.2025.1672171 (résumé relu).\n- PMID 35612544 — Basheer A et al., *Interact J Med Res* 2022. doi:10.2196/38542 (résumé relu).\n- PMID 38538390 — Delfan M et al., *Explore (NY)* 2024. doi:10.1016/j.explore.2024.02.008 (résumé relu).\n- PMID 37829299 — Siwek M et al., *Front Pharmacol* 2023. doi:10.3389/fphar.2023.1271776 (résumé relu).\n- PMID 40507208 — Gościniak A et al., *Nutrients* 2025. doi:10.3390/nu17111939 (résumé relu, revue narrative).\n- Arrêté du 24 juin 2014 établissant la liste des plantes, autres que les champignons, autorisées dans les compléments alimentaires, annexe I (NOR ERNC1406332A), Légifrance, legifrance.gouv.fr/loda/id/JORFTEXT000029254516, texte affiché « en vigueur au 14 octobre 2026 » sans texte modificatif listé ; entrée Bacopa monnieri relue par nom de plante, consulté le 2026-10-14.\n- Liste des interdictions AMA 2026, recherche par nom, fichier du 2026-10-13.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Bacopa (Bacopa monnieri, brahmi)",
+ "type": "actif",
+ "unite": ""
+}

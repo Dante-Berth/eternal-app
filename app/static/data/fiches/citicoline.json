@@ -1,0 +1,79 @@
+{
+ "cibles": [
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "citicoline",
+ "intro": "",
+ "liens": [
+  "alpha-gpc",
+  "cafeine",
+  "creatine",
+  "declin-cognitif-et-neurodegenerescence",
+  "omega-3",
+  "phosphatidylserine"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "22691567",
+  "32860632",
+  "36678257",
+  "25046515",
+  "37768938",
+  "12468781",
+  "27234918",
+  "41426989",
+  "42538853"
+ ],
+ "preuve_globale": "A",
+ "resume": "AVC aigu : échec. Le plus gros essai (ICTUS, 2 298 patients) est arrêté pour futilité, récupération à 90 jours OR 1,03 (IC 0,86–1,25) [B, ECR unique n=2298] (PMID 22691567). La Cochrane 2020 (10 ECR, 4 281 participants, tous à risque de biais élevé, 6 financés par l'industrie) ne trouve aucune di…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **AVC aigu : échec.** Le plus gros essai (ICTUS, 2 298 patients) est arrêté pour futilité, récupération à 90 jours OR 1,03 (IC 0,86–1,25) [B, ECR unique n=2298] (PMID 22691567). La Cochrane 2020 (10 ECR, 4 281 participants, tous à risque de biais élevé, 6 financés par l'industrie) ne trouve aucune différence sur la mortalité (RR 0,94 ; 0,83–1,07), preuve de faible qualité [A, faible certitude] (PMID 32860632).\n- **Démence et troubles cognitifs légers** : une méta-analyse de 6 études donne un SMD de 0,56 (0,37–0,75) à 1,57 (0,77–2,37) selon l'analyse de sensibilité, mais les auteurs jugent la qualité des études « pauvre » avec un biais en faveur de l'intervention [A, faible certitude] (PMID 36678257). Un effet de cette taille sur un complément est suspect, pas rassurant.\n- **Adulte en bonne santé** : un seul ECR cité ici (60 sujets, boisson citicoline + caféine, plusieurs tests d'attention) ; l'effet propre de la citicoline n'est pas séparable de la caféine [B, ECR unique n=60] (PMID 25046515).\n- **Glaucome** : revue systématique de 10 études (424 patients), aucune différence sur la pression intra-oculaire, le champ visuel, la couche de fibres nerveuses ni l'ERG [B, revue systématique] (PMID 37768938).\n- **France/UE** : nouvel aliment autorisé en 2014 pour les compléments, ≤ 500 mg/j, adultes uniquement (voir « Formes disponibles et statut »).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Précurseur de la phosphatidylcholine (choline + cytidine) ; l'hypothèse est un soutien de la membrane neuronale et de l'acétylcholine. Preuve de ce mécanisme chez l'humain à dose orale : [?] aucune source lue. L'argument « neuroprotecteur » vient de l'AVC, précisément l'indication où l'essai décisif a échoué (PMID 22691567).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| AVC ischémique aigu | ICTUS : OR 1,03 (0,86–1,25) ; pas de différence de sécurité. Cochrane 2020 : mortalité 17,3 % vs 18,5 % (RR 0,94 ; 0,83–1,07), handicap Rankin RR 1,11 (0,97–1,26) ; aucun essai ne mesure la qualité de vie (PMID 22691567, 32860632) | [A, faible certitude] |\n| AVC : analyses « positives » antérieures | Analyse poolée de données individuelles de 4 essais oraux : récupération 25,2 % vs 20,2 %, OR 1,33 (1,10–1,62) ; la recherche des essais inclut la base bibliographique du groupe Ferrer, fabricant (PMID 12468781). Méta-analyse 2016 : OR 1,56 (1,12–2,16) en effets aléatoires ; premier auteur et dernier auteur affiliés au laboratoire fabricant (Ferrer) (PMID 27234918). Ces résultats sont ceux qu'ICTUS devait confirmer et n'a pas confirmés | [A, contradictoire] |\n| Déclin cognitif, MCI, démence vasculaire | 7 études dont 6 poolées, SMD 0,56 (0,37–0,75) à 1,57 (0,77–2,37) ; qualité faible ; seules 2 des 7 études sont des ECR, les autres cas-témoins ou ouvertes, en ajout à un anticholinestérasique (texte intégral) (PMID 36678257) | [A, faible certitude] |\n| Comparaison avec l'alfoscerate (démence) | 3 ECR, 358 participants : l'[alpha-GPC](fiche:alpha-gpc) est meilleur que la citicoline sur le SCAG (WMD −3,92 ; −7,41 à −0,42), sans différence sur mémoire ni fluence (PMID 41426989) | [A, 3 ECR] |\n| Troubles psychiatriques (TDAH, humeur, addictions, schizophrénie) | Revue systématique de 11 études (citicoline ou [phosphatidylsérine](fiche:phosphatidylserine)) : résultats hétérogènes, « ne soutient pas » un usage comme activateur cognitif (PMID 42538853) | [A, non concluant] |\n| Glaucome | 10 études, 424 patients, aucune différence sur PIO, MD 24-2, RNFL, PERG (PMID 37768938) | [B, revue systématique] |\n| Sujet sain, attention | Boisson citicoline + caféine, 60 adultes : temps de réaction, erreurs go/no-go, vitesse de traitement meilleurs que le placebo ; effet de la caféine non isolé (PMID 25046515) | [B, ECR unique n=60] |\n\nTroubles cognitifs légers de la maladie de Parkinson (un ECR de 81 patients à 200 mg × 3/j, cité dans la revue PMID 36678257), trauma crânien, mémoire de l'adulte sain : [?] non recherchés plus loin ; aucune méta-analyse lue.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Étudié** : 500 à 2 000 mg/j, par voie orale, en AVC aigu ; ICTUS : 1 000 mg toutes les 12 h par voie intraveineuse 3 jours, puis 2 × 500 mg par voie orale pendant 6 semaines (PMID 22691567). Études cognitives chroniques (texte intégral de PMID 36678257, PMC9866349) : 1 000 mg/j par voie orale dans la plupart, 500 mg 2 fois par jour dans une étude ouverte, 200 mg 3 fois par jour dans un essai randomisé en Parkinson ; sur les 7 études, **2 seulement sont des ECR** ; les autres sont des cas-témoins ou ouvertes, souvent en **ajout** à un anticholinestérasique, ce qui aggrave le biais. Dose de l'ECR citicoline-caféine (PMID 25046515) : [?] absente du résumé, texte intégral non libre. Doses des ECR AVC : 500, 1 000 et 2 000 mg/j par voie orale, 2 000 mg donnant l'écart le plus net (récupération 27,9 %, OR 1,38 ; 1,10–1,72) (PMID 12468781) ; Cochrane : 500 à 2 000 mg/j (PMID 32860632).\n- **Vendu** : plafond UE de 500 mg/j en complément (voir ci-dessous) : un quart de la dose haute étudiée en AVC. Teneurs des produits du marché français : [?] non relevées.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Gélules, poudre, boissons « focus ».\n- **UE** : nouvel aliment autorisé par la décision d'exécution 2014/423/UE du 1er juillet 2014 : ≤ 500 mg/j en compléments alimentaires, ≤ 250 mg par portion dans les aliments destinés à des fins médicales spéciales, mention « citicoline » à l'étiquetage, interdit dans les denrées pour enfants (EUR-Lex, consulté le 2026-10-14). Modifications ultérieures du statut : [?] non recherchées.\n- **France** : aucune spécialité contenant de la citicoline dans la base de composition de la BDPM, donc pas d'AMM en cours (BDPM, consulté le 2026-10-14). Elle est donc vendue comme complément alimentaire dans le cadre de l'autorisation Novel Food ci-dessus. Contrôles DGCCRF/ANSES propres à la citicoline : [?] aucun trouvé (recherche web).\n- **AMA** : la citicoline n'est pas nommée dans la Liste des interdictions 2026 (recherche par nom dans le PDF, fichier du 2026-10-13).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- ICTUS : pas de différence significative sur les événements indésirables ni sur les critères de sécurité (PMID 22691567). Cochrane : événements cardiovasculaires graves RR 1,04 (0,84–1,29) ; les effets indésirables sont « mal rapportés » et la sécurité « reste inconnue » à long terme [A, faible certitude] (PMID 32860632).\n- Enfants : exclus du périmètre autorisé en UE (décision 2014/423/UE).\n- Grossesse, allaitement, interactions médicamenteuses (cholinergiques, anticholinergiques, lévodopa) : [?] aucun RCP européen ni monographie officielle retrouvés (absente de la BDPM ; la décision 2014/423/UE ne traite pas des interactions). Des notices de pays tiers évoquent une potentialisation de la lévodopa et l'association déconseillée au méclofénoxate ; source non retenue (notices commerciales, non vérifiables), à discuter avec un médecin ou un pharmacien chez les parkinsoniens.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Aucune fiche produit.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Neuroprotecteur après AVC ou traumatisme »** : l'essai décisif est négatif (OR 1,03) ; la Cochrane parle de « peu ou pas de différence » (PMID 22691567, 32860632) [A, faible certitude].\n- **« Booster de mémoire »** : l'effet cognitif repose sur des études de démence de faible qualité, pas sur des adultes sains [A, faible certitude] (PMID 36678257). Pour le sujet sain : un seul essai associé à la caféine.\n- **« Protège la vision (glaucome) »** : aucune différence mesurable sur 10 études (PMID 37768938) [B].\n\nÀ voir aussi : [Déclin cognitif et neurodégénérescence](fiche:declin-cognitif-et-neurodegenerescence) · [alpha-GPC](fiche:alpha-gpc) · [phosphatidylsérine](fiche:phosphatidylserine) · [caféine](fiche:cafeine) · [oméga-3](fiche:omega-3) · [créatine](fiche:creatine).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 22691567 — Dávalos A et al., ICTUS, *Lancet* 2012. doi:10.1016/S0140-6736(12)60813-7 (résumé relu).\n- PMID 32860632 — Martí-Carvajal AJ et al., *Cochrane Database Syst Rev* 2020. doi:10.1002/14651858.CD013066.pub2 (résumé relu).\n- PMID 12468781 — Dávalos A et al., *Stroke* 2002. doi:10.1161/01.str.0000038691.03334.71 (résumé relu).\n- PMID 27234918 — Secades JJ et al., *J Stroke Cerebrovasc Dis* 2016. doi:10.1016/j.jstrokecerebrovasdis.2016.04.010 (résumé relu ; auteurs affiliés au groupe Ferrer).\n- PMID 36678257 — Bonvicini M et al., *Nutrients* 2023. doi:10.3390/nu15020386 (résumé relu).\n- PMID 41426989 — Sagaro GG, Amenta F, *Front Neurol* 2025. doi:10.3389/fneur.2025.1649661 (résumé relu).\n- PMID 42538853 — Kucuksahin NG et al., *Hum Psychopharmacol* 2026. doi:10.1002/hup.70058 (résumé relu).\n- PMID 37768938 — Prinz J et al., *PLoS One* 2023. doi:10.1371/journal.pone.0291836 (résumé relu).\n- PMID 25046515 — Bruce SE et al., *Int J Food Sci Nutr* 2014. doi:10.3109/09637486.2014.940286 (résumé relu).\n- Décision d'exécution 2014/423/UE de la Commission du 1er juillet 2014 autorisant la mise sur le marché de la citicoline en tant que nouvel ingrédient alimentaire — EUR-Lex, CELEX 32014D0423, consulté le 2026-10-14.\n- Liste des interdictions AMA 2026, recherche par nom, fichier du 2026-10-13.\n- BDPM, fichier de composition des spécialités (CIS_COMPO_bdpm.txt, base-donnees-publique.medicaments.gouv.fr/download/file/CIS_COMPO_bdpm.txt), recherche par nom de substance (citicoline), consulté le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Citicoline (CDP-choline)",
+ "type": "actif",
+ "unite": ""
+}

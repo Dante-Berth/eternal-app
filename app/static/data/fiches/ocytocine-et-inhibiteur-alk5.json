@@ -1,0 +1,80 @@
+{
+ "cibles": [
+  "longevite",
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-21",
+ "famille": "peptide",
+ "id": "ocytocine-et-inhibiteur-alk5",
+ "intro": "",
+ "liens": [
+  "exercice-physique",
+  "inhibiteurs-de-la-myostatine-et-de-lactivine",
+  "ocytocine-intranasale",
+  "sarcopenie"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "40848270",
+  "41297427",
+  "24915299",
+  "42370962",
+  "42481476",
+  "39191755",
+  "38363333"
+ ],
+ "preuve_globale": "C",
+ "resume": "Combinaison expérimentale d'ocytocine (OT, hormone qui baisse avec l'âge) et d'un inhibiteur d'ALK5 (A5i, bloque le récepteur de type I du TGF-β, voie pro-fibrotique augmentée avec l'âge). Étude de l'équipe Conboy (UC Berkeley, 2025) : chez des souris mâles fragiles de 25 mois (~75 ans humains se…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Combinaison expérimentale d'**ocytocine** (OT, hormone qui baisse avec l'âge) et d'un **inhibiteur d'ALK5** (A5i, bloque le récepteur de type I du TGF-β, voie pro-fibrotique augmentée avec l'âge). Étude de l'équipe Conboy (UC Berkeley, 2025) : chez des souris mâles **fragiles de 25 mois** (~75 ans humains selon les auteurs), +73 % de survie **à partir du début du traitement** et +14 % de durée de vie médiane globale, avec meilleures performances physiques, endurance et mémoire à court terme [C] (PMID 40848270).\n- **Pas de gain chez la femelle** : bénéfice seulement chez les mâles ; chez les femelles âgées, le protéome sanguin ne se « normalise » plus après 4 mois, avec un effet positif sur la fertilité à l'âge moyen [C] (PMID 40848270).\n- **Aucune donnée humaine** sur la combinaison dans le vieillissement [?]. Une seule étude, un seul laboratoire, souris consanguines C57BL/6 ; pas de réplication indépendante trouvée. Irina Conboy, dernière auteure, figure avec une adresse e-mail d'entreprise (generationlab.co) dans l'étude cachexie voisine (PMID 41297427) : lien financier possible avec la combinaison, non vérifié [?].\n- Lire « +73 % » avec prudence : c'est un gain **depuis l'entrée dans l'étude** chez des animaux déjà très âgés, pas +73 % de durée de vie totale (+14 % de médiane globale).\n- Le raccourci « les deux molécules sont déjà accessibles donc on peut les prendre » est faux : l'ocytocine est approuvée pour l'obstétrique, pas pour le vieillissement, et le vactosertib n'a aucune autorisation (voir statut).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Ocytocine** : hormone circulante dont le taux plasmatique baisse avec l'âge chez la souris ; indispensable à l'entretien et à la régénération du muscle ; son administration systémique améliore rapidement la régénération du muscle âgé en activant les cellules souches musculaires via la voie MAPK/ERK ; son absence génétique provoque une sarcopénie prématurée [C] (PMID 24915299).\n- **A5i** : bloque la voie TGF-β/ALK5, qui régule des facteurs inflammatoires dont l'IL-11 [C] (PMID 40848270).\n- Hypothèse des auteurs : calibrer **simultanément** deux voies qui changent en sens opposé avec l'âge serait plus efficace qu'une seule. L'étude dit avoir testé cette idée, pas l'avoir démontrée chez l'humain.\n- Résultat de protéomique : 7 jours de traitement « restaurent » des déterminants de signalisation systémiques et réduisent le « bruit protéique » chez les deux sexes [C] (PMID 40848270). Un changement de protéome sanguin n'est pas un résultat clinique.",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Durée de vie, souris mâles fragiles de 25 mois | +73 % de survie depuis le début du traitement, +14 % de médiane globale ; meilleure performance physique, endurance, mémoire | [C] (PMID 40848270) |\n| Souris femelles | Pas de bénéfice de santé ou de survie rapporté ; amélioration de la fertilité à l'âge moyen | [C] (PMID 40848270) |\n| Ocytocine seule, régénération musculaire | Souris âgées : régénération améliorée ; déficit en ocytocine = sarcopénie prématurée | [C] (PMID 24915299) |\n| Ocytocine seule, cachexie cancéreuse | Modèle murin C26 : masse musculaire restaurée (>1,5×) ; chez des patients, ocytocine circulante −60 % dans le cancer vs maladies non cancéreuses | [C] et [B, effectifs non relus] (PMID 41297427) |\n| Revue : sarcopénie, hormones et sexe | Revue narrative (apeline, insuline, ocytocine) : moins de 30 % des études sur le vieillissement musculaire rapportent des résultats par sexe ; le texte est cohérent avec un effet différent selon le sexe, sans essai humain | [?] (PMID 42370962) |\n| Ocytocine, muscle ou sarcopénie chez l'humain | Aucun essai trouvé dans cette recherche | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet (règle 7 : pas de posologie, pas de voie d'administration). Aucun produit combiné n'existe sur le marché légal.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Ocytocine injectable** : médicament obstétrical hospitalier. Utilisation pour le vieillissement : hors cadre, sans donnée.\n- **Spray nasal d'ocytocine** : sans AMM en France ; voir [ocytocine intranasale](fiche:ocytocine-intranasale). Rien ne montre qu'une voie nasale atteindrait les concentrations systémiques des expériences murines [?].\n- **Vactosertib (inhibiteur oral d'ALK5, MedPacto)** : substance expérimentale, **en essais de cancérologie uniquement** : phase Ib/IIa avec pembrolizumab dans le cancer colorectal ou gastrique non MSI-high (120 patients en analyse de sécurité, effets indésirables liés au traitement chez 70,8 %, surtout prurit et éruption cutanée) (PMID 42481476) ; phase Ib avec pomalidomide dans le myélome (PMID 39191755) ; phase Ib/II avec imatinib dans les tumeurs desmoïdes (27 patients évalués ; neutropénie 22,2 % et anémie 18,5 % de grade 3-4) (PMID 38363333). Ce sont des patients atteints de cancer sous traitements lourds : on ne peut pas en déduire la sécurité chez un adulte sain âgé.\n- Statut réglementaire du vactosertib en France/UE, statut AMA : non recherchés [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **TGF-β** : voie qui freine aussi la prolifération cellulaire ; la bloquer au long cours chez un sujet sain est un pari. Les effets sur le long terme (cardiaques, cutanés, cicatrisation, cancer) chez l'humain sain : aucune donnée trouvée [?].\n- Ocytocine : effet utérotonique ; autres effets au long cours : voir [ocytocine intranasale](fiche:ocytocine-intranasale).\n- Effet spécifique au sexe chez la souris : une extrapolation « les hommes peuvent en prendre » ne repose sur rien d'humain [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « +73 % de durée de vie » : gain de survie depuis un âge avancé chez la souris mâle, pas un résultat humain, pas une durée de vie totale [C].\n- « Les composés sont déjà accessibles cliniquement » : seule l'ocytocine a une AMM, dans une autre indication ; l'inhibiteur d'ALK5 n'existe qu'en essais de cancérologie.\n- « Mâles = plus simples » : l'étude illustre l'inverse, la réponse dépend du sexe pour des raisons mal comprises.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Sarcopénie : bilan fonctionnel et nutritionnel, voir [sarcopénie](fiche:sarcopenie) ; musculation et apport protéique restent les leviers à preuve humaine ([exercice physique](fiche:exercice-physique)).\n- Inhibition de la voie myostatine/activine (aussi TGF-β) : seulement en essais cliniques, voir [inhibiteurs de la myostatine et de l'activine](fiche:inhibiteurs-de-la-myostatine-et-de-lactivine).\n- Un essai clinique encadré est la seule voie légitime pour tester la combinaison. Pas de protocole, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Kato C et al. *Aging (Albany NY)* 2025 — PMID 40848270 — [DOI](https://doi.org/10.18632/aging.206304) (résumé relu)\n2. Elabd C et al. *Nat Commun* 2014 — PMID 24915299 — [DOI](https://doi.org/10.1038/ncomms5082) (résumé relu)\n3. Sviercovich A et al. *Biomed Pharmacother* 2025 — PMID 41297427 — [DOI](https://doi.org/10.1016/j.biopha.2025.118825) (résumé relu)\n4. Menard R, Madelaine R. *Aging (Albany NY)* 2026 — PMID 42370962 — [DOI](https://doi.org/10.18632/aging.206392) (résumé relu)\n5. Lee KW et al. *Nat Commun* 2026 — PMID 42481476 — [DOI](https://doi.org/10.1038/s41467-026-75595-4) (résumé relu)\n6. Malek E et al. *Nat Commun* 2024 — PMID 39191755 — [DOI](https://doi.org/10.1038/s41467-024-51442-2) (résumé relu)\n7. Ahn JH et al. *Clin Cancer Res* 2024 — PMID 38363333 — [DOI](https://doi.org/10.1158/1078-0432.CCR-23-2823) (résumé relu)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "Ocytocine + inhibiteur d'ALK5 (OT+A5i) : « rajeunissement » chez la souris âgée",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,95 @@
+{
+ "cibles": [
+  "peau",
+  "sens-bouche"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "astaxanthine",
+ "intro": "",
+ "liens": [
+  "recuperation-musculaire",
+  "sports-research-astaxanthin-triple-strength-12-mg",
+  "vue-dmla-et-cataracte"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 27,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42100673",
+  "39064656",
+  "34578794",
+  "40761858",
+  "42197030",
+  "38243785",
+  "41714744",
+  "33783748",
+  "42177227",
+  "35719159",
+  "32202443",
+  "29941810",
+  "42426781",
+  "35091276",
+  "41710469",
+  "33998846",
+  "35631193",
+  "40014233",
+  "34376917",
+  "41515122",
+  "32120794",
+  "33375429",
+  "41714661",
+  "32874213",
+  "41346945",
+  "41346946",
+  "38892705"
+ ],
+ "preuve_globale": "A",
+ "resume": "Caroténoïde (xanthophylle) rouge, extrait surtout de la microalgue *Haematococcus pluvialis*. Pas de bénéfice net démontré sur un critère clinique dur : les méta-analyses d'ECR montrent surtout des marqueurs (lipides, glycémie, CRP, CK, MDA) ou des effets petits et inégaux.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Caroténoïde (xanthophylle) rouge, extrait surtout de la microalgue *Haematococcus pluvialis*. Pas de bénéfice net démontré sur un critère clinique dur : les méta-analyses d'ECR montrent surtout des **marqueurs** (lipides, glycémie, CRP, CK, MDA) ou des effets petits et inégaux.\n- **Lipides/glycémie** : baisse modeste du LDL, des triglycérides, de la glycémie à jeun et de l'HbA1c, surtout chez diabétiques/prédiabétiques [A, petits essais hétérogènes] (PMID 42100673, 39064656).\n- **Peau** : hydratation et élasticité un peu mieux que placebo ; rides non significatives [A, contradictoire] (PMID 34578794, 40761858).\n- **Performance sportive** : aucun gain de VO2max, de contre-la-montre ni de puissance ; baisse de la CK après effort [A] (PMID 42197030).\n- **Cognition, fertilité masculine** : non démontré chez l'humain [A] (PMID 38243785, 41714744). **Longévité humaine** : aucune donnée trouvée [?].\n- **UE** : complément alimentaire, nouvel aliment (« Novel Food ») autorisé jusqu'à **8 mg d'astaxanthine/jour** (adultes et plus de 14 ans) (règlement d'exécution (UE) 2023/1581, consulté le 2026-10-06). Les produits américains à 12 mg dépassent ce plafond.\n- Presque tous les essais positifs sur la peau et les yeux sont financés ou co-signés par des fabricants d'astaxanthine (voir plus bas).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Pigment lipophile qui s'insère dans la membrane cellulaire sur toute son épaisseur ; piège les radicaux libres et l'oxygène singulet, freine la peroxydation lipidique. Décrit ainsi par une revue d'un auteur de la Société internationale des caroténoïdes (revue narrative, sans données d'essai originales) (PMID 33783748) [D].\n- Voies Nrf2, NF-kB, apoptose : démontrées en cellules et chez l'animal (PMID 42177227, rats vieillis à la D-galactose) [C]. Aucune preuve que ces voies soient modifiées aux doses orales chez l'humain [?].\n- Biodisponibilité : lipophile, mieux absorbée avec un repas gras (affirmation de la marque du produit étudié ; non vérifiée par un essai lu ici [M]).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Peau et photoprotection\n| Résultat | Preuve |\n|---|---|\n| Méta-analyse (9 ECR oraux) : hydratation SMD 0,53 (IC 0,05-1,01), élasticité SMD 0,77 (IC 0,19-1,35), profondeur des rides SMD -0,26 (IC -0,58 à 0,06, non significatif) ; I² jusqu'à 75 % | [A] (PMID 34578794) |\n| Méta-analyse de 40 ECR de compléments contre le photovieillissement : collagène, flavanols, polyphénols efficaces ; caroténoïdes sans bénéfice significatif ; « preuves insuffisantes » pour l'astaxanthine | [A, contradictoire] (PMID 40761858) |\n| Méta-analyse hydratation cutanée : amélioration non significative pour l'astaxanthine | [A] (PMID 35719159) |\n| Revue systématique (11 études dont 6 ECR) : amélioration de texture, rides et hydratation, 3 à 6 mg/j ; échantillons petits, surtout femmes japonaises, nombreux financements commerciaux | [B] (PMID 32202443) |\n| ECR de 10 semaines, 4 mg/j, n=23 : dose érythémale minimale (MED) plus élevée que sous placebo ; auteurs affiliés à FUJIFILM | [B, ECR unique n=23] (PMID 29941810) |\n\nLecture : le « effet photoprotecteur » repose sur un petit essai industriel ; il ne remplace pas la crème solaire. Voir [photoprotection](../../vues/themes/peau.md).\n\n### Performance sportive et récupération\n- 24 ECR (sujets sains et sportifs) : CK en baisse (SMD -0,45, IC -0,83 à -0,07), LDH en baisse (SMD -0,93, forte hétérogénéité) ; aucun effet sur VO2max, contre-la-montre ni puissance maximale ; MDA et IL-6 non significatifs [A] (PMID 42197030).\n- Méta-analyse sur la fatigue, la motricité et la cognition (11 ECR, 346 sujets) : performance physique SMD 0,62 et oxydation des graisses SMD 2,56, surtout avec doses ≥ 20 mg et plus de 12 semaines [A, contradictoire avec la méta-analyse précédente, hétérogène] (PMID 38243785).\n- ECR 28 jours, 12 mg/j, taekwondoïstes : interaction groupe × temps significative pour la CK ; SOD et MDA : résultats exploratoires [B, ECR] (PMID 42426781).\n- Les effets « récupération » restent des marqueurs sanguins ; performance réelle non améliorée dans la méta-analyse la plus récente. Voir [récupération musculaire](fiche:recuperation-musculaire).\n\n### Stress oxydant et inflammation\n- 12 ECR (n=380) : MDA en baisse (SMD -0,95, IC -1,67 à -0,23) ; IL-6 en baisse chez les diabétiques de type 2 (-0,70 pg/mL) [A] (PMID 35091276).\n- 7 ECR à l'effort (n=188) : seul AOPP baisse (SMD -1,06) ; MDA, SOD, CK, IL-6 non significatifs [A] (PMID 41710469).\n- CRP : dans une méta-analyse de 26 essais de caroténoïdes, l'astaxanthine fait baisser la CRP de 0,30 mg/L (IC -0,51 à -0,09) [A] (PMID 33998846). Écart cliniquement minime.\n- Un marqueur sanguin qui baisse ne prouve pas un bénéfice sur la maladie [?].\n\n### Lipides et glycémie\n- 9 ECR, 403 patients prédiabétiques/diabétiques : glycémie à jeun -16,1 mg/dL, HbA1c -0,34 point, LDL -9,4 mg/dL, triglycérides -20,9 mg/dL, HDL +3,0 mg/dL ; HOMA-IR, poids et IMC inchangés [A] (PMID 42100673).\n- Méta-analyse de lipides antioxydants (astaxanthine) : LDL -0,11 mmol/L, cholestérol total -0,22 mmol/L, triglycérides -0,46 mmol/L, HDL +0,13 mmol/L [A] (PMID 39064656).\n- Sujets à risque de syndrome métabolique (7 ECR, n=321) : effets « marginaux » sur le cholestérol total et la tension, effet significatif sur le LDL [A] (PMID 35631193).\n- Aucun critère dur (infarctus, mortalité) [?].\n\n### Yeux et fatigue visuelle\n- Enfants 10-14 ans, 4 mg/j pendant 84 jours (n=64) : score CVS-Q -4,00 vs -1,72 sous placebo ; auteurs affiliés à AstaReal (fabricant) [B, ECR unique n=64] (PMID 40014233).\n- Mélange anthocyane + astaxanthine + lutéine, 6 semaines, n=44 : réponse pupillaire et accommodation meilleures ; produit multi-actifs, auteurs liés à DHC [B] (PMID 34376917).\n- Revue systématique de 9 ECR sur la myopie : bénéfices « modestes » (MPOD, fatigue visuelle) pour les caroténoïdes, pas de réduction cohérente de la progression de la myopie [B] (PMID 41515122).\n- Aucune donnée spécifique à l'astaxanthine seule chez l'adulte lue ici [?].\n\n### Cognition\n- 11 ECR, 346 sujets sains : exactitude cognitive SMD 0,12 (IC -0,02 à 0,26), temps de réaction non significatif [A] (PMID 38243785).\n- Revue de 2 ECR d'astaxanthine : un seul rapporte un gain de mémoire épisodique verbale ; conclusion « difficile » (PMID 32120794) [B].\n- Un ECR à 4 composants (bacopa, lycopène, astaxanthine, B12, n=80, 60 ans et plus) : TMT-B -21 s ; impossible d'attribuer l'effet à l'astaxanthine, financement/auteurs Menarini [B] (PMID 33375429).\n- Prévention du déclin cognitif ou de la démence chez l'humain : [?].\n\n### Fertilité masculine\n- Méta-analyse (3 essais humains, 7 études animales) : aucune amélioration significative des paramètres du sperme chez l'humain ; amélioration nette chez l'animal [A, très faible certitude] (PMID 41714744).\n- Congélation du sperme (astaxanthine ajoutée au milieu, pas par voie orale) : sans lien avec une prise orale (PMID 41714661).\n\n### Longévité\n- Recherche PubMed sur « astaxanthin lifespan longevity » : aucun essai humain sur la mortalité, la durée de vie ou des biomarqueurs de vieillissement trouvé [?].\n- Chez le rat vieilli par D-galactose, effet protecteur sur foie et cerveau [C] (PMID 42177227). Modèle de vieillissement accéléré, non transposable à l'humain.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Études sur la peau : 3 à 6 mg/j (PMID 32202443) ; essai MED : 4 mg/j (PMID 29941810) ; yeux enfants : 4 mg/j (PMID 40014233).\n- Essais sportifs : 4 à 28 mg/j (PMID 41710469) ; 12 mg/j sur 28 jours (PMID 42426781) ; les gains de performance ne ressortent qu'avec ≥ 20 mg dans un sous-groupe (PMID 38243785).\n- Aucune dose-réponse humaine robuste : le choix de 12 mg n'est étayé que par la surenchère commerciale [M].\n- **Vendu** : 4 mg (standard UE), 8 mg, 12 mg (« triple strength ») et jusqu'à 18 mg (annonces de revendeurs lues sur des résultats de recherche, 2026-10-06). Un taux de 12 mg ou plus n'est pas mieux étayé qu'un taux de 4 mg pour la peau ou l'œil.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Complément alimentaire (UE)** : l'oléorésine riche en astaxanthine de *Haematococcus pluvialis* est un nouvel aliment inscrit à la liste de l'Union (règlement d'exécution (UE) 2017/2470). Conditions d'usage : compléments alimentaires, 40 à 80 mg d'oléorésine/jour, soit au plus 8 mg d'astaxanthine/jour, adultes et plus de 14 ans ; 2,3 mg/j pour 3 à moins de 10 ans, 5,6 mg/j pour 10 à moins de 14 ans (règlement d'exécution (UE) 2023/1581 du 1er août 2023 modifiant 2017/2470 ; considérants 4, 5 et 6, texte lu sur EUR-Lex, consulté le 2026-10-06). Le règlement 2023/1581 prévoit un étiquetage contre la prise simultanée de plusieurs compléments à l'astaxanthine (considérant 9).\n- **EFSA** : avis 2020, astaxanthine en compléments à 8 mg/j au maximum, plus l'alimentation (poissons, crustacés) : sûr pour l'adulte ; la dose journalière admissible (DJA) est de 0,2 mg/kg de poids corporel (PMID 32874213). Avis 2025 : l'exposition adulte totale, avec la dose supplémentaire autorisée, est « au niveau de la DJA » (PMID 41346945, 41346946).\n- Un complément à 12 mg/j dépasse donc le plafond de 8 mg du règlement lu. Position de la DGCCRF sur ce point : non consultée [?].\n- **Médicament** : aucun médicament à l'astaxanthine en France (BDPM non interrogée pour cette fiche) [?].\n- **AMA/antidopage** : l'astaxanthine n'est pas citée dans les recherches faites ; la liste 2026 de l'AMA n'a pas pu être lue ici : statut à vérifier sur la liste en vigueur (wada-ama.org, non consultée) [?].\n- **Cosmétique topique** : statut CosIng non vérifié ; preuves topiques limitées à 2 études ouvertes dans la méta-analyse (PMID 34578794) [B].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Pas d'événement indésirable grave dans la revue systématique de 11 études sur la peau (PMID 32202443) [B]. Les études durent surtout de 4 à 12 semaines : tolérance à long terme à doses élevées non documentée [?].\n- **Coloration cutanée orange** (caroténodermie) à forte dose : couramment rapportée mais aucune source lue ici ; marquée [?].\n- **Anticoagulants, antihypertenseurs, immunosuppresseurs** : mises en garde fréquentes sur les pages de marques ; aucune interaction documentée dans les sources PubMed lues [?]. Prudence logique avec les antihypertenseurs, vu l'effet marginal sur la tension (PMID 35631193), et par défaut avec les anticoagulants. Avis médical.\n- **Grossesse, allaitement, enfants** : aucune étude lue sur la grossesse [?]. En UE, les produits à 8 mg sont réservés aux plus de 14 ans ; EFSA 2025 : consommation simultanée de compléments et d'aliments enrichis déconseillée pour enfants et adolescents (PMID 41346945).\n- **Plafond** : un adulte de 70 kg a une DJA de 14 mg/j (0,2 mg/kg × 70 kg, calcul à partir de PMID 32874213), apport alimentaire inclus ; 12 mg en complément laisse peu de marge.\n- **Conflits d'intérêt** : essai MED, auteurs FUJIFILM (PMID 29941810) ; essai oculaire pédiatrique, auteurs AstaReal (PMID 40014233) ; essai Menarini (PMID 33375429), essai Pharmanex (PMID 38892705) ; la revue sur la peau signale elle-même que « many of the studies were funded by commercial entities » (PMID 32202443). Les méta-analyses sportives (PMID 42197030) et métaboliques (PMID 42100673) viennent d'équipes universitaires sans lien déclaré dans les affiliations lues.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Antioxydant 6 000 fois plus puissant que la vitamine C »** : le chiffre vient d'un test d'extinction de l'oxygène singulet en chimiluminescence (Nishida et al., *Carotenoid Science*, 2007), relayé par des sites de marques (recherche web 2026-10-06) ; article d'origine non lu et non indexé dans PubMed [D]. Mesure *in vitro* d'une seule réaction : aucune garantie d'effet chez l'humain. La revue de Yamashita donne d'autres facteurs (« plus de 100 fois » la vitamine E sur la peroxydation lipidique, « environ 550 fois » sur l'oxygène singulet) (PMID 33783748) [D].\n- **« Prévient le vieillissement de la peau »** : hydratation et élasticité un peu améliorées, rides non significatives [A, contradictoire] (PMID 34578794, 40761858).\n- **« Améliore la performance »** : pas de gain de VO2max ni de performance dans la méta-analyse de 24 ECR [A] (PMID 42197030).\n- **« Booste la fertilité »** : pas d'effet significatif sur le sperme chez l'humain [A] (PMID 41714744).\n- **« Protège le cerveau »** : essais humains rares et positifs seulement en association [B] (PMID 32120794, 33375429).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Classement selon CLAUDE.md (preuve de l'actif principal, concentration efficace, prix, tolérance). Un seul produit fiché :\n1. [Sports Research Astaxanthin Triple Strength 12 mg](fiche:sports-research-astaxanthin-triple-strength-12-mg) : même actif, 12 mg (supérieur au plafond UE de 8 mg), produit américain ; une dose de 4 mg suffit pour les effets étudiés sur la peau et les yeux.\n\nVoir aussi : [Vue : DMLA et cataracte](fiche:vue-dmla-et-cataracte).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 34578794 — Zhou X et al., *Nutrients* 2021 (méta-analyse peau). doi:10.3390/nu13092917\n- PMID 40761858 — Yang Q et al., *Front Med* 2025 (compléments, photovieillissement). doi:10.3389/fmed.2025.1582946\n- PMID 35719159 — Sun Q et al., *Front Nutr* 2022 (hydratation cutanée). doi:10.3389/fnut.2022.895192\n- PMID 32202443 — Ng QX et al., *J Diet Suppl* 2020 (revue systématique peau). doi:10.1080/19390211.2020.1739187\n- PMID 29941810 — Ito N et al., *Nutrients* 2018 (ECR MED). doi:10.3390/nu10070817\n- PMID 42197030 — Liu S et al., *Nutrients* 2026 (exercice, méta-analyse). doi:10.3390/nu18101570\n- PMID 38243785 — Liu C et al., *Biol Res Nurs* 2024 (fatigue, cognition, exercice). doi:10.1177/10998004241227561\n- PMID 42426781 — Shu et al., *Nutr J* 2026 (ECR taekwondo, 12 mg). doi:10.1186/s12937-026-01363-1\n- PMID 35091276 — Ma B et al., *Nutr Res* 2021 (stress oxydant). doi:10.1016/j.nutres.2021.09.005\n- PMID 41710469 — You T et al., *3 Biotech* 2026 (stress oxydant à l'effort). doi:10.1007/s13205-026-04730-1\n- PMID 33998846 — Hajizadeh-Sharafabad F et al., *Crit Rev Food Sci Nutr* 2021 (caroténoïdes, inflammation). doi:10.1080/10408398.2021.1925870\n- PMID 42100673 — Molani-Gol R et al., *Nutr Metab Insights* 2026 (glycémie, lipides). doi:10.1177/11786388261432862\n- PMID 39064656 — Wan S et al., *Nutrients* 2024 (lipides antioxydants). doi:10.3390/nu16142213\n- PMID 35631193 — Leung LY et al., *Nutrients* 2022 (syndrome métabolique). doi:10.3390/nu14102050\n- PMID 40014233 — Hecht K et al., *Adv Ther* 2025 (yeux, enfants). doi:10.1007/s12325-025-03125-7\n- PMID 34376917 — Kizawa Y et al., *J Clin Biochem Nutr* 2021 (yeux, mélange). doi:10.3164/jcbn.20-149\n- PMID 41515122 — Martinez-Perez C et al., *Nutrients* 2025 (myopie). doi:10.3390/nu18010004\n- PMID 32120794 — Nouchi R et al., *Nutrients* 2020 (cognition). doi:10.3390/nu12030617\n- PMID 33375429 — Crosta F et al., *Nutrients* 2020 (BLAtwelve). doi:10.3390/nu13010056\n- PMID 38892705 — Lopresti AL et al., *Nutrients* 2024 (mélange vitamine E, astaxanthine, raisin). doi:10.3390/nu16111770\n- PMID 41714744 — Dehpahni MF et al., *Sci Rep* 2026 (fertilité masculine). doi:10.1038/s41598-026-39963-w\n- PMID 41714661 — Babaei Hoolari B et al., *Sci Rep* 2026 (sperme, congélation). doi:10.1038/s41598-026-38070-0\n- PMID 42177227 — Zhang et al., *Sci Rep* 2026 (rats vieillis). doi:10.1038/s41598-026-52939-0\n- PMID 33783748 — Yamashita E, *Adv Exp Med Biol* 2021 (revue). doi:10.1007/978-981-15-7360-6_23\n- PMID 32874213 — EFSA NDA Panel, *EFSA J* 2020 (sécurité, 8 mg/j). doi:10.2903/j.efsa.2020.5993\n- PMID 41346945 — EFSA NDA Panel, *EFSA J* 2025 (farine d'algue). doi:10.2903/j.efsa.2025.9736\n- PMID 41346946 — EFSA NDA Panel, *EFSA J* 2025 (oléorésine, extension d'usage). doi:10.2903/j.efsa.2025.9737\n- Règlement d'exécution (UE) 2023/1581 du 1er août 2023 (JO L 194/5), EUR-Lex, consulté le 2026-10-06. Règlement d'exécution (UE) 2017/2470 (liste de l'Union des nouveaux aliments).\n- Nishida et al., *Carotenoid Science* 2007 : cité par des sites de marques via recherche web, non lu.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Astaxanthine",
+ "type": "actif",
+ "unite": ""
+}

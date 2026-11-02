@@ -1,0 +1,62 @@
+{
+ "cibles": [
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-23",
+ "famille": "alimentation",
+ "id": "regime-carnivore",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "apob-lipides-et-statines",
+  "regime-cetogene-et-pauvre-en-glucides",
+  "regime-paleo"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "34934897",
+  "37231411"
+ ],
+ "preuve_globale": "B",
+ "resume": "Aucun essai randomisé ni méta-analyse trouvé : la seule source relue est une enquête sur les réseaux sociaux [B, enquête autodéclarée sans groupe témoin] (PMID 34934897). L'efficacité est donc non démontrée [?].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Aucun essai randomisé ni méta-analyse trouvé** : la seule source relue est une enquête sur les réseaux sociaux [B, enquête autodéclarée sans groupe témoin] (PMID 34934897). L'efficacité est donc non démontrée [?].\n- **Enquête, 2 029 adultes** (≥ 6 mois de régime) : amélioration de santé déclarée (95 %), peu d'effets indésirables déclarés (< 1 % à 5,5 %), mais **LDL moyen à 172 mg/dL** chez le sous-groupe qui a déclaré ses lipides [B, autodéclaré] (PMID 34934897).\n- **Biais de sélection évident** : répondants recrutés sur les réseaux sociaux, motivés (93 % pour raisons de santé), qui ont tenu le régime ; ceux qui ont abandonné ou ont eu des problèmes ne sont pas dans l'échantillon [B].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Définition de l'enquête** : régime fondé sur les aliments d'origine animale, excluant la plupart ou la totalité des aliments végétaux (PMID 34934897).\n- **Ce que mangent les répondants** : 85 % de la viande rouge au moins une fois par jour ; moins de 10 % des légumes, fruits ou céréales plus d'une fois par mois ; 37 % sans supplément vitaminique (PMID 34934897).\n- **Déclinaisons** (viande rouge seule, avec œufs et laitages, avec poisson, avec quelques végétaux) : non détaillées dans le résumé lu [?]. Le régime n'a pas de définition standard ; les répondants s'auto-identifient comme carnivores.",
+   "titre": "Variantes et contenu"
+  },
+  {
+   "markdown": "Non revérifié [?]. Régime fondé sur les aliments d'origine animale, sans la plupart des végétaux ; on s'attend à une forte restriction en glucides et fibres, comme un cétogène mais sans cadre médical.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Enquête descriptive (Lennerz et al.)\n| Élément | Résultat |\n|---|---|\n| Échantillon | 2 029 adultes, âge médian 44 ans, 67 % d'hommes, durée médiane 14 mois ; 85 % mangent de la viande rouge au moins une fois par jour ; < 10 % mangent légumes, fruits ou céréales plus d'une fois par mois ; 37 % sans supplément vitaminique |\n| Santé déclarée | amélioration globale 95 % ; IMC médian 27,2 → 24,3 ; diabétiques : baisse des médicaments (84-100 %) et de l'HbA1c (0,4 point) |\n| Lipides (sous-groupe) | LDL 172 mg/dL, HDL 68, triglycérides 68 |\n| Symptômes de carence | rares (< 1 % à 5,5 %), digestifs, musculaires, cutanés |\n(PMID 34934897) [B, autodéclaré, sans témoin].\n\nLes auteurs concluent à « peu d'effets indésirables » mais précisent que l'effet sur les facteurs de risque cardiovasculaire est variable et que les effets à long terme restent à étudier (PMID 34934897).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « Le carnivore guérit tout » : les bénéfices viennent de témoignages autodéclarés ; il n'y a pas de groupe témoin, et l'amélioration peut être due à la perte de poids, à l'exclusion des ultra-transformés ou à l'effet placebo [B] (PMID 34934897).\n- « Le cholestérol élevé ne compte pas sur carnivore » : le LDL moyen déclaré est de 172 mg/dL ; la revue parapluie sur les régimes cétogènes montre une hausse du LDL de haute certitude [A] (PMID 37231411). L'effet sur les événements cardiovasculaires en carnivore est non mesuré [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Non couvert par une étude de sécurité : carences potentielles (fibres, vitamine C, folates, magnésium) et risque lié à la consommation élevée de viande rouge et transformée non recherchés ici [?]. Contre-indication probable en cas de maladie rénale, hypercholestérolémie familiale, grossesse : avis médical, non sourcé [?].\n\nStatut réglementaire : sans objet (pattern alimentaire).\n\nVoir aussi : [cétogène et low-carb](fiche:regime-cetogene-et-pauvre-en-glucides) · [paléo](fiche:regime-paleo) · [ApoB, lipides et statines](fiche:apob-lipides-et-statines) · [synthèse alimentation](fiche:alimentation).\n\nLimite de la recherche : deux requêtes PubMed seulement (mots-clés puis titre) ; une revue ou un essai plus récent a pu m'échapper.",
+   "titre": "Sécurité, populations à risque"
+  },
+  {
+   "markdown": "- PMID 34934897 — Lennerz B.S. et al., *Curr Dev Nutr* 2021. doi:10.1093/cdn/nzab133\n- PMID 37231411 — Patikorn C. et al., *BMC Med* 2023 (cétogène, LDL). doi:10.1186/s12916-023-02874-y",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Régime carnivore",
+ "type": "actif",
+ "unite": ""
+}

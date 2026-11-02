@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "cannelle",
+ "intro": "",
+ "liens": [
+  "acide-alpha-lipoique",
+  "berberine",
+  "curcumine",
+  "glycemie-et-prediabete",
+  "vinaigre-de-cidre"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 12,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "37316893",
+  "33123653",
+  "38290699",
+  "37818728",
+  "31425768",
+  "39854533",
+  "29947417",
+  "29661513",
+  "35115937",
+  "25923145",
+  "21462332",
+  "23627682"
+ ],
+ "preuve_globale": "A",
+ "resume": "Épice et complément (poudre, extraits) vendu pour « équilibrer la glycémie ». Les méta-analyses d'ECR chez les diabétiques de type 2 sont favorables mais très hétérogènes ; la méta-analyse des méta-analyses ramène l'effet sur l'HbA1c à −0,10 point (IC −0,17 à −0,03), soit un effet cliniquement fa…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Épice et complément (poudre, extraits) vendu pour « équilibrer la glycémie ». Les méta-analyses d'ECR chez les diabétiques de type 2 sont favorables mais très hétérogènes ; la méta-analyse des méta-analyses ramène l'effet sur l'HbA1c à −0,10 point (IC −0,17 à −0,03), soit un effet cliniquement faible [A, effet faible] (PMID 37316893).\n- Chez les prédiabétiques, seulement de petits ECR de quelques semaines (n = 18 à 54) sur la glycémie ; aucun essai sur l'incidence du diabète [B] (PMID 33123653, 38290699).\n- Le vrai problème est la coumarine, hépatotoxique à forte dose, très présente dans la cannelle de Chine (cassia) et d'Indonésie, beaucoup moins dans la cannelle de Ceylan. L'ANSES estime que 1 600 mg/j de cannelle suffisent à dépasser la limite recommandée pour les compléments, alors que les fabricants recommandent 1 000 à 8 000 mg/j.\n- À éviter en cas de maladie du foie (ANSES).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Composés actifs supposés : cinnamaldéhyde, polyphénols ; effet insulino-sensibilisant et ralentissement de la vidange gastrique proposés dans la littérature sur la glycémie ; mécanisme chez l'humain non démontré par les essais lus [?]. La coumarine, hépatotoxique à forte dose, est un composé naturel de la cannelle, de la fève tonka et du mélilot (ANSES, Vigil'Anses n° 15, 2021).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Diabète de type 2, glycémie, HbA1c | 24 ECR : glycémie à jeun SMD −1,32 (IC −1,77 à −0,87), HOMA-IR SMD −1,32 (−1,77 à −0,87), HbA1c SMD −0,67 (−1,18 à −0,15) ; insuline non modifiée | [A, hétérogénéité probable] (PMID 37818728) |\n| Diabète de type 2 et SOPK, méta-analyse des méta-analyses | 11 méta-analyses : glycémie à jeun −10,93 mg/dL (−16,22 à −5,65), HOMA-IR −0,61, HbA1c −0,10 point (−0,17 à −0,03) | [A, effet faible] (PMID 37316893) |\n| Diabète de type 2 et prédiabète | 16 ECR : glycémie à jeun −0,545 mmol/L (IC −0,910 à −0,18), HOMA-IR −0,714 (−1,388 à −0,04), I² = 83,6-84,4 % ; HbA1c et lipides inchangés | [A, hétérogénéité élevée] (PMID 31425768) |\n| Prédiabète, 12 semaines | 500 mg trois fois par jour vs placebo, 54 adultes : écart de glycémie à jeun de 5 mg/dL (p < 0,05) car la glycémie monte sous placebo ; baisse intragroupe de l'aire sous la courbe de l'HGPO | [B, ECR unique n=54] (PMID 33123653) |\n| Prédiabète et obésité, glucose mesuré en continu | 4 g/j de cannelle pendant 4 semaines, crossover de 18 personnes : glycémie sur 24 h plus basse sous cannelle (p < 0,001) | [B, ECR croisé n=18] (PMID 38290699) |\n| Cholestérol LDL et glycémie, extrait de cannelle de Ceylan (*C. zeylanicum*) | 150 adultes, 1 000 mg/j, 12 semaines : LDL-C non significativement différent (écart ajusté 6,05 mg/dL ; p = 0,161) ; glycémie à jeun −8,59 mg/dL (IC 0,59 à 16,59 ; p = 0,036), surtout chez les diabétiques de type 2 ; « profil de sécurité favorable » | [B, ECR unique n=150] (PMID 39854533) |\n| Incidence du diabète, complications, mortalité | Aucun essai retrouvé | [?] |\n| Cholestérol, tension, poids | Lipides inchangés dans la méta-analyse de Deyno ; autres critères non recherchés | [A, négatif sur les lipides] (PMID 31425768) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais : 1,5 g/j (500 mg × 3) et 4 g/j de poudre dans les essais prédiabète (PMID 33123653, 38290699). Type de cannelle (cassia ou Ceylan) : non précisé dans les résumés des essais prédiabète ; une revue de 2018 note que de nombreux essais cliniques sur *Cinnamomum* décrivent mal ou pas du tout l'espèce, ce qui empêche de généraliser efficacité et sécurité d'une espèce à l'autre (PMID 29947417). Seul l'essai de 2025 sur extrait de Ceylan précise l'espèce (PMID 39854533).\n- Produits vendus : les fabricants recommandent 1 000 à 8 000 mg/j de cannelle, jusqu'à trois mois (ANSES, 2021). Avec une teneur moyenne en coumarine de 3 000 mg/kg pour la cannelle de Chine, cela correspond à 3 à 24 mg de coumarine par jour (calcul de l'ANSES). Pour comparaison, 4 g/j de cannelle de Chine apporteraient environ 12 mg de coumarine (calcul fait ici à partir de la teneur moyenne de l'ANSES), au double de la dose journalière tolérable de 6 mg pour 60 kg.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Épice, aliment (cannelle de Ceylan : *Cinnamomum verum*/*zeylanicum* ; de Chine : *C. cassia* ; d'Indonésie : *C. burmannii*), compléments alimentaires, huiles essentielles de cannelle. Seules des préparations homéopathiques figurent dans la BDPM (Cinnamomum zeylanicum Boiron, consulté le 2026-10-14).\n- Arrêté du 24 juin 2014, annexe I (plantes autorisées en compléments ; texte lu, version consolidée au 15 janvier 2016, modifications postérieures non vérifiées) : *Cinnamomum cassia* (Nees & T.Nees) J.Presl, écorce, feuille, rameau, substances à surveiller « coumarine, estragole » ; *Cinnamomum verum* J. Presl, écorce, feuille, substances à surveiller « méthyleugénol, estragole, coumarine, eucalyptol » ; *C. camphora* est listé séparément (camphre, eucalyptol, safrole). *C. burmannii* (cannelle d'Indonésie) : non trouvé dans l'annexe I lue. La cannelle ne figure ni à la liste de l'Union des nouveaux aliments (règlement d'exécution (UE) 2017/2470, version 2026-08-10, aucune occurrence de « cinnamon »), ni à l'annexe III du règlement (CE) n° 1925/2006 (version 2025-11-26) ; aucune allégation cannelle dans le règlement (UE) n° 432/2012 (version 2025-08-20).\n- Coumarine : l'EFSA a fixé une dose journalière tolérable de 0,1 mg/kg de poids corporel par jour (soit 6 mg pour 60 kg). Il n'existe pas de teneur maximale réglementaire de coumarine dans les compléments alimentaires, alors que des teneurs maximales existent pour les ingrédients alimentaires (règlement (CE) n° 1334/2008). L'ANSES recommande que les compléments n'apportent pas plus de 6 mg de coumarine/j pour un adulte de 60 kg, et moins de 4,8 mg/j en tenant compte de l'exposition alimentaire (INCA3 : jusqu'à 20 % de la DJT), valeur atteinte avec environ 1 600 mg/j de cannelle (ANSES, Vigil'Anses n° 15, novembre 2021, lu le 2026-10-14).\n- AMA : non concerné.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Toxicité de la coumarine : élévation réversible des enzymes hépatiques à forte dose ; atteintes plus graves (cytolyse, insuffisance hépatique) à très forte dose (ANSES, 2021) [B, signalements de vigilance].\n- Vigilance : 66 cas d'effets indésirables liés à des compléments contenant de la coumarine enregistrés par les centres antipoison entre 2006 et février 2020 (79 % avec des huiles essentielles) ; 48 déclarations de nutrivigilance entre 2009 et avril 2019, dont 28 analysées, surtout hépatiques et digestives, plus de la moitié avec des huiles essentielles (ANSES, 2021).\n- L'ANSES déconseille la cannelle en quantité et les compléments contenant de la coumarine aux personnes ayant une maladie du foie ; les huiles essentielles de cannelle appellent une vigilance particulière.\n- Dans les essais, pas d'événement indésirable grave rapporté dans l'essai prédiabète de 12 semaines (PMID 33123653). Revue systématique des événements indésirables (38 essais, 20 cas cliniques, 7 séries, 160 signalements spontanés) : troubles digestifs et réactions allergiques surtout, le plus souvent spontanément résolutifs ; usage médicinal à fortes doses ou longue durée « associé à des effets indésirables significatifs » à surveiller (PMID 29661513) [B, revue de cas et d'essais]. Une revue parapluie de 4 méta-analyses ou revues d'ECR (qualité faible à modérée) ne trouve pas de différence d'effets indésirables vs placebo, indépendamment de la dose (PMID 35115937) [A, qualité faible à modérée].\n- Foie : cas d'hépatite aiguë chez une femme de 73 ans après une semaine de compléments de cannelle, sous statine (résolution à l'arrêt des deux ; statine reprise sans problème) (PMID 25923145) [B, cas unique]. Biodisponibilité de la coumarine : 12 mg ingérés par 24 volontaires, absorption de la coumarine de la poudre de cassia ≈ 56 % contre 63 % pour la coumarine isolée ; la DJT de la coumarine est donc applicable à la cannelle (PMID 21462332) [B, crossover n=24].\n- Interactions avec les antidiabétiques (hypoglycémie), anticoagulants : aucune étude clinique retrouvée dans PubMed (recherche du 2026-10-14) ; grossesse, allaitement : aucune donnée humaine retrouvée [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Régule la glycémie / évite le diabète » : effet moyen sur l'HbA1c de −0,10 point entre les méta-analyses (PMID 37316893) ; aucun essai sur l'incidence du diabète.\n- « Naturel donc sans danger » : 4 g/j de cannelle de Chine apportent environ 12 mg de coumarine, au double de la dose journalière tolérable de 6 mg pour 60 kg (calcul ci-dessus, d'après la teneur moyenne de l'ANSES).\n- « La cannelle de supermarché est sûre » : le nom « cassia » est rarement utilisé sur les étiquettes, où diverses cassias sont vendues comme « cannelle » (PMID 29947417) ; dans une analyse de compléments de cannelle américains, la coumarine était détectée dans tous les échantillons et le profil évoquait de la cassia d'Indonésie, alors que *C. verum* n'en contient que des traces (PMID 23627682) [B, analyse de produits].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour. Voir aussi [glycémie et prédiabète](fiche:glycemie-et-prediabete), [berbérine](fiche:berberine), [vinaigre de cidre](fiche:vinaigre-de-cidre), [curcumine](fiche:curcumine), [acide alpha-lipoïque](fiche:acide-alpha-lipoique).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Moridpour et al. *Phytother Res* 2024 — PMID 37818728 — [DOI](https://doi.org/10.1002/ptr.8026)\n2. Zarezadeh et al. *Diabetol Metab Syndr* 2023 — PMID 37316893 — [DOI](https://doi.org/10.1186/s13098-023-01057-2)\n3. Deyno et al. *Diabetes Res Clin Pract* 2019 — PMID 31425768 — [DOI](https://doi.org/10.1016/j.diabres.2019.107815)\n4. Romeo et al. *J Endocr Soc* 2020 — PMID 33123653 — [DOI](https://doi.org/10.1210/jendso/bvaa094)\n5. Zelicha et al. *Am J Clin Nutr* 2024 — PMID 38290699 — [DOI](https://doi.org/10.1016/j.ajcnut.2024.01.008)\n6. ANSES, Vigil'Anses n° 15, novembre 2021, « Coumarine et cannelle » (avis NUT2018SA0180) — https://vigilanses.anses.fr/sites/default/files/VigilAnsesN15_Novembre2021_Coumarine.pdf — PDF lu le 2026-10-14.\n7. Muthukuda et al. *PLoS One* 2025 — PMID 39854533 — [DOI](https://doi.org/10.1371/journal.pone.0317904)\n8. Hajimonfarednejad et al. *Clin Nutr* 2019 — PMID 29661513 — [DOI](https://doi.org/10.1016/j.clnu.2018.03.013)\n9. Gu et al. *Front Pharmacol* 2022 — PMID 35115937 — [DOI](https://doi.org/10.3389/fphar.2021.790901)\n10. Brancheau et al. *Am J Case Rep* 2015 — PMID 25923145 — [DOI](https://doi.org/10.12659/AJCR.892804)\n11. Abraham et al. *Mol Nutr Food Res* 2011 — PMID 21462332 — [DOI](https://doi.org/10.1002/mnfr.201000394)\n12. Oketch-Rabah et al. *Clin Pharmacol Ther* 2018 — PMID 29947417 — [DOI](https://doi.org/10.1002/cpt.1162)\n13. Wang et al. *J Agric Food Chem* 2013 — PMID 23627682 — [DOI](https://doi.org/10.1021/jf4005862)\n14. Arrêté du 24 juin 2014, annexe I, version consolidée au 15 janvier 2016 — https://faolex.fao.org/docs/pdf/fra151110.pdf (Légifrance JORFTEXT000029254516) — lu le 2026-10-14. Règlements d'exécution (UE) 2017/2470 (02017R2470-20260810), (CE) n° 1925/2006 (02006R1925-20251126), (UE) n° 432/2012 (02012R0432-20250820) — publications.europa.eu/resource/celex/ — textes intégraux lus le 2026-10-14.\n15. BDPM, fichier CIS_COMPO_bdpm — https://base-donnees-publique.medicaments.gouv.fr — consulté le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Cannelle",
+ "type": "actif",
+ "unite": ""
+}

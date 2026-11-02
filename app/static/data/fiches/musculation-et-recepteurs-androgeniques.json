@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "comportement",
+ "id": "musculation-et-recepteurs-androgeniques",
+ "intro": "Question traitée : après un entraînement en résistance, est-ce la testostérone du sang, ou le nombre de récepteurs aux androgènes (AR) dans le muscle, qui explique qui gagne du muscle ? Et peut-on « sensibiliser » les récepteurs ? Les études ci-dessous sont des biopsies du vastus lateralis chez des adultes jeunes en bonne santé, de 10 à 12 semaines, avec de petits effectifs ; les protocoles de dosage de l'AR (Western blot) varient d'une étude à l'autre.",
+ "liens": [
+  "baisse-libido-homme-et-testosterone",
+  "boosters-de-testosterone",
+  "entrainement-en-resistance",
+  "hypertrophie-volume-frequence-et-proximite-de-lechec",
+  "inhibiteurs-de-la-myostatine-et-de-lactivine",
+  "sarms-et-anabolisants",
+  "testosterone"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 14,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "27174923",
+  "22105707",
+  "30356739",
+  "38934511",
+  "39143904",
+  "19683543",
+  "26079649",
+  "11701431",
+  "38197297",
+  "18455389",
+  "19617210",
+  "39393048",
+  "8637535",
+  "31568675"
+ ],
+ "preuve_globale": "B",
+ "resume": "Les pics d'hormones après la séance (testostérone, GH, IGF-1) ne prédisent pas la prise de muscle. 49 hommes entraînés, 12 semaines : aucune corrélation entre l'élévation post-exercice d'aucune hormone dite anabolique et les gains de masse ou de force [B, ECR unique n=49] (PMID 27174923) ; 56 hom…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Les pics d'hormones après la séance (testostérone, GH, IGF-1) ne prédisent pas la prise de muscle.** 49 hommes entraînés, 12 semaines : aucune corrélation entre l'élévation post-exercice d'aucune hormone dite anabolique et les gains de masse ou de force [B, ECR unique n=49] (PMID 27174923) ; 56 hommes : pas de corrélation de la testostérone libre, de l'IGF-1 ni de la GH avec la masse maigre ou la force ; cortisol et GH faiblement corrélés (r = 0,29 à 0,36) [B, n=56] (PMID 22105707).\n- **L'AR musculaire : indice contradictoire.** Chez 49 hommes entraînés, aucune hormone sanguine ou musculaire ne distinguait les 10 meilleurs des 10 moins bons répondeurs, mais la teneur en AR était plus élevée chez les meilleurs et corrélée aux gains (masse maigre, surface des fibres) avant comme après entraînement [B, étude secondaire n=49 dont 20 comparés] (PMID 30356739). Deux analyses ultérieures d'une même cohorte de 38 personnes (10 semaines), dont une comparant 12 répondeurs et 12 non-répondeurs, **n'ont pas retrouvé ce lien** [B, contradictoire] (PMID 38934511, PMID 39143904).\n- **L'entraînement ne fait pas monter l'AR de façon fiable** : inchangé après 10 semaines, en baisse transitoire après une séance (PMID 38934511, PMID 19683543) et inchangé après 12 mois d'entraînement chez 13 hommes jeunes et âgés (PMID 26079649).\n- **La testostérone circulante compte quand on la fait varier fortement de l'extérieur, pas dans la variation naturelle** : sous blocage de l'axe puis dose graduée de testostérone, la masse maigre augmente avec la dose (+3,4, +5,2, +7,9 kg à 125, 300, 600 mg/semaine) [B, ECR n=61] (PMID 11701431) ; entre individus aux taux normaux, rien ne prédit le gain (PMID 27174923).\n- **Aucun moyen démontré de « sensibiliser » les récepteurs** chez l'humain [?]. Les compléments « boosters de testostérone » ne tiennent pas non plus leurs promesses : voir [boosters de testostérone](fiche:boosters-de-testosterone).\n- **Ce qui reste le plus utile** : l'entraînement lui-même (volume, proximité de l'échec, progression), pas la manipulation des hormones : [entraînement en résistance](fiche:entrainement-en-resistance) et [hypertrophie](fiche:hypertrophie-volume-frequence-et-proximite-de-lechec).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- La testostérone et la DHT se fixent à l'AR, qui migre dans le noyau où il déclenche des effets liés à la croissance ; d'où la mesure séparée des fractions cytoplasmique et nucléaire dans les études récentes (PMID 38197297, PMID 39143904) [B].\n- Dans le muscle humain, la coloration de l'AR semble plus forte dans ou près des fibres de type I que de type II (immunohistochimie, 18 hommes de 57-72 ans) (PMID 18455389) [B].\n- La relation avec l'hypertrophie est donc plausible, mais la question est de savoir si les **différences entre individus** d'AR expliquent des différences de réponse à l'entraînement : les réponses ci-dessous sont partagées.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Hormones post-exercice et gains\n| Étude | Résultat | Preuve |\n|---|---|---|\n| 49 hommes entraînés, 12 semaines, charges légères ou lourdes menées à l'échec | Hypertrophie et force sans différence entre les deux groupes (sauf développé couché) ; **aucune corrélation entre l'augmentation aiguë de l'hormone post-exercice et les gains** | [B, ECR n=49] (PMID 27174923) |\n| 56 jeunes hommes, 12 semaines | Pas de corrélation de la testostérone libre, GH, IGF-1 avec masse maigre ni force ; cortisol corrélé à la masse maigre (r = 0,29) et à la surface des fibres de type II (r = 0,35) ; GH corrélée à la surface des fibres (r = 0,36 et 0,28) | [B, n=56] (PMID 22105707) |\n\nLecture : l'idée selon laquelle il faudrait « gonfler » le pic de testostérone ou de GH après la séance (techniques de volume, séries longues, repos courts, etc.) n'est pas soutenue par ces deux cohortes. Elles testent la corrélation des pics avec les gains, pas l'effet d'une manipulation des pics ; l'absence de corrélation n'exclut pas un petit effet [?].\n\n### Teneur en AR du muscle et gain de muscle\n| Étude | Résultat | Preuve |\n|---|---|---|\n| 49 hommes entraînés ; AR comparé entre 10 meilleurs et 10 moins bons répondeurs | AR **inchangé** par l'entraînement mais **plus élevé chez les meilleurs répondeurs** à tout moment ; relation linéaire de l'AR avec le gain de masse maigre (P < 0,01) et de surface des fibres ; ni testostérone libre, DHT ni 5α-réductase intramusculaires ne diffèrent selon la réponse | [B, n=49 puis 20] (PMID 30356739) |\n| 19 femmes et 19 hommes, 10 semaines | Baisse aiguë de l'AR total et cytoplasmique après la première séance ; AR total et nucléaire **inchangés** après 10 semaines ; les variations d'AR **ne sont pas corrélées** à l'hypertrophie ; l'AR cytoplasmique de base est associé à l'hypertrophie des fibres II chez les hommes | [B, n=38] (PMID 38934511) |\n| 12 non-répondeurs vs 12 répondeurs (même cohorte, 10 semaines) | Mêmes niveaux d'AR au départ et à la fin ; seule différence : une liaison à l'ADN de l'AR plus élevée 24 h après la première séance chez les non-répondeurs (+19,5 % vs −14,4 %) | [B, n=24] (PMID 39143904) |\n| 13 hommes et 13 femmes, 10 semaines | AR nucléaire en hausse après des contractions excentriques chez les hommes seulement ; chez les hommes aux plus forts gains de section, plus d'AR nucléaire que chez les femmes aux plus forts gains | [B, étude exploratoire n=26] (PMID 38197297) |\n| 15 sujets entraînés, une séance de squats lourds | AR musculaire réduit à 70 min chez les hommes (à 10 min chez les femmes) ; testostérone libre augmentée | [B, n=15] (PMID 19683543) |\n| 13 hommes jeunes et âgés, 12 mois d'entraînement | Pas de différence d'AR musculaire due à l'âge, ni à l'entraînement aigu ou chronique ; production et clairance de la testostérone stables | [B, n=13] (PMID 26079649) |\n| 18 hommes de 57-72 ans, une séance, protéines ou placebo | ARNm de l'AR augmenté par la séance ; les protéines réduisent la hausse de testostérone sérique mais ne changent pas l'AR | [B, n=18] (PMID 18455389) |\n| 282 hommes, polymorphismes de l'AR (longueur CAG et GGN) | Pas de différence de masse maigre ou de capacités physiques | [B, observationnel n=282] (PMID 19617210) |\n| 27 femmes préménopausées, 12 semaines | Testostérone totale non liée à la masse ni à la force, avant ou après entraînement ; testostérone biodisponible et proportion d'AR nucléaire positivement associées ; données in vitro à doses supraphysiologiques | [B, n=27] (PMID 39393048) |\n\nLecture :\n- **Une étude positive (Morton 2018), deux négatives (Bergamasco 2024), des effectifs de 24 à 49, des méthodes d'immunodétection qui diffèrent** : la conclusion honnête est que l'AR musculaire est un candidat, non un prédicteur validé [B, contradictoire].\n- Les AR sont mesurés sur une biopsie d'un seul muscle à un seul moment ; l'AR « présent » n'est pas l'AR « actif » (liaison ADN, localisation nucléaire).\n- Différences de sexe : l'AR nucléaire augmente après dommage excentrique chez les hommes seulement (PMID 38197297), et la testostérone totale ne prédit rien chez des femmes préménopausées (PMID 39393048).\n- La longueur des répétitions CAG/GGN du gène de l'AR, modulateur connu de la sensibilité, n'explique pas la masse maigre dans une cohorte de 282 hommes jeunes (PMID 19617210) [B].\n\n### Testostérone circulante : dose fortement variée vs variation naturelle\n- **Variation forcée** : dose graduée de testostérone sous blocage de l'axe gonadique (61 hommes, 20 semaines) : la masse maigre augmente en fonction de la dose (+3,4, +5,2, +7,9 kg) et corrèle au log de la testostérone (r = 0,73) ; force, puissance et volume musculaire suivent, sans effet significatif sur la fonction sexuelle ou le PSA sur cette durée [B, ECR n=61] (PMID 11701431). Testostérone supraphysiologique + musculation : voir [SARMs et anabolisants](fiche:sarms-et-anabolisants) (PMID 8637535, référence relue dans cette fiche).\n- **Ajout à l'entraînement chez le sujet âgé non hypogonade** : 18 hommes de 65 à 75 ans, 6 semaines : la testostérone ajoutée à l'entraînement augmente davantage masse maigre, section du quadriceps et force, ainsi que la synthèse protéique, et l'ARNm de l'AR (×1,4) [B, ECR n=18] (PMID 31568675). Courte durée (6 semaines), petit effectif.\n- **Variation naturelle** : entre jeunes hommes aux taux normaux, ni la testostérone de base ni la variation aiguë ne prédisent le gain (PMID 27174923, PMID 22105707). Lecture : un taux « bas-normal » ne condamne pas la prise de muscle ; la testostérone n'est un levier qu'en cas de déficit réel ou d'apport massif.\n- Données de variation individuelle chez l'homme âgé ou hypogonade avec mesure d'AR : non trouvées dans cette recherche [?].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Aucun essai humain trouvé** montrant qu'un complément, un aliment ou une pratique augmente la teneur en AR ou sa sensibilité dans le muscle et améliore l'hypertrophie [?].\n- Ce qui a été testé : les protéines autour de la séance réduisent la hausse de testostérone sans changer l'AR (PMID 18455389) ; l'entraînement lui-même ne fait pas monter l'AR de façon cohérente (PMID 38934511, PMID 26079649, PMID 30356739) ; la testostérone injectée augmente l'ARNm de l'AR (PMID 31568675), ce qui n'est pas un moyen « naturel ».\n- **Les « boosters » de testostérone** (tribulus, fenugrec, etc.) ne montrent pas de gain musculaire fiable : voir [boosters de testostérone](fiche:boosters-de-testosterone). Les SARMs agissent sur l'AR mais restent des produits non autorisés : [SARMs et anabolisants](fiche:sarms-et-anabolisants). Les inhibiteurs de myostatine, autre voie non hormonale, restent expérimentaux : [inhibiteurs de la myostatine et de l'activine](fiche:inhibiteurs-de-la-myostatine-et-de-lactivine).",
+   "titre": "Peut-on « sensibiliser » les récepteurs ?"
+  },
+  {
+   "markdown": "- **« Augmentez votre pic de testostérone après la séance pour plus de muscle »** : aucune corrélation entre les élévations aiguës des hormones et les gains dans deux cohortes de 49 et 56 hommes (PMID 27174923, PMID 22105707).\n- **« Un taux de testostérone dans le bas de la norme limite vos gains »** : non démontré chez des hommes aux taux normaux (PMID 27174923) ; la relation dose-effet vaut pour une testostérone administrée de l'extérieur sous blocage de l'axe (PMID 11701431).\n- **« Sensibilisateur / upregulateur de récepteurs androgéniques »** : aucune donnée humaine retrouvée [?] ; l'entraînement ne modifie pas l'AR de façon cohérente.\n- **« Les récepteurs expliquent les non-répondeurs »** : 24 sujets, aucune différence d'AR entre non-répondeurs et répondeurs au départ ou à l'arrivée (PMID 39143904) ; autre étude positive sur 20 sujets (PMID 30356739) : question ouverte.\n- **« Les protéines tuent la testostérone »** : elles atténuent la hausse sérique post-séance chez 18 hommes âgés, sans effet sur l'AR (PMID 18455389) ; or le pic ne prédit pas les gains.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Les protocoles décrits sont expérimentaux (biopsies) et ne justifient aucun traitement. Hormones et récepteurs : toute décision sur la testostérone (bilan, traitement) relève d'un médecin ; voir [testostérone](fiche:testosterone) et [baisse du désir et testostérone](fiche:baisse-libido-homme-et-testosterone). Statut réglementaire : l'entraînement n'est pas réglementé ; la testostérone est un médicament sur ordonnance (voir fiche testostérone) et l'AMA interdit les anabolisants et SARMs (voir [SARMs et anabolisants](fiche:sarms-et-anabolisants)).",
+   "titre": "Sécurité, contre-indications"
+  },
+  {
+   "markdown": "Effet de l'entraînement sur l'AR chez des femmes ménopausées ou des hommes âgés avec mesure d'hypertrophie ; études à effectif large de l'AR comme prédicteur ; effet d'un complément sur l'AR musculaire ; données de long terme (> 12 mois) sur AR et gains.",
+   "titre": "Ce qui manque"
+  },
+  {
+   "markdown": "1. Morton RW et al. *Front Physiol* 2018 — PMID 30356739 — [DOI](https://doi.org/10.3389/fphys.2018.01373)\n2. Morton RW et al. *J Appl Physiol* 2016 — PMID 27174923 — [DOI](https://doi.org/10.1152/japplphysiol.00154.2016)\n3. West DW et al. *Eur J Appl Physiol* 2012 — PMID 22105707 — [DOI](https://doi.org/10.1007/s00421-011-2246-z)\n4. Bergamasco JGA et al. *Med Sci Sports Exerc* 2024 — PMID 38934511 — [DOI](https://doi.org/10.1249/MSS.0000000000003509)\n5. Bergamasco JGA et al. *J Appl Physiol* 2024 — PMID 39143904 — [DOI](https://doi.org/10.1152/japplphysiol.00354.2024)\n6. Hatt AA et al. *FASEB J* 2024 — PMID 38197297 — [DOI](https://doi.org/10.1096/fj.202301291RR)\n7. Vingren JL et al. *Steroids* 2009 — PMID 19683543 — [DOI](https://doi.org/10.1016/j.steroids.2009.08.002)\n8. Ahtiainen JP et al. *Exp Gerontol* 2015 — PMID 26079649 — [DOI](https://doi.org/10.1016/j.exger.2015.06.010)\n9. Hulmi JJ et al. *J Steroid Biochem Mol Biol* 2008 — PMID 18455389 — [DOI](https://doi.org/10.1016/j.jsbmb.2008.03.030)\n10. Guadalupe-Grau A et al. *Br J Sports Med* 2011 — PMID 19617210 — [DOI](https://doi.org/10.1136/bjsm.2009.060285)\n11. Alexander SE et al. *J Physiol* 2025 — PMID 39393048 — [DOI](https://doi.org/10.1113/JP286803)\n12. Bhasin S et al. *Am J Physiol Endocrinol Metab* 2001 — PMID 11701431 — [DOI](https://doi.org/10.1152/ajpendo.2001.281.6.E1172)\n13. Gharahdaghi N et al. *J Cachexia Sarcopenia Muscle* 2019 — PMID 31568675 — [DOI](https://doi.org/10.1002/jcsm.12472)\n14. Bhasin S et al. *N Engl J Med* 1996 — PMID 8637535 — [DOI](https://doi.org/10.1056/NEJM199607043350101) (référence déjà relue dans [SARMs et anabolisants](fiche:sarms-et-anabolisants))",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Musculation et récepteurs androgéniques : testostérone circulante, AR musculaire et hypertrophie",
+ "type": "actif",
+ "unite": ""
+}

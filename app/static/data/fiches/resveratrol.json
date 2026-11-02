@@ -1,0 +1,82 @@
+{
+ "cibles": [
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "resveratrol",
+ "intro": "",
+ "liens": [
+  "exercice-physique",
+  "jeune-intermittent-et-restriction-calorique",
+  "metformine",
+  "nmn-et-nad"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 14,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "15684413",
+  "20061378",
+  "23878368",
+  "24514907",
+  "20716633",
+  "23185430",
+  "22750234",
+  "22055504",
+  "33480264",
+  "31978258",
+  "40842160",
+  "24899709",
+  "29548848",
+  "26362286"
+ ],
+ "preuve_globale": "A",
+ "resume": "Polyphénol du raisin (vin rouge). Vendu comme « mimétique de la restriction calorique » via l'activation des sirtuines. Cette hypothèse ne s'est pas confirmée en pratique : activation directe de SIRT1 attribuée à un artefact de test in vitro [D] (PMID 15684413, 20061378), et chez l'humain les ess…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Polyphénol du raisin (vin rouge). Vendu comme « mimétique de la restriction calorique » via l'activation des sirtuines. **Cette hypothèse ne s'est pas confirmée en pratique** : activation directe de SIRT1 attribuée à un artefact de test in vitro [D] (PMID 15684413, 20061378), et chez l'humain les essais sur critères cliniques sont négatifs ou ambigus.\n- Le tag [A] de la fiche ne vaut que pour des **biomarqueurs de substitution** (HbA1c, insulinorésistance) dans des méta-analyses très hétérogènes, avec une revue Cochrane qui ne conclut pas (3 petits essais) : voir plus bas. Aucun résultat clinique (mortalité, événements cardiovasculaires, complications du diabète) [?].\n- Chez des hommes âgés, **le resvératrol a atténué les gains de l'entraînement** (VO2max : +45 % de gain en plus dans le groupe placebo, PA moins améliorée) [B, ECR unique n=27] (PMID 23878368). Pas de bénéfice additif dans un second rapport du même programme (PMID 24514907).\n- **Interactions** : inhibition de CYP3A4, CYP2D6 et CYP2C9 à 1 g/j chez des volontaires sains [B] (PMID 20716633) : pertinent pour les médicaments à marge étroite.\n- Statut UE : trans-resvératrol de synthèse autorisé en complément pour adultes, **maximum 150 mg/j**.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Hypothèse historique : activation de SIRT1 (déacétylase NAD+-dépendante) qui mimerait la restriction calorique ; effets sur la survie chez la levure, le ver, la mouche, et des modèles de souris obèses [C] (références animales de survie non relues dans cette session) [?].\n- **Réfutation partielle** : en l'absence d'un groupe fluorophore ajouté au substrat, resvératrol n'active pas SIRT1 in vitro ; l'activation observée est un artefact du substrat fluorescent [D] (PMID 15684413, 20061378). Un travail ultérieur, dont seul le titre a été relu, propose un mécanisme d'activation directe (PMID 23185430) : la question reste débattue au niveau moléculaire, mais **le lien causal avec un bénéfice clinique humain n'est pas établi** [?].\n- Biodisponibilité orale faible : le resvératrol est rapidement conjugué (glucuronides, sulfates) et expulsé par des transporteurs intestinaux (MRP2, BCRP) [C] (PMID 22750234, revue ; modèle animal et cellules).\n- Chez l'humain : 30 jours de 150 mg/j chez 11 hommes obèses : activation d'AMPK, hausse de SIRT1 et PGC-1α musculaires, baisse de la glycémie, des triglycérides et de la pression systolique, mais aussi **baisse du métabolisme de repos** [B, ECR croisé n=11] (PMID 22055504). Ce sont des biomarqueurs musculaires et métaboliques dans un tout petit essai, jamais répliqués avec la même ampleur dans la littérature retenue ici.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "**Diabète de type 2 et insulinorésistance (biomarqueurs)**\n- Méta-analyse de 30 études (supplémentation et diabète) : réduction significative de l'insulinorésistance (SMD −0,34 ; IC95 −0,64 à −0,04 ; I² 70 %) et de l'HbA1c (SMD −0,64 ; IC95 −1,22 à −0,07 ; I² 90 %) ; glycémie à jeun significativement réduite uniquement chez les diabétiques (SMD −0,85 ; I² 90 %) [A, contradictoire, très hétérogène] (PMID 33480264). I² de 70 à 90 % : les essais ne mesurent pas la même chose.\n- Revue Cochrane (3 ECR, 50 participants, 10 à 1000 mg/j, 4 à 5 semaines) : **aucun critère patient-pertinent à long terme** rapporté (mortalité, complications du diabète) [B, 3 ECR, n=50] (PMID 31978258).\n- Méta-analyse (11 ECR, 614 diabétiques) : poids −0,44 kg (IC95 −0,88 à −0,00), IMC −0,19 kg/m², tour de taille −0,80 cm [A, effet cliniquement négligeable] (PMID 40842160).\n\n**Vieillissement musculaire et cardiovasculaire (exercice)**\n- 27 hommes âgés inactifs, 250 mg/j + entraînement intensif 8 semaines : gain de VO2max 45 % plus important sous placebo ; baisse de la pression artérielle moyenne sous placebo seulement (−4,8 mmHg) ; resvératrol a aboli l'effet de l'entraînement sur le LDL et le ratio cholestérol total/HDL [B, ECR unique n=27] (PMID 23878368).\n- Même programme, muscle : l'entraînement améliore les marqueurs mitochondriaux et l'endurance (temps à l'épuisement environ ×1,2) sans effet additif ou délétère du resvératrol sur ces paramètres, malgré environ −25 % d'acétylation musculaire [B] (PMID 24514907).\n\n**Cognition et Alzheimer**\n- 46 adultes âgés en surpoids (appariés), 200 mg/j, 26 semaines : meilleure rétention de mots à 30 minutes (p=0,038), connectivité hippocampique augmentée, HbA1c et masse grasse en baisse [B, n=46] (PMID 24899709). Résultat non répliqué dans l'essai de même type (60 sujets, 200 mg/j, 26 semaines) : **pas d'effet significatif** sur le critère principal (CVLT), tendance non significative sur la reconnaissance de motifs, et des changements défavorables non significatifs (inflammation, neurotrophines) [B, ECR n=60] (PMID 29548848).\n- Maladie d'Alzheimer légère à modérée, 119 patients, jusqu'à 1000 mg x 2/j pendant 52 semaines : bien toléré (nausées, diarrhée, perte de poids), niveau d'Aβ40 plasmatique et du LCR a moins baissé que sous placebo, et **perte de volume cérébral plus importante** sous resvératrol ; critères principaux : biomarqueurs ; aucune preuve de bénéfice clinique [B, ECR unique n=119] (PMID 26362286).\n\n**Durée de vie, cancer, cardiovasculaire, peau, cheveux** : aucune donnée humaine de critère dur retenue ici [?].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Doses des essais cités : 150 mg/j (obèses), 200 mg/j (cognition), 250 mg/j (exercice), 1 g/j (enzymes), jusqu'à 2000 mg/j (Alzheimer).\n- **Plafond UE : 150 mg/j** (trans-resvératrol, compléments en gélules ou comprimés pour adultes) : ce qui se vend à 500 mg ou 1 g dépasse l'autorisation. Étiquettes en France : non relevées dans cette session [?].\n- « Extraits de raisin ou de renouée du Japon » et vin rouge : un verre apporte au plus de petites quantités ; non chiffré ici [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Faits réglementaires (consultés le 2026-10-06) :\n- **Trans-resvératrol de synthèse** : nouvel aliment autorisé par la décision d'exécution (UE) 2016/1190 du 19 juillet 2016 (règlement (CE) n° 258/97) : compléments en gélules/comprimés, adultes, 150 mg/j maximum ; avis EFSA du 11 décembre 2015 (EFSA Journal 2016;14:4368) (décision relue sur EUR-Lex le 2026-10-06 : capsules ou comprimés uniquement, adultes, 150 mg/j, étiquetage « les personnes qui prennent des médicaments ne doivent consommer le produit que sous surveillance médicale » ; dates confirmées : demande 2012-11-08, avis EFSA 2015-12-11, décision 2016-07-19 ; **confirmé**).\n- Statut en France : DGCCRF, ANSES non consultées ; liste AMA 2026 inaccessible (wada-ama.org, 2026-10-06) [?].\n- Médicament : aucun usage autorisé du resvératrol.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **CYP** : 1 g/j pendant 4 semaines chez 42 volontaires sains a inhibé les phénotypes CYP3A4, CYP2D6 et CYP2C9 et induit CYP1A2 [B] (PMID 20716633) : risque d'augmenter l'exposition aux médicaments métabolisés par ces voies ; **aucune étude clinique d'interaction avec un médicament particulier n'a été retenue** [?]. À doses vendues (≤150 mg), l'inhibition n'est pas quantifiée [?].\n- **Anticoagulants, antiplatelets** : recherche PubMed sans résultat pertinent, risque non démontré ni écarté [?].\n- **Metformine et antidiabétiques** : aucune étude retenue sur l'interaction [?] ; cumul d'effets hypoglycémiants possible mais non démontré chez l'humain. Voir [metformine](fiche:metformine).\n- **Entraînement** : atténuation des gains cardiovasculaires dans l'essai de 27 hommes âgés (PMID 23878368) : ne pas associer à un programme d'exercice dans cet objectif.\n- Tolérance : nausées, diarrhée, perte de poids à forte dose (PMID 26362286). Grossesse, allaitement, cancers hormono-dépendants : [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Active les sirtuines et mime la restriction calorique »** : activation de SIRT1 démontrée comme artefact de substrat [D] (PMID 15684413, 20061378) ; aucun gain de durée de vie humain [?]. Voir [jeûne intermittent et restriction calorique](fiche:jeune-intermittent-et-restriction-calorique).\n- **« Le paradoxe français »** : association alimentaire, non causale ; aucun ECR de critère dur [?].\n- **« Meilleur avec l'exercice »** : l'inverse dans le seul essai randomisé chez l'homme âgé (PMID 23878368).\n- **« Protège le cerveau »** : un essai positif sur un test de mots (n=46), un essai négatif (n=60), un essai Alzheimer avec plus de perte de volume cérébral sous traitement (PMID 24899709, 29548848, 26362286).\n- **« Protège contre le diabète »** : les améliorations d'HbA1c sont des critères de substitution avec forte hétérogénéité ; Cochrane ne trouve pas de critère patient-pertinent (PMID 33480264, 31978258).\n- **« Dosage élevé = efficacité »** : la dose légale est de 150 mg/j ; la biodisponibilité orale est faible (PMID 22750234).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit. Voir aussi [NMN et NAD+](fiche:nmn-et-nad) (même logique « sirtuines »), [exercice physique](fiche:exercice-physique).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 15684413, Kaeberlein M et al., « Substrate-specific activation of sirtuins by resveratrol », 2005 (résumé relu).\n- PMID 20061378, Pacholec M et al., « SRT1720, SRT2183, SRT1460, and resveratrol are not direct activators of SIRT1 », 2010 (résumé relu).\n- PMID 23185430, Gertz M et al., « A molecular mechanism for direct sirtuin activation by resveratrol », 2012 (titre seul relu).\n- PMID 22750234, Planas JM et al., biodisponibilité du trans-resvératrol et transporteurs ABC, 2012 (résumé relu).\n- PMID 22055504, Timmers S et al., 30 jours de resvératrol chez hommes obèses, 2011 (résumé relu).\n- PMID 33480264, Delpino FM, Figueiredo LM, « Resveratrol supplementation and type 2 diabetes: a systematic review and meta-analysis », 2022 (résumé relu).\n- PMID 31978258, Jeyaraman MM et al., « Resveratrol for adults with type 2 diabetes mellitus », Cochrane 2020 (résumé relu).\n- PMID 40842160, Lahouti M et al., méta-analyse indices anthropométriques, 2025 (résumé relu).\n- PMID 23878368, Gliemann L et al., « Resveratrol blunts the positive effects of exercise training on cardiovascular health in aged men », 2013 (résumé relu).\n- PMID 24514907, Olesen J et al., résultats musculaires du même programme, 2014 (résumé relu).\n- PMID 24899709, Witte AV et al., resvératrol et mémoire chez adultes âgés, 2014 (résumé relu).\n- PMID 29548848, Huhn S et al., resvératrol, mémoire et hippocampe, 2018 (résumé relu).\n- PMID 26362286, Turner RS et al., resvératrol dans la maladie d'Alzheimer, 2015 (résumé relu).\n- PMID 20716633, Chow HH et al., « Resveratrol modulates drug- and carcinogen-metabolizing enzymes in a healthy volunteer study », 2010 (résumé relu).\n- Décision d'exécution (UE) 2016/1190 du 19 juillet 2016 (trans-resvératrol, nouvel aliment), consultée le 2026-10-06 via extraits de recherche (EUR-Lex, legislation.gov.uk).\n- EFSA Journal 2016;14:4368, « Safety of synthetic trans-resveratrol as a novel food », consulté le 2026-10-06 (liste de résultats).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Resvératrol",
+ "type": "actif",
+ "unite": ""
+}

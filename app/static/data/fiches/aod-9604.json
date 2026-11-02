@@ -1,0 +1,85 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "peptide",
+ "id": "aod-9604",
+ "intro": "",
+ "liens": [
+  "exercice-physique",
+  "retatrutide",
+  "secretagogues-de-gh-et-hormone-de-croissance",
+  "secretagogues-gh",
+  "semaglutide-et-glp1",
+  "tb-500",
+  "tesamoreline"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "25208511",
+  "11146367",
+  "11673763",
+  "15134286",
+  "26275694",
+  "41966639",
+  "42395176",
+  "24124033",
+  "30029448"
+ ],
+ "preuve_globale": "C",
+ "resume": "Analogue du fragment C-terminal de l'hormone de croissance (acides aminés 177 à 191, avec une tyrosine ajoutée en N-terminal, PMID 25208511), présenté comme la partie « lipolytique » de la GH sans ses effets sur la glycémie ni la croissance. Vendu en ligne pour la perte de graisse et, plus récemm…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Analogue du fragment C-terminal de l'hormone de croissance (acides aminés 177 à 191, avec une tyrosine ajoutée en N-terminal, PMID 25208511), présenté comme la partie « lipolytique » de la GH sans ses effets sur la glycémie ni la croissance. Vendu en ligne pour la perte de graisse et, plus récemment, pour le cartilage.\n- **Chez le rongeur** : prise de poids réduite de plus de 50 % chez des rats Zucker obèses en 19 jours, sans altération de la sensibilité à l'insuline [C] (PMID 11146367) ; chez la souris ob/ob, moins de prise de poids, plus d'oxydation des graisses et de glycérol plasmatique, sans hyperglycémie et sans liaison au récepteur de la GH [C] (PMID 11673763).\n- **Chez l'humain** : un développement pour l'obésité était en phase IIa en 2002 (PMID 15134286, revue de 2004). Je n'ai trouvé **aucune publication des résultats humains** de ces essais dans PubMed, ni aucune étude enregistrée sous ce nom dans ClinicalTrials.gov (recherche du 2026-10-14) [?]. Statut actuel du développement et raison de l'absence de mise sur le marché : non documentés dans les sources lues [?].\n- **Cartilage** : une injection intra-articulaire a amélioré la régénération du cartilage dans un modèle d'arthrose du lapin, seule ou avec de l'acide hyaluronique [C] (PMID 26275694). Aucun essai humain trouvé [?].\n- **Dopage** : l'AOD-9604 est cité nommément parmi les fragments d'hormone de croissance interdits en permanence (AMA, S2.2.3) ; une méthode de détection urinaire existe (PMID 25208511).\n- À ne pas confondre avec les sécrétagogues de la GH (voir [fiche dédiée](fiche:secretagogues-gh)) ni avec la somatropine.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Le fragment stimulerait la lipolyse et l'oxydation des graisses sans passer par le récepteur de la GH : chez la souris, il ne rivalise pas avec la GH pour son récepteur et n'induit pas de prolifération cellulaire, contrairement à la GH [C, D] (PMID 11673763). Chez le rat, l'effet lipolytique est observé sur le tissu adipeux sans effet sur l'insuline [C] (PMID 11146367).\n- Pour le cartilage : un effet de régénération a été décrit dans un modèle de lapin ; mécanisme non précisé dans le résumé (PMID 26275694) [C].",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Obésité, rat Zucker | Prise de poids réduite de plus de 50 % en 19 jours ; lipolyse accrue ; pas d'effet délétère sur l'insuline | [C] (PMID 11146367) |\n| Obésité, souris ob/ob et souris minces | Moins de prise de poids, oxydation des graisses accrue, pas d'hyperglycémie | [C] (PMID 11673763) |\n| Arthrose du genou, lapin (collagénase) | Scores de dégénérescence plus bas ; meilleure association avec l'acide hyaluronique | [C] (PMID 26275694) |\n| Obésité, humain | Développement en phase IIa en 2002 selon une revue ; résultats humains publiés : aucun trouvé | [?] (PMID 15134286) |\n| Perte de graisse, récupération, cartilage chez le sportif ou le sujet sain | Aucun essai trouvé ; une revue 2026 des peptides non approuvés vendus aux sportifs inclut l'AOD-9604 et note que les résultats animaux favorables s'accompagnent de données de sécurité humaines rares et d'un risque de préjudice grave | [?] (PMID 41966639, PMID 42395176) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet (règle 7 : pas de posologie). Les doses des études animales ne se transposent pas ; contenu réel des flacons du marché gris inconnu.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **France** : aucune occurrence « AOD » dans les fichiers CIS_bdpm et CIS_COMPO_bdpm de la base publique des médicaments (BDPM, téléchargés le 2026-10-14). Le AOD-9604 n'est pas cité nommément dans la mise en garde ANSM sur les « peptides » vendus en ligne, dont le message général s'applique (« Ces produits n'ont pas été évalués par les autorités de santé et ne sont pas autorisés », ANSM, 2026-07-02 mise à jour 2026-08-31, consultée le 2026-10-14).\n- **AMA, Liste 2026** : classe S2.2.3 « Growth hormone (GH), its analogues and fragments », « growth hormone fragments, e.g. AOD-9604 and hGH 176-191 », interdit en permanence (Liste 2026, consultée le 2026-10-14). La détention hors raison médicale tombe sous la règle générale du Code du sport ; voir [TB-500](fiche:tb-500) pour la référence légale citée dans le dépôt.\n- **États-Unis** : statut de substance pour la préparation magistrale : non consulté [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Aucune donnée de sécurité humaine publiée trouvée [?]. Une revue de 2026 sur les peptides de l'axe GH-IGF-1 vendus comme « composés de recherche » liste des effets indésirables rapportés pour la classe : prolactine et cortisol élevés, dysglycémie, rétention hydrique, myalgies/arthralgies, réactions au point d'injection ; aucun n'est attribué spécifiquement à l'AOD-9604 dans le résumé [?] (PMID 42395176).\n- Test de dopage : l'AOD-9604 n'interfère pas avec le test des isoformes de la GH de l'AMA (PMID 24124033, lettre dont seul le titre est disponible).\n- Grossesse, interactions : aucune donnée [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Contrefaçons de peptides vendus par des pharmacies en ligne illégales : pureté de 5 à 75 % pour les peptides à cystéine, arsenic inorganique et plomb jusqu'à dix fois la limite parentérale ICH [B, analyse de produits] (PMID 30029448) ; l'étude ne porte pas sur l'AOD-9604 ; analyse de flacons d'AOD-9604 : aucune trouvée [?].",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- Obésité : prise en charge médicale ; les analogues du GLP-1 autorisés ont des données de phase III chez l'humain (voir [sémaglutide, tirzépatide et GLP-1](fiche:semaglutide-et-glp1) et [rétatrutide](fiche:retatrutide) pour la version non autorisée), avec l'activité physique ; voir aussi [exercice physique](fiche:exercice-physique).\n- Gonarthrose : kinésithérapie, exercice, perte de poids, antalgiques, avis rhumatologique ; l'AOD-9604 n'a pas de place établie.\n- Pas de protocole de dosage ni d'injection, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).\n\nVoir aussi : [sécrétagogues de la GH](fiche:secretagogues-gh), [hormone de croissance et muscle](fiche:secretagogues-de-gh-et-hormone-de-croissance), [tésamoréline](fiche:tesamoreline) (le seul analogue de la GHRH avec une indication validée).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Ng FM et al. *Horm Res* 2000 — PMID 11146367 — [DOI](https://doi.org/10.1159/000053183)\n2. Heffernan MA et al. *Int J Obes Relat Metab Disord* 2001 — PMID 11673763 — [DOI](https://doi.org/10.1038/sj.ijo.0801740)\n3. Wilding J. *Curr Opin Investig Drugs* 2004 — PMID 15134286 (revue d'une phrase, pas de DOI dans la notice)\n4. Kwon DR et al. *Ann Clin Lab Sci* 2015 — PMID 26275694 (lapin ; pas de DOI dans la notice)\n5. Cox HD et al. *Drug Test Anal* 2015 — PMID 25208511 — [DOI](https://doi.org/10.1002/dta.1715)\n6. Orlovius AK et al. *Drug Test Anal* 2013 — PMID 24124033 — [DOI](https://doi.org/10.1002/dta.1557) (lettre sans résumé)\n7. Mendias CL et al. *Sports Med* 2026 — PMID 41966639 — [DOI](https://doi.org/10.1007/s40279-026-02437-0) (revue narrative)\n8. Dominikowski A et al. *Front Endocrinol* 2026 — PMID 42395176 — [DOI](https://doi.org/10.3389/fendo.2026.1822475) (revue)\n9. Janvier S et al. *Talanta* 2018 — PMID 30029448 — [DOI](https://doi.org/10.1016/j.talanta.2018.06.023)\n10. BDPM, fichiers CIS_bdpm et CIS_COMPO_bdpm, téléchargés le 2026-10-14. ClinicalTrials.gov, recherche « AOD9604 » et « AOD-9604 » (2026-10-14) : aucune étude.\n11. ANSM, « “Peptides” vendus en ligne : ne les utilisez pas, ils peuvent être dangereux », 2026-07-02, mis à jour 2026-08-31 — https://ansm.sante.fr/actualites/peptides-vendus-en-ligne-ne-les-utilisez-pas-ils-peuvent-etre-dangereux (consulté le 2026-10-14)\n12. AMA, Liste des interdictions 2026, classe S2.2.3 (consultée le 2026-10-14).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "AOD-9604 (fragment de l'hormone de croissance)",
+ "type": "actif",
+ "unite": ""
+}

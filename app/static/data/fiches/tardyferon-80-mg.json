@@ -1,0 +1,68 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "complement",
+ "id": "tardyferon-80-mg",
+ "intro": "",
+ "liens": [
+  "fer-et-ferritine"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "27087396",
+  "29626044",
+  "25700159"
+ ],
+ "preuve_globale": "A",
+ "resume": "Fer de référence en France, médicament remboursé à 65 % pour 3,73 € la boîte de 30 (BDPM), nettement moins cher et mieux documenté que les « fers doux » de complément ; mais il ne se prend qu'après une carence mesurée (ferritine), avec contrôle à 3 mois, et provoque souvent des troubles digestifs.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Fer de référence en France, médicament remboursé à 65 % pour 3,73 € la boîte de 30 (BDPM), nettement moins cher et mieux documenté que les « fers doux » de complément ; mais il ne se prend **qu'après une carence mesurée** (ferritine), avec contrôle à 3 mois, et provoque souvent des troubles digestifs.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur déclarée | Preuve |\n|---|---|---|\n| Fer sous forme de sulfate ferreux desséché | 80 mg de fer élément (247,25 mg de sulfate ferreux) par comprimé | Femme réglée : anémie RR 0,39, carence RR 0,62, fatigue réduite [A] (PMID 27087396) ; carence sans anémie : fatigue SMD −0,38, pas d'effet sur le VO2max [A] (PMID 29626044) ; troubles digestifs OR 2,32 contre placebo [A] (PMID 25700159) |\n| Excipients | Maltodextrine, cellulose microcristalline, citrate de triéthyle, talc, Eudragit, dibéhénate de glycérol ; enrobage : E171, E172, Sepifilm | Sans objet |\n\nComposition : BDPM (base-donnees-publique.medicaments.gouv.fr, page mise à jour le 2026-09-29, consultée le 2026-10-12) et lasante.net (excipients, consulté le 2026-10-12).",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Médicament non soumis à prescription médicale, remboursable à 65 % sur ordonnance. Prix BDPM (hors honoraires de dispensation 1,02 €) : boîte de 30 : 2,71 €, soit 3,73 € au total ; boîte de 90 : 7,11 €, soit 8,13 € au total ; boîte de 100 : prix libre, non remboursable. SMR important (avis Commission de la Transparence du 2021-03-24), ASMR V. Indications : traitement curatif de l'anémie par carence martiale ; prévention de la carence chez la femme enceinte à risque. Texte (RCP/notice) mis à jour le 2024-09-12 (BDPM, consulté le 2026-10-12). AMA : le fer n'est pas, à ma connaissance, une substance interdite, non revérifié [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| L'AMM / la notice dit | Les études |\n|---|---|\n| Traitement de l'anémie par carence martiale | Confirmé : plus d'hémoglobine, moins d'anémie et de carence chez la femme réglée ; peu d'essais à faible risque de biais (10 sur 67) [A] (PMID 27087396) |\n| Contrôle de l'efficacité après 3 mois | Cohérent avec la durée curative de 3 à 6 mois de l'AMM |\n| Inefficace dans l'hyposidérémie inflammatoire | Cohérent : la ferritine monte avec l'inflammation, d'où des seuils plus hauts (voir [fer et ferritine](fiche:fer-et-ferritine)) |\n| Rien sur les cheveux ou l'énergie | Fatigue seulement chez le carencé ; cheveux : association ferritine basse – chute, aucun essai de supplémentation contrôlé trouvé [?] |",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Posologie de l'AMM (BDPM) : adulte et enfant > 10 ans 1 à 2 comprimés par jour, avant ou pendant les repas, avalés entiers avec de l'eau ; curatif 3 à 6 mois ; femme enceinte 1 comprimé par jour ou tous les 2 jours pendant les 2 derniers trimestres. À ne pas sucer ni mâcher. C'est la posologie du résumé officiel, pas une consigne personnelle.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- 30 comprimés : 3,73 € (BDPM, hors remboursement) ; 3,69 € sur lasante.net (2026-10-12) ; 90 comprimés : 8,13 € (BDPM).\n- À 1 comprimé par jour : **≈ 3,7 € par mois** (boîte de 30) ; à 2 comprimés : ≈ 7,4 €. Remboursé à 65 % sur ordonnance.\n- Alternatives : fers de complément (bisglycinate, « fer doux ») — preuves comparatives de tolérance et d'absorption non relevées pour la fiche [?]. Pour les carences sévères ou non tolérées, fer intraveineux sur avis médical. L'alimentation seule ne corrige pas une carence installée.",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non consultés [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Effets fréquents : constipation, diarrhée, ballonnements, douleurs abdominales, selles foncées, nausées. Rares ou de fréquence indéterminée : œdème laryngé, ulcérations buccales et œsophagiennes, lésions pulmonaires par inhalation du comprimé, mélanose digestive, ulcères et hémorragies gastriques (BDPM).\n- Contre-indiqué en cas de surcharge en fer (thalassémie, anémie réfractaire, insuffisance médullaire). À ne pas prendre sans bilan sanguin : l'excès de fer est dangereux (toxicité dès 20 mg/kg de fer élément, surtout chez l'enfant, BDPM).\n- Interactions : à espacer d'au moins 2 h de cyclines, fluoroquinolones, bisphosphonates, hormones thyroïdiennes, calcium, zinc, antiacides, lévodopa et autres ; association déconseillée avec le fer injectable ; limiter thé, café, vin rouge, céréales complètes, œufs et laitages à proximité (BDPM).\n- Contrôle de la ferritine à 3 mois ; ne pas prolonger sans raison.",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "1. BDPM, « TARDYFERON 80 mg, comprimé pelliculé » (CIS 68269288) — https://base-donnees-publique.medicaments.gouv.fr/medicament/68269288/extrait (consulté le 2026-10-12)\n2. lasante.net, Tardyferon 80 mg x 30 — https://lasante.net/nos-medicaments/forme-et-vitalite/fatigue-et-baisse-de-tonus/fer/tardyferon-80-mg-x-30.html (consulté le 2026-10-12)\n3. PMID 27087396, PMID 29626044, PMID 25700159 : études reprises de la fiche [fer et ferritine](fiche:fer-et-ferritine) (résumés relus lors de sa rédaction).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_sans_ordonnance",
+ "titre": "Tardyferon 80 mg (sulfate ferreux)",
+ "type": "produit",
+ "unite": ""
+}

@@ -1,0 +1,68 @@
+{
+ "cibles": [
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-23",
+ "famille": "alimentation",
+ "id": "regime-faible-index-glycemique",
+ "intro": "",
+ "liens": [
+  "biomarqueur-hba1c",
+  "cereales-completes-et-raffinees",
+  "glycemie-et-prediabete",
+  "legumineuses",
+  "pomme-de-terre-et-frites",
+  "regimes-comparatif",
+  "riz-blanc-complet-et-arsenic"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "34348965",
+  "32805007",
+  "37761441",
+  "39599660",
+  "32059053"
+ ],
+ "preuve_globale": "A",
+ "resume": "Diabète : un régime à faible IG/CG réduit l'HbA1c de 0,31 point (IC −0,42 à −0,19) vs régime de IG/CG plus élevé, 29 comparaisons, 1 617 pers. ; hétérogénéité forte (I² = 75 %) [A] (PMID 34348965).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Diabète** : un régime à faible IG/CG réduit l'HbA1c de 0,31 point (IC −0,42 à −0,19) vs régime de IG/CG plus élevé, 29 comparaisons, 1 617 pers. ; hétérogénéité forte (I² = 75 %) [A] (PMID 34348965).\n- **Autres marqueurs** : glycémie à jeun, LDL, non-HDL, ApoB, triglycérides, poids, IMC, CRP et PAS en baisse ; pas d'effet sur insuline, HDL, tour de taille, PAD [A] (PMID 34348965).\n- **Ovaires polykystiques** : HOMA-IR −0,78 et triglycérides −14,85 mg/dL, 10 essais, 403 femmes ; hétérogénéité forte [A] (PMID 32805007).\n- **Enfants en surpoids : aucun effet** sur poids, IMC ou paramètres métaboliques, 11 essais, 634 enfants [A] (PMID 37761441).\n- **Effet sur le poids dans une revue parapluie** : preuve forte pour le faible IG (SMD −0,66) chez les adultes avec facteur de risque CV [A] (PMID 39599660), mais la revue parapluie générale juge la preuve « faible » [A] (PMID 32059053).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Index glycémique (IG)** : mesure de la réponse glycémique à un aliment ; **charge glycémique (CG)** : tient aussi compte de la quantité de glucides consommée (PMID 34348965). Les essais testent soit un faible IG (8 sur 10 chez les femmes avec SOPK), soit une faible CG (2 sur 10) (PMID 32805007).\n- **Seuils d'IG (bas, moyen, haut)** : non précisés dans les résumés lus [?].\n- **Aliments** (légumineuses, avoine, céréales intactes, la plupart des légumes : IG bas ; pain blanc, riz blanc, pommes de terre : IG plus haut) : description courante, non sourcée par les résumés lus [?]. Voir [légumineuses](fiche:legumineuses), [céréales complètes vs raffinées](fiche:cereales-completes-et-raffinees), [pomme de terre et frites](fiche:pomme-de-terre-et-frites), [riz](fiche:riz-blanc-complet-et-arsenic).\n- **Témoin** : régime à IG/CG plus élevé (PMID 34348965) ; teneur en glucides et en fibres des deux bras : non détaillée dans les résumés lus [?].",
+   "titre": "Variantes et contenu"
+  },
+  {
+   "markdown": "Non revérifié [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Source | Résultat | Preuve |\n|---|---|---|\n| 29 comparaisons, 1 617 pers. avec diabète de type 1 ou 2 (EASD) | HbA1c −0,31 % (−0,42 à −0,19), I² = 75 % ; dose-réponse entre CG et HbA1c ; baisses de glycémie, LDL, non-HDL, ApoB, TG, poids, IMC, PAS, CRP (PMID 34348965) | [A] |\n| 10 ECR, 403 femmes SOPK | HOMA-IR −0,78, insuline à jeun −2,39 µUI/mL (limite), cholestérol total −11,13, LDL −6,27, TG −14,85 mg/dL, tour de taille −2,81 cm, testostérone totale −0,21 nmol/L ; pas d'effet sur poids ni glycémie à jeun (PMID 32805007) | [A, hétérogénéité forte pour HOMA-IR] |\n| 11 ECR, 634 enfants en surpoids ou obèses | poids −0,14 kg (IC −1,93 à 1,64), IMC −0,31 (−0,85 à 0,23) : pas de différence ; majorité des essais « quelques inquiétudes » (PMID 37761441) | [A, résultat nul] |\n| Revue parapluie, adultes avec facteur de risque CV | faible IG : poids SMD −0,66 (−0,90 à −0,43) (PMID 39599660) | [A] |\n| Revue parapluie générale | IG/CG faible : perte de poids et d'IMC « suggestive ou faible », preuves contrastées sur lipides, glycémie, tension (PMID 32059053) | [A, faible certitude] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « Indispensable à tous pour maigrir » : nul chez l'enfant en surpoids (PMID 37761441) ; effet sur le poids de l'adulte jugé faible dans la revue parapluie générale (PMID 32059053).\n- « Un aliment à IG bas est toujours sain » : l'IG mesure la réponse glycémique d'un aliment, pas sa valeur nutritionnelle ; la qualité du reste de l'assiette n'est pas isolée dans ces essais [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Pas d'effet indésirable rapporté dans les résumés lus. Diabète traité : adaptation médicamenteuse par le médecin (non sourcé) [?].\n\nStatut réglementaire : sans objet.\n\nVoir aussi : [glycémie et prédiabète](fiche:glycemie-et-prediabete) · [HbA1c](fiche:biomarqueur-hba1c) · [légumineuses](fiche:legumineuses) · [céréales complètes vs raffinées](fiche:cereales-completes-et-raffinees) · [pomme de terre et frites](fiche:pomme-de-terre-et-frites) · [comparatif des régimes](fiche:regimes-comparatif).",
+   "titre": "Sécurité, populations à risque"
+  },
+  {
+   "markdown": "- PMID 34348965 — Chiavaroli L. et al., *BMJ* 2021. doi:10.1136/bmj.n1651\n- PMID 32805007 — Kazemi M. et al., *Adv Nutr* 2021. doi:10.1093/advances/nmaa092\n- PMID 37761441 — Kalaitzopoulou et al., *Children (Basel)* 2023. doi:10.3390/children10091481\n- PMID 39599660 — Chatzi et al., *Nutrients* 2024. doi:10.3390/nu16223873\n- PMID 32059053 — Dinu M. et al., *Adv Nutr* 2020. doi:10.1093/advances/nmaa006",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Régime à faible index glycémique",
+ "type": "actif",
+ "unite": ""
+}

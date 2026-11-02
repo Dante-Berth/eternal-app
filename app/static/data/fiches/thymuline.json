@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "longevite",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "peptide",
+ "id": "thymuline",
+ "intro": "",
+ "liens": [
+  "epitalon",
+  "exercice-physique",
+  "fer-et-ferritine",
+  "pinealon-et-peptides-de-khavinson",
+  "sommeil",
+  "tb-500",
+  "thymosine-alpha-1",
+  "vitamine-d",
+  "zinc"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "2657247",
+  "42481458",
+  "24588820"
+ ],
+ "preuve_globale": "C",
+ "resume": "La thymuline (ancien « facteur thymique sérique », FTS) est un nonapeptide produit uniquement par les cellules épithéliales du thymus, dont l'activité dépend du zinc (PMID 2657247, revue de 1989). Elle est présentée en ligne comme « peptide de l'immunité jeune » contre l'immunosénescence.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- La thymuline (ancien « facteur thymique sérique », FTS) est un nonapeptide produit uniquement par les cellules épithéliales du thymus, dont l'activité dépend du zinc (PMID 2657247, revue de 1989). Elle est présentée en ligne comme « peptide de l'immunité jeune » contre l'immunosénescence.\n- Chez la souris âgée, une étude de 2026 identifie la thymuline, qui baisse avec l'âge, comme facteur circulant qui freine l'inflammation des cellules myéloïdes (via NF-κB) et améliore la réponse à un anti-PD-L1 dans un modèle de cancer du sein [C] (PMID 42481458). C'est un résultat de laboratoire sur la souris, sans essai humain.\n- Les revues décrivent surtout des effets anti-inflammatoires et analgésiques cérébraux chez l'animal et de la thérapie génique chez la souris sans thymus [C] (PMID 24588820). **Aucun essai humain d'un usage anti-âge ou immunitaire trouvé** [?], PubMed interrogé le 2026-10-14.\n- **Piège français** : la base publique des médicaments contient des « Thymuline » Boiron et Lehning, mais ce sont des **préparations homéopathiques** diluées de 4 CH à 30 CH : au-delà de 12 CH, il ne reste statistiquement plus de molécule. Ce n'est pas le peptide actif des études ci-dessus, et aucune de ces études ne porte sur des dilutions homéopathiques.\n- **Thymosine bêta-4** : voir [TB-500](fiche:tb-500). **Thymosine alpha-1** : voir [thymosine alpha-1](fiche:thymosine-alpha-1), qui a un statut de médicament dans certains pays. Ce sont trois molécules différentes, aux noms voisins.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Hormone thymique, dont la production et la sécrétion dépendent de l'axe neuroendocrinien ; la revue de 2014 la décrit aussi comme peptide hypophysiotrope (PMID 24588820) [C].\n- Rôle immunitaire : induction de la différenciation des lymphocytes T et renforcement de leurs fonctions chez des receveurs partiellement dépourvus de thymus (revue de 1989, PMID 2657247) [C].\n- Sans zinc, la molécule est inactive (PMID 2657247) : un déficit en zinc pourrait donc en réduire l'activité, sans donnée humaine d'intervention trouvée pour cette hypothèse [?].",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Inflammation liée à l'âge et immunothérapie anticancéreuse | Souris âgées : la thymuline supprime la production de cytokines pro-inflammatoires (IL-1α, IL-1β, IL-6, TNF-α) par les cellules myéloïdes et améliore le contrôle tumoral et la survie, y compris avec un anti-PD-L1, de manière dépendante de l'âge | [C] (PMID 42481458) |\n| Douleur et inflammation du système nerveux, axe neuroendocrinien | Effets anti-inflammatoires et analgésiques décrits chez l'animal ; thérapie génique de la thymuline chez la souris nude | [C, revue] (PMID 24588820) |\n| Régulation T-suppresseurs, maladies auto-immunes, vieillissement immunitaire chez l'humain | La revue de 1989 prévoit une application clinique, sans qu'un essai humain contrôlé ne soit identifié ici | [?] (PMID 2657247) |\n| Immunité du sujet âgé en bonne santé, longévité | Aucun essai humain trouvé | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet (règle 7 : pas de posologie). Le contenu des flacons « thymuline » du marché gris est inconnu sans analyse ; la dépendance au zinc de la molécule native rend la stabilité du produit commercial incertaine [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **France, médicament** : aucune spécialité à base de thymuline peptidique dans la base publique des médicaments. Seules deux spécialités homéopathiques sont listées (« Thymuline Boiron » 4 CH à 30 CH et « Thymuline Lehning » 5 CH à 30 CH, enregistrement homéopathique, commercialisées) (BDPM, fichier CIS_bdpm et CIS_COMPO_bdpm téléchargés le 2026-10-14).\n- **Peptide vendu en ligne** : non autorisé. La mise en garde de l'ANSM ne cite pas la thymuline nommément ; son message général s'applique (« Ces produits n'ont pas été évalués par les autorités de santé et ne sont pas autorisés », ANSM, 2026-07-02 mise à jour 2026-08-31, consultée le 2026-10-14).\n- **AMA** : la thymuline n'est pas nommée dans la Liste 2026 (recherche dans le texte de la Liste 2026, PDF WADA, consulté le 2026-10-14 ; la thymosine bêta-4 et ses dérivés, dont TB-500, sont en S2.3). Une substance sans approbation de santé humaine relève de S0 par la définition de la classe.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Aucune donnée de sécurité humaine récente sur la thymuline injectée trouvée [?]. La revue de 1989 la qualifie de « non toxique » sans donnée détaillée dans le résumé (PMID 2657247).\n- Immunostimulant et immunomodulateur : risque théorique de réactivation d'une maladie auto-immune et d'interaction avec les traitements immunosuppresseurs ou anticancéreux (immunothérapie) ; non étudié chez l'humain [?].\n- Grossesse, allaitement : aucune donnée trouvée [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Risques génériques : sous-dosage, mauvaise molécule (confusion fréquente entre thymuline, thymosine alpha-1 et thymosine bêta-4), contamination, endotoxines (ANSM, consultée le 2026-10-14). Analyse de flacons de thymuline : aucune trouvée [?].",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- Infections à répétition, « immunité faible » : bilan (NFS, immunoglobulines, sérologies selon le contexte), recherche d'un déficit en [zinc](fiche:zinc), en [vitamine D](fiche:vitamine-d) ou en fer ([fer et ferritine](fiche:fer-et-ferritine)), vaccinations (grippe, pneumocoque, zona, selon l'âge).\n- Vieillissement immunitaire : [sommeil](fiche:sommeil) et [exercice physique](fiche:exercice-physique) sont les leviers disponibles les mieux étayés dans le dépôt.\n- Pas de protocole de dosage ni d'injection, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7). Les granules homéopathiques « Thymuline » ne sont pas une preuve d'efficacité du peptide (voir TL;DR).\n\nVoir aussi : [thymosine alpha-1](fiche:thymosine-alpha-1), [TB-500](fiche:tb-500), [épitalon](fiche:epitalon) (peptide de l'équipe Khavinson, voir aussi la fiche suivante), [pinéalon et peptides de Khavinson](fiche:pinealon-et-peptides-de-khavinson).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Bach JF. *Med Oncol Tumor Pharmacother* 1989 — PMID 2657247 — [DOI](https://doi.org/10.1007/BF02985220) (revue)\n2. Reggiani PC et al. *Curr Pharm Des* 2014 — PMID 24588820 — [DOI](https://doi.org/10.2174/1381612820666140130211157) (revue)\n3. Kanemaru H et al. *Nat Commun* 2026 — PMID 42481458 — [DOI](https://doi.org/10.1038/s41467-026-75383-0)\n4. BDPM, fichiers CIS_bdpm et CIS_COMPO_bdpm, téléchargés le 2026-10-14.\n5. ANSM, « “Peptides” vendus en ligne : ne les utilisez pas, ils peuvent être dangereux », 2026-07-02, mis à jour 2026-08-31 — https://ansm.sante.fr/actualites/peptides-vendus-en-ligne-ne-les-utilisez-pas-ils-peuvent-etre-dangereux (consulté le 2026-10-14)\n6. AMA, Liste des interdictions 2026, classes S0 et S2.3 (consultée le 2026-10-14).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "Thymuline (facteur thymique sérique) et thymosine bêta",
+ "type": "actif",
+ "unite": ""
+}

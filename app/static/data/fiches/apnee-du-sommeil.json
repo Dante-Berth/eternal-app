@@ -1,0 +1,87 @@
+{
+ "cibles": [
+  "prevention",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "apnee-du-sommeil",
+ "intro": "Le syndrome d'apnées-hypopnées obstructives du sommeil (SAOS) est fréquent, sous-diagnostiqué, et associé à l'hypertension et aux maladies cardiovasculaires. Mais traiter par pression positive continue (PPC) n'a pas démontré, en randomisé, qu'il réduit les événements cardiovasculaires. Cette fiche sépare ce qui est démontré (somnolence, qualité de vie, tension chez les hypertendus non contrôlés) de ce qui reste une association.",
+ "liens": [
+  "bpco-et-asthme-prevention-spirometrie",
+  "prevention-avc-et-infarctus",
+  "prevention-diabete-type-2",
+  "sommeil",
+  "tabac-et-alcool",
+  "tension-arterielle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "31300334",
+  "36378202",
+  "34148375",
+  "27571048",
+  "37787793",
+  "38912654",
+  "39401854",
+  "26658438"
+ ],
+ "preuve_globale": "B",
+ "resume": "Fréquent : environ 936 millions d'adultes de 30-69 ans (IAH ≥ 5) et 425 millions (IAH ≥ 15) dans le monde selon une modélisation financée par ResMed, fabricant de PPC (PMID 31300334). Chez les adultes américains : 13 % des hommes et 6 % des femmes avec IAH ≥ 15 (PMID 36378202).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Fréquent** : environ 936 millions d'adultes de 30-69 ans (IAH ≥ 5) et 425 millions (IAH ≥ 15) dans le monde selon une modélisation financée par ResMed, fabricant de PPC (PMID 31300334). Chez les adultes américains : 13 % des hommes et 6 % des femmes avec IAH ≥ 15 (PMID 36378202).\n- **Dépistage de masse non recommandé** : preuves insuffisantes chez l'adulte asymptomatique (USPSTF 2022, recommandation I) [B, recommandations] (PMID 36378202). Dépister en cas de symptômes ou de contexte cardiovasculaire (hypertension résistante, fibrillation auriculaire récidivante, insuffisance cardiaque…) [B, avis d'experts] (PMID 34148375).\n- **PPC : efficace sur ronflement, somnolence, qualité de vie et humeur, pas sur les événements cardiovasculaires.** SAVE (n=2 717) : HR 1,10 (0,91-1,32), observance 3,3 h/nuit [B, ECR unique n=2717] (PMID 27571048) ; méta-analyse individuelle de 3 essais (n=4 186) : HR 1,01 (0,87-1,17) [A] (PMID 37787793).\n- **Observance ≥ 4 h/nuit** : HR 0,69 (0,52-0,92) en analyse « sous traitement », donc non randomisée, sensible au biais du patient observant [A, analyse non randomisée] (PMID 37787793).\n- **Perte de poids : tirzepatide -20,0 événements/h d'IAH vs placebo à 52 semaines** chez les obèses, essai 1 [B, 2 ECR phase 3] (PMID 38912654) ; statut français de cette indication non vérifié [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Obstructions répétées des voies aériennes supérieures pendant le sommeil, avec hypoxémie intermittente, fluctuations du système nerveux autonome et fragmentation du sommeil (PMID 34148375). Facteurs de risque : excès de poids, âge, sexe masculin ; la prévalence varie selon l'origine et l'obésité (PMID 34148375). Les mécanismes causaux précis vers l'hypertension ou la fibrillation auriculaire ne sont pas extraits ici [?].",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Levier | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| PPC (CPAP) | maintient les voies aériennes ouvertes | symptômes et qualité de vie améliorés ; événements CV non réduits : HR 1,10 (SAVE) [B, ECR unique n=2717] (PMID 27571048) ; HR 1,01 [A] (PMID 37787793) ; PA : SBP -2,6 mmHg si PA non contrôlée contre 0 si contrôlée [A] (PMID 39401854) | dispositif remboursé sous conditions (ameli, 2026-08-07) | pris en charge, reste à charge non recherché |\n| Perte de poids (diète, chirurgie, médicaments) | réduit la charge adipeuse cervicale/abdominale [?] | tirzepatide : IAH -25,3 vs -5,3 /h (essai 1, différence -20,0 ; -25,8 à -14,2) ; essai 2 (sous PPC) différence -23,8 [B, 2 ECR phase 3] (PMID 38912654). Ameli : même une perte modérée réduit nettement la sévérité (non vérifié contre un essai) [?] | tirzepatide : AMM OSA non vérifiée [?] | non recherché |\n| Orthèse d'avancée mandibulaire | avance la mâchoire, élargit le pharynx | efficacité sur l'IAH et les événements CV par rapport à la PPC : non relue [?] | dispositif sur mesure remboursé sous entente préalable (ameli, 2026-08-07) | non recherché |\n| Position latérale, arrêt de l'alcool le soir, arrêt du tabac, activité physique | réduit le collapsus des voies aériennes | ameli : dormir sur le côté peut réduire de moitié les obstructions dans l'apnée modérée (non vérifié dans un essai) [?] | non applicable | 0 |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- **SAVE** (2 717 adultes 45-75 ans, apnée modérée à sévère, maladie coronaire ou cérébrovasculaire, suivi moyen 3,7 ans) : événement composite chez 17,0 % sous PPC vs 15,4 % sous soins usuels (HR 1,10 ; 0,91-1,32 ; P=0,34). IAH passé de 29,0 à 3,7/h. PPC : ronflement, somnolence, qualité de vie et humeur améliorés. Participants peu somnolents, observance moyenne 3,3 h/nuit [B, ECR unique n=2717] (PMID 27571048).\n- **Méta-analyse individuelle (SAVE, ISAACC, RICCADSA ; n=4 186)** : événement CV majeur HR 1,01 (0,87-1,17) en intention de traiter ; HR 0,69 (0,52-0,92) pour l'observance ≥ 4 h/jour par modèle structurel marginal. Le second est une association, pas un effet randomisé [A] (PMID 37787793).\n- **Tension artérielle** : méta-analyse individuelle, 36 essais parallèles, 9 434 patients : PPC réduit la PA seulement si la PA de consultation est non contrôlée au départ (SBP -2,6 mmHg vs 0) [A] (PMID 39401854). Voir [tension artérielle](fiche:tension-arterielle).\n- **Dépistage (STOP-Bang)** : méta-analyse de 17 études (9 206 patients) : en clinique du sommeil, sensibilité 90 %, 94 %, 96 % pour IAH ≥ 5, ≥ 15, ≥ 30 ; valeur prédictive négative 46 %, 75 %, 90 %. Probabilité d'apnée sévère : 25 % pour un score de 3, 75 % pour 7-8 [A] (PMID 26658438). Étudié en clinique du sommeil et en chirurgie, pas en population générale.\n- **Tirzepatide** (SURMOUNT-OSA) : IMC moyen 39, IAH de départ ~50/h ; effets indésirables surtout digestifs ; baisse de poids, du fardeau hypoxique, de la CRP-us et de la PA systolique [B, 2 ECR phase 3] (PMID 38912654).",
+   "titre": "Ce que montrent les essais"
+  },
+  {
+   "markdown": "- **Débutant** : repérer ronflement fort, pauses respiratoires constatées, somnolence diurne ; perdre du poids si excès, réduire l'alcool le soir, arrêter le tabac (ameli) ; voir [sommeil](fiche:sommeil).\n- **Intermédiaire** : consulter le médecin traitant pour un enregistrement du sommeil (polygraphie ou polysomnographie), qui confirme le diagnostic et la sévérité (ameli).\n- **Avancé** : PPC ou orthèse selon l'IAH et les comorbidités, avec suivi d'observance ; PPC recommandée si IAH ≥ 30, ou IAH 15-30 avec au moins 10 micro-éveils/h ou maladie cardiorespiratoire grave associée (ameli, 2026-08-07).",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Attendre de la PPC une réduction de l'infarctus ou de l'AVC : non démontré (HR 1,10 et 1,01).\n- Abandonner la PPC parce qu'elle « ne change rien » alors que la somnolence réapparaît dès une nuit sans PPC (ameli).\n- Se fier à un appareil grand public de suivi du sommeil pour exclure l'apnée : non évalué ici [?].\n- Prendre des somnifères ou des anxiolytiques sans en parler : ces médicaments peuvent aggraver l'apnée (ameli).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« La PPC protège le cœur »** [M] : [A] non confirmé en randomisé en prévention secondaire (PMID 27571048, 37787793).\n- **« Une orthèse ou un dilatateur nasal du commerce soigne l'apnée »** [M] : non recherché ; ameli précise que l'orthèse d'avancée mandibulaire doit être sur mesure et prescrite [?].\n- **« Perdre du poids n'aide pas »** : faux pour les obèses : IAH -25,3/h sous tirzepatide (départ 51,5/h) contre -5,3/h sous placebo dans l'essai 1 [B, ECR phase 3] (PMID 38912654), même si la perte de poids par médicament ne remplace pas un diagnostic.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- SAVE a enrôlé des patients peu somnolents : l'absence d'effet cardiovasculaire ne s'applique pas à ceux qui sont très somnolents, qui n'ont pas été étudiés comme tels dans cet essai (PMID 27571048).\n- La modélisation de prévalence de 936 millions est financée par un fabricant de PPC (PMID 31300334).\n- L'AHA recommande de dépister l'apnée chez les patients à hypertension résistante, hypertension pulmonaire ou fibrillation auriculaire récidivante après cardioversion ou ablation ; la prévalence de l'OSA atteint 40 à 80 % dans l'hypertension, l'insuffisance cardiaque, la coronaropathie, la fibrillation auriculaire et l'AVC (PMID 34148375).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- PPC : prise en charge par l'Assurance Maladie sous entente préalable, renouvelée chaque année ; initiale valable 4 mois, observance sur 28 jours et efficacité exigées ; prescription initiale par pneumologue ou médecin formé (ameli, page du 2026-08-07, consultée le 2026-10-15).\n- Orthèse d'avancée mandibulaire : prise en charge sous entente préalable, exclut la prise en charge de la PPC (même source).\n- Tirzepatide (Mounjaro) : indication « apnée du sommeil » en UE, remboursement : non vérifiés en BDPM/EMA [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Ronflement fort avec pauses respiratoires, somnolence diurne, endormissements involontaires (conduite).\n- Hypertension résistante, fibrillation auriculaire récidivante, insuffisance cardiaque avec fatigue ou somnolence.\n- Réveils avec asphyxie, céphalées matinales, nycturie.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 27571048 — McEvoy RD et al., *N Engl J Med* 2016, SAVE (résumé relu).\n- PMID 37787793 — Sánchez-de-la-Torre M et al., *JAMA* 2023 (résumé relu).\n- PMID 39401854 — Pengo MF et al., *Eur Respir J* 2025 (résumé relu).\n- PMID 36378202 — USPSTF, *JAMA* 2022 (résumé relu).\n- PMID 34148375 — Yeghiazarians Y et al., *Circulation* 2021, AHA (résumé relu).\n- PMID 31300334 — Benjafield AV et al., *Lancet Respir Med* 2019 (résumé relu ; financement ResMed).\n- PMID 26658438 — Nagappa M et al., *PLoS One* 2015, STOP-Bang (résumé relu).\n- PMID 38912654 — Malhotra A et al., *N Engl J Med* 2024, SURMOUNT-OSA (résumé relu).\n- Web : ameli.fr, « Traitement de l'apnée du sommeil » (page du 2026-08-07) et « Symptômes, diagnostic », consultés le 2026-10-15.\n\nVoir aussi : [prévention de l'AVC et de l'infarctus](fiche:prevention-avc-et-infarctus), [prévention du diabète de type 2](fiche:prevention-diabete-type-2), [sommeil](fiche:sommeil), [tabac et alcool](fiche:tabac-et-alcool), [BPCO et asthme](fiche:bpco-et-asthme-prevention-spirometrie).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Apnée obstructive du sommeil : dépistage, risques cardiovasculaires, traitements",
+ "type": "condition",
+ "unite": ""
+}

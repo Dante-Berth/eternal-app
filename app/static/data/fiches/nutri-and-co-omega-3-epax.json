@@ -1,0 +1,68 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "complement",
+ "id": "nutri-and-co-omega-3-epax",
+ "intro": "",
+ "liens": [
+  "omacor-1000-mg",
+  "omega-3"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "36103100",
+  "21063431",
+  "36291569",
+  "32114706",
+  "34612056"
+ ],
+ "preuve_globale": "A",
+ "resume": "Huile concentrée de bonne qualité déclarée (forme triglycéride, TOTOX publié) à un prix au gramme correct, mais très riche en DHA et pauvre en EPA, alors que les essais cardiovasculaires et de récupération reposent surtout sur l'EPA ou sur des mélanges plus riches en EPA.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Huile concentrée de bonne qualité déclarée (forme triglycéride, TOTOX publié) à un prix au gramme correct, mais très riche en DHA et pauvre en EPA, alors que les essais cardiovasculaires et de récupération reposent surtout sur l'EPA ou sur des mélanges plus riches en EPA.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur déclarée (3 capsules) | Preuve |\n|---|---|---|\n| DHA | 750 mg | Cognition : effet minime [A] ; allégations UE « cerveau » et « vision » dès 250 mg/j (voir [oméga-3](fiche:omega-3)) |\n| EPA | 150 mg | Le bénéfice cardiovasculaire des essais est surtout porté par l'EPA purifié à forte dose [A] (PMID 36103100) ; 150 mg/j en est très loin |\n| Huile de poisson (anchois, sardine, maquereau) | 1 500 mg, dont 1 050 mg d'oméga-3, concentration EPAX, forme triglycéride | Forme triglycéride mieux incorporée que l'ester éthylique [B, ECR unique n=150] (PMID 21063431) |\n| Vitamine E (tocophérols) | 3 mg | Antioxydant de conservation |\n\nComposition, origine (côtes du Chili et du Pérou), enveloppe en gélatine de poisson et extrait de romarin : site de la marque (nutriandco.com, consulté le 2026-10-03). Aucune analyse indépendante de ce produit précis trouvée [?] ; l'étude de 20 compléments vendus en France ne nomme pas les marques (PMID 36291569).",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Complément alimentaire. Allégations UE autorisées : fonction cardiaque normale (250 mg/j d'EPA+DHA), fonctionnement normal du cerveau et vision normale (250 mg/j de DHA) (règlement (UE) n° 432/2012 ; registre UE des allégations, consulté le 2026-10-03). Labels Friend of the Sea et MSC déclarés par la marque (nutriandco.com, consulté le 2026-10-03). Non concerné par l'AMA.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque dit | Les études |\n|---|---|\n| Huile « ultra-concentrée », forme triglycéride « bio-disponible » | [B, ECR unique n=150] la forme triglycéride élève un peu plus l'indice oméga-3 que l'ester éthylique (PMID 21063431) ; effet clinique inconnu [?] |\n| TOTOX < 10 à la production, garanti < 26 (seuil GOED) jusqu'à péremption | Donnée fabricant, pas de certificat indépendant consulté [M] ; en France, les 20 compléments analysés en 2022 respectaient tous les seuils GOED [B] (PMID 36291569) |\n| Bienfaits cœur, cerveau, vision | Allégations nutritionnelles autorisées à 250 mg/j ; pas de prévention cardiovasculaire démontrée par un complément [A] (PMID 32114706) |",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Selon la marque : 2 à 3 capsules par jour au repas, 3 pour les femmes enceintes et les sportifs (nutriandco.com, consulté le 2026-10-03). À 3 capsules : 900 mg/j d'EPA+DHA, sous le seuil de 1 g/j au-delà duquel le risque de fibrillation atriale est plus marqué dans les essais cardiovasculaires [A] (PMID 34612056). Sous anticoagulant ou avant une chirurgie : avis médical.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Boîte de 120 capsules : 19,90 € (Redcare Pharmacie, Amazon, Comptoir de la Forme) à 22,90 € (Easypara) (prix relevés via recherche web le 2026-10-03).\n- 120 capsules × 300 mg = 36 g d'EPA+DHA : **0,55 à 0,64 € par gramme d'EPA+DHA**.\n- Par mois : 10 à 11,50 € à 2 capsules/j ; 15 à 17 € à 3 capsules/j.\n- Alternative : [Omacor](fiche:omacor-1000-mg), médicament sans ordonnance, 0,58 à 1,11 €/g avec une teneur contrôlée de médicament et un ratio EPA/DHA plus équilibré (460/380 mg), mais en forme ester éthylique. Pour un apport nutritionnel simple, deux portions de poisson gras par semaine restent l'option de base.",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non relevés de façon systématique [?]. La marque met en avant l'absence d'arrière-goût de poisson (allégation non vérifiée [M]).",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 21063431 — Neubronner J et al., *Eur J Clin Nutr* 2011. doi:10.1038/ejcn.2010.239\n- PMID 36291569 — Pasini F et al., *Biomolecules* 2022. doi:10.3390/biom12101361\n- PMID 36103100 — Yan J et al., *Cardiovasc Drugs Ther* 2022. doi:10.1007/s10557-022-07379-z\n- PMID 32114706 — Abdelhamid AS et al., *Cochrane Database Syst Rev* 2020. doi:10.1002/14651858.CD003177.pub5\n- PMID 34612056 — Gencer B et al., *Circulation* 2021. doi:10.1161/CIRCULATIONAHA.121.055654\n- Nutri&Co, page « Oméga 3 EPAX » (composition, dose, TOTOX, labels), consultée le 2026-10-03.\n- Prix : Redcare Pharmacie, Amazon.fr, Comptoir de la Forme, Easypara (via recherche web), relevés le 2026-10-03.\n- Règlement (UE) n° 432/2012 (registre UE des allégations), consulté le 2026-10-03.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Oméga 3 EPAX — Nutri&Co",
+ "type": "produit",
+ "unite": ""
+}

@@ -1,0 +1,69 @@
+{
+ "cibles": [
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-29",
+ "famille": "peptide",
+ "id": "dihexa",
+ "intro": "",
+ "liens": [
+  "cerebrolysine-et-cortexine",
+  "humanine",
+  "kpv",
+  "selank-et-semax"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 1,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "25187433"
+ ],
+ "preuve_globale": "C",
+ "resume": "Peptide synthétique dérivé de l'angiotensine IV, décrit comme actif par voie orale et capable de franchir la barrière hémato-encéphalique ; vendu en ligne pour la mémoire, l'« anti-Alzheimer » et la plasticité synaptique.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Peptide synthétique dérivé de l'angiotensine IV, décrit comme actif par voie orale et capable de franchir la barrière hémato-encéphalique ; vendu en ligne pour la mémoire, l'« anti-Alzheimer » et la plasticité synaptique.\n- **L'article qui établit son mécanisme (liaison à l'HGF, activation de c-Met, effet procognitif chez le rat) est signalé « Retracted Publication » dans PubMed** (PMID 25187433, J Pharmacol Exp Ther 2014 ; consulté le 2026-10-29). Le motif de la rétractation n'a pas été lu dans cette session [?]. Ce que le dépôt peut affirmer : le socle mécanistique le plus cité n'est plus utilisable comme preuve.\n- Les auteurs de cet article étaient affiliés à une société qui développe la molécule (M Biotechnology, Seattle) : conflit d'intérêts visible dans les affiliations.\n- **Aucun essai humain trouvé** : recherche PubMed « dihexa » croisée avec angiotensine IV/HGF/cognition : 1 résultat, l'article rétracté ; ClinicalTrials.gov non interrogé pour cette molécule [?].\n- Le « 10 millions de fois plus puissant que le BDNF » est une allégation de marque [M] ; non retrouvée dans une publication vérifiée.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Liaison à l'hormone de croissance des hépatocytes (HGF), potentialisation de c-Met, synaptogenèse hippocampique [C] (PMID 25187433, article rétracté : ne pas s'y fier). Le système HGF/c-Met est aussi impliqué dans la croissance tumorale et l'angiogenèse : un activateur de cette voie pose une question de sécurité oncologique, non étudiée chez l'humain [?] (inférence de mécanisme, non démontrée pour le dihexa).",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Mémoire spatiale, rat | Effet procognitif oral bloqué par un antagoniste de l'HGF, dans l'article rétracté | [C] (PMID 25187433, rétracté, non utilisable) |\n| Cellules en culture | Phosphorylation de c-Met en présence d'HGF à concentration sous-seuil | [D] (PMID 25187433, rétracté, non utilisable) |\n| Mémoire, démence, cognition chez l'humain | Aucune donnée trouvée | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « Plus puissant que le BDNF » : allégation fabricant [M]. La preuve primaire citée ne résiste pas à la rétractation.\n- « Oral, donc sans risque » : l'absence de risque n'est pas documentée ; il n'existe aucune donnée de toxicologie humaine [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- **France/UE** : aucune occurrence de « dihexa » dans le fichier CIS_COMPO_bdpm de la base publique des médicaments (téléchargé le 2026-10-29). Non autorisé ; substance non approuvée (règle 7).\n- **AMA** : pas de recherche nominative dans la liste 2026 pour cette fiche ; une substance non approuvée relève de la classe S0 par définition (non vérifié ici pour le dihexa) [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Aucune donnée de sécurité humaine [?].\n- Risque théorique : activation de la voie HGF/c-Met (prolifération), à ne pas banaliser chez une personne ayant un antécédent de cancer ou de lésion pré-cancéreuse (extrapolation de mécanisme, pas un fait établi).\n- Marché gris : sous-dosage, mauvaise molécule, contamination, endotoxines (ANSM, mise en garde sur les « peptides » vendus en ligne, voir [KPV](fiche:kpv) pour la source citée).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- Plainte de mémoire : bilan (sommeil, thyroïde, B12, dépression, médicaments, apnée) puis consultation mémoire si besoin ; voir [cerveau](../../vues/themes/cerveau.md).\n- Leviers mieux étayés : exercice, sommeil, contrôle des facteurs vasculaires.\n- Pas de protocole de dosage, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).\n\nVoir aussi : [sélank et sémax](fiche:selank-et-semax), [cérébrolysine et cortexine](fiche:cerebrolysine-et-cortexine), [humanine](fiche:humanine).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Benoist CC et al. *J Pharmacol Exp Ther* 2014 — PMID 25187433 — [DOI](https://doi.org/10.1124/jpet.114.218735) — **marqué rétracté dans PubMed** (résumé relu le 2026-10-29 ; notice de rétractation non lue).\n2. BDPM, fichier CIS_COMPO_bdpm, téléchargé le 2026-10-29 : aucune occurrence « dihexa ».",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "Dihexa (analogue de l'angiotensine IV, « nootropique » HGF/c-Met)",
+ "type": "actif",
+ "unite": ""
+}

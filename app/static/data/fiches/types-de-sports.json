@@ -1,0 +1,92 @@
+{
+ "cibles": [
+  "muscle-os",
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "comportement",
+ "id": "types-de-sports",
+ "intro": "Complète [exercice-physique.md](fiche:exercice-physique) (doses, recommandations OMS, mortalité par volume). Ici : **quel sport pour quel bénéfice**. Constat central : la comparaison directe entre sports sur la mortalité ne repose que sur des cohortes (au mieux [B]) ; les essais randomisés comparent des *modalités* (aérobie, résistance, tai-chi…) sur des critères intermédiaires (tension, équilibre, densité osseuse), pas des sports sur la survie.",
+ "liens": [
+  "entrainement-concurrent-et-periodisation",
+  "entrainement-en-resistance",
+  "exercice-physique",
+  "hiit-et-zone-5-vo2max",
+  "zone-2-et-endurance"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 21,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "36001316",
+  "27895075",
+  "41617082",
+  "27476628",
+  "32210834",
+  "31989457",
+  "41762472",
+  "42780494",
+  "42111473",
+  "42822168",
+  "26210229",
+  "42600321",
+  "42603704",
+  "42741013",
+  "42326926",
+  "41929899",
+  "30703272",
+  "42612386",
+  "40000283",
+  "42571063",
+  "42662491"
+ ],
+ "preuve_globale": "A",
+ "resume": "Mortalité : dans deux grosses cohortes, raquette, course et natation sont associées aux plus fortes baisses, mais les classements diffèrent entre cohortes (la course est non significative dans l'une) [B].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Mortalité** : dans deux grosses cohortes, raquette, course et natation sont associées aux plus fortes baisses, mais les classements diffèrent entre cohortes (la course est non significative dans l'une) [B].\n- **Os** : les sports à impact et la musculation chargent l'os ; natation et vélo n'ont pas montré d'effet positif sur la densité osseuse dans une revue systématique [B].\n- **Équilibre/chutes** : danse, tai-chi, entraînement de perturbation en tête des estimations (le rang n'est pas un effet mesuré) [A].\n- **Tension artérielle** : tai-chi et aérobie ont les preuves les plus nettes parmi les modalités comparées ; yoga, HIIT, résistance : preuve non convaincante sur les paramètres cardiométaboliques dans cette revue parapluie [A, faible certitude].\n- **Escalade, sports de combat** (santé long terme chez l'adulte) : aucune donnée solide trouvée [?].\n- Le « meilleur sport » n'existe pas : celui qu'on pratique régulièrement, avec du renforcement musculaire et un peu d'impact, domine.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Non revérifié ici [?]. Logique d'ensemble, à lire comme hypothèse : l'os répond à la charge mécanique (impact, force musculaire), pas au volume cardio ; la survie suit surtout le volume d'activité et la condition cardio-respiratoire (voir exercice-physique.md). Les cohortes ci-dessous ne permettent pas de séparer l'effet du sport de celui du profil de ceux qui le pratiquent.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Mortalité toutes causes, par sport (cohortes)\n| Sport | NIH-AARP, 272 550 pers. de 59-82 ans, 7,5 à moins de 15 MET-h/sem vs ne pratique pas (PMID 36001316) | Cohorte britannique HSE/SHeS, 80 306 pers. (PMID 27895075) | Preuve |\n|---|---|---|---|\n| Raquette | HR 0,84 (0,75-0,93) | HR 0,53 (0,40-0,69) | [B] |\n| Course | HR 0,85 (0,78-0,92) | non significatif | [B, contradictoire] |\n| Marche d'exercice | HR 0,91 (0,89-0,93) | non évalué | [B] |\n| Natation | HR 0,95 (0,92-0,98) | HR 0,72 (0,65-0,80) | [B] |\n| Vélo | HR 0,97 (0,95-0,99) | HR 0,85 (0,76-0,95) | [B] |\n| Golf | HR 0,93 (0,90-0,97) | non évalué | [B] |\n| Football | non évalué | non significatif | [B] |\n| Aérobic | « autre aérobie » HR 0,93 (0,90-0,95) | HR 0,73 (0,63-0,85) | [B] |\n\nMortalité cardiovasculaire (cohorte britannique) : baisse pour natation (HR 0,59), raquette (HR 0,44) et aérobic (HR 0,64) ; pas d'association significative pour vélo, course, football (PMID 27895075) [B]. Dans NIH-AARP, toutes les activités montrent une relation courbe avec rendements décroissants : le gain principal vient des premiers MET-h (PMID 36001316) [B].\n\n**Limites, à lire avant de classer** :\n- Biais de sélection et de santé : qui joue au tennis ou nage à 60 ans est déjà en meilleure santé, plus aisé, souvent plus éduqué ; l'ajustement statistique réduit mais n'élimine pas ce biais. Causalité non démontrée [B].\n- Causalité inverse : les personnes fragiles abandonnent la course ou le vélo.\n- Les deux cohortes se contredisent sur la course et sur l'ampleur (HR 0,53 vs 0,84 pour la raquette) : les populations (âge moyen 52 vs 70 ans), les définitions d'exposition et la durée de pratique diffèrent. Les écarts entre sports voisins (HR 0,95 vs 0,97) ne sont pas interprétables comme une hiérarchie.\n- Le sport est auto-déclaré, à un seul moment, sans mesure de l'intensité réelle.\n- Le sport social (raquette, équipe) confond effet de l'activité et effet du lien social ; non séparé dans ces données [?].\n\n### Os (densité minérale osseuse, DMO)\n| Question | Résultat | Preuve |\n|---|---|---|\n| Exercice ≥ 24 semaines, femmes ménopausées, 74 essais (5 331 pers.), méta-analyse en réseau | mind-body + résistance : modalité la plus efficace (rachis lombaire, col fémoral, corps entier) ; impact, résistance, aérobie, mind-body seuls : effets propres à certains sites ; interventions ≥ 52 sem. plus constantes ; effet décroissant avec le temps (PMID 41617082) | [A, effets dépendants du site] |\n| Natation et vélo, revue systématique 2004-2014 | 9 études sur 10 sur le cyclisme professionnel associent la pratique à une DMO basse ; 18 études : pas d'effet positif de la natation sur la masse osseuse. Les auteurs concluent que ces sports ne conviennent pas à la prévention de l'ostéoporose (PMID 27476628) | [B, revue de petites études ; vélo *professionnel*, non transposable au vélo de loisir] |\n| Sports non élites, adolescents et jeunes adultes (football, natation, vélo, gymnastique, danse, badminton, basket, escrime, lutte, judo), 6 études | tous rapportent un bénéfice des sports portés sur l'os mesuré par ultrasons du calcanéum ; pas de méta-analyse (hétérogénéité) (PMID 32210834) | [B, 6 études, jeunes] |\n| Football récréatif, sujets non entraînés, revue de 41 études | DMO +5 à 13 %, contenu minéral osseux +4 à 5 % (PMID 31989457) | [B, petites études, effectifs non précisés dans le résumé] |\n\nLecture : pour l'os, préférer des sports de charge (marche rapide, course, sauts, football, raquette, danse) et la musculation ; natation et vélo restent utiles pour le cœur, pas pour l'os. Effet sur les fractures par sport : non trouvé [?].\n\n### Santé cardiovasculaire et métabolique (essais, par modalité)\n| Modalité | Résultat | Preuve |\n|---|---|---|\n| Tai-chi | revue parapluie de 16 méta-analyses : PAS −8,80 mmHg à ≥ 6 mois, PAD −4,62 mmHg, cholestérol total −8,46 mg/dL chez des hypertendus ; yoga, HIIT, résistance, qigong : pas de preuve convaincante (PMID 41762472) | [A, faible certitude globale] |\n| Tai-chi, femmes ≥ 45 ans, 18 ECR | baisse de PAS, PAD, LDL-C, triglycérides, cholestérol total ; pas d'effet sur HDL-C ni glycémie ; hétérogénéité forte, intervalles de prédiction englobant 0 (PMID 42780494) | [A, certitude limitée] |\n| Yoga | tendances favorables sur stress, hypertension, glycémie et lipides, hétérogénéité qui limite la précision selon les auteurs (PMID 42111473) | [A, très hétérogène, effet modeste] |\n| Aînés, 57 essais, méta-analyse en réseau | chaque modalité en tête sur un critère différent (aérobie : HDL et PAD ; combiné : PAS et glycémie ; résistance : triglycérides et IMC ; HIIT : HbA1c) ; certitude faible ou très faible pour plusieurs critères ; le rang SUCRA seul n'établit pas la supériorité (PMID 42822168) | [A, faible certitude] |\n| Football récréatif, 17 études | VO2max +3,51 mL/kg/min vs autres modèles d'entraînement ; I² 69-88 % ; supérieur à la course continue de façon modérée (PMID 26210229) | [B, méta-analyse hétérogène ; types d'étude non précisés dans le résumé] |\n| Football en petits jeux, 41 études | VO2max +7 à 16 %, PAS −7,5 %, PAD −10,3 %, masse grasse −2 à −5 %, LDL −15 % ; aucune blessure d'entraînement rapportée (PMID 31989457) | [B] |\n\n### Équilibre, chutes, cognition, humeur\n- **Équilibre ≥ 60 ans, 423 essais (33 901 pers.), NMA bayésienne** : 18 modalités sur 19 améliorent l'équilibre global (étirements : pas de bénéfice net) ; plus fortes estimations : entraînement de perturbation 0,66, entraînement sensoriel 0,55, **danse 0,54**, pas agiles 0,53 ; Tai-chi en tête pour l'équilibre global. Les auteurs précisent que ces estimations n'établissent pas de supériorité (PMID 42600321) [A].\n- **Aquatique (≥ 60 ans, 31 études)** : équilibre ES 1,16, force ES 1,14 vs contrôle ; pas de différence significative avec l'entraînement à terre ; I² > 90 %, qualité méthodologique inégale (PMID 42603704) [A, hétérogénéité très forte]. Utile pour l'articulaire douloureux, pas démontré supérieur.\n- **Tai-chi et humeur** (23 ECR, mind-body, ≥ 60 ans) : rang SUCRA tai-chi 83 % ; Pilates repose sur 2 essais ; plusieurs IC englobent 0 (PMID 42741013) [A, faible certitude ; le rang n'est pas un effet mesuré].\n- **Tai-chi numérique** : cognition globale SMD 0,64 (10 ECR, 907 pers., certitude très faible à modérée) (PMID 42326926), mais pas d'avantage net sur force et mobilité (PMID 41929899) [A, faible certitude].\n- **Chutes** (Cochrane, certitude élevée : équilibre et exercices fonctionnels ; effet incertain de la danse et de la marche seules) : voir [exercice-physique.md](fiche:exercice-physique) (PMID 30703272, déjà référencé).\n- **Cognition par sport** (hors recommandations générales d'exercice-physique.md) : pas de comparaison sport par sport fiable trouvée [?].\n\n### Autres sports\n- **Escalade/bloc** : recherche PubMed sans résultat ciblé exploitable sur la santé d'adultes [?].\n- **Sports de combat** (judo, boxe, karaté) : pas de donnée solide de santé long terme chez l'adulte lue dans cette passe [?]. Les cohortes ci-dessus ne les isolent pas.\n- **Marche** : voir la mortalité par pas dans exercice-physique.md [B].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet pour une substance. Dose : voir exercice-physique.md. Dans NIH-AARP, 7,5 à moins de 15 MET-h/sem suffisent à observer l'association pour chaque sport (PMID 36001316) [B].",
+   "titre": "Concentrations/doses : ce qui est étudié vs ce qui se vend"
+  },
+  {
+   "markdown": "- **« La course use les genoux »** / **« la natation est le sport complet »** : la natation est associée à une baisse de mortalité en cohorte [B] mais n'a pas montré d'effet osseux [B] ; « complet » est un slogan, pas un résultat.\n- **« Le vélo suffit pour les os »** : non étayé (voir os) [B].\n- **« Le yoga fait baisser la tension / protège le cœur autant que le cardio »** : dans la revue parapluie, pas de preuve convaincante sur les paramètres cardiométaboliques pour le yoga, contrairement au tai-chi et à l'aérobie [A, faible certitude].\n- **« Tel sport rallonge la vie de X ans »** : les cohortes donnent des HR, pas des années de vie ; les écarts entre sports ne sont pas robustes entre cohortes [B].\n- **« Le football prévient les maladies chroniques »** (slogan FIFA cité dans la méta-analyse sur le VO2max) : l'effet VO2max est réel mais hétérogène [B] ; le football est non significatif sur la mortalité dans la cohorte britannique [B].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- **Blessures de course** : passage rapide à des chaussures minimalistes → risque musculo-squelettique accru (effet 3,529, IC 2,41-4,646 ; 7 études, 313 coureurs) : œdème osseux métatarsien, tendinopathie d'Achille (PMID 42612386) [A, petits effectifs]. Coureuses avec apports énergétiques et lipidiques plus bas : risque de blessure plus élevé (PMID 40000283) [B, cohortes].\n- **Danse** : revue de 11 études (906 danseuses, surtout ballet, surtout transversales) : troubles alimentaires et risque de faible disponibilité énergétique 28-74 %, dysfonction menstruelle 40-66 %, DMO basse 15-40 % (PMID 42571063) [B] ; concerne la danse à haut niveau esthétique, pas la danse de loisir.\n- **Charge d'entraînement** : le ratio charge aiguë/chronique (ACWR) élevé est associé à plus de blessures (g 0,35, hétérogénéité I² 95,8 %), mais ne doit pas servir de prédicteur isolé (PMID 42662491) [A, hétérogénéité très forte, sports collectifs].\n- **Football** : aucune blessure d'entraînement rapportée dans les 41 études sur petits jeux (PMID 31989457) [B], mais ces protocoles sont encadrés et courts ; le football en compétition amateur n'est pas couvert [?].\n- **Ostéoporose avérée** : éviter chutes et flexions de rachis chargées sans avis ; pas de recommandation extraite ici pour chaque sport [?].\n- Cardiopathie connue, douleur thoracique, syncope : avis médical avant sport intense (voir exercice-physique.md).\n- Blessures des sports de combat et de l'escalade : non quantifiées dans cette passe [?].",
+   "titre": "Sécurité, contre-indications"
+  },
+  {
+   "markdown": "—",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "Douleur thoracique ou palpitations à l'effort, syncope, essoufflement anormal ; douleur osseuse localisée persistante (fracture de contrainte) ; ostéoporose ou fracture antérieure avant un sport à impact ; aménorrhée ou perte de poids involontaire chez une sportive ; reprise après 40-50 ans avec facteurs de risque CV.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 36001316 — Watts E.L. et al., *JAMA Netw Open* 2022 (types d'activité de loisir et mortalité). doi:10.1001/jamanetworkopen.2022.28510\n- PMID 27895075 — Oja P. et al., *Br J Sports Med* 2017 (sports et mortalité, 80 306 Britanniques). doi:10.1136/bjsports-2016-096822\n- PMID 41617082 — Zhou Z. et al., *J Sport Health Sci* 2026 (exercice et DMO, femmes ménopausées). doi:10.1016/j.jshs.2026.101127\n- PMID 27476628 — Abrahin O. et al., *Rev Bras Reumatol* 2016 (natation, vélo, DMO). doi:10.1016/j.rbre.2016.02.013\n- PMID 32210834 — Patel et al., *Front Physiol* 2020 (sports non élites et densité osseuse). doi:10.3389/fphys.2020.00167\n- PMID 31989457 — Zouhal H. et al., *Sports Med* 2020 (petits jeux de football). doi:10.1007/s40279-019-01256-w\n- PMID 26210229 — Milanović Z. et al., *Sports Med* 2015 (football récréatif et VO2max). doi:10.1007/s40279-015-0361-4\n- PMID 41762472 — Chatzi et al., *J Diabetes Complications* 2026 (revue parapluie, facteurs cardiométaboliques). doi:10.1016/j.jdiacomp.2026.109305\n- PMID 42780494 — Ma J. et al., *Front Cardiovasc Med* 2026 (tai-chi, femmes). doi:10.3389/fcvm.2026.1933311\n- PMID 42111473 — Radhamani et al., *Front Clin Diabetes Healthc* 2026 (yoga). doi:10.3389/fcdhc.2026.1805160\n- PMID 42822168 — Shao et al., *Arch Gerontol Geriatr* 2026 (modalités, aînés, NMA). doi:10.1016/j.archger.2026.106384\n- PMID 42600321 — Wang J. et al., *Ageing Res Rev* 2026 (modalités et équilibre). doi:10.1016/j.arr.2026.103303\n- PMID 42603704 — Reichert T. et al., *J Aging Phys Act* 2026 (entraînement aquatique). doi:10.1123/japa.2025-0083\n- PMID 42741013 — Wang Z. et al., *Front Public Health* 2026 (mind-body et dépression). doi:10.3389/fpubh.2026.1888299\n- PMID 42326926 — Zhao C. et al., *Front Public Health* 2026 (tai-chi numérique, santé). doi:10.3389/fpubh.2026.1831134\n- PMID 41929899 — Gu F. et al., *Front Public Health* 2026 (tai-chi numérique, muscle). doi:10.3389/fpubh.2026.1793728\n- PMID 42612386 — Río et al., *Gait Posture* 2026 (chaussures minimalistes). doi non relevé\n- PMID 40000283 — Colebatch et al., *J Sci Med Sport* 2025 (alimentation et blessures de course).\n- PMID 42571063 — Valverde M.G. et al., *J Dance Med Sci* 2026 (triade de l'athlète, danse). doi:10.1177/1089313X261472625\n- PMID 42662491 — Ding et al., *Front Public Health* 2026 (ACWR). \n- PMID 30703272 — voir exercice-physique.md.\n\nVoir aussi : [exercice-physique.md](fiche:exercice-physique), [entrainement-concurrent-et-periodisation.md](fiche:entrainement-concurrent-et-periodisation), [entrainement-en-resistance.md](fiche:entrainement-en-resistance), [zone-2-et-endurance.md](fiche:zone-2-et-endurance), [hiit-et-zone-5-vo2max.md](fiche:hiit-et-zone-5-vo2max).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Types de sports : comparatif",
+ "type": "actif",
+ "unite": ""
+}

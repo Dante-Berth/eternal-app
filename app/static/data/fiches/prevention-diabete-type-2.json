@@ -1,0 +1,87 @@
+{
+ "cibles": [
+  "prevention",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "prevention-diabete-type-2",
+ "intro": "Fiche-synthèse. Le détail (définitions, HbA1c, DPP, Da Qing, metformine, mesures) est dans [glycémie et prédiabète](fiche:glycemie-et-prediabete), qui fait foi. Cette fiche ajoute : la lecture d'ensemble des essais de prévention, la durabilité, les incrétines (tirzepatide) et les liens avec la prévention CV et rénale.",
+ "liens": [
+  "exercice-physique",
+  "glycemie-et-prediabete",
+  "pas-quotidiens-et-neat",
+  "prevention-avc-et-infarctus",
+  "prevention-maladie-renale-chronique",
+  "semaglutide-et-glp1"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "29114778",
+  "36318674",
+  "39536238",
+  "12453955"
+ ],
+ "preuve_globale": "A",
+ "resume": "Le mode de vie encadré et la perte de poids réduisent l'incidence du diabète chez les personnes à haut risque : -39 % (RR 0,61) en fin d'intervention sur 19 essais, -28 % (RR 0,72) après 7 ans de suivi [A] (PMID 29114778).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Le mode de vie encadré et la perte de poids réduisent l'incidence du diabète chez les personnes à haut risque : -39 % (RR 0,61) en fin d'intervention sur 19 essais, -28 % (RR 0,72) après 7 ans de suivi [A] (PMID 29114778).\n- Les médicaments (metformine, etc.) agissent pendant le traitement : RR 0,64, puis RR 0,95 après arrêt, donc un retard plus qu'une prévention durable [A] (PMID 29114778).\n- La baisse du diabète ne s'est pas traduite par moins de décès dans une méta-analyse de 11 essais : mortalité CV RR 0,99, toutes causes RR 0,93 (0,85-1,03) [A, certitude modérée] (PMID 36318674). Seul Da Qing montre un signal à 23-30 ans [B] (voir la fiche glycémie).\n- Tirzepatide chez des personnes obèses avec prédiabète : diabète 1,3 % vs 13,3 % à 176 semaines (HR 0,07) [B, ECR unique, sous-groupe n=1 032] (PMID 39536238), financé par le fabricant ; population obèse, pas une preuve pour le prédiabète seul.\n- Pour les chiffres DPP/DPPOS, Da Qing et la metformine : voir [glycémie et prédiabète](fiche:glycemie-et-prediabete).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "L'insulinorésistance (graisse viscérale, sédentarité) puis l'épuisement des cellules bêta mènent du prédiabète au diabète. La perte de poids agit sur la résistance à l'insuline. Dans DPP, l'effet du mode de vie passait surtout par la perte de poids ; voir [glycémie et prédiabète](fiche:glycemie-et-prediabete) pour les sources.",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Levier | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Mode de vie encadré (perte de poids, activité) | insulinosensibilité | RR 0,61 en fin d'intervention, RR 0,72 après ~7 ans [A] (PMID 29114778) | non applicable | 0 |\n| Médicaments antidiabétiques (dont metformine) | insulino-sensibilisation | RR 0,64 pendant, RR 0,95 après arrêt [A] (PMID 29114778) | metformine : médicament sur ordonnance, prévention du diabète non retenue comme indication dans cette fiche [?] | non recherché |\n| Tirzepatide (obésité + prédiabète) | agoniste GIP/GLP-1 | HR 0,07 pour le diabète à 176 semaines [B, ECR unique] (PMID 39536238) | indication obésité à vérifier (BDPM non consultée) [?] | non recherché |\n| Compléments « anti-glycémie » (cannelle, berbérine, vinaigre…) | divers | non repris ici : voir [glycémie et prédiabète](fiche:glycemie-et-prediabete) | complément alimentaire | — |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- **Méta-analyse de 43 essais** (49 029 participants, âge moyen 57 ans) : mode de vie RR 0,61 (0,54-0,68), médicaments RR 0,64 (0,54-0,76) en fin d'intervention (durée 0,5 à 6,3 ans) ; après sevrage ou suivi, le mode de vie garde RR 0,72 (0,60-0,86) sur 7,2 ans en moyenne, les médicaments RR 0,95 (0,79-1,14) sur 17 semaines en moyenne. Les auteurs écrivent que les effets déclinent avec le temps et que des interventions de maintien sont nécessaires [A] (PMID 29114778).\n- **Méta-analyse de 11 essais** (≥ 2 ans d'intervention intensive) chez des personnes avec prédiabète ou diabète : pas de réduction de la mortalité cardiovasculaire (RR 0,99 ; 0,79-1,23) ni toutes causes (RR 0,93 ; 0,85-1,03), certitude modérée ; les auteurs notent que les programmes et les soins usuels des essais diffèrent [A] (PMID 36318674).\n- **Programme type DPP** : 16 séances individuelles, objectifs ≥ 7 % de perte de poids et ≥ 150 minutes par semaine d'activité de type marche rapide, avec phase d'entretien (PMID 12453955, décrit dans la fiche glycémie). C'était un programme encadré à contacts fréquents, pas un simple conseil. Programme équivalent remboursé en France : non recherché [?].\n- **SURMOUNT-1, 3 ans** (tirzepatide 5, 10 ou 15 mg hebdomadaire vs placebo, sous-groupe de 1 032 personnes avec obésité et prédiabète, 176 semaines) : poids -12,3 %, -18,7 % et -19,7 % vs -1,3 % ; diabète 1,3 % vs 13,3 % (HR 0,07). Après 17 semaines sans traitement : diabète 2,4 % vs 13,7 % (HR 0,12) ; l'effet à plus long terme après arrêt n'est pas connu. Effets indésirables surtout digestifs, légers à modérés, en début de titration [B, ECR unique] (PMID 39536238). Financé par Eli Lilly (fabricant). Voir aussi [sémaglutide et GLP-1](fiche:semaglutide-et-glp1).",
+   "titre": "Ce que disent les essais, en deux phrases chacun"
+  },
+  {
+   "markdown": "- **Débutant** : glycémie à jeun ou HbA1c si facteur de risque (surpoids, antécédent familial, tension, diabète gestationnel) ; marche, moins de sédentarité ([pas quotidiens](fiche:pas-quotidiens-et-neat)).\n- **Intermédiaire** : perte de poids de ~7 % si surpoids, 150 minutes par semaine d'activité modérée, renfort musculaire ([exercice physique](fiche:exercice-physique)) ; programme encadré si accessible.\n- **Avancé** : avec un médecin, discuter metformine ou, si obésité, un traitement par incrétine ; dans les deux cas l'effet sur le diabète ne dure pas à l'arrêt dans les données lues.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Viser un chiffre de glycémie sans viser le poids ni l'activité.\n- Arrêter le programme après quelques mois : l'effet décline avec le temps (PMID 29114778).\n- Croire qu'une normalisation de la glycémie garantit moins de décès : les 11 essais poolés ne le montrent pas (PMID 36318674).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Ce complément inverse le prédiabète »** [M] : voir [glycémie et prédiabète](fiche:glycemie-et-prediabete) ; aucune donnée solide chez l'humain pour la prévention du diabète dans les sources lues ici [?].\n- **« La metformine prévient le diabète à vie »** : l'effet disparaît après l'arrêt dans la méta-analyse (RR 0,95) (PMID 29114778) [A].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Le signal de moindre mortalité vient surtout d'un essai chinois très long (Da Qing, voir la fiche glycémie), non retrouvé dans la méta-analyse de 11 essais (PMID 36318674).\n- Pour le tirzepatide, le recul sans traitement n'est que de 17 semaines (PMID 39536238) : la durabilité après arrêt n'est pas démontrée.",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Le diabète multiplie les risques CV et rénaux : voir [prévention de l'AVC et de l'infarctus](fiche:prevention-avc-et-infarctus) et [prévention de la maladie rénale chronique](fiche:prevention-maladie-renale-chronique).",
+   "titre": "Liens avec la prévention CV et rénale"
+  },
+  {
+   "markdown": "Statut BDPM/HAS de la metformine et du tirzepatide pour cette indication, remboursement d'un programme de prévention : non consultés dans cette session [?]. Pour les autres éléments réglementaires, voir la fiche glycémie.",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Glycémie à jeun ≥ 1,26 g/L à deux reprises ou HbA1c élevée, soif intense, polyurie, amaigrissement inexpliqué.\n- Antécédent de diabète gestationnel, surpoids avec tension élevée.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 29114778 — Haw JS et al., *JAMA Intern Med* 2017, durabilité des approches de prévention (résumé relu).\n- PMID 36318674 — Zucatti KP et al., *Diabetes Care* 2022, mortalité et mode de vie (résumé relu).\n- PMID 39536238 — Jastreboff AM et al., *N Engl J Med* 2025, tirzepatide et prévention du diabète (résumé relu).\n- PMID 12453955 — description du programme DPP, voir [glycémie et prédiabète](fiche:glycemie-et-prediabete).\n- DPP, DPPOS, Da Qing : références listées dans la fiche glycémie.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Prévention du diabète de type 2",
+ "type": "condition",
+ "unite": ""
+}

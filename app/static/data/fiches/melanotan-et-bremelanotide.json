@@ -1,0 +1,94 @@
+{
+ "cibles": [
+  "peau",
+  "hormones-sexualite"
+ ],
+ "derniere_maj": "2026-10-11",
+ "famille": "peptide",
+ "id": "melanotan-et-bremelanotide",
+ "intro": "",
+ "liens": [
+  "desir-sexuel-hypoactif-femme",
+  "dysfonction-erectile",
+  "flibanserine",
+  "protection-solaire",
+  "retatrutide",
+  "tb-500"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 19,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "16839319",
+  "31953620",
+  "26132941",
+  "25470471",
+  "31599840",
+  "33678061",
+  "29995725",
+  "22724573",
+  "24355990",
+  "21564053",
+  "22182016",
+  "21453640",
+  "28266027",
+  "31119650",
+  "30796078",
+  "41487785",
+  "28189361",
+  "30165334",
+  "24388421"
+ ],
+ "preuve_globale": "A",
+ "resume": "Quatre molécules de la même famille (analogues de l'α-MSH, agonistes des récepteurs de la mélanocortine) au statut très différent. Afamélanotide (= mélanotan I) : médicament autorisé dans l'UE, uniquement pour la protoporphyrie érythropoïétique (EPP). Brémélanotide (= PT-141) : autorisé aux États…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Quatre molécules de la même famille (analogues de l'α-MSH, agonistes des récepteurs de la mélanocortine) au statut très différent. **Afamélanotide** (= mélanotan I) : médicament autorisé dans l'UE, uniquement pour la protoporphyrie érythropoïétique (EPP). **Brémélanotide** (= PT-141) : autorisé aux États-Unis pour le désir sexuel hypoactif de la femme, pas d'AMM trouvée dans l'UE. **Mélanotan II** et le mélanotan I vendu en ligne : non autorisés, vendus pour bronzer.\n- Les seules preuves solides d'efficacité concernent les formes médicaments : afamélanotide dans l'EPP [A, ECR multiples], brémélanotide dans le désir hypoactif [A, effet modeste, contesté]. Pour le bronzage sans soleil par mélanotan : aucune évaluation de la fiche, c'est le mécanisme qui explique l'effet, pas un essai cité ici [?].\n- Le marché gris du bronzage a produit un corpus de cas cliniques : nævus et lentigines nouveaux ou assombris, mélanomes, priapisme, infarctus rénal, pyoderma gangrenosum [B, séries de cas]. Aucun lien causal démontré pour le mélanome.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- L'α-MSH active les récepteurs de la mélanocortine : MC1R (pigmentation), MC3R et MC4R (appétit, fonction sexuelle). Le brémélanotide est un agoniste de MC3R et MC4R (PMID 16839319). Le mélanotan II est décrit comme un agoniste non sélectif, avec pigmentation, érections spontanées et stimulation sexuelle (PMID 31953620).\n- Le caractère non sélectif explique que la même molécule bronze, provoque des érections et des nausées.",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Molécule | Résultat | Preuve |\n|---|---|---|---|\n| Phototoxicité dans l'EPP | Afamélanotide, implant 16 mg | Deux ECR (UE n=74, États-Unis n=94) : temps sans douleur au soleil allongé (UE : médiane 6,0 h vs 0,8 h, p=0,005 ; États-Unis : 69,4 h vs 40,8 h, p=0,04) ; une revue juge l'effet « pas très grand en valeur absolue » | [A] (PMID 26132941 ; PMID 25470471) |\n| Désir sexuel hypoactif, femme préménopausée | Brémélanotide, injection sous-cutanée à la demande | Deux ECR de phase 3, 1 267 femmes randomisées : désir +0,35 point (échelle FSFI-désir) et détresse −0,33 vs placebo (p < 0,001) ; nausées, bouffées de chaleur, maux de tête chez 10 % ou plus ; essais financés par le fabricant | [A, effet modeste] (PMID 31599840) |\n| Ré-analyse indépendante des mêmes essais | Brémélanotide | Selon la ré-analyse, 72,7 % des critères prévus au protocole n'ont pas été rapportés ; arrêt pour effet indésirable beaucoup plus fréquent (OR 11,98 ; NNH 6) ; l'auteur conclut que le médicament n'est « généralement pas utile » | [A, contradictoire] (PMID 33678061) |\n| Excitation sexuelle, femme | Brémélanotide intranasal, dose unique | ECR croisé n=18 : plus de femmes rapportant un désir modéré ou élevé (p=0,0114) ; critère physiologique principal non détaillé dans le résumé | [B, ECR unique n=18] (PMID 16839319) |\n| Bronzage sans soleil | Mélanotan I/II hors AMM | Aucun essai évalué dans cette fiche | [?] |\n| Érection (homme) | Mélanotan II, brémélanotide | Non recherché dans cette fiche ; voir la [dysfonction érectile](fiche:dysfonction-erectile) pour les options autorisées | [?] |\n\nContexte placebo : dans une méta-analyse de 8 ECR sur la dysfonction sexuelle féminine (dont le brémélanotide), l'amélioration FSFI sous placebo est de 3,62 points contre 5,35 sous traitement : une grande part de la réponse est un effet placebo [A] (PMID 29995725).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet (règle 7 : pas de posologie). Le contenu réel d'un flacon de mélanotan acheté en ligne est inconnu sans analyse.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Afamélanotide (Scenesse), implant** : autorisé dans l'UE depuis le 22 décembre 2014, « circonstances exceptionnelles », pour la prévention de la phototoxicité de l'EPP chez l'adulte ; demande d'extension aux adolescents retirée le 24 avril 2024 (EMA, page EPAR et actualités, consultées le 2026-10-11).\n- **Brémélanotide (Vyleesi)** : approuvé par la FDA en 2019 (source secondaire MDedge ; FDA non consultée). UE : aucune AMM trouvée ; base EMA non consultée directement [?].\n- **Mélanotan I et II vendus en ligne** : produits non autorisés. La page de l'ANSM sur les « peptides » vendus en ligne (publiée le 2026-07-02, mise à jour le 2026-08-31, consultée le 2026-10-11) **ne cite pas** ces molécules nommément (elle cite rétatrutide, BP180, TB500, GH, GHK-Cu, BPC-157, NAD+) ; la logique « produits proposés sans autorisation » s'applique sans doute, mais l'ANSM ne l'écrit pas à propos du mélanotan dans la page lue.\n- **AMA** : non recherché pour ces molécules [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Pigmentation : un cas de mélanome in situ (PMID 22724573), un mélanome chez une femme de 20 ans après un cycle de mélanotan II associé aux UV artificiels (PMID 24355990), un mélanome signalé en 2011 (PMID 21564053), une mélanonychie transversale (PMID 22182016), une éruption de nævus et lentigines chez un homme de 25 ans ayant fait plus de 150 injections (PMID 21453640). Revue de 2017 : quatre mélanomes apparus sur des grains de beauté pendant ou après l'usage, preuve de lien causal absente (PMID 28266027). Revue des nævus éruptifs : 41 % des cas ont pour cause suspectée un immunosuppresseur, une chimiothérapie ou le mélanotan ; la nature des données empêche d'évaluer le risque de transformation maligne (PMID 31119650) [B, séries de cas].\n- Priapisme à bas débit après injection (PMID 30796078) ; infarctus rénal (PMID 31953620) ; pyoderma gangrenosum aux points d'injection (PMID 41487785) [B, cas isolés].\n- Brémélanotide : nausées, bouffées de chaleur, maux de tête ; pas d'interaction pharmacocinétique avec l'alcool à dose intranasale unique chez 24 volontaires (PMID 28189361) [B].\n- Grossesse, allaitement, enfants : aucune donnée pour les produits du marché gris [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Une revue des biomédicaments falsifiés cite le mélanotan II parmi les peptides « d'amélioration de l'image » falsifiés ; ses auteurs décrivent molécule erronée, dosage faux ou absent, contaminants (PMID 30165334) [B]. Endotoxines et stérilité de flacons de mélanotan précisément : aucune analyse trouvée [?].",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- Bronzage : protection solaire et autobronzants ; voir [protection solaire](fiche:protection-solaire). L'indoor tanning et les UV augmentent le risque de mélanome (PMID 24388421, revue).\n- Toute personne ayant utilisé du mélanotan : examen dermatologique complet des grains de beauté, car l'assombrissement complique le dépistage.\n- Désir sexuel de la femme : [désir hypoactif](fiche:desir-sexuel-hypoactif-femme) et [flibansérine](fiche:flibanserine) ; prise en charge sexologique.\n- EPP : centre de référence des porphyries, seule indication autorisée en France de l'afamélanotide.\n- Pas de protocole de dosage, de reconstitution ou d'injection, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).\n\nVoir aussi : [TB-500](fiche:tb-500), [rétatrutide](fiche:retatrutide).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Langendonk JG et al. *N Engl J Med* 2015 — PMID 26132941 — [DOI](https://doi.org/10.1056/NEJMoa1411481)\n2. Minder EI et al. *Expert Rev Clin Pharmacol* 2014 — PMID 25470471 — [DOI](https://doi.org/10.1586/17512433.2014.956089)\n3. Kingsberg SA et al. *Obstet Gynecol* 2019 — PMID 31599840 — [DOI](https://doi.org/10.1097/AOG.0000000000003500)\n4. Spielmans GI. *J Sex Res* 2021 — PMID 33678061 — [DOI](https://doi.org/10.1080/00224499.2021.1885601)\n5. Diamond LE et al. *J Sex Med* 2006 — PMID 16839319 — [DOI](https://doi.org/10.1111/j.1743-6109.2006.00268.x)\n6. Weinberger JM et al. *Obstet Gynecol* 2018 — PMID 29995725 — [DOI](https://doi.org/10.1097/AOG.0000000000002733)\n7. Clayton AH et al. *Clin Ther* 2017 — PMID 28189361 — [DOI](https://doi.org/10.1016/j.clinthera.2017.01.018)\n8. Habbema L et al. *Int J Dermatol* 2017 — PMID 28266027 — [DOI](https://doi.org/10.1111/ijd.13585)\n9. Burian EA, Jemec GBE. *Am J Clin Dermatol* 2019 — PMID 31119650 — [DOI](https://doi.org/10.1007/s40257-019-00444-8)\n10. Hjuler KF, Lorentzen HF. *Dermatology* 2013 — PMID 24355990 — [DOI](https://doi.org/10.1159/000356389)\n11. Ong S, Bowling J. *Australas J Dermatol* 2012 — PMID 22724573 — [DOI](https://doi.org/10.1111/j.1440-0960.2012.00915.x)\n12. Paurobally D et al. *Br J Dermatol* 2011 — PMID 21564053 — [DOI](https://doi.org/10.1111/j.1365-2133.2011.10273.x)\n13. Paurobally D et al. *J Eur Acad Dermatol Venereol* 2011 — PMID 22182016 — [DOI](https://doi.org/10.1111/j.1468-3083.2011.04399.x)\n14. Thestrup-Pedersen K, Søndergaard K. *Ugeskr Laeger* 2011 — PMID 21453640\n15. Dreyer BA et al. *BMJ Case Rep* 2019 — PMID 30796078 — [DOI](https://doi.org/10.1136/bcr-2018-227644)\n16. Peters B et al. *CEN Case Rep* 2020 — PMID 31953620 — [DOI](https://doi.org/10.1007/s13730-020-00447-z)\n17. Dickson D, Hlaing Htwe S. *Cureus* 2025 — PMID 41487785 — [DOI](https://doi.org/10.7759/cureus.98297)\n18. Janvier S et al. *J Pharm Biomed Anal* 2018 — PMID 30165334 — [DOI](https://doi.org/10.1016/j.jpba.2018.08.037)\n19. O'Leary RE et al. *J Am Acad Dermatol* 2014 — PMID 24388421 — [DOI](https://doi.org/10.1016/j.jaad.2013.11.004)\n20. EMA, EPAR Scenesse — https://www.ema.europa.eu/en/medicines/human/EPAR/scenesse (consulté le 2026-10-11)\n21. ANSM, « “Peptides” vendus en ligne… », 2026-07-02, mis à jour 2026-08-31 — https://ansm.sante.fr/actualites/peptides-vendus-en-ligne-ne-les-utilisez-pas-ils-peuvent-etre-dangereux (consulté le 2026-10-11)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Mélanotan I/II, afamélanotide et brémélanotide (PT-141)",
+ "type": "actif",
+ "unite": ""
+}

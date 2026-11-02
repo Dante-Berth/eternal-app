@@ -1,0 +1,83 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "complement",
+ "id": "coenzyme-q10",
+ "intro": "",
+ "liens": [
+  "antioxydants-alimentaires-et-absorption",
+  "apob-lipides-et-statines",
+  "mitochondries",
+  "omega-3",
+  "taurine"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 13,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "36130103",
+  "36337001",
+  "30371340",
+  "33999383",
+  "36480969",
+  "25474484",
+  "41457257",
+  "36091835",
+  "33402403",
+  "32767206",
+  "35941510",
+  "40833470",
+  "30462179"
+ ],
+ "preuve_globale": "A",
+ "resume": "Molécule de la chaîne respiratoire mitochondriale, vendue comme « énergie », « cœur », « anti-âge » et « antidote des statines ». Beaucoup de méta-analyses, mais sur des biomarqueurs et des symptômes, avec une qualité de preuve souvent faible ou très faible.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Molécule de la chaîne respiratoire mitochondriale, vendue comme « énergie », « cœur », « anti-âge » et « antidote des statines ». Beaucoup de méta-analyses, mais **sur des biomarqueurs et des symptômes**, avec une qualité de preuve souvent faible ou très faible.\n- Le plus net : tension systolique −4,77 mmHg (IC 95 % −6,57 à −2,97) chez des patients cardiométaboliques, certitude GRADE modérée pour la systolique [A, faible à modérée] (PMID 36130103). Lipides : LDL-C, CT et TG baissent, effet petit (CT −5,53 mg/dL) et hétérogène (I² 70 %) (PMID 36337001).\n- **Statines et douleurs musculaires : deux méta-analyses se contredisent.** L'une (12 ECR, 575 patients) trouve moins de douleurs, faiblesse et crampes sans baisse des CK (PMID 30371340) ; l'autre (8 études, 472 patients) ne trouve aucun bénéfice sur la douleur (SMD −0,59 ; IC −1,54 à 0,36) ni sur les CK (PMID 33999383). Verdict : non établi.\n- Événements cliniques : la méta-analyse de micronutriments (884 essais) rapporte une mortalité toute cause plus basse sous CoQ10 (RR 0,68 ; 0,49-0,94), mais sur très peu d'événements ; la Cochrane 2014 en prévention primaire ne trouve que 6 petits essais (n=218) sans événement (PMID 36480969, PMID 25474484) [A, très faible certitude].\n- Performance, « énergie » : effet petit et instable, certitude très faible à faible (PMID 41457257) ; voir [mitochondries](fiche:mitochondries).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Transporteur d'électrons de la chaîne respiratoire et antioxydant liposoluble. La supplémentation augmente la CoQ10 circulante (+1,62 µg/mL dans l'analyse tension, certitude GRADE très faible) (PMID 36130103) : une hausse du biomarqueur ne prouve pas une amélioration de la fonction (PMID 41457257).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Tension artérielle | 26 études, 1 831 sujets cardiométaboliques : PAS −4,77 mmHg ; courbe en U, effet maximal vers 100-200 mg/j ; certitude modérée (PAS), faible (PAD) | [A] (PMID 36130103) |\n| Lipides | 50 ECR, 2 794 sujets : CT −5,53 mg/dL, LDL-C et TG en baisse, HDL-C +0,83 mg/dL ; effet maximal annoncé à 400-500 mg/j sur le CT ; hétérogénéité forte | [A, hétérogène] (PMID 36337001) |\n| Douleur musculaire sous statine | 12 ECR : douleur −1,60, faiblesse −2,28, crampes −1,78 (échelles) ; CK inchangées | [A] (PMID 30371340) |\n| Douleur musculaire sous statine (autre analyse) | 8 études : pas de différence sur la douleur ni les CK | [A, contradictoire] (PMID 33999383) |\n| Fatigue | 13 ECR, 1 126 participants : Hedges g −0,40 (−0,64 à −0,16) ; effet croissant avec dose et durée | [A, effet modeste] (PMID 36091835) |\n| Migraine (prophylaxie) | 6 études, 371 participants : fréquence MD −1,52 (IC −2,40 à −0,65), durée MD −0,19 (unités non précisées dans le résumé) ; sévérité inchangée | [A, faible] (PMID 33402403) |\n| Prévention cardiovasculaire primaire | Cochrane 2014 : 6 essais, n=218, aucun événement | [A, très faible certitude] (PMID 25474484) |\n| Mortalité toute cause | Méta-analyse de micronutriments : RR 0,68 (0,49-0,94) sous CoQ10, nombre d'événements non extrait ici | [A, à confirmer] (PMID 36480969) |\n| Performance physique, énergie | Effet petit et instable | [A, très faible à faible certitude] (PMID 41457257) |\n| Longévité / vieillissement humain | Aucun essai de survie ou de vieillissement trouvé | [?] |\n| Fertilité (femme, homme), SOPK, dépression | Méta-analyses existantes (PMID 32767206, PMID 35941510, PMID 40833470, PMID 30462179) : titres vérifiés, résumés non relus | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Les optimums annoncés (100-200 mg/j pour la tension, 400-500 mg/j pour le cholestérol) viennent d'analyses dose-réponse post hoc (PMID 36130103, PMID 36337001) : pas des consignes. Doses des autres essais : non extraites ici [?].\n- Ubiquinol vs ubiquinone : la supériorité d'absorption alléguée n'a pas été vérifiée ici [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Gélules d'ubiquinone ou d'ubiquinol (complément alimentaire). Statut réglementaire en France, plafonds éventuels, allégations autorisées : non consultés [?]. AMA : non recherché [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Méta-analyse fatigue : un seul événement digestif chez 602 participants traités (PMID 36091835) [A] ; durée des essais généralement courte, donc pas de données de sécurité à long terme [?].\n- Interactions (anticoagulants, chimiothérapie, antihypertenseurs), grossesse, insuffisance hépatique : non recherchées dans cette fiche [?]. Une baisse de tension s'ajoute à celle des antihypertenseurs, ce qui est une conséquence directe de l'effet mesuré (PMID 36130103).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Contre les douleurs des statines » : deux méta-analyses contradictoires (PMID 30371340, PMID 33999383) ; avant de supplémenter, parler au prescripteur de la statine (changement de molécule ou de dose), voir [lipides et statines](fiche:apob-lipides-et-statines).\n- « Énergie des mitochondries / anti-âge » : le taux sanguin monte, la performance bouge peu (PMID 41457257) ; aucune donnée de survie humaine [?].\n- « Protège le cœur » : preuves sur la tension et des biomarqueurs ; critère clinique solide en prévention primaire absent (PMID 25474484).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour.\n\nVoir aussi : [mitochondries](fiche:mitochondries), [antioxydants alimentaires et absorption](fiche:antioxydants-alimentaires-et-absorption), [oméga-3](fiche:omega-3), [taurine](fiche:taurine).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Zhao D et al. *Adv Nutr* 2022 — PMID 36130103 — [DOI](https://doi.org/10.1093/advances/nmac100)\n2. Liu Z et al. *J Clin Endocrinol Metab* 2022 — PMID 36337001 — [DOI](https://doi.org/10.1210/clinem/dgac585)\n3. Qu H et al. *J Am Heart Assoc* 2018 — PMID 30371340 — [DOI](https://doi.org/10.1161/JAHA.118.009835)\n4. Wei H et al. *Ir J Med Sci* 2022 — PMID 33999383 — [DOI](https://doi.org/10.1007/s11845-021-02651-x)\n5. Tsai IC et al. *Front Pharmacol* 2022 — PMID 36091835 — [DOI](https://doi.org/10.3389/fphar.2022.883251)\n6. Sazali S et al. *BMJ Open* 2021 — PMID 33402403 — [DOI](https://doi.org/10.1136/bmjopen-2020-039358)\n7. An P et al. *J Am Coll Cardiol* 2022 — PMID 36480969 — [DOI](https://doi.org/10.1016/j.jacc.2022.09.048)\n8. Flowers N et al. *Cochrane Database Syst Rev* 2014 — PMID 25474484 — [DOI](https://doi.org/10.1002/14651858.CD010405.pub2)\n9. Deng H et al. *Br J Nutr* 2025 — PMID 41457257 — [DOI](https://doi.org/10.1017/S0007114525106211)\n10. PMID 32767206, PMID 35941510, PMID 40833470, PMID 30462179 : titres vérifiés par PubMed (fertilité, SOPK, dépression/anxiété, qualité du sperme), résumés non relus.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Coenzyme Q10 (ubiquinone, ubiquinol)",
+ "type": "actif",
+ "unite": ""
+}

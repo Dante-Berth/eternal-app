@@ -1,0 +1,80 @@
+{
+ "cibles": [
+  "cerveau",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "pqq",
+ "intro": "",
+ "liens": [
+  "acide-alpha-lipoique",
+  "coenzyme-q10",
+  "declin-cognitif-et-neurodegenerescence",
+  "mitochondries",
+  "nmn-et-nad",
+  "urolithine-a"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "34415830",
+  "36807425",
+  "38908296",
+  "31860387",
+  "19861415",
+  "29185343",
+  "41651893",
+  "42500134",
+  "32625350"
+ ],
+ "preuve_globale": "B",
+ "resume": "Cofacteur redox présent à l'état de traces dans les aliments, vendu comme « biogénèse mitochondriale », « énergie », « mémoire ». Le rationnel vient de cellules en culture ; chez l'humain, il n'existe que de petits essais, pour l'essentiel avec des matières premières de marque (mnemoPQQ®, BioPQQ™).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Cofacteur redox présent à l'état de traces dans les aliments, vendu comme « biogénèse mitochondriale », « énergie », « mémoire ». Le rationnel vient de cellules en culture ; chez l'humain, il n'existe que de petits essais, pour l'essentiel avec des matières premières de marque (mnemoPQQ®, BioPQQ™).\n- Cognition : deux ECR japonais de 12 semaines à 20-21,5 mg/j rapportent des améliorations de tests informatisés (mémoire verbale et composite, attention, flexibilité) [B, petits ECR, produits de marque] (PMID 34415830, 36807425). Un ECR chez 34 personnes âgées avec trouble cognitif léger (association de PQQ et d'un mélange producteur d'hydrogène) rate son critère principal (BDNF, interaction traitement × temps p = 0,14) [B, ECR unique n=34] (PMID 38908296).\n- Mitochondries et endurance : un ECR de 6 semaines à 20 mg/j (23 hommes non entraînés) ne change pas la performance aérobie, même si la protéine PGC-1α augmente (PMID 31860387) [B, ECR unique n=23].\n- Sécurité : l'EFSA juge le PQQ disodique de marque BioPQQ™ sûr jusqu'à 20 mg/j chez l'adulte en bonne santé, hors grossesse et allaitement (marge d'exposition 344 par rapport à l'étude sur le rat).\n- Aucune méta-analyse ni essai clinique de grande taille ; aucun résultat clinique dur (démence, mortalité, performance durable).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Sur des cellules : le PQQ augmente la biogenèse mitochondriale en activant CREB et PGC-1α dans des hépatocytes de souris (Hepa1-6) [D] (PMID 19861415) et via SIRT1/PGC-1α dans des fibroblastes de souris (NIH/3T3) [D] (PMID 29185343). Chez l'humain, seule une élévation de PGC-1α a été mesurée dans un petit ECR (PMID 31860387), sans bénéfice fonctionnel.\n- Rôle chez l'animal : souris et rats nourris sans PQQ ont un contenu mitochondrial réduit (rappelé dans PMID 19861415) [C]. Pas de carence humaine décrite.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Cognition, adultes sains 40-<80 ans | PQQ disodique 21,5 mg/j pendant 12 semaines, 64 volontaires japonais (58 analysés) : amélioration de tests Cognitrax (mémoire composite et verbale, temps de réaction, attention complexe, flexibilité cognitive, fonctions exécutives, vitesse motrice) et des scores DECO et MMSE-J vs placebo ; aucun effet indésirable | [B, ECR unique n=64, produit de marque (mnemoPQQ®)] (PMID 34415830) |\n| Cognition, 20-65 ans | 20 mg/j pendant 12 semaines : amélioration de la mémoire composite et verbale ; chez les 20-40 ans : flexibilité cognitive et vitesse de traitement à 8 semaines ; chez les 41-65 ans : mémoire complexe et verbale à 12 semaines | [B, ECR] (PMID 36807425) |\n| Trouble cognitif léger | Mélange dihydrogène + PQQ pendant 6 semaines, 34 personnes (28 femmes) : BDNF sérique en hausse dans le groupe traité (p = 0,01) sans interaction significative traitement × temps (p = 0,14) ; ADAS-Cog domaine « orientation » p = 0,03 | [B, ECR unique n=34, association de deux actifs] (PMID 38908296) |\n| Endurance, mitochondries | 20 mg/j pendant 6 semaines d'entraînement, 23 hommes non entraînés : VO2pic et durée d'effort améliorés par l'entraînement dans les deux groupes, sans différence entre PQQ et placebo ; PGC-1α plus élevée sous PQQ | [B, ECR unique n=23] (PMID 31860387) |\n| Interoception après épuisement | 20 mg de PQQ pris 60 min avant un test d'effort, 60 participants (4 groupes) : seul le domaine « écoute du corps » diffère selon le groupe (interaction p = 0,016) ; critère d'intérêt clinique douteux | [B, ECR unique n=60] (PMID 41651893) |\n| Réserve ovarienne (AMH), femmes saines 25-42 ans | Étude ouverte à un seul bras, 20 mg/j pendant 90 jours, 35 analysées en per-protocole : AMH sans changement global (1,561 vs 1,439 ng/mL ; p = 0,182) ; sous-groupes exploratoires incohérents (AMH en baisse chez les 13 plus âgées à AMH basse, p = 0,033) ; auteurs liés à un industriel | [B, étude ouverte sans témoin n=35] (PMID 42500134) |\n| Fonction mitochondriale humaine, longévité, énergie, démence, mortalité | Aucun ECR retenu | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais : 20 à 21,5 mg/j (PMID 34415830, 36807425, 31860387, 41651893), c'est-à-dire la limite maximale de 20 mg/j de l'autorisation européenne. Compléments vendus : aucun relevé de produits ni de prix fait ici ; la dose maximale d'usage est fixée à 20 mg/j par le règlement (UE) 2018/1122, ce qui borne aussi les produits.\n- Les essais utilisent des matières premières de marque (mnemoPQQ®, BioPQQ™) : ne pas extrapoler à d'autres sources sans contrôle de pureté.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Nouvel aliment autorisé dans l'UE : règlement d'exécution (UE) 2018/1122 du 10 août 2018 (JO L 204 du 13.8.2018, p. 36 ; entrée en vigueur le vingtième jour suivant la publication ; autorisation inscrite au 2 septembre 2018 dans la liste de l'Union), texte intégral lu le 2026-10-14. Sel disodique de PQQ produit par la bactérie *Hyphomicrobium denitrificans* (souche CK-275), pureté ≥ 99,0 %, pour les compléments alimentaires destinés à la population adulte hors femmes enceintes et allaitantes, 20 mg/j au maximum. Étiquetage : dénomination « sel disodique de pyrroquinoléine-quinone » et mention « ce complément alimentaire devrait être consommé par des adultes uniquement, à l'exclusion des femmes enceintes et allaitantes ». Demandeur : Mitsubishi Gas Chemical Company. Protection des données de cinq ans, fin le 2 septembre 2023 : la mise sur le marché n'est plus réservée au demandeur, mais d'autres fabricants doivent obtenir leur propre autorisation ou s'appuyer sur des données légalement obtenues ; autorisations ultérieures éventuelles : non recherchées dans le catalogue Novel Food [?]. L'EFSA a conclu à la sécurité à 20 mg/j au maximum avec une marge d'exposition de 344 (NOAEL de 100 mg/kg/j sur 90 jours chez le rat) (PMID 32625350).\n- Aucun médicament à base de PQQ dans la BDPM (fichier de composition, consulté le 2026-10-14).\n- AMA : le sel de PQQ n'est pas nommé dans la liste des interdictions 2026 (texte intégral lu, consulté le 2026-10-14) ; la catégorie S0 (substances non approuvées) vise des substances sans autorisation de médicament, et une substance alimentaire reste sous la responsabilité du sportif.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- EFSA : l'apport proposé (20 mg/j) est au moins 250 fois supérieur à l'apport alimentaire naturel ; les données d'absorption, de distribution, de métabolisme et d'excrétion sont limitées chez l'animal et l'humain (PMID 32625350).\n- Essais cliniques : pas d'effet indésirable rapporté dans l'essai de 12 semaines (PMID 34415830) ; suivi de plus de quelques mois, interactions médicamenteuses, maladie rénale : recherche PubMed ciblée (titre « pyrroloquinoline quinone » + humain/sécurité), aucun essai de sécurité à long terme trouvé [?]. Grossesse et allaitement : exclus par l'autorisation européenne, à éviter. Étude ouverte de 90 jours à 20 mg/j chez 50 femmes : le résumé ne rapporte ni ne mesure d'effets indésirables (PMID 42500134).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Fabrique de nouvelles mitochondries » : démontré sur des cellules en culture [D], pas sur le muscle humain, où l'on ne voit qu'une hausse de PGC-1α sans gain d'endurance (PMID 31860387).\n- « Booster de mémoire prouvé cliniquement » : de petits ECR de 12 semaines, avec des marques et des tests informatisés, non répliqués par des équipes indépendantes [B, faible] (PMID 34415830, 36807425).\n- « Anti-âge » : aucune donnée sur la longévité ou la morbidité [?].\n- « Naturel » : produit par fermentation industrielle et soumis à autorisation de nouvel aliment.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour. Voir aussi [mitochondries](fiche:mitochondries), [coenzyme Q10](fiche:coenzyme-q10), [acide alpha-lipoïque](fiche:acide-alpha-lipoique), [NMN et NAD](fiche:nmn-et-nad), [urolithine A](fiche:urolithine-a), [déclin cognitif](fiche:declin-cognitif-et-neurodegenerescence).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Shiojima et al. *J Am Nutr Assoc* 2022 — PMID 34415830 — [DOI](https://doi.org/10.1080/07315724.2021.1962770)\n2. Tamakoshi et al. *Food Funct* 2023 — PMID 36807425 — [DOI](https://doi.org/10.1039/d2fo01515c)\n3. Baltic et al. *J Nutr Health Aging* 2024 — PMID 38908296 — [DOI](https://doi.org/10.1016/j.jnha.2024.100287)\n4. Hwang et al. *J Am Coll Nutr* 2020 — PMID 31860387 — [DOI](https://doi.org/10.1080/07315724.2019.1705203)\n5. Zhao et al. *Sci Rep* 2026 — PMID 41651893 — [DOI](https://doi.org/10.1038/s41598-025-34191-0)\n6. Chowanadisai et al. *J Biol Chem* 2010 — PMID 19861415 — [DOI](https://doi.org/10.1074/jbc.M109.030130)\n7. Saihara et al. *Biochemistry* 2017 — PMID 29185343 — [DOI](https://doi.org/10.1021/acs.biochem.7b01185)\n8. EFSA NDA Panel, Safety of pyrroloquinoline quinone disodium salt as a novel food, *EFSA J* 2017 — PMID 32625350 — [DOI](https://doi.org/10.2903/j.efsa.2017.5058)\n9. Règlement d'exécution (UE) 2018/1122 de la Commission du 10 août 2018 — https://eur-lex.europa.eu/eli/reg_impl/2018/1122/oj — texte intégral lu le 2026-10-14.\n10. BDPM, fichier CIS_COMPO_bdpm — https://base-donnees-publique.medicaments.gouv.fr — consulté le 2026-10-14.\n11. AMA, Liste des interdictions 2026 — texte consulté le 2026-10-14.\n12. Tsuji et al. *Front Endocrinol* 2026 — PMID 42500134 — [DOI](https://doi.org/10.3389/fendo.2026.1831604)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "PQQ (pyrroloquinoléine quinone)",
+ "type": "actif",
+ "unite": ""
+}

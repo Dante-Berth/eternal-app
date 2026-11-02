@@ -1,0 +1,61 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "comportement",
+ "id": "natation",
+ "intro": "« Le sport le plus complet » : slogan, pas un résultat. La natation est associée à une moindre mortalité en cohorte [B] et améliore les lipides et la capacité cardiorespiratoire en ECR [A, faible certitude], mais n'a pas montré d'effet osseux et ne remplace pas la musculation. Voir aussi [types-de-sports.md](fiche:types-de-sports), [zone-2-et-endurance.md](fiche:zone-2-et-endurance), [entrainement-en-resistance.md](fiche:entrainement-en-resistance), [rameur-aviron.md](fiche:rameur-aviron).",
+ "liens": [
+  "entrainement-en-resistance",
+  "exercices-polyarticulaires",
+  "rameur-aviron",
+  "types-de-sports",
+  "zone-2-et-endurance"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 0,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [],
+ "preuve_globale": "B",
+ "resume": "Mortalité : HR 0,72 (0,65-0,80) toutes causes et HR 0,59 (0,46-0,75) cardiovasculaire dans la cohorte britannique (n=80 306) ; HR 0,95 (0,92-0,98) dans NIH-AARP à 7,5-<15 MET-h/sem (n=272 550, 59-82 ans). L'ampleur diffère fortement entre cohortes ; causalité non démontrée (biais de sélection) [B].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Mortalité** : HR 0,72 (0,65-0,80) toutes causes et HR 0,59 (0,46-0,75) cardiovasculaire dans la cohorte britannique (n=80 306) ; HR 0,95 (0,92-0,98) dans NIH-AARP à 7,5-<15 MET-h/sem (n=272 550, 59-82 ans). L'ampleur diffère fortement entre cohortes ; causalité non démontrée (biais de sélection) [B].\n- **Lipides** : méta-analyse d'ECR d'exercice aquatique (10 essais, 327 sujets) : HDL +4,6 mg/dL, LDL -10,1 mg/dL, cholestérol total -8,5 mg/dL [A, petits essais].\n- **Seniors** : exercice aérobie en milieu aquatique améliore la capacité cardiorespiratoire (+5,18 ml/kg/min vs témoin) et la force, comparable à l'aérobie terrestre [A, hétérogénéité très élevée I² 91 %].\n- **Os** : pas d'effet positif de la natation sur la densité osseuse [B].\n- **Risque** : la majorité des morts subites de triathlon surviennent pendant la nage ; cohorte surtout d'hommes de plus de 45 ans [B].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Endurance de grande masse musculaire, charge articulaire réduite par la flottabilité, pression hydrostatique. Pas de charge axiale : c'est l'explication plausible de l'absence d'effet osseux, non testée comme telle [?]. Les effets cardio-métaboliques passent par l'amélioration de la capacité aérobie et des lipides ; pas de mécanisme propre à la natation démontré [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Mortalité et événements cardiovasculaires (cohortes)\n| Cohorte | Natation vs non-pratiquants | Preuve |\n|---|---|---|\n| HSE/SHeS, 80 306 adultes, mortalité toutes causes | HR 0,72 (0,65-0,80) ; CV HR 0,59 (0,46-0,75) (DOI 10.1136/bjsports-2016-096822) | [B] |\n| NIH-AARP, 272 550 pers., 7,5-<15 MET-h/sem | HR 0,95 (0,92-0,98), parmi les plus faibles des 7 activités (seul le vélo fait moins : 0,97) ; pour comparaison raquette 0,84, course 0,85, marche 0,91 (DOI 10.1001/jamanetworkopen.2022.28510) | [B] |\n\nLecture : dans NIH-AARP la natation est associée à une baisse modeste à MET-h égaux ; dans la cohorte britannique elle est parmi les plus fortes. Les deux cohortes ne s'accordent pas sur l'ampleur, signe de confusion résiduelle (la natation de loisir est pratiquée par des personnes plus aisées, souvent plus en forme au départ). Aucun ECR de mortalité [?].\n\n### Lipides\n- Méta-analyse d'ECR, exercice aquatique d'endurance vs non-exercice : 10 essais, 327 sujets, HDL +4,6 mg/dL, LDL -10,1 mg/dL, CT -8,5 mg/dL ; TG améliorés seulement chez les <60 ans et les dyslipidémiques (DOI 10.5551/jat.42937) [A, petits essais].\n- Méta-analyse en réseau (487 ECR, adultes ≥45 ans, 12 types d'aérobie) : la natation arrive en tête pour CT, TG et LDL, la danse pour le HDL (DOI 10.3390/healthcare12131309). Le classement est un classement de probabilités, pas un effet mesuré, et le nombre d'essais de natation seule est inconnu dans le résumé [A, faible certitude].\n\n### VO2max et capacité cardiorespiratoire\n- Seniors : exercice aérobie aquatique vs témoin, +5,18 ml/kg/min (IC 2,51-7,85, I² 91 %) ; vs aérobie terrestre, différence non significative (3,23 ; IC -2,45 à 8,91) ; 15 études, essais randomisés et non randomisés mêlés (DOI 10.1123/japa.2024-0182) [A, hétérogénéité très élevée].\n- Natation de nage dans la population générale (VO2max, ECR chez sédentaires adultes) : non trouvé dans la recherche PubMed menée [?]. Les méta-analyses de HIIT en natation portent sur des nageurs de compétition (n=237, âge moyen 15 ans) et ne se transposent pas (DOI 10.1016/j.jsams.2026.02.015) [B, population de compétition].\n\n### Arthrose et réadaptation\n- Arthrose du genou, 8 ECR (n=579) : exercice aquatique vs exercice terrestre, pas de différence sur douleur, fonction, qualité de vie ; adhésion et satisfaction meilleures en milieu aquatique (DOI 10.1097/MD.0000000000013823) [A]. Il s'agit d'aquathérapie, pas de nage.\n- Après prothèse totale de genou, hydrothérapie vs rééducation terrestre : douleur sans différence (VAS DM -0,35 ; IC -1,06 à 0,36), force des membres inférieurs meilleure (g=0,46 ; IC 0,23-0,69) (DOI 10.3390/healthcare14132005) [A, hétérogénéité sur WOMAC I² 71 %].\n\n### Lombalgie chronique\nECR unique (n=76), natation individualisée + éducation vs éducation seule : incapacité (RMDQ) DM -2,5 (IC -4,5 à -0,5) à 8 semaines, effet non maintenu à 52 semaines ; douleur DM -0,7 (IC -1,5 à 0,0), probablement non cliniquement significatif ; plus d'événements indésirables, presque tous non graves (DOI 10.1136/bjsports-2026-111730) [B, ECR unique n=76].\n\n### Densité osseuse\nRevue systématique : 18 études, aucun effet positif de la natation sur la masse osseuse ; les auteurs jugent natation et vélo peu adaptés à la prévention de l'ostéoporose (DOI 10.1016/j.rbre.2016.02.013) [B, études observationnelles surtout ; nageurs souvent de compétition]. Pour l'os : musculation et sports à impact (voir [exercices-polyarticulaires.md](fiche:exercices-polyarticulaires)). Effet de l'aquagym sur l'os : non trouvé [?].\n\n### Poids et appétit\nMéta-analyse : une séance d'exercice en milieu aquatique augmente l'apport énergétique ad libitum vs absence d'exercice (+330 kJ ; IC 118-542) ; pas de différence vs exercice terrestre ; l'eau froide (18-20 °C) augmente davantage l'apport que l'eau neutre (+719 kJ ; IC 222-1215). 8 études aiguës, une seule étude chronique (DOI 10.1016/j.appet.2022.106375) [A, essais aigus, petits]. L'idée « on mange plus après la piscine » est partiellement étayée, et pas plus qu'après un exercice terrestre.\n\n### Comparaison à la marche et au vélo\nPas de comparaison directe en ECR trouvée sur critères durs [?]. En cohortes (tableau ci-dessus), les trois sont associées à une moindre mortalité ; le classement dépend de la cohorte [B]. Choisir selon articulations, accès, adhésion.\n\n### Eau libre et eau froide\n- Méta-analyse (13 études, n=4 105) : l'exposition à l'eau froide (douches, immersion, nage hivernale) n'est pas démontrée comme améliorant humeur, symptômes dépressifs ou stress ; risque de biais élevé, estimations réduites dans les analyses contrôlées (DOI 10.3389/fphys.2026.1926423) [A, faible certitude].\n- Risques cardio-respiratoires de la nage en eau froide chez le non-entraîné (choc froid, arythmie) : non quantifiés dans cette recherche [?].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **« Sport complet »** : cardio et mobilité oui ; os et force : non démontré [B]. À compléter par de la musculation.\n- **« Sans impact donc sans risque »** : épaule du nageur chez le compétiteur ; morts subites en triathlon concentrées sur la nage (voir sécurité).\n- **« La natation fait maigrir »** : l'appétit augmente après l'exercice aquatique, surtout en eau froide [A, essais aigus].\n- **« La nage en eau froide soigne l'humeur »** : non démontré [A, faible certitude].\n- **« Le meilleur sport pour le cœur »** : classement variable selon les cohortes [B], pas d'ECR.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- **Mort subite** : dans 135 événements (morts subites, arrêts cardiaques ressuscités, décès traumatiques) de triathlon aux États-Unis 1985-2016, 90 des 120 morts subites et arrêts cardiaques (hors 15 décès traumatiques à vélo) sont survenus pendant la nage ; incidence 1,74/100 000 participants, 18,6/100 000 chez les hommes ≥60 ans ; 44 % des autopsiés (27/61) avaient une anomalie cardiovasculaire cliniquement pertinente (DOI 10.7326/M17-0847) [B, série de cas, dénominateur partiel]. Au Royaume-Uni, 5 décès sur 991 186 participants (0,5/100 000), 3 pendant ou après la nage ; la maladie cardiovasculaire est citée dans la moitié des cas (DOI 10.1016/j.wem.2019.11.002) [B].\n- **Épaule du nageur** : revue de 22 études : aucune preuve forte pour 80 facteurs de risque ; ratio de charge aiguë/chronique élevé et faible endurance de force de l'épaule postérieure associés à la blessure dans la meilleure étude (n=201) (DOI 10.1111/sms.14454) [B]. Prévalence chez le nageur de loisir : non trouvée [?].\n- **Eau libre** : nager accompagné, bouée de sécurité, combinaison selon la température ; données de risque de noyade en eau libre non extraites [?].\n- **Contre-indications** : cardiopathie, syncope, épilepsie non contrôlée, arythmie : avis médical avant. Plaie ouverte, otite, infection cutanée : éviter.\n- **Limites** : peu d'ECR chez l'adulte sédentaire ; la natation de loisir diffère de celle des cohortes de compétiteurs.",
+   "titre": "Sécurité, contre-indications, limites"
+  },
+  {
+   "markdown": "Douleur thoracique, palpitations, malaise ou essoufflement disproportionné dans l'eau ; douleur d'épaule persistante au-delà de quelques semaines ; plus de 40-50 ans avec facteurs de risque CV avant une compétition ou de la nage en eau libre.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "Références vérifiées contre leur résumé via PubMed (2026-10-06) :\n- Oja P. et al., *Br J Sports Med* 2017 (80 306 Britanniques). doi:10.1136/bjsports-2016-096822\n- Watts E.L. et al., *JAMA Netw Open* 2022 (NIH-AARP). doi:10.1001/jamanetworkopen.2022.28510\n- Abrahin O. et al., *Rev Bras Reumatol* 2016 (natation, vélo, DMO). doi:10.1016/j.rbre.2016.02.013\n- Igarashi Y., Nogami Y., *J Atheroscler Thromb* 2018 (lipides, exercice aquatique). doi:10.5551/jat.42937\n- Li Y. et al., *Healthcare* 2024 (aérobie et lipides, NMA). doi:10.3390/healthcare12131309\n- Andrade L.S. et al., *J Aging Phys Act* 2026 (aérobie aquatique, seniors). doi:10.1123/japa.2024-0182\n- Dong R. et al., *Medicine* 2018 (aquatique vs terrestre, gonarthrose). doi:10.1097/MD.0000000000013823\n- Alrashedi S.N. et al., *Healthcare* 2026 (hydrothérapie après PTG). doi:10.3390/healthcare14132005\n- Wareham D.M. et al., *Br J Sports Med* 2026 (EduSwim). doi:10.1136/bjsports-2026-111730\n- Grigg M.J. et al., *Appetite* 2022 (exercice aquatique et apport énergétique). doi:10.1016/j.appet.2022.106375\n- Ngandeu Schepanski S. et al., *Front Physiol* 2026 (eau froide et psychologie). doi:10.3389/fphys.2026.1926423\n- Harris K.M. et al., *Ann Intern Med* 2017 (triathlon, États-Unis). doi:10.7326/M17-0847\n- Windsor J.S. et al., *Wilderness Environ Med* 2020 (triathlon, Royaume-Uni). doi:10.1016/j.wem.2019.11.002\n- McKenzie A. et al., *Scand J Med Sci Sports* 2023 (épaule du nageur). doi:10.1111/sms.14454\n- Jin R. et al., *J Sci Med Sport* 2026 (HIIT, nageurs de compétition). doi:10.1016/j.jsams.2026.02.015",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Natation",
+ "type": "actif",
+ "unite": ""
+}

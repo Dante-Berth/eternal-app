@@ -1,0 +1,80 @@
+{
+ "cibles": [
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "vinaigre-de-cidre",
+ "intro": "",
+ "liens": [
+  "berberine",
+  "cannelle",
+  "dents-et-parodontite",
+  "glycemie-et-prediabete",
+  "psyllium-et-fibres-solubles"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28292654",
+  "39949546",
+  "41010525",
+  "9630389",
+  "18093343",
+  "34187442",
+  "19661687",
+  "31647087",
+  "33297831",
+  "15983536",
+  "9736833"
+ ],
+ "preuve_globale": "A",
+ "resume": "Aliment (acide acétique à environ 5 %) vendu aussi en gélules, gommes et « shots ». Effets modestes sur la glycémie après un repas et sur le poids, avec peu d'essais, courts, souvent chez des diabétiques de type 2 ; le vinaigre ne remplace aucun traitement.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Aliment (acide acétique à environ 5 %) vendu aussi en gélules, gommes et « shots ». Effets modestes sur la glycémie après un repas et sur le poids, avec peu d'essais, courts, souvent chez des diabétiques de type 2 ; le vinaigre ne remplace aucun traitement.\n- Glycémie postprandiale : méta-analyse d'essais cliniques : aire sous la courbe du glucose SMD −0,60 (IC −1,08 à −0,11), de l'insuline SMD −1,30 (−1,98 à −0,62) [A, effets variables] (PMID 28292654).\n- Diabète de type 2 : 7 études : glycémie à jeun −21,9 mg/dL (IC −29,19 à −14,67), HbA1c −1,53 point (−2,65 à −0,41), peu d'études et intervalle large [A, faible certitude] (PMID 39949546).\n- Poids : 10 ECR (789 personnes) : poids SMD −0,39 (IC −0,63 à −0,15), IMC SMD −0,65, tour de taille SMD −0,34, surtout à 30 mL/j et jusqu'à 12 semaines [A, hétérogénéité 61-83 %] (PMID 41010525).\n- Risques : érosion dentaire (+18 % du score BEWE en 8 semaines), atteinte de l'œsophage avec les comprimés, contenu très variable des produits en gélules.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- L'acide acétique ralentirait la vidange gastrique et l'absorption du glucose et améliorerait l'action de l'insuline ; chez 10 volontaires sains, le vinaigre avec un repas d'amidon abaisse les réponses du glucose (IG 64) et de l'insuline (II 65) ; le marqueur paracétamol suggère un ralentissement de la vidange gastrique, « probablement » le mécanisme [B, ECR croisé n=10] (PMID 9630389). Chez 10 patients diabétiques de type 1 avec gastroparésie, 30 mL de vinaigre de cidre par jour pendant 2 semaines ralentissent encore la vidange (médiane 27 % → 17 %) [B, essai croisé n=10] (PMID 18093343). Mécanisme de la satiété et effet sur l'action de l'insuline chez l'humain : non établis dans les sources lues [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Glycémie et insuline après repas | Méta-analyse : AUC glucose SMD −0,60 (−1,08 à −0,11), AUC insuline SMD −1,30 (−1,98 à −0,62) ; effet aigu à la prise avec le repas | [A, hétérogène] (PMID 28292654) |\n| Diabète de type 2, glycémie à jeun, HbA1c | 7 études : −21,929 mg/dL ; HbA1c −1,53 (IC −2,65 à −0,41) ; insuline +2,059 µU/mL ; HOMA-IR inchangé ; relation dose-réponse linéaire décrite | [A, faible certitude] (PMID 39949546) |\n| Lipides et glycémie, toutes populations | 9 études : cholestérol total −6,06 mg/dL, glycémie à jeun −7,97 mg/dL (I² = 75 %), HbA1c −0,50 point (IC −0,90 à −0,09, I² = 91 %) ; LDL-C, HDL-C, insuline à jeun et HOMA-IR inchangés | [A, hétérogénéité très élevée] (PMID 34187442) |\n| Poids, surpoids ou diabète de type 2 | 10 ECR, 789 participants : poids SMD −0,39, IMC SMD −0,65, tour de taille SMD −0,34 ; autres paramètres inchangés ; sensibilité sans essais à haut risque de biais confirmée | [A, effet faible] (PMID 41010525) |\n| Obésité, ECR de 12 semaines (Japon) | 15 ou 30 mL de vinaigre/j dans une boisson de 500 mL vs placebo : poids, IMC, graisse viscérale, tour de taille et triglycérides plus bas dans les deux groupes vinaigre | [B, ECR unique] (PMID 19661687) |\n| Prédiabète | Aucun ECR sur des prédiabétiques identifié par une recherche PubMed titre « vinegar » × prédiabète/insulinorésistance/essai (13 résultats, titres relus). Le plus proche : 45 adultes à tour de taille élevé (risque métabolique), vinaigre de vin rouge 8 semaines : glycémie à jeun et insuline plus basses, insulinorésistance −8,3 % vs +9,7 % chez les témoins, sans effet sur le poids ni la graisse viscérale | [B, ECR unique n=45, vinaigre de vin, pas de prédiabète défini] (PMID 31647087) ; prédiabète [?] |\n| Cheveux, peau, détox, immunité | Non étayé | [M] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais : 15 ou 30 mL de vinaigre/j (750 ou 1 500 mg d'acide acétique) dans l'ECR japonais (PMID 19661687) ; 30 mL/j dans les sous-analyses de la méta-analyse sur le poids (PMID 41010525) ; « deux cuillères à soupe dans une tasse d'eau, 2 fois par jour », soit 3,6 g d'acide acétique, dans l'ECR dentaire (PMID 33297831).\n- Gélules et gommes vendues : le comprimé de l'essai de contrôle contenait 0,045 g d'acide acétique, soit 80 fois moins que la boisson (PMID 33297831). Huit marques de comprimés testées différaient fortement par la taille, le pH, la teneur en acides et les allégations ; un doute persiste sur la présence réelle de vinaigre de cidre dans certaines (PMID 15983536). Leur équivalence avec les doses d'essai est donc douteuse.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Vinaigre : denrée alimentaire. Gélules, comprimés, gommes : compléments alimentaires. Aucun médicament à base de vinaigre dans la BDPM (fichier de composition, recherche « vinaigre », consulté le 2026-10-14). Statut Novel Food : le vinaigre est une denrée traditionnelle ; le catalogue Novel Food n'a pas été consulté directement (application dynamique), donc statut formel des gélules et gommes : non vérifié [?]. Allégations de santé : non consultées [?]. AMA : non concerné.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Érosion dentaire : 3,6 g d'acide acétique/j sous forme de boisson pendant 8 semaines, score BEWE +18 % vs témoin (p = 0,038) [B, ECR de 8 semaines, évaluation dentaire en critère annexe] (PMID 33297831).\n- Lésion œsophagique après des comprimés de vinaigre de cidre ; grande variabilité des produits [B, cas clinique] (PMID 15983536).\n- Gastroparésie : le vinaigre ralentit encore la vidange chez le diabétique de type 1 gastroparétique (PMID 18093343) ; le résumé y voit un inconvénient possible pour l'équilibre glycémique. Hypokaliémie, hyperrénine et ostéoporose chez un patient consommant de grandes quantités de vinaigre de cidre [B, cas clinique ; seul le titre est disponible dans PubMed] (PMID 9736833). Interactions avec les hypoglycémiants ou diurétiques, reflux gastro-œsophagien : aucune étude trouvée par PubMed [?]. Si vous êtes sous insuline ou sulfamides, prévenir le médecin avant d'en faire une habitude.\n- Grossesse : aucune donnée de sécurité du vinaigre en complément trouvée dans PubMed (recherche limitée aux titres) [?] ; l'usage alimentaire courant n'est pas évalué ici.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Fait maigrir » : −0,39 SMD sur le poids dans une méta-analyse de petits essais de moins de 12 semaines, sans suivi à long terme (PMID 41010525) [A, effet faible].\n- « Régule la glycémie » : l'effet est surtout aigu après un repas et mesuré chez des diabétiques ; effets très hétérogènes (PMID 34187442, 28292654). Aucun ECR chez des prédiabétiques n'a été retrouvé [?] (voir tableau).\n- « Gommes de vinaigre de cidre » : composition et teneur en acide acétique non comparables aux doses d'essai (PMID 15983536, 33297831).\n- « Pas de risque, c'est naturel » : l'acidité a des effets sur l'émail et l'œsophage (PMID 33297831, 15983536).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour. Voir aussi [glycémie et prédiabète](fiche:glycemie-et-prediabete), [cannelle](fiche:cannelle), [berbérine](fiche:berberine), [psyllium et fibres solubles](fiche:psyllium-et-fibres-solubles), [dents et parodontite](fiche:dents-et-parodontite).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Shishehbor et al. *Diabetes Res Clin Pract* 2017 — PMID 28292654 — [DOI](https://doi.org/10.1016/j.diabres.2017.01.021)\n2. Arjmandfard et al. *Front Nutr* 2025 — PMID 39949546 — [DOI](https://doi.org/10.3389/fnut.2025.1528383)\n3. Hadi et al. *BMC Complement Med Ther* 2021 — PMID 34187442 — [DOI](https://doi.org/10.1186/s12906-021-03351-w)\n4. Castagna et al. *Nutrients* 2025 — PMID 41010525 — [DOI](https://doi.org/10.3390/nu17183000)\n5. Kondo et al. *Biosci Biotechnol Biochem* 2009 — PMID 19661687 — [DOI](https://doi.org/10.1271/bbb.90231)\n6. Anderson et al. *J Med Food* 2021 — PMID 33297831 — [DOI](https://doi.org/10.1089/jmf.2020.0108)\n7. Hill et al. *J Am Diet Assoc* 2005 — PMID 15983536 — [DOI](https://doi.org/10.1016/j.jada.2005.04.003)\n8. Liljeberg et Björck, *Eur J Clin Nutr* 1998 — PMID 9630389 — [DOI](https://doi.org/10.1038/sj.ejcn.1600572)\n9. Hlebowicz et al. *BMC Gastroenterol* 2007 — PMID 18093343 — [DOI](https://doi.org/10.1186/1471-230X-7-46)\n10. Jasbi et al. *Food Funct* 2019 — PMID 31647087 — [DOI](https://doi.org/10.1039/c9fo01082c)\n11. Lhotta et al. *Nephron* 1998 — PMID 9736833 — [DOI](https://doi.org/10.1159/000045180)\n12. BDPM, fichier CIS_COMPO_bdpm — https://base-donnees-publique.medicaments.gouv.fr — consulté le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Vinaigre de cidre",
+ "type": "actif",
+ "unite": ""
+}

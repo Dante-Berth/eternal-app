@@ -1,0 +1,82 @@
+{
+ "cibles": [
+  "sante-mentale",
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "rhodiola",
+ "intro": "",
+ "liens": [
+  "anxiete",
+  "ashwagandha",
+  "bacopa",
+  "creatine",
+  "depression",
+  "ginseng",
+  "l-theanine",
+  "stress-chronique-et-cortisol"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "21036578",
+  "22643043",
+  "19016404",
+  "25268730",
+  "25837277",
+  "41080184",
+  "26502953",
+  "26613955",
+  "37829299"
+ ],
+ "preuve_globale": "A",
+ "resume": "Vendue comme « adaptogène » contre la fatigue et le stress. Les essais sont petits, de qualité inégale et contradictoires ; les deux revues systématiques lisent la même littérature de façons opposées : l'une (11 ECR) conclut que la plante « peut avoir des effets bénéfiques » sur la performance ph…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Vendue comme « adaptogène » contre la fatigue et le stress. **Les essais sont petits, de qualité inégale et contradictoires** ; les deux revues systématiques lisent la même littérature de façons opposées : l'une (11 ECR) conclut que la plante « peut avoir des effets bénéfiques » sur la performance physique, mentale et certains troubles mentaux, avec peu de réplications indépendantes (PMID 21036578) ; l'autre (11 études) note un risque de biais élevé ou incertain dans **tous** les essais et des résultats contradictoires (PMID 22643043) [A, faible certitude].\n- **Fatigue liée au stress** : ECR de 60 sujets, extrait SHR-5 à 576 mg/j pendant 28 jours : les deux groupes s'améliorent (effet placebo), mais l'échelle d'épuisement de Pines et plusieurs indices d'attention sont meilleurs que sous placebo [B, ECR unique n=60] (PMID 19016404).\n- **Un ECR est franchement négatif** : 48 étudiantes infirmières en travail posté, 364 mg/j pendant 42 jours : la **fatigue a été pire que sous placebo** (RAND-36 vitalité −17,3 points en faveur du placebo, p=0,011) [B, ECR unique n=48] (PMID 25268730).\n- **Dépression légère à modérée** : phase II (57 sujets, 12 semaines) : rhodiola, sertraline et placebo ne diffèrent pas significativement sur le HAM-D ; baisse de −5,1 (rhodiola) vs −4,6 (placebo) vs −8,2 (sertraline) ; effets indésirables 30,0 % vs 16,7 % vs 63,2 % [B, ECR unique n=57] (PMID 25837277).\n- **Endurance** : méta-analyse de 26 ECR (668 sujets sains, moyenne d'âge 22 ans) : VO2max, temps jusqu'à l'épuisement et contre-la-montre améliorés ; effets petits à modérés (VO2max ES 0,32) [A, faible certitude] (PMID 41080184).\n- **Interaction** : inhibition modeste du CYP2C9 (voir sécurité).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Les composés actifs et leurs effets sur le cortisol ou les neurotransmetteurs : [?] non établis par les sources lues. Dans le seul ECR avec cortisol, la réponse du cortisol salivaire au réveil diffère de celle du placebo avant/après traitement, sans chiffre dans le résumé (PMID 19016404). « Adaptogène » est un terme marketing sans définition pharmacologique [M]. Détail des allégations et du cortisol : voir la ligne rhodiola de la fiche [Stress chronique et cortisol](fiche:stress-chronique-et-cortisol).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Fatigue physique et mentale | Revue systématique 2012 : 11 études (10 ECR) ; 2 des 6 essais de fatigue physique et 3 des 5 de fatigue mentale positifs ; tous à risque de biais élevé ou incertain (PMID 22643043) | [A, faible certitude] |\n| Efficacité globale (revue 2011) | 11 ECR contre placebo, 5 sur 10 avec Jadad > 3 : bénéfices possibles sur performance physique, mentale, certains troubles mentaux ; peu d'événements indésirables ; « manque de réplications indépendantes » (PMID 21036578) | [A, faible certitude] |\n| Fatigue liée au stress (syndrome de fatigue) | 60 sujets, SHR-5 576 mg/j, 28 jours : Pines et indices de l'attention meilleurs que sous placebo ; amélioration aussi sous placebo sur burn-out, MADRS, santé mentale ; pas d'événement grave (PMID 19016404) | [B, ECR unique n=60] |\n| Fatigue chez des étudiants en travail posté | 48 sujets, 364 mg/j, 42 jours : vitalité RAND-36 −17,3 (IC −30,6 à −3,9) en faveur du placebo ; VAS-F 1,9 (0,4–3,5) en faveur du placebo (PMID 25268730) | [B, ECR unique n=48] |\n| Anxiété et stress ressentis | 80 adultes légèrement anxieux, 2 × 200 mg, 14 jours, **groupe contrôle sans traitement** : baisse d'anxiété, stress, colère, confusion et dépression ; pas de différence cognitive ; sans placebo, causalité non déterminable (PMID 26502953) | [B, ECR sans placebo n=80] |\n| Dépression légère à modérée | 57 sujets : HAM-D −5,1 (−8,8 à −1,3) rhodiola vs −4,6 (−8,6 à −0,6) placebo vs −8,2 (−12,7 à −3,6) sertraline, différences non significatives (p=0,79) (PMID 25837277) | [B, ECR unique n=57] |\n| Endurance (sujet sain) | 26 ECR, 668 sujets : VO2max ES 0,32 (11 études), temps jusqu'à épuisement ES 0,38 (7), contre-la-montre ES −0,40 (5) ; CK ES −0,84, lactate −0,87 ; pas d'effet sur IL-6 ni CRP ; plus de gain à > 600 mg/j (PMID 41080184) | [A, faible certitude] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Étudié** : SHR-5 à 576 mg/j (PMID 19016404) ; 364 mg/j (PMID 25268730) ; 2 × 200 mg d'un extrait de marque (PMID 26502953) ; > 600 mg/j pour un gain d'endurance plus net (PMID 41080184). Les extraits (SHR-5, Vitano, produits du commerce) ne sont pas interchangeables.\n- **Monographie EMA/HMPC (révision 1, adoptée le 20 mars 2024, consultée le 2026-10-14)** : usage traditionnel « soulagement des symptômes du stress, comme la fatigue et l'épuisement », adultes uniquement, extrait sec (rapport drogue/extrait 1,5–5:1, éthanol 67–70 %), 144–200 mg par prise, 1 à 2 fois par jour, soit 144–400 mg/j ; avis médical si les symptômes durent plus de 2 semaines.\n- **Vendu** : teneurs en composés marqueurs variables ; teneurs des produits du marché français : [?] non relevées (aucun produit dans le dépôt).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Gélules, comprimés, poudre de racine, teintures.\n- **France** : *Sedum roseum* (L.) Scop., « Rhodiole rose, Orpin rose », toutes parties, figure à l'annexe I de l'arrêté du 24 juin 2014 (annexe I relue sur Légifrance, texte « en vigueur au 14 octobre 2026 » sans texte modificatif listé, consulté le 2026-10-14). Le nom botanique de la liste est un synonyme de *Rhodiola rosea* (synonymie avec *Rhodiola rosea* L. non vérifiée par un texte officiel dans cette recherche) [?].\n- **Médicament à base de plantes** : monographie EMA/HMPC d'usage traditionnel (voir ci-dessus). Aucune spécialité à base de rhodiole dans la base de composition de la BDPM, donc pas de médicament traditionnel autorisé en France à ce jour (BDPM, consulté le 2026-10-14).\n- **Allégation de santé UE** : avis EFSA de 2012 relevé dans la fiche [stress chronique et cortisol](fiche:stress-chronique-et-cortisol) (lien de cause à effet non établi pour la fatigue mentale) ; texte de l'avis non relu pour cette fiche, registre en ligne actuel inaccessible depuis cet environnement [?].\n- **AMA** : non nommée dans la Liste des interdictions 2026 (recherche par nom, fichier du 2026-10-13).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Pas d'événement grave dans l'ECR de fatigue ; effets indésirables moins fréquents que sous sertraline (30,0 % vs 63,2 %) mais plus que sous placebo (16,7 %) dans l'essai de dépression (PMID 19016404, 25837277) [B].\n- **CYP2C9** : après 14 jours d'un produit du commerce (Arctic Root), le rapport EXP-3174/losartan baisse de 21 % (p=0,023), signe d'une inhibition modeste ; l'effet est plus net chez les métaboliseurs extensifs ; 13 volontaires ; les auteurs jugent l'effet possiblement pertinent avec les médicaments à marge étroite comme la warfarine ou la phénytoïne [B, ECR croisé n=13] (PMID 26613955).\n- Pas d'effet sur les CYP1A2, 2C19, 2D6 ni 3A4 dans le même essai (PMID 26613955).\n- **Monographie EMA/HMPC (2024)** : contre-indiquée uniquement en cas d'hypersensibilité ; interactions : « aucune interaction cliniquement pertinente observée » (à rapprocher de l'inhibition modeste du CYP2C9 ci-dessus, qui n'a été mesurée que sur 13 volontaires) ; grossesse et allaitement : sécurité non établie, usage non recommandé ; moins de 18 ans : non recommandé ; effets indésirables de fréquence inconnue : céphalées, nausées, douleurs abdominales, diarrhée, éruption cutanée, prurit ; aucun cas de surdosage rapporté ; aucune donnée de fertilité.\n- Trouble bipolaire, combinaison avec antidépresseurs : [?] recherchés ; aucune étude dédiée à la rhodiole. Une revue rétrospective de 1 816 déclarations d'effets indésirables adaptogènes + antidépresseurs ne cite pas la rhodiole parmi les cas retenus dans son résumé (PMID 37829299).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Aucune fiche produit.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Anti-fatigue et anti-stress prouvé »** : revues contradictoires, tous essais à risque de biais élevé ou incertain (PMID 22643043) ; un ECR montre plus de fatigue que le placebo (PMID 25268730) [A, faible certitude].\n- **« Alternative naturelle aux antidépresseurs »** : sur 57 sujets, rhodiola ≈ placebo sur le HAM-D, sertraline numériquement meilleure (PMID 25837277) [B, ECR unique n=57].\n- **« Fait baisser le cortisol »** : un seul ECR avec cortisol salivaire au réveil et un critère mal détaillé (PMID 19016404) [B, ECR unique n=60].\n\nÀ voir aussi : [ashwagandha](fiche:ashwagandha) · [L-théanine](fiche:l-theanine) · [Anxiété](fiche:anxiete) · [Dépression](fiche:depression) · [ginseng](fiche:ginseng) · [bacopa](fiche:bacopa) · [créatine](fiche:creatine).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 21036578 — Hung SK et al., *Phytomedicine* 2011. doi:10.1016/j.phymed.2010.08.014 (résumé relu).\n- PMID 22643043 — Ishaque S et al., *BMC Complement Altern Med* 2012. doi:10.1186/1472-6882-12-70 (résumé relu).\n- PMID 19016404 — Olsson EM et al., *Planta Med* 2009. doi:10.1055/s-0028-1088346 (résumé relu).\n- PMID 25268730 — Punja S et al., *PLoS One* 2014. doi:10.1371/journal.pone.0108416 (résumé relu).\n- PMID 26502953 — Cropley M et al., *Phytother Res* 2015. doi:10.1002/ptr.5486 (résumé relu).\n- PMID 25837277 — Mao JJ et al., *Phytomedicine* 2015. doi:10.1016/j.phymed.2015.01.010 (résumé relu).\n- PMID 37829299 — Siwek M et al., *Front Pharmacol* 2023. doi:10.3389/fphar.2023.1271776 (résumé relu).\n- PMID 41080184 — Wang X et al., *Front Nutr* 2025. doi:10.3389/fnut.2025.1645346 (résumé relu).\n- PMID 26613955 — Thu OK et al., *Eur J Clin Pharmacol* 2016. doi:10.1007/s00228-015-1988-7 (résumé relu).\n- Arrêté du 24 juin 2014 établissant la liste des plantes, autres que les champignons, autorisées dans les compléments alimentaires, annexe I (NOR ERNC1406332A), Légifrance, legifrance.gouv.fr/loda/id/JORFTEXT000029254516, texte affiché « en vigueur au 14 octobre 2026 » sans texte modificatif listé ; entrée Sedum roseum (L.) Scop., « Rhodiole rose, Orpin rose », toutes parties relue par nom de plante, consulté le 2026-10-14.\n- EMA, HMPC, European Union herbal monograph on Rhodiola rosea L., rhizoma et radix, révision 1 (EMA/HMPC/24177/2023), adoptée le 20 mars 2024, ema.europa.eu/en/medicines/herbal/rhodiolae-roseae-rhizoma-et-radix, consultée le 2026-10-14.\n- BDPM, fichier de composition des spécialités (CIS_COMPO_bdpm.txt, base-donnees-publique.medicaments.gouv.fr/download/file/CIS_COMPO_bdpm.txt), recherche par nom de substance (rhodiola, rhodiole), consulté le 2026-10-14.\n- Liste des interdictions AMA 2026, recherche par nom, fichier du 2026-10-13.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Rhodiola (Rhodiola rosea)",
+ "type": "actif",
+ "unite": ""
+}

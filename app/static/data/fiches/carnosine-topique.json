@@ -1,0 +1,76 @@
+{
+ "cibles": [
+  "peau",
+  "sens-bouche"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "peptide",
+ "id": "carnosine-topique",
+ "intro": "",
+ "liens": [
+  "beta-alanine",
+  "ghk-cu",
+  "palmitoyl-pentapeptide-4",
+  "protection-solaire",
+  "retinoides"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "30199874",
+  "37675862",
+  "40571202",
+  "39279568",
+  "28245346",
+  "19503764"
+ ],
+ "preuve_globale": "D",
+ "resume": "La carnosine est le dipeptide bêta-alanyl-histidine, présent dans le muscle (voir bêta-alanine, son précurseur oral). Appliquée sur la peau, elle est vendue comme anti-glycation (AGEs), antioxydante et « anti-taches ».",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- La carnosine est le dipeptide bêta-alanyl-histidine, présent dans le muscle (voir [bêta-alanine](fiche:beta-alanine), son précurseur oral). Appliquée sur la peau, elle est vendue comme **anti-glycation** (AGEs), antioxydante et « anti-taches ».\n- **Données de peau = ex vivo et animales** : sur des explants de peau humaine exposés au méthylglyoxal, la carnosine appliquée en solution aqueuse a réduit les produits de glycation CML et pentosidine, et une crème contenant de la carnosine l'a fait davantage [D, ex vivo, auteurs liés au fabricant ISDIN] (PMID 30199874) ; sur des biopsies exposées à un rayonnement solaire simulé, 0,2 % et 2 % de L-carnosine ont réduit les ROS, les AGEs et la modulation de gènes marqueurs [D, ex vivo] (PMID 37675862) ; chez le rat exposé aux UVB, une formulation liposomale à 0,2 % de carnosine limite les lésions [C] (PMID 40571202).\n- **Aucun essai randomisé humain sur la peau** (rides, glycation cutanée mesurée in vivo, pigmentation) avec la carnosine topique **isolée** trouvé dans PubMed le 2026-10-14 [?]. Une étude chinoise de 2024 de « carnosine supramoléculaire » rapporte une efficacité éclaircissante in vitro et dans des « tests d'efficacité clinique » dont le résumé ne donne ni effectif ni résultat chiffré [D] (PMID 39279568).\n- **Pénétration** : l'étude de 2025 note que la carnosine topique est limitée par sa faible pénétration cutanée (PMID 40571202), ce qui explique l'intérêt des vecteurs.\n- **N-acétylcarnosine en collyre** (cataracte « sans chirurgie ») : la revue Cochrane de 2017 n'a pas pu classer les 2 études trouvées (114 personnes, informations insuffisantes) et conclut qu'il n'y a **pas de preuve convaincante** que le produit inverse ou prévienne la progression de la cataracte [A, preuve insuffisante] (PMID 28245346). L'essai randomisé le plus cité (75 patients cataracteux, 9 mois) a été conduit par la société qui fabrique le collyre [B, promoteur = fabricant] (PMID 19503764).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Piégeage d'espèces réactives et de carbonyles : la carnosine réduit la formation de produits de glycation induite par le méthylglyoxal dans des explants de peau (PMID 30199874) [D] et les ROS induits par le rayonnement solaire simulé (PMID 37675862) [D].\n- Pour l'œil : la carnosine ne pénètre pas dans l'œil en collyre, alors que la N-acétylcarnosine traverse la cornée et serait convertie en carnosine dans la chambre antérieure (hypothèse présentée dans la revue Cochrane, PMID 28245346) [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Glycation cutanée, explants humains (méthylglyoxal) | AGEs CML et pentosidine réduits ; la crème fait mieux que la solution aqueuse | [D, ex vivo] (PMID 30199874) |\n| Photoprotection, biopsies humaines (rayonnement solaire simulé) | ROS, AGEs et gènes marqueurs atténués avec 0,2 % et 2 % | [D, ex vivo] (PMID 37675862) |\n| Photovieillissement UVB, rat | Moins de lésions avec la formulation liposomale hyaluronique que le gel simple | [C] (PMID 40571202) |\n| Éclaircissement, anti-âge (carnosine « supramoléculaire ») | Efficacité décrite en cellules et dans des tests cliniques non détaillés dans le résumé | [D] (PMID 39279568) |\n| Rides, taches, glycation cutanée chez l'humain (carnosine topique isolée) | Aucun ECR trouvé | [?] |\n| Cataracte, N-acétylcarnosine en collyre | Pas de preuve convaincante (Cochrane) ; ECR du fabricant : amélioration de l'éblouissement et de l'acuité chez des patients atteints | [A, preuve insuffisante] (PMID 28245346) ; [B, fabricant] (PMID 19503764) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Ex vivo : 0,2 % et 2 % de L-carnosine (PMID 37675862) ; rat : 0,2 % de carnosine dans un vecteur liposomal (PMID 40571202). Concentration de la crème d'ISDIN testée ex vivo : non donnée dans le résumé [?].\n- Produits vendus : concentration souvent non déclarée ; aucun produit du dépôt n'en contient.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Cosmétique** : ingrédient INCI « Carnosine », utilisé dans des crèmes ; CosIng : « CARNOSINE » (CAS 305-84-0), fonction « SKIN CONDITIONING » ; « ACETYL CARNOSINE » (CAS 56353-15-2), fonction « SKIN PROTECTING » ; aucune annexe ni restriction de concentration listée (CosIng, API publique, consulté le 2026-10-14).\n- **Médicament** : aucune spécialité « carnosine » ni « N-acétylcarnosine » dans la base publique des médicaments (BDPM, fichiers CIS_bdpm et CIS_COMPO_bdpm téléchargés le 2026-10-14). Le collyre de N-acétylcarnosine : statut en France (dispositif médical, complément ou produit non autorisé) non consulté [?].\n- **Oral** : la carnosine orale et la bêta-alanine sont traitées dans la fiche [bêta-alanine](fiche:beta-alanine).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Aucun effet indésirable notable décrit dans les résumés cités pour les applications cutanées (études ex vivo et animales) [D, C]. Données de tolérance humaine de la carnosine topique : non extraites [?].\n- Collyre : la revue Cochrane recommande de futurs essais assez grands pour détecter les effets indésirables (PMID 28245346) ; données de sécurité détaillées : non extraites [?].\n- Une cataracte qui évolue nécessite une chirurgie ; retarder la consultation à cause d'un collyre est le risque principal : voir ci-dessous.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Aucun produit du dépôt. Pour les peptides anti-âge topiques mieux documentés : [palmitoyl pentapeptide-4](fiche:palmitoyl-pentapeptide-4), [GHK-Cu](fiche:ghk-cu).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- Peau et glycation/vieillissement : [protection solaire](fiche:protection-solaire) et [rétinoïdes](fiche:retinoides) ont des essais humains contrôlés, contrairement à la carnosine topique.\n- Cataracte : consultation ophtalmologique ; le traitement établi reste chirurgical d'après la revue Cochrane (« The only available treatment for cataract is surgery », PMID 28245346).",
+   "titre": "Alternatives à preuve supérieure"
+  },
+  {
+   "markdown": "1. Narda M et al. *Skin Pharmacol Physiol* 2018 — PMID 30199874 — [DOI](https://doi.org/10.1159/000492276) (auteurs ISDIN, Düsseldorf, BIO-EC)\n2. Girardi C et al. *Photochem Photobiol* 2024 — PMID 37675862 — [DOI](https://doi.org/10.1111/php.13850)\n3. Gaafar PME et al. *Int J Pharm* 2025 — PMID 40571202 — [DOI](https://doi.org/10.1016/j.ijpharm.2025.125895)\n4. Bai D et al. *Adv Healthc Mater* 2024 — PMID 39279568 — [DOI](https://doi.org/10.1002/adhm.202401960)\n5. Dubois VD et al. *Cochrane Database Syst Rev* 2017 — PMID 28245346 — [DOI](https://doi.org/10.1002/14651858.CD009493.pub2)\n6. Babizhayev MA et al. *Clin Interv Aging* 2009 — PMID 19503764 (auteur de la société Innovative Vision Products, fabricant du collyre ; pas de DOI dans la notice)\n7. BDPM, fichiers CIS_bdpm et CIS_COMPO_bdpm, téléchargés le 2026-10-14.\n8. CosIng (Commission européenne), base des ingrédients cosmétiques, entrées CARNOSINE et ACETYL CARNOSINE, consultées le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "Carnosine topique et N-acétylcarnosine",
+ "type": "actif",
+ "unite": ""
+}

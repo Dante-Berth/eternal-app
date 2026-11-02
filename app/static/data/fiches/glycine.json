@@ -1,0 +1,75 @@
+{
+ "cibles": [
+  "cerveau",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-11",
+ "famille": "complement",
+ "id": "glycine",
+ "intro": "",
+ "liens": [
+  "collagene-oral",
+  "insomnie",
+  "magnesium",
+  "melatonine",
+  "sommeil"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "37851316",
+  "22529837",
+  "37004845",
+  "35975308",
+  "22293292"
+ ],
+ "preuve_globale": "B",
+ "resume": "Acide aminé non essentiel, abondant dans le collagène. Le « sommeil » et la « longévité » sont les deux arguments de vente ; aucun des deux n'est étayé par de grands essais.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Acide aminé non essentiel, abondant dans le collagène. Le « sommeil » et la « longévité » sont les deux arguments de vente ; aucun des deux n'est étayé par de grands essais.\n- Sommeil : la revue systématique 2024 (18 études chez des sujets sains, jusqu'à 14 jours) note une amélioration du sommeil avec une glycine administrée plus longtemps, mais sur de **petits échantillons à haut risque de biais** [B, petits essais] (PMID 37851316). Une étude sur 3 nuits de sommeil restreint (3 g avant le coucher) : fatigue réduite et vigilance psychomotrice améliorée [B, petit essai] (PMID 22529837).\n- Longévité : la glycine allonge la vie de souris et de rats [C] (PMID 37004845) ; chez l'humain, aucun essai de survie. GlyNAC chez 24 sujets âgés : amélioration de marqueurs d'oxydation, de la force, de la vitesse de marche, mais n=12 par bras, par l'équipe qui a proposé l'hypothèse [B, ECR unique n=24] (PMID 35975308).\n- Pas d'effet démontré sur le collagène cutané ou articulaire pris comme complément isolé : non recherché ici [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Neurotransmetteur inhibiteur (récepteurs de la glycine) et co-agoniste des récepteurs NMDA. Chez le rat, la glycine orale abaisse la température centrale et augmente le flux sanguin cutané, ce qui est proposé pour expliquer l'effet sur le sommeil (PMID 22293292) [C].\n- Longévité chez l'animal : l'hypothèse avancée est une imitation de la restriction en méthionine et une activation de l'autophagie, via l'enzyme GNMT et la sarcosine (PMID 37004845) [C].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Sommeil, sujets sains | Revue systématique : amélioration du sommeil dans les études plus longues, mais petits échantillons et haut risque de biais | [B, petits essais] (PMID 37851316) |\n| Sommeil restreint, sujets sains | 3 g avant le coucher : moins de fatigue et meilleure vigilance psychomotrice le lendemain ; pas d'effet sur la mélatonine plasmatique | [B, petit essai] (PMID 22529837) |\n| Symptômes psychiatriques | Selon la revue systématique, améliorés avec une administration plus longue dans les populations psychiatriques ; détail par maladie et doses non extraits ici | [B, revue de petits essais] (PMID 37851316) |\n| Vieillissement, marqueurs (GlyNAC) | ECR 16 semaines, 24 sujets âgés (12 par bras) contre alanine : correction du déficit en glutathion, du stress oxydatif, de la fonction mitochondriale, de la force, de la vitesse de marche | [B, ECR unique n=24] (PMID 35975308) |\n| Durée de vie | Allongement chez la souris hétérogène, le rat | [C] (PMID 37004845) |\n| Durée de vie humaine | Aucun essai | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essai sur le sommeil restreint : 3 g avant le coucher (PMID 22529837), valeur d'un essai, pas une consigne. Doses et durées des autres essais : non extraites ici [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Poudre ou gélules de glycine ; association glycine + NAC (« GlyNAC »). Statut réglementaire en France de la glycine et de la NAC en complément, plafonds éventuels : non consultés [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Les essais cités rapportent GlyNAC « sûr et bien toléré » à 16 semaines, sur 24 sujets (PMID 35975308) : échantillon trop petit pour détecter des effets rares.\n- Revue 2024 : durée maximale des essais chez les sujets sains 14 jours, chez les patients 4 mois (PMID 37851316) : pas de données de sécurité à long terme [?].\n- Interactions (clozapine et autres médicaments neuropsychiatriques), grossesse, insuffisance rénale : non recherchées dans cette fiche [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Prolonge la vie » : preuve animale uniquement [C] ; aucune donnée de survie chez l'humain.\n- « Améliore le sommeil » : l'effet se mesure sur des critères subjectifs dans de petits essais ; comparé aux options à mieux prouvées, voir [insomnie](fiche:insomnie) (TCC-I) et [sommeil](fiche:sommeil).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour.\n\nVoir aussi : [collagène oral](fiche:collagene-oral) (source de glycine alimentaire), [mélatonine](fiche:melatonine), [magnésium](fiche:magnesium).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Soh J et al. *Geroscience* 2024 — PMID 37851316 — [DOI](https://doi.org/10.1007/s11357-023-00970-8)\n2. Bannai M et al. *Front Neurol* 2012 — PMID 22529837 — [DOI](https://doi.org/10.3389/fneur.2012.00061)\n3. Bannai M et al. *J Pharmacol Sci* 2012 — PMID 22293292 — [DOI](https://doi.org/10.1254/jphs.11r04fm)\n4. Johnson AA et al. *Ageing Res Rev* 2023 — PMID 37004845 — [DOI](https://doi.org/10.1016/j.arr.2023.101922)\n5. Kumar P et al. *J Gerontol A Biol Sci Med Sci* 2023 — PMID 35975308",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Glycine (et GlyNAC)",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,34 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "",
+ "id": "protocole-debutant-cheveux",
+ "intro": "1. Diagnostic par dermatologue/médecin (exclure carence, thyroïde, effluvium télogène).\n2. Base : minoxidil topique, évalué à ≥ 6 mois [A] ([minoxidil](fiche:minoxidil)).\n3. Hommes : discuter finastéride (oral/topique) avec le médecin [A] ([finastéride](fiche:finasteride)).\n4. Option : LLLT en complément [A].\n5. Ne pas payer pour du microneedling en pensant augmenter l'effet du minoxidil [B].\n6. Photos standardisées tous les 3 mois.\n\nPlus avancé : [alopécie androgénétique](fiche:alopecie-androgenetique).",
+ "liens": [
+  "alopecie-androgenetique",
+  "finasteride",
+  "minoxidil"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 0,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [],
+ "preuve_globale": "A",
+ "resume": "1. Diagnostic par dermatologue/médecin (exclure carence, thyroïde, effluvium télogène).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Chaque étape renvoie à sa fiche sourcée.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Protocole débutant — alopécie androgénétique",
+ "type": "protocole",
+ "unite": ""
+}

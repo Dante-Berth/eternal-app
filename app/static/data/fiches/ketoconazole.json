@@ -1,0 +1,70 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "medicament",
+ "id": "ketoconazole",
+ "intro": "",
+ "liens": [
+  "ketoconazole-viatris-2-gel-sachet",
+  "ketoderm-2-shampooing"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "9669136",
+  "15863844",
+  "25933684",
+  "41051009",
+  "12227482",
+  "31858672",
+  "40986632",
+  "30668185"
+ ],
+ "preuve_globale": "B",
+ "resume": "Antifongique efficace contre la dermite séborrhéique du cuir chevelu [A] ; c'est son indication réelle en France.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Antifongique efficace contre la dermite séborrhéique du cuir chevelu [A] ; c'est son indication réelle en France.\n- Contre l'alopécie androgénétique (AGA) : preuves minces. L'essai souvent cité (Piérard-Franchimont 1998) est contrôlé mais ne compte que 4 hommes par groupe selon le tableau d'une NMA de 2025 [B, très petit essai] ; revue systématique de 5 études humaines : « prometteur », ECR nécessaires [B].\n- Recommandé « avec quasi-consensus » en complément par un consensus d'experts canadien (avis d'experts, pas un niveau de preuve).\n- En France, Kétoderm 2 % et ses génériques sont sur liste I (ordonnance), remboursés à 30 % ; peu coûteux (BDPM, consulté le 2026-10-03).\n- Utile surtout si le cuir chevelu est gras, squameux ou irrité, ce qui gêne aussi la tolérance du minoxidil.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Antifongique azolé actif sur la flore du cuir chevelu (*Malassezia*), avec une activité anti-inflammatoire propre ; hypothèse d'une inflammation microbienne péri-folliculaire participant à l'AGA [B] (PMID 9669136).\n- Stimulation de la pousse chez la souris (solution à 2 % appliquée 3 semaines, p < 0,01 vs véhicule) [C] (PMID 15863844). Mécanisme capillaire « peu clair » selon les auteurs.\n- Un effet anti-androgène local est souvent avancé dans le marketing et les blogs : aucune étude humaine trouvée le démontrant [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Dermite séborrhéique (visage, cuir chevelu) | Kétoconazole 2 % : 31 % de risque d'échec en moins vs placebo à 4 sem. (RR 0,69 ; 8 essais, qualité faible) ; aussi efficace que les corticoïdes avec 44 % d'effets indésirables en moins | [A, faible certitude] (Cochrane, PMID 25933684) |\n| AGA homme, kétoconazole 2 % vs shampooing neutre ± minoxidil 2 % | Densité, diamètre et proportion d'anagènes améliorés « presque autant » qu'avec le minoxidil ; sébum diminué ; les auteurs demandent un essai plus grand. Effectif : 4 sujets par bras selon le tableau de la NMA PMID 41051009 | [B, très petit essai contrôlé] (PMID 9669136) |\n| AGA homme, finastéride + kétoconazole (ouvert, 1 an) | Groupe finastéride + kétoconazole (10 patients) meilleur que minoxidil seul, derrière finastéride + minoxidil ; pas de comparaison au finastéride seul significative rapportée | [B, ouvert, n=10 dans le bras] (PMID 12227482) |\n| AGA, revue systématique | 7 articles : 2 études animales, 5 humaines (318 participants) ; diamètre du cheveu augmenté, amélioration photographique ; « des ECR sont nécessaires » | [B] (PMID 31858672) |\n| AGA homme, NMA 24 sem. | Kétoconazole 2 % inclus parmi les 7 produits « non conventionnels » ; rang non lisible dans le texte intégral (figure seulement) [?] | (PMID 41051009) |\n| Recommandation d'experts | « Recommandé avec quasi-consensus » (consensus canadien, Delphi de 11 médecins, 4 coauteurs salariés de L'Oréal Canada) | Avis d'experts (PMID 40986632) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Étudiée dans l'AGA : 2 % en shampooing, 2 à 4 fois par semaine [B] (PMID 41051009, tableau des essais).\n- Vendue en France : 2 % (Kétoderm gel en sachet de 6 g, soit 120 mg ; générique Viatris ; le générique Zentiva est arrêté depuis le 14/02/2025 selon Vidal) ; aucune spécialité à 1 % relevée sur la BDPM [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "| Forme | Statut France (BDPM, consulté le 2026-10-03) |\n|---|---|\n| Kétoderm 2 %, gel en sachet (EG Labo) et génériques | Liste I (ordonnance), remboursé à 30 % ; indications : dermite séborrhéique de l'adulte et de l'adolescent, dermatophyties, candidoses cutanées. Pas d'indication « chute de cheveux » |\n| Kétoconazole oral | Étiquetage restreint et retrait du marché pour les infections fongiques en raison d'effets indésirables graves (hépatiques), selon une revue [B] (PMID 30668185) ; sans rapport avec le shampooing |\n| Cosmétiques | Aucun shampooing cosmétique au kétoconazole relevé ; statut CosIng du kétoconazole non consulté [?] |\n\nAMA : le kétoconazole n'est pas cité dans les communications 2026 consultées (AFLD, consulté le 2026-10-03) ; liste 2026 intégrale non ouverte. Usage topique.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Passage systémique négligeable ; utilisable pendant la grossesse selon le RCP (BDPM, Kétoderm, RCP du 22/08/2022).\n- Effets indésirables listés au RCP : irritation locale, folliculite, modification de la texture ou de la couleur des cheveux, et alopécie (BDPM). Paradoxe à connaître : la chute de cheveux figure parmi les effets rapportés.\n- Eczéma de contact allergique possible [B] (PMID 30668185).\n- Pas d'interaction documentée avec le minoxidil topique ; dans l'essai de 1998, les deux étaient associés [B] (PMID 9669136). Laisser poser 5 minutes (RCP).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Top 3 (preuve de l'actif, concentration, prix, tolérance) :\n1. [Kétoderm 2 % gel en sachet](fiche:ketoderm-2-shampooing) : seule concentration étudiée, environ 6 € la boîte, remboursé à 30 % sur ordonnance.\n2. Génériques kétoconazole 2 % (Viatris) : même actif, même concentration, prix voisin  : [fiche](fiche:ketoconazole-viatris-2-gel-sachet).\n3. Aucun troisième choix défendable : les shampooings « anti-chute » cosmétiques ne contiennent pas de kétoconazole.\nAutre générique : [Kétoconazole Viatris 2 %](fiche:ketoconazole-viatris-2-gel-sachet) (le générique Zentiva est supprimé depuis le 14/02/2025, Vidal).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 9669136 — Piérard-Franchimont C. et al., *Dermatology* 1998. doi:10.1159/000017954\n- PMID 15863844 — Jiang J. et al., *J Dermatol* 2005, souris. doi:10.1111/j.1346-8138.2005.tb00756.x\n- PMID 12227482 — Khandpur S. et al., *J Dermatol* 2002. doi:10.1111/j.1346-8138.2002.tb00314.x\n- PMID 31858672 — Fields J.R. et al., *Dermatol Ther* 2020, revue systématique. doi:10.1111/dth.13202\n- PMID 41051009 — Gupta A.K. et al., *J Cosmet Dermatol* 2025, NMA (texte intégral). doi:10.1111/jocd.70483\n- PMID 40986632 — Landells I. et al., *J Cutan Med Surg* 2025. doi:10.1177/12034754251368849\n- PMID 25933684 — Okokon E.O. et al., *Cochrane Database Syst Rev* 2015. doi:10.1002/14651858.CD008138.pub3\n- PMID 30668185 — Choi F.D. et al., *J Dermatolog Treat* 2019. doi:10.1080/09546634.2019.1573309\n- BDPM, Kétoderm 2 % gel en sachet (66873350, RCP du 22/08/2022), consulté le 2026-10-03.\n- AFLD, liste AMA 2026, consulté le 2026-10-03.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Kétoconazole topique",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,108 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "muscle-os",
+  "prevention"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-ionogramme-calcium-magnesium",
+ "intro": "Fiche « examen » qui regroupe les électrolytes du bilan standard : sodium, potassium, chlore, bicarbonates (ionogramme), puis calcium (avec albumine) et magnésium, prescrits à part. Fonction rénale associée : [créatinine, cystatine, albuminurie](fiche:biomarqueur-reins-creatinine-cystatine-albuminurie) (le potassium et les bicarbonates se lisent avec le DFG).\n\n**Honnêteté sur les seuils** : j'ai pu sourcer les seuils d'hyponatrémie et les plages de risque du potassium ; les intervalles de référence « de laboratoire » du chlore, des bicarbonates, de la calcémie, de la magnésémie et de l'hypernatrémie n'ont pas été retrouvés dans une source officielle lue : ils sont marqués « non retrouvé [?] » plutôt qu'inventés. Les bornes de normalité varient de toute façon d'un laboratoire à l'autre : se fier à celles imprimées sur le compte rendu.",
+ "liens": [
+  "biomarqueur-reins-creatinine-cystatine-albuminurie",
+  "biomarqueur-vitamine-d-25-oh",
+  "magnesium",
+  "prevention-maladie-renale-chronique",
+  "regime-dash",
+  "spironolactone",
+  "vitamine-d"
+ ],
+ "marqueurs": [
+  "sodium",
+  "potassium",
+  "chlore",
+  "bicarbonates",
+  "calcium",
+  "magnesium"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 12,
+ "nb_seuils": 14,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "24569496",
+  "29554312",
+  "42206478",
+  "37076097",
+  "41980716",
+  "27977579",
+  "25549843",
+  "37620271",
+  "29679302",
+  "29953167",
+  "31706619",
+  "40455923"
+ ],
+ "preuve_globale": "B",
+ "resume": "Hyponatrémie = sodium < 135 mmol/L (recommandation européenne ESICM/ESE/ERBP 2014) ; fréquente, associée à une mortalité, une morbidité et un séjour hospitalier plus élevés (PMID 24569496). Chez l'adulte sans pathologie connue, une valeur isolée appelle un avis médical, pas une correction par soi…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Hyponatrémie = sodium < 135 mmol/L** (recommandation européenne ESICM/ESE/ERBP 2014) ; fréquente, associée à une mortalité, une morbidité et un séjour hospitalier plus élevés (PMID 24569496). Chez l'adulte sans pathologie connue, une valeur isolée appelle un avis médical, pas une correction par soi-même.\n- **Potassium : courbe en U**. Dans un consortium de 27 cohortes (1 217 986 personnes), risque minimal à 4–4,5 mmol/L ; HR de mortalité 1,22 à 5,5 et 1,49 à 3,0 mmol/L (référence 4,2) [A, méta-analyse de données individuelles d'observationnelles] (PMID 29554312). Dans l'insuffisance cardiaque, optimum 4,2–5,0 mmol/L (PMID 42206478).\n- **Calcémie : ne pas se fier à la formule « corrigée par l'albumine »** : elle classe mal par rapport au calcium ionisé, notamment aux extrêmes (PMID 37076097). Hypocalcémie sous-estimée en réanimation (PMID 41980716).\n- **Magnésémie : une valeur sérique normale ne dit pas que les réserves sont pleines** [?] ; chez des insuffisants cardiaques âgés, c'est la **magnésémie haute** (≥ 1,05 mmol/L) qui est associée à plus de mortalité, pas la basse (PMID 27977579).\n- **Bicarbonates bas** (acidose métabolique) : fréquents dans la maladie rénale chronique, associés à la progression rénale et à la mortalité, avec une association en U (acidose et alcalose) selon une revue (PMID 25549843).\n- Aucune de ces valeurs ne se « optimise » chez une personne en bonne santé : ce sont des marqueurs de sécurité, surtout rénaux et médicamenteux.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Sodium** : reflète surtout l'eau du corps (concentration), pas le sel mangé. **Potassium** : 98 % est intracellulaire ; le taux sanguin traduit l'équilibre entre apports, reins, insuline, acido-basique. **Chlore** : suit le sodium, utile pour le « trou anionique ». **Bicarbonates (réserve alcaline, CO2 total)** : tampon acido-basique. **Calcium total** : lié à l'albumine pour environ la moitié (fraction ionisée = active). **Magnésium** : < 1 % dans le sang. Ces mécanismes physiologiques sont des connaissances générales, non relus dans un article ici.\n- Un résultat se lit avec la créatinine/DFG, la glycémie, l'albumine et les médicaments.",
+   "titre": "Ce que mesure l'examen"
+  },
+  {
+   "markdown": "Conversions : sodium, potassium, chlore, bicarbonates : 1 mmol/L = 1 mEq/L. Calcium : mmol/L × 4,01 = mg/dL (2,5 mmol/L ≈ 10 mg/dL) ; magnésium : mmol/L × 2,43 = mg/dL (0,85 mmol/L ≈ 2,1 mg/dL). Facteurs de conversion arithmétiques, masses atomiques du calcium (40,08) et du magnésium (24,31).\n\nSeuils officiels et de recommandation (aucun tag) :\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| Sodium | mmol/L | < 135 | hyponatrémie (définition) | adulte | ESICM/ESE/ERBP, Clinical practice guideline on diagnosis and treatment of hyponatraemia, 2014, PMID 24569496 (résumé relu le 2026-11-01) |\n| Sodium | mmol/L | > 145 (valeur usuelle) | hypernatrémie | adulte | non retrouvé dans une source officielle lue [?] |\n| Potassium | mmol/L | 3,5–5,0 | plage de référence utilisée comme « normokaliémie » dans une méta-analyse | patients hospitalisés | Logan Ellis 2023, PMID 37620271 (convention de l'étude, pas une recommandation) |\n| Potassium | mmol/L | < 3,5 | hypokaliémie (seuil utilisé pour les analyses) | insuffisance cardiaque | PMID 42206478 (convention de l'étude) |\n| Potassium | mmol/L | > 5,5 | hyperkaliémie (seuil utilisé pour les analyses) | tout DFG, CKD-PC | PMID 29554312 (convention de l'étude) |\n| Chlore | mmol/L | — | plage de référence | adulte | non retrouvé [?] |\n| Bicarbonates | mmol/L | — | acidose métabolique (seuil) | adulte, maladie rénale | non retrouvé [?] (la revue PMID 25549843 ne donne pas de chiffre dans son résumé) |\n| Calcium total | mmol/L | — | plage de référence ; seuils d'hypo/hypercalcémie | adulte | non retrouvé [?] |\n| Magnésium | mmol/L | — | plage de référence ; seuil d'hypomagnésémie | adulte | non retrouvé [?] |\n\nSeuils pronostiques issus d'études (tag + PMID) :\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| Potassium | mmol/L | 4,0–4,5 | risque minimal de mortalité toutes causes, CV et d'insuffisance rénale terminale ; HR 1,22 (1,15–1,29) à 5,5 et 1,49 (1,26–1,76) à 3,0 vs 4,2 [A, IPD de 27 cohortes] | général, haut risque CV, MRC (1 217 986 pers.) | PMID 29554312 |\n| Potassium | mmol/L | 4,2–5,0 | risque minimal (mortalité et événements) ; < 3,5 : HR de mortalité 1,49 (1,27–1,76) vs 4,0–4,5 en IC à FE réduite [A, 12 ECR poolés, analyse observationnelle] | insuffisance cardiaque (46 069 pat.) | PMID 42206478 |\n| Potassium | mmol/L | ≥ 5,0–5,5 | « hyperkaliémie légère » non associée à une surmortalité en IC à FE réduite [A, 12 ECR poolés, analyse observationnelle] | insuffisance cardiaque à FE réduite | PMID 42206478 |\n| Potassium | mmol/L | élevé | mortalité CV RR 1,38 (1,14–1,66) en population générale âgée ; risque d'arythmie ventriculaire RR 2,33 (1,60–3,38) après infarctus [A, méta-analyse d'observationnelles] | population âgée, infarctus | PMID 29679302 |\n| Magnésium | mmol/L | ≥ 1,05 | mortalité CV RR 1,38 (1,07–1,78), toutes causes RR 1,35 (1,18–1,54) ; hypomagnésémie : pas d'association significative (RR 1,11 ; 0,87–1,41) [A, méta-analyse de 7 études, 5 172 pat.] | insuffisance cardiaque chronique, âgés, FE ≤ 40 % | PMID 27977579 |\n\nCalcium corrigé par l'albumine : la formule de laboratoire dépend de la méthode ; la version « révisée » proposée (calcium + (4 − albumine g/dL) × calcium × 0,052) réduit l'erreur par rapport à la formule classique mais reste peu fiable aux extrêmes (PMID 37076097). La formule exacte utilisée par un laboratoire français n'a pas été retrouvée dans une source officielle [?].",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Potassium et mortalité, tous niveaux de DFG | Courbe en U, minimum 4–4,5 mmol/L ; risques semblables quel que soit le DFG, l'albuminurie, la prise d'inhibiteurs du système rénine-angiotensine | [A, IPD d'observationnelles] (PMID 29554312) |\n| Potassium, arythmies et mortalité CV | Hypokaliémie : arythmies supraventriculaires RR 1,62 (1,02–2,55) chez l'âgé ; hyperkaliémie : mortalité CV RR 1,38 ; dialysés : U | [A, méta-analyse d'observationnelles] (PMID 29679302) |\n| Potassium à l'admission et durée de séjour | Séjour environ doublé aux extrêmes (< 2,5 et > 6,0 mmol/L) | [A, méta-analyse de 5 études] (PMID 37620271) |\n| Hyponatrémie chronique, traitement | Les antagonistes des récepteurs de la vasopressine élèvent le sodium de 4,2 mmol/L en moyenne (IC 3,18–5,16) mais effet sur la mortalité incertain (RR 1,11 ; 0,92–1,33), plus de correction trop rapide ; données absentes pour la restriction hydrique, l'urée... | [A, Cochrane, 35 études, faible certitude pour les critères importants] (PMID 29953167) |\n| Calcium corrigé vs ionisé | L'albumine corrigée donne des erreurs de classement (zone B : calcium bas par formule, ionisé normal : 44 % avec la formule non ajustée, 12 % avec la formule révisée) | [B, étude rétrospective d'un laboratoire, 468 tests] (PMID 37076097) |\n| Calcium en réanimation | Calcium total, corrigé et calculé sous-estiment l'hypocalcémie vs ionisé (145 patients) ; le calcium ionisé ne prédit pas mortalité ni durée de séjour (AUC 0,54 et 0,51) | [B, étude transversale] (PMID 41980716) |\n| Magnésium sérique et mortalité en IC | La magnésémie haute, pas la basse, est associée à plus de mortalité | [A, méta-analyse de 7 études observationnelles] (PMID 27977579) |\n| Bicarbonates et reins | Acidose associée à progression et mortalité en MRC ; les alcalinisants pourraient ralentir le déclin du DFG selon des ECR cités par la revue | [B, revue narrative] (PMID 25549843, résumé relu ; chiffres non extraits) |\n\nCes associations sont observationnelles : elles montrent qu'un taux anormal signale un malade, pas qu'ajuster le chiffre améliore le pronostic. Un test de causalité n'existe, dans les sources lues, que pour la hyponatrémie (Cochrane ci-dessus, peu concluant sur les critères importants).",
+   "titre": "Ce que dit la preuve (valeur prédictive, utilité clinique)"
+  },
+  {
+   "markdown": "- **Rein** : DFG bas et albuminurie augmentent le risque d'hyperkaliémie > 5,5 mmol/L (PMID 29554312). Voir [prévention de la maladie rénale chronique](fiche:prevention-maladie-renale-chronique).\n- **Médicaments** : la fiche [spironolactone](fiche:spironolactone) est le cas typique d'actif qui expose à l'hyperkaliémie ; les diurétiques thiazidiques et les inhibiteurs du système rénine-angiotensine modifient sodium et potassium : effets bien connus en pratique mais non relus dans un résumé ici [?]. Dans le consortium CKD-PC, les courbes de risque restent semblables chez les utilisateurs d'inhibiteurs RAA (PMID 29554312).\n- **Compléments** : [magnésium](fiche:magnesium) (la magnésémie sérique reflète mal le statut en magnésium [?]) ; [vitamine D](fiche:vitamine-d) et calcium en excès peuvent élever la calcémie (non relu ici [?]) ; compléments « potassium » et substituts de sel : risque en cas de DFG bas (non relu ici [?]).\n- **Alimentation** : apports en potassium des régimes riches en végétaux ([DASH](fiche:regime-dash)) ; le texte KDIGO (PMID 31706619) discute un virage de la restriction diététique vers des profils alimentaires végétaux associés à de meilleurs résultats, tout en notant le peu de données sur l'effet d'une modification alimentaire sur un potassium anormal.\n- **Prélèvement** : un tube hémolysé élève faussement le potassium ; poing serré, garrot prolongé, délai avant centrifugation : sources non relues [?]. Un potassium isolé inattendu se répète avant d'agir.\n- **Albumine basse** : fausse la calcémie totale (d'où la correction, imparfaite).",
+   "titre": "Ce qui fait varier le résultat (leviers, médicaments, compléments, conditions de prélèvement)"
+  },
+  {
+   "markdown": "- **Ne pas s'auto-corriger** : sodium, potassium, calcium et magnésium anormaux se corrigent sur avis médical après vérification du prélèvement et du contexte rénal. La correction trop rapide d'une hyponatrémie chronique expose à des complications neurologiques (syndrome de démyélinisation osmotique, évoqué dans le résumé du PMID 40455923 ; recommandations complètes : PMID 24569496).\n- Répéter un résultat inattendu, relire la liste des médicaments et compléments (ceux qui sont pris sans ordonnance compris).\n- Chercher la cause : rein, médicaments, hormones (non détaillé ici), apports.\n- Hypercalcémie ou hypocalcémie confirmée : bilan phosphocalcique et dosage de la PTH, de la vitamine D ([25-OH vitamine D](fiche:biomarqueur-vitamine-d-25-oh)) : conduite détaillée non recherchée [?].",
+   "titre": "Que faire d'un résultat anormal"
+  },
+  {
+   "markdown": "- Ionogramme, calcémie et magnésémie sont des examens de biologie courants, prescrits en cas de symptômes, de maladie rénale, cardiaque ou digestive, de traitement diurétique/IEC/ARA2/antialdostérone. Chez une personne sans symptôme ni traitement, aucune fréquence de dépistage n'est fondée dans les sources lues [?].\n- Remboursement et prix : non consultés (NABM) [?].",
+   "titre": "Qui, quand, comment (fréquence, remboursement)"
+  },
+  {
+   "markdown": "Examens de biologie médicale. Dosage du calcium ionisé et de la magnésémie : disponibilité, prix et remboursement non recherchés [?]. Aucun test « électrolytes à domicile » évalué.",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Se fier à un sodium « normal » pour exclure un déficit en eau/sel : le sodium dit la concentration, pas le stock.\n- Corriger la calcémie par l'albumine et en tirer une certitude : formule imprécise aux extrêmes (PMID 37076097).\n- Prendre du magnésium « parce que le taux sanguin est bas » ou « normal » sans avis : la magnésémie sérique reflète mal le stock total [?] et, chez l'insuffisant cardiaque âgé, les valeurs hautes sont associées à plus de décès (PMID 27977579).\n- Éviter tous les aliments riches en potassium « par prudence » sans DFG bas ni médicament hyperkaliémiant : le KDIGO déplace l'objectif vers l'alimentation végétale (PMID 31706619).\n- Interpréter un potassium isolé de 5,1–5,5 sans contexte : en IC à FE réduite, ce niveau n'est pas associé à une surmortalité (PMID 42206478).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Détox / minéralisation : tester ses électrolytes pour optimiser »** [M] : aucune étude lue ne montre qu'un électrolyte « optimisé » dans la plage normale améliore la santé d'une personne en bonne santé ; les associations de risque concernent les extrêmes, surtout chez des malades.\n- **« Boire de l'eau alcaline / compléter en bicarbonate pour la longévité »** [M] : les ECR cités concernent la maladie rénale chronique avec acidose (PMID 25549843), pas la personne saine ; l'association en U signale aussi un risque à l'alcalose.\n- **« Plus de magnésium est toujours mieux »** : chez l'insuffisant cardiaque âgé, la magnésémie ≥ 1,05 mmol/L est associée à la mortalité (PMID 27977579) ; association, non causalité.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Une hyperkaliémie « légère » (5,0–5,5 mmol/L) n'est pas associée à une moindre survie en IC à FE réduite ; c'est l'hypokaliémie < 3,5 qui l'est (PMID 42206478).\n- L'albumine « corrigée » peut classer faussement un patient normocalcique en hypocalcémique (44 % d'erreur de zone B avec la formule non ajustée dans une étude de laboratoire, PMID 37076097).\n- Le sodium trop bas est un marqueur de gravité en soi, associé à une mortalité accrue, sans qu'on sache si le corriger améliore la survie (Cochrane, PMID 29953167).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Faiblesse musculaire marquée, crampes ou palpitations avec un potassium anormal ; confusion, vomissements, convulsions ou maux de tête intenses avec un sodium < 135 mmol/L ; soif intense avec polyurie et calcium élevé ; tétanie ou fourmillements avec calcium bas ; tout résultat très éloigné de la normale (urgence si symptômes). Un résultat modérément anormal sans symptôme : répétition et avis du médecin traitant.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 24569496 — Spasovski G et al., Clinical practice guideline on diagnosis and treatment of hyponatraemia. *Nephrol Dial Transplant* 2014. doi:10.1093/ndt/gfu040\n- PMID 29953167 — Nagler EV et al., Interventions for chronic non-hypovolaemic hypotonic hyponatraemia. *Cochrane Database Syst Rev* 2018. doi:10.1002/14651858.CD010965.pub2\n- PMID 29554312 — Kovesdy CP et al., Serum potassium and adverse outcomes across the range of kidney function: a CKD Prognosis Consortium meta-analysis. *Eur Heart J* 2018. doi:10.1093/eurheartj/ehy100\n- PMID 42206478 — Ono R et al., Optimal serum potassium concentrations in heart failure: an individual patient data meta-analysis. *Eur Heart J* 2026. doi:10.1093/eurheartj/ehag341\n- PMID 29679302 — Hoppe LK et al., Association of abnormal serum potassium levels with arrhythmias and cardiovascular mortality. *Cardiovasc Drugs Ther* 2018. doi:10.1007/s10557-018-6783-0\n- PMID 37620271 — Logan Ellis H et al., Admission plasma potassium and length of hospital stay: a meta-analysis. *BMJ Open* 2023. doi:10.1136/bmjopen-2022-068387\n- PMID 31706619 — Clase CM et al., Potassium homeostasis and management of dyskalemia in kidney diseases: KDIGO Controversies Conference. *Kidney Int* 2020. doi:10.1016/j.kint.2019.09.018\n- PMID 37076097 — Albert SG, Isbell TS, Reconsideration of \"Albumin corrected total calcium\" determinations. *Clin Chim Acta* 2023. doi:10.1016/j.cca.2023.117353\n- PMID 41980716 — Das M, Baruah A, Total versus ionized calcium in critically ill patients. *Arch Pathol Lab Med* 2026. doi:10.5858/arpa.2025-0488-OA\n- PMID 27977579 — Angkananard T et al., Serum magnesium and mortality outcomes in heart failure patients. *Medicine (Baltimore)* 2016. doi:10.1097/MD.0000000000005406\n- PMID 25549843 — Gaggl M et al., Effect of oral alkali supplementation on progression of chronic kidney disease. *Curr Hypertens Rev* 2014. doi:10.2174/1573402111666141231123314 (revue narrative).\n- PMID 40455923 — Severe symptomatic hyponatremia in Europe: insights into current clinical practice. *Eur J Endocrinol* 2025 (résumé relu partiellement ; cité seulement pour la mention du risque de démyélinisation osmotique).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : ionogramme sanguin (sodium, potassium, chlore, bicarbonates), calcémie et magnésémie",
+ "type": "biomarqueur",
+ "unite": ""
+}

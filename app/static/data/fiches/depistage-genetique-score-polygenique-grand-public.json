@@ -1,0 +1,88 @@
+{
+ "cibles": [
+  "prevention",
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-16",
+ "famille": "",
+ "id": "depistage-genetique-score-polygenique-grand-public",
+ "intro": "",
+ "liens": [
+  "apob-lipides-et-statines",
+  "biomarqueur-lipoproteine-a",
+  "prevention-avc-et-infarctus"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "30309464",
+  "30554720",
+  "40151934",
+  "30926966",
+  "39906985",
+  "30104762",
+  "34037665",
+  "41706060",
+  "35862132",
+  "36994636",
+  "32735764"
+ ],
+ "preuve_globale": "B",
+ "resume": "Un score polygénique (PRS) additionne l'effet de milliers de variants ; il classe un risque, il ne diagnostique rien. Pour la maladie coronarienne : HR 1,71 par écart-type, top 20 % vs bas 20 % HR 4,17, mais C-index 0,623 (UK Biobank, 22 242 cas) [B, cohorte, validation externe] (PMID 30309464).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Un score polygénique (PRS) additionne l'effet de milliers de variants ; il classe un risque, il ne diagnostique rien.** Pour la maladie coronarienne : HR 1,71 par écart-type, top 20 % vs bas 20 % HR 4,17, mais C-index 0,623 (UK Biobank, 22 242 cas) [B, cohorte, validation externe] (PMID 30309464).\n- **Cancer du sein** : PRS de 313 variants, OR 1,61 par écart-type, AUC 0,630 ; le 1 % supérieur a un risque à vie de 32,6 % [B, cohortes prospectives] (PMID 30554720). Discrimination modeste à l'échelle individuelle.\n- **Aucun essai randomisé sur critères cliniques solide** : seul MI-GENES (207 sujets, essai randomisé, analyse de suivi 10 ans *post hoc*) rapporte 9 vs 2 événements cardiovasculaires majeurs (HR 0,20, IC 0,04-0,94) [B, ECR unique n=207, post hoc] (PMID 40151934). Trop petit pour trancher.\n- **Biais d'ancestralité** : les PRS actuels sont plusieurs fois plus précis chez les personnes d'ascendance européenne [B, revue, perspective] (PMID 30926966).\n- **Les sociétés savantes ne recommandent pas l'usage en routine** : les recommandations ESC n'en préconisent pas à ce jour (consensus ESC 2025, PMID 39906985, résumé).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Un PRS est la somme pondérée d'allèles tirés d'études d'association génome entier. Il capte une part du risque héréditaire que ni les antécédents familiaux ni les facteurs classiques ne résument.\n- Khera et al. (2018) : un PRS identifie 8,0 % de la population à plus de trois fois le risque de maladie coronarienne, 1,5 % pour le cancer du sein, 20 fois plus fréquent que les mutations monogéniques de risque comparable [B, développement et validation] (PMID 30104762). C'est un risque relatif, pas un destin.\n- Autre voie génétique, distincte : les variants monogéniques rares (BRCA, hypercholestérolémie familiale), à l'effet fort. Les tests grand public n'en testent souvent qu'un nombre limité de variants ; l'étude PMID 34037665 compare dépistage limité et séquençage complet pour l'hypercholestérolémie familiale (titre vérifié, résultats non lus [?]).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| PRS maladie coronarienne : prédiction | HR 1,71 par SD (IC 1,68-1,73) ; top 20 % vs bas 20 % HR 4,17 ; C-index 0,623, supérieur à chaque facteur classique isolé (tabac, diabète, tension, IMC, cholestérol déclaré, antécédent familial) | [B, cohorte UK Biobank] (PMID 30309464) |\n| PRS cancer du sein | OR 1,61 par SD (IC 1,57-1,65) ; AUC 0,630 ; top 1 % : risque à vie 32,6 % | [B, cohortes prospectives] (PMID 30554720) |\n| Divulgation d'un score intégré (MI-GENES) | 6 mois : plus d'initiation de statine, LDL plus bas ; 10 ans : MACE 9 vs 2 (HR 0,20, IC 0,04-0,94) ; moins d'examens coronariens (47 % vs 29 %) | [B, ECR unique n=207, post hoc] (PMID 40151934) |\n| Dépistage génotype d'abord (PROACT) | 3,9 % des génotypés à PRS élevé malgré un risque clinique faible ; plaque sous-clinique chez 102 des 204 premiers participants imagés | [B, étude de faisabilité, interim] (PMID 41706060) |\n| Équité entre ancestralités | Précision plusieurs fois supérieure chez les Européens | [B, revue] (PMID 30926966) |\n| Usage clinique de routine | Non recommandé à ce jour par l'ESC ; feuille de route de transition proposée | recommandation d'experts (PMID 39906985, PMID 35862132) |\n| Tests génétiques grand public : conséquences | 43 articles : faux positifs / variants rares mal interprétés, interprétation tierce, minorité avec impact psychologique négatif, professionnels réservés | [B, revue systématique] (PMID 36994636) |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- **Débutant** : faire d'abord les mesures classiques et les dépistages recommandés (voir [Prévention de l'AVC et de l'infarctus](fiche:prevention-avc-et-infarctus), [ApoB, lipides et statines](fiche:apob-lipides-et-statines), [Lp(a)](fiche:biomarqueur-lipoproteine-a) qui est une cause génétique mesurable par une prise de sang). Le PRS n'a pas de place avant ces étapes.\n- **Intermédiaire** : un antécédent familial net (infarctus précoce, cancer du sein ou de l'ovaire jeune) justifie une consultation d'oncogénétique ou de génétique cardiovasculaire en France, pas un test commercial.\n- **Avancé** : un PRS intégré dans un score de risque, interprété par un médecin, peut faire pencher une décision limite (statine) : c'est ce que suggère MI-GENES, sur 207 sujets [B, post hoc] (PMID 40151934). Pour les cancers, l'usage du PRS pour moduler le dépistage fait l'objet d'essais (type WISDOM, MyPeBS), non lus ici [?].",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Prendre un PRS « élevé » pour un diagnostic, ou un PRS « bas » pour une garantie.\n- Interpréter soi-même des données brutes via un site tiers : source documentée de faux positifs sur variants rares (PMID 36994636).\n- Faire un PRS sans refaire les mesures de base (ApoB, tension, glycémie).\n- Ignorer que l'ancestralité non européenne dégrade la précision (PMID 30926966).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Votre ADN prédit votre infarctus »** [M] : le meilleur C-index du PRS coronarien est de 0,623, comparable à des facteurs simples, et le HR de 4,17 compare deux extrêmes de 20 % de la population (PMID 30309464).\n- **« Un test pour tous les cancers à 100 € »** [M] : le PRS du sein a une AUC de 0,630 (PMID 30554720) ; pour les autres cancers, non recherché [?].\n- **« Résultat rassurant, donc inutile de se dépister »** : un PRS bas n'annule pas les dépistages recommandés ; aucune donnée citée ici ne soutient de les arrêter [?].\n- Conflits d'intérêts : non relevés étude par étude pour cette fiche.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PROACT : parmi les génotypés, 3,9 % avaient un PRS élevé alors que leur risque à 10 ans calculé était médian de 3 % ; la moitié des 204 premiers imagés avaient déjà de la plaque (76,2 % des hommes, 38,3 % des femmes) (PMID 41706060).\n- MI-GENES : l'écart d'événements à 10 ans (9 vs 2) est attribué par les auteurs à l'initiation de statine, pas à un effet génétique propre (PMID 40151934).\n- Les recommandations de l'AHA (2022) proposent des conseils provisoires pour cinq maladies cardiométaboliques (PMID 35862132, résumé).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Antécédents familiaux d'événement cardiovasculaire avant 55 ans (homme) ou 65 ans (femme), cholestérol très élevé : médecin, consultation de génétique.\n- Cancers du sein, de l'ovaire, du côlon ou de la prostate à un âge jeune dans la famille : oncogénétique.\n- Résultat de test commercial inquiétant : le faire interpréter par un généticien, confirmer en laboratoire agréé avant toute décision.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- **Statut France** : les tests génétiques sont encadrés par la loi bioéthique ; les tests récréatifs ou de « prédisposition » vendus directement au public sont en principe interdits en France (article 16-10 du Code civil et Code de la santé publique). Texte non consulté pour cette fiche, à vérifier sur Légifrance [?].\n- **Sécurité** : données génétiques sensibles et partagées avec la famille, conservation et revente par l'entreprise (confidentialité : voir PMID 32735764, revue sur valeur et risque des tests grand public) ; risque d'anxiété, de faux positifs, de fausse rassurance.",
+   "titre": "Statut réglementaire et sécurité"
+  },
+  {
+   "markdown": "- PRS d'autres cancers (prostate, côlon, poumon) et essais de dépistage guidé par PRS.\n- Prix et offres des tests commerciaux ; statut précis en France ; performance du PRS ajouté à un score clinique (reclassification nette).\n- Bénéfice des statines selon le PRS : pas retrouvé dans la recherche faite [?].",
+   "titre": "Non recherché / à approfondir"
+  },
+  {
+   "markdown": "1. Inouye M et al. *J Am Coll Cardiol* 2018 — PMID 30309464\n2. Mavaddat N et al. *Am J Hum Genet* 2019 — PMID 30554720\n3. Khera AV et al. *Nat Genet* 2018 — PMID 30104762\n4. Martin AR et al. *Nat Genet* 2019 — PMID 30926966\n5. Naderian M et al. *Circ Genom Precis Med* 2025 — PMID 40151934\n6. Abou-Karam R et al. *J Am Coll Cardiol* 2026 — PMID 41706060\n7. Nolan et al. *Clin Genet* 2023 — PMID 36994636\n8. Schunkert H et al. *Eur Heart J* 2025 — PMID 39906985\n9. O'Sullivan JW et al. *Circulation* 2022 — PMID 35862132\n10. Majumder MA et al. *Annu Rev Med* 2020 — PMID 32735764\n11. Sturm AC et al. *JAMA Cardiol* 2021 — PMID 34037665 (titre vérifié, résumé non lu)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Score polygénique et tests génétiques grand public : risque cardiovasculaire et cancers",
+ "type": "condition",
+ "unite": ""
+}

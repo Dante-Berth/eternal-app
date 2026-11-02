@@ -1,0 +1,104 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-reins-creatinine-cystatine-albuminurie",
+ "intro": "Fiche « examen ». Le rein est un marqueur de risque cardiovasculaire et de mortalité, pas seulement un organe à surveiller. Prévention : [maladie rénale chronique](fiche:prevention-maladie-renale-chronique). Voisines : [tension artérielle](fiche:tension-arterielle), [glycémie et prédiabète](fiche:glycemie-et-prediabete), [HbA1c](fiche:biomarqueur-hba1c), [CRP](fiche:biomarqueur-crp-hscrp).",
+ "liens": [
+  "biomarqueur-apob",
+  "biomarqueur-crp-hscrp",
+  "biomarqueur-hba1c",
+  "biomarqueurs-alzheimer-ptau217-nfl",
+  "creatine",
+  "exercice-physique",
+  "glycemie-et-prediabete",
+  "prevention-maladie-renale-chronique",
+  "tension-arterielle"
+ ],
+ "marqueurs": [
+  "egfr",
+  "rac",
+  "creatinine",
+  "cystatine-c"
+ ],
+ "mesure": "mixte",
+ "nb_pmid": 8,
+ "nb_seuils": 11,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "20483451",
+  "26028594",
+  "22762315",
+  "24004120",
+  "34554658",
+  "37787795",
+  "38490803",
+  "39251807"
+ ],
+ "preuve_globale": "A",
+ "resume": "Deux mesures indépendantes, à demander ensemble : eGFR (filtration) et albuminurie (RAC, rapport albumine/créatinine urinaire). Dans 14 cohortes de population générale (105 872 sujets avec RAC), la mortalité est stable entre eGFR 75 et 105 puis monte : HR toutes causes 1,18 à eGFR 60, 1,57 à 45,…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Deux mesures indépendantes, à demander ensemble : eGFR (filtration) et albuminurie (RAC, rapport albumine/créatinine urinaire).** Dans 14 cohortes de population générale (105 872 sujets avec RAC), la mortalité est stable entre eGFR 75 et 105 puis monte : HR toutes causes 1,18 à eGFR 60, 1,57 à 45, 3,14 à 15 (réf. 95) ; la RAC est liée à la mortalité de façon log-linéaire sans seuil, et eGFR et RAC se multiplient sans interaction [A, méta-analyse de cohortes] (PMID 20483451).\n- **L'albuminurie prédit mieux le risque cardiovasculaire que l'eGFR** : ajoutée aux facteurs classiques (637 315 sujets, 24 cohortes), la RAC améliore le C-statistic de 0,0139 pour la mortalité cardiovasculaire contre 0,0065 pour l'eGFR ; 0,0196 contre 0,0109 pour l'insuffisance cardiaque [A, méta-analyse de données individuelles ; gains absolus faibles] (PMID 26028594).\n- **Créatinine seule = eGFR imprécis.** La créatinine dépend de la masse musculaire (voir pièges). Ajouter la cystatine C améliore précision et exactitude : 8,5 % des estimations s'écartent de plus de 30 % du GFR mesuré avec l'équation combinée contre 12,8 % (créatinine) et 14,1 % (cystatine C) [B, développement/validation d'équations] (PMID 22762315).\n- **Reclassement par cystatine C = meilleur pronostic.** Cystatine C vs créatinine : NRI 0,23 pour la mort toutes causes ; eGFR < 60 chez 13,7 % vs 9,7 % de la population générale [A, méta-analyse de 16 études] (PMID 24004120).\n- **Aucun complément ni traitement n'a ici de preuve pour « améliorer sa fonction rénale » chez un sujet sain** : non recherché, [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "| Test | Ce qu'il reflète | Limite principale | Source |\n|---|---|---|---|\n| Créatinine sérique → eGFR | Filtration glomérulaire estimée (équation CKD-EPI 2021 sans variable « race ») | Dépend de la masse musculaire, de la viande cuite et de la créatine ingérée (voir ci-dessous) | PMID 34554658 |\n| Cystatine C → eGFR | Filtration, moins dépendante du muscle | Influencée par d'autres facteurs (inflammation, obésité, tabac, thyroïde) : non relu ici [?] | PMID 22762315 |\n| RAC urinaire (albumine/créatinine) | Atteinte de la barrière glomérulaire ; risque CV | Variabilité intra-individuelle, effort, infection : non relu ici [?] | PMID 20483451 |\n\nÉquation 2021 : l'équation créatinine sans « race » sous-estime le GFR mesuré chez les Noirs (médiane -3,6 mL/min/1,73 m²) et le surestime chez les non-Noirs (+3,9) ; l'équation créatinine-cystatine C sans race est plus exacte et réduit l'écart entre groupes [B, développement/validation] (PMID 34554658).",
+   "titre": "Ce que mesure chaque test"
+  },
+  {
+   "markdown": "Conversions : créatinine 1 mg/dL = 88,4 µmol/L (unité française usuelle : µmol/L) ; RAC 1 mg/g = 0,113 mg/mmol, soit 30 mg/g ≈ 3 mg/mmol (KDIGO 2024, tableau de conversion). Cystatine C : mg/L. eGFR : mL/min/1,73 m².\n\nSeuils diagnostiques (recommandation officielle, sans tag de preuve). La maladie rénale chronique est définie par des anomalies de structure ou de fonction rénale présentes depuis au moins 3 mois ; une valeur isolée ne suffit pas (KDIGO 2024, nomenclature et Practice Point 1.1.3.2). Un eGFR < 60 ou une RAC ≥ 30 mg/g sont les marqueurs de l'atteinte rénale (KDIGO 2024, tableau 3).\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| eGFR | mL/min/1,73 m² | ≥ 90 | G1 : normal ou élevé (maladie rénale seulement si autre marqueur d'atteinte) | Adulte | KDIGO 2024, consulté le 2026-11-01 |\n| eGFR | mL/min/1,73 m² | 60–89 | G2 : légèrement diminué (idem) | Adulte | KDIGO 2024, consulté le 2026-11-01 |\n| eGFR | mL/min/1,73 m² | 45–59 | G3a : légèrement à modérément diminué | Adulte | KDIGO 2024, consulté le 2026-11-01 |\n| eGFR | mL/min/1,73 m² | 30–44 | G3b : modérément à sévèrement diminué | Adulte | KDIGO 2024, consulté le 2026-11-01 |\n| eGFR | mL/min/1,73 m² | 15–29 | G4 : sévèrement diminué | Adulte | KDIGO 2024, consulté le 2026-11-01 |\n| eGFR | mL/min/1,73 m² | < 15 | G5 : insuffisance rénale (défaillance) | Adulte | KDIGO 2024, consulté le 2026-11-01 |\n| RAC urinaire | mg/g | < 30 | A1 : normale à légèrement augmentée (< 3 mg/mmol ; excrétion < 30 mg/24 h) | Adulte | KDIGO 2024, consulté le 2026-11-01 |\n| RAC urinaire | mg/g | 30–300 | A2 : modérément augmentée (3–30 mg/mmol ; 30–300 mg/24 h) | Adulte | KDIGO 2024, consulté le 2026-11-01 |\n| RAC urinaire | mg/g | > 300 | A3 : sévèrement augmentée (> 30 mg/mmol ; > 300 mg/24 h) | Adulte | KDIGO 2024, consulté le 2026-11-01 |\n| Créatinine sérique | µmol/L | non retrouvé [?] | Intervalle de référence par sexe : les sites grand public consultés donnent des bornes discordantes (p. ex. femme 45–90 à 60–107, homme 60–110 à 80–115) ; aucune source officielle retrouvée. Utiliser l'intervalle imprimé sur le compte rendu du laboratoire | Femme / homme | non retrouvé [?] |\n| Cystatine C | mg/L | non retrouvé [?] | Intervalle de référence : dépend du réactif et du laboratoire, non sourcé ici | Adulte | non retrouvé [?] |\n\nSeuils pronostiques issus d'études (tag + PMID) : mortalité stable entre eGFR 75 et 105, HR 1,18 à eGFR 60 (réf. 95), puis en hausse ; RAC liée à la mortalité sans seuil [A, méta-analyse de cohortes] (PMID 20483451). Fréquence de suivi par stade : KDIGO 2024, figure 13 (non détaillée ici) [?].\n\nÉquation CKD-EPI 2021 (créatinine, sans variable race), créatinine Scr en mg/dL : eGFR = 142 × min(Scr/κ, 1)^α × max(Scr/κ, 1)^−1,200 × 0,9938^âge × 1,012 (si femme) ; κ = 0,7 (femme) ou 0,9 (homme) ; α = −0,241 (femme) ou −0,302 (homme). Les constantes sont tirées du tableau 2 du texte intégral (PMC8822996), relu le 2026-11-01 [B, développement/validation] (PMID 34554658). Une même créatinine donne donc un eGFR différent selon le sexe. L'équation combinée créatinine-cystatine C 2021 (intercept 135, âge 0,9961, femme 0,963) sert à affiner l'estimation ; KDIGO 2024 la recommande si la cystatine C est disponible (Recommandation 1.1.2.1, grade 1B) et quand l'eGFR créatinine est moins exact et que le GFR conditionne une décision (Recommandation 1.2.2.1, 1C). KDIGO 2024 déconseille d'utiliser la race dans le calcul (Practice Point 1.2.4.2).",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| eGFR bas + RAC élevée → mortalité | Voir TL;DR, gradient dose-réponse | [A, cohortes] (PMID 20483451) |\n| eGFR (créat.), eGFR (créat.+cyst. C), RAC → 10 événements (insuffisance rénale terminale, mortalité, CV, hospitalisation…) | Chaque marqueur associé à plus de risque, y compris aux stades les plus légers ; ex. avec RAC < 10 mg/g, eGFR 45-59 vs 90-104 : HR hospitalisation 1,3 (161 vs 79 événements/1000 pers.-an) | [A, méta-analyse de données individuelles, 27,5 M de sujets pour la créatinine, 0,72 M pour créat.+cyst. C] (PMID 37787795) |\n| Valeur ajoutée à la prédiction CV | RAC > eGFR, gains modestes | [A] (PMID 26028594) |\n| Cystatine C ajoutée à la créatinine | Meilleur reclassement du risque de décès et d'IRT | [A] (PMID 24004120) |\n\nLecture : association pronostique (observationnelle), pas démonstration qu'agir sur le marqueur réduit le risque. Une RAC élevée est un signal de risque, et la preuve qu'un traitement ciblé sur ce signal améliore l'évolution n'est pas extraite ici [?].",
+   "titre": "Ce que dit la preuve"
+  },
+  {
+   "markdown": "- Recommandation de référence : KDIGO 2024 sur l'évaluation et la prise en charge de la maladie rénale chronique (PMID 38490803, résumé non disponible sur PubMed : seuils, fréquence de dépistage et indications de la cystatine C non relus ici [?]).\n- Fréquence de dosage chez l'adulte sans facteur de risque : non établie ici [?].\n- Dépistage ciblé : diabète et hypertension sont les populations où l'eGFR et la RAC améliorent le plus la prédiction CV (PMID 26028594) ; recommandations françaises (HAS) : non consultées [?].",
+   "titre": "Qui, quand, comment"
+  },
+  {
+   "markdown": "- **Muscle et créatine** : un sportif musclé ou un utilisateur de créatine peut avoir une créatinine plus haute donc un eGFR « bas » sans maladie rénale. Mesurer la cystatine C est l'arbitrage logique ; l'effet de la créatine sur la créatinine est traité dans la [fiche créatine](fiche:creatine). Magnitude chiffrée ici : non recherchée [?].\n- **Sarcopénie, grand âge, régime pauvre en viande** : créatinine basse donc eGFR surestimé : mécanisme physiologique, chiffres non extraits [?].\n- **Une seule valeur ne fait pas le diagnostic** : durée de plus de 3 mois dans la définition de la maladie rénale chronique (KDIGO, non relu [?]).\n- **NfL** (marqueur de dégâts neuronaux) : la randomisation mendélienne suggère qu'une fonction rénale plus basse augmente le NfL sanguin ; à lire avec l'eGFR en main : [biomarqueurs plasmatiques d'Alzheimer](fiche:biomarqueurs-alzheimer-ptau217-nfl) [B, GWAS + randomisation mendélienne] (PMID 39251807).",
+   "titre": "Pièges d'interprétation"
+  },
+  {
+   "markdown": "- Pas de protocole ici : confirmation, recherche de cause (diabète, hypertension, médicaments, obstruction) et traitement relèvent du médecin / néphrologue.\n- Leviers du risque global : tension, glycémie, lipides ([ApoB](fiche:biomarqueur-apob)), poids, tabac, activité ([exercice](fiche:exercice-physique)). Leur effet propre sur l'eGFR ou la RAC : non extrait [?].\n- Médicaments néphrotoxiques (AINS au long cours, etc.) et compléments : non recherchés [?].",
+   "titre": "Que faire d'un résultat anormal"
+  },
+  {
+   "markdown": "Examens de biologie médicale prescrits (créatinine, cystatine C, RAC). Cotation NABM, remboursement, indications de la cystatine C en France : non consultés [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Se fier à la créatinine seule chez un sportif, un sujet très âgé ou très mince.\n- Doser l'eGFR sans RAC : on perd le meilleur prédicteur CV des deux (PMID 26028594).\n- Interpréter un eGFR de 85-95 comme « rein moyen » : le risque est plat entre 75 et 105 (PMID 20483451).\n- Penser que la RAC « normale-haute » est sans risque : pas de seuil dans la relation avec la mortalité (PMID 20483451).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Détox rénale », « cure de reins » par compléments** : aucune donnée retrouvée dans cette recherche [?] ; la fonction rénale est un marqueur de risque, pas une cible de cure grand public.\n- **« Mon eGFR est bas donc j'ai une maladie rénale »** (sportif / créatine) : peut être un artefact créatinine ; la cystatine C est l'examen qui tranche (PMID 22762315).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- L'eGFR combinant créatinine et cystatine C n'a été étudiée que sur 20 cohortes (720 736 sujets) contre 114 cohortes (27,5 M) pour la créatinine seule (PMID 37787795) : la preuve pronostique de la cystatine C est plus mince.\n- Le retrait de la variable « race » a un coût : l'équation créatinine seule sous-estime le GFR chez les Noirs (PMID 34554658).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "eGFR < 60, RAC ≥ 10 mg/g (limite à partir de laquelle le risque monte dans PMID 20483451), ou baisse rapide : avis médical. Seuils d'action officiels : non relus [?].",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 20483451 — Matsushita K et al., eGFR and albuminuria with all-cause and cardiovascular mortality in general population cohorts. *Lancet* 2010. doi:10.1016/S0140-6736(10)60674-5\n- PMID 26028594 — Matsushita K et al., eGFR and albuminuria for prediction of cardiovascular outcomes (IPD meta-analysis). *Lancet Diabetes Endocrinol* 2015. doi:10.1016/S2213-8587(15)00040-6\n- PMID 37787795 — CKD Prognosis Consortium, eGFR, albuminuria and adverse outcomes: IPD meta-analysis. *JAMA* 2023. doi:10.1001/jama.2023.17002\n- PMID 24004120 — Shlipak MG et al., Cystatin C versus creatinine in determining risk based on kidney function. *N Engl J Med* 2013. doi:10.1056/NEJMoa1214234\n- PMID 22762315 — Inker LA et al., Estimating GFR from serum creatinine and cystatin C. *N Engl J Med* 2012. doi:10.1056/NEJMoa1114248\n- PMID 34554658 — Inker LA et al., New creatinine- and cystatin C-based equations to estimate GFR without race. *N Engl J Med* 2021. doi:10.1056/NEJMoa2102953\n- KDIGO 2024 CKD Guideline, texte intégral, *Kidney Int* 2024;105(4S):S117-S314 (kdigo.org, consulté le 2026-11-01), même document que PMID 38490803 ci-dessous.\n- PMID 38490803 — KDIGO 2024 Clinical Practice Guideline for CKD. *Kidney Int* 2024 (résumé non disponible). doi:10.1016/j.kint.2023.10.018\n- PMID 39251807 — Ahmad S et al., GWAS meta-analysis of blood NfL. *Commun Biol* 2024. doi:10.1038/s42003-024-06804-3",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : fonction rénale (créatinine, cystatine C, eGFR, albuminurie)",
+ "type": "biomarqueur",
+ "unite": "                # plusieurs marqueurs (mL/min/1,73 m², mg/g, µmol/L, mg/L)"
+}

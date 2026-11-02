@@ -1,0 +1,41 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "",
+ "id": "protocole-intermediaire",
+ "intro": "À envisager après 6 à 12 mois de [protocole débutant](fiche:protocole-debutant-cheveux) bien suivi, si la réponse est insuffisante. Aucune posologie ici : tout ce qui est sur ordonnance ou hors AMM se décide avec un médecin, selon le RCP.\n\n1. Bilan : revoir le diagnostic avec un dermatologue (photos standardisées, trichoscopie, exclusion d'un effluvium ou d'une carence). Femme : voir [alopécie androgénétique féminine](fiche:alopecie-androgenetique-femme).\n2. Base maintenue : minoxidil topique ; 2 % chez la femme ([Minoxidil Bailleul 2 %](fiche:minoxidil-bailleul-2-solution)), 5 % chez l'homme ([Minoxidil Cooper 5 %](fiche:minoxidil-cooper-5-solution)) [A].\n3. Homme : finastéride, à évaluer par un médecin (profil psychiatrique et sexuel, attestation ANSM obligatoire) [A] ([finastéride](fiche:finasteride), [produit](fiche:finasteride-zydus-1mg-comprime)). Association avec le minoxidil : meilleure évaluation photographique que chaque monothérapie, densité non différente [A, faible certitude].\n4. Option cosmétique-médicale : [kétoconazole](fiche:ketoconazole) si dermite séborrhéique associée, à évaluer par un médecin ; effet anti-chute non établi [B] ([produit](fiche:ketoconazole-viatris-2-gel-sachet)).\n5. Option de complément : [LLLT](fiche:laser-basse-intensite), preuves hétérogènes, effet additionnel au minoxidil contradictoire [A, contradictoire] ; vérifier le modèle exact testé.\n6. Réévaluer à 12 mois sur photos ; arrêter ce qui n'a rien apporté. Étape suivante : [protocole avancé](fiche:protocole-avance).",
+ "liens": [
+  "alopecie-androgenetique-femme",
+  "finasteride",
+  "finasteride-zydus-1mg-comprime",
+  "ketoconazole",
+  "ketoconazole-viatris-2-gel-sachet",
+  "laser-basse-intensite",
+  "minoxidil-bailleul-2-solution",
+  "minoxidil-cooper-5-solution",
+  "protocole-avance",
+  "protocole-debutant-cheveux"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 0,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [],
+ "preuve_globale": "A",
+ "resume": "À envisager après 6 à 12 mois de protocole débutant bien suivi, si la réponse est insuffisante. Aucune posologie ici : tout ce qui est sur ordonnance ou hors AMM se décide avec un médecin, selon le RCP.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Chaque étape renvoie à sa fiche sourcée.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Protocole intermédiaire — alopécie androgénétique",
+ "type": "protocole",
+ "unite": ""
+}

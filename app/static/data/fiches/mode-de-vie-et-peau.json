@@ -1,0 +1,59 @@
+{
+ "cibles": [
+  "peau",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "",
+ "id": "mode-de-vie-et-peau",
+ "intro": "",
+ "liens": [
+  "rides-et-sillons-nasogeniens",
+  "tabac-et-alcool"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42145807",
+  "42488405",
+  "32294278",
+  "23732711"
+ ],
+ "preuve_globale": "B",
+ "resume": "",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Les facteurs du quotidien sont cohérents avec le vieillissement visible, mais la base vérifiée ici est **une revue narrative (2026) qui le dit elle-même : études longitudinales et interventionnelles nécessaires pour la causalité**. Aucune donnée vérifiée sur le sillon nasogénien spécifiquement → [?]. Les chiffres (réduction de rides, durée) manquent : ne pas en inventer.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Stress oxydatif, inflammation, sénescence, atteinte microvasculaire, dégradation de la matrice extracellulaire (selon la revue) (observationnel humain [B] et préclinique [C] mélangés, non séparés dans le résumé lu).",
+   "titre": "Mécanismes proposés"
+  },
+  {
+   "markdown": "- **Alimentation** : régimes riches en végétaux/antioxydants associés à moins de rides et meilleure hydratation [B] (observationnel). Régimes riches en sucre/sel : accélération de la sénescence et des dégâts de matrice **en préclinique** [C]. Pas de preuve humaine vérifiée ici que le sucre « glyque » le visage au point de creuser les rides [?].\n- **Exercice** : favorise l'épaisseur dermique, la synthèse de collagène, réduit l'inflammation [?] (niveau de preuve des études sous-jacentes non identifiable depuis le résumé de la revue). Effet sur les rides visibles : [?].\n- **Sommeil et stress chronique** : altèrent la récupération de la barrière, réduisent l'expression de gènes liés au collagène, associés à un vieillissement visible accéléré [B]. L'essai trouvé sur le sommeil (huile de Melaleuca) est industriel, in vitro/ex vivo + cliniques non lisibles → [M], ignoré.\n- **Tabac, alcool fort, stimulants** : fortement associés au vieillissement prématuré [B] (observationnel).\n- **Nuance** : chez 93 patients thaïlandais BPCO (transversal, 90 % d'hommes), le tabagisme cumulé n'était **pas** associé à la sévérité des rides après ajustement ; l'âge était le seul prédicteur constant, l'IMC n'étant inversement associé qu'à la mesure objective [B] (PMID 42488405) → population très spécifique, ne contredit pas l'ensemble mais montre que l'effet n'est pas universel.\n- **Soleil (UV)** : contraste photo-exposé vs photo-protégé visible au microscope confocal sur 209 volontaires âgés (visage plus de sillons linéaires, collagène grossier) [B] (PMID 32294278). Un des laboratoires d'affiliation des auteurs est LVMH Research. Essai de protection solaire : dans l'essai randomisé de Nambour (903 adultes), un écran quotidien a réduit de 24 % le vieillissement cutané sur 4,5 ans [B, ECR unique n=903] (PMID 23732711) ; voir [rides](fiche:rides-et-sillons-nasogeniens).",
+   "titre": "Preuves par facteur (résumé de la revue narrative, PMID 42145807)"
+  },
+  {
+   "markdown": "Rien de vérifié sur : « face yoga », position de sommeil, patchs anti-rides, gouttes de sérum « sommeil » → [?].",
+   "titre": "Ce qui ne marche probablement pas"
+  },
+  {
+   "markdown": "Sport et sommeil : pas de risque spécifique relevé ; effets du sport excessif ou du bronzage-sport en plein air non documentés ici [?]. Statut AMA : non concerné.\n\nVoir aussi : [Tabac et alcool](fiche:tabac-et-alcool).",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- Nwaopara A, Woolery-Lloyd H, Am J Lifestyle Med 2026 — PMID 42145807 — [DOI](https://doi.org/10.1177/15598276261450495)\n- Suchonwanit P et al., Int J Chron Obstruct Pulmon Dis 2026 — PMID 42488405 — [DOI](https://doi.org/10.2147/COPD.S618288)\n- Cinotti E et al., JEADV 2020 — PMID 32294278 — [DOI](https://doi.org/10.1111/jdv.16466)\n- Hughes MC et al., Ann Intern Med 2013 — PMID 23732711 — [DOI](https://doi.org/10.7326/0003-4819-158-11-201306040-00002)",
+   "titre": "Sources (PubMed)"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Mode de vie et rides : sport, sommeil, alimentation, tabac, alcool",
+ "type": "condition",
+ "unite": ""
+}

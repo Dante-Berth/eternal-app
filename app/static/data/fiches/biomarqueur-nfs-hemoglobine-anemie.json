@@ -1,0 +1,101 @@
+{
+ "cibles": [
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-nfs-hemoglobine-anemie",
+ "intro": "Fiche « examen ». La numération formule sanguine (NFS, ou hémogramme) mesure plusieurs marqueurs d'un seul prélèvement. Cette fiche donne les seuils de l'**hémoglobine** (OMS 2024, par sexe et grossesse) et ce qu'on sait des seuils des **autres lignées** (VGM, leucocytes, plaquettes). L'indice RDW a sa propre fiche : [RDW](fiche:biomarqueur-rdw-hemogramme). Le ratio neutrophiles/lymphocytes : [NLR](fiche:biomarqueurs-inflammation-ratio-neutrophiles-lymphocytes-nlr). Causes de carence : [fer et ferritine](fiche:fer-et-ferritine), [fiche examen fer](fiche:biomarqueur-fer-ferritine-transferrine), [B12 et folates](fiche:biomarqueur-vitamine-b12-folates).",
+ "liens": [
+  "bilans-biologiques",
+  "biomarqueur-fer-ferritine-transferrine",
+  "biomarqueur-rdw-hemogramme",
+  "biomarqueur-vitamine-b12-folates",
+  "biomarqueurs-inflammation-ratio-neutrophiles-lymphocytes-nlr",
+  "fer-et-ferritine"
+ ],
+ "marqueurs": [
+  "hemoglobine",
+  "vgm",
+  "neutrophiles",
+  "plaquettes",
+  "leucocytes"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 8,
+ "nb_seuils": 26,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "38910369",
+  "38432242",
+  "42184486",
+  "28533199",
+  "41226891",
+  "29264027",
+  "39405594",
+  "27087396"
+ ],
+ "preuve_globale": "B",
+ "resume": "Seuils OMS 2024 de l'anémie (hémoglobine, g/L) : < 130 chez l'homme adulte, < 120 chez la femme non enceinte, < 110 au 1er et 3e trimestre de grossesse, < 105 au 2e trimestre. Ces seuils sont des 5e centiles statistiques d'une population saine, pas des seuils cliniques de symptômes : 5 % des gens…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Seuils OMS 2024 de l'anémie (hémoglobine, g/L)** : < 130 chez l'homme adulte, < 120 chez la femme non enceinte, < 110 au 1er et 3e trimestre de grossesse, < 105 au 2e trimestre. Ces seuils sont des **5e centiles statistiques d'une population saine**, pas des seuils cliniques de symptômes : 5 % des gens sains sont étiquetés « anémiques » par construction (PMID 38910369, PMID 38432242).\n- Aucun ajustement de l'hémoglobine pour l'inflammation, l'infection ni l'origine ; ajustement obligatoire pour l'**altitude** (PMID 38910369).\n- Le **VGM n'identifie pas la cause à lui seul** : dans une cohorte mexicaine de 270 adultes carencés en B12, la médiane du VGM des carences non liées à une maladie de Biermer était dans la zone normocytaire [B, cohorte rétrospective] (PMID 42184486).\n- **Plaquettes > 400 G/L chez ≥ 40 ans** : cancer diagnostiqué dans l'année chez 11,6 % des hommes et 6,2 % des femmes (contre 4,1 % et 2,2 % si plaquettes normales), 18,1 % et 10,1 % si le chiffre élevé est retrouvé deux fois en 6 mois [B, cohorte prospective] (PMID 28533199). Cela justifie un contrôle, pas la panique : plus de 88 % n'ont pas de cancer dans l'année.\n- **Neutropénie** adulte : polynucléaires neutrophiles < 1,8 G/L ; < 1,5 G/L sans symptôme est fréquent dans le phénotype Duffy-null, qui n'est pas une maladie (PMID 41226891).\n- Seuils bas de VGM (microcytose), de plaquettes (< 150 G/L), de leucocytes totaux : source officielle non retrouvée, donc non écrits comme seuils [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Un automate compte les globules rouges, les leucocytes (avec formule) et les plaquettes, dose l'hémoglobine, et calcule le volume globulaire moyen (VGM). Le VGM est dérivé de l'hématocrite et du nombre de globules rouges (VGM = hématocrite × 10 / globules rouges), d'après une revue des anémies macrocytaires (PMID 29264027). L'examen est fait sur sang veineux ; l'hémoglobine d'un prélèvement capillaire diffère de celle du sang veineux et la norme OMS demande des automates de laboratoire pour le diagnostic (PMID 38910369).",
+   "titre": "Ce que mesure l'examen"
+  },
+  {
+   "markdown": "Conversions : 1 g/dL = 10 g/L ; 1 G/L = 10⁹/L = 10³/µL (« 4 000/mm³ » = 4 G/L) ; VGM en fL (femtolitres). Les lignes « OMS 2024 » reprennent le tableau du résumé de Khurana (Indian Pediatr, PMID 38910369), car le PDF de l'OMS n'était pas téléchargeable depuis ce poste le 2026-11-01 ; le tableau y est étiqueté g/dL mais ses valeurs sont en g/L. À recontrôler contre le texte OMS.\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| Hémoglobine | g/L | < 130 | anémie (tout degré) | Homme adulte (15–65 ans) | OMS 2024, via Khurana (PMID 38910369), consulté le 2026-11-01 |\n| Hémoglobine | g/L | 110–129 | anémie légère | Homme adulte | idem |\n| Hémoglobine | g/L | 80–109 | anémie modérée | Homme adulte | idem |\n| Hémoglobine | g/L | < 80 | anémie sévère | Homme adulte | idem |\n| Hémoglobine | g/L | < 120 | anémie (tout degré) | Femme adulte non enceinte (15–65 ans) | OMS 2024, via Khurana (PMID 38910369), consulté le 2026-11-01 |\n| Hémoglobine | g/L | 110–119 | anémie légère | Femme non enceinte | idem |\n| Hémoglobine | g/L | 80–109 | anémie modérée | Femme non enceinte | idem |\n| Hémoglobine | g/L | < 80 | anémie sévère | Femme non enceinte | idem |\n| Hémoglobine | g/L | < 110 | anémie (tout degré) | Grossesse, 1er trimestre | OMS 2024, via Khurana (PMID 38910369), consulté le 2026-11-01 |\n| Hémoglobine | g/L | 100–109 / 70–99 / < 70 | légère / modérée / sévère | Grossesse, 1er trimestre | idem |\n| Hémoglobine | g/L | < 105 | anémie (tout degré) | Grossesse, 2e trimestre | idem |\n| Hémoglobine | g/L | 95–104 / 70–94 / < 70 | légère / modérée / sévère | Grossesse, 2e trimestre | idem |\n| Hémoglobine | g/L | < 110 | anémie (tout degré) | Grossesse, 3e trimestre | idem |\n| Hémoglobine | g/L | 100–109 / 70–99 / < 70 | légère / modérée / sévère | Grossesse, 3e trimestre | idem |\n| Hémoglobine | g/L | 119,7 (IC 90 % 119,1–120,3) | 5e centile d'une population saine, base statistique du seuil | Femme 18–65 ans non enceinte, n = 3 640 | Braat, Lancet Haematol 2024 (PMID 38432242) |\n| Hémoglobine | g/L | 134,9 (IC 90 % 134,2–135,6) | 5e centile d'une population saine | Homme 18–65 ans, n = 2 377 | idem |\n| Hémoglobine | g/L | 110,3 (109,5–111,0) ; 105,9 (104,0–107,7) | 5e centiles d'une population saine | Grossesse 1er trimestre (n = 772) ; 2e trimestre (n = 111) | idem ; données insuffisantes au 3e trimestre et au-delà de 65 ans |\n| Hémoglobine | g/L | + 4 à + 33 (selon l'altitude) | valeur à ajouter au seuil (ou à retrancher de la mesure) : 500–999 m + 4 ; 1 000–1 499 m + 8 ; 1 500–1 999 m + 11 ; 2 000–2 499 m + 14 ; 2 500–2 999 m + 18 ; 3 000–3 499 m + 21 ; 3 500–3 999 m + 25 ; 4 000–4 499 m + 29 ; 4 500–4 999 m + 33 | Tous | OMS 2024, via Khurana (PMID 38910369) |\n| VGM | fL | > 100 | macrocytose (adulte) | Adulte | Nagao, J Gen Fam Med 2017 (PMID 29264027) |\n| VGM | fL | seuil bas de microcytose | non retrouvé [?] | Adulte | — |\n| Polynucléaires neutrophiles | G/L | < 1,8 | neutropénie (adulte) | Adulte | Njue, J Clin Med 2025 (PMID 41226891) |\n| Polynucléaires neutrophiles | G/L | 1,0–< 1,8 / 0,5–< 1,0 / < 0,5 | neutropénie légère / modérée / sévère | Adulte | idem |\n| Polynucléaires neutrophiles | G/L | < 1,5 sans autre cause | Duffy-null associé (ex-« neutropénie ethnique bénigne »), non pathologique | Surtout Afrique subsaharienne (80–100 %), Arabes (50–70 %) | idem |\n| Plaquettes | G/L | > 400 | thrombocytose (définition de l'étude) ; cible de contrôle, pas de diagnostic | ≥ 40 ans | Bailey, Br J Gen Pract 2017 (PMID 28533199), seuil pronostique [B] |\n| Plaquettes | G/L | seuil bas (thrombopénie) | non retrouvé [?] | Adulte | — |\n| Leucocytes totaux | G/L | bornes usuelles | non retrouvé [?] | Adulte | — |\n\nLes bornes de référence sont celles du laboratoire qui rend le résultat (automates et populations de référence différents) ; en cas d'écart, celles du compte rendu priment pour la décision médicale.",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| D'où viennent les seuils d'anémie | 5e centiles de populations saines (1998–2020, 8 pays) ; faute de données reliant l'hémoglobine à des symptômes ou à la morbidité, l'OMS n'a pas pu définir de seuils cliniques | [B, analyse de données de populations] (PMID 38432242, PMID 38910369) |\n| Seuils selon l'origine | Pas de preuve que les seuils doivent différer selon l'ascendance ; les variantes génétiques de l'hémoglobine n'ont pas montré de signal propre | [B] (PMID 38432242) |\n| Thrombocytose et cancer en médecine générale | Voir TL;DR : 11,6 % (hommes) et 6,2 % (femmes) de cancers en 1 an, surtout poumon et colorectal ; un tiers des cancers poumon/colon avec thrombocytose n'avait aucun autre symptôme évocateur | [B, cohorte prospective de 40 000 patients ≥ 40 ans vs 10 000 témoins] (PMID 28533199) |\n| Macrocytose sous médicament | Sous inhibiteurs de CDK4/6 (cancer du sein) : macrocytose chez 45,8 % des patients à un moment du suivi, associée à la survie dans cette série rétrospective de 133 patients | [B, rétrospectif] (PMID 39405594) |\n| VGM et carence en B12 | Dans la maladie de Biermer, le VGM est plus haut ; mais dans les carences en B12 d'autres causes, le VGM médian est normocytaire | [B, cohorte rétrospective, n = 270] (PMID 42184486) |\n| Supplémenter en fer dans l'anémie | Chez la femme réglée, le fer quotidien réduit l'anémie (RR 0,39) | [A] (PMID 27087396) ; voir [fer et ferritine](fiche:fer-et-ferritine) |",
+   "titre": "Ce que dit la preuve (valeur prédictive, utilité clinique)"
+  },
+  {
+   "markdown": "- **Grossesse** : au 2e trimestre, l'expansion du volume plasmatique dépasse celle de la masse globulaire (hémodilution), d'où un seuil plus bas (PMID 38910369).\n- **Altitude** : seuils à relever (tableau ci-dessus) ; la mesure est à corriger au-dessus de 500 m (PMID 38910369).\n- **Tabac** : les ajustements de 2001 incluaient les fumeurs ; l'OMS 2024 ne l'a pas rediscuté dans le résumé relu [?] (PMID 38910369).\n- **Inflammation, infection** : aucun ajustement de l'hémoglobine recommandé ; un fer ou une ferritine « normal » peut cacher une carence (voir la [fiche fer](fiche:biomarqueur-fer-ferritine-transferrine)).\n- **Mode de prélèvement** : capillaire et veineux ne sont pas interchangeables (PMID 38910369).\n- **Médicaments** : les inhibiteurs de CDK4/6 augmentent le VGM (PMID 39405594) ; la metformine peut provoquer une carence en B12 donc une macrocytose tardive (voir [B12 et folates](fiche:biomarqueur-vitamine-b12-folates)). Pour les autres médicaments (chimiothérapies, antiviraux, anticoagulants, hydroxyurée…) : non recherché [?].\n- **Sportifs d'endurance, déshydratation, posture, heure de prélèvement** : non recherché [?].\n- **Origine** : le phénotype Duffy-null abaisse les neutrophiles sans risque d'infection accru (PMID 41226891) ; il ne modifie pas le seuil d'hémoglobine (PMID 38432242).",
+   "titre": "Ce qui fait varier le résultat (leviers, médicaments, compléments, conditions de prélèvement)"
+  },
+  {
+   "markdown": "- **Anémie** : ne pas supplémenter à l'aveugle ; trouver la cause. Le VGM sert de première orientation (orientation classique, non sourcée dans cette fiche [?]) : microcytose, penser carence en fer ([fiche fer](fiche:biomarqueur-fer-ferritine-transferrine)) ; macrocytose, penser carence en B12/folates, alcool, foie, hypothyroïdie, médicaments ou syndrome myélodysplasique (PMID 29264027) ; normocytose, la B12 reste possible (PMID 42184486).\n- **Macrocytose isolée sans anémie** : vérifier B12, folates, alcool, TSH, fonction hépatique (PMID 29264027).\n- **Plaquettes > 400 G/L** : contrôle à distance, ferritine (la carence en fer est une cause classique de thrombocytose : orientation non sourcée ici [?]), CRP, examen clinique ; si persistant ou si symptômes, avis médical (PMID 28533199 : le risque de cancer monte quand le chiffre est confirmé).\n- **Neutropénie** : contrôler à distance, chercher les médicaments et une infection virale ; si < 1,5 G/L chez une personne d'ascendance concernée, sans antécédent d'infection, évoquer le Duffy-null (PMID 41226891).\n- Les conduites thérapeutiques (fer, B12) se décident avec un médecin, après la cause.",
+   "titre": "Que faire d'un résultat anormal"
+  },
+  {
+   "markdown": "- Prélèvement veineux, sans condition de jeûne documentée dans les sources relues [?]. Dosage prescrit par un médecin ; en bilan de santé général, fréquence « utile » non fixée par les sources relues [?].\n- Cotation NABM et remboursement : non relevés [?].\n- La NFS est incluse dans la plupart des bilans biologiques standard ([bilans biologiques](fiche:bilans-biologiques)).",
+   "titre": "Qui, quand, comment (fréquence, remboursement)"
+  },
+  {
+   "markdown": "Acte de biologie médicale (laboratoire de biologie médicale) sur prescription. Cotation et remboursement : non consultés (NABM/ameli, non retrouvés par la recherche web du 2026-11-01) [?]. Seuils OMS : recommandation (WHO, « Guideline on haemoglobin cutoffs to define anaemia in individuals and populations », 5 mars 2024, page de publication consultée le 2026-11-01 ; tableau lu via Khurana).",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Traiter un chiffre à 118 g/L chez une femme en bonne santé comme une maladie : le seuil de 120 est un 5e centile.\n- Prendre du fer parce que « l'hémoglobine est limite » sans ferritine : risque de surcharge inutile (voir [fiche fer](fiche:biomarqueur-fer-ferritine-transferrine)).\n- Se fier au VGM pour exclure une carence en B12.\n- Comparer des résultats entre deux laboratoires, deux automates ou un capillaire et un veineux.\n- Ignorer l'altitude (déménagement en montagne) ou la grossesse (hémodilution) en lisant le chiffre.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Une hémoglobine optimale pour la longévité »** : aucun essai ni cohorte relus ne définissent une hémoglobine « optimale » au-dessus du seuil de normalité [?].\n- **« Normal au laboratoire = tout va bien »** : une hémoglobine normale n'exclut pas une carence en fer (stade sans anémie) ni en B12 (PMID 42184486).\n- **« Booster ses globules rouges avec des compléments »** : sans carence prouvée, aucune donnée relue ; le fer en excès est un risque (voir [fer et ferritine](fiche:fer-et-ferritine)).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- L'OMS 2024 a gardé 130 g/L pour les hommes alors que le 5e centile de la population saine analysée est de 134,9 g/L : le seuil officiel est plus bas que le 5e centile mesuré (PMID 38910369, PMID 38432242).\n- Le seuil de la grossesse au 2e trimestre (105 g/L) est une nouveauté de 2024 : auparavant un seul seuil de 110 g/L couvrait toute la grossesse (PMID 38910369).\n- Le « Duffy-null » concerne 80 à 100 % des personnes d'Afrique subsaharienne : leur neutropénie apparente n'est pas un signe de maladie (PMID 41226891).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Hémoglobine < 120 g/L (femme) ou < 130 g/L (homme) confirmée, surtout avec fatigue inhabituelle, essoufflement, palpitations, pâleur, saignement (règles abondantes, selles noires ou sanglantes) ; anémie en grossesse ; plaquettes > 400 G/L confirmées ; neutropénie < 1,0 G/L ou avec fièvre ; macrocytose avec symptômes neurologiques (fourmillements, troubles de l'équilibre).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 38910369 — Khurana R, Kanvinde P, Mudaliar S, Revised WHO Guidelines on Hemoglobin Cutoffs to Define Anemia in Individuals and Populations. *Indian Pediatr* 2024. Résumé relu ; tableaux lus dans le PDF en accès libre. Secondaire : l'original est WHO, Guideline on haemoglobin cutoffs to define anaemia in individuals and populations, 2024 (non téléchargeable le 2026-11-01).\n- PMID 38432242 — Braat S et al., Haemoglobin thresholds to define anaemia from age 6 months to 65 years: estimates from international data sources. *Lancet Haematol* 2024. doi:10.1016/S2352-3026(24)00030-9\n- PMID 29264027 — Nagao T, Hirokawa M, Diagnosis and treatment of macrocytic anemias in adults. *J Gen Fam Med* 2017. doi:10.1002/jgf2.31\n- PMID 41226891 — Njue L et al., Isolated Chronic Neutropenia in Adults: Causes, Diagnostic Work-Up, and Management. *J Clin Med* 2025. doi:10.3390/jcm14217495\n- PMID 28533199 — Bailey SE et al., Clinical relevance of thrombocytosis in primary care: a prospective cohort study of cancer incidence. *Br J Gen Pract* 2017. doi:10.3399/bjgp17X691109\n- PMID 42184486 — Moreno-Mirón JM et al., Pernicious anemia predominates among Mexican adults with vitamin B12 deficiency. *Rev Invest Clin* 2026. doi:10.1016/j.ric.2026.100041\n- PMID 39405594 — Gültürk I et al., Could macrocytosis predict survival in advanced breast cancer patients treated with CDK 4-6 inhibitors? *Breast* 2024. doi:10.1016/j.breast.2024.103820\n- PMID 27087396 — Low MS et al., Daily iron supplementation for improving anaemia, iron status and health in menstruating women. *Cochrane Database Syst Rev* 2016. doi:10.1002/14651858.CD009747.pub2",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : NFS et anémie (hémoglobine, VGM, leucocytes, plaquettes)",
+ "type": "biomarqueur",
+ "unite": ""
+}

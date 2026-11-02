@@ -1,0 +1,75 @@
+{
+ "cibles": [
+  "sens-bouche"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "secheresse-oculaire",
+ "intro": "",
+ "liens": [
+  "omega-3",
+  "vue-dmla-et-cataracte"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "29652551",
+  "31847055",
+  "38002640",
+  "40601205",
+  "35597519"
+ ],
+ "preuve_globale": "A",
+ "resume": "Les oméga-3 par voie orale sont le complément le plus vendu ; l'essai le plus solide est négatif : DREAM, 535 patients, pas de différence avec le placebo à 12 mois [B, ECR unique n=535] (PMID 29652551).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Les oméga-3 par voie orale sont le complément le plus vendu ; l'essai le plus solide est négatif : DREAM, 535 patients, pas de différence avec le placebo à 12 mois [B, ECR unique n=535] (PMID 29652551).\n- La Cochrane (34 ECR) trouve peu ou pas de bénéfice sur les symptômes, un petit gain de test de Schirmer (+0,68 mm/5 min) jugé non cliniquement pertinent [A, faible à modérée certitude] (PMID 31847055).\n- Une méta-analyse plus récente de 19 ECR conclut à un bénéfice net (symptômes g = -1,05) : contradiction à lire avec prudence [A, contradictoire] (PMID 38002640).\n- Les dispositifs (lumière pulsée, chauffage des glandes) ont des essais ; l'IPL est le mieux classé sur les symptômes [A, faible] (PMID 40601205).\n- Ciclosporine collyre (Ikervis) : médicament autorisé, preuves non relues ici [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Film lacrymal instable avec inflammation de surface ; glandes de Meibomius souvent en cause (PMID 40601205 : interventions ciblées sur ces glandes). Détail du mécanisme : non relu [?].",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Oméga-3 oraux (DREAM) | anti-inflammatoire supposé | 3 000 mg EPA+DHA/j, 12 mois vs placebo d'huile d'olive ; OSDI -13,9 vs -12,5, différence -1,9 (IC -5,0 à 1,1) [B, ECR unique n=535] (PMID 29652551) | complément alimentaire ; voir [oméga-3](fiche:omega-3) | non relevé |\n| Oméga-3 oraux (Cochrane) | idem | 34 ECR, 4 314 adultes ; symptômes : peu ou pas d'effet (certitude faible) ; Schirmer MD 0,68 mm/5 min (IC 0,26-1,09), preuve modérée mais non pertinente cliniquement ; plus de la moitié des essais à risque de biais élevé [A, faible à modérée certitude] (PMID 31847055) | — | — |\n| Oméga-3 oraux (méta-analyse 2023) | idem | 19 ECR, 4 246 patients ; symptômes Hedges' g = -1,047, TBUT SMD = -0,939 ; effet dose et EPA dépendant ; hétérogénéité des étiologies [A, contradictoire] (PMID 38002640) | — | — |\n| Lumière pulsée intense (IPL), TearCare, LipiFlow | traitement des glandes de Meibomius | réseau de 45 ECR, 3 455 patients : IPL seule rang 1 des symptômes (P-score 0,811) ; TearCare + expression : sécrétion meibomienne SMD -10,08 ; classement par probabilités, pas par effets mesurés [A, faible] (PMID 40601205) | actes en cabinet ; remboursement non consulté [?] | non relevé |\n| Ciclosporine collyre (Ikervis 1 mg/mL) | immunomodulateur | non relu [?] | médicament, AMM centralisée, commercialisé (BDPM, consulté le 2026-10-15) ; indication détaillée non relue | non relevé |\n| Larmes artificielles | lubrification | non recherché [?] | — | — |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Débutant : pauses écran, hygiène des paupières, larmes artificielles (preuves non relues ici [?]). Pour la fatigue visuelle des écrans : lunettes anti-lumière bleue sans effet démontré, extraits de baies sans effet sur la sécheresse (SMD -0,10, IC -0,54 à 0,33) [A, faible] (PMID 35597519).\n- Intermédiaire/avancé : bilan par ophtalmologue, ciclosporine ou dispositifs sur indication.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Acheter des oméga-3 pour l'œil sec en s'attendant à un effet net : l'essai le plus solide est négatif (PMID 29652551).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Oméga-3 : le traitement de l'œil sec » : DREAM négatif ; la Cochrane ne voit pas d'effet sur les symptômes (PMID 29652551, 31847055). Les méta-analyses favorables agrègent des essais de qualité variable (PMID 38002640).\n- « Baies/myrtille contre la fatigue oculaire » : pas d'effet vs placebo (PMID 35597519).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Le placebo de DREAM (huile d'olive) a lui-même amélioré les symptômes de façon comparable (-12,5 points OSDI) : l'amélioration dans les essais sans bon placebo est trompeuse (PMID 29652551).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Œil rouge douloureux, baisse de vue, port de lentilles, sécheresse persistante malgré larmes : ophtalmologue.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "[Vue : DMLA et cataracte](fiche:vue-dmla-et-cataracte) · [Oméga-3](fiche:omega-3)",
+   "titre": "Voir aussi"
+  },
+  {
+   "markdown": "- PMID 29652551 — Asbell PA et al., DREAM, *N Engl J Med* 2018 (résumé relu, repris de la fiche vue).\n- PMID 31847055 — Downie LE et al., Cochrane 2019 (résumé relu).\n- PMID 38002640 — Wang et al., *J Clin Med* 2023 (résumé relu).\n- PMID 40601205 — Ben Ephraim Noyman et al., *Ophthalmol Ther* 2025 (résumé relu).\n- PMID 35597519 — Singh S et al., *Ophthalmology* 2022 (résumé relu).\n- BDPM, CIS_bdpm (consulté le 2026-10-15).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Sécheresse oculaire",
+ "type": "condition",
+ "unite": ""
+}

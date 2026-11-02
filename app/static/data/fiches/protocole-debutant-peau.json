@@ -1,0 +1,82 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "",
+ "id": "protocole-debutant-peau",
+ "intro": "",
+ "liens": [
+  "avene-intense-protect-spf50",
+  "cerave-baume-hydratant-454g",
+  "differine-adapalene-0-1",
+  "effederm-tretinoine-0-05",
+  "garnier-ambre-solaire-super-uv-aqua-fluide-invisible",
+  "geek-gorgeous-c-glow",
+  "la-roche-posay-anthelios-uvmune-400-fluide",
+  "la-roche-posay-retinol-b3-serum",
+  "niacinamide",
+  "protection-solaire",
+  "retinoides",
+  "the-ordinary-hyaluronic-acid-2-b5",
+  "the-ordinary-niacinamide-10-zinc-1",
+  "vitamine-c"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "23732711",
+  "42564875",
+  "26215715",
+  "35675051"
+ ],
+ "preuve_globale": "A",
+ "resume": "",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Trois gestes, classés par rapport preuve/prix : 1) écran solaire tous les jours, 2) un rétinoïde le soir, 3) un hydratant pour tolérer le rétinoïde. Tout le reste (vitamine C, niacinamide, acide hyaluronique, peptides) est optionnel. Coût de base : environ 6 à 10 €/mois avec trétinoïne sur ordonnance, 20 à 25 €/mois avec un rétinol de pharmacie.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "| Rang | Geste | Preuve | Coût/mois | Produits |\n|---|---|---|---|---|\n| 1 | Écran solaire large spectre, chaque matin | Vieillissement cutané −24 % sur 4,5 ans [B, ECR unique n=903] (PMID 23732711) | 3 à 13 € | [Avène Intense Protect](fiche:avene-intense-protect-spf50), [Anthelios UVMune 400](fiche:la-roche-posay-anthelios-uvmune-400-fluide), [Garnier Aqua Fluide](fiche:garnier-ambre-solaire-super-uv-aqua-fluide-invisible) |\n| 2 | Rétinoïde, le soir | Trétinoïne ≥ 0,02 % : plusieurs grands ECR [A] ; rétinal, rétinol, adapalène : petits essais [B] ([rétinoïdes](fiche:retinoides)) | 1 à 2 € (trétinoïne, adapalène) ; 15 à 18 € (rétinol) | [Effederm 0,05 %](fiche:effederm-tretinoine-0-05), [Differine 0,1 %](fiche:differine-adapalene-0-1), [LRP Rétinol B3](fiche:la-roche-posay-retinol-b3-serum) |\n| 3 | Hydratant | Hydrate la peau sèche [B] ; effet anti-âge structurel non démontré [?] ; son rôle ici est de réduire l'irritation du rétinoïde, non testé en essai [?] | 2 à 5 € | [CeraVe Baume Hydratant](fiche:cerave-baume-hydratant-454g) |\n| Option | Vitamine C 15 % (acide L-ascorbique) | Petits essais, photoprotection en complément d'un écran [B] ([vitamine C](fiche:vitamine-c)) | 4 à 5 € | [Geek & Gorgeous C-Glow](fiche:geek-gorgeous-c-glow) |\n| Option | Niacinamide 4-5 % | Quelques essais industriels de 12 semaines [B] ([niacinamide](fiche:niacinamide)) | 2 à 3 € | [The Ordinary Niacinamide 10 % + Zinc 1 %](fiche:the-ordinary-niacinamide-10-zinc-1) |\n| Option | Acide hyaluronique topique | Hydratation [B] ([fiche produit](fiche:the-ordinary-hyaluronic-acid-2-b5)) | 4 à 5 € | The Ordinary HA 2 % + B5 |",
+   "titre": "Classement preuve/prix"
+  },
+  {
+   "markdown": "**Matin**\n1. Nettoyage doux ou simple rinçage à l'eau.\n2. Option : sérum de vitamine C (convention : le matin sous l'écran ; non démontrée [?]).\n3. Hydratant.\n4. Écran solaire en dernier, en quantité généreuse (le SPF suppose 2 mg/cm², la protection s'effondre à 0,5 mg/cm² [B]) ; renouveler en cas d'exposition prolongée. Détail : [protection solaire](fiche:protection-solaire).\n\n**Soir**\n1. Nettoyage doux.\n2. Rétinoïde sur peau bien sèche, quantité d'un petit pois pour le visage (convention, non issue d'un essai [?]).\n3. Hydratant par-dessus ou avant (« sandwich ») si la peau tiraille : convention, non testée [?].",
+   "titre": "Ordre d'application"
+  },
+  {
+   "markdown": "- Semaines 1 à 2 : 2 soirs par semaine, puis tous les 2 soirs, puis quotidien selon la tolérance : conseil de bon sens, non issu d'un essai [?].\n- Effet attendu : les essais de trétinoïne mesurent à 24 semaines, avec un gain modeste (68 % d'amélioration vs 43 % sous excipient dans l'essai pivot) [A] ; l'irritation est maximale les premières semaines, dose-dépendante [A]. 0,025 % fait aussi bien que 0,1 % avec moins d'irritation [B, ECR unique n=99] ([rétinoïdes](fiche:retinoides)).\n- Un seul nouveau produit à la fois, pour savoir lequel irrite.",
+   "titre": "Montée en charge"
+  },
+  {
+   "markdown": "- **Rétinoïde + AHA/BHA, gommages, vitamine C acide** : cumul d'irritation plausible, aucun essai d'interaction trouvé [?] ; les placer à des moments ou des soirs différents est une précaution, pas une donnée.\n- **Trétinoïne + peroxyde de benzoyle** : dégradation de la trétinoïne en présence de lumière [D] ; l'adapalène reste stable ([rétinoïdes](fiche:retinoides)).\n- **Vitamine C + niacinamide** : l'incompatibilité n'est étayée par aucune étude clinique trouvée [?] ; certaines marques la déconseillent par précaution de formulation [M] ([vitamine C](fiche:vitamine-c)).\n- **Vitamine A cumulée** : le rétinol cosmétique est plafonné à 0,3 % équivalent rétinol (règlement (UE) 2024/996, EUR-Lex, consulté le 2026-10-06) ; ne pas empiler plusieurs produits à vitamine A.\n- **Écran solaire** : indispensable avec un rétinoïde (consigne de bon sens, non testée en essai [?]).",
+   "titre": "Incompatibilités et précautions"
+  },
+  {
+   "markdown": "- Les RCP français de la trétinoïne et de l'adapalène contre-indiquent l'usage pendant la grossesse ou en cas de projet de grossesse (BDPM, consulté le 2026-10-03, voir [rétinoïdes](fiche:retinoides)).\n- Exposition accidentelle au 1er trimestre : pas de hausse des malformations majeures (RR 0,83 ; IC 0,64 à 1,07) ni des fausses couches (RR 0,99) sur 8 études et 3,6 millions de grossesses, porté surtout par un grand registre [A, études observationnelles] (PMID 42564875) ; méta-analyse antérieure de 654 femmes exposées : pas de signal, mais puissance « non adéquate pour justifier l'usage » [A, études observationnelles] (PMID 26215715). Rassurant en cas d'exposition accidentelle, pas une raison de l'utiliser.\n- Pour le rétinol cosmétique : aucune position officielle retrouvée sur une source officielle ; précaution par analogie [?].\n- Pendant la grossesse : écran solaire et hydratant restent possibles ; sécurité de la vitamine C topique et de la niacinamide non évaluée ici [?]. Demander l'avis du médecin ou du dermatologue.",
+   "titre": "Grossesse et allaitement"
+  },
+  {
+   "markdown": "- Acheter un rétinol cosmétique à 30 € en pensant à l'équivalent de la trétinoïne : aucun essai ne prouve l'équivalence (absence de différence sur 20 sujets, pas preuve d'équivalence) [B] (PMID 35675051 ; [LRP Rétinol B3](fiche:la-roche-posay-retinol-b3-serum)).\n- Empiler 5 actifs dès le premier jour.\n- Sous-doser l'écran solaire.\n- Dépenser dans un sérum à base de dérivés de vitamine C ou de peptides avant d'avoir installé l'écran et le rétinoïde.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "Acné, rosacée, taches qui changent d'aspect ou grain de beauté suspect, irritation persistante, grossesse ou projet de grossesse : voir un dermatologue. L'usage anti-âge de la trétinoïne ou de l'adapalène est hors AMM et nécessite une ordonnance.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "Chaque étape renvoie à sa fiche sourcée.\n- Hughes MC et al., Ann Intern Med 2013 — PMID 23732711 — [DOI](https://doi.org/10.7326/0003-4819-158-11-201306040-00002)\n- Alali AB et al., Front Drug Saf Regul 2026 — PMID 42564875 — [DOI](https://doi.org/10.3389/fdsfr.2026.1864872)\n- Kaplan YC et al., Br J Dermatol 2015 — PMID 26215715 — [DOI](https://doi.org/10.1111/bjd.14053)\n- Chien AL et al., JAMA Dermatol 2022 — PMID 35675051 — [DOI](https://doi.org/10.1001/jamadermatol.2022.1891)\n- [Règlement (UE) 2024/996](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R0996) (consulté le 2026-10-06)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Protocole débutant — routine anti-âge minimale",
+ "type": "protocole",
+ "unite": ""
+}

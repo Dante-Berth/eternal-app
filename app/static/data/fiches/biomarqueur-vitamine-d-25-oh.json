@@ -1,0 +1,95 @@
+{
+ "cibles": [
+  "prevention",
+  "muscle-os",
+  "longevite"
+ ],
+ "derniere_maj": "2026-11-02",
+ "famille": "",
+ "id": "biomarqueur-vitamine-d-25-oh",
+ "intro": "Fiche « examen ». Supplémentation et preuves d'efficacité : [vitamine D](fiche:vitamine-d) et [Uvedose](fiche:uvedose-100000-ui). Ostéoporose et chutes : [ostéoporose](fiche:osteoporose-et-densite-osseuse), [chutes et fractures](fiche:prevention-chutes-et-fractures).",
+ "liens": [
+  "bilans-biologiques",
+  "osteoporose-et-densite-osseuse",
+  "prevention-chutes-et-fractures",
+  "uvedose-100000-ui",
+  "vitamine-d"
+ ],
+ "marqueurs": [
+  "vitamine-d-25-oh"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 6,
+ "nb_seuils": 4,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42397501",
+  "30293909",
+  "42796968",
+  "39486479",
+  "42174475",
+  "40512300"
+ ],
+ "preuve_globale": "A",
+ "resume": "Le dosage n'est pas un examen de routine : la HAS le réserve à 6 situations, que la nomenclature (NABM) reprend comme condition limitative de remboursement (document de l'Assurance Maladie, voir « Statut en France »). Une revue 2026 rapporte que l'Endocrine Society 2024 décourage le dépistage sys…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Le dosage n'est pas un examen de routine** : la HAS le réserve à 6 situations, que la nomenclature (NABM) reprend comme condition limitative de remboursement (document de l'Assurance Maladie, voir « Statut en France »). Une revue 2026 rapporte que l'Endocrine Society 2024 décourage le dépistage systématique chez l'adulte sain (texte de la recommandation non relu) [B, revue narrative] (PMID 42397501).\n- Les essais de supplémentation chez des sujets non carencés sont négatifs sur fractures, chutes, cancer, événements cardiovasculaires (voir [vitamine D](fiche:vitamine-d) : 81 ECR, RR fractures 1,00 [A] (PMID 30293909)). Les liens « taux bas ↔ maladies » viennent surtout de cohortes ; la revue 2026 explique l'écart avec les essais par des populations déjà suffisantes, des doses modestes et la variabilité des dosages [B, revue narrative] (PMID 42397501).\n- **Le chiffre dépend de la méthode** : sur 400 échantillons, trois immunodosages automatisés diffèrent significativement d'une référence LC-MS/MS ; le Roche cobas e602 surestime les valeurs, le Beckman en sous-détecte moins mais donne plus de faux positifs au seuil de 75 nmol/L ; κ de 0,818 à 0,895 pour le meilleur [B, étude de comparaison de méthodes] (PMID 42796968).\n- Le seuil de déficit sévère généralement retenu est < 30 nmol/L (< 12 ng/mL), en dessous duquel des atteintes osseuses sont bien documentées ; les seuils 20 vs 30 ng/mL sont discutés [B, revue narrative] (PMID 42397501).\n- Remboursement en France : limité aux 6 situations ci-dessous ; prix hors remboursement : non relevé [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "La 25-OH-D est le métabolite de stockage, le marqueur retenu pour évaluer le statut. Unités : 1 ng/mL = 2,5 nmol/L (conversion standard).",
+   "titre": "Mécanisme et ce que mesure l'examen"
+  },
+  {
+   "markdown": "Conversion : 1 ng/mL = 2,5 nmol/L (donc 12 ng/mL = 30 nmol/L ; 30 ng/mL = 75 nmol/L). Les seuils dépendent de la méthode de dosage (voir plus bas) et aucun n'est validé par un essai de supplémentation chez des sujets non carencés.\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| 25-OH-D | nmol/L (ng/mL) | < 30 (< 12) | déficit sévère : atteintes osseuses bien documentées en dessous | adulte | [B, revue narrative] Dalamaga 2026, PMID 42397501 |\n| 25-OH-D | nmol/L (ng/mL) | 30–74 (12–29) | zone discutée : suffisance débattue, bénéfice de la supplémentation non démontré chez les sujets non carencés | adulte | PMID 42397501 ; [A] PMID 30293909 (fractures RR 1,00) |\n| 25-OH-D | nmol/L (ng/mL) | ≥ 75 (≥ 30) | « suffisance » de la recommandation Endocrine Society 2011, avec une plage préférée de 40–60 ng/mL ; cible non validée par essais d'événements | adulte | [B, revue] Holick 2024, PMID 39486479 (rapporte la recommandation de 2011 dont il est l'auteur) [?] |\n| 25-OH-D | nmol/L (ng/mL) | — | seuil sanguin de toxicité | adulte | non retrouvé [?] |",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Supplémentation, fractures et chutes (adultes, sujets surtout non carencés) | RR fractures 1,00 ; chutes 0,97 | [A] (PMID 30293909, via [vitamine D](fiche:vitamine-d)) |\n| Pourquoi les ECR contredisent les cohortes | Sujets déjà suffisants, doses modestes, variabilité des dosages, relation non linéaire | [B, revue narrative] (PMID 42397501) |\n| Bénéfices ciblés rapportés par la revue | mortalité chez les ≥ 75 ans, légère baisse de la mortalité par cancer, moindre progression vers le diabète dans le prédiabète à haut risque (données non relues individuellement) | [B, revue narrative] (PMID 42397501) |\n| Doses espacées fortes (intermittentes) | Peuvent augmenter chutes et fractures ; préférence pour un schéma quotidien ou hebdomadaire | [B, revue narrative] (PMID 42397501) |\n| Cohorte hypertendus ≥ 65 ans (n = 176) | 25-OH-D < 20 ng/mL + variabilité tensionnelle élevée : RR de trouble cognitif léger 4,14 (1,93–8,90) ; association, pas de causalité | [B, cohorte unique] (PMID 42174475) |",
+   "titre": "Ce que dit la preuve"
+  },
+  {
+   "markdown": "- **Écarts entre immunodosages et référence LC-MS/MS** (PMID 42796968) : un même sérum peut être classé « carencé » ou « normal » selon la plateforme, autour des seuils de 25, 50 et 75 nmol/L. Comparer deux résultats de laboratoires différents est risqué.\n- L'étude testait des métabolites interférents (C3-épi-25-OH-D, 24,25-OH₂-D) sans pouvoir établir d'interférence indépendante (PMID 42796968).\n- Variation saisonnière et intra-individuelle : non relues ici [?].",
+   "titre": "Variabilité et méthode de dosage"
+  },
+  {
+   "markdown": "- Les **6 situations** retenues par la HAS, selon le document de l'Assurance Maladie (consulté le 2026-10-17) : suspicion de rachitisme ; suspicion d'ostéomalacie ; adulte transplanté rénal au-delà de 3 mois ; avant et après chirurgie bariatrique ; personnes âgées sujettes aux chutes répétées ; respect du résumé des caractéristiques d'un médicament qui préconise le dosage. Hors de ces cas, l'Assurance Maladie écrit qu'« il n'y a pas d'utilité prouvée à doser la vitamine D » et qu'une supplémentation peut être instaurée et suivie sans dosage.\n- Pas de bénéfice démontré à « optimiser » un taux déjà suffisant : les ECR sont négatifs chez les sujets non carencés (PMID 30293909) [A].",
+   "titre": "Qui, quand"
+  },
+  {
+   "markdown": "- Taux bas : correction d'une carence avec un médecin (type de vitamine D et dose, voir la fiche [vitamine D](fiche:vitamine-d) ; pas de schéma ici). Calcifediol réservé à des cas particuliers (rapidité, atteinte hépatique) selon un consensus d'experts mexicain (PMID 40512300, [B, consensus]).\n- Taux haut : le document de l'Assurance Maladie écrit qu'« il semble peu probable d'observer des signes de toxicité avec des apports journaliers inférieurs à 10 000 UI » ; seuil sanguin de toxicité : non relevé [?]. Un taux très élevé chez un sujet qui prend des compléments justifie un avis médical (hypercalcémie, voir la fiche [vitamine D](fiche:vitamine-d)).",
+   "titre": "Que faire d'un résultat bas ou haut"
+  },
+  {
+   "markdown": "Examen de biologie médicale prescrit. **Pris en charge par l'Assurance Maladie uniquement dans les 6 situations ci-dessus** (la NABM les reprend comme condition limitative, opposable aux prescripteurs et aux biologistes). En dehors, y compris à la demande du patient, le dosage n'est pas remboursé et le médecin doit écrire « NR » sur l'ordonnance (Assurance Maladie, « Dosage de la vitamine D », fiche datée de 2014/2016, consultée le 2026-10-17 ; mise à jour de la NABM depuis : non vérifiée). Prix hors remboursement : non relevé [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Doser « pour la forme » et se complémenter à la hausse sans carence ni indication.\n- Comparer deux dosages de laboratoires différents sans tenir compte de la méthode (PMID 42796968).\n- Choisir de fortes doses espacées (type ampoule annuelle) sans avis médical : risque de chutes et fractures rapporté par la revue (PMID 42397501).\n- Interpréter une cohorte « taux bas = risque » comme une preuve que supplémenter protège (PMID 42397501).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Un taux optimal entre 40 et 60 ng/mL »** : les ECR chez les sujets non carencés ne montrent pas de bénéfice ; la cible n'est pas validée par des essais d'événements (PMID 30293909, 42397501).\n- **« Tout le monde est carencé en hiver »** : la prévalence dépend de la méthode et du seuil retenu ; le dosage reste réservé aux indications ciblées (PMID 42397501, 42796968).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Selon l'immunodosage utilisé, un même échantillon peut passer de « carencé » à « normal » autour des seuils cliniques (PMID 42796968).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Douleurs osseuses diffuses, faiblesse musculaire proximale, fractures ou chutes répétées, malabsorption connue, traitement au long cours de l'ostéoporose.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 30293909 — méta-analyse de la supplémentation en vitamine D, fractures/chutes/densité (reprise de [vitamine D](fiche:vitamine-d), 81 ECR).\n- PMID 42796968 — Racz S et al., Comparison of three automated 25-hydroxyvitamin D immunoassays with a VDSCP-traceable LC-MS/MS. *Nutrients* 2026. doi:10.3390/nu18182986\n- PMID 42397501 — Dalamaga M et al., From the Vitamin D Paradox to Precision Nutrition. *Curr Nutr Rep* 2026. doi:10.1007/s13668-026-00780-2\n- PMID 42174475 — Zhao L et al., vitamin D status and systolic blood pressure variability, older adults with hypertension. *BMC Neurol* 2026. doi:10.1186/s12883-026-04956-9\n- PMID 40512300 — Torres-Naranjo JF et al., Joint position on vitamin D prescription in the adult Mexican population. *Arch Osteoporos* 2025. doi:10.1007/s11657-025-01563-y\n- Assurance Maladie (Cnam), « Dosage de la vitamine D : conditions de prise en charge par l'Assurance Maladie après avis de la HAS », ameli.fr/node/4965 (fiche de 2014, mention Octobre 2016), consultée le 2026-10-17.\n- HAS, « Utilité clinique du dosage de la vitamine D », note de cadrage 2013, has-sante.fr, consultée le 2026-10-06 (via la fiche [bilans biologiques](fiche:bilans-biologiques)).\n- PMID 39486479 — Holick MF, Revisiting Vitamin D Guidelines: A Critical Appraisal of the Literature. *Endocr Pract* 2024. doi:10.1016/j.eprac.2024.10.011 (auteur de la recommandation de 2011 qu'il défend).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : vitamine D (25-OH-D)",
+ "type": "biomarqueur",
+ "unite": ""
+}

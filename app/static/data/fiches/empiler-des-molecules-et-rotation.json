@@ -1,0 +1,73 @@
+{
+ "cibles": [
+  "longevite",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-21",
+ "famille": "",
+ "id": "empiler-des-molecules-et-rotation",
+ "intro": "",
+ "liens": [
+  "auto-experimentation",
+  "bilans-biologiques",
+  "dhea",
+  "ocytocine-et-inhibiteur-alk5",
+  "traitement-hormonal-menopause"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "40880032",
+  "41316384",
+  "40848270"
+ ],
+ "preuve_globale": "?",
+ "resume": "Rotation (« un mois A, un mois B ») : aucune étude trouvée qui la compare à une prise continue ou à l'abstention pour un produit « anti-âge » [?]. Elle n'a de justification que si une molécule a un mécanisme de tolérance ou de désensibilisation documenté ; ce n'est pas un principe général.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Rotation (« un mois A, un mois B »)** : aucune étude trouvée qui la compare à une prise continue ou à l'abstention pour un produit « anti-âge » [?]. Elle n'a de justification que si une molécule a un mécanisme de tolérance ou de désensibilisation documenté ; ce n'est pas un principe général.\n- **« Mélange toxique ? »** : le risque ne vient pas de « la chimie » en général mais de **paires précises** (même cible, même enzyme hépatique, même organe d'élimination). Un mélange sans interaction connue n'est pas pour autant testé : pour la plupart des combinaisons de longévité, aucune donnée [?].\n- **Cumul de médicaments** : plus la liste est longue, plus le risque grimpe. Méta-analyse de 10 études (>302 000 participants) : incidence poolée d'insuffisance rénale aiguë de 18 % (IC 95 % 2-45 %, très hétérogène) chez les adultes exposés à la polymédication ; facteurs : ≥ 5 ou ≥ 10 médicaments, associations cardiovasculaires, produits néphrotoxiques, insuffisance rénale préexistante, fragilité [A, observationnel, très hétérogène] (PMID 40880032). Chez les ≥ 65 ans, méta-analyse de 16 études : incidence de lésion hépatique d'origine médicamenteuse de 25 % (IC 95 % 18-31 %), avec alcool (OR 2,10), maladie hépatique chronique (OR 3,25), AINS (OR 1,70) [A, observationnel] (PMID 41316384). Ces chiffres concernent des patients malades sous traitements prescrits, pas des adultes sains sous suppléments : ils montrent l'ordre de grandeur du problème, pas son risque pour vous.\n- **« Compenser ce que le corps produit moins »** : une baisse avec l'âge n'est pas une carence à corriger. Elle peut être adaptative, secondaire à une maladie, ou sans conséquence. Ce raisonnement a déjà échoué ou été nuancé pour plusieurs hormones : voir [DHEA](fiche:dhea) et [traitement hormonal de la ménopause](fiche:traitement-hormonal-menopause). Une molécule dont le taux baisse (ocytocine) peut avoir un effet chez la souris sans effet chez l'humain : voir [ocytocine + ALK5](fiche:ocytocine-et-inhibiteur-alk5) (souris mâles uniquement).\n- **Ce qui marche pour « tout empiler » sans risque** : rien de démontré ; ce qui a une preuve humaine robuste (exercice, sommeil, alimentation) ne s'empile pas avec des interactions dangereuses.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Pour : quelqu'un qui hésite à ajouter un 4e, 5e ou 10e produit et veut un cadre de décision.\n- Pas pour : quelqu'un qui prend déjà un médicament à marge thérapeutique étroite (anticoagulant, anti-épileptique, immunosuppresseur, lithium, digoxine, traitement du diabète ou de la tension) ou qui est insuffisant rénal/hépatique : tout ajout passe par un médecin ou un pharmacien.",
+   "titre": "Pour qui (et pour qui pas)"
+  },
+  {
+   "markdown": "1. **Un seul changement à la fois**, avec un critère mesurable défini avant : sinon on ne sait pas ce qui agit ni ce qui gêne. Voir [auto-expérimentation](fiche:auto-experimentation).\n2. **Vérifier chaque ajout contre ses voisins** : même organe d'élimination (foie, rein), mêmes enzymes (cytochromes P450), même cible pharmacologique (deux molécules qui baissent la glycémie, deux qui fluidifient le sang). Source : RCP du médicament (BDPM), pharmacien ; pas les forums.\n3. **Distinguer médicament, complément et « peptide »** : un médicament a une notice d'interactions, un complément alimentaire en a rarement une complète, un peptide du marché gris n'en a aucune et son contenu est incertain (voir les fiches [peptides injectables](../../vues/themes/peptides.md)).\n4. **Pauses utiles uniquement quand elles sont justifiées** : évaluer l'effet réel en arrêtant une molécule (c'est un test N-of-1), pas « laisser le corps se reposer » sans mécanisme.\n5. **Surveiller ce qui est mesurable** (foie, rein, glycémie, tension) : voir [bilans biologiques](fiche:bilans-biologiques).",
+   "titre": "Étapes (cadre de décision)"
+  },
+  {
+   "markdown": "Sans objet : cette fiche est un cadre de décision, pas un classement de produits.",
+   "titre": "Classement preuve/prix"
+  },
+  {
+   "markdown": "Ajouter une seule molécule à la fois et attendre le délai nécessaire à son critère avant d'en ajouter une autre (durées minimales : [auto-expérimentation](fiche:auto-experimentation)). Aucune étude trouvée sur le nombre « sûr » de compléments pris simultanément chez l'adulte sain [?].",
+   "titre": "Montée en charge et délai avant d'évaluer"
+  },
+  {
+   "markdown": "- Une « liste de molécules bénéfiques » ne dit pas ce qui se passe quand on les prend ensemble : chaque étude teste en général **un** composé contre placebo [?].\n- La somme d'effets individuellement favorables n'est pas favorable : exemple documenté ailleurs dans le dépôt, voir les fiches d'actifs concernées (section « Sécurité, interactions »).\n- Les produits **non autorisés** ajoutent un risque indépendant de l'interaction : sous-dosage, mauvaise molécule, contamination, endotoxines (ANSM, règle 7 du dépôt).\n- Les essais sur animaux ne dosent ni ne combinent comme dans la vraie vie : une combinaison réussie chez la souris (ex. [OT+A5i](fiche:ocytocine-et-inhibiteur-alk5)) n'est pas un schéma de prise pour l'humain.",
+   "titre": "Incompatibilités et précautions"
+  },
+  {
+   "markdown": "- « Si c'est un composé naturel ou une vitamine, ce n'est pas toxique » : la dose et l'organe comptent (foie, rein) ; non détaillé ici faute de recherche ciblée par molécule [?].\n- Tout démarrer en même temps puis attribuer un effet ressenti à un produit précis.\n- Faire des « cycles » par imitation de pratiques de salle de sport ou de forums, sans donnée pour la molécule concernée.\n- Interpréter un taux sanguin qui baisse avec l'âge comme une indication à supplémenter.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "Avant d'ajouter quoi que ce soit si vous prenez un médicament, avez une maladie rénale ou hépatique, êtes enceinte, ou avez plus de 65 ans ; dès l'apparition de fatigue inhabituelle, urines foncées, jaunisse, saignements, palpitations ou troubles digestifs persistants après un ajout.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "1. Yang F et al. *Int J Clin Pharm* 2025 — PMID 40880032 — [DOI](https://doi.org/10.1007/s11096-025-01988-y) (résumé relu)\n2. Fan Y et al. *BMC Pharmacol Toxicol* 2025 — PMID 41316384 — [DOI](https://doi.org/10.1186/s40360-025-01051-6) (résumé relu)\n3. Kato C et al. *Aging (Albany NY)* 2025 — PMID 40848270 — [DOI](https://doi.org/10.18632/aging.206304) (résumé relu)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Empiler des molécules « anti-âge » : interactions, rotation par cycles, « compenser ce que le corps produit moins »",
+ "type": "protocole",
+ "unite": ""
+}

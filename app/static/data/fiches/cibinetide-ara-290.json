@@ -1,0 +1,67 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-29",
+ "famille": "peptide",
+ "id": "cibinetide-ara-290",
+ "intro": "",
+ "liens": [
+  "bpc-157",
+  "thymuline"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 1,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28475703"
+ ],
+ "preuve_globale": "B",
+ "resume": "Peptide de 11 acides aminés conçu pour activer le « récepteur de réparation innée » (EPO/CD131) sans stimuler l'érythropoïèse ; en développement pour la neuropathie des petites fibres, pas pour l'anti-âge.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Peptide de 11 acides aminés conçu pour activer le « récepteur de réparation innée » (EPO/CD131) sans stimuler l'érythropoïèse ; en développement pour la neuropathie des petites fibres, pas pour l'anti-âge.\n- Seul essai randomisé vérifié ici : phase 2b, 28 jours, 64 patients atteints de sarcoïdose avec perte de petites fibres nerveuses et douleur neuropathique. Critère principal (aire des fibres nerveuses cornéennes) : +697 µm² vs placebo à 4 mg/jour (IC 95 % 159-1236 ; p = 0,012) ; non significatif à 1 mg (+109, IC -429 à 647) et à 8 mg (+431, IC -130 à 992) [B, ECR unique n=64]. Pas de relation dose-effet monotone.\n- La douleur a diminué dans tous les groupes, sans différence nette vs placebo dans le sous-groupe douleur modérée à sévère à 4 mg (p = 0,157) [B, ECR unique n=64] : l'effet sur la douleur n'est pas démontré.\n- **Conflit d'intérêts** : plusieurs auteurs sont affiliés à Araim Pharmaceuticals, promoteur de la molécule. Résultat sur un critère de substitution (microscopie cornéenne), pas sur la fonction.\n- Aucune donnée dans l'anti-âge, la récupération musculaire ou la cognition trouvée [?]. ClinicalTrials.gov : 4 études pour « cibinetide » (recherche du 2026-10-29), contenu détaillé non relu [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Agoniste du récepteur hétéromérique EPOR/CD131, voie anti-inflammatoire et cytoprotectrice, sans activation de l'érythropoïèse [B] (PMID 28475703, formulation de l'essai : « innate repair receptor agonist »). Détail moléculaire non relu en texte intégral [?].",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Sarcoïdose, perte de petites fibres, douleur neuropathique | Gain de fibres cornéennes à 4 mg/j seulement ; fibres intra-épidermiques GAP-43+ en hausse à 4 mg (p = 0,035) | [B, ECR unique n=64] (PMID 28475703) |\n| Douleur | Amélioration dans tous les groupes y compris placebo ; effet vs placebo non significatif à 4 mg (p = 0,157) | [B, ECR unique n=64] (PMID 28475703) |\n| Neuropathie diabétique, autres | Non lu dans cette session | [?] |\n| Vieillissement, muscle, cerveau | Aucune donnée trouvée | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « Régénère les nerfs » : le seul essai vérifié montre une hausse d'un marqueur de substitution après 28 jours, avec une dose sur trois significative ; aucune preuve de bénéfice fonctionnel durable.\n- « Pas d'effet EPO donc sans risque » : l'absence d'érythropoïèse n'est pas une démonstration d'innocuité globale ; aucune donnée de sécurité à long terme lue [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- **France/UE** : aucune occurrence « cibinetide » dans CIS_COMPO_bdpm (téléchargé le 2026-10-29). Molécule expérimentale, non autorisée.\n- **AMA** : non vérifiée pour cette fiche [?]. Dérivé de l'EPO : se renseigner avant toute compétition.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "Sécurité humaine : non extraite du résumé de l'essai [?]. Aucune donnée sur l'usage chronique ou hors indication.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- Douleurs neuropathiques ou paresthésies : neurologue, recherche de cause (diabète, carence en B12, alcool, sarcoïdose), biopsie de peau ou microscopie cornéenne selon le cas ; traitements autorisés de la douleur neuropathique.\n- Pas de protocole de dosage, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).\n\nVoir aussi : [thymosine bêta et thymuline](fiche:thymuline), [BPC-157](fiche:bpc-157) (autre peptide « réparateur » à données surtout animales).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Culver DA et al. *Invest Ophthalmol Vis Sci* 2017 — PMID 28475703 — [DOI](https://doi.org/10.1167/iovs.16-21291) (résumé relu le 2026-10-29).\n2. ClinicalTrials.gov, requête « cibinetide », 4 études (2026-10-29). BDPM, CIS_COMPO_bdpm (2026-10-29).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "Cibinetide (ARA-290, peptide dérivé de l'érythropoïétine)",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,66 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "whey-native-nutrimuscle",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "collagene-oral",
+  "proteines"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28698222",
+  "29722584",
+  "36513777"
+ ],
+ "preuve_globale": "A",
+ "resume": "Une whey concentrée correcte, au prix du marché français, dont l'intérêt est celui de toute protéine d'appoint (petit gain sur la musculation, aucun effet sur les courbatures) ; le « native » n'a aucune preuve de supériorité sur une whey classique.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Une whey concentrée correcte, au prix du marché français, dont l'intérêt est celui de toute protéine d'appoint (petit gain sur la musculation, aucun effet sur les courbatures) ; le « native » n'a aucune preuve de supériorité sur une whey classique.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Élément | Teneur déclarée | Preuve |\n|---|---|---|\n| Concentré de protéines sériques natives du lait (lait français, fournisseur Ingredia) | 80 % de protéines ; ≈ 24 g par 30 g | Protéine d'appoint + musculation : petit gain de force et de masse maigre [A] (PMID 28698222) ; « native » (issue du lait et non du fromage) : aucune étude comparative trouvée [?] |\n| Inuline Frutafit HD | non déclarée | Aucune preuve pour ce produit [?] |\n| Bacillus coagulans GBI-30 6086 | non déclarée | Aucune étude lue ici pour cette formulation [?] |\n| Lactase (Tolerase L) | non déclarée | Plausible pour la digestion du lactose, non évalué ici [?] |\n| Sucralose (Splenda) ; cacao (versions chocolat) | non déclarées | Édulcorant, pas d'effet recherché |\n\nSource (composition, format, prix) : nutrimuscle.com, consulté le 2026-10-06. Le tableau nutritionnel complet et la teneur en leucine ne figurent pas dans le texte de la page lue [?] (un document « Analyse Nutri Whey Native » est annoncé par la marque). Allergène : lait ; fabriqué dans un atelier traitant œufs, céréales, soja, poisson, crustacés (nutrimuscle.com, consulté le 2026-10-06). Marque : certification « Sport Protect » et mention « conforme AMA », déclarations de la marque non vérifiées de façon indépendante.",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Complément alimentaire (déclaré comme tel ; aucun texte officiel DGCCRF relu pour cette fiche [?]). Protéine non interdite par l'AMA en tant que telle ; liste 2026 non relue ici [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque dit | Les études |\n|---|---|\n| « 100 % whey naturelle », riche en BCAA et leucine | « Native » : pas d'étude comparative [?]. Teneur en leucine non relevée ; whey et soja donnent les mêmes gains de force et de masse maigre en essais ≥ 6 semaines [A] (PMID 29722584) |\n| Récupération musculaire | Force/CK légèrement préservés, **courbatures inchangées** [A] (PMID 36513777) |\n| Construction musculaire | [A] petit effet, plafonné vers ~1,6 g/kg/j d'apport total (PMID 28698222) ; effet moindre chez l'âgé |\n| Adaptée aux débutants | Le gain de masse maigre est plus marqué chez les sujets entraînés et diminue avec l'âge [A] (PMID 28698222) ; pas d'analyse « débutants » dans le résumé lu [?] |",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "30 g dans 25 cl d'eau ou de lait, 30 min avant ou après l'entraînement, ou en collation (nutrimuscle.com, consulté le 2026-10-06). Le timing n'est pas démontré comme déterminant [?]. Rein sain : pas de signal à court terme ; insuffisance rénale : avis médical (voir [protéines](fiche:proteines)).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Nutrimuscle : 500 g à 19,95 €, 1 kg à 37,95 €, 2,25 kg à 80,95 €, 4 kg à 131,95 € ; Decathlon et Alltricks : 1 kg à 39,95 € (relevé via moteur de recherche, non rouvert page par page) (consultés le 2026-10-06).\n- À 30 g/j (≈ 0,9 kg/mois) : **≈ 30 €/mois** (format 4 kg) à **≈ 36 €/mois** (1 kg chez les revendeurs). Coût de la protéine : ~47 € par kg de protéines pour le 1 kg à 37,95 € (80 %).\n- Alternative moins chère : Myprotein Impact Whey 2,5 kg à 68,49 € (bodyworld.eu, ≈ 73 % de protéines, rupture de stock au relevé) soit ~37 € par kg de protéines ; 1 kg entre 35,99 € (promotion annoncée sur le site de la marque) et 40,99 € selon les revendeurs (consultés le 2026-10-06). Prix très variables (promotions) : ce n'est une économie que par kilo de protéines, pas en valeur absolue.\n- **Alternative sans poudre** : atteindre ~1,6 g/kg/j par l'alimentation (œufs, laitages, légumineuses, viande, poisson) est au moins aussi efficace d'après les données de l'apport total [A] (PMID 28698222) et coûte souvent moins par gramme de protéine. Voir [alimentation](fiche:alimentation). Peau : le collagène oral n'est pas une alternative pour le muscle (voir [collagène](fiche:collagene-oral)).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non relevés de façon systématique [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 28698222 — Morton RW et al., *Br J Sports Med* 2018. doi:10.1136/bjsports-2017-097608\n- PMID 29722584 — Messina M et al., *Int J Sport Nutr Exerc Metab* 2018. doi:10.1123/ijsnem.2018-0071\n- PMID 36513777 — *Eur J Clin Nutr* 2022. doi:10.1038/s41430-022-01250-y\n- Nutrimuscle, page « Whey Native » (composition, formats, prix, dose), consultée le 2026-10-06.\n- Decathlon et Alltricks, pages « Whey Native 1 kg » (prix, via moteur de recherche), consultées le 2026-10-06.\n- Bodyworld, page « Myprotein Impact Whey Protein 2500 g » (prix, protéines/100 g), consultée le 2026-10-06 ; ledenicheur.fr, comparateur Myprotein Impact Whey 1 kg, consulté le 2026-10-06.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Whey Native — Nutrimuscle",
+ "type": "produit",
+ "unite": ""
+}

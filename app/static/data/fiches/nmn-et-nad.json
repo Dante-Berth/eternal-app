@@ -1,0 +1,85 @@
+{
+ "cibles": [
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "nmn-et-nad",
+ "intro": "",
+ "liens": [
+  "exercice-physique",
+  "metformine",
+  "mitochondries",
+  "spermidine",
+  "urolithine-a"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 16,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "31710095",
+  "33888596",
+  "41901064",
+  "29992272",
+  "41705654",
+  "29599478",
+  "37994989",
+  "35927255",
+  "36740954",
+  "34326206",
+  "32320006",
+  "42514320",
+  "35215405",
+  "42603990",
+  "35235774",
+  "42304075"
+ ],
+ "preuve_globale": "B",
+ "resume": "Les précurseurs oraux (NMN, NR) font monter le NAD+ sanguin, de façon reproductible [B]. Ce n'est pas un bénéfice clinique : c'est un biomarqueur de substitution, et les ECR qui l'ont mesuré dans le muscle n'ont souvent pas trouvé de hausse du NAD+ musculaire ni d'effet mitochondrial (PMID 317100…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Les précurseurs oraux (NMN, NR) **font monter le NAD+ sanguin**, de façon reproductible [B]. Ce n'est **pas** un bénéfice clinique : c'est un biomarqueur de substitution, et les ECR qui l'ont mesuré dans le muscle n'ont souvent pas trouvé de hausse du NAD+ musculaire ni d'effet mitochondrial (PMID 31710095).\n- Critères cliniques chez l'humain : essentiellement **négatifs ou non concluants** (sensibilité à l'insuline, mitochondries, cognition, force) sauf signaux isolés : insulinosensibilité musculaire chez des femmes prédiabétiques sous NMN (PMID 33888596) et petite baisse de pression diastolique en méta-analyse (PMID 41901064) [B].\n- Aucune donnée sur la durée de vie, la mortalité ou les maladies liées à l'âge [?].\n- **NR (chlorure)** : autorisé comme nouvel aliment en UE, plafonné à 300 mg/j. **NMN** : non autorisé en UE (avis EFSA positif adopté le 2026-03-04, pas d'acte d'autorisation retrouvé).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Le NAD+ est un cofacteur du métabolisme énergétique et de enzymes (sirtuines, PARP). Il diminue avec l'âge dans plusieurs tissus chez le rongeur [C] ; l'ampleur de ce déclin chez l'humain et son caractère causal ne sont pas établis par les essais retenus ici [?].\n- Hypothèse : en apporter plus restaure la fonction mitochondriale. Chez l'humain, la hausse du NAD+ sanguin ne se traduit pas de manière constante dans le tissu cible (muscle) [B] (PMID 31710095, 29992272).\n- Un essai chez 11 hommes jeunes (NMN 1200 mg/j, 7 jours, après exercice avec restriction du flux) montre un effet **défavorable** potentiel : moindre augmentation du contenu mitochondrial (+171 % attendu à 24 h, abolie sous NMN) [B, ECR croisé n=11] (PMID 41705654).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "Biomarqueur de substitution = **S**. Critère clinique ou fonctionnel = **C**.\n\n**Hausse de NAD+ (S)**\n- NR : hausse du NAD+ sanguin chez adultes d'âge moyen et âgés, bien toléré (essai croisé 2 x 6 semaines) [B] (PMID 29599478). Chez 20 patients avec trouble cognitif léger, NR 1 g/j a multiplié le NAD+ sanguin par 2,6 [B, n=20] (PMID 37994989).\n- NMN : 250 mg/j chez des hommes âgés augmente le NAD+ et ses métabolites sanguins [B] (PMID 35927255) ; MIB-626 (NMN microcristallin, 2 x 500 mg par jour) 28 jours augmente nettement le NAD circulant [B, n=30] (PMID 36740954).\n\n**Métabolisme et insuline**\n- NMN 10 semaines chez des femmes ménopausées prédiabétiques en surpoids ou obèses (clamp) : sensibilité musculaire à l'insuline améliorée, signalisation AKT/mTOR augmentée [B] (PMID 33888596). Seul essai de ce type ; un commentaire critique a été publié (PMID 34326206).\n- NR 1000 mg x 2 par jour pendant 12 semaines, 40 hommes obèses insulinorésistants : **sensibilité à l'insuline non améliorée** [B, ECR n=40] (PMID 29992272) ; pas d'effet sur la respiration mitochondriale musculaire ni la teneur en NAD musculaire (PMID 31710095). NR 1 g/j 6 semaines : insuline et fonction mitochondriale inchangées, masse maigre +1,3 % (critère secondaire) [B, n=13] (PMID 32320006).\n- MIB-626 chez 30 adultes en surpoids : poids −1,9 kg, pression diastolique −7 mmHg, LDL −18,7 mg/dL ; force, endurance, capacité aérobie, sensibilité à l'insuline inchangées [B, ECR n=30, 28 jours] (PMID 36740954).\n- Méta-analyse NMN, 15 ECR (250 à 2000 mg/j, 14 jours à 24 semaines) : poids, IMC, glycémie, HbA1c, lipides, PA systolique non modifiés ; PA diastolique légèrement plus basse ; HOMA-IR tendance non significative [A, hétérogène, courte durée] (PMID 42514320). Autre méta-analyse (10 ECR, 349 participants) : PA diastolique −2,15 mmHg (IC95 −3,68 à −0,61), systolique non significative sauf ≥ 60 ans (−3,94 mmHg) [A, hétérogène, analyse en sous-groupes] (PMID 41901064).\n\n**Fonction physique et vieillissement**\n- NMN 250 mg/j, 6 ou 12 semaines, hommes âgés : vitesse de marche et force de préhension « nominalement significatives », à valider ; pas d'effet sur la composition corporelle [B] (PMID 35927255).\n- NMN 250 mg, 12 semaines, 108 adultes âgés japonais : amélioration du test de lever de chaise (5 levers) dans tous les groupes y compris placebo ; plus grand effet dans le groupe NMN pris l'après-midi (d = 0,72) [B] (PMID 35215405). Gain dans le groupe placebo : effet d'apprentissage ou de contexte possible.\n- Essai de phase 2a MIB-626 dans la maladie rénale diabétique (156 participants, 24 semaines) : seul le protocole est publié (pas de résultats retrouvés) [?] (PMID 42603990).\n\n**Cerveau**\n- NR 1 g/j 10 semaines, 20 patients avec trouble cognitif léger : MoCA stable, débit cérébral réduit dans le réseau du mode par défaut ; aucun gain cognitif [B, ECR pilote n=20] (PMID 37994989).\n- NR dans la maladie de Parkinson : phase I, NAD cérébral augmenté chez certains, « amélioration clinique légère » associée, effectif petit, nécessite des essais plus grands [B] (PMID 35235774).\n\n**Durée de vie, maladies liées à l'âge, âge biologique** : [?].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais : NR 1000 mg x 2/j (obésité) ; NR 1 g/j (cognition) ; NMN 250 mg/j (personnes âgées) ; MIB-626 2 x 500 mg ; NMN 1200 mg/j (7 jours).\n- **Limite UE (NR chlorure)** : 300 mg/j adultes, 230 mg/j femmes enceintes ou allaitantes. Les essais sur critères métaboliques utilisaient 2000 mg/j, soit environ 7 fois la dose légale en complément : leurs résultats ne se transposent pas à la dose d'étiquette.\n- **NMN** : avis EFSA sur 300 mg/j maximum chez l'adulte hors femmes enceintes et allaitantes ; produits vendus en ligne souvent à 250 à 1000 mg et plus, étiquettes à contrôler [?].\n- Les formes sublinguales ou « liposomales » : une étude pharmacocinétique croisée (14 hommes) n'a trouvé **aucune différence** de NMN, nicotinamide ou NAD+ sanguins entre voie orale et sublinguale ; seuls les catabolites terminaux 2PY et 4PY montaient plus vite sous sublingual [B] (PMID 42304075). L'argument « biodisponibilité supérieure » est donc non étayé pour le NAD+.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Faits réglementaires (consultés le 2026-10-06 ; le catalogue Novel Food en ligne n'a pas pu être interrogé directement, d'où `sources_verifiees: partielle`) :\n- **Chlorure de nicotinamide riboside (NR)** : autorisé comme nouvel aliment (complément alimentaire), règlement d'exécution (UE) 2020/16 du 10 janvier 2020 ; 300 mg/j adultes, 230 mg/j femmes enceintes ou allaitantes ; extension d'usage évaluée par l'EFSA en 2021 (EFSA Journal 2021;19:6843) (texte FR du règlement 2020/16 lu directement sur EUR-Lex le 2026-10-06 : 300 mg/j population adulte hors femmes enceintes ou allaitantes, 230 mg/j femmes enceintes ou allaitantes, étiquetage « Chlorure de nicotinamide riboside », compléments au sens de la directive 2002/46/CE ; **confirmé**).\n- **β-NMN** : **non autorisé en UE** à ma connaissance. Avis scientifique du panel NDA de l'EFSA adopté le 2026-03-04, publié le 2026-05-11 (EFSA Journal, DOI 10.2903/j.efsa.2026.10007) : concerne le NMN de synthèse, comme source de niacine, jusqu'à 300 mg/j chez l'adulte hors femmes enceintes et allaitantes (page éditeur inaccessible depuis cet environnement ; contenu issu du résumé d'un moteur de recherche). Un règlement d'exécution d'autorisation n'a pas été retrouvé : tant qu'il n'est pas publié, le NMN ne peut pas être mis légalement sur le marché de l'UE comme aliment ou complément. Au 2025-12-24, six demandes de nouvel aliment NMN avaient été déposées d'après un cabinet de conformité (CIRS, source secondaire).\n- Vente en ligne de NMN depuis l'étranger ou en France : zone grise ; DGCCRF non consultée ; liste AMA 2026 (wada-ama.org) : pages et PDF inaccessibles depuis cet environnement le 2026-10-06, statut AMA non vérifié [?]. Catalogue Novel Food et liste de l'Union (EUR-Lex 2017/2470, texte consolidé) : non lisibles (blocage du serveur), donc absence d'autorisation du NMN non confirmée par la liste elle-même.\n- **Perfusions et injections de NAD+** : proposées dans des cliniques « anti-âge » ; aucun ECR retenu ici, statut non étudié [?]. Pas de protocole dans cette fiche.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Méta-analyse NMN : pas d'excès d'événements indésirables globaux, graves, ni d'élévation d'ALAT/ASAT, mais **court terme** (au plus 24 semaines) [A, hétérogène] (PMID 42514320). Tolérance NR à 1 g/j : bonne dans les petits essais cités [B].\n- Sécurité à long terme, grossesse et allaitement, insuffisance rénale ou hépatique : [?] (EFSA exclut grossesse et allaitement pour le NMN).\n- Hypothèse (modèles animaux) : élever le NAD+ pourrait théoriquement soutenir des cellules tumorales ; aucune donnée humaine retenue [?]. À discuter avec un médecin en cas d'antécédent de cancer.\n- Interactions médicamenteuses : [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Restaure le NAD+ de la jeunesse »** : seul le NAD+ sanguin monte de façon fiable ; le tissu cible (muscle) peut ne pas changer (PMID 31710095).\n- **« Prouvé en essai clinique »** : prouvé en tant que biomarqueur, non sur la santé ; critères d'insuline et mitochondriaux négatifs pour NR (PMID 29992272, 31710095, 32320006).\n- **« Meilleure absorption sublinguale ou liposomale »** : même NAD+ sanguin que la voie orale (PMID 42304075).\n- **« Anti-inflammatoire musculaire »** : dans l'essai de 11 hommes, l'effet anti-inflammatoire s'accompagne d'une perte d'adaptation mitochondriale (PMID 41705654).\n- **« NMN légal en Europe »** : faux au 2026-10-06 à ma connaissance. NR chlorure est légal, mais à 300 mg/j maximum.\n- **« Le NAD+ est la clé de la longévité »** : preuves de longévité chez l'animal seulement [C] ; humain [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit dans ce repo à ce jour. Voir [mode de vie : exercice physique](fiche:exercice-physique), seul levier à effet clinique robuste sur la fonction musculaire et mitochondriale. Autres fiches : [urolithine A](fiche:urolithine-a), [spermidine](fiche:spermidine), [metformine](fiche:metformine).\n\nVoir aussi : [mitochondries et vieillissement](fiche:mitochondries).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 29599478, Martens CR et al., NR chronique chez adultes d'âge moyen et âgés, 2018 (résumé relu ; pas de chiffre repris).\n- PMID 33888596, Yoshino M et al., « Nicotinamide mononucleotide increases muscle insulin sensitivity in prediabetic women », 2021 (résumé relu).\n- PMID 34326206, Brenner C, commentaire sur Yoshino et al., 2021 (titre seulement).\n- PMID 36740954, Pencina KM et al., NAD augmentation chez adultes en surpoids ou obèses, 2023 (résumé relu).\n- PMID 35927255, Igarashi M et al., NMN chez hommes âgés, 2022 (résumé relu).\n- PMID 35215405, Kim M et al., NMN 12 semaines, sommeil et performances, 2022 (résumé relu).\n- PMID 37994989, Orr ME et al., NR dans le trouble cognitif léger, 2024 (résumé relu).\n- PMID 35235774, Brakedal B et al., NADPARK, 2022 (fin de résumé relue).\n- PMID 29992272, Dollerup OL et al., NR chez hommes obèses, 2018 (résumé relu).\n- PMID 31710095, Dollerup OL et al., NR et mitochondries musculaires, 2020 (résumé relu).\n- PMID 32320006, Remie CME et al., NR et composition corporelle, 2020 (résumé relu).\n- PMID 42514320, Yang W et al., méta-analyse sécurité et métabolisme NMN, Nutrients 2026 (résumé relu).\n- PMID 41901064, Zhang M et al., méta-analyse NMN et pression artérielle, Nutrients 2026 (résumé relu).\n- PMID 42304075, Wakabayashi J et al., NMN sublingual vs oral, Sci Rep 2026 (résumé relu).\n- PMID 41705654, Yang DL et al., NMN et inflammation musculaire après exercice, J Int Soc Sports Nutr 2026 (résumé relu).\n- PMID 42603990, Chandra MS et al., protocole d'essai NAD+ dans la maladie rénale diabétique, Kidney Int Rep 2026 (protocole, pas de résultats).\n- Règlement d'exécution (UE) 2020/16 (chlorure de nicotinamide riboside), EUR-Lex, consulté le 2026-10-06 via extraits de recherche.\n- EFSA Journal 2021;19:6843, extension d'usage du chlorure de nicotinamide riboside, consulté le 2026-10-06 (liste de résultats).\n- EFSA Journal 2026, avis sur le β-NMN, DOI 10.2903/j.efsa.2026.10007, consulté le 2026-10-06 (résumé de moteur de recherche).\n- CIRS Group, « Global Regulatory Progress of NMN », consulté le 2026-10-06 (source secondaire, demandes de nouvel aliment).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "NMN, nicotinamide riboside et NAD+",
+ "type": "actif",
+ "unite": ""
+}

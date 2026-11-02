@@ -1,0 +1,80 @@
+{
+ "cibles": [
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "peptide",
+ "id": "cagrilintide",
+ "intro": "",
+ "liens": [
+  "exercice-physique",
+  "glycemie-et-prediabete",
+  "retatrutide",
+  "semaglutide-et-glp1",
+  "tesamoreline"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "34798060",
+  "40544433",
+  "40544432",
+  "42419792",
+  "42009015",
+  "42838477",
+  "30029448"
+ ],
+ "preuve_globale": "A",
+ "resume": "Cagrilintide : analogue de l'amyline (hormone pancréatique de satiété) à longue durée d'action, développé par Novo Nordisk (PMID 34798060). CagriSema = cagrilintide + sémaglutide dans une injection hebdomadaire. Ce ne sont pas des « peptides de recherche » inventés par le marché gris : ce sont de…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Cagrilintide** : analogue de l'amyline (hormone pancréatique de satiété) à longue durée d'action, développé par Novo Nordisk (PMID 34798060). **CagriSema** = cagrilintide + sémaglutide dans une injection hebdomadaire. Ce ne sont **pas** des « peptides de recherche » inventés par le marché gris : ce sont des médicaments en phase de demande d'autorisation.\n- **Statut** : non autorisé en France ni dans l'UE. Novo Nordisk a déposé une demande d'autorisation (NDA) auprès de la FDA le 2025-12-18 pour CagriSema (adultes obèses ou en surpoids avec au moins une comorbidité) en précisant que « CagriSema is not approved in the US or EU » ; la décision FDA était attendue fin 2026 selon l'annonce de février 2026. Statut au 2026-10-14 : à vérifier, l'information la plus récente consultée date de février 2026 [?].\n- **Efficacité en essais de phase 3 (financés par le fabricant)** : sans diabète (REDEFINE 1, n=3 417), −20,4 % du poids à 68 semaines contre −3,0 % sous placebo (différence −17,3 points ; IC 95 % −18,1 à −16,6) [B, ECR pivot n=3 417] (PMID 40544433) ; avec diabète de type 2 (REDEFINE 2, n=1 206), −13,7 % contre −3,4 % (PMID 40544432) [B, ECR n=1 206].\n- **Face au tirzépatide** (REDEFINE 4, 809 patients, étude ouverte de 84 semaines) : CagriSema n'a **pas atteint la non-infériorité** : −23,0 % vs −25,5 % (analyse chez les patients adhérents) et −20,2 % vs −23,6 % (analyse en intention de traiter), selon le communiqué de Novo Nordisk du 2026-02-23 ; article publié : non trouvé [?]. Une méta-analyse en réseau (262 essais, 99 791 participants) trouve un effet à un an proche : tirzépatide −14,9 %, CagriSema −14,8 % vs mode de vie seul [A, certitude modérée à élevée pour ces estimations] (PMID 42419792).\n- **Cagrilintide seul** : essai de phase 2 de 26 semaines (n=706 sous cagrilintide) : −6,0 à −10,8 % du poids selon la dose, contre −3,0 % sous placebo ; effets digestifs plus fréquents (41 à 63 % vs 32 %) [B, ECR phase 2] (PMID 34798060).\n- Les flacons vendus en ligne comme « cagrilintide » ne sont pas ces médicaments (voir plus bas).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- L'amyline naturelle est une hormone pancréatique qui induit la satiété ; le cagrilintide en est un analogue longue durée (PMID 34798060). Associé au sémaglutide (agoniste du GLP-1), il vise un effet additif sur l'appétit (PMID 40544433) [B].\n- Voir [sémaglutide, tirzépatide et GLP-1](fiche:semaglutide-et-glp1) pour le GLP-1 et le GIP.",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Obésité/surpoids avec complication, sans diabète (CagriSema, 68 sem.) | −20,4 % vs −3,0 % ; atteinte des cibles de perte ≥ 5 %, ≥ 20 %, ≥ 25 %, ≥ 30 % plus fréquente ; effets digestifs 79,6 % vs 39,9 % | [B, ECR n=3 417] (PMID 40544433) |\n| Obésité avec diabète de type 2 (CagriSema, 68 sem.) | −13,7 % vs −3,4 % ; HbA1c ≤ 6,5 % chez 73,5 % vs 15,9 % ; effets digestifs 72,5 % vs 34,4 % | [B, ECR n=1 206] (PMID 40544432) |\n| CagriSema vs sémaglutide seul, Japon/Taïwan (REDEFINE 5, 68 sem.) | −18,4 % vs −11,9 % (différence −6,5 points ; IC 95 % −8,4 à −4,6) ; n=331 | [B, ECR n=331] (PMID 42009015) |\n| Cagrilintide seul vs placebo et liraglutide (phase 2, 26 sem.) | −6,0 à −10,8 % selon la dose ; la dose la plus forte fait mieux que le liraglutide (−10,8 % vs −9,0 % ; p=0,03) | [B, ECR phase 2] (PMID 34798060) |\n| CagriSema vs tirzépatide (REDEFINE 4, 84 sem.) | Non-infériorité non atteinte (communiqué du fabricant, étude ouverte) | [B, communiqué non évalué par les pairs] (Novo Nordisk, 2026-02-23) |\n| Maladie cardiovasculaire, mortalité | Essai de résultats cardiovasculaires (REDEFINE 3) en cours, seule la conception est publiée | Conception et caractéristiques initiales seulement : 7 076 adultes randomisés (2023-2024), âge moyen 66 ans, CagriSema vs placebo, critère MACE-3 ; aucun résultat d'efficacité [?] (PMID 42838477) |\n| « Anti-âge », sujet de poids normal, muscle | Aucun essai trouvé | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet (pas de posologie, règle 7 pour les produits hors AMM). Doses, paliers et fréquence des essais sont ceux d'un protocole médical, pas une consigne. Le contenu réel d'un flacon « cagrilintide » vendu en ligne est inconnu sans analyse.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **France** : aucune occurrence « cagrilintide » dans les fichiers CIS_bdpm et CIS_COMPO_bdpm de la base publique des médicaments (BDPM, téléchargés le 2026-10-14). Le **tirzépatide (Mounjaro)** a une AMM en procédure centralisée (date d'AMM 2024-04-19) et est commercialisé (BDPM, consulté le 2026-10-14) ; le **sémaglutide** a un statut équivalent : voir la fiche dédiée.\n- **UE / FDA** : voir TL;DR. Dépôt FDA le 2025-12-18 (Novo Nordisk, communiqué du 2025-12-18, consulté le 2026-10-14). Aucun dépôt EMA mentionné dans les communiqués consultés. openFDA (Drugs@FDA et étiquettes) ne renvoie aucune entrée pour la substance « cagrilintide » au 2026-10-14, donc aucun produit approuvé enregistré à cette date ; la base peut avoir un décalage.\n- **ANSM** : la mise en garde 2026 sur les « peptides » vendus en ligne cite le rétatrutide, pas le cagrilintide ; son message général (« Ces produits n'ont pas été évalués par les autorités de santé et ne sont pas autorisés ») s'applique à toute vente hors circuit (ANSM, 2026-07-02 mise à jour 2026-08-31, consultée le 2026-10-14). La vente en ligne de médicaments sur prescription est illégale.\n- **AMA, Liste 2026** : non cité nommément ; substance en développement clinique sans approbation, elle relève de la classe S0 (Liste 2026, consultée le 2026-10-14).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Effets digestifs** très fréquents : nausées, vomissements, diarrhée, constipation, douleurs abdominales, majoritairement transitoires, légers à modérés ; 79,6 % vs 39,9 % sous placebo dans REDEFINE 1 et 72,5 % vs 34,4 % dans REDEFINE 2 [B] (PMID 40544433, PMID 40544432).\n- Cagrilintide seul : réactions au site d'administration, effets digestifs dose-dépendants [B] (PMID 34798060).\n- Effets spécifiques à long terme (pancréas, vésicule, rétine, perte de masse maigre) : à rapprocher des données du sémaglutide ([fiche](fiche:semaglutide-et-glp1)) ; pour l'association, non extraits ici [?].\n- Grossesse, allaitement, interactions : à lire sur le résumé des caractéristiques du produit (RCP) quand il existera ; aucune donnée extraite [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Contrefaçons de peptides vendus par des pharmacies en ligne illégales : pureté de 5 à 75 % pour les peptides à cystéine, arsenic inorganique et plomb jusqu'à dix fois la limite parentérale ICH [B, analyse de produits sur le marché belge] (PMID 30029448) ; l'étude ne porte pas nommément sur le cagrilintide. Analyse de flacons de cagrilintide : aucune trouvée [?]. Voir [rétatrutide](fiche:retatrutide) pour les hospitalisations signalées par l'ANSM après usage de produits frauduleux du même type.",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- Obésité : médecin traitant, endocrinologue ou centre spécialisé ; médicaments autorisés (sémaglutide, tirzépatide), chirurgie bariatrique le cas échéant ; remboursement sous conditions depuis le 2026-06-15 selon la fiche [sémaglutide, tirzépatide et GLP-1](fiche:semaglutide-et-glp1).\n- Préserver la masse maigre pendant la perte de poids : [exercice physique](fiche:exercice-physique), protéines.\n- Pas de protocole de dosage ni d'injection, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).\n\nVoir aussi : [rétatrutide](fiche:retatrutide), [glycémie et prédiabète](fiche:glycemie-et-prediabete), [tésamoréline](fiche:tesamoreline).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Lau DCW et al. *Lancet* 2021 — PMID 34798060 — [DOI](https://doi.org/10.1016/S0140-6736(21)01751-7)\n2. Garvey WT et al. *N Engl J Med* 2025 — PMID 40544433 — [DOI](https://doi.org/10.1056/NEJMoa2502081)\n3. Davies MJ et al. *N Engl J Med* 2025 — PMID 40544432 — [DOI](https://doi.org/10.1056/NEJMoa2502082)\n4. Yamauchi T et al. *Lancet Diabetes Endocrinol* 2026 — PMID 42009015 — [DOI](https://doi.org/10.1016/S2213-8587(25)00402-4)\n5. Nong K et al. *BMJ* 2026 — PMID 42419792 — [DOI](https://doi.org/10.1136/bmj-2026-372161)\n6. Cavender MA et al. *Am Heart J* 2026 — PMID 42838477 (conception et caractéristiques initiales de REDEFINE 3, NCT05669755 ; résumé relu le 2026-10-14).\n7. Novo Nordisk, « Novo Nordisk files for FDA approval of CagriSema… », 2025-12-18 — https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=916470 (consulté le 2026-10-14).\n8. Novo Nordisk, communiqué REDEFINE 4, 2026-02-23 — https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=916501 (consulté le 2026-10-14) ; source de fabricant, non évaluée par les pairs.\n9. Janvier S et al. *Talanta* 2018 — PMID 30029448 — [DOI](https://doi.org/10.1016/j.talanta.2018.06.023)\n10. BDPM, fichiers CIS_bdpm et CIS_COMPO_bdpm, téléchargés le 2026-10-14 (MOUNJARO : procédure centralisée, commercialisé, date d'AMM 2024-04-19).\n11. ANSM, « “Peptides” vendus en ligne : ne les utilisez pas, ils peuvent être dangereux », 2026-07-02, mis à jour 2026-08-31 — https://ansm.sante.fr/actualites/peptides-vendus-en-ligne-ne-les-utilisez-pas-ils-peuvent-etre-dangereux (consulté le 2026-10-14)\n12. AMA, Liste des interdictions 2026, classe S0 (consultée le 2026-10-14).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "Cagrilintide et CagriSema (cagrilintide + sémaglutide)",
+ "type": "actif",
+ "unite": ""
+}

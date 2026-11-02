@@ -1,0 +1,99 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-glycemie-a-jeun-hgpo",
+ "intro": "Fiche « examen ». Définitions du prédiabète, traitements, CGM et compléments : [Glycémie et prédiabète](fiche:glycemie-et-prediabete). Les autres examens du même axe : [HbA1c](fiche:biomarqueur-hba1c), [insuline, HOMA-IR, CGM](fiche:biomarqueur-insuline-homa-ir-cgm). Cette fiche donne les seuils par source (OMS, ADA, HAS), ce que chaque test prédit et ses limites.",
+ "liens": [
+  "berberine",
+  "biomarqueur-hba1c",
+  "biomarqueur-insuline-homa-ir-cgm",
+  "cannelle",
+  "glycemie-et-prediabete",
+  "metformine",
+  "regime-faible-index-glycemique",
+  "sommeil",
+  "vinaigre-de-cidre"
+ ],
+ "marqueurs": [
+  "glycemie-jeun",
+  "glycemie-hgpo-2h"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 5,
+ "nb_seuils": 12,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42063461",
+  "30371961",
+  "41358893",
+  "33441421",
+  "41759934"
+ ],
+ "preuve_globale": "B",
+ "resume": "Trois autorités, trois seuils de « prédiabète à jeun » : ADA 100–125 mg/dL, OMS 110–125 mg/dL (6,1–6,9 mmol/L), HAS 1,10–1,25 g/L. Le seuil de diabète est identique partout : ≥ 1,26 g/L (7,0 mmol/L) à jeun.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Trois autorités, trois seuils de « prédiabète à jeun » : **ADA 100–125 mg/dL**, **OMS 110–125 mg/dL (6,1–6,9 mmol/L)**, **HAS 1,10–1,25 g/L**. Le seuil de **diabète** est identique partout : **≥ 1,26 g/L (7,0 mmol/L)** à jeun.\n- France : le dépistage repose sur la **glycémie veineuse à jeun**, diagnostic confirmé par un 2e dosage à jeun ≥ 1,26 g/L ; l'HGPO n'est pas le test de référence du texte HAS lu.\n- Chaque test ne désigne pas les mêmes personnes : dans une cohorte chinoise de 141 945 adultes, le prédiabète défini par la **glycémie à jeun n'est pas associé** à la mortalité, celui défini par la **glycémie à 2 h ou l'HbA1c l'est** (HR 1,12–1,25) [B, cohorte] (PMID 42063461).\n- Le prédiabète n'est pas une trajectoire fixe : 33 à 59 % reviennent à la normale en 1 à 5 ans [A, 103 cohortes, Cochrane] (PMID 30371961).\n- Un chiffre isolé peu au-dessus du seuil se répète avant toute conclusion (ADA : refaire à 3–6 mois ; test discordant, répéter celui qui dépasse le seuil).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Glycémie à jeun** : glucose plasmatique veineux après un jeûne ; reflète la production hépatique de glucose au repos, donc la résistance hépatique à l'insuline plus que la tolérance au repas.\n- **HGPO** (hyperglycémie provoquée par voie orale, 75 g de glucose, glycémie à 2 h) : teste la capacité à éliminer une charge ; elle détecte une « intolérance au glucose » (IGT) que la glycémie à jeun peut manquer. L'ADA définit deux anomalies distinctes, IFG (à jeun) et IGT (à 2 h), avec des seuils propres (tableau ci-dessous).\n- Pour l'HbA1c (moyenne sur ≈ 3 mois) : voir la [fiche dédiée](fiche:biomarqueur-hba1c).",
+   "titre": "Ce que mesure l'examen"
+  },
+  {
+   "markdown": "Conversions : 1 g/L = 100 mg/dL ; mg/dL ÷ 18 ≈ mmol/L (126 mg/dL = 7,0 mmol/L ; 100 mg/dL = 5,6 mmol/L ; 200 mg/dL = 11,1 mmol/L).\n\nSeuils diagnostiques officiels (aucun tag de preuve) :\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| Glycémie à jeun | g/L | 1,10–1,25 | prédiabète (hyperglycémie modérée à jeun) | adulte, France | HAS, Parcours de soins du patient adulte vivant avec un DT2 : 14 messages clés, 2025 (consulté le 2026-10-13) |\n| Glycémie à jeun | g/L | ≥ 1,26 | diabète : à confirmer par un 2e dosage à jeun ≥ 1,26 dans le mois, jeûne de 10 à 12 h | adulte, France | HAS 2025 (consulté le 2026-10-13) |\n| Glycémie à n'importe quel moment | g/L | ≥ 2,00 | diabète si symptômes (soif, polyurie, amaigrissement) | adulte symptomatique, France | HAS 2025 (consulté le 2026-10-13) |\n| Glycémie à jeun | mg/dL | 100–125 (5,6–6,9 mmol/L) | prédiabète (IFG) | adulte | ADA, Standards of Care 2026, section 2, PMID 41358893 (via la fiche liée, 2026-10-13) |\n| Glycémie à jeun | mg/dL | ≥ 126 (7,0 mmol/L) | diabète (diagnostic), jeûne ≥ 8 h | adulte | ADA 2026, PMID 41358893 |\n| Glycémie à 2 h d'une HGPO 75 g | mg/dL | 140–199 (7,8–11,0 mmol/L) | prédiabète (IGT) | adulte | ADA 2026, PMID 41358893 |\n| Glycémie à 2 h d'une HGPO 75 g | mg/dL | ≥ 200 (11,1 mmol/L) | diabète (diagnostic) | adulte | ADA 2026, PMID 41358893 |\n| Glycémie à jeun | mmol/L | 6,1–6,9 (110–125 mg/dL) | hyperglycémie intermédiaire à jeun (IFG) | adulte | OMS/IDF, Definition and diagnosis of diabetes mellitus and intermediate hyperglycaemia, 2006 (page éditeur OMS consultée le 2026-11-01 ; PDF inaccessible, seuils relus via des sources secondaires, à recontrôler) |\n| Glycémie à jeun | mmol/L | ≥ 7,0 | diabète | adulte | OMS/IDF 2006 (même réserve) |\n| Glycémie à 2 h d'une HGPO 75 g | mmol/L | 7,8–11,0 | intolérance au glucose (IGT) | adulte | OMS/IDF 2006 (même réserve) |\n| Glycémie à 2 h d'une HGPO 75 g | mmol/L | ≥ 11,1 | diabète | adulte | OMS/IDF 2006 (même réserve) |\n| Glycémie à jeun, grossesse | — | non traité | seuils du diabète gestationnel | femme enceinte | non retrouvé [?] |\n\nSeuils pronostiques issus d'études (tag + PMID) : il n'existe pas de cible de glycémie à jeun « optimale » pour la longévité chez le sujet sain démontrée dans les sources lues [?]. Les seuils ci-dessus sont des seuils diagnostiques, pas des cibles.",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Mortalité selon le test qui définit le prédiabète (Chine, 141 945 adultes, suivi médian 9 ans, 6 924 décès) | Prédiabète à la glycémie à jeun (ADA ou OMS) : pas d'excès significatif de mortalité totale ou CV. Défini par la glycémie à 2 h ou l'HbA1c : mortalité totale HR 1,13–1,23, CV HR 1,12–1,25 ; perte d'espérance de vie 1,1 à 2,3 ans (pas pour la glycémie à jeun). La glycémie à 2 h garde son lien indépendamment de la glycémie à jeun et de l'HbA1c | [B, cohorte] (PMID 42063461, résumé) |\n| Mortalité, Japon (62 785 travailleurs, 7 ans, 229 décès) | Prédiabète (critères ADA) : mortalité totale HR 1,53 (1,12–2,09), cancer HR 2,37 (1,45–3,89), pas de lien avec la mortalité CV ; résultats voisins avec les critères OMS/IEC. Peu d'événements | [B, cohorte] (PMID 33441421, résumé) |\n| Évolution du prédiabète | 33 à 59 % reviennent à la normale en 1–5 ans ; le passage au diabète varie beaucoup selon la définition | [A, certitude modérée à faible] (PMID 30371961, reprise de la [fiche HbA1c](fiche:biomarqueur-hba1c)) |\n\nLecture : les deux cohortes se contredisent partiellement (excès de mortalité à la glycémie à jeun au Japon, pas en Chine). Aucune ne prouve qu'abaisser une glycémie à jeun de 1,05 à 0,95 g/L change l'espérance de vie ; ce sont des associations. L'HGPO apporte une information que la glycémie à jeun seule ne donne pas (PMID 42063461), mais elle est lourde et peu reproductible : une revue souligne une reproductibilité seulement « modérée » de l'IFG et de l'IGT à l'HGPO (PMID 41759934, avis d'experts sur le don de rein, résumé relu).",
+   "titre": "Ce que dit la preuve (valeur prédictive, utilité clinique)"
+  },
+  {
+   "markdown": "- **Jeûne** : ≥ 8 h (ADA), 10 à 12 h (HAS). Un prélèvement non à jeun ne se compare pas aux seuils à jeun.\n- **Leviers sourcés sur la glycémie / le risque de diabète** : mode de vie intensif (perte de poids, activité), metformine ; niveaux de preuve dans [Glycémie et prédiabète](fiche:glycemie-et-prediabete) et [metformine](fiche:metformine). Régime à faible index glycémique : [fiche](fiche:regime-faible-index-glycemique). Compléments (cannelle, berbérine, vinaigre) : [cannelle](fiche:cannelle), [berbérine](fiche:berberine), [vinaigre](fiche:vinaigre-de-cidre), niveaux de preuve dans la fiche liée.\n- **Médicaments qui élèvent la glycémie** (corticoïdes, certains antipsychotiques, thiazidiques…), **maladie aiguë, stress, mauvais sommeil, délai/conservation du tube** : effets connus en pratique mais non relus dans une source ici [?]. Voir [sommeil](fiche:sommeil) pour le lien général sommeil-métabolisme.\n- **Anémie, carence en fer** : n'affectent pas la glycémie, mais faussent l'HbA1c : raison de préférer la glycémie dans ces cas (voir [HbA1c](fiche:biomarqueur-hba1c)).",
+   "titre": "Ce qui fait varier le résultat (leviers, médicaments, compléments, conditions de prélèvement)"
+  },
+  {
+   "markdown": "- **Glycémie à jeun 1,10–1,25 g/L** (HAS) : informer, mode de vie (activité, alimentation, sédentarité), contrôle annuel par glycémie veineuse à jeun ; aucun médicament dans le texte HAS lu (consulté le 2026-10-13, d'après la [fiche liée](fiche:glycemie-et-prediabete)).\n- **≥ 1,26 g/L** : confirmer par un 2e dosage à jeun, hors maladie intercurrente ; ≥ 2 g/L avec symptômes = diagnostic d'emblée (HAS).\n- Chercher les causes d'élévation transitoire avant de poser une étiquette : infection, corticoïdes, jeûne insuffisant.\n- Prise en charge du diabète confirmé : hors périmètre de cette fiche.",
+   "titre": "Que faire d'un résultat anormal"
+  },
+  {
+   "markdown": "- Dépistage sur facteurs de risque (questionnaire FINDRISC) puis glycémie veineuse à jeun (HAS 2025, d'après la [fiche liée](fiche:glycemie-et-prediabete)). Pas de fréquence de dépistage chiffrée pour la population générale trouvée ; la HAS a lancé en janvier 2026 l'actualisation de sa recommandation de 2003, sans version finale (consulté le 2026-10-08, via la fiche liée).\n- HGPO 75 g : indication et remboursement non recherchés [?].",
+   "titre": "Qui, quand, comment (fréquence, remboursement)"
+  },
+  {
+   "markdown": "Examen de biologie médicale. Remboursement et prix de la glycémie à jeun : non consultés (nomenclature NABM) [?]. Aucune allégation produit à évaluer.",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Comparer un résultat à un seuil sans savoir quelle source l'a fixé (ADA 100 vs OMS/HAS 110 mg/dL).\n- Conclure « diabète » sur un dosage isolé sans symptôme : confirmation exigée.\n- Conclure « tout va bien » sur une glycémie à jeun normale : l'intolérance au glucose (2 h) et l'HbA1c peuvent signaler un risque de mortalité plus élevé (PMID 42063461).\n- Glycémie capillaire ou capteur pour poser un diagnostic : la HAS parle de glycémie **veineuse** à jeun ; la fiabilité d'un capteur pour diagnostiquer n'est pas établie dans les sources lues [?].",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Mes pics de glycémie en CGM prouvent un prédiabète »** : un pic postprandial est physiologique ; aucun essai ne montre qu'agir sur ces pics réduit le diabète ou les événements chez le non-diabétique [?] (voir [fiche liée](fiche:glycemie-et-prediabete)).\n- **« Un prédiabète finit toujours en diabète »** : 33 à 59 % reviennent à la normale en 1 à 5 ans (PMID 30371961).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Selon le test choisi, la prévalence du prédiabète varie de 3,0 % à 26,1 % dans la même population (PMID 42063461).\n- Le prédiabète défini par la glycémie à jeun n'a pas montré d'excès de mortalité dans la grande cohorte chinoise, alors que celui défini à 2 h en montre un (PMID 42063461).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Glycémie à jeun ≥ 1,26 g/L, ou ≥ 2 g/L à n'importe quel moment avec soif intense, polyurie, amaigrissement inexpliqué ; antécédents familiaux de diabète avec surpoids ou hypertension ; deux résultats à jeun en zone 1,10–1,25 g/L : parler du suivi annuel.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 41358893 — ADA, Diagnosis and Classification of Diabetes: Standards of Care in Diabetes-2026. *Diabetes Care* 2026. doi:10.2337/dc26-S002 (métadonnées relues ; les seuils sont repris de la [fiche liée](fiche:glycemie-et-prediabete), le résumé PubMed ne les contient pas).\n- PMID 42063461 — Zhang M et al., Associations of Different Definitions of Prediabetes and Diabetes with All-Cause and Cause-Specific Mortality. *Mil Med Res* 2026. doi:10.1016/j.mmr.2026.100028\n- PMID 33441421 — Islam Z et al., Prediabetes, Diabetes, and Risk of All-Cause and Cause-Specific Mortality in a Japanese Working Population (J-ECOH). *Diabetes Care* 2021. doi:10.2337/dc20-1213\n- PMID 30371961 — Richter B et al., Development of type 2 diabetes in people with intermediate hyperglycaemia. *Cochrane Database Syst Rev* 2018. doi:10.1002/14651858.CD012661.pub2\n- PMID 41759934 — Personal viewpoint: risk stratification of living kidney donor candidates with prediabetes. *Am J Transplant* (résumé relu ; avis d'experts, utilisé seulement pour la reproductibilité de l'HGPO).\n- HAS, Parcours de soins du patient adulte vivant avec un DT2 : 14 messages clés (2025), lu le 2026-10-13 (via la fiche liée).\n- OMS/IDF, Definition and diagnosis of diabetes mellitus and intermediate hyperglycaemia (2006), https://www.who.int/publications/i/item/definition-and-diagnosis-of-diabetes-mellitus-and-intermediate-hyperglycaemia (page consultée le 2026-11-01 ; PDF non lu).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : glycémie à jeun et hyperglycémie provoquée (HGPO)",
+ "type": "biomarqueur",
+ "unite": "g/L"
+}

@@ -1,0 +1,84 @@
+{
+ "cibles": [
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "peptide",
+ "id": "foxo4-dri",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "bilans-biologiques",
+  "exercice-physique",
+  "metformine",
+  "mots-c-et-ss-31",
+  "rapamycine",
+  "sommeil",
+  "telomeres"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28340339",
+  "31959736",
+  "33996787",
+  "39994346",
+  "41625068",
+  "36515093",
+  "38956196",
+  "40593617"
+ ],
+ "preuve_globale": "C",
+ "resume": "Peptide conçu en laboratoire pour perturber l'interaction FOXO4-p53 et déclencher l'apoptose des cellules sénescentes. Publié en 2017 : bien toléré chez la souris dans les conditions de l'étude, il a neutralisé la toxicité de la doxorubicine et amélioré la forme physique, la densité du pelage et…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Peptide conçu en laboratoire pour perturber l'interaction FOXO4-p53 et déclencher l'apoptose des cellules sénescentes. Publié en 2017 : bien toléré chez la souris dans les conditions de l'étude, il a neutralisé la toxicité de la doxorubicine et amélioré la forme physique, la densité du pelage et la fonction rénale de souris vieillissantes (rapide ou naturelle) [C] (PMID 28340339).\n- **Aucun essai humain trouvé** [?], PubMed interrogé le 2026-10-14. Les publications ultérieures sont des études de cellules et de souris : testicule de la souris âgée (PMID 31959736), chondrocytes humains cultivés (PMID 33996787), fibroblastes de chéloïde (PMID 39994346), cellules endothéliales en culture et aorte de souris âgées, avec amélioration de la fonction aortique rapportée par les auteurs [C] (PMID 41625068).\n- **Signal de risque** : dans un modèle murin d'hypertension pulmonaire, l'élimination des cellules sénescentes, y compris avec le FOXO4-DRI et l'ABT263, a aggravé la maladie [C] (PMID 36515093). Les cellules endothéliales sénescentes représentaient une part notable des cellules sénescentes du poumon sain dans cette étude : « éliminer les cellules sénescentes » n'est pas neutre.\n- Le seul « sénolytique » testé chez l'humain dans des essais randomisés est une association de médicaments détournés (dasatinib + quercétine), sans bénéfice net : un essai de phase 2 chez 60 femmes ménopausées n'a pas atteint son critère principal osseux [B, ECR unique n=60, négatif] (PMID 38956196).\n- Statut : aucun médicament dans la base publique des médicaments ; vendu comme « peptide de recherche ».",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Les cellules sénescentes survivent en partie parce que FOXO4 retient p53 dans le noyau ; le FOXO4-DRI, un peptide conçu pour perturber l'interaction FOXO4-p53, libère p53, qui sort du noyau et déclenche l'apoptose des seules cellules sénescentes [C, D] (PMID 28340339).\n- Sa cible a été précisée : le domaine de transactivation désordonné de p53 est la cible de FOXO4 et du FOXO4-DRI (PMID 40593617) [D].",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Vieillissement accéléré (souris XpdTTD/TTD) et naturel | Meilleure forme physique, densité du pelage et fonction rénale ; neutralise la toxicité de la doxorubicine ; article princeps, rédigé par l'équipe qui a conçu le peptide | [C] (PMID 28340339) |\n| Insuffisance en testostérone liée à l'âge (cellules de Leydig), souris âgées | Amélioration du microenvironnement testiculaire et de la sécrétion de testostérone | [C] (PMID 31959736) |\n| Chondrocytes humains cultivés in vitro | Élimine sélectivement les cellules sénescentes dans les cultures | [D] (PMID 33996787) |\n| Hypertension pulmonaire (souris, rat) | L'élimination des cellules sénescentes par plusieurs méthodes, dont le FOXO4-DRI, **aggrave** le développement et la progression de la maladie | [C, effet délétère] (PMID 36515093) |\n| Humain (vieillissement, testostérone, articulations, peau) | Aucun essai trouvé | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet (règle 7 : pas de posologie). La pureté et l'identité des flacons du marché gris sont inconnues sans analyse [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **France** : aucune occurrence « FOXO4 » dans les fichiers CIS_bdpm et CIS_COMPO_bdpm de la base publique des médicaments (BDPM, téléchargés le 2026-10-14). Pas de nom dans la mise en garde ANSM sur les « peptides » vendus en ligne, dont le message général s'applique (« Ces produits n'ont pas été évalués par les autorités de santé et ne sont pas autorisés », ANSM, 2026-07-02 mise à jour 2026-08-31, consultée le 2026-10-14).\n- **AMA** : non cité nommément (recherche dans le texte de la Liste 2026 (PDF WADA, consulté le 2026-10-14) : aucune mention nominative) ; substance sans approbation, elle relève de S0 par la définition de la classe (l'AMA ne publie pas de classement nominatif).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Sécurité humaine : aucune donnée [?].\n- **Risque d'élimination de cellules utiles** : effet aggravant sur l'hypertension pulmonaire chez l'animal (PMID 36515093) [C]. La cible, la voie p53, est un gardien du cycle cellulaire ; les conséquences à long terme d'une inhibition répétée du lien FOXO4-p53 chez l'humain sont inconnues [?].\n- Cicatrisation, grossesse, cancer en rémission : aucune donnée trouvée [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Risques génériques : sous-dosage, mauvaise molécule, contamination, endotoxines (ANSM, consultée le 2026-10-14). Analyse de flacons de FOXO4-DRI : aucune trouvée [?].",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- Aucune alternative « sénolytique » autorisée n'existe : la seule association testée chez l'humain (dasatinib + quercétine) n'a pas montré de bénéfice net sur l'os, et le dasatinib est un médicament anticancéreux (PMID 38956196).\n- Leviers dont l'effet clinique est mieux établi : [exercice physique](fiche:exercice-physique), [sommeil](fiche:sommeil), [alimentation](fiche:alimentation), suivi des facteurs de risque ([bilans biologiques](fiche:bilans-biologiques)).\n- Testostérone basse symptomatique : bilan endocrinologique plutôt qu'un peptide expérimental (voir [sexualité](../../vues/themes/sexualite.md)).\n- Pas de protocole de dosage ni d'injection, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).\n\nVoir aussi : [rapamycine](fiche:rapamycine), [métformine](fiche:metformine) et [télomères](fiche:telomeres) (autres pistes « anti-âge » et leur niveau de preuve), [MOTS-c et SS-31](fiche:mots-c-et-ss-31).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Baar MP et al. *Cell* 2017 — PMID 28340339 — [DOI](https://doi.org/10.1016/j.cell.2017.02.031)\n2. Born E et al. *Circulation* 2023 — PMID 36515093 — [DOI](https://doi.org/10.1161/CIRCULATIONAHA.122.058794)\n3. Zhang C et al. *Aging (Albany NY)* 2020 — PMID 31959736 — [DOI](https://doi.org/10.18632/aging.102682)\n4. Huang Y et al. *Front Bioeng Biotechnol* 2021 — PMID 33996787 (chondrocytes humains cultivés ; résumé relu le 2026-10-14 : plus de la moitié des cellules PDL9 éliminées, pas d'effet significatif sur PDL3, pas d'amélioration de la chondrogenèse).\n5. Kong YX et al. *Commun Biol* 2025 — PMID 39994346 (fibroblastes et cultures d'organe de chéloïde humaine ; résumé relu le 2026-10-14).\n6. Hu Z et al. *Front Bioeng Biotechnol* 2025 — PMID 41625068 (souris âgées ou progéroïdes, aorte, et cellules endothéliales ; résumé relu le 2026-10-14).\n7. Bourgeois B et al. *Nat Commun* 2025 — PMID 40593617 (structure RMN du complexe p53-FOXO4-DRI ; résumé relu le 2026-10-14).\n8. Farr JN et al. *Nat Med* 2024 — PMID 38956196 — [DOI](https://doi.org/10.1038/s41591-024-03096-2)\n9. BDPM, fichiers CIS_bdpm et CIS_COMPO_bdpm, téléchargés le 2026-10-14.\n10. ANSM, « “Peptides” vendus en ligne : ne les utilisez pas, ils peuvent être dangereux », 2026-07-02, mis à jour 2026-08-31 — https://ansm.sante.fr/actualites/peptides-vendus-en-ligne-ne-les-utilisez-pas-ils-peuvent-etre-dangereux (consulté le 2026-10-14)\n11. AMA, Liste des interdictions 2026, classe S0 (consultée le 2026-10-14).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "FOXO4-DRI (peptide sénolytique)",
+ "type": "actif",
+ "unite": ""
+}

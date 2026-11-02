@@ -1,0 +1,65 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "cosmetique",
+ "id": "skinceuticals-c-e-ferulic",
+ "intro": "",
+ "liens": [
+  "geek-gorgeous-c-glow",
+  "vitamine-c"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "18603326",
+  "16185284",
+  "11207686"
+ ],
+ "preuve_globale": "B",
+ "resume": "La formule exacte testée chez l'humain pour la photoprotection, mais à environ dix fois le prix d'un sérum de composition comparable : on paie la marque, pas une preuve supplémentaire.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "La formule exacte testée chez l'humain pour la photoprotection, mais à environ dix fois le prix d'un sérum de composition comparable : on paie la marque, pas une preuve supplémentaire.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- INCI : Aqua, Dipropylene Glycol, Ascorbic Acid, Glycerin, Laureth-23, Phenoxyethanol, Tocopherol, Ferulic Acid, Sodium Hyaluronate (site de pharmacie, consulté le 2026-10-03).\n- Concentrations déclarées : acide L-ascorbique 15 %, vitamine E 1 %, acide férulique 0,5 %.\n- Cette combinaison (15 % / 1 % / 0,5 %) réduit érythème, cellules de coup de soleil et dimères de thymine sous UV chez l'humain [B] et double la photoprotection sur peau de porc [C]. Effet anti-rides de la vitamine C seule : petits essais [B]. Détail : [vitamine C](fiche:vitamine-c).",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Cosmétique (règlement (CE) n° 1223/2009). Aucun des trois actifs n'est restreint par les règlements 2022/1176 et 2024/996 (EUR-Lex, consulté le 2026-10-03).",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- « Rides et ridules −36 %, fermeté +37 %, éclat +44 % » : chiffres du fabricant, pas d'étude correspondante trouvée sur PubMed [M].\n- « Efficace au moins 72 heures » : cohérent avec la demi-vie tissulaire d'environ 4 jours mesurée sur peau de porc [C] ; pas de mesure clinique publiée trouvée pour ce produit [?].\n- Photoprotection : réelle en complément d'un écran [B], pas à la place.",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Le matin, 2 à 3 gouttes sur visage, cou (consigne du fabricant), puis écran solaire. Conserver bouchon fermé, à l'abri de la lumière ; un sérum qui brunit s'est oxydé.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix relevés (30 ml) : 127,89 € (Pharmacie City Pharma) à 179,00 € (ParaetPharmacie) ; 139,99 € (IllicoPharma), 161,26 € (Pharmacie du Polygone) (relevés du 2026-10-03).\n- Durée : 2 à 3 gouttes par jour (≈ 0,1 à 0,25 ml, estimation personnelle) → un flacon dure environ 4 mois si l'oxydation le permet → 32 à 45 €/mois.\n- Alternative à composition comparable : [Geek & Gorgeous C-Glow](fiche:geek-gorgeous-c-glow) (15 % acide L-ascorbique + vitamine E + férulique, 12,50–14,99 € les 30 ml). Elle n'a pas été testée en essai ; SkinCeuticals non plus en tant que produit commercial, seule la formule l'a été.",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non recherchés [?]. Odeur et texture : non documentées ici.",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Composition et prix : [Pharmacie du Polygone](https://www.pharmaciepolygone.com/fr/products/skinceuticals-c-e-ferulic-serum-antioxydant-30ml), [IllicoPharma](https://www.illicopharma.com/skinceuticals/29460-c-e-ferulic-30ml-skinceuticals-0635494363210.html), [Pharmacie City Pharma](https://pharmacie-citypharma.fr/en/skin-ceuticals-c-e-ferulic-serum-antioxidant-anti-wrinkle-vitamin-c-30ml), [ParaetPharmacie](https://paraetpharmacie.com/25-30-ans/11794-skinceuticals-c-e-ferulic-30ml.html) (consultés le 2026-10-03)\n- Preuves : voir [vitamine C](fiche:vitamine-c) (PMID 18603326, 16185284, 11207686)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "true",
+ "statut_fr": "cosmetique",
+ "titre": "SkinCeuticals C E Ferulic (30 ml)",
+ "type": "produit",
+ "unite": ""
+}

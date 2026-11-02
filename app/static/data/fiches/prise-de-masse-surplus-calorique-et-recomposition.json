@@ -1,0 +1,85 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "alimentation",
+ "id": "prise-de-masse-surplus-calorique-et-recomposition",
+ "intro": "Côté nutrition de la prise de muscle. L'entraînement est dans [hypertrophie : volume, fréquence, échec](fiche:hypertrophie-volume-frequence-et-proximite-de-lechec) ; les protéines en poudre et la créatine dans fiches dédiées ([protéines](fiche:proteines), [créatine](fiche:creatine)). Preuve globale B : les méta-analyses existent pour le déficit et les protéines, mais le **surplus optimal** et la **vitesse de prise** reposent sur très peu d'essais.",
+ "liens": [
+  "alimentation",
+  "creatine",
+  "hypertrophie-volume-frequence-et-proximite-de-lechec",
+  "jeune-intermittent-et-restriction-calorique",
+  "proteines",
+  "sarcopenie"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "21851204",
+  "42099260",
+  "34623696",
+  "28698222",
+  "31794597",
+  "41940947",
+  "35019903",
+  "40673785",
+  "36231929",
+  "42280443",
+  "39543795"
+ ],
+ "preuve_globale": "B",
+ "resume": "Surplus : un seul ECR vérifié (21 athlètes d'élite, 8-12 semaines de musculation) : avec un surplus de 506 ± 84 kcal/j, la masse maigre augmente de 2,8 % contre aucun changement avec une alimentation libre ; masse corporelle +4,3 % vs +1,0 % [B, ECR n=21] (PMID 21851204). Vitesse de prise optimal…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Surplus** : un seul ECR vérifié (21 athlètes d'élite, 8-12 semaines de musculation) : avec un surplus de 506 ± 84 kcal/j, la masse maigre augmente de 2,8 % contre aucun changement avec une alimentation libre ; masse corporelle +4,3 % vs +1,0 % [B, ECR n=21] (PMID 21851204). Vitesse de prise optimale (g/semaine) et taille du surplus optimal : non établies [?]. Une revue narrative avance 200-500 kcal/j [B, avis de revue, pas un résultat mesuré] (PMID 42099260).\n- **Déficit = frein à la prise de muscle** : en déficit, les gains de masse maigre sont réduits (ES -0,57) alors que les gains de force sont comparables ; un déficit d'environ 500 kcal/j a annulé les gains de masse maigre dans la méta-régression [A] (PMID 34623696).\n- **Protéines** : au-delà de ~1,6 g/kg/j d'apport total, pas de gain supplémentaire de masse maigre en musculation [A] (PMID 28698222) ; au-dessus de l'apport recommandé (0,8 g/kg/j), +0,77 kg de masse maigre avec musculation (3 comparaisons seulement) et +0,36 kg de masse maigre préservée en restriction énergétique [A, petits nombres] (PMID 31794597).\n- **Recomposition** (perdre du gras et gagner de la masse sans graisse en même temps) : un ECR chez des participants entraînés (n=30, 10 semaines, musculation 4 jours/semaine, protéines ~2,5 g/kg/j) montre +1 kg de masse sans graisse en isocalorique comme en déficit modéré, contre aucun changement dans le groupe sans suivi [B, ECR n=30, mesure DXA] (PMID 41940947). Chez des femmes âgées non entraînées, un apport protéique moyen ou élevé améliore la recomposition vs un apport faible [B, analyse rétrospective] (PMID 35019903).\n- **Répartition en repas** : 3 vs 5 repas riches en protéines, même apport total : mêmes gains (ECR de 32 randomisés, 18 analysés) [B, ECR petit, taux d'abandon élevé] (PMID 40673785).\n- **Régime cétogène** : pas de différence de masse maigre pour la cétogène (5 études, 111 participants) [A, petit nombre] (PMID 36231929).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "La synthèse de tissu musculaire demande de l'énergie et des acides aminés ; un déficit énergétique prolongé réduit la réponse anabolique à la musculation (les auteurs de la méta-analyse parlent d'altération des hormones anaboliques et de la synthèse protéique, en introduction, sans l'avoir mesurée dans l'analyse) (PMID 34623696). Le détail moléculaire (mTOR, leucine par repas) n'est pas repris ici [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Tag |\n|---|---|---|\n| Surplus calorique et masse maigre | surplus 506 ± 84 kcal/j sur 8-12 semaines, 4 séances/semaine ; masse maigre +2,8 % (puis +4,4 % à 12 mois) vs inchangée sans guidage ; la composition en graisse n'a pas été extraite du résumé (PMID 21851204) | [B, ECR n=21] |\n| Taille du surplus, vitesse de prise | pas de comparaison de plusieurs surplus trouvée dans la recherche [?] | [?] |\n| Déficit et gains de muscle | masse maigre ES -0,57 (p = 0,02) pour musculation + déficit vs sans déficit ; force ES -0,31 (p = 0,28) ; déficit de ~500 kcal/j : gain de masse maigre annulé (PMID 34623696) | [A, méta-régression] |\n| Protéines au-dessus de l'apport recommandé | masse maigre +0,32 kg (IC 0,01 à 0,64) toutes comparaisons ; +0,36 kg en restriction (14 comparaisons) ; +0,77 kg avec musculation (3 comparaisons) ; pas d'effet hors stress (7) (PMID 31794597) | [A, hétérogène] |\n| Plafond d'apport protéique en musculation | 1,62 g/kg/j (rupture de pente) (49 études, 1863 participants) (PMID 28698222) | [A] |\n| Recomposition, entraînés | 30 participants de 23 ans, 10 semaines : masse maigre +0,97 kg (isocalorique) et +1,04 kg (déficit modéré), graisse -1,41 kg (p = 0,051) et -2,94 kg (p < 0,001) ; contrôle sans suivi : aucun changement (PMID 41940947) | [B, ECR n=30] |\n| Recomposition, femmes âgées (analyse rétrospective) | 130 femmes de 68,7 ans, 24 semaines de musculation ; masse musculaire +5,4 % (apport moyen) et +5,1 % (apport élevé) vs +2,3 % (faible apport) ; réduction de graisse similaire (PMID 35019903) | [B, rétrospectif, apports habituels] |\n| Répartition protéique | 3 vs 5 repas, même apport : masse maigre +1,15 vs +0,63 kg, surface du quadriceps +3,41 vs +2,53 cm², sans différence entre groupes ; 18 sur 32 randomisés ont terminé (PMID 40673785) | [B, ECR petit] |\n| Régime cétogène sans restriction énergétique programmée | pas de différence de masse maigre vs régime de contrôle (PMID 36231929) | [A, 5 études] |\n| Jeûne intermittent | perte de masse sans graisse chez jeunes et plus âgés dans 28 ECR (1833 sujets), certitude faible à très faible (PMID 42280443) | [A, faible certitude] |\n| Glucides, rythme de prise de poids en g/semaine | non extraits de façon vérifiée [?] | [?] |\n\nLimites : la masse « sans graisse » mesurée par DXA inclut l'eau et le glycogène, donc ne dit pas à elle seule que du muscle a été gagné ; la correction de la masse maigre pour le tissu adipeux est discutée (PMID 39543795, pas détaillée ici).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Cible d'apport total ~1,6 g/kg/j pour maximiser la masse maigre en musculation [A] (PMID 28698222). Les valeurs de 1,6 à 2,2 g/kg/j chez l'entraîné sont avancées par une revue narrative [B, avis] (PMID 42099260). Un ECR de 10 semaines utilise ~2,5 g/kg/j en recomposition [B] (PMID 41940947).\n- Le supplément protéique ajoute peu : +0,30 kg de masse maigre en moyenne [A] (voir [protéines](fiche:proteines)).\n- Répartition : pas de supériorité démontrée de 5 repas sur 3 à apport total égal [B] (PMID 40673785). Les repères « 0,4-0,5 g/kg par repas » viennent d'une revue narrative [B, avis] (PMID 42099260).\n- Reins sains : pas de signal à court terme (voir [protéines](fiche:proteines)) ; maladie rénale : avis médical.",
+   "titre": "Protéines"
+  },
+  {
+   "markdown": "- Pour construire du muscle, éviter un déficit prolongé ; pour perdre du gras en gardant du muscle, la méta-régression conclut à éviter les déficits > 500 kcal/j [A] (PMID 34623696).\n- Protéines élevées et musculation protègent la masse maigre en restriction énergétique [A] (PMID 31794597).\n- Voir [jeûne intermittent et restriction calorique](fiche:jeune-intermittent-et-restriction-calorique) pour l'effet sur le poids.",
+   "titre": "Déficit, sèche et perte de muscle"
+  },
+  {
+   "markdown": "- **« Il suffit de manger beaucoup »** : dans l'ECR, les athlètes à alimentation libre n'ont pas gagné de masse maigre malgré 4 séances/semaine ; le groupe avec surplus guidé en a gagné (+2,8 %) [B, ECR n=21] (PMID 21851204). L'inverse (surplus énorme = plus de muscle) n'est pas testé ; la part de graisse gagnée n'est pas documentée dans le résumé lu [?].\n- **« 2 à 3 g de protéines par kg »** : le point de rupture de la méta-analyse est à 1,62 g/kg/j ; au-delà, aucun gain supplémentaire de masse maigre en musculation [A] (PMID 28698222). Une méta-analyse compare à l'apport recommandé, pas à 1,6 g/kg/j : l'intérêt de 2 g/kg/j ou plus en déficit n'est donc pas tranché par ces sources [?].\n- **« Il faut 6 repas par jour »** : 3 repas ou 5 repas à apport égal, même résultat [B] (PMID 40673785).\n- **« Régime cétogène pour sécher en gardant le muscle »** : pas de différence de masse maigre dans les 5 études disponibles, avec adhésion décrite comme difficile [A, petit nombre] (PMID 36231929).\n- **« Jeûne intermittent = sèche sans perte de muscle »** : perte de masse sans graisse observée dans les ECR agrégés [A, faible certitude] (PMID 42280443).\n- **« La recomposition est impossible quand on est entraîné »** : observée dans un ECR de 10 semaines chez des participants entraînés de 23 ans [B] (PMID 41940947) ; chez des sujets très avancés et sur la durée, non établi [?]. Le résultat est mesuré par DXA (masse sans graisse ≠ muscle seul).\n- **« Le gainer apporte quelque chose de spécial »** : non évalué ici ; aucune donnée comparative sur les gainers trouvée [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Non applicable (alimentation). Statut des compléments : voir [protéines](fiche:proteines).",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- Surplus prolongé : prise de graisse viscérale, glycémie, lipides ; données du surplus modéré non extraites dans la recherche [?].\n- Troubles du comportement alimentaire, diabète, maladie rénale, grossesse : avis médical avant tout surplus ou déficit planifié.\n- Adolescents et seniors : besoins différents ; sarcopénie : voir [sarcopénie](fiche:sarcopenie).",
+   "titre": "Sécurité, contre-indications"
+  },
+  {
+   "markdown": "Aucun produit spécifique. Voir [protéines](fiche:proteines), [créatine](fiche:creatine), [alimentation](fiche:alimentation).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 21851204 — Garthe I. et al., *Appl Physiol Nutr Metab* 2011 (conseils nutritionnels, athlètes d'élite). doi:10.1139/h11-051\n- PMID 34623696 — Murphy C., Koehler K., *Scand J Med Sci Sports* 2022 (déficit énergétique et gains en musculation). doi:10.1111/sms.14075\n- PMID 31794597 — Hudson J.L. et al., *Adv Nutr* 2020 (protéines > RDA et masse maigre). doi:10.1093/advances/nmz106\n- PMID 28698222 — Morton R.W. et al., *Br J Sports Med* 2018 (protéines et musculation). doi:10.1136/bjsports-2017-097608\n- PMID 41940947 — Vargas-Molina S. et al., *Eur J Appl Physiol* 2026 (recomposition, deux protocoles). doi:10.1007/s00421-026-06209-6\n- PMID 35019903 — Ribeiro A.S. et al., *Med Sci Sports Exerc* 2022 (recomposition, femmes âgées). doi:10.1249/MSS.0000000000002855\n- PMID 40673785 — Tavares H. et al., *J Sports Med Phys Fitness* 2025 (fréquence protéique). doi:10.23736/S0022-4707.25.16698-X\n- PMID 36231929 — Vargas-Molina S. et al., *Int J Environ Res Public Health* 2022 (cétogène). doi:10.3390/ijerph191912629\n- PMID 42280443 — Xing K. et al., *Nutrients* 2026 (jeûne intermittent par âge). doi:10.3390/nu18111799\n- PMID 39543795 — Moore S.R. et al., *Clin Physiol Funct Imaging* 2025 (correction FFAT en DXA). doi:10.1111/cpf.12915\n- PMID 42099260 — Vergara Nieto A.A. et al., *Sports Health* 2026 (revue narrative, hypertrophie). doi:10.1177/19417381261438760\n\nRéférences relues contre leur résumé PubMed le 2026-10-13.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Prise de masse : surplus calorique, recomposition, protéines et déficit",
+ "type": "actif",
+ "unite": ""
+}

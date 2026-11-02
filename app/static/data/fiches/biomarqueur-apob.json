@@ -1,0 +1,99 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-apob",
+ "intro": "Fiche « examen » : quoi mesurer, comment lire le résultat, ce qu'on en fait. Traitements, cibles de LDL-C et statut des médicaments : [ApoB, lipides et statines](fiche:apob-lipides-et-statines) et [statines](fiche:statines).",
+ "liens": [
+  "alimentation",
+  "apob-lipides-et-statines",
+  "auto-experimentation",
+  "biomarqueur-ldl-cholesterol-total-hdl",
+  "biomarqueur-lipoproteine-a",
+  "biomarqueur-triglycerides-non-hdl-remnants",
+  "exercice-physique",
+  "statines"
+ ],
+ "marqueurs": [
+  "apob"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 11,
+ "nb_seuils": 6,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28444290",
+  "22797450",
+  "36125206",
+  "39322327",
+  "42105322",
+  "41617625",
+  "31504418",
+  "27122601",
+  "42287590",
+  "42579320",
+  "31591002"
+ ],
+ "preuve_globale": "B",
+ "resume": "L'ApoB compte les particules athérogènes (une molécule d'ApoB par particule : LDL, VLDL, remnants, Lp(a)), là où le LDL-C mesure le cholestérol qu'elles transportent (voir ApoB, lipides et statines, PMID 28444290).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- L'ApoB **compte les particules** athérogènes (une molécule d'ApoB par particule : LDL, VLDL, remnants, Lp(a)), là où le LDL-C mesure le cholestérol qu'elles transportent (voir [ApoB, lipides et statines](fiche:apob-lipides-et-statines), PMID 28444290).\n- Gain de prédiction **faible en population générale** : ajouter ApoB/ApoA-I à cholestérol total + HDL-C change le C-index de +0,0006 (37 cohortes, 165 544 sujets) [A, cohortes] (PMID 22797450). La supériorité de l'ApoB sur le non-HDL-C est débattue, pas établie (randomisation mendélienne : le non-HDL-C suffit) [B] (PMID 36125206).\n- Utilité réelle : quand LDL-C et nombre de particules **divergent** (triglycérides élevés, diabète, syndrome métabolique) [B, cohortes] (voir Discordance).\n- **Aucun essai randomisé n'a comparé un traitement guidé par l'ApoB à un traitement guidé par le LDL-C** [?] (recherche PubMed 2026-10-13 dans [la fiche liée](fiche:apob-lipides-et-statines)) : l'ApoB n'a pas de traitement propre, c'est un moyen de suivre la même baisse de LDL.\n- Prix, remboursement et nomenclature en France : non établis [?] (voir Statut).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Une particule athérogène = une ApoB. ApoB ≈ nombre de particules ; LDL-C ≈ cargo en cholestérol. Une personne peut avoir peu de cholestérol par particule mais beaucoup de particules (profil « petites LDL ») : LDL-C « normal », ApoB élevée.\n- Les remnants riches en triglycérides sont environ 4 fois plus athérogènes par particule que le LDL (randomisation mendélienne) [B] (PMID 39322327, cité dans la [fiche liée](fiche:apob-lipides-et-statines)).\n- Unités : g/L ou mg/dL (1 g/L = 100 mg/dL). Ne pas comparer à un seuil d'une autre unité.",
+   "titre": "Mécanisme et ce que mesure l'examen"
+  },
+  {
+   "markdown": "| Étude | Résultat | Preuve |\n|---|---|---|\n| ARIC + 5 cohortes américaines (9 238 sujets dans ARIC, 25,6 ans de suivi, 2 038 événements) | ApoB et ratio LDL-C/cholestérol total mieux associés à l'ASCVD que le LDL-C (HR par écart-type 1,20 et 1,27). Seuils : ApoB 90 mg/dL, ratio 0,60. Phénotype « ApoB et ratio élevés » : HR 1,67 ; mixtes : HR 1,28 (ApoB basse/ratio haut), association limite (ApoB haute/ratio bas) | [B, cohortes] (PMID 42105322) |\n| Hypercholestérolémie familiale hétérozygote génétiquement confirmée (424 patients, 61 événements) | Ratio ApoB/LDL-C ≥ 0,31 g/mmol : événements 27,6 % vs 11,8 % ; HR ajusté 38,55 (IC 3,72–399,36), **estimation instable** (effectifs trop petits) | [B, hypothèse de travail] (PMID 41617625) |\n\nLecture : la discordance identifie un risque résiduel, mais les seuils varient d'une étude à l'autre et aucun n'a été validé par un essai de prise en charge [?].",
+   "titre": "Discordance ApoB / LDL-C"
+  },
+  {
+   "markdown": "Conversion : 1 g/L = 100 mg/dL. Les cibles ESC sont en mg/dL, les laboratoires français rendent en g/L (65 mg/dL = 0,65 g/L). Recommandation : ESC/EAS 2019 (Mach F et al., *Eur Heart J* 2020, PMID 31504418), texte lu sur academic.oup.com, consulté le 2026-11-01 ; tableaux de cibles en images non lus pour la classe et le niveau de preuve.\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| ApoB | mg/dL | < 65 | objectif secondaire (après le LDL-C) | risque cardiovasculaire très élevé | ESC/EAS 2019, consulté le 2026-11-01 |\n| ApoB | mg/dL | < 80 | objectif secondaire | risque élevé | ESC/EAS 2019, consulté le 2026-11-01 |\n| ApoB | mg/dL | < 100 | objectif secondaire | risque modéré | ESC/EAS 2019, consulté le 2026-11-01 |\n| ApoB | g/L | ≥ 1,0 | seuil de signalement du laboratoire (pas une cible de traitement) | adulte, échantillon non à jeun | consensus EAS/EFLM 2016, PMID 27122601 (repris de la [fiche triglycérides](fiche:biomarqueur-triglycerides-non-hdl-remnants)) |\n| ApoB | mg/dL | ≥ 90 | seuil de discordance avec le ratio LDL-C/cholestérol total (0,60) associé à plus d'événements | cohortes américaines, prévention | [B, cohortes] PMID 42105322 |\n| ApoB, objectif en risque faible | | non retrouvé [?] | absent du texte ESC/EAS 2019 lu | | |\n\nLa mise à jour 2025 de l'ESC/EAS ne donne pas de cible d'ApoB dans le texte lu (cibles de LDL-C « inchangées » ; Figure 1 non lue) [?]. Voir aussi [LDL-C, cholestérol total et HDL-C](fiche:biomarqueur-ldl-cholesterol-total-hdl).",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "- Deux comparaisons de 2026 des recommandations : l'ACC/AHA 2026 donne plus de poids opérationnel à l'ApoB, au non-HDL-C, à la Lp(a) et au score calcique ; l'ESC/EAS 2025 reste fondé sur des objectifs de LDL-C par catégorie de risque [B, revues narratives comparatives] (PMID 42287590, 42579320). Cibles chiffrées d'ApoB et indications précises : non lues dans ces résumés [?]. ESC/EAS 2019 (PMID 31591002) : texte intégral non accessible.\n- Cas où l'examen a le plus de sens : triglycérides élevés, diabète de type 2 ou syndrome métabolique, LDL-C « acceptable » malgré un risque élevé, hypercholestérolémie familiale (discuter avec un médecin).\n- Prélèvement à jeun ou non : non vérifié ici [?].\n- Variation intra-individuelle de l'ApoB : non recherchée [?] (comparer avec d'autres marqueurs : voir [auto-expérimentation](fiche:auto-experimentation)). Deux mesures à quelques jours d'écart ne servent pas à « confirmer » un chiffre.",
+   "titre": "Qui, quand, comment"
+  },
+  {
+   "markdown": "Les mêmes leviers que pour le LDL-C, sans seuil d'ApoB validé par un essai : alimentation, activité physique, perte de poids, puis traitement médicamenteux décidé par le médecin selon le risque global (SCORE2). Détail et preuves : [ApoB, lipides et statines](fiche:apob-lipides-et-statines), [alimentation](fiche:alimentation), [exercice physique](fiche:exercice-physique). Pas de dosage ni de schéma ici.",
+   "titre": "Que faire d'un ApoB élevée"
+  },
+  {
+   "markdown": "Examen de biologie médicale prescrit. Cotation NABM, prix, remboursement : non retrouvés dans les sources officielles consultées (recherche web des 2026-10-16 et 2026-10-17 ; la page Biol'AM d'ameli, datée du 2026-10-09, renvoie à des fichiers XLSX par code d'acte que je n'ai pas ouverts) [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Viser « ApoB basse » comme objectif en soi, ou acheter des compléments « pour l'ApoB » : pas d'essai de cible, pas de complément démontré sur les événements (voir [fiche liée](fiche:apob-lipides-et-statines)).\n- Faire doser l'ApoB seule sans le bilan lipidique ni le risque global.\n- Comparer ApoB (g/L) et LDL-C (mmol/L) sans conversion, ou deux laboratoires entre eux.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« L'ApoB est le seul marqueur qui compte »** : le gain de prédiction est de l'ordre de +0,0006 de C-index en population générale (PMID 22797450) et le non-HDL-C fait aussi bien en randomisation mendélienne (PMID 36125206) [B].\n- **« LDL-C normal = pas de risque »** : une discordance existe chez une partie des personnes, mais son ampleur et ses seuils ne sont pas établis (PMID 42105322).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Les remnants riches en triglycérides sont environ 4 fois plus athérogènes par particule que le LDL [B, RM] (PMID 39322327). La Lp(a) est elle aussi comptée dans l'ApoB : voir [Lp(a)](fiche:biomarqueur-lipoproteine-a).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "LDL-C très élevé ou antécédent familial d'infarctus précoce : avis médical (hypercholestérolémie familiale possible) ; seuils chiffrés non relus dans ce travail [?].",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 42287590 — Comparing the 2025 ESC/EAS Focused Update and the 2026 ACC/AHA Dyslipidemia Guideline. *Cardiovasc Drugs Ther* 2026. doi:10.1007/s10557-026-07898-z\n- PMID 42579320 — Comparison of the 2025 ESC/EAS and 2026 ACC/AHA Guidelines for Dyslipidemia Management. *Eur J Prev Cardiol* 2026. doi:10.1093/eurjpc/zwag413\n- PMID 22797450 — Emerging Risk Factors Collaboration, Lipid-related markers and cardiovascular disease prediction. *JAMA* 2012.\n- PMID 36125206 — Helgadottir A et al., Cholesterol not particle concentration mediates the atherogenic risk conferred by apoB particles. *Eur J Prev Cardiol* 2022 (co-auteurs liés à Amgen/deCODE).\n- PMID 42105322 — Wang B et al., ASCVD risk stratification using ApoB and the LDL-C/TC ratio. *Eur J Prev Cardiol* 2026. doi:10.1093/eurjpc/zwag260\n- PMID 41617625 — Genedy N, Zouwail S, ApoB/LDL-C discordance in HeFH. *J Clin Lipidol* 2025. doi:10.1016/j.jacl.2025.11.008\n- PMID 28444290 — Ference BA et al., LDL cause ASCVD, consensus EAS. *Eur Heart J* 2017.\n- PMID 39322327 — remnants riches en triglycérides, randomisation mendélienne (repris de la fiche liée ; titre non relu ici).\n- PMID 27122601 — Nordestgaard BG et al., Fasting is not routinely required for determination of a lipid profile: EAS/EFLM consensus. *Eur Heart J* 2016 (résumé relu dans la [fiche triglycérides](fiche:biomarqueur-triglycerides-non-hdl-remnants)).\n- PMID 31504418 — Mach F et al., 2019 ESC/EAS Guidelines for the management of dyslipidaemias. *Eur Heart J* 2020 (texte lu sur academic.oup.com, consulté le 2026-11-01).\n- PMID 31591002 — ESC/EAS guidelines for the management of dyslipidaemias 2019. *Atherosclerosis* 2019 (résumé non disponible).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : ApoB (apolipoprotéine B)",
+ "type": "biomarqueur",
+ "unite": ""
+}

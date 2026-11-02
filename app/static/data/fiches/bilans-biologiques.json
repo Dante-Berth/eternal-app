@@ -1,0 +1,103 @@
+{
+ "cibles": [
+  "prevention",
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "",
+ "id": "bilans-biologiques",
+ "intro": "",
+ "liens": [
+  "apob-lipides-et-statines",
+  "auto-experimentation",
+  "biomarqueur-acide-urique",
+  "biomarqueur-apoa1",
+  "biomarqueur-apob",
+  "biomarqueur-bilan-hormonal-femme",
+  "biomarqueur-cortisol",
+  "biomarqueur-crp-hscrp",
+  "biomarqueur-fer-ferritine-transferrine",
+  "biomarqueur-frequence-cardiaque-repos-hrv",
+  "biomarqueur-glycemie-a-jeun-hgpo",
+  "biomarqueur-hba1c",
+  "biomarqueur-igf1-dhea-s",
+  "biomarqueur-ionogramme-calcium-magnesium",
+  "biomarqueur-ldl-cholesterol-total-hdl",
+  "biomarqueur-lipoproteine-a",
+  "biomarqueur-nfs-hemoglobine-anemie",
+  "biomarqueur-poids-imc-tour-de-taille",
+  "biomarqueur-psa",
+  "biomarqueur-tension-arterielle",
+  "biomarqueur-thyroide-tsh-t4-anti-tpo",
+  "biomarqueur-vitamine-b12-folates",
+  "biomarqueur-vitamine-d-25-oh",
+  "depistage-cancer-colorectal",
+  "depistage-cancer-prostate-psa",
+  "fer-et-ferritine",
+  "glycemie-et-prediabete",
+  "metformine",
+  "tabac-et-alcool",
+  "telomeres",
+  "tension-arterielle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "31591002",
+  "37128734",
+  "37188555",
+  "42307563",
+  "42090007",
+  "40058550"
+ ],
+ "preuve_globale": "B",
+ "resume": "Un bilan utile est prescrit par un médecin selon l'âge, les antécédents et les facteurs de risque ; il cible des maladies évitables (cardiovasculaire, diabète), pas un « âge biologique ».",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Un bilan utile est prescrit par un médecin selon l'âge, les antécédents et les facteurs de risque ; il cible des maladies évitables (cardiovasculaire, diabète), pas un « âge biologique ».\n- Lipides : la prise en charge du risque cardiovasculaire en Europe repose sur les recommandations ESC/EAS 2019 (PMID 31591002). Contenu détaillé des seuils : non relu ici (résumé non disponible dans PubMed).\n- Lp(a) : le consensus 2022 de l'European Atherosclerosis Society recommande une mesure au moins une fois dans la vie (PMID 37128734, qui le rappelle) ; elle module la gestion du risque (PMID 37188555) [B, consensus d'experts].\n- Vitamine D : la HAS cible le dosage sur des indications précises, pas en dépistage systématique (note de cadrage HAS, consultée le 2026-10-06).\n- Tests d'âge biologique et « longevity panels » grand public : utilité clinique non établie [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Un bilan sert à repérer un facteur de risque modifiable (LDL-C/ApoB, glycémie, carences) et à suivre un traitement. Un résultat isolé n'a de sens que dans un contexte clinique.",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "Ce n'est pas un traitement ; tableau des examens.\n\n| Examen | Intérêt | Preuve / recommandation | Remarque |\n|---|---|---|---|\n| Bilan lipidique (LDL-C, non-HDL, triglycérides) | Risque cardiovasculaire | ESC/EAS 2019 (PMID 31591002) | Cibles selon le risque, fixées par le médecin. |\n| ApoA-I (voir [fiche](fiche:biomarqueur-apoa1)) · CRP (voir [fiche](fiche:biomarqueur-crp-hscrp)) | Utilité limitée hors contexte | Voir fiches | Pas de dosage systématique. |\n| ApoB (voir [fiche](fiche:biomarqueur-apob)) | Complète le LDL-C quand LDL-C et nombre de particules divergent | Mentionné dans les mots-clés de ESC/EAS 2019 (PMID 31591002) ; place exacte non relue | Prescription à discuter. |\n| Lp(a) (voir [fiche](fiche:biomarqueur-lipoproteine-a)) | Facteur de risque génétique, causal | [B, consensus] mesure une fois dans la vie (PMID 37128734, 37188555) | Les thérapies spécifiques étaient en développement lors du consensus. |\n| HbA1c (voir [fiche](fiche:biomarqueur-hba1c)) / glycémie à jeun | Dépistage prédiabète et diabète | Recommandation HAS de dépistage ciblé : non consultée | Voir [metformine](fiche:metformine) : pas d'usage longévité prouvé. |\n| 25-OH vitamine D | Si indication (peu ou pas d'exposition solaire, chutes répétées, ostéoporose) | HAS, note de cadrage 2013 (consultée le 2026-10-06) | Pas de dépistage systématique. Fiche : [vitamine D (25-OH-D)](fiche:biomarqueur-vitamine-d-25-oh). |\n| Ferritine | Carence en fer, surcharge | Seuil de carence ≤ 30 ng/mL selon l'ASH 2026 ; voir [fer et ferritine](fiche:fer-et-ferritine) | Selon symptômes, sexe, règles, alimentation. |\n| TSH | Dysthyroïdie | Non sourcé ici | Selon symptômes ; pas de dépistage de masse documenté ici. Fiche : [thyroïde](fiche:biomarqueur-thyroide-tsh-t4-anti-tpo). |\n| Fonction rénale, ALAT, NFS | Sécurité des traitements, dépistage | Non sourcé ici | Prescrit au besoin. |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Non applicable. Fréquence et contenu : décision médicale.",
+   "titre": "Protocoles"
+  },
+  {
+   "markdown": "- Multiplier les dosages hormonaux ou vitaminiques sans symptôme ni indication.\n- Interpréter un résultat « dans la norme du laboratoire » comme un objectif de longévité : les normes de laboratoire ne sont pas des cibles de performance [?].\n- Ignorer la mesure de la pression artérielle, du tabagisme et de l'activité physique, qui pèsent plus.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **Tests d'âge biologique / horloges épigénétiques grand public** : revues critiques (PMID 42307563, 42090007) : ils sont promus par des cliniques de longévité et des sociétés directes au consommateur, mais la validité et l'utilité clinique d'un résultat individuel ne sont pas établies pour guider des interventions [?]. L'association de l'âge épigénétique avec des expositions (pollution, tabac) existe au niveau des groupes (PMID 40058550) [B] ; cela ne dit pas que réduire un score individuel prolonge la vie.\n- **« Longevity panels » avec dizaines de marqueurs** : aucune étude trouvée montrant un bénéfice clinique d'un tel panel chez l'adulte sain [?].\n- **Vitamine D pour tous** : voir ci-dessus.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- La Lp(a) est surtout déterminée génétiquement, d'où une seule mesure suffisante dans la vie (PMID 37188555, PMID 37128734).\n- Le consensus Lp(a) insiste sur l'unité molaire (PMID 37128734).",
+   "titre": "Ce que peu de gens savent"
+  },
+  {
+   "markdown": "Tout bilan sur indication clinique ; antécédents familiaux cardiovasculaires précoces (pour la Lp(a) et les lipides) ; symptômes.\n\nVoir aussi : [télomères](fiche:telomeres) (kits de mesure), [auto-expérimentation](fiche:auto-experimentation) (variation biologique, changement minimal détectable).\n\nVoir aussi : [Tension artérielle](fiche:tension-arterielle) · [ApoB, lipides et statines](fiche:apob-lipides-et-statines) · [Glycémie et prédiabète](fiche:glycemie-et-prediabete) · [Dépistage du cancer colorectal](fiche:depistage-cancer-colorectal) · [Dépistage du cancer de la prostate (PSA)](fiche:depistage-cancer-prostate-psa) · [Tabac et alcool](fiche:tabac-et-alcool).\n\nFiches « examen » liées : [LDL-C, cholestérol total, HDL-C](fiche:biomarqueur-ldl-cholesterol-total-hdl) · [glycémie à jeun](fiche:biomarqueur-glycemie-a-jeun-hgpo) · [acide urique](fiche:biomarqueur-acide-urique) · [ionogramme, calcium, magnésium](fiche:biomarqueur-ionogramme-calcium-magnesium) · [NFS et anémie](fiche:biomarqueur-nfs-hemoglobine-anemie) · [bilan du fer](fiche:biomarqueur-fer-ferritine-transferrine) · [B12 et folates](fiche:biomarqueur-vitamine-b12-folates) · [poids, IMC, tour de taille](fiche:biomarqueur-poids-imc-tour-de-taille) · [tension artérielle (mesure)](fiche:biomarqueur-tension-arterielle) · [fréquence cardiaque et HRV](fiche:biomarqueur-frequence-cardiaque-repos-hrv) · [bilan hormonal de la femme](fiche:biomarqueur-bilan-hormonal-femme) · [cortisol](fiche:biomarqueur-cortisol) · [PSA](fiche:biomarqueur-psa) · [IGF-1 et DHEA-S](fiche:biomarqueur-igf1-dhea-s)",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 31591002 — ESC/EAS Guidelines dyslipidaemias 2019, *Atherosclerosis* 2019. doi:10.1016/j.atherosclerosis.2019.08.014 (résumé non disponible).\n- PMID 37188555 — Kronenberg F et al., *Atherosclerosis* 2023. doi:10.1016/j.atherosclerosis.2023.04.012\n- PMID 37128734 — Diederiks NM et al., *Crit Rev Clin Lab Sci*, standardisation Lp(a).\n- PMID 42307563 — Meagher T, *J Insur Med* 2026. doi:10.17849/insm-53-2-1-5.1B\n- PMID 42090007 — Ibáñez-Cabellos JS et al., *Biogerontology* 2026. doi:10.1007/s10522-026-10447-8\n- PMID 40058550 — Fadadu RP et al., *Environ Res* 2025. doi:10.1016/j.envres.2025.121347\n- HAS, « Utilité clinique du dosage de la vitamine D », note de cadrage 2013, has-sante.fr, consultée le 2026-10-06.\n- Recommandations ESC 2021 de prévention cardiovasculaire et HAS (diabète, TSH, fer) : non retrouvées ni relues ; à approfondir.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Bilans biologiques de prévention",
+ "type": "condition",
+ "unite": ""
+}

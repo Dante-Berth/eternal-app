@@ -1,0 +1,78 @@
+{
+ "cibles": [
+  "prevention",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-18",
+ "famille": "alimentation",
+ "id": "ble-gluten-epeautre-et-cereales-anciennes",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "avoine-et-beta-glucanes",
+  "cereales-completes-et-raffinees",
+  "kamut-boulgour-et-bles-anciens",
+  "maladie-coeliaque-et-intolerances",
+  "maladies-auto-immunes-facteurs-modifiables",
+  "sarrasin-quinoa-et-pseudo-cereales"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28465308",
+  "35199850",
+  "41138740",
+  "38906536",
+  "38553358",
+  "39793259"
+ ],
+ "preuve_globale": "B",
+ "resume": "Pour qui n'a ni maladie cœliaque ni allergie, éviter le gluten n'a pas de bénéfice démontré. Cohorte de 110 017 adultes suivis 26 ans : gluten et cardiopathie coronarienne HR 0,95 (0,88-1,02) pour le cinquième le plus élevé ; après ajustement sur les céréales complètes, HR 1,00 ; l'éviction du gl…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Pour qui n'a ni maladie cœliaque ni allergie, éviter le gluten n'a pas de bénéfice démontré.** Cohorte de 110 017 adultes suivis 26 ans : gluten et cardiopathie coronarienne HR 0,95 (0,88-1,02) pour le cinquième le plus élevé ; après ajustement sur les céréales complètes, HR 1,00 ; l'éviction du gluten peut réduire la consommation de céréales complètes [B] (PMID 28465308). Revue Cochrane (1 ECR de 60 personnes et 3 études observationnelles) : pas d'association avec la mortalité cardiovasculaire (HR 1,00) ; moins de gluten associé à un risque légèrement plus élevé de diabète de type 2 (HR 1,14, 1,07-1,22), certitude faible ; la revue ne permet aucune recommandation [B, faible certitude] (PMID 35199850).\n- **La « sensibilité au gluten » est réelle en tant que symptômes, mais le gluten n'en est souvent pas la cause.** Environ 10 % des adultes déclarent une sensibilité ; lors des provocations contrôlées, 16 à 30 % ont des symptômes déclenchés par le gluten ; les glucides fermentescibles et l'effet nocebo y contribuent beaucoup ; pas de biomarqueur [B] (PMID 41138740, revue *Lancet* 2025).\n- **L'épeautre n'est pas « sans gluten » et n'est pas démontré meilleur.** Il contient du gluten (analyse protéomique : c'est le blé étudié avec le plus de peptides à épitopes actifs de la maladie cœliaque : 193 contre 63 pour le petit épeautre) [D] (PMID 38906536). Aucun essai humain trouvé sur l'épeautre, l'engrain ou l'amidonnier ; seul le kamut (blé khorasan) a quelques petits ECR contre blé moderne, voir [kamut, boulgour et blés anciens](fiche:kamut-boulgour-et-bles-anciens) [?].\n- **Les céréales « anciennes » ont peu de preuves cliniques.** Cinq petits ECR sur le kamut (n = 20 à 63) montrent de petits bénéfices sur des marqueurs [B] ([détail](fiche:kamut-boulgour-et-bles-anciens)). Méta-analyse de 29 ECR dans le diabète (dominés par l'avoine, le riz brun, le sarrasin, le chia) : un seul essai sur le blé khorasan, aucun résultat poolé sur lui [?] (PMID 38553358).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Le gluten est un ensemble de protéines du blé, du seigle et de l'orge ; il déclenche la maladie cœliaque chez les personnes prédisposées (voir [maladie cœliaque](fiche:maladie-coeliaque-et-intolerances)). Dans la sensibilité non cœliaque, le déclencheur exact est inconnu ; les fructanes (glucides fermentescibles) du blé sont une piste majeure [B] (PMID 41138740).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Gluten et maladie coronarienne (sans cœliaque) | 64 714 femmes, 45 303 hommes, 26 ans : HR 0,95 (0,88-1,02), p tendance = 0,29 ; 0,85 (0,77-0,93) en isolant la part du gluten corrélée aux céréales complètes, c'est-à-dire un effet des céréales complètes plutôt que du gluten (interprétation des auteurs : l'éviction du gluten peut priver de céréales complètes) (PMID 28465308) | [B] |\n| Gluten, mortalité CV, infarctus, diabète de type 2 | HR mortalité CV 1,00 (0,95-1,06) ; infarctus non fatal 0,99 (0,89-1,10) ; diabète de type 2 1,14 (1,07-1,22) pour moins de gluten ; tension, LDL, IMC sans différence (1 ECR, 60 personnes) (PMID 35199850) | [B, faible certitude] |\n| Sensibilité au gluten non cœliaque (SGNC) | auto-déclarée chez ~10 % ; 16-30 % de réponse en provocation ; FODMAP et nocebo (PMID 41138740) | [B] |\n| Blé complet vs raffiné | voir [céréales complètes et raffinées](fiche:cereales-completes-et-raffinees) | [B] |\n| Épeautre, engrain, amidonnier vs blé moderne (santé humaine) | aucun essai trouvé | [?] |\n| Kamut (blé khorasan) vs blé moderne | 5 petits ECR, marqueurs en légère amélioration (voir [fiche kamut](fiche:kamut-boulgour-et-bles-anciens)) | [B] |\n| Blé « moderne » plus toxique que le blé ancien | non démontré : les essais kamut mesurent des marqueurs, pas une toxicité | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Consommation de gluten dans les cohortes** : de 0-3,4 g/j (plus faible) à 6,2-38,4 g/j (plus élevée) selon la cohorte (PMID 35199850).\n- **« Sans gluten »** : 20 mg/kg maximum ; « très faible teneur en gluten » : 100 mg/kg (règlement (UE) n° 828/2014, annexe, partie A, EUR-Lex, consulté le 2026-10-18).\n- **Produits sans gluten industriels** : leur composition nutritionnelle (sucre, graisses, fibres) n'est pas évaluée dans cette fiche [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Aliment (farine, pain, pâtes, semoule, boulgour). Épeautre, engrain, amidonnier, kamut/khorasan : blés au sens botanique, donc avec gluten ; les statuts « novel food » ou autres : non recherchés [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Maladie cœliaque** : éviction stricte à vie du blé (y compris épeautre, engrain, amidonnier, kamut), du seigle et de l'orge, sous suivi médical ; le dépistage doit se faire **avant** de supprimer le gluten, sinon le résultat peut être faussé. Cadre : [maladie cœliaque et intolérances](fiche:maladie-coeliaque-et-intolerances).\n- **Allergie au blé** : entité distincte de la cœliaque et de la SGNC (Størdal 2025, PMID 39793259, titre seul) ; données non extraites [?].\n- **Régime sans gluten sans nécessité** : risque de remplacer des céréales complètes par des produits transformés (PMID 28465308) ; coût et déficits éventuels (fibres, vitamines B) : non quantifiés dans les sources lues [?].\n- **Médicaments** : aucune interaction recherchée [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Le gluten est inflammatoire pour tout le monde »** : non démontré chez les non-cœliaques ; les provocations contrôlées ne retrouvent un effet que chez 16-30 % des auto-déclarés, avec des confusions possibles (FODMAP, nocebo) [B] (PMID 41138740).\n- **« L'épeautre est plus digeste, plus sain, ou sans gluten »** : contient du gluten, et sa teneur en peptides à épitopes cœliaques est la plus élevée parmi cinq blés testés *in vitro* [D] (PMID 38906536) ; aucun essai humain trouvé sur sa digestibilité [?].\n- **« Les blés modernes ont été \"trafiqués\" et rendent malade »** : seul le kamut a été comparé au blé moderne en petits ECR (marqueurs légèrement meilleurs) ; pas de démonstration de nocivité du blé moderne [?].\n- **« Le sans gluten aide à maigrir ou protège le cœur »** : pas de bénéfice démontré chez les non-cœliaques [B, faible certitude] (PMID 28465308, 35199850).\n\nVoir aussi : [céréales complètes et raffinées](fiche:cereales-completes-et-raffinees) · [avoine et β-glucanes](fiche:avoine-et-beta-glucanes) · [kamut, boulgour, blés anciens](fiche:kamut-boulgour-et-bles-anciens) · [sarrasin, quinoa](fiche:sarrasin-quinoa-et-pseudo-cereales) · [alimentation : synthèse](fiche:alimentation) · [maladies auto-immunes : facteurs modifiables](fiche:maladies-auto-immunes-facteurs-modifiables).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 28465308 — Lebwohl et al., *BMJ* 2017 (gluten et cardiopathie coronarienne). doi:10.1136/bmj.j1892\n- PMID 35199850 — Schmucker et al., *Cochrane Database Syst Rev* 2022 (régime pauvre en gluten, prévention primaire CV). doi:10.1002/14651858.CD013556.pub2\n- PMID 41138740 — Biesiekierski et al., *Lancet* 2025 (sensibilité au gluten non cœliaque). doi:10.1016/S0140-6736(25)01533-8\n- PMID 38906536 — Norwig et al., *J Agric Food Chem* 2024 (épitopes cœliaques selon l'espèce de blé). doi:10.1021/acs.jafc.4c02657\n- PMID 38553358 — Magi et al., *Nutr Metab Cardiovasc Dis* 2024 (céréales anciennes et diabète). doi:10.1016/j.numecd.2024.03.005\n- PMID 39793259 — Størdal et al., *Semin Immunol* 2025 (cœliaque, sensibilité au blé, allergie ; titre seul).\n- Règlement (UE) n° 828/2014 (EUR-Lex, consulté le 2026-10-18).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Blé, gluten, épeautre et céréales anciennes",
+ "type": "actif",
+ "unite": ""
+}

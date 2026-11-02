@@ -1,0 +1,73 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "cosmetique",
+ "id": "aha-bha",
+ "intro": "",
+ "liens": [
+  "acide-azelaique",
+  "niacinamide",
+  "peelings",
+  "protection-solaire",
+  "retinoides",
+  "the-ordinary-matrixyl-10-ha"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "40707570",
+  "32356369",
+  "37941097"
+ ],
+ "preuve_globale": "B",
+ "resume": "Exfoliants chimiques en soin quotidien : AHA (glycolique, lactique, mandélique) hydrosolubles, BHA (salicylique) liposoluble qui pénètre le sébum. Vendus pour le « grain de peau », les pores, l'acné et l'« éclat ». Les peelings en cabinet sont dans peelings ; cette fiche traite des produits à dom…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Exfoliants chimiques en soin quotidien : **AHA** (glycolique, lactique, mandélique) hydrosolubles, **BHA** (salicylique) liposoluble qui pénètre le sébum. Vendus pour le « grain de peau », les pores, l'acné et l'« éclat ». Les peelings en cabinet sont dans [peelings](fiche:peelings) ; cette fiche traite des produits **à domicile**.\n- Le mieux établi : l'**acide glycolique réduit la rugosité** de la peau photovieillie, mais il fait partie des actifs avec le **plus d'événements indésirables** (réseau de 23 RCT, 3 905 participants) ; pour les rides fines et les taches, les rétinoïdes passent devant (tretinoïne, rétinol, isotrétinoïne) [A] (PMID 40707570).\n- Acné : acide salicylique comparé à la trétinoïne, peu ou pas de différence sur l'évaluation globale (RR 1,00 ; IC 95 % 0,92-1,09, une étude de 46 participants), preuve de faible qualité ; contre le peroxyde de benzoyle, pas de critère comparable mesuré [A, très faible à faible certitude] (PMID 32356369).\n- Un essai randomisé de 150 personnes : crème dermocosmétique à l'acide salicylique + niacinamide + zinc + autres actifs aussi efficace que le peroxyde de benzoyle 5 % sur les lésions de l'acné légère à modérée, mieux tolérée ; **essai d'un produit de dermocosmétique (liens des auteurs avec la marque non vérifiés dans le résumé), produit multi-actifs** donc l'effet de l'acide seul n'est pas isolé [B] (PMID 37941097).\n- Le piège : photosensibilité, irritation, barrière cutanée ; un consensus d'experts classe les acides glycolique, lactique et salicylique comme inadaptés le jour d'un soin en cabinet (voir [peelings](fiche:peelings)).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Exfoliation de la couche cornée (AHA) et action kératolytique dans le sébum (BHA) d'après la littérature de revue ; mécanisme non relu pour cette fiche [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Photovieillissement (rugosité, rides, taches) | 23 RCT : rétinoïdes en tête pour rides fines et hyperpigmentation ; acide glycolique réduit la rugosité ; tazarotène et acide glycolique avec plus d'effets indésirables | [A] (PMID 40707570) |\n| Acné, acide salicylique vs trétinoïne | Peu ou pas de différence (RR 1,00), 1 étude n=46 ; vs acide pyruvique : incertain ; vs peroxyde de benzoyle : non comparable | [A, faible certitude] (PMID 32356369) |\n| Acné, crème multi-actifs à l'acide salicylique | 150 sujets, 56 jours : lésions en baisse comme sous BPO 5 %, meilleure tolérance ; produit de marque, liens des auteurs non vérifiés | [B] (PMID 37941097) |\n| Mélasma, acné active (peeling) | Voir [peelings](fiche:peelings) : l'acide glycolique est « le plus sûr et le plus efficace » en peeling, sans méta-analyse possible | [A, faible certitude] |\n| Pores, « éclat », « renouvellement cellulaire » à domicile | Aucun essai sur les produits quotidiens sans prescription trouvé dans cette recherche | [?] |\n| Lactique, mandélique, PHA à domicile | Non recherchés | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Avis (non obligations légales vérifiées) rapportés dans la fiche [peelings](fiche:peelings) : grand public ≤ 10 % à pH ≥ 3,5 avec protection solaire (panel CIR), recommandation allemande acide glycolique ≤ 4 % à pH ≥ 3,8, acide lactique ≤ 2,5 % à pH ≥ 5 ; document SCCNFP/0370/00, 2000. Limites actuelles UE (règlement (CE) 1223/2009, annexes) : non revérifiées [?].\n- Concentrations et pH des produits du commerce : à lire sur l'étiquette ; le pH efficace compte autant que le pourcentage.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Cosmétiques en vente libre (toniques, sérums, masques) ; peelings plus concentrés réservés aux professionnels. Statut réglementaire fin (annexes du règlement, limites de l'acide salicylique selon l'usage) : non consulté dans CosIng [?].\n- Le médicament à l'acide salicylique ou aux kératolytiques (verrues, psoriasis) : hors périmètre.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Irritation, rougeur, desquamation : fréquents ; l'acide glycolique et le tazarotène ont plus d'effets indésirables que la tretinoïne (PMID 40707570).\n- **Photosensibilité** : protection solaire quotidienne indispensable avec des AHA ; voir [protection solaire](fiche:protection-solaire).\n- Association avec rétinoïdes, vitamine C pure, acide azélaïque : risque d'irritation cumulée ; la marque The Ordinary déconseille l'association de certains de ses produits avec des acides directs (voir la fiche [Matrixyl 10 % + HA](fiche:the-ordinary-matrixyl-10-ha)) ; règles générales : non vérifiées dans une étude [?].\n- Grossesse : l'acide salicylique à forte dose pose question ; aucune source fiable relue pour les produits cosmétiques [?].\n- Peau noire ou foncée : risque d'hyperpigmentation post-inflammatoire en cas d'irritation ; non documenté dans les sources lues [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Les AHA remplacent le rétinol » : dans le réseau de 23 RCT, les rétinoïdes sont devant sur les rides fines et les taches (PMID 40707570).\n- « Le BHA débouche les pores » : pas d'essai de ce critère trouvé [?].\n- « Plus on exfolie, plus la peau est belle » : irritation et barrière altérée sont des risques documentés (événements indésirables plus fréquents avec l'acide glycolique, PMID 40707570).\n- « Aussi efficace que le peroxyde de benzoyle » : un seul essai de marque, sur une crème multi-actifs (PMID 37941097).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour.\n\nVoir aussi : [peelings](fiche:peelings), [rétinoïdes](fiche:retinoides), [acide azélaïque](fiche:acide-azelaique), [niacinamide](fiche:niacinamide), [protection solaire](fiche:protection-solaire).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Lin L et al. *Sci Rep* 2025 — PMID 40707570 (réseau de méta-analyses, 23 RCT ; une affiliation d'entreprise à Shenzhen dans les adresses d'auteurs)\n2. Liu H et al. *Cochrane Database Syst Rev* 2020 — PMID 32356369 — [DOI](https://doi.org/10.1002/14651858.CD011368.pub2)\n3. Dal Belo SE et al. *J Cosmet Dermatol* 2024 — PMID 37941097 (essai d'un produit de dermocosmétique ; affiliations des auteurs non vérifiées dans le résumé)\n4. Fiche [peelings](fiche:peelings) : avis SCCNFP/0370/00 (2000) et limites rapportées.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "AHA et BHA (acides glycolique, lactique, mandélique, salicylique) en cosmétique",
+ "type": "actif",
+ "unite": ""
+}

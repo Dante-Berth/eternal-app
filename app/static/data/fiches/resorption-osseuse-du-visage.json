@@ -1,0 +1,107 @@
+{
+ "cibles": [
+  "peau",
+  "sens-bouche",
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-31",
+ "famille": "",
+ "id": "resorption-osseuse-du-visage",
+ "intro": "",
+ "liens": [
+  "acide-hyaluronique-filler",
+  "dents-et-parodontite",
+  "osteoporose-et-densite-osseuse",
+  "vitamine-d",
+  "vitamine-k2"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 24,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "41716329",
+  "42778696",
+  "37996537",
+  "41316244",
+  "15485642",
+  "35437070",
+  "41440314",
+  "42867553",
+  "42740459",
+  "42743382",
+  "29766516",
+  "42733907",
+  "32399891",
+  "36749350",
+  "16223099",
+  "8669235",
+  "40045256",
+  "42168355",
+  "42458118",
+  "41739658",
+  "31005620",
+  "42580741",
+  "40069550",
+  "42674114"
+ ],
+ "preuve_globale": "B",
+ "resume": "Le squelette facial se remodèle toute la vie : orbites qui s'élargissent (en moyenne 15-20 % vers la 7e décennie), hauteur du maxillaire en baisse (8-15 %), angle de la mandibule qui s'ouvre (3-7°), d'après une revue narrative de séries d'imagerie [B] (PMID 41716329).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Le squelette facial se remodèle toute la vie : orbites qui s'élargissent (en moyenne 15-20 % vers la 7e décennie), hauteur du maxillaire en baisse (8-15 %), angle de la mandibule qui s'ouvre (3-7°), d'après une revue narrative de séries d'imagerie [B] (PMID 41716329).\n- Je n'ai trouvé aucun essai randomisé qui freine cette résorption chez l'adulte dentu : il n'existe pas de « traitement anti-résorption du visage » prouvé [?]. Les leviers réels passent par la bouche : garder ses dents, traiter la parodontite, arrêter le tabac.\n- Après une extraction, la crête alvéolaire perd de l'os ; la préservation d'alvéole réduit la perte de largeur de 1,37 mm en moyenne, certitude faible, bénéfice à long terme non établi [A, faible certitude] (PMID 42778696).\n- Chez l'édenté, hauteurs maxillaire et mandibulaire plus basses que chez le denté [B] (PMID 37996537) ; la durée d'édentation et un RANKL salivaire élevé vont avec une résorption sévère de la crête mandibulaire [B, transversal] (PMID 41316244).\n- Hypothèse « muscle fort = os préservé » : l'épaisseur du masséter va avec plus d'os alvéolaire chez la femme dentée [B, transversal] (PMID 15485642), mais l'effet d'un entraînement n'est pas testé [?].\n- Les fillers volumisent mais ne freinent pas la résorption : aucune donnée trouvée sur l'os [?]. Voir [acide hyaluronique filler](fiche:acide-hyaluronique-filler).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Vieillissement du squelette facial** : résorption sélective, pas uniforme. Zones décrites : rebords orbitaires, ouverture piriforme, processus alvéolaires, région sous le foramen mentonnier ; les femmes montrent plus de changement orbitaire, les hommes plus de remodelage mandibulaire [B] (PMID 41716329, revue ; PMID 35437070, revue narrative).\n- **Rôle de la charge mécanique** : un échantillon de 230 squelettes médiévaux (mastication plus exigeante) montre le même sens de vieillissement mais un rythme de résorption plus lent que dans les populations modernes. Les auteurs en déduisent que la charge masticatoire compte ; c'est une hypothèse issue de comparaisons avec la littérature, pas un test causal [B] (PMID 37996537).\n- **Os alvéolaire** : il dépend de la présence des dents. La parodontite le détruit ; après extraction, la crête se résorbe (« résorption de crête résiduelle »). Ce mécanisme explique la perte de hauteur du bas du visage chez l'édenté.\n- **Voie RANKL/OPG** : le même axe que celui ciblé par le dénosumab dans l'ostéoporose (voir [ostéoporose et densité osseuse](fiche:osteoporose-et-densite-osseuse)). Dans la crête résiduelle, RANKL salivaire élevé et OPG bas accompagnent une résorption sévère ; association transversale, pas de preuve que modifier ces taux protège l'os [B] (PMID 41316244).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Levier | Ce que disent les données | Preuve |\n|---|---|---|\n| Préservation d'alvéole après extraction (greffe) | vs cicatrisation spontanée : perte de largeur −1,37 mm (IC −1,80 à −0,94), perte verticale vestibulaire −1,18 mm (IC −1,61 à −0,75) ; hétérogénéité I² ≈ 75 %, intervalles de prédiction incluant l'absence d'effet, bénéfice long terme (implant, esthétique, patient) non établi (PMID 42778696). Histologie : pas plus d'os néoformé avec la greffe (−5,86 %, IC −13,84 à 2,11 ; I² = 98 %) (PMID 41440314) | [A, faible certitude] |\n| Greffon allogénique vs xénogreffe | pas de supériorité démontrée (PMID 42867553) | [A, faible certitude] |\n| Reconstruction de crête par échafaudage sur mesure | gain moyen d'environ 5 mm en largeur et en hauteur à 6-9 mois, mais complications dans 21,7 % des cas ; tabac et expérience du chirurgien modifient le résultat ; 13 études, n = 241 (PMID 42740459) | [B] |\n| Arrêt du tabac / vapotage | fumeurs et vapoteurs répondent moins bien au traitement parodontal et péri-implantaire que les non-fumeurs ; 7 études, pas de méta-analyse (PMID 42743382). Autres données sur le tabac : [dents et parodontite](fiche:dents-et-parodontite) | [B] |\n| Diabète de type 1 contrôlé | perte osseuse alvéolaire radiographique plus élevée que chez les non-diabétiques (médiane 1,27 vs 1,06 mm ; OR 2,30 pour ≥ 2 mm), chez des non-fumeurs, n = 174 (PMID 29766516) | [B, transversal] |\n| Vitamine K / D / calcium sanguins | chez 54 édentés, résorption de crête corrélée négativement à la vitamine K sérique (r = −0,42), au phosphore (r = −0,32), positivement au calcium (r = 0,38), pas à la vitamine D ; corrélation, pas de supplémentation testée (PMID 42733907). Voir [vitamine K2](fiche:vitamine-k2), [vitamine D](fiche:vitamine-d) | [B, transversal, n=54] |\n| Orthodontie chez l'adulte âgé | proposée pour « rajeunir » le visage ; 2 cas cliniques, pas de comparaison (PMID 35437070) | [B, 2 cas] |\n| Mastication, prothèse bien ajustée | piste plausible via la charge mécanique ; qualité de la prothèse associée à la résorption sévère (PMID 41316244) ; aucun essai sur la prévention | [B, transversal] |",
+   "titre": "Ce qui est sourcé sur les leviers (classés par niveau de preuve)"
+  },
+  {
+   "markdown": "- **Squelette général** : l'entraînement en résistance ajoute un petit gain de densité (SMD 0,22 à 0,54 selon le site) chez la femme ménopausée [A, hétérogène] (PMID 32399891, 36749350), détail dans [ostéoporose](fiche:osteoporose-et-densite-osseuse). Ces essais mesurent rachis, col fémoral et hanche : le visage n'y figure pas.\n- **Os alvéolaire et masséter** : chez 62 femmes dentées (40-75 ans), l'épaisseur du masséter à l'échographie et le nombre de dents antagonistes sont des déterminants significatifs de la masse osseuse alvéolaire mandibulaire et de son épaisseur ; la densité osseuse du squelette (DMO) ne l'est pas, dans ce modèle [B, transversal, n=62] (PMID 15485642). Même équipe, 160 femmes suivies 5 ans : l'épaisseur du masséter est corrélée à l'épaisseur alvéolaire, mais le masséter n'a pas été remesuré au suivi, donc rien sur le lien entre évolution musculaire et évolution osseuse [B, thèse, n=160] (PMID 16223099).\n- **Ce qui manque** : corrélation n'est pas effet. Un masséter épais peut refléter des dents nombreuses et une bonne occlusion, qui protègent l'os pour d'autres raisons. Aucun essai randomisé d'entraînement des muscles masticateurs (gomme dure, résistance mandibulaire) avec mesure de l'os de la mâchoire ou du visage trouvé [?] ; la seule étude d'entraînement stomatognathique sortie (3 semaines, polyarthrite et spondylarthrite, n=35) mesure symptômes et ouverture buccale, pas l'os (PMID 8669235).\n- **Conséquence pratique** : l'hypothèse est biologiquement plausible (l'os répond à la charge ailleurs dans le corps) et compatible avec les données de population, mais l'effet d'un entraînement du masséter sur l'os facial reste non testé [?]. Le masséter hypertrophié a aussi un coût possible (bruxisme, douleur de l'articulation temporo-mandibulaire, élargissement du bas du visage) que cette fiche n'a pas recherché [?].",
+   "titre": "Muscle et charge mécanique : l'hypothèse « hypertrophie = os préservé »"
+  },
+  {
+   "markdown": "- Lien direct « ostéoporose du squelette ↔ résorption de la mâchoire » : la recherche PubMed ciblée (méta-analyse, revue systématique) n'a rien retourné sur ce sujet précis [?].\n- Une analyse de randomisation mendélienne trouve que la carie dentaire (pas la parodontite) augmente le risque d'ostéoporose avec fracture post-ménopausique (OR 1,42 ; 1,03-1,97), seulement après ajustement multivarié, absent en analyse univariée : sens inverse de la question ici (dents → os), signal fragile [B] (PMID 40045256).\n- Les traitements de l'ostéoporose protègent le squelette global, pas démontré pour le visage [?]. Voir la fiche ostéoporose pour calcium, vitamine D, exercice, médicaments.",
+   "titre": "Ostéoporose générale et mâchoire"
+  },
+  {
+   "markdown": "Si un antirésorptif (bisphosphonate, dénosumab) est pris, toute extraction ou implant demande une coordination dentiste-prescripteur.\n- Implants chez des patients ostéoporotiques sous dénosumab : MRONJ « peu fréquente mais cliniquement importante », surtout avec bisphosphonate préalable ou inflammation péri-implantaire ; 10 études, 1 seul ECR, risque de biais modéré à élevé [B] (PMID 42168355, commentaire d'une revue systématique).\n- Fibrine riche en plaquettes (PRF) après extraction sous antirésorptif : RR de MRONJ 0,29 (0,15-0,57), 370 patients, surtout observationnel, certitude très faible [B, très faible certitude] (PMID 42458118).",
+   "titre": "Sécurité : ostéonécrose de la mâchoire (MRONJ)"
+  },
+  {
+   "markdown": "- Débutant : brossage fluoré, soins parodontaux réguliers, arrêt du tabac, glycémie contrôlée (voir [dents et parodontite](fiche:dents-et-parodontite)).\n- Intermédiaire : ne pas extraire une dent « sauvable » sans discuter les alternatives ; si extraction, demander au dentiste si une préservation d'alvéole se justifie dans ce cas (indications non universelles, PMID 42778696) ; mâcher réellement (alimentation non réduite à du mou), mais l'effet préventif de la mastication n'est pas prouvé [?].\n- Avancé (médical) : bilan osseux général si facteurs de risque (voir [ostéoporose](fiche:osteoporose-et-densite-osseuse)) ; chirurgie osseuse pré-implantaire par un chirurgien expérimenté ; signaler tout antirésorptif avant un acte dentaire.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Attendre « d'avoir un problème » pour traiter une gencive qui saigne ou une dent mobile.\n- Remplacer l'os par du volume (filler) en croyant traiter la cause.\n- Arrêter ou interrompre un antirésorptif de sa propre initiative avant un acte dentaire : décision du prescripteur (voir la fiche ostéoporose pour le rebond à l'arrêt du dénosumab).\n- Croire un chiffre de moyenne d'âge comme une trajectoire individuelle : les données d'imagerie sont des moyennes de population, très variables selon sexe et origine [B] (PMID 41716329).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Fillers ou compléments qui reconstruisent l'os du visage » : aucune donnée trouvée sur une action anti-résorptive osseuse [?]. Un filler comble un volume, il ne modifie pas le remodelage osseux (mécanisme connu, mais non testé dans les sources lues).\n- « Mewing / posture de la langue / gymnastique faciale pour sculpter la mâchoire adulte » : recherche PubMed du 2026-10-31 sur « mewing » : 22 résultats, uniquement des commentaires ou des analyses sociologiques (PMID 41739658, 31005620, 42580741, 40069550, 42674114) ; aucun essai ni étude d'imagerie osseuse trouvé dans ces résultats [?]. Une recherche sur l'entraînement masticatoire ou les exercices faciaux et la densité osseuse mandibulaire n'a pas non plus produit d'essai exploitable dans les premiers résultats (tri non exhaustif) [?]. Les rares données sur la charge mécanique restent la corrélation masséter-os alvéolaire ci-dessus [B, transversal].\n- « Micro-fractures / bone smashing (se frapper le visage pour que l'os se reconstruise plus dense) » : recherche PubMed du 2026-10-31 (microfracture, bone smashing, micro-ostéoperforation et visage) : zéro résultat [?]. La seule littérature trouvée décrit le phénomène sur les réseaux (« bonesmashing » : 32 millions de personnes touchées, 98 % d'hommes parmi les publications ; discours pseudoscientifique et minimisation du risque) (PMID 42674114) [B, étude transversale de réseaux sociaux, aucune donnée osseuse]. L'argument « l'os se renforce après une microlésion » est un mécanisme général du remodelage osseux, jamais testé sur le visage. Risques plausibles à ne pas minimiser : fracture réelle, atteinte nerveuse, dents ; non sourcés dans ce que j'ai lu (le résumé ne chiffre aucune blessure) [?]. Un coup ne cible ni l'endroit ni la dose : cela ne fait pas du « remodelage dirigé ».\n- Pourquoi ça séduit : la résorption est réelle et le pic du mythe vise surtout de jeunes hommes qui cherchent une mâchoire plus marquée (PMID 42674114), pas la prévention du vieillissement.\n- « Vitamine K2 pour les mâchoires » : seule une corrélation transversale (n = 54) ; aucun essai de supplémentation sur la crête ou la mandibule trouvé [?] (PMID 42733907).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Perdre des dents change la forme du visage : chez l'édenté, orbites plus larges et hauteurs maxillaire et mandibulaire plus faibles que chez le denté (statistiquement) [B] (PMID 37996537).\n- Les femmes édentées développent plus souvent une résorption sévère de la crête mandibulaire (36,4 % vs 13,6 % chez les hommes dans l'échantillon vietnamien de 140 personnes) [B] (PMID 41316244).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Dent mobile, gencive qui saigne ou recule, perte de dent récente, dentier qui bouge, creux ou affaissement du visage rapide, douleur ou plaie persistante de la mâchoire sous antirésorptif : dentiste ou parodontologue, et médecin pour l'os. Statut réglementaire : sans objet pour un phénomène physiologique ; pour chaque traitement (greffes osseuses, implants, médicaments) voir les fiches concernées (BDPM et ANSM non consultés pour cette fiche [?]).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 41716329 — Lee KWA et al., *JPRAS Open* 2026. doi:10.1016/j.jpra.2026.01.011 (revue de la littérature 2020-2023)\n- PMID 37996537 — Walczak A et al., *Sci Rep* 2023. doi:10.1038/s41598-023-47776-4\n- PMID 35437070 — Mavreas D, Athanasiou AE, *J Orthod* 2022. doi:10.1177/14653125221093390\n- PMID 42778696 — Zahedah R, Dinç B, *Oral Maxillofac Surg* 2026. doi:10.1007/s10006-026-01642-5\n- PMID 41440314 — Benekou I et al., *Dent J (Basel)* 2025. doi:10.3390/dj13120556\n- PMID 42867553 — Bala Karthiga V et al., *Clin Oral Investig* 2026. doi:10.1007/s00784-026-07218-7\n- PMID 42740459 — Saleh MHA et al., *J Periodontol* 2026. doi:10.1002/jper.70103\n- PMID 42743382 — Gould SM et al., *Clin Exp Dent Res* 2026. doi:10.1002/cre2.70456\n- PMID 29766516 — Plessas A et al., *J Periodontol* 2018. doi:10.1002/JPER.16-0788\n- PMID 42733907 — Mishra CP et al., *Cureus* 2026. doi:10.7759/cureus.114516\n- PMID 41316244 — Lu TL et al., *BMC Oral Health* 2025. doi:10.1186/s12903-025-07351-x\n- PMID 40045256 — Zhang G et al., *BMC Oral Health* 2025. doi:10.1186/s12903-025-05735-7\n- PMID 42168355 — Pruthi G, *Evid Based Dent* 2026. doi:10.1038/s41432-026-01225-z (commentaire de Pereira Santos RM et al., *Oral Dis* 2026)\n- PMID 42458118 — Sampaio P et al., *Oral Maxillofac Surg* 2026. doi:10.1007/s10006-026-01602-z\n- PMID 42674114 — Grillo R et al., *J Stomatol Oral Maxillofac Surg* 2026. doi:10.1016/j.jormas.2026.102971 (résumé relu)\n- PMID 41739658, 31005620, 42580741, 40069550 — commentaires ou analyses sociologiques sur le mewing (titres et métadonnées seulement, pas de résumé disponible pour les trois premiers)\n- PMID 15485642 — Jonasson G, Kiliaridis S, *Arch Oral Biol* 2004. doi:10.1016/j.archoralbio.2004.07.005\n- PMID 16223099 — Jonasson G, *Swed Dent J Suppl* 2005 (thèse, résumé relu)\n- PMID 8669235 — Tegelberg A, Kopp S, *Acta Odontol Scand* 1996. doi:10.3109/00016359609003503\n- PMID 32399891, 36749350 — voir la fiche ostéoporose\n- Références lues sur résumé uniquement (texte intégral non consulté).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Résorption osseuse du visage (orbites, maxillaire, mâchoire)",
+ "type": "condition",
+ "unite": ""
+}

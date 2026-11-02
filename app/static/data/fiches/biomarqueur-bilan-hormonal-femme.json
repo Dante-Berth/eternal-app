@@ -1,0 +1,104 @@
+{
+ "cibles": [
+  "hormones-sexualite",
+  "prevention"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-bilan-hormonal-femme",
+ "intro": "Fiche « examen » : quel dosage, à quel moment, et ce que le chiffre permet ou non de conclure. Traitement de la ménopause : [traitement hormonal de la ménopause](fiche:traitement-hormonal-menopause). Pendant masculin : [testostérone et SHBG](fiche:biomarqueur-testosterone-shbg). Précurseur surrénalien : [DHEA](fiche:dhea) et [IGF-1 et DHEA-S](fiche:biomarqueur-igf1-dhea-s).",
+ "liens": [
+  "biomarqueur-igf1-dhea-s",
+  "biomarqueur-testosterone-shbg",
+  "dhea",
+  "traitement-hormonal-menopause"
+ ],
+ "marqueurs": [
+  "fsh",
+  "lh",
+  "oestradiol",
+  "progesterone",
+  "prolactine",
+  "amh"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 12,
+ "nb_seuils": 7,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "22343510",
+  "39660328",
+  "37938144",
+  "35232561",
+  "29768629",
+  "42835004",
+  "28479316",
+  "26642103",
+  "39707165",
+  "22344196",
+  "22341880",
+  "22338612"
+ ],
+ "preuve_globale": "B",
+ "resume": "La ménopause se stadifie d'abord sur les cycles, pas sur le sang : le consensus STRAW+10 (2011) classe les critères hormonaux comme « supportifs », à n'utiliser qu'au besoin, faute de dosages standardisés (PMID 22343510, texte intégral relu) [consensus d'experts].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- La **ménopause se stadifie d'abord sur les cycles**, pas sur le sang : le consensus STRAW+10 (2011) classe les critères hormonaux comme « supportifs », à n'utiliser qu'au besoin, faute de dosages standardisés (PMID 22343510, texte intégral relu) [consensus d'experts].\n- Seul seuil chiffré de ce consensus : **FSH > 25 UI/L sur une prise de sang quelconque** caractérise la transition tardive ; il demande à être confirmé selon le dosage utilisé (PMID 22343510).\n- À la transition tardive, la FSH et l'œstradiol **fluctuent fortement** : une valeur « normale » n'exclut pas la périménopause, une valeur élevée isolée ne la confirme pas toujours (PMID 22343510).\n- **AMH** : ni test de diagnostic de l'insuffisance ovarienne prématurée, ni test de prédiction de l'âge de la ménopause recommandé (guideline ESHRE 2024, texte intégral relu) (PMID 39660328). Valeur grand public « de fertilité » : aucune donnée retrouvée [?].\n- Les valeurs de référence chiffrées (œstradiol, LH, progestérone, prolactine, AMH par âge) ne sont **pas reprises ici** : seuils non retrouvés dans une source relue [?]. Se fier à l'intervalle imprimé par le laboratoire, qui dépend de la méthode.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **FSH, LH** : gonadotrophines hypophysaires ; la FSH monte quand l'ovaire répond moins (PMID 22343510).\n- **Œstradiol** : œstrogène ovarien principal avant la ménopause ; après, il se stabilise à un niveau bas environ 2 ans après les dernières règles, en même temps que la FSH atteint un plateau élevé (PMID 22343510).\n- **Progestérone** : produite surtout après l'ovulation. Chez les femmes ménopausées elle est 99 % plus basse que chez les femmes réglées dans une cohorte de 229 femmes mesurées en LC-MS/MS (PMID 37938144).\n- **Prolactine** : dosée pour des troubles du cycle, de la fertilité ou de la libido ; l'interprétation doit tenir compte des médicaments et de l'histoire clinique (PMID 35232561).\n- **AMH** : marqueur de la réserve ovarienne, stable au long du cycle ; son dosage n'est pas standardisé entre laboratoires (PMID 22343510).",
+   "titre": "Ce que mesure l'examen"
+  },
+  {
+   "markdown": "Conversions (calculs à partir des masses molaires, pas d'une source) : œstradiol 1 pg/mL ≈ 3,67 pmol/L ; progestérone 1 ng/mL ≈ 3,18 nmol/L ; FSH et LH : 1 UI/L = 1 mUI/mL. Autres facteurs (prolactine, AMH) : non retrouvés [?].\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| FSH | UI/L | > 25 | Transition ménopausique tardive (critère supportif, prise de sang quelconque) ; à confirmer selon le dosage | Femme en transition | STRAW+10, Harlow 2012, PMID 22343510 (consulté le 2026-11-01) |\n| FSH | UI/L | > 25 | Critère biologique de l'insuffisance ovarienne prématurée, avec cycles perturbés depuis au moins 4 mois ; à répéter après 4-6 semaines en cas de doute | Femme de moins de 40 ans | Guideline ESHRE 2024, Panay, PMID 39660328 (consulté le 2026-11-01) |\n| Durée du cycle | jours | écart ≥ 7 entre cycles consécutifs, persistant | Transition précoce (critère principal) | Femme en transition | PMID 22343510 |\n| Aménorrhée | jours | ≥ 60 | Transition tardive (critère principal) | Femme en transition | PMID 22343510 |\n| Aménorrhée | mois | 12 | Définit le dernier cycle (ménopause) ; fin de la « périménopause » | Femme en transition | PMID 22343510 |\n| Prolactine | ng/mL | > 250 | Très évocatrice d'un prolactinome ; la plupart des élévations médicamenteuses ou par compression de la tige sont < 100 ng/mL, avec des exceptions | Adulte | Revue de la Société brésilienne d'endocrinologie, Vilar 2018, PMID 29768629 [B, revue] |\n| Œstradiol, LH, progestérone, AMH | variable | non retrouvé [?] | Plages de référence par phase du cycle, âge et méthode : non retrouvées dans une source relue | Femme réglée / ménopausée | [?] |\n\nLimites chiffrées de la méthode : en LC-MS/MS avec un kit commercial, l'œstradiol est **le plus souvent indétectable** après la ménopause (plus de 10 % des échantillons sous la limite de quantification), ce qui empêche d'établir un intervalle de référence (PMID 37938144).",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "- **Staging de la ménopause** : consensus de 41 scientifiques ; critère principal = règles ; FSH, AMH, comptage de follicules antraux = critères supportifs, jamais obligatoires (PMID 22343510) [consensus d'experts].\n- **Insuffisance ovarienne prématurée (POI)** : le guideline ESHRE 2024 (145 recommandations) retient cycles perturbés ≥ 4 mois et FSH > 25 UI/L ; une seule FSH peut suffire si le tableau clinique est typique, une seconde seulement si la première est ambiguë (PMID 39660328) [B, recommandation d'experts]. L'AMH peut aider à confirmer en cas de FSH inconclusive, mais pas comme test principal ; elle ne doit pas servir à prédire une POI (preuves insuffisantes) (PMID 39660328).\n- **AMH et fertilité chez la femme sans infertilité** : deux recherches PubMed (2026-11-01) n'ont pas retrouvé d'essai ou de méta-analyse exploitable que j'aie pu relire sur la prédiction de la fécondité spontanée [?]. Les travaux relus portent sur des femmes en parcours d'infertilité, non transposables à un dosage « de confort ».\n- **Œstradiol et symptômes** : dans une étude transversale de 600 femmes chinoises de 40 à 60 ans, l'œstradiol médiait le lien entre tour de taille/hanches et score de symptômes de la ménopause (PMID 42835004) [B, transversal, causalité non établie].",
+   "titre": "Ce que dit la preuve (valeur prédictive, utilité clinique)"
+  },
+  {
+   "markdown": "- **Phase du cycle** : œstradiol, progestérone et LH n'ont de sens qu'avec le jour du cycle. Le plasma de femmes varie avec la phase du cycle, la ménopause et la prise de pilule (PMID 28479316, LC-MS/MS, 525 volontaires dont 68 sous pilule) [B]. La FSH précoce se mesure en début de phase folliculaire (jours 2-5) (PMID 22343510).\n- **Pilule, traitement hormonal** : modifient les dosages stéroïdiens (PMID 28479316). Ne pas interpréter une FSH sous traitement hormonal ou contraception sans l'avis du prescripteur ; délai d'arrêt avant dosage : non sourcé [?].\n- **Hystérectomie, ablation de l'endomètre** : le stade ne se juge plus aux règles ; attendre au moins 3 mois après la chirurgie (hausse transitoire de FSH possible) et répéter les dosages (PMID 22343510).\n- **Tamoxifène, chimiothérapie** : FSH et œstradiol peuvent être trompeurs ; des règles reprises après 12 mois d'aménorrhée ne signent pas un retour à la normale (PMID 22343510).\n- **SOPK, aménorrhée hypothalamique, cycles irréguliers de longue date** : les critères de cycle du STRAW+10 ne s'appliquent pas (PMID 22343510).\n- **IMC** : la corrélation œstradiol-IMC est négative chez les femmes (r = −0,16) (PMID 37938144) [B]. Le STRAW+10 estime ses critères applicables quels que soient l'âge, l'IMC et le tabagisme, même si ces facteurs modifient les niveaux (PMID 22343510).\n- **Prolactine** : médicaments (liste non relue [?]), stress du prélèvement, et surtout **macroprolactine** : isoforme de grande taille et peu active, présente chez environ 4 à 40 % des patientes hyperprolactinémiques selon la population de référence ; elle peut conduire à des examens et des traitements inutiles (PMID 26642103, guideline AACE) [B].\n- **Compléments** : aucune donnée relue sur les interférences de la biotine ou de compléments « hormonaux » avec ces dosages [?]. Effet d'une DHEA orale sur ces dosages : non relu [?] ; voir [DHEA](fiche:dhea).",
+   "titre": "Ce qui fait varier le résultat (leviers, médicaments, compléments, conditions de prélèvement)"
+  },
+  {
+   "markdown": "- **FSH > 25 UI/L à plus de 40 ans avec règles irrégulières** : cohérent avec une transition ; la décision de traiter repose sur les symptômes, pas sur la valeur (voir [traitement hormonal de la ménopause](fiche:traitement-hormonal-menopause) pour bénéfices/risques).\n- **FSH > 25 UI/L avant 40 ans avec cycles perturbés** : orientation vers un gynécologue ou un endocrinologue ; la POI a des conséquences sur la fertilité, l'os, le cœur et la cognition, ce qui motive une prise en charge spécialisée (PMID 39660328). Détail du traitement : non repris ici.\n- **Prolactine élevée** : refaire le dosage, rechercher une macroprolactine et une cause médicamenteuse avant toute imagerie (PMID 26642103, 35232561) ; > 250 ng/mL : prolactinome probable, avis endocrinologue (PMID 29768629).\n- **Grossesse** : à exclure avant toute interprétation d'une aménorrhée (règle de bon sens, non sourcée dans les documents relus).",
+   "titre": "Que faire d'un résultat anormal"
+  },
+  {
+   "markdown": "- Le bilan se prescrit pour un trouble du cycle, un désir de grossesse, un doute sur une POI, des symptômes avant 45 ans. Chez une femme de plus de 45 ans avec symptômes typiques et règles irrégulières, la stadification clinique suffit en principe (STRAW+10, PMID 22343510) ; recommandation nationale française sur ce point : non retrouvée [?].\n- Moment : début de phase folliculaire (jours 2-5) pour FSH, LH, œstradiol de base ; **phase lutéale** pour la progestérone (dosage de confirmation d'ovulation) ; prolactine le matin, au calme (conditions précises : non relues [?]).\n- Prix, cotation NABM, remboursement : non retrouvés [?].\n- **Tests grand public** (kits de salive ou de goutte de sang, panels en ligne) : aucun essai de validation relu pour ces kits [?]. Validité de l'œstradiol salivaire ou sur goutte de sang : non établie dans les sources lues [?] ; le STRAW+10 insiste sur l'absence de standardisation même des dosages de laboratoire (PMID 22343510). Un chiffre unique hors contexte de cycle et d'âge n'est pas interprétable.",
+   "titre": "Qui, quand, comment (fréquence, remboursement)"
+  },
+  {
+   "markdown": "Examens de biologie médicale (sang, laboratoire), prescription habituelle ; cotation, prix et remboursement : non consultés [?]. Les kits d'auto-prélèvement vendus au grand public : statut de dispositif de diagnostic in vitro et réglementation française : non consultés [?]. Traitements associés : médicaments sur ordonnance (voir [traitement hormonal de la ménopause](fiche:traitement-hormonal-menopause)).",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Doser les hormones sexuelles un jour quelconque du cycle chez une femme réglée et comparer à une plage unique.\n- Doser la FSH sous pilule, sous traitement hormonal ou dans les 3 mois d'une chirurgie pelvienne (PMID 22343510, 28479316).\n- Conclure à « pas de périménopause » parce qu'une FSH isolée est normale : en transition tardive la FSH oscille entre valeurs reproductives et valeurs de ménopause (PMID 22343510).\n- Utiliser l'AMH pour annoncer une ménopause proche ou diagnostiquer une POI (PMID 39660328).\n- Traiter une hyperprolactinémie sans exclure la macroprolactine (PMID 26642103).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Mon AMH dit combien de temps il me reste pour avoir un enfant »** : l'ESHRE recommande de ne pas doser l'AMH en routine pour prédire une POI, preuves insuffisantes (PMID 39660328) ; prédiction de la fécondité spontanée : aucune donnée relue [?]. Les travaux sur l'AMH concernent surtout la réponse à la stimulation en FIV (PMID 39707165, résumé relu, population infertile).\n- **« Un bilan hormonal complet par salive dit où j'en suis de ma ménopause »** : aucune validation relue ; le consensus STRAW+10 range ces dosages en critères secondaires (PMID 22343510) [M].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Les règles restent le meilleur marqueur de la transition : la FSH ne fixe un seuil quantitatif (> 25 UI/L) que depuis la standardisation récente des dosages, et ce seuil correspond à environ 40 UI/L des anciens standards urinaires (PMID 22343510).\n- Après la ménopause, un œstradiol « indétectable » est une limite de la méthode, pas toujours une valeur zéro : une mesure sensible demande une méthode dédiée (PMID 37938144).\n- Chez les femmes avec POI, une part substantielle récupère une fonction ovarienne spontanée après le diagnostic, y compris des grossesses (PMID 22343510).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Cycles absents depuis plus de 3 mois sans grossesse, règles très irrégulières avant 40-45 ans, bouffées de chaleur ou sécheresse vaginale gênantes, désir de grossesse sans succès, écoulement mammaire (prolactine), signes de virilisation. Seuils d'urgence ou de dépistage au-delà : non relus [?].",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 22343510 — Harlow SD et al., Executive summary of the Stages of Reproductive Aging Workshop + 10. *Menopause* 2012. doi:10.1097/gme.0b013e31824d8f40 (texte intégral relu, PMC3340903). Publié aussi dans J Clin Endocrinol Metab, Fertil Steril, Climacteric (PMID 22344196, 22341880, 22338612).\n- PMID 39660328 — Panay N et al., Evidence-based guideline: premature ovarian insufficiency (ESHRE). *Hum Reprod Open* 2024. doi:10.1093/hropen/hoae065 (texte intégral relu, PMC11631070)\n- PMID 37938144 — Steroid hormones reference intervals by LC-MS/MS with a kit (KORA). *Endocr Connect* 2023. doi:10.1530/EC-23-0225 (texte intégral relu)\n- PMID 28479316 — Reference intervals for adrenal steroids by LC-MS/MS (gender, age, oral contraceptives, BMI). *Clin Chim Acta* 2017. doi:10.1016/j.cca.2017.05.002 (résumé relu)\n- PMID 29768629 — Vilar L et al., Controversial issues in the management of hyperprolactinemia and prolactinomas. *Arch Endocrinol Metab* 2018 (résumé relu)\n- PMID 26642103 — Samson SL et al., AACE/ACE disease state clinical review: macroprolactin. *Endocr Pract* 2015 (résumé relu)\n- PMID 35232561 — Biagetti B, Sánchez-Margalet V, Macroprolactin: from laboratory to clinical practice. *Endocrinol Diabetes Nutr* 2022 (résumé relu)\n- PMID 42835004 — Estradiol and menopause-related symptoms in Chinese women aged 40-60. *Front Endocrinol* 2026. doi:10.3389/fendo.2026.1960475 (résumé relu)\n- PMID 39707165 — Schouten et al., gonadotropin dose selection model, IPD meta-analysis. *Hum Reprod Update* 2025 (résumé relu)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : bilan hormonal de la femme (œstradiol, FSH, LH, progestérone, prolactine, AMH)",
+ "type": "biomarqueur",
+ "unite": ""
+}

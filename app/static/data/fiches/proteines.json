@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "proteines",
+ "intro": "",
+ "liens": [
+  "alimentation-recuperation",
+  "creatine",
+  "exercice-physique",
+  "magnesium",
+  "prise-de-masse-surplus-calorique-et-recomposition",
+  "proteine-pois-isolat-bulk",
+  "sarcopenie",
+  "vitamine-d",
+  "whey-native-nutrimuscle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 12,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28698222",
+  "36513777",
+  "33670701",
+  "29722584",
+  "30032227",
+  "41433039",
+  "42712362",
+  "35016214",
+  "30824459",
+  "32483625",
+  "40806155",
+  "41593872"
+ ],
+ "preuve_globale": "A",
+ "resume": "Ajoutées à un entraînement en résistance (≥ 6 semaines), les protéines augmentent un peu la force (1RM +2,5 kg), la masse maigre (+0,30 kg) et la taille musculaire chez l'adulte sain [A] (PMID 28698222). Petit effet, hétérogène.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Ajoutées à un entraînement en résistance (≥ 6 semaines), les protéines augmentent un peu la force (1RM +2,5 kg), la masse maigre (+0,30 kg) et la taille musculaire chez l'adulte sain [A] (PMID 28698222). Petit effet, hétérogène.\n- Au-delà d'un apport total d'environ 1,6 g/kg/j, plus de protéines n'apportent plus de gain de masse maigre dans cette méta-analyse [A] (PMID 28698222). L'effet diminue avec l'âge et augmente chez les entraînés.\n- Récupération après dommage musculaire : force et CK un peu mieux préservés, **aucun effet sur les courbatures** [A] (PMID 36513777).\n- Whey ou végétal : à apport égal, pas de différence démontrée sur la force ni la masse maigre absolue [A] (PMID 33670701, PMID 29722584).\n- Reins sains : pas de signal d'atteinte à court terme, mais données courtes et à risque de biais [A, faible certitude] (PMID 30032227).\n\n**Réserve** : une méta-analyse bayésienne (75 études, 1206 athlètes, PMID 41433039) trouve que tous les effets significatifs viennent d'essais à énergie non appariée : le bénéfice peut venir des calories/protéines totales, pas de la poudre [A]. Voir [alimentation](fiche:alimentation-recuperation).\n\nVoir aussi : [prise de masse, surplus calorique et recomposition](fiche:prise-de-masse-surplus-calorique-et-recomposition) (apport total, déficit, répartition en repas).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Fourniture d'acides aminés pour la réparation et la synthèse musculaire. L'hypothèse « la whey stimule plus la synthèse protéique aiguë grâce à sa teneur en leucine » est admise par les auteurs d'une méta-analyse, mais les essais longs (≥ 6 semaines) ne montrent pas de supériorité sur la masse maigre ni la force (PMID 29722584) [A]. Le lien entre synthèse aiguë et gain à long terme reste une inférence [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Preuve |\n|---|---|\n| Force et masse maigre avec musculation, adulte sain | [A] PMID 28698222 : 49 études, 1863 participants ; 1RM +2,49 kg (IC 0,64-4,33), masse maigre +0,30 kg (IC 0,09-0,52) |\n| Plafond d'intérêt | [A] ~1,62 g/kg/j d'apport total (PMID 28698222) |\n| Force après dommage par résistance | [A] PMID 36513777 |\n| CK | [A] borderline (IC à 48 h inclut 0 ; significatif à 72 h) |\n| Courbatures | [A] aucun effet |\n| Sarcopénie, ≥ 60 ans, ajouté à un exercice | [A, très faible certitude] force de préhension SMD 0,39 (IC 0,20-0,58) et indice de masse musculaire appendiculaire SMD 0,18 (IC 0,00-0,35) ; 18 ECR, 1341 participants ; pas d'effet sur le Timed Up-and-Go (PMID 42712362) |\n| Sujet âgé en bonne santé, protéines sans exercice | [A] pas d'effet net sur la force ; effet « possible » sur la masse maigre ; données insuffisamment convaincantes pour relever l'apport au-delà de 0,8 g/kg/j (revue systématique du Conseil de la santé néerlandais, 18 ECR, PMID 35016214) |\n| Suppléments multi-ingrédients (souvent protéine + créatine ou vitamine D) | [A] gain de masse maigre +0,80 kg vs non-MIP, mais pas supérieur aux protéines seules (PMID 30824459) |\n| Leucine seule, sarcopénie | [A, faible certitude] seul supplément à effet significatif sur la masse musculaire chez l'âgé sarcopénique dans une revue de revues (PMID 32483625) |\n| Protéines végétales (mélanges soja/pois) | [B] petits échantillons, biais modéré à élevé (PMID 40806155) |\n| BCAA seuls (comparaison avec protéines complètes) | non comparés ici [?] |\n\n### Sarcopénie\nRepères d'apport avancés par une revue narrative : 1,0-1,2 g/kg/j chez l'âgé sain, > 1,2 g/kg/j si sarcopénie ou fragilité (PMID 41593872) [?] (avis d'experts, pas un résultat d'ECR). La revue de revues belge (PMID 32483625) recommande la protéine en complément de la musculation, surtout chez les personnes obèses et ≥ 24 semaines, avec un niveau de preuve « faible à modéré ». La méta-analyse en réseau 2026 classe whey/leucine/HMB en tête, mais ses auteurs jugent le classement exploratoire (certitude très faible, réseau creux) ; les classements SUCRA ne sont pas des effets mesurés (PMID 42712362). Le levier principal reste l'exercice : voir [exercice physique](fiche:exercice-physique).\n\n### Whey vs végétal\n- Méta-analyse de 16 ECR : pas de différence de force ni de masse maigre absolue selon la source ; léger avantage animal sur la masse maigre en % et chez les < 50 ans (+0,41 kg, IC 0,08-0,74) [A] (PMID 33670701).\n- Soja vs protéines animales (9 études, 266 participants) : mêmes gains de force et de masse maigre [A, petits échantillons] (PMID 29722584). Petits effectifs ; conflits d'intérêts non analysés ici [?].\n- Conclusion prudente : une protéine végétale complète (soja, mélange pois-riz) à dose suffisante fait l'affaire ; la whey a surtout l'avantage de la praticité et du goût.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Dose totale utile : cible d'apport quotidien ~1,6 g/kg/j (PMID 28698222) [A]. Une portion de poudre vendue apporte typiquement 20-25 g (≈ 24 g par 30 g de whey Nutrimuscle, déclaré marque : voir [whey native](fiche:whey-native-nutrimuscle)).\n- Dose optimale **par repas** et rôle d'un seuil de leucine : non tranchés par les sources lues, pas de méta-analyse vérifiée ici [?].\n- Timing (avant/après l'effort) : non tranché ici [?] ; la méta-analyse de force/CK signale des divergences de doses et de timing entre essais.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- En France : aliment (laitier) ou complément alimentaire ; pas de médicament. Aucun texte officiel (DGCCRF/BDPM) relu pour cette fiche [?].\n- AMA : les protéines ne sont pas des substances interdites en tant que telles ; liste 2026 inaccessible (wada-ama.org, 2026-10-06) [?]. Risque de contamination des compléments non certifiés (mélanges, stimulants ajoutés) [?]. Un contrôle tiers (type Informed Sport) est un indice, pas une garantie.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Rein sain** : revue systématique de 26 études (13 ECR sur le DFG) : le DFG est souvent un peu plus élevé sous apport élevé, dans la norme ; pas d'effet sur les marqueurs sanguins ; toutes les études sont à risque de biais modéré à élevé et la plupart durent < 6 mois [A, faible certitude] (PMID 30032227). Un auteur est affilié à la National Cattlemen's Beef Association (financement filière viande).\n- **Insuffisance rénale chronique** : non couverte par ces études (exclue) ; avis néphrologique avant tout apport élevé [?].\n- Calculs rénaux : données limitées et incohérentes (PMID 30032227) [?].\n- Allergie au lait (whey, caséine), au soja ; intolérance au lactose (la whey concentrée en contient ; l'isolat moins) [?] (non étudié ici).\n- Interactions médicamenteuses : aucune documentée dans les sources lues [?].\n- Grossesse, enfants, adolescents : non étudiés ici ; avis médical [?].",
+   "titre": "Sécurité, interactions"
+  },
+  {
+   "markdown": "- [Whey Native Nutrimuscle](fiche:whey-native-nutrimuscle).\n- [Isolat de protéine de pois Bulk](fiche:proteine-pois-isolat-bulk) : alternative végétale, ≈ 12,5 €/kg de protéines.\n- Autres produits récupération : voir /recuperation/produits.\n- Fiches voisines : [vitamine D](fiche:vitamine-d), [magnésium](fiche:magnesium), [créatine](fiche:creatine).\n\nVoir aussi : [sarcopénie](fiche:sarcopenie).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 28698222 — Morton RW et al., *Br J Sports Med* 2018. doi:10.1136/bjsports-2017-097608\n- PMID 30824459 — O'Bryan KR et al., *Br J Sports Med* 2019. doi:10.1136/bjsports-2018-099889\n- PMID 33670701 — Lim MT et al., *Nutrients* 2021. doi:10.3390/nu13020661\n- PMID 29722584 — Messina M et al., *Int J Sport Nutr Exerc Metab* 2018. doi:10.1123/ijsnem.2018-0071\n- PMID 35016214 — Hengeveld LM et al., *Adv Nutr* 2022. doi:10.1093/advances/nmab140\n- PMID 30032227 — Van Elswyk ME et al., *Adv Nutr* 2018. doi:10.1093/advances/nmy026\n- PMID 32483625 — Gielen E et al., *Nutr Rev* 2021. doi:10.1093/nutrit/nuaa011\n- PMID 42712362 — Yang B et al., *Front Nutr* 2026. doi:10.3389/fnut.2026.1892302\n- PMID 41593872 — Heo S, Yang SJ, *Korean J Community Nutr* 2025 (revue narrative). doi:10.5720/kjcn.2025.00360\n- PMID 36513777 (*Eur J Clin Nutr* 2022, doi:10.1038/s41430-022-01250-y) ; PMID 40806155 (*Nutrients* 2025, doi:10.3390/nu17152571) ; PMID 41433039 (Zhao S. et al., *J Int Soc Sports Nutr* 2025, doi:10.1080/15502783.2025.2605338).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Protéines péri-effort",
+ "type": "actif",
+ "unite": ""
+}

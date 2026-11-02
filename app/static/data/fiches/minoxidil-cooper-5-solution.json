@@ -1,0 +1,65 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "medicament",
+ "id": "minoxidil-cooper-5-solution",
+ "intro": "",
+ "liens": [
+  "minoxidil"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "38885151",
+  "12196747",
+  "41051009",
+  "34370845"
+ ],
+ "preuve_globale": "A",
+ "resume": "Le minoxidil 5 % le moins cher relevé, avec un excipient (glycérol) sans propylène glycol : le meilleur rapport preuve/prix pour un homme avec une alopécie androgénétique débutante à modérée.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Le minoxidil 5 % le moins cher relevé, avec un excipient (glycérol) sans propylène glycol : le meilleur rapport preuve/prix pour un homme avec une alopécie androgénétique débutante à modérée.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Composant | Quantité | Rôle | Preuve |\n|---|---|---|---|\n| Minoxidil | 5 g/100 ml | Actif | [A] chez l'homme (voir [minoxidil](fiche:minoxidil)) |\n| Glycérol, éthanol à 96 %, eau purifiée | — | Excipients | Pas de propylène glycol, allergène retrouvé dans 17,1 % des eczémas de contact confirmés au minoxidil [B] (PMID 38885151) |\n\nComposition selon le RCP (BDPM, consulté le 2026-10-03). Coffret de 3 flacons de 60 ml.",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Médicament sans ordonnance, non remboursable, prix libre ; indiqué « en cas de chute de cheveux modérée (alopécie androgénétique) chez le sujet adulte de sexe masculin » ; contre-indiqué chez la femme, avant 18 ans et après 65 ans ; RCP révisé le 22/10/2024 (BDPM, fiche 61831995, consulté le 2026-10-03).",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- Le RCP annonce des résultats en 2 mois au plus tôt et un retour à l'état initial 3 à 4 mois après l'arrêt (BDPM). Les essais mesurent l'effet à 24-48 semaines : juger à 6 mois minimum [A].\n- Effet attendu : le 5 % fait mieux que le 2 % chez l'homme (« 45 % de repousse en plus » à 48 semaines) [B, ECR unique n=393] (PMID 12196747) ; gain d'environ +20 cheveux/cm² vs contrôle en NMA [A, faible certitude] (PMID 41051009).\n- La formule au glycérol n'a pas d'essai propre : l'efficacité est extrapolée des essais sur les solutions au propylène glycol (même molécule, même dose) [?].",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "1 ml deux fois par jour sur cuir chevelu sec, 2 ml/j maximum ; se laver les mains après ; éviter le contact avec les nourrissons (hypertrichose rapportée) et les chats (RCP, BDPM ; PMID 34370845).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix relevés pour 3 × 60 ml : 15,95 € à 22,95 € selon les pharmacies en ligne françaises (Pharmacie des Rochettes, Pharmacie Polygone, pharmacie-en-ligne.com, Pharmacie Place Ronde, relevés le 2026-10-03). À 2 ml/j, 180 ml = 90 jours, soit **5 à 8 €/mois**.\n- Pas d'alternative moins chère à preuve supérieure. Les autres génériques 5 % (Bailleul, Biogaran, Viatris…) contiennent le même actif ; certains (Bailleul, Alostil solution) contiennent du propylène glycol (BDPM).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Aucune source d'avis exploitable relevée [?]. Tolérance attendue d'après les essais du 5 % : prurit et irritation plus fréquents qu'avec le 2 % [B] (PMID 12196747).",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 12196747 — Olsen E.A. et al., *J Am Acad Dermatol* 2002. doi:10.1067/mjd.2002.124088\n- PMID 41051009 — Gupta A.K. et al., *J Cosmet Dermatol* 2025 (texte intégral). doi:10.1111/jocd.70483\n- PMID 38885151 — Kiratiwongwan R. et al., *Dermatitis* 2024. doi:10.1089/derm.2024.0092\n- PMID 34370845 — Tater K.C. et al., *J Am Anim Hosp Assoc* 2021. doi:10.5326/JAAHA-MS-7154\n- BDPM, Minoxidil Cooper 5 % (61831995), consulté le 2026-10-03.\n- Prix : pharmaciedesrochettes.fr, pharmaciepolygone.com, pharmacie-en-ligne.com, pharmacie-place-ronde.fr, relevés le 2026-10-03.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "true",
+ "statut_fr": "medicament_sans_ordonnance",
+ "titre": "Minoxidil Cooper 5 %, solution pour application cutanée",
+ "type": "produit",
+ "unite": ""
+}

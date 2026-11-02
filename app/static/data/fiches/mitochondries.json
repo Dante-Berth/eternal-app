@@ -1,0 +1,95 @@
+{
+ "cibles": [
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-07",
+ "famille": "",
+ "id": "mitochondries",
+ "intro": "",
+ "liens": [
+  "bilans-biologiques",
+  "creatine",
+  "hiit-et-zone-5-vo2max",
+  "jeune-intermittent-et-restriction-calorique",
+  "l-carnitine",
+  "nmn-et-nad",
+  "omega-3",
+  "sommeil",
+  "urolithine-a",
+  "zone-2-et-endurance"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 17,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "39390310",
+  "17341128",
+  "42732577",
+  "37823711",
+  "41457257",
+  "41733122",
+  "41308251",
+  "42420763",
+  "41651893",
+  "40327515",
+  "24492839",
+  "19433800",
+  "26482865",
+  "28177744",
+  "42464793",
+  "30646252",
+  "32875687"
+ ],
+ "preuve_globale": "A",
+ "resume": "Le seul levier humain solide pour augmenter le contenu mitochondrial musculaire est l'entraînement : +23 % (endurance), +27 % (HIIT), +27 % (sprints) en moyenne dans une méta-régression de 353 études, quel que soit l'âge [A] (PMID 39390310).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Le seul levier humain solide pour augmenter le contenu mitochondrial musculaire est l'**entraînement** : +23 % (endurance), +27 % (HIIT), +27 % (sprints) en moyenne dans une méta-régression de 353 études, quel que soit l'âge [A] (PMID 39390310).\n- Restriction calorique : hausse de l'ADN mitochondrial musculaire (+35 %) dans un ECR de 36 sujets jeunes en surpoids, mais sans hausse des enzymes mitochondriales mesurées [B] (PMID 17341128).\n- Compléments « mitochondriaux » : CoQ10 (effet de performance petit et instable, certitude très faible à faible), MitoQ (échecs sur la fonction physique et la respiration musculaire), PQQ et acide alpha-lipoïque (aucune donnée mitochondriale humaine retenue) [B, voir tableau].\n- Aucun test sanguin validé de « santé mitochondriale » retrouvé ; en pratique, le VO2max (condition physique cardiorespiratoire) est le meilleur marqueur fonctionnel disponible et prédit la mortalité en cohorte [B].\n- « Booster ses mitochondries » : slogan sans définition mesurable.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Les mitochondries produisent l'ATP, régulent le calcium, les espèces réactives de l'oxygène (ROS) et l'apoptose. L'hypothèse est qu'un déclin de leur nombre et de leur qualité avec l'âge contribuerait à la sarcopénie et aux maladies métaboliques ; ce déclin et sa causalité chez l'humain ne sont pas établis par les références lues ici [?].\n- Leviers biologiques proposés : biogenèse (PGC-1α), mitophagie (voir [urolithine A](fiche:urolithine-a)), cofacteurs (NAD+, voir [NMN et NAD](fiche:nmn-et-nad)), capacité antioxydante ciblée (MitoQ).\n- L'adaptation à l'entraînement est conservée à tout âge, indépendamment du sexe et de la maladie ; le gain est d'autant plus grand que la condition physique initiale est basse [A] (PMID 39390310).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Levier | Résultat humain | Preuve | Statut FR |\n|---|---|---|---|\n| Entraînement : endurance, HIIT, sprints | méta-régression (353 études mitochondries, 5 973 participants au total) : contenu mitochondrial +23 ± 5 % (endurance), +27 ± 5 % (HIIT), +27 ± 7 % (SIT) ; fréquence 6 > 4 > 2 séances/semaine ; par heure d'exercice, SIT ~2,3 fois plus efficace que HIIT, ~3,9 fois plus que l'endurance (PMID 39390310). Voir [HIIT et zone 5](fiche:hiit-et-zone-5-vo2max), [zone 2](fiche:zone-2-et-endurance) | [A, méta-régression de petites études] | non_applicable |\n| Entraînement en résistance | non inclus dans la méta-régression ; effet de la musculation seule sur le contenu mitochondrial : aucune méta-analyse relue [?]. Ajouter de la musculation à l'endurance (entraînement concurrent) **ne freine pas** les marqueurs mitochondriaux (citrate synthase, respiration état 3, ARNm de PGC-1α) par rapport à l'endurance seule ; le VO2max progresse moins seulement si la part d'endurance est réduite, chez les non-entraînés (méta-analyse, PMID 42732577) | [A, méta-analyse, nombre d'études non donné dans le résumé] | non_applicable |\n| Restriction calorique | ECR n = 36, 6 mois : ADN mitochondrial musculaire +35 ± 5 % (CR) et +21 ± 4 % (CR + exercice), expression de PPARGC1A, TFAM, SIRT1 en hausse ; activité de la citrate synthase, de la HADH et de la COX II **inchangée** (PMID 17341128). CALERIE (12 % de CR sur 2 ans, 90 participants, transcriptome musculaire) : gènes de biogenèse mitochondriale modulés ; qualité musculaire préservée (PMID 37823711) | [B] | non_applicable |\n| Jeûne intermittent | voir [jeûne intermittent et restriction calorique](fiche:jeune-intermittent-et-restriction-calorique) ; aucune mesure mitochondriale lue dans cette fiche | [?] | non_applicable |\n| Urolithine A | signatures de biomarqueurs, critères principaux manqués dans les deux essais pivots ; voir [urolithine A](fiche:urolithine-a) | [B] | non_autorise (voir fiche) |\n| NMN / NR | hausse du NAD+ sanguin, pas de hausse du NAD+ musculaire ni de la respiration mitochondriale dans les essais d'obésité ; voir [NMN et NAD](fiche:nmn-et-nad) | [B] | mixte (voir fiche) |\n| CoQ10 / ubiquinol | méta-analyse de 24 études : la CoQ10 sanguine augmente de façon constante, mais l'effet sur la performance est petit, instable après exclusion des valeurs aberrantes ; certitude très faible à faible (PMID 41457257). Aucune mesure de fonction mitochondriale chez la personne âgée en bonne santé retenue | [A, très faible certitude] | complément alimentaire (statut non vérifié) |\n| MitoQ (20 mg/j) | ECR croisé de 6 semaines (n = 18, 60-79 ans) : pas d'effet convaincant sur la fonction physique, sous-groupe ≥ 70 ans exploratoire (PMID 41733122). ECR de 12 semaines (n = 22, 65-80 ans, biopsies) : émission de H2O2 mitochondriale réduite, **respiration et réponse redox à l'exercice inchangées** (PMID 41308251). ECR croisé de 8 semaines (n = 30) : pas d'effet sur la fonction rénale (PMID 42420763) | [B] | statut non vérifié [?] |\n| Créatine | voir [créatine](fiche:creatine) ; effet sur les mitochondries non revu dans cette fiche | [?] | complément alimentaire |\n| L-carnitine | voir [L-carnitine](fiche:l-carnitine) ; effet mitochondrial non revu ici | [?] | voir fiche |\n| PQQ | aucun ECR sur la fonction mitochondriale retenu ; un ECR de 60 jeunes sportifs (20 mg PQQ avant un test d'effort) ne mesure que l'intéroception (PMID 41651893) | [?] | statut non vérifié |\n| Acide alpha-lipoïque | aucun ECR sur la fonction mitochondriale chez l'adulte sain retenu ; méta-analyses retrouvées sur autres critères (fertilité masculine, PMID 40327515) | [?] | statut non vérifié |\n| Antioxydants à forte dose (vitamine C 1 g + vitamine E 235-400 mg ou 400 UI/j) pendant l'entraînement | **Effet inverse de l'objectif.** ECR en double aveugle, 54 jeunes adultes, 11 semaines d'endurance : COX4 +59 % et PGC-1α +19 % sous placebo, **pas de hausse** sous vitamines C+E ; VO2max (+8 %) et performance identiques dans les deux groupes (PMID 24492839). ECR, 39 hommes, 4 semaines : le gain de sensibilité à l'insuline et la hausse de PGC-1α induits par l'exercice ne surviennent qu'**en l'absence** d'antioxydants (PMID 19433800). ECR n = 11 : citrate synthase, COX IV et VO2pic non affectés, mais hausse de SOD2 et de TFAM bloquée (PMID 26482865) | [B, petits ECR concordants sur les marqueurs, pas sur la performance] | complément alimentaire |\n| Vitamines B, oméga-3 | aucune donnée mitochondriale humaine lue ; voir [oméga-3](fiche:omega-3) | [?] | complément alimentaire |\n| Froid / chaleur | ECR de 12 hommes entraînés : 3 h à 7 °C ou 33 °C sans effet sur l'expression des gènes de biogenèse mitochondriale musculaire (PMID 28177744) ; exercice nécessaire pour observer des différences. Données animales sur le froid : surexpression de complexes mitochondriaux, mais stress oxydant accru (PMID 42464793) | [B] pour l'humain ; [C] pour l'animal (revue de 5 études chez le rat) | non_applicable |\n| Sommeil | aucune donnée mitochondriale humaine lue ; voir [sommeil](fiche:sommeil) | [?] | non_applicable |",
+   "titre": "Traitements et leviers classés par niveau de preuve"
+  },
+  {
+   "markdown": "- **VO2max / condition cardiorespiratoire** : dans une cohorte rétrospective de 122 007 patients sur tapis roulant (suivi médian 8,4 ans), le risque de mortalité toutes causes est inversement proportionnel à la condition physique ; faible vs élite HR ajusté 5,04 (IC95 4,10-6,20) ; pas de plafond de bénéfice [B] (PMID 30646252). Ce n'est pas un marqueur mitochondrial pur : il dépend aussi du cœur, des poumons et des capillaires.\n- **Respirométrie sur biopsie, spectroscopie 31P-MRS** : réservées à la recherche. Dans CALERIE II, la vitesse de resynthèse de la phosphocréatine est associée à la protéine NAMPT musculaire mais pas au VO2pic ni à plusieurs ARNm mitochondriaux (PMID 32875687) [B].\n- **Lactate, seuils** : outils d'entraînement, validité comme marqueur mitochondrial non vérifiée dans cette fiche [?].\n- **Test sanguin « d'âge mitochondrial »** : aucune validation retrouvée [?]. Voir [bilans biologiques](fiche:bilans-biologiques).",
+   "titre": "Marqueurs mesurables en pratique"
+  },
+  {
+   "markdown": "- Débutant : marche rapide et séances régulières, 2 séances par semaine au minimum (gain mitochondrial proportionnel à la fréquence) [A] (PMID 39390310).\n- Intermédiaire : ajouter 1 séance de HIIT ; voir [HIIT et zone 5](fiche:hiit-et-zone-5-vo2max).\n- Avancé : 4 à 6 séances par semaine mêlant zone 2 et intervalles ; le bénéfice marginal décroît avec la condition physique initiale élevée (PMID 39390310).\nAucun complément n'est un prérequis ; aucune posologie de complément n'est recommandée par cette fiche.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Acheter un complément pour « les mitochondries » avant d'avoir une pratique d'endurance régulière.\n- Confondre hausse d'un biomarqueur (NAD+, expression génique, CoQ10 sanguine) et amélioration de la fonction.\n- Prendre des antioxydants à forte dose (vitamines C + E) autour de l'entraînement : ils bloquent la hausse des marqueurs de biogenèse mitochondriale et le gain de sensibilité à l'insuline dans deux ECR (PMID 24492839, 19433800) [B]. MitoQ, antioxydant ciblé, n'a pas modifié les réponses redox à l'exercice (PMID 41308251) [B].",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Booster ses mitochondries »** : pas de test grand public validé ; la méthode qui fonctionne est l'entraînement (PMID 39390310).\n- **« CoQ10 = énergie »** : la CoQ10 sanguine monte, la performance reste petite et instable (PMID 41457257).\n- **« MitoQ antioxydant ciblé inverse le vieillissement musculaire »** : bénéfice chez la souris âgée [C], pas de bénéfice convaincant chez l'adulte âgé en bonne santé (PMID 41733122, 41308251).\n- **« NAD+ restaure les mitochondries »** : voir [NMN et NAD](fiche:nmn-et-nad) ; hausse sanguine sans hausse musculaire dans les essais cités par la fiche.\n- **« Les antioxydants protègent les mitochondries »** : à forte dose pendant l'entraînement, les vitamines C + E suppriment une partie des adaptations mitochondriales (PMID 24492839) [B]. Le stress oxydant transitoire de l'exercice fait partie du signal d'adaptation (hypothèse de « mitohormèse » des auteurs, PMID 19433800).\n- **« Froid et sauna pour les mitochondries »** : pas d'effet de l'exposition passive en 3 h (PMID 28177744).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Pour un temps d'exercice donné, les sprints (SIT) augmentent le contenu mitochondrial plus vite que l'endurance, mais la fréquence prime pour le gain total (PMID 39390310) [A].\n- Dans l'essai de restriction calorique, l'ADN mitochondrial augmente sans hausse des activités enzymatiques mesurées (PMID 17341128) : « plus de copies d'ADN » n'est pas « plus de fonction ».",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Fatigue inexpliquée persistante, intolérance à l'effort avec douleurs ou urines foncées, faiblesse musculaire progressive, antécédents familiaux : maladies mitochondriales ou autres causes (thyroïde, anémie, diabète) ; en France, filières de maladies rares.\n- Avant tout complément en cas de traitement chronique, grossesse, insuffisance rénale ou hépatique (interactions non revues ici).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 39390310, Mølmen KS et al., Sports Med 2025, doi:10.1007/s40279-024-02120-2 (résumé relu).\n- PMID 17341128, Civitarese AE et al., PLoS Med 2007, doi:10.1371/journal.pmed.0040076 (résumé relu).\n- PMID 37823711, Das JK et al., CALERIE, Aging Cell 2023, doi:10.1111/acel.13963 (résumé relu).\n- PMID 32875687, Darpolor MM et al., NMR Biomed 2021, doi:10.1002/nbm.4402 (résumé relu).\n- PMID 30646252, Mandsager K et al., JAMA Netw Open 2018, doi:10.1001/jamanetworkopen.2018.3605 (résumé relu).\n- PMID 41457257, Deng H et al., CoQ10 et performance, Br J Nutr 2025, doi:10.1017/S0007114525106211 (résumé relu).\n- PMID 41733122, Murray KO et al., MitoQ et fonction physique, J Physiol 2026, doi:10.1113/JP289428 (résumé relu).\n- PMID 41308251, Broome SC et al., MitoQ et réponse à l'exercice, Redox Biol 2025, doi:10.1016/j.redox.2025.103927 (résumé relu).\n- PMID 42420763, Stute NL et al., MitoQ et reins, Am J Physiol Renal Physiol 2026, doi:10.1152/ajprenal.00174.2026 (résumé relu).\n- PMID 28177744, Zak RB et al., chaud et froid, Appl Physiol Nutr Metab 2017, doi:10.1139/apnm-2016-0415 (résumé relu).\n- PMID 42464793, Quiblier SPH et al., hypoxie et froid chez le rat, Animal Model Exp Med 2026, doi:10.1002/ame2.70248 (résumé relu).\n- PMID 24492839, Paulsen G et al., vitamines C et E et endurance, J Physiol 2014, doi:10.1113/jphysiol.2013.267419 (résumé relu).\n- PMID 19433800, Ristow M et al., antioxydants et effets de l'exercice, PNAS 2009, doi:10.1073/pnas.0903485106 (résumé relu).\n- PMID 26482865, Morrison D et al., vitamines C et E et entraînement, Free Radic Biol Med 2015, doi:10.1016/j.freeradbiomed.2015.10.412 (résumé relu).\n- PMID 42732577, Zhao YC et al., entraînement concurrent, J Sports Sci 2026, doi:10.1080/02640414.2026.2732611 (résumé relu).\n- PMID 41651893, Zhao C et al., PQQ et NMN, Sci Rep 2026, doi:10.1038/s41598-025-34191-0 (résumé relu).\n- PMID 40327515, Pires IZ et al., acide alpha-lipoïque et spermatozoïdes, Int Braz J Urol 2025, doi:10.1590/S1677-5538.IBJU.2024.0614 (résumé relu).\n- Fiches du repo : [urolithine A](fiche:urolithine-a), [NMN et NAD](fiche:nmn-et-nad), [créatine](fiche:creatine), [L-carnitine](fiche:l-carnitine).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Mitochondries et vieillissement",
+ "type": "condition",
+ "unite": ""
+}

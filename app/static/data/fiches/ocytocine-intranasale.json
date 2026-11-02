@@ -1,0 +1,85 @@
+{
+ "cibles": [
+  "sante-mentale",
+  "hormones-sexualite"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "peptide",
+ "id": "ocytocine-intranasale",
+ "intro": "",
+ "liens": [
+  "anxiete",
+  "desir-sexuel-hypoactif-femme",
+  "dysfonction-erectile",
+  "melanotan-et-bremelanotide",
+  "ocytocine-et-inhibiteur-alk5"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42694606",
+  "29032324",
+  "33890987",
+  "36774885",
+  "34600216",
+  "35585805",
+  "42335670",
+  "41074229",
+  "38767196",
+  "25086828",
+  "29232031"
+ ],
+ "preuve_globale": "A",
+ "resume": "Peptide de 9 acides aminés, hormone hypophysaire de l'accouchement et de l'allaitement ; l'ocytocine injectable est un médicament obstétrical. La voie nasale est vendue en ligne comme « confiance », « lien », « anxiété sociale », « libido ». Aucun spray nasal d'ocytocine n'a d'autorisation de mis…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Peptide de 9 acides aminés, hormone hypophysaire de l'accouchement et de l'allaitement ; l'**ocytocine injectable est un médicament obstétrical**. La voie **nasale** est vendue en ligne comme « confiance », « lien », « anxiété sociale », « libido ». Aucun spray nasal d'ocytocine n'a d'autorisation de mise sur le marché en France : seul un accès compassionnel encadré par l'ANSM existe, pour le syndrome de Prader-Willi (ANSM, consulté le 2026-10-12).\n- **Autisme** : méta-analyse de 12 ECR (733 participants, 2026) : aucun effet sur le fonctionnement social (SMD −0,05 ; IC 95 % −0,20 à 0,10 ; p = 0,54) [A, négatif] (PMID 42694606). Cognition sociale dans les troubles neurodéveloppementaux (17 études) : effet sur la théorie de l'esprit petit (g = 0,21), pas sur la reconnaissance des émotions (PMID 29032324) [A, faible].\n- **Schizophrénie** : pas d'effet bénéfique cohérent sur les symptômes négatifs et positifs (9 ECR) (PMID 33890987) [A, négatif].\n- **Prader-Willi** : pas d'effet significatif sur l'hyperphagie ni le poids (3 études, 92 patients ; poids MD 0,30 ; −0,22 à 0,83) (PMID 36774885) [A, faible]. C'est pourtant l'indication de l'accès compassionnel.\n- **Appétit** : une dose unique réduit la prise alimentaire chez le non-psychiatrique (SMD −0,66 ; −1,18 à −0,14), sans effet sur la faim, les envies ni l'anxiété (12 essais) (PMID 34600216) [A, petit effet, dose unique].\n- « Hormone de l'amour » et libido par spray en vente libre : aucune donnée solide trouvée dans cette recherche [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Hormone neuropeptidique agissant sur des récepteurs de l'ocytocine ; l'idée est qu'une pulvérisation nasale atteindrait le cerveau. La preuve que la dose intranasale atteint le cerveau en quantité utile n'a pas été relue ici [?].",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Autisme (adultes et enfants) | 12 ECR, 733 participants : aucun effet sur le fonctionnement social ; hétérogénéité faible ; limites : petits effectifs | [A, négatif] (PMID 42694606) |\n| Autisme, adultes (autre méta-analyse) | Revue mise à jour 2023 (titre vérifié, résultats non relus) | [?] (PMID 35585805) |\n| Cognition sociale, troubles neurodéveloppementaux | 17 études, 466 participants : reconnaissance des émotions g = 0,08 (n.s.), empathie g = 0,49 (n.s.), théorie de l'esprit g = 0,21 (significatif) ; aucun effet de dose | [A, faible] (PMID 29032324) |\n| Schizophrénie | 9 ECR : aucun effet significatif ; une analyse dose-réponse suggère un avantage possible à très haute dose, perdu après exclusion d'une étude | [A, négatif] (PMID 33890987) |\n| Prader-Willi | 3 études, 92 patients : pas d'effet sur l'hyperphagie ni le poids ; comportement amélioré dans une étude de groupe | [A, faible] (PMID 36774885) |\n| Prise alimentaire | 12 essais : prise alimentaire plus basse en dose unique chez le non-psychiatrique ; pas d'effet chez les troubles du comportement alimentaire testés | [A, petit effet] (PMID 34600216) |\n| Alcool, anxiété et stress, PTSD, cortisol | Méta-analyses existantes (PMID 42335670, PMID 41074229, PMID 38767196, PMID 25086828) : titres vérifiés, résumés non relus | [?] |\n| Confiance, empathie, lien chez le sujet sain, libido | Non retrouvé dans les méta-analyses lues | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet (règle 7 : pas de posologie). Le contenu réel des sprays vendus en ligne est inconnu sans analyse.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Ocytocine injectable (obstétrique)** : médicament hospitalier ; non concerné par cette fiche.\n- **Spray nasal « Ocytocine 44,44 UI/mL »** : sans AMM en France ni à l'étranger ; accès compassionnel pré-précoce de l'ANSM accordé le 2021-12-20 (initialement pour les nouveau-nés et nourrissons de moins de 6 mois avec Prader-Willi, élargi après avis du centre de référence aux enfants plus âgés le 2022-12-07) ; 123 demandes acceptées à la fin de la période couverte par le rapport n°8, publié en mai 2026 (ANSM, rapports d'accès compassionnel, consultés le 2026-10-12 par résultat de recherche).\n- **Sprays vendus en ligne** : produits non autorisés ; ANSM, page « peptides vendus en ligne » (2026-08-31, consultée le 2026-10-11) : ne cite pas l'ocytocine nommément.\n- AMA : non recherché [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Méta-analyse des événements indésirables d'un traitement intranasal prolongé dans l'autisme : bien toléré, très peu d'événements graves (deux crises convulsives, une sous placebo et une sous ocytocine) (PMID 29232031) [A, conclusion des auteurs]. Cela concerne des essais encadrés en pédiatrie et psychiatrie.\n- L'ocytocine a un effet utérotonique : usage chez la femme enceinte non étudié ici [?]. Autres interactions et effets à long terme sur la fonction sociale ou la fertilité : aucune donnée trouvée [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Risques génériques des peptides vendus sans autorisation : sous-dosage, mauvaise molécule, contamination, endotoxines (ANSM, 2026). Analyse de sprays d'ocytocine vendus en ligne : aucune trouvée [?].",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- Anxiété sociale : TCC, voir [anxiété](fiche:anxiete) ; traitements médicamenteux autorisés à discuter avec un psychiatre.\n- Libido : bilan hormonal et relationnel, voir [désir hypoactif de la femme](fiche:desir-sexuel-hypoactif-femme) et [dysfonction érectile](fiche:dysfonction-erectile).\n- Autisme, Prader-Willi : centre de référence ; pour Prader-Willi, accès compassionnel via RCP.\n- Pas de protocole de dosage ni d'administration, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).\n\nVoir aussi : [ocytocine + inhibiteur d'ALK5 (souris âgées, muscle)](fiche:ocytocine-et-inhibiteur-alk5), [mélanotan et brémélanotide](fiche:melanotan-et-bremelanotide), [anxiété](fiche:anxiete).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Fang G et al. *Alpha Psychiatry* 2026 — PMID 42694606 — [DOI](https://doi.org/10.31083/AP45322)\n2. Keech B et al. *Psychoneuroendocrinology* 2018 — PMID 29032324 — [DOI](https://doi.org/10.1016/j.psyneuen.2017.09.022)\n3. Sabe M et al. *Int J Neuropsychopharmacol* 2021 — PMID 33890987 — [DOI](https://doi.org/10.1093/ijnp/pyab020)\n4. Shalma NM et al. *Diabetes Metab Syndr* 2023 — PMID 36774885 — [DOI](https://doi.org/10.1016/j.dsx.2023.102711)\n5. Chen CY et al. *Clin Nutr* 2021 — PMID 34600216 — [DOI](https://doi.org/10.1016/j.clnu.2021.08.011)\n6. Cai Q et al. *Psychiatry Clin Neurosci* 2018 — PMID 29232031 — [DOI](https://doi.org/10.1111/pcn.12627)\n7. ANSM, accès compassionnel « Ocytocine 44,44 UI/mL solution pour pulvérisation nasale » (RCP, notice, rapports de synthèse) — https://ansm.sante.fr/uploads/2021/12/20/rcp-ocytocine-notifie.pdf et https://ansm.sante.fr/uploads/2026/05/26/20260526-aac-ocytocine-resume-du-rapport-n8.pdf (via résultat de recherche du 2026-10-12, textes non relus en entier)\n8. PMID 35585805, PMID 42335670, PMID 41074229, PMID 38767196, PMID 25086828 : titres vérifiés (autisme adulte, alcool, anxiété, PTSD, cortisol), résumés non relus.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "Ocytocine intranasale (« hormone de l'amour »)",
+ "type": "actif",
+ "unite": ""
+}

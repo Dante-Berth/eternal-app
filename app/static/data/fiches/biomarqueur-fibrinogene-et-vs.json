@@ -1,0 +1,95 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention"
+ ],
+ "derniere_maj": "2026-11-02",
+ "famille": "",
+ "id": "biomarqueur-fibrinogene-et-vs",
+ "intro": "Fiche « examen ». Comparaison avec [CRP / hs-CRP](fiche:biomarqueur-crp-hscrp) et [IL-6](fiche:biomarqueur-il6-interleukine-6). Bilan global : [bilans biologiques](fiche:bilans-biologiques).",
+ "liens": [
+  "bilans-biologiques",
+  "biomarqueur-apob",
+  "biomarqueur-crp-hscrp",
+  "biomarqueur-il6-interleukine-6",
+  "glycemie-et-prediabete",
+  "tension-arterielle"
+ ],
+ "marqueurs": [
+  "fibrinogene",
+  "vs"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 5,
+ "nb_seuils": 4,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "16219884",
+  "20031199",
+  "32221345",
+  "22421339",
+  "34015342"
+ ],
+ "preuve_globale": "A",
+ "resume": "Verdict prévention : ne doser ni le fibrinogène ni la VS pour estimer le risque cardiovasculaire. Si l'on veut un marqueur d'inflammation, la hs-CRP est le meilleur candidat des trois, et son apport lui-même est modeste. Le fibrinogène a la preuve épidémiologique la plus ancienne mais n'a aucun t…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Verdict prévention : ne doser ni le fibrinogène ni la VS pour estimer le risque cardiovasculaire.** Si l'on veut un marqueur d'inflammation, la hs-CRP est le meilleur candidat des trois, et son apport lui-même est modeste. Le fibrinogène a la preuve épidémiologique la plus ancienne mais n'a aucun traitement ciblé, et la VS n'a pas de donnée de prévention retrouvée [?].\n- Fibrinogène : méta-analyse de 154 211 participants (31 études prospectives), HR par g/L de fibrinogène « usuel » : 2,42 (2,24–2,60) pour la maladie coronaire, 2,06 (1,83–2,33) pour l'AVC, 2,03 (1,90–2,18) pour la mortalité non vasculaire, ramenés à environ 1,8 après facteurs de risque classiques [A] (PMID 16219884). Les auteurs écrivent que la causalité reste à étudier.\n- **Ce qu'il apporte de plus que la CRP** : l'association du fibrinogène avec la maladie coronaire reste « essentiellement inchangée » après ajustement sur la CRP (sous-groupe de 7 011 sujets) [A] (PMID 16219884) ; à l'inverse, l'association de la CRP tombe de RR 1,37 à 1,23 après ajustement sur le fibrinogène [A] (PMID 20031199). Les deux marqueurs se chevauchent, mais le fibrinogène seul n'est pas un marqueur plus utilisable en pratique : aucune action possible n'en découle.\n- Dans une cohorte chinoise (China Kadoorie Biobank, 9 380 sujets avec fibrinogène), la CRP restait associée aux infarctus et AVC, **pas le fibrinogène** : OR par écart-type 1,67 (1,44–1,94) pour les événements coronaires avec la CRP ; aucune association pour le fibrinogène [B, cas-témoins nichés] (PMID 32221345).\n- VS : valeur prédictive en prévention cardiovasculaire non retrouvée [?]. Examen d'orientation clinique plutôt que de prévention (usage clinique non sourcé ici).\n- Prix et remboursement en France : non établis [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Le fibrinogène est une protéine de coagulation (précurseur de la fibrine) et de phase aiguë, fabriquée par le foie sous l'effet de l'IL-6, comme la CRP. Il monte avec l'inflammation, le tabac, l'obésité et l'âge. Il est à la fois marqueur d'inflammation et facteur de la coagulation et de la viscosité sanguine : l'association avec le risque ne dit pas lequel de ces rôles compte. Une variante génétique du récepteur de l'IL-6 qui réduit le risque coronaire n'abaisse le fibrinogène que de 1,0 % par copie, contre 7,5 % pour la CRP [A, génétique] (PMID 22421339).\nLa VS (vitesse de sédimentation des globules rouges) dépend surtout du fibrinogène et des immunoglobulines, et aussi de l'hématocrite et de l'âge (mécanisme classique, non sourcé ici [?]).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "Aucun seuil d'action : l'association du fibrinogène avec le risque est log-linéaire, sans seuil. Valeur de référence et seuils de la VS non lus.\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| Fibrinogène | g/L | +1 g/L (usuel) | CHD HR 2,42 (2,24–2,60), AVC HR 2,06 (1,83–2,33), mortalité non vasculaire HR 2,03 (1,90–2,18) ; environ 1,8 après facteurs classiques ; pas de seuil dans la plage étudiée | adultes sans maladie connue, 40 ans et plus | [A, méta-analyse] Danesh 2005, PMID 16219884 |\n| Fibrinogène | g/L | 3,01 (moyenne géométrique) | valeur moyenne de la cohorte, sans association avec les événements coronaires ni l'AVC | adultes chinois de 30 à 79 ans | [B, cas-témoins nichés] Karim 2020, PMID 32221345 |\n| Fibrinogène | g/L | plage de référence, seuil haut | non retrouvé : aucune borne lue [?] | adulte | non retrouvé [?] |\n| VS | mm/h | valeur de référence, seuil haut (selon âge et sexe) | non retrouvé : aucune source lue [?] | adulte | non retrouvé [?] |",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Fibrinogène et maladie coronaire (adultes sans maladie connue) | HR 2,42 (2,24–2,60) par g/L, ≈ 1,8 après facteurs de risque | [A] (PMID 16219884) |\n| Fibrinogène et AVC | HR 2,06 (1,83–2,33) par g/L, ≈ 1,8 après facteurs de risque | [A] (PMID 16219884) |\n| Fibrinogène et mortalité non vasculaire | HR 2,03 (1,90–2,18) par g/L | [A] (PMID 16219884) |\n| Fibrinogène après ajustement sur la CRP (7 011 sujets) | association coronaire « essentiellement inchangée » | [A] (PMID 16219884) |\n| CRP après ajustement sur le fibrinogène | RR 1,37 → 1,23 | [A] (PMID 20031199) |\n| Cohorte asiatique (CKB) | CRP associée aux événements coronaires et à l'AVC ; fibrinogène non associé | [B, cas-témoins nichés] (PMID 32221345) |\n| Fibrinogène : valeur ajoutée aux scores de risque, reclassement | non recherchée ici | [?] |\n| Fibrinogène : baisse par un traitement et effet clinique | non recherché ici (les anti-IL-6 le baissent mais sans résultat d'événements retrouvé) | [?] |\n| VS et risque cardiovasculaire en prévention | aucune étude pertinente retrouvée (recherches PubMed du 2026-10-16) | [?] |",
+   "titre": "Ce que dit la preuve"
+  },
+  {
+   "markdown": "- **Pas de seuil d'action** : association log-linéaire sans seuil (PMID 16219884), donc aucune valeur au-delà de laquelle une conduite change.\n- **Pas d'intervention testée** : la hs-CRP sert de critère d'inclusion dans les essais d'anti-inflammatoires (voir [IL-6](fiche:biomarqueur-il6-interleukine-6) : ziltivekimab, inclusion à hs-CRP ≥ 2 mg/L). Aucun essai retrouvé n'a sélectionné ses patients sur le fibrinogène ou la VS [?].\n- **Non-spécificité** : mortalité non vasculaire aussi associée au fibrinogène (HR 2,03), comme pour la CRP.\n- **Cohorte contemporaine non européenne** : l'effet du fibrinogène disparaît dans un échantillon chinois, l'effet de la CRP persiste (PMID 32221345). Une seule cohorte, hors Europe, avec un LDL-C moyen bas (91,6 mg/dL) : à ne pas généraliser.\n- **VS plus lente et moins précise** : variation avec l'âge, l'anémie, le sexe ; non sourcé ici [?].",
+   "titre": "Pourquoi le fibrinogène et la VS perdent contre la hs-CRP"
+  },
+  {
+   "markdown": "- Un fibrinogène bas ou très haut est un examen de coagulation, pas de prévention : hors périmètre de cette fiche (non recherché [?]).\n- VS élevée avec symptômes (douleurs des ceintures, céphalées d'apparition tardive, fièvre prolongée, amaigrissement) : orientation clinique, à confier au médecin (usage non sourcé ici [?]).",
+   "titre": "Quand le fibrinogène ou la VS servent à autre chose"
+  },
+  {
+   "markdown": "- Prévention : ne pas doser. Si besoin d'un indicateur d'inflammation, une hs-CRP bien prélevée ([CRP](fiche:biomarqueur-crp-hscrp)) ; l'essentiel du risque se traite sur [ApoB](fiche:biomarqueur-apob), [tension](fiche:tension-arterielle), [glycémie](fiche:glycemie-et-prediabete) et le tabac.\n- Fibrinogène haut mesuré par hasard : chercher une cause (infection, tabac, obésité, maladie inflammatoire) et ne pas traiter le chiffre seul.",
+   "titre": "Que faire"
+  },
+  {
+   "markdown": "Examens de biologie médicale prescrits (fibrinogène, VS). Cotation NABM, prix, remboursement : non retrouvés [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Doser fibrinogène + VS + CRP + IL-6 « pour être complet » : ils sont corrélés, pas indépendants (la CRP et le fibrinogène se chevauchent, PMID 20031199).\n- Interpréter une valeur isolée sans exclure une infection récente ou un effort intense.\n- Lire un fibrinogène haut comme un « risque de caillot » personnalisé : la fiche ne montre qu'une association de population avec l'infarctus et l'AVC.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Le fibrinogène est un meilleur marqueur de risque que le cholestérol »** : HR ≈ 1,8 par g/L après facteurs classiques, sans seuil ni traitement ciblé retrouvé ; ne remplace pas l'[ApoB](fiche:biomarqueur-apob) (PMID 16219884).\n- **« Une VS normale prouve que le cœur va bien »** : aucune donnée de prévention retrouvée [?].\n- **« Les compléments anti-fibrinogène (nattokinase, etc.) protègent le cœur »** : non recherchés ici, aucune preuve citée [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- L'ajustement sur la CRP ne change pas l'association du fibrinogène avec la maladie coronaire, alors que l'ajustement sur le fibrinogène réduit l'association de la CRP (PMID 16219884, PMID 20031199).\n- Dans RESCUE, un anti-IL-6 a fait baisser le fibrinogène en même temps que la CRP (PMID 34015342) : baisser le fibrinogène par un anti-IL-6 n'a pas, à lui seul, de preuve d'effet clinique.\n- Dans la cohorte chinoise, aucune association du fibrinogène avec l'hémorragie cérébrale non plus (PMID 32221345).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "VS ou fibrinogène très élevés sans cause évidente, ou avec fièvre, douleurs inflammatoires, perte de poids, troubles visuels : consultation (seuils non sourcés ici [?]).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 16219884 — Fibrinogen Studies Collaboration (Danesh J et al.), Plasma fibrinogen level and the risk of major cardiovascular diseases and nonvascular mortality: an individual participant meta-analysis. *JAMA* 2005. doi:10.1001/jama.294.14.1799\n- PMID 20031199 — Emerging Risk Factors Collaboration, Kaptoge S et al., CRP concentration and risk of CHD, stroke and mortality. *Lancet* 2010 (repris de la fiche [CRP](fiche:biomarqueur-crp-hscrp)).\n- PMID 32221345 — Karim MA et al., Systemic inflammation is associated with incident stroke and heart disease in East Asians. *Sci Rep* 2020. doi:10.1038/s41598-020-62391-3\n- PMID 22421339 — Sarwar N et al. (IL6R Genetics Consortium), Interleukin-6 receptor pathways in coronary heart disease. *Lancet* 2012. doi:10.1016/S0140-6736(11)61931-4\n- PMID 34015342 — Ridker PM et al., IL-6 inhibition with ziltivekimab (RESCUE). *Lancet* 2021. doi:10.1016/S0140-6736(21)00520-1",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueurs : fibrinogène et vitesse de sédimentation (VS)",
+ "type": "biomarqueur",
+ "unite": ""
+}

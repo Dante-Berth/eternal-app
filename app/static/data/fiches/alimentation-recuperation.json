@@ -1,0 +1,72 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "alimentation",
+ "id": "alimentation-recuperation",
+ "intro": "",
+ "liens": [
+  "cerise-acide",
+  "mais-grille-sale-apres-le-sport",
+  "omega-3"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "33507402",
+  "36513777",
+  "41433039",
+  "34444975",
+  "33851213",
+  "42583675",
+  "42797032",
+  "36983608",
+  "34673936"
+ ],
+ "preuve_globale": "A",
+ "resume": "Entre deux séances rapprochées (≤ 8 h), les glucides restent la priorité : ils accélèrent la resynthèse du glycogène par rapport à l'eau ; ajouter des protéines à des glucides ne l'accélère pas [A] (29 essais, n = 246).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Entre deux séances rapprochées (≤ 8 h), **les glucides** restent la priorité : ils accélèrent la resynthèse du glycogène par rapport à l'eau ; ajouter des protéines à des glucides ne l'accélère pas [A] (29 essais, n = 246).\n- **Protéines** : bénéfice modeste. Une méta-analyse bayésienne de 75 études (1206 athlètes) conclut que tous les effets significatifs viennent d'essais où l'énergie n'était **pas appariée** : ce serait l'apport calorique/protéique total, pas la poudre elle-même [A]. Environ 2 g/kg/j au total était la zone la plus efficace pour la performance, selon cette méta-analyse.\n- **Aliments à effet mesuré mais modeste** : cerise acide et betterave (voir plus bas) [A, faible qualité].\n- Il n'existe pas ici de preuve pour un « régime anti-inflammatoire » ou méditerranéen sur la récupération sportive [?] (recherche sans résultat).\n- Hydratation/réhydratation, lait chocolaté : recherche sans résultat exploitable [?].\n- Collation salée et glucidique (ex. [maïs grillé salé](fiche:mais-grille-sale-apres-le-sport)) : aucune étude sur le produit ; logique glucides + protéines ci-dessus [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Glycogène : combustible rechargé par les glucides ; protéines : substrat de réparation, mais bénéfice non démontré au-delà d'un apport total suffisant [A].",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Aliment / nutriment | Effet mesuré | Preuve |\n|---|---|---|\n| Glucides (≈ 1 g/kg/h pendant la fenêtre ≤ 8 h) | ↑ resynthèse du glycogène vs eau (+23,5 mmol/kg MS/h) | [A] PMID 33507402 |\n| Glucides + protéines vs glucides seuls | Aucune différence de resynthèse | [A] PMID 33507402 |\n| Protéines (aliments ou poudre) péri-effort | Force préservée, CK↓ ; pas de gain sur courbatures ; effet lié à l'énergie non appariée | [A] PMID 36513777, 41433039 |\n| Protéine du lait vs whey (adultes ≥ 60 ans, avec musculation) | Lait supérieur pour la masse maigre ; 10–15 g suffisent ; whey à même dose : effet négatif dans 4 études sur 5 | [A] PMID 34444975 (population âgée, pas extrapolable aux jeunes) |\n| Protéine « de qualité » (animale, riche en leucine) | Léger avantage sur synthèse protéique et force, pas sur masse maigre | [A] PMID 33851213 |\n| Cerise acide (jus) | CRP↓ ; courbatures/CK peu clairs | [A] voir [fiche](fiche:cerise-acide) |\n| Jus de betterave | CK↓, force↑ (7 essais, forte hétérogénéité) | [A, forte hétérogénéité] PMID 42583675 |\n| Plantes (aliments entiers) | Soulagement possible des courbatures, rien de constant sur la fonction | [A] PMID 42797032 |\n| Poissons gras (EPA/DHA) | Preuve sur compléments, pas sur l'aliment | [A] voir [oméga-3](fiche:omega-3) |\n| Fenugreek (extrait) | 4 ECR sur 6 positifs, deux essais à moins de 10 participants ; **risque de dopage et d'atteinte hépatique/rénale signalé** | [B] PMID 36983608 |",
+   "titre": "Aliments : ce que disent les études"
+  },
+  {
+   "markdown": "- Séances rapprochées : glucides rapidement et régulièrement ; protéines pour l'apport total quotidien, pas pour « la fenêtre anabolique ».\n- Le reste (cerise acide, betterave, poissons gras) est à bénéfice modeste, au mieux. Pas de dose recommandée par les sources lues [?].",
+   "titre": "Ce qu'on peut raisonnablement faire (hypothèse de travail, pas un protocole)"
+  },
+  {
+   "markdown": "- Croire que la poudre de protéines est magique : le gain disparaît quand l'énergie est appariée [A].\n- Ajouter des protéines aux glucides pour recharger plus vite le glycogène [A].\n- Extrapoler les résultats chez les plus de 60 ans (lait vs whey) aux jeunes.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Protéines dans les 30 minutes »** : la méta-analyse protéines n'étudie pas ce mythe précisément ; elle montre surtout un effet dépendant de l'énergie [A] ; l'« anabolic window » proprement dite n'a pas été vérifiée ici [?].\n- **« Fenugreek booste la testostérone »** : la revue rapporte une activité androgénique pour une forme précise (glycosides), sur 6 petits ECR, sans en quantifier l'effet dans son résumé, et met en garde contre le dopage et les atteintes hépatiques et rénales [B] (PMID 36983608). Ni preuve solide, ni mythe démonté.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Perte de poids involontaire, fatigue persistante, déficit calorique chronique chez le sportif, troubles du comportement alimentaire, pathologie rénale avant haute teneur en protéines.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 33507402 — Craven J. et al., *Sports Med Open* 2021. doi:10.1186/s40798-020-00297-0\n- PMID 41433039 — Zhao S. et al., *J Int Soc Sports Nutr* 2025. doi:10.1080/15502783.2025.2605338\n- PMID 36513777 — Pearson et al., *Eur J Clin Nutr* 2022, protéines et dommage musculaire. doi:10.1038/s41430-022-01250-y\n- PMID 34444975 — Huang L.-P. et al., *Nutrients* 2021. doi:10.3390/nu13082815\n- PMID 33851213 — Morgan P.T. et al., *J Nutr* 2021. doi:10.1093/jn/nxab055\n- PMID 34673936 — Kirwan R.P. et al., *Am J Clin Nutr* 2022 (protéines + musculation, ≥ 50 ans). doi:10.1093/ajcn/nqab355\n- PMID 42583675 — Beba et al., *Ann Med Surg* 2026, jus de betterave. doi:10.1097/MS9.0000000000005231\n- PMID 42797032 — Nguyen et al., *Nutrients* 2026, aliments végétaux (synthèse narrative). doi:10.3390/nu18183049\n- PMID 36983608 — Albaker W.I., *J Pers Med* 2023 (fenugreek). doi:10.3390/jpm13030427",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Alimentation et récupération",
+ "type": "actif",
+ "unite": ""
+}

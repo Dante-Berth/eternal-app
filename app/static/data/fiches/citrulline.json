@@ -1,0 +1,77 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "complement",
+ "id": "citrulline",
+ "intro": "",
+ "liens": [
+  "beta-alanine",
+  "citrulline-base-nutrimuscle-poudre",
+  "creatine",
+  "taurine"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42356270",
+  "41786156",
+  "42797032",
+  "42356310",
+  "42755674",
+  "29305240",
+  "37062432",
+  "40789388",
+  "42639281"
+ ],
+ "preuve_globale": "A",
+ "resume": "Acide aminé précurseur de l'arginine, vendu comme « booster de pompe » et anti-fatigue, souvent sous forme de citrulline malate dans les préentraînements.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Acide aminé précurseur de l'arginine, vendu comme « booster de pompe » et anti-fatigue, souvent sous forme de citrulline malate dans les préentraînements.\n- Citrulline malate : 30 RCT, 644 participants, **petite** amélioration globale de la performance (g = 0,16 ; p = 0,01), intervalles de prédiction larges, effet sur l'effort perçu non significatif, certitude GRADE **faible à très faible** ; dose, moment de prise et population cible non établis [A, faible certitude] (PMID 42356270).\n- Composition corporelle : avec exercice, la L-citrulline à long terme réduit modestement la masse grasse (SMD −0,21 ; −0,40 à −0,01) et la masse grasse androïde (SMD −0,32) comparée à l'exercice seul ; poids, IMC et masse maigre inchangés (9 RCT) [A, effet très modeste] (PMID 41786156).\n- Récupération : des aliments riches en citrulline (pastèque) ou en nitrate (betterave) figurent parmi les produits testés ; les douleurs musculaires perçues diminuent dans plusieurs essais mais pas de façon uniforme, et aucune intervention précise n'est recommandable (36 essais) [A, hétérogène] (PMID 42797032).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Voie endogène : la citrulline alimente l'arginine par l'axe intestin-rein, et l'arginine est le substrat de la NO synthase qui produit le monoxyde d'azote (NO) (PMID 42356310, revue) ; chez l'humain la synthèse d'arginine à partir de la citrulline est principalement intestinale et rénale (Anses, avis 2014-SA-0008).\n- Chez le rat, la L-citrulline orale a une biodisponibilité supérieure à celle de l'arginine (F 82,2 % contre 52,6 %) et s'élimine presque entièrement par conversion en arginine, d'où une exposition systémique à l'arginine plus élevée qu'avec l'arginine orale ; 30 jours de citrulline ont augmenté les NOx plasmatiques et l'expression d'eNOS aortique d'environ 1,6 fois [C] (PMID 42755674). Transposition à l'humain non démontrée par cette étude.\n- Chez l'humain, une étude pilote chez des enfants drépanocytaires (29 enfants) rapporte une hausse de la production de NO corporelle après un mélange arginine + citrulline, sans pouvoir attribuer l'effet à la citrulline seule [B] (PMID 29305240). Lien entre cette voie NO et l'effet sur la performance sportive : non établi [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Performance à l'exercice (citrulline malate) | g = 0,16 ; certitude faible à très faible | [A, faible certitude] (PMID 42356270) |\n| Effort perçu | Non significatif | [A] (PMID 42356270) |\n| Masse grasse avec exercice | SMD −0,21 ; pas d'effet sur le poids ni la masse maigre | [A, effet modeste] (PMID 41786156) |\n| Récupération et courbatures | Effets non uniformes, aucune dose recommandable | [A, hétérogène] (PMID 42797032) |\n| Pression artérielle, érection, autres usages | Non recherchés ici | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Aucune différence significative selon la dose ni le moment de prise (PMID 42356270). Dosages vendus : à lire sur l'étiquette ; **ratio citrulline/malate** et composition réelle à vérifier, car les auteurs demandent des essais « avec composition vérifiée » (PMID 42356270).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- L-citrulline et citrulline malate (poudre, gélules, mélanges préentraînement).\n- **Statut France : complément alimentaire.** Les SBNP autres que celles de l'arrêté du 26 septembre 2016 (quatre substances) relèvent de la liste DGCCRF des SBNP « éligibles à l'article 15 » du décret 2006-352 (123 SBNP, selon l'avis Anses 2023-SA-0216 du 24 décembre 2024, consulté le 2026-10-13). Un moteur de recherche indexe la citrulline dans ce tableau (Table-SBNP.pdf, DGCCRF), mais le PDF a refusé le téléchargement (HTTP 403) : présence dans la liste, forme malate et dose maximale non relues à la source (DGCCRF, consulté le 2026-10-13) [?].\n- **Allégations de santé UE : aucune entrée « citrulline »** dans le registre de la Commission européenne, donc aucune allégation autorisée (Registre UE des allégations nutritionnelles et de santé, version PDF générée le 2013-02-14, consulté le 2026-10-13). Registre ancien : allégations évaluées depuis non vérifiées [?].\n- **AMA/WADA : non nommée.** Liste des interdictions 2026 (en vigueur depuis le 1er janvier 2026) : aucune occurrence de « citrulline », d'« arginine » ni d'« acide aminé » (téléchargement du PDF anglais et recherche textuelle, WADA, consulté le 2026-10-13). Le risque pour un sportif testé est la contamination (voir Sécurité).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Tolérance chez l'adulte sain** : sans effet indésirable observé jusqu'à 24 g/j dans les essais de dose ayant servi à établir un NOAEL (niveau sans effet nocif observé) ; selon l'auteur, aucune agence nationale n'avait fixé de limite supérieure pour les acides aminés en 2023 [B] (PMID 37062432, revue narrative). Les doses usuelles des compléments sont à comparer à ce chiffre sur l'étiquette.\n- **Pression artérielle** : la citrulline (ou la pastèque) abaisse la pression artérielle chez les adultes d'âge moyen et âgés, SBP −4,02 mmHg (IC 95 % −6,54 à −1,50) et DBP −2,54 mmHg, sur 15 RCT et 415 participants [A] (PMID 40789388). Conséquence pratique à discuter avec un médecin en cas de traitement antihypertenseur ou de vasodilatateur (effet additif plausible, non documenté dans les sources lues).\n- Interaction avec les inhibiteurs de la PDE5 ou les dérivés nitrés, grossesse, insuffisance rénale, effets digestifs de la forme malate : non documentés dans les sources lues [?].\n- Les mélanges préentraînement figurent parmi les produits au risque de contamination le plus élevé pour les sportifs testés (PMID 42639281) [B].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Pompe et endurance spectaculaires » : effet global petit (g = 0,16), certitude faible (PMID 42356270).\n- « Fait fondre la graisse » : réduction modeste de masse grasse seulement en association avec un programme d'exercice (PMID 41786156).\n- « Validé par l'EFSA » : aucune allégation citrulline n'est autorisée dans l'UE (registre de la Commission européenne, version 2013).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- [Citrulline (L-citrulline base) en poudre Nutrimuscle](fiche:citrulline-base-nutrimuscle-poudre)\n\nVoir aussi : [créatine](fiche:creatine), [bêta-alanine](fiche:beta-alanine), [taurine](fiche:taurine).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Wang X et al. *Nutrients* 2026 — PMID 42356270 — [DOI](https://doi.org/10.3390/nu18121881)\n2. Wang W et al. *Complement Ther Med* 2026 — PMID 41786156 — [DOI](https://doi.org/10.1016/j.ctim.2026.103339)\n3. Nguyen DHN et al. *Nutrients* 2026 — PMID 42797032 — [DOI](https://doi.org/10.3390/nu18183049)\n4. Mancin L et al. *Transl Sports Med* 2026 — PMID 42639281 — [DOI](https://doi.org/10.1155/tsm2/5919439)\n5. Song S et al. *Front Pharmacol* 2026 — PMID 42755674 — [DOI](https://doi.org/10.3389/fphar.2026.1889835)\n6. Collins-Smith A et al. *Nutrients* 2026 — PMID 42356310 — [DOI](https://doi.org/10.3390/nu18121923)\n7. Marealle AI et al. *Nitric Oxide* 2018 — PMID 29305240 — [DOI](https://doi.org/10.1016/j.niox.2017.12.009)\n8. Elango R. *Adv Nutr* 2023 — PMID 37062432 — [DOI](https://doi.org/10.1016/j.advnut.2023.04.004)\n9. Luo P et al. *Clin Nutr ESPEN* 2025 — PMID 40789388 — [DOI](https://doi.org/10.1016/j.clnesp.2025.07.1130)\n10. Anses, avis 2014-SA-0008, 7 novembre 2016 — https://www.anses.fr/fr/system/files/NUT2014SA0008Ra.pdf (consulté le 2026-10-13) ; Anses, avis 2023-SA-0216, 24 décembre 2024 — https://www.anses.fr/sites/default/files/NUT2023-SA-0216.pdf (consulté le 2026-10-13)\n11. Commission européenne, Registre UE des allégations nutritionnelles et de santé — https://ec.europa.eu/food/food-feed-portal/backend/claims/files/euregister.pdf (version générée le 2013-02-14, consulté le 2026-10-13) ; DGCCRF, Table-SBNP — https://www.economie.gouv.fr/files/files/directions_services/dgccrf/securite/produits_alimentaires/Complement_alimentaire/Table-SBNP.pdf (non téléchargeable, HTTP 403, consulté le 2026-10-13)\n12. AMA/WADA, Liste des interdictions 2026 — https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf (consulté le 2026-10-13)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Citrulline (L-citrulline et citrulline malate)",
+ "type": "actif",
+ "unite": ""
+}

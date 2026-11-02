@@ -1,0 +1,98 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-08",
+ "famille": "medicament",
+ "id": "minoxidil",
+ "intro": "",
+ "liens": [
+  "alostil-5-mousse",
+  "finasteride",
+  "laser-basse-intensite",
+  "minoxidil-bailleul-2-solution",
+  "minoxidil-cooper-5-solution",
+  "regaine-minoxidil-5-mousse"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 32,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "14996087",
+  "34159872",
+  "34133836",
+  "28396101",
+  "12196747",
+  "27225981",
+  "15034503",
+  "41051009",
+  "42512824",
+  "17761356",
+  "27391639",
+  "27391640",
+  "21700360",
+  "26387973",
+  "38598226",
+  "38031516",
+  "32166351",
+  "41041440",
+  "40826200",
+  "39828269",
+  "42190753",
+  "42168420",
+  "31403367",
+  "42398233",
+  "38885151",
+  "11807448",
+  "40289757",
+  "33639244",
+  "37652097",
+  "14745922",
+  "11933692",
+  "34370845"
+ ],
+ "preuve_globale": "A",
+ "resume": "Topique : le traitement de référence sans ordonnance de l'alopécie androgénétique (AGA), chez l'homme comme chez la femme [A]. Gain modeste : chez la femme, +13 cheveux/cm² environ vs placebo (Cochrane, qualité faible) [A, faible certitude].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Topique : le traitement de référence sans ordonnance de l'alopécie androgénétique (AGA), chez l'homme comme chez la femme [A]. Gain modeste : chez la femme, +13 cheveux/cm² environ vs placebo (Cochrane, qualité faible) [A, faible certitude].\n- Homme : le 5 % fait mieux que le 2 % (ECR de 393 hommes, 48 sem.) [B, ECR unique n=393]. Femme : pas de différence nette 2 % vs 5 % [A, faible certitude].\n- Effet suspensif : à l'arrêt, retour à l'état initial en 3 à 4 mois selon le RCP (BDPM, consulté le 2026-10-03).\n- Mousse vs solution : même molécule ; la mousse française (Alostil 5 % mousse) est sans propylène glycol, utile si la solution irrite [B].\n- Oral faible dose : hors AMM ; 5 mg/j n'a pas battu le 5 % topique dans un ECR de 90 hommes, avec 49 % d'hypertrichose [B, ECR unique n=90].\n- Danger domestique : toxique pour les chats (8 décès sur 62 chats symptomatiques dans une série américaine) [B].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Mécanisme capillaire mal compris. Chez l'animal, le minoxidil topique raccourcit le télogène et fait entrer les follicules en anagène ; il pourrait aussi prolonger l'anagène et augmenter la taille du follicule [C] (revue, PMID 14996087).\n- Oral, il abaisse la tension en ouvrant les canaux potassiques KATP via son métabolite, le sulfate de minoxidil ; l'implication de ces canaux dans le follicule n'est pas démontrée [D] (PMID 14996087).\n- Prodrogue : convertie en sulfate de minoxidil par une sulfotransférase folliculaire (SULT1A1) ; une activité enzymatique plus élevée prédirait une meilleure réponse [B] (revue, PMID 34159872). Un « booster » de SULT1A1 a amélioré la réponse sur 24 hommes, à 60 jours, sur photos globales seulement [B, ECR n=24] (PMID 34133836).\n- Passage systémique du topique : 1,7 % en moyenne (0,3 à 4,5 %) selon le RCP (BDPM, Minoxidil Cooper 5 %, consulté le 2026-10-03).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| AGA homme, 2 % et 5 % vs placebo | Tous supérieurs au placebo (méta-analyse d'ECR de bonne qualité ; forte hétérogénéité, ampleur non donnée dans le résumé) | [A] (PMID 28396101) |\n| AGA homme, 5 % vs 2 % vs placebo, 48 sem. | 5 % supérieur au 2 % et au placebo ; « 45 % de repousse en plus » que le 2 % ; plus de prurit et d'irritation avec le 5 % | [B, ECR unique n=393] (PMID 12196747) |\n| AGA femme, minoxidil vs placebo | +13,18 cheveux/cm² (IC 10,92–15,44 ; 8 essais, 1242 participantes, qualité faible) ; repousse modérée à marquée RR 1,93 (qualité modérée) | [A, faible certitude] (Cochrane, PMID 27225981) |\n| AGA femme, 2 % vs 5 % | Pas de différence (4 essais, 1006 participantes) | [A, faible certitude] (PMID 27225981) |\n| AGA femme, 5 % vs 2 %, 48 sem. | 5 % supérieur au placebo sur les 3 critères ; supérieur au 2 % seulement sur l'avis des patientes ; plus d'hypertrichose avec le 5 % | [B, ECR unique n=381] (PMID 15034503) |\n| Homme, NMA monothérapies vs produits sans ordonnance (24 sem.) | Minoxidil 5 % topique vs contrôle : +20,0 cheveux/cm² (IC crédible 3,7–41,0) ; le dutastéride oral est classé 1er (SUCRA 95,8 %). Incohérence directe/indirecte significative pour plusieurs comparaisons (finastéride, dutastéride) malgré la conclusion des auteurs ; chiffres tirés du texte intégral | [A, faible certitude] (PMID 41051009) |\n| Homme, NMA hors AMM + minoxidil (23 études, 6 mois) | Minoxidil 5 % classé 1er ; +15,17 cheveux/cm² vs huile de romarin, +13,83 vs cétirizine 1 % (texte intégral). Inclut des études non randomisées | [A, faible certitude] (PMID 42512824) |\n| Mousse 5 % homme vs placebo, 16 sem. | Nombre de cheveux supérieur au placebo (352 hommes) | [B, ECR unique n=352] (PMID 17761356) |\n| Mousse 5 % 1×/j femme vs véhicule, 24 sem. | +9,1 cheveux/cm² vs véhicule (404 femmes) | [B, ECR unique n=404] (PMID 27391639) |\n| Mousse 5 % 1×/j vs solution 2 % 2×/j, femme | Résultats proches (+23,9 vs +24,2 cheveux/cm² à 24 sem.), non-infériorité formellement non atteinte (322 femmes) ; dans un autre essai (113 femmes), non-inférieure et moins d'intolérance locale (p = 0,046) | [B, contradictoire] (PMID 27391640, 21700360) |\n| Durée : mousse 5 % sur 104 sem. (ouvert) | Gains au front jusqu'à 52–76 sem., puis valeurs revenues proches de l'initial à 104 sem. ; les auteurs parlent de « stabilisation » | [B, extension ouverte n=45] (PMID 26387973) |\n| Oral 5 mg/j vs topique 5 %, homme, 24 sem. | Pas de supériorité de l'oral sur la densité ; supériorité seulement sur photos du vertex (p = 0,04) ; hypertrichose 49 %, céphalées 14 % | [B, ECR unique n=90] (PMID 38598226) |\n| Oral 1 mg/j vs topique 5 % (H et F), 6 mois | Pas de différence significative entre les groupes | [B, ECR unique n=65] (PMID 38031516) |\n| + [finastéride](fiche:finasteride) | Meilleure évaluation photographique que chaque monothérapie ; pas de différence de densité (5 ECR) | [A, faible certitude] (PMID 32166351) ; meilleur sous-groupe homme en NMA (SUCRA 80,18 %) (PMID 41041440) |\n| + [LLLT](fiche:laser-basse-intensite) vs minoxidil seul | Contradictoire : +6,62 cheveux/cm² (7 ECR, I² 56 %) dans une méta-analyse, aucune différence (4 ECR) dans une autre | [A, contradictoire] (PMID 40826200, 39828269) |\n| + microneedling (femme, minoxidil 2 %) | Aucun bénéfice additionnel à 24 sem. | [B, ECR unique n=245] (PMID 42190753) |\n| + spironolactone / flutamide | Rang SUCRA élevé, « peu d'études », pas de différence de densité entre interventions | [A, faible certitude] (PMID 42168420) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Étudiées : 2 % et 5 % (solution), 5 % (mousse) [A] ; 10 % : pas mieux que 5 % et plus irritant (90 hommes, 36 sem.) [B, ECR unique n=90] (PMID 31403367).\n- Vendues en France : 2 % (homme et femme) et 5 % (homme adulte uniquement), en solution ; 5 % en mousse (Alostil). Les « nano-minoxidils » : pénétration folliculaire 2 à 7 fois supérieure, mais preuves précliniques et une seule étude humaine de tolérance [C] (PMID 42398233).\n- Posologie RCP : 1 ml deux fois par jour, 2 ml/j maximum ; mousse Alostil : 1 g deux fois par jour (BDPM, consulté le 2026-10-03).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "| Forme | Statut France (BDPM, consulté le 2026-10-03) |\n|---|---|\n| Solution 2 % (Alopexy, Alostil, génériques Bailleul, Biogaran, Cooper, Sandoz, Viatris…) | Médicament sans ordonnance, non remboursable, prix libre ; indiqué chez l'adulte, homme et femme |\n| Solution 5 % (Alostil, Unipexil, Minoxidil Bailleul, Cooper, Biogaran, Viatris, Sandoz, Teva…) | Sans ordonnance, non remboursable ; « chez le sujet adulte de sexe masculin » ; contre-indiqué chez la femme, avant 18 ans et après 65 ans |\n| Mousse 5 % (Alostil 5 %, Kenvue France) | Sans ordonnance, non remboursable ; homme adulte ; RCP révisé le 10/11/2025 |\n| Oral faible dose | Aucune spécialité orale autorisée pour la chute de cheveux : usage hors AMM, sur décision médicale |\n| Cosmétiques | Le minoxidil n'est pas un ingrédient cosmétique : un shampooing « au minoxidil » vendu comme cosmétique est anormal |\n\nAMA : le texte de la liste des interdictions 2026 n'a pas pu être consulté directement (PDF du site wada-ama.org inaccessible depuis mes outils) ; les communications officielles 2026 consultées (AFLD, consulté le 2026-10-03) ne citent pas le minoxidil. Statut AMA à confirmer sur la liste 2026 ou via medicaments.afld.fr.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Irritation, prurit, desquamation : plus fréquents avec le 5 % qu'avec le 2 % [B] (PMID 12196747, 15034503).\n- Eczéma de contact allergique confirmé par patch-test (99 patients, 46 études) : allergène = minoxidil lui-même dans 74,7 % des cas, propylène glycol dans 17,1 % [B] (PMID 38885151). Allergie au propylène glycol : passer à une formule sans PG (mousse, ou solution Minoxidil Cooper, dont les excipients sont glycérol, éthanol, eau selon la BDPM) ; allergie au minoxidil : plus aucune forme topique possible [B] (PMID 11807448, 40289757).\n- Hypertrichose (visage) : surtout chez la femme et avec le 5 % [B] (PMID 15034503). Oral faible dose : hypertrichose 15,1 % et effets systémiques rares (vertiges 1,7 %, rétention hydrique 1,3 %, tachycardie 0,9 %) dans une cohorte rétrospective de 1404 patients sans groupe témoin [B] (PMID 33639244).\n- Nourrissons : « Des cas d'hypertrichose ont été rapportés chez des nourrissons après contact cutané » (RCP Minoxidil Bailleul et Cooper 5 %, BDPM, consulté le 2026-10-03). Se laver les mains, éviter le contact de la tête traitée avec un bébé.\n- Cœur : surveiller hypotension, tachycardie, rétention hydrique (RCP) ; patients hypertendus sous LDOM : arrêt plus fréquent si doxazosine ou ≥ 3 antihypertenseurs [B] (PMID 37652097).\n- Grossesse, allaitement : 5 % contre-indiqué chez la femme ; Alopexy 2 % déconseillé pendant la grossesse et chez la femme sans contraception, à ne pas utiliser pendant l'allaitement (BDPM, consulté le 2026-10-03). Quelques malformations fœtales rapportées après usage topique, sans lien causal établi [B, cas isolés] (PMID 14745922, 11933692).\n- Animaux : 211 expositions de chiens et chats (2001-2019), signes cliniques même pour quelques gouttes ou léchages ; 8 des 62 chats symptomatiques sont morts [B] (PMID 34370845).\n- Incompatibilités : pas d'interaction documentée avec un shampooing au kétoconazole ; appliquer sur cuir chevelu sec et sain (RCP : contre-indiqué si dermatose du cuir chevelu).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Top 3 (critères : preuve de l'actif, concentration efficace, prix, tolérance) :\n1. [Minoxidil Cooper 5 % solution](fiche:minoxidil-cooper-5-solution) : actif [A] à la concentration la plus étudiée chez l'homme, environ 5 à 8 €/mois, et sans propylène glycol.\n2. [Alostil 5 % mousse](fiche:alostil-5-mousse) : même actif et même dose, sans propylène glycol, sèche plus vite ; mais environ 13 à 17 €/mois.\n3. Solution 2 % générique (femme, ou homme intolérant au 5 %) : seule concentration autorisée chez la femme en France, efficacité comparable au 5 % chez la femme [A, faible certitude] ; pas de fiche produit.\nAutres fiches : [Minoxidil Bailleul 2 %](fiche:minoxidil-bailleul-2-solution) (femme et homme, environ 3 €/mois, avec propylène glycol).\nPrinceps : [Regaine Homme 5 % mousse](fiche:regaine-minoxidil-5-mousse) (même mousse qu'Alostil, importée, environ 24 €/mois).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 14996087 — Messenger A.G., Rundegren J., *Br J Dermatol* 2004, mécanismes. doi:10.1111/j.1365-2133.2004.05785.x\n- PMID 34159872 — Gupta A.K. et al., *J Dermatolog Treat* 2021, revue. doi:10.1080/09546634.2021.1945527\n- PMID 34133836 — Dhurat R. et al., *J Cosmet Dermatol* 2021, booster SULT1A1. doi:10.1111/jocd.14299\n- PMID 28396101 — Adil A., Godwin M., *J Am Acad Dermatol* 2017, méta-analyse. doi:10.1016/j.jaad.2017.02.054\n- PMID 12196747 — Olsen E.A. et al., *J Am Acad Dermatol* 2002, 5 % vs 2 % homme. doi:10.1067/mjd.2002.124088\n- PMID 15034503 — Lucky A.W. et al., *J Am Acad Dermatol* 2004, 5 % vs 2 % femme. doi:10.1016/j.jaad.2003.06.014\n- PMID 27225981 — van Zuuren E.J. et al., *Cochrane Database Syst Rev* 2016. doi:10.1002/14651858.CD007628.pub4\n- PMID 41051009 — Gupta A.K. et al., *J Cosmet Dermatol* 2025, NMA (texte intégral PMC12498493). doi:10.1111/jocd.70483\n- PMID 42512824 — Gupta A.K. et al., *Medicina* 2026, NMA hors AMM (texte intégral PMC13414076). doi:10.3390/medicina62071282\n- PMID 17761356 — Olsen E.A. et al., *J Am Acad Dermatol* 2007, mousse homme. doi:10.1016/j.jaad.2007.04.012\n- PMID 27391639 — Bergfeld W. et al., *J Drugs Dermatol* 2016, mousse femme.\n- PMID 27391640 — Blume-Peytavi U. et al., *J Drugs Dermatol* 2016, mousse 5 % vs solution 2 %.\n- PMID 21700360 — Blume-Peytavi U. et al., *J Am Acad Dermatol* 2011. doi:10.1016/j.jaad.2010.09.724\n- PMID 26387973 — Kanti V. et al., *J Eur Acad Dermatol Venereol* 2015, 104 sem. doi:10.1111/jdv.13324\n- PMID 31403367 — Ghonemy S. et al., *J Dermatolog Treat* 2019, 10 % vs 5 %. doi:10.1080/09546634.2019.1654070\n- PMID 42398233 — Copesco H.D.R.P. et al., *An Bras Dermatol* 2026, nanominoxidil. doi:10.1016/j.abd.2026.501400\n- PMID 38598226 — Penha M.A. et al., *JAMA Dermatol* 2024, oral vs topique. doi:10.1001/jamadermatol.2024.0284\n- PMID 38031516 — Asilian A. et al., *J Cosmet Dermatol* 2023, oral 1 mg vs topique. doi:10.1111/jocd.16086\n- PMID 33639244 — Vañó-Galván S. et al., *J Am Acad Dermatol* 2021, sécurité LDOM. doi:10.1016/j.jaad.2021.02.054\n- PMID 37652097 — Jimenez-Cauhe J. et al., *Actas Dermosifiliogr* 2023, LDOM et hypertension. doi:10.1016/j.ad.2023.07.019\n- PMID 32166351 — Chen L. et al., *Aesthetic Plast Surg* 2020, finastéride + minoxidil. doi:10.1007/s00266-020-01621-5\n- PMID 41041440 — Xia Y. et al., *Front Med* 2025, NMA associations. doi:10.3389/fmed.2025.1638496\n- PMID 40826200 — Mawu F.O. et al., *Lasers Med Sci* 2025, LLLT + minoxidil. doi:10.1007/s10103-025-04593-7\n- PMID 39828269 — Alosaimi A. et al., *J Dermatolog Treat* 2025, LLLT + minoxidil. doi:10.1080/09546634.2024.2447355\n- PMID 42190753 — Liu Y. et al., *J Am Acad Dermatol* 2026, microneedling. doi:10.1016/j.jaad.2026.03.123\n- PMID 42168420 — Bai Y. et al., *Aesthetic Plast Surg* 2026, NMA. doi:10.1007/s00266-026-05872-6\n- PMID 38885151 — Kiratiwongwan R. et al., *Dermatitis* 2024, allergie de contact. doi:10.1089/derm.2024.0092\n- PMID 11807448 — Friedman E.S. et al., *J Am Acad Dermatol* 2002. doi:10.1067/mjd.2002.119104\n- PMID 40289757 — Junge A. et al., *Acta Derm Venereol* 2025. doi:10.2340/actadv.v105.42401\n- PMID 14745922 — Smorlesi C. et al., *Birth Defects Res A* 2003, cas. doi:10.1002/bdra.10095\n- PMID 11933692 — Rojansky N. et al., *J Reprod Med* 2002, cas.\n- PMID 34370845 — Tater K.C. et al., *J Am Anim Hosp Assoc* 2021, chiens et chats. doi:10.5326/JAAHA-MS-7154\n- BDPM (base-donnees-publique.medicaments.gouv.fr), consulté le 2026-10-03 : Minoxidil Bailleul 5 % (62182563), Minoxidil Cooper 5 % (61831995, RCP du 22/10/2024), Alostil 5 % solution (65068102), Alostil 5 % mousse (69250554), Alopexy 2 % (62725176).\n- AFLD, « La liste des substances interdites par l'Agence mondiale antidopage en 2026 », consulté le 2026-10-03.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Minoxidil",
+ "type": "actif",
+ "unite": ""
+}

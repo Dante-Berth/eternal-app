@@ -1,0 +1,74 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-29",
+ "famille": "peptide",
+ "id": "igf-1-lr3-et-mgf",
+ "intro": "",
+ "liens": [
+  "bpc-157",
+  "creatine",
+  "inhibiteurs-de-la-myostatine-et-de-lactivine",
+  "kpv",
+  "maximiser-force-et-volume-musculaire",
+  "proteines",
+  "secretagogues-de-gh-et-hormone-de-croissance",
+  "secretagogues-gh"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "41418663",
+  "30971942"
+ ],
+ "preuve_globale": "C",
+ "resume": "IGF-1 LR3 : analogue long de l'IGF-1 (extension N-terminale, arginine en position 3) conçu pour échapper aux protéines de liaison. MGF (mechano growth factor) : variante d'épissage de l'IGF-1 musculaire, produite après un effort ; PEG-MGF : version pégylée vendue pour allonger sa durée d'action.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **IGF-1 LR3** : analogue long de l'IGF-1 (extension N-terminale, arginine en position 3) conçu pour échapper aux protéines de liaison. **MGF** (mechano growth factor) : variante d'épissage de l'IGF-1 musculaire, produite après un effort ; **PEG-MGF** : version pégylée vendue pour allonger sa durée d'action.\n- Seule donnée vérifiée sur l'IGF-1 LR3 : chez le rat après perte musculaire volumique, un hydrogel libérant de fortes doses a augmenté le poids du muscle à 28 jours mais **sans gain de couple, de taille de fibre ni de fibrose** [C] (PMID 41418663). Résultat négatif sur la fonction.\n- Chez l'humain, l'ARNm du MGF monte dans le muscle après 6 semaines d'entraînement en résistance (n=30 hommes entraînés), sans lien démontré avec la réponse hypertrophique individuelle [B] (PMID 30971942) : c'est un marqueur de l'effort, pas la preuve qu'un MGF injecté fait grossir.\n- **Aucun essai humain trouvé** d'IGF-1 LR3 ou de MGF/PEG-MGF exogènes sur la masse ou la force musculaire (recherches PubMed du 2026-10-29, non exhaustives) [?].\n- Risque documenté de principe : l'axe IGF-1 est une voie de croissance cellulaire générale ; son stimulus exogène non contrôlé pose des questions oncologiques et métaboliques (hypoglycémie), sans donnée humaine sur ces produits [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "IGF-1 : active PI3K/Akt/mTOR, donc la synthèse protéique et la prolifération des cellules satellites (voie classique, fiche [hormone de croissance et sécrétagogues](fiche:secretagogues-de-gh-et-hormone-de-croissance)). MGF : rôle supposé dans l'activation des cellules satellites après lésion ; caractère « distinct » de l'IGF-1 non vérifié dans cette session [?].",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Rat, perte musculaire volumique, IGF-1 LR3 par hydrogel | Poids du muscle ↑ à forte dose ; couple, taille et nombre de fibres, fibrose inchangés | [C] (PMID 41418663) |\n| Humain, expression du MGF à l'entraînement | ARNm du MGF plus élevé à 6 semaines qu'à 3 semaines et qu'avant ; pas de différence entre bons et mauvais répondeurs | [B] (PMID 30971942) |\n| Masse ou force musculaire après IGF-1 LR3 ou MGF injectés, humain | Aucune donnée trouvée | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « MGF = effet anabolisant local sans risque » : aucune donnée humaine ; le seul essai animal vérifié sur l'analogue est négatif sur la fonction.\n- « PEG-MGF dure plus longtemps donc plus efficace » : allégation de vendeur [M].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- **IGF-1 recombinant (mécasermine)** : présent dans CIS_COMPO_bdpm (1 occurrence, téléchargé le 2026-10-29), indication de déficit primaire sévère en IGF-1 ; usage hors de ce cadre = détournement. Détail RCP non relu [?].\n- **IGF-1 LR3, MGF, PEG-MGF** : aucune occurrence dans CIS_COMPO_bdpm (2026-10-29) ; substances non autorisées (règle 7). Statut AMA non vérifié ici ; les facteurs de croissance et leurs analogues sont visés par la classe S2 de la liste AMA, à confirmer sur la liste de l'année [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "Aucune donnée de sécurité humaine pour ces produits [?]. Marché gris : sous-dosage, mauvaise molécule, contamination, endotoxines (voir [KPV](fiche:kpv) pour la source ANSM).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- Stagnation musculaire : bilan (testostérone, thyroïde, carences, sommeil, apport protéique et calorique) ; voir [maximiser force et volume musculaire](fiche:maximiser-force-et-volume-musculaire).\n- Ce qui a des essais humains : [créatine](fiche:creatine), [protéines](fiche:proteines), entraînement en résistance.\n- Pas de protocole de dosage, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).\n\nVoir aussi : [inhibiteurs de la myostatine et de l'activine](fiche:inhibiteurs-de-la-myostatine-et-de-lactivine), [BPC-157](fiche:bpc-157), [sécrétagogues de la GH](fiche:secretagogues-gh).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Clark AR et al. *J Surg Res* 2025 — PMID 41418663 — [DOI](https://doi.org/10.1016/j.jss.2025.11.043) (rat, résumé relu le 2026-10-29).\n2. Haun CT et al. *Front Physiol* 2019 — PMID 30971942 — [DOI](https://doi.org/10.3389/fphys.2019.00297) (n=30, résumé relu le 2026-10-29).\n3. BDPM, CIS_COMPO_bdpm, téléchargé le 2026-10-29.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "IGF-1 LR3 et MGF / PEG-MGF (facteurs de croissance « muscle »)",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,87 @@
+{
+ "cibles": [
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "alimentation",
+ "id": "alimentation-cerveau",
+ "intro": "",
+ "liens": [
+  "baies-myrtilles-et-anthocyanes",
+  "cacao-et-chocolat-noir",
+  "cafeine",
+  "champignons-et-ergothioneine",
+  "huile-olive-vierge-extra",
+  "noix-et-fruits-a-coque",
+  "poissons-gras-omega-3-et-mercure"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 12,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "39797935",
+  "41259881",
+  "37105521",
+  "42233196",
+  "42040885",
+  "42641106",
+  "37211619",
+  "39054894",
+  "41687346",
+  "41376207",
+  "38244989",
+  "40355028"
+ ],
+ "preuve_globale": "B",
+ "resume": "Le meilleur signal vient de patterns alimentaires (méditerranéen, MIND), mais presque toutes les données sont observationnelles [B] : un lien n'est pas une preuve de causalité.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Le meilleur signal vient de patterns alimentaires (méditerranéen, MIND), mais presque toutes les données sont **observationnelles** [B] : un lien n'est pas une preuve de causalité.\n- Ultra-transformés : associés à plus de risque cognitif, en observationnel [B].\n- Cacao riche en flavanols : seul aliment avec des RCT agrégés, effet sur exécutif/attention [A].\n- Multivitamine quotidienne : effet minuscule mais RCT-based chez les ≥60 ans [A].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Non extrait des sources lues ; je n'affirme aucun mécanisme (vasculaire, inflammatoire, microbiote) [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Aliment / pattern | Résultat | Preuve |\n|---|---|---|\n| Régime méditerranéen | Risque : troubles cognitifs HR 0,82 ; démence HR 0,89 ; Alzheimer HR 0,70, forte hétérogénéité (PMID 39797935) | [B] |\n| Régime méditerranéen (autre MA, 45 études) | Alzheimer OR 0,92, MCI RR 0,93 ; pas d'association pour la démence ni la progression MCI→démence (PMID 41259881) | [B] |\n| Régime MIND | +0,042 unité z de cognition globale par écart-type de score ; ralentissement du déclin non significatif (IC −0,001 à 0,021) (PMID 37105521) | [B] |\n| Noix, poisson, viande rouge, thé (cohorte chinoise) | associés positivement à la cognition ; fritures négativement (PMID 37105521) | [B] |\n| Ultra-transformés | quintile 5 vs 1 : démence HR 1,58 (IC 1,003–2,48, tendance non significative p = 0,50), troubles cognitifs sans démence HR 1,46 (PMID 42233196) ; –0,05 pt d'attention par +10 % d'UPF, indépendant du régime méditerranéen (PMID 42040885) | [B] |\n| Cacao / chocolat noir | TMT-B −13,1 s, fluence verbale +3,15 ; MMSE sans effet ; effet plus net à ≥500 mg flavanols/j et ≥8 sem. (16 RCT, n=2847, qualité GRADE modérée à élevée, PMID 42641106) | [A] |\n| Chocolat (adultes sains) | temps exécutif réduit (7 essais, forte hétérogénéité) (PMID 37211619) | [A, fragile] |\n| Thé | risque de démence RR 0,84 (haut vs bas) ; certitude faible (PMID 39054894) ; baisse linéaire dans (PMID 41687346) | [B] |\n| Café | 1–3 tasses/j associées à un risque non plus élevé ; ≥3 tasses/j : risque ↑ dans une méta-analyse dose-réponse (PMID 41687346) ; non significatif en catégorie haute vs basse dans une autre, qui trouve une association protectrice à 1–3 tasses/j (PMID 39054894) | [B], résultats discordants |\n| Alcool | Léger-modéré RR 0,88 (démence), fort : RR 1,18 ; association globale nulle (RR 1,03) (PMID 41376207) | [B] |\n| Multivitamine-minéraux | cognition globale +0,07 unité d'écart-type, mémoire épisodique +0,06 (COSMOS, 3 sous-études, ≥60 ans) (PMID 38244989) | [A] |\n| Vitamines B après AVC | SMD −0,40 (IC −0,72 à −0,08), que les auteurs résument pourtant comme « aucun effet » (PMID 40355028) | [A], population AVC seulement |\n| Protéines-énergie après AVC | SMD +0,62 (PMID 40355028) | [A], population AVC seulement |",
+   "titre": "Preuves par aliment / pattern"
+  },
+  {
+   "markdown": "Cacao : ≥500 mg de flavanols/jour dans les sous-groupes efficaces (PMID 42641106) ; **la plupart des chocolats du commerce n'indiquent pas leur teneur en flavanols** et leur teneur réelle est non vérifiée [?]. Chocolat noir ≠ extrait de cacao standardisé de COSMOS (500 mg flavanols).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Pas de liste « top aliments » : aucun essai ne prouve qu'un aliment précis protège les neurones. Direction la plus cohérente [B] :\n- base méditerranéenne : légumes, fruits, légumineuses, céréales complètes, poisson, huile d'olive, noix ;\n- limiter ultra-transformés, fritures, sucre, beurre (associés négativement dans les travaux cités, PMID 37105521, 40355028, 42233196) ;\n- thé et café (1–3 tasses) : plausibles, effets faibles ; voir [caféine](fiche:cafeine) ;\n- cacao riche en flavanols : option, effet modeste [A].\nQuantités de portions, jeûne, régime cétogène, baies, curcuma, etc. : non étudiés ici [?].",
+   "titre": "Que manger concrètement (ce que les données autorisent)"
+  },
+  {
+   "markdown": "Aliments libres. Multivitamines : compléments alimentaires. Statut AMA : non concerné pour ces aliments (non vérifié pour tous les compléments) [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Alcool : l'association « protectrice » à faible dose est observationnelle, sujette à causalité inversée (anciens buveurs, santé de base) ; aucune base ici pour **commencer** à boire. Dommages hors cerveau non couverts.\n- Café ≥3 tasses/j : risque possible (voir ci-dessus) ; sommeil, anxiété : voir [caféine](fiche:cafeine).\n- Chocolat : sucre, calories, métaux lourds : non investigués [?].\n- Vitamines B : voir effet négatif post-AVC ; avis médical si antécédent d'AVC.",
+   "titre": "Sécurité, interactions"
+  },
+  {
+   "markdown": "—",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- « Superaliment anti-Alzheimer » : aucun RCT sur incidence de démence dans les sources lues [?].\n- « Chocolat = cerveau » : vrai pour des flavanols à dose précise, pas pour une tablette quelconque [M].\n- « Un verre de vin protège » : observationnel, fragile [B].\n\nVoir aussi, fiches par aliment : [huile d'olive](fiche:huile-olive-vierge-extra) · [noix](fiche:noix-et-fruits-a-coque) · [baies](fiche:baies-myrtilles-et-anthocyanes) · [poissons gras](fiche:poissons-gras-omega-3-et-mercure) · [champignons](fiche:champignons-et-ergothioneine) · [cacao](fiche:cacao-et-chocolat-noir).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "PMID 39797935 (Fekete 2025), 41259881 (Zuliani 2025), 37105521 (Huang 2023), 42233196 (HRS 2026), 42040885 (Australie 2026), 42641106 (Nutr Rev 2026), 37211619 (Phytother Res 2023), 39054894 (Food Funct 2024), 41687346 (J Epidemiol Popul Health 2026), 41376207 (Intern Med J 2025), 38244989 (Am J Clin Nutr 2024, COSMOS), 40355028.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Alimentation et cerveau",
+ "type": "actif",
+ "unite": ""
+}

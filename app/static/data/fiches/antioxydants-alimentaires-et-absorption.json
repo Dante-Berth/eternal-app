@@ -1,0 +1,87 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-08",
+ "famille": "alimentation",
+ "id": "antioxydants-alimentaires-et-absorption",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "astaxanthine",
+  "baies-myrtilles-et-anthocyanes",
+  "cacao-et-chocolat-noir",
+  "champignons-et-ergothioneine",
+  "cruciferes-brocoli-et-sulforaphane",
+  "egcg-et-extraits-de-the-vert",
+  "grenade",
+  "mitochondries",
+  "the-et-sante"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 12,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "40944183",
+  "24172307",
+  "22419320",
+  "40621159",
+  "40105674",
+  "25474484",
+  "40584396",
+  "41174501",
+  "31138872",
+  "33920623",
+  "34959933",
+  "29405736"
+ ],
+ "preuve_globale": "A",
+ "resume": "Aucun classement « meilleurs aliments antioxydants » n'est démontré chez l'humain : je n'ai pas trouvé d'essai qui compare des aliments sur des critères cliniques [?]. Les classements (ORAC, etc.) sont des mesures de laboratoire dont la valeur in vivo n'a pas été vérifiée ici [?].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Aucun classement « meilleurs aliments antioxydants » n'est démontré chez l'humain** : je n'ai pas trouvé d'essai qui compare des aliments sur des critères cliniques [?]. Les classements (ORAC, etc.) sont des mesures de laboratoire dont la valeur in vivo n'a pas été vérifiée ici [?].\n- **Les antioxydants en gélules ne protègent pas** : 78 essais, n=296 707, aucun effet sur la mortalité en modèle à effets aléatoires (RR 1,02, IC 0,98–1,05) [A] ; bêta-carotène (RR 1,05) et vitamine E (RR 1,03) augmentent la mortalité dans les essais à faible risque de biais [A].\n- **Les aliments entiers (fruits, légumes) sont associés à moins de maladies, en cohortes** : cancer du poumon RR 0,81 pour fruits et légumes totaux [B] ; mortalité toute cause chez le diabétique de type 2 HR 0,82 (fruits, consommation maximale) [B]. Association, pas preuve d'un rôle des antioxydants.\n- **Absorption : la majorité des polyphénols est peu absorbée dans l'intestin grêle et transformée par le microbiote** ; les métabolites circulants, pas les molécules d'origine, sont probablement ce qui agit [B, revues, mécanismes mal établis].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Les polyphénols sont en partie absorbés dans l'intestin grêle ; une part notable atteint le côlon où le microbiote les convertit en métabolites plus simples, souvent plus biodisponibles que le composé de départ (PMID 40944183). Pour le thé vert, environ deux tiers des flavan-3-ols passent au côlon ; les métabolites urinaires issus du microbiote équivalent à 36 % de l'apport en flavan-3-ols (PMID 24172307).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Gélules (bêta-carotène, A, C, E, sélénium) et mortalité | pas de bénéfice ; bêta-carotène et vitamine E nocifs ; C et sélénium neutres (PMID 22419320) | [A] |\n| Fruits et légumes et cancer du poumon (41 cohortes) | fruits RR 0,78 ; légumes 0,87 ; agrumes 0,80 ; crucifères 0,82 (PMID 40621159) | [B, cohortes] |\n| Fruits et légumes et mortalité, diabète de type 2 (9 cohortes, n=75 082) | fruits HR 0,82 ; légumes HR 0,85 (PMID 40105674) | [B, cohortes] |\n| Coenzyme Q10 (prévention CV primaire) | 6 petits essais (n=218), aucun événement rapporté (PMID 25474484) | [A, très faible certitude] |\n| Vitamine C, grossesse, naissance prématurée | RR 1,04 (0,96–1,14), 17 ECR (PMID 40584396) | [A] : aucun effet |\n| Vitamine C, COVID-19 | mortalité 28 j RR 0,92 (0,72–1,17), non significatif (PMID 41174501) | [A] : aucun effet démontré |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Non évalué pour les produits « super-antioxydants » du commerce [?]. Les essais de supplémentation du Cochrane ont tourné de 28 jours à 12 ans.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "| Aliment / composé | Ce qui est montré | Preuve |\n|---|---|---|\n| Lycopène (tomate) | Le lycopène tomate natif est surtout en forme all-E, peu biodisponible ; les isomères Z le sont davantage ; cuisson à 80 °C avec oignon, ail, crucifères, shiitake ou algues augmente l'isomérisation Z in vitro (PMID 31138872) | [D] : pas de mesure sanguine |\n| Purée de tomate cuite | Hausse du lycopène, du bêta-carotène et du pouvoir antioxydant sérique après repas, purée filtrée meilleure que rustique ; ECR croisé pilote (PMID 33920623) | [B, pilote] |\n| Caroténoïdes + graisse | Une revue sur l'avocat avance que l'avocat augmente l'absorption des caroténoïdes de salades pauvres en graisse ; revue financée par une organisation liée à l'avocat (PMID 34959933) | [B], conflit d'intérêt |\n| Thé vert | Pic plasmatique à 1,6–2,3 h, quasi disparu à 8 h ; excrétion urinaire de 28,5 % de l'(épi)catéchine ingérée (PMID 24172307) | [B, revue] |\n| Polyphénols en général | Faible biodisponibilité orale, forte variabilité entre individus ; les valeurs in vitro peuvent induire en erreur (PMID 29405736) | [B, revue] |\n\nAutres points couramment avancés (lait dans le thé, poivre noir et curcumine, graisse pour les vitamines liposolubles, cuisson et vitamine C) : non vérifiés dans cette session [?].",
+   "titre": "Absorption : ce qui change vraiment la biodisponibilité"
+  },
+  {
+   "markdown": "Aliments : libres. Gélules d'antioxydants : compléments alimentaires, évaluation du risque par l'ANSES (non consultée ici) [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "Bêta-carotène chez les fumeurs, vitamine E à forte dose, vitamine A à forte dose : surmortalité dans les essais [A] (PMID 22419320) ; la dose de vitamine A est liée à la mortalité (RR 1,0006 par unité de dose). Antioxydants à forte dose et entraînement : voir [mitochondries](fiche:mitochondries).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Voir [EGCG et thé vert](fiche:egcg-et-extraits-de-the-vert), [astaxanthine](fiche:astaxanthine), [thé et santé](fiche:the-et-sante), [alimentation, synthèse](fiche:alimentation).\n\nVoir aussi : [baies et anthocyanes](fiche:baies-myrtilles-et-anthocyanes) · [crucifères et sulforaphane](fiche:cruciferes-brocoli-et-sulforaphane) · [grenade](fiche:grenade) · [cacao](fiche:cacao-et-chocolat-noir) · [champignons et ergothionéine](fiche:champignons-et-ergothioneine).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 22419320 — Bjelakovic et al., Cochrane Database Syst Rev 2012 (78 ECR, n=296 707).\n- PMID 40621159 — Tabatabaei et al., J Cancer Prev 2025.\n- PMID 40105674 — Geravand et al., Nutr Rev 2025.\n- PMID 25474484 — Flowers et al., Cochrane 2014 (CoQ10).\n- PMID 40584396 — Pereira et al., Rev Bras Ginecol Obstet 2025.\n- PMID 41174501 — Zhou et al., BMC Infect Dis 2025.\n- PMID 40944183 — Mahdi et al., Nutrients 2025 (revue).\n- PMID 24172307 — Clifford et al., Am J Clin Nutr 2013 (revue).\n- PMID 29405736 — Teng & Chen, Crit Rev Food Sci Nutr 2019 (revue).\n- PMID 31138872 — Honda et al., Sci Rep 2019 (in vitro ; coauteurs de Kagome).\n- PMID 33920623 — Vitucci et al., Nutrients 2021 (pilote).\n- PMID 34959933 — Dreher, Cheng, Ford, Nutrients 2021 (revue, liens avec l'Avocado Nutrition Center).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Antioxydants alimentaires : lesquels, et ce qu'on en absorbe",
+ "type": "actif",
+ "unite": ""
+}

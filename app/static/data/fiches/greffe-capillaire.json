@@ -1,0 +1,84 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "",
+ "id": "greffe-capillaire",
+ "intro": "",
+ "liens": [
+  "alopecie-androgenetique",
+  "finasteride",
+  "minoxidil",
+  "prp"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 16,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "33905785",
+  "31667549",
+  "33710162",
+  "32141930",
+  "39623609",
+  "38123846",
+  "33911409",
+  "41069573",
+  "40913181",
+  "37904273",
+  "39160404",
+  "32757306",
+  "40660034",
+  "38092043",
+  "37962261",
+  "37320953"
+ ],
+ "preuve_globale": "B",
+ "resume": "Seule option qui ajoute des follicules là où il n'y en a plus, avec une survie des greffons élevée dans des séries de cas [B], mais elle ne stoppe pas l'alopécie androgénétique autour des greffons, consomme une zone donneuse limitée et n'est solide que si elle est faite par un médecin sur un cand…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Seule option qui ajoute des follicules là où il n'y en a plus, avec une survie des greffons élevée dans des séries de cas [B], mais elle ne stoppe pas l'alopécie androgénétique autour des greffons, consomme une zone donneuse limitée et n'est solide que si elle est faite par un médecin sur un candidat bien choisi.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- **Corrige** : zones dégarnies stables (golfes, ligne frontale, vertex) chez un candidat qui a une zone donneuse suffisante ; cicatrices d'alopécie stabilisées [B] (revues, séries ; PMID 33905785, 31667549).\n- **Ne corrige pas** : la progression de l'AGA sur les cheveux natifs. Dans une série de 751 femmes opérées par FUT, 18 % ont eu une seconde séance en moyenne 4 ans plus tard « en raison de la nature progressive » de la chute [B, série rétrospective n=751] (PMID 33710162). Le traitement médical d'entretien reste la base : voir [alopécie androgénétique](fiche:alopecie-androgenetique), [minoxidil](fiche:minoxidil), [finastéride](fiche:finasteride).\n- **Ne crée pas de cheveux** : on déplace des follicules ; le stock donneur ne repousse pas.\n- FUE (extraction unité par unité, petites cicatrices ponctuées) et FUT (bandelette, cicatrice linéaire) produisent des greffons de qualité comparable ; elles diffèrent surtout par le type de cicatrice donneuse [B, revue comparative] (PMID 32141930). Aucun essai randomisé FUE contre FUT trouvé [?].",
+   "titre": "Ce que ça corrige / ne corrige pas"
+  },
+  {
+   "markdown": "- **Survie des greffons** : méta-analyse de séries (34 articles, 1980-2018) : 84,98 % (IC95 78,90-91,06) avec micrografts et 93,11 % (IC95 91,93-94,29) micro + minigrafts dans l'alopécie non cicatricielle [B, méta-analyse d'études observationnelles] (PMID 31667549). Ce sont des séries de chirurgiens, sans groupe témoin : chiffres de centres expérimentés, pas d'un marché moyen.\n- **Satisfaction** : 89,7 à 97 % selon la technique dans la même méta-analyse [B] (PMID 31667549) ; 88,2 % de femmes « satisfaites à plus de 75 % » dans une série coréenne de 195 FPHL [B, série rétrospective] (PMID 39623609).\n- **Qualité de vie** : amélioration SF-36, satisfaction de vie, stress et anxiété après FUE ; dépression inchangée [B, prospective, n=48, 2 centres] (PMID 38123846).\n- **Durabilité** : à 4 ans d'une FUT, densité greffée « modérément réduite » chez 55,4 % des 112 patients, « nettement réduite » chez 8 %, inchangée chez 8,9 % [B, série monocentrique, observateur en aveugle] (PMID 33911409). La croyance « greffe = définitive » n'est donc pas garantie pour tous.\n- **PRP en complément de la greffe** : revue systématique de 3 études (2 ECR, 217 participants) favorable, mais protocoles hétérogènes et aucune mesure trichoscopique standardisée [B] (PMID 41069573). Voir [PRP](fiche:prp).\n- Pas de revue Cochrane ni d'ECR greffe contre traitement médical seul trouvés [?].",
+   "titre": "Preuves (efficacité, durabilité) avec tags"
+  },
+  {
+   "markdown": "- **Revue systématique 2025** (45 articles : 24 cas cliniques, 21 études observationnelles) : 442 patients avec complication sur 2 353 dans les études observationnelles ; douleur la plus fréquente ; cicatrices les plus rapportées en zone receveuse ; fistules artério-veineuses en zone donneuse décrites, associées à la FUE au punch [B] (PMID 40913181).\n- **Folliculite** : 12,11 % sur 1 317 patients (4 centres chinois) ; risque accru avec ≥ 4 000 greffons (OR 4,8) et densité > 45 greffons/cm² (OR 2,2) [B, rétrospective multicentrique] (PMID 37904273).\n- **Nécrose de la zone receveuse** : rare mais grave ; série de 18 cas après FUE (moyenne ≈ 3 900 unités en une séance), cicatrices et perte des greffons chez tous ; facteurs fréquents : tabac, HTA, diabète [B, série de cas] (PMID 39160404). Dans une autre série, 88 patients sur 1 580 ont eu une peau « sombre » menaçant de nécroser ; 5 ont nécrosé [B, rétrospective] (PMID 32757306).\n- **Alopécie de la zone donneuse par surprélèvement, effluvium post-opératoire, paresthésies, œdème facial** : décrits dans les séries [B] (PMID 39623609, 40913181), fréquences non poolées [?].",
+   "titre": "Complications et fréquences"
+  },
+  {
+   "markdown": "- Acte chirurgical, donc **médical** : l'atteinte à l'intégrité du corps n'est permise qu'« en cas de nécessité médicale » (code civil art. 16-3) et les actes réalisés par des non-médecins relèvent de l'exercice illégal de la médecine (réponse ministérielle à la question écrite AN n° 7585, JO du 23 mai 2023, p. 4712, consulté le 2026-10-03).\n- Tout médecin est « en principe habilité à pratiquer tous les actes de diagnostic, de prévention et de traitement », mais ne doit pas dépasser « ses connaissances, son expérience et les moyens dont il dispose » (CSP art. R4127-70, Légifrance, consulté le 2026-10-03).\n- **Chirurgie esthétique** : installations soumises à autorisation (CSP art. R6322-1), devis détaillé daté et signé puis délai minimum de 15 jours, auquel le patient ne peut pas renoncer (CSP art. D6322-30) ; équipe limitée aux chirurgiens plasticiens, anesthésistes et, dans leur spécialité, aux chirurgiens maxillo-faciaux, ORL, ophtalmologistes, gynécologues et urologues (CSP art. D6322-43) (Légifrance, consultés le 2026-10-03). La dermatologie ne figure pas dans la liste de D6322-43. **Point non tranché ici** : je n'ai trouvé aucune source officielle disant si une greffe capillaire sous anesthésie locale relève de ce régime (installation autorisée, délai de 15 jours) ou de l'exercice médical général [?].\n- Non remboursée pour l'AGA (affirmation d'une clinique, pas de source Assurance Maladie trouvée) [?].",
+   "titre": "Qui peut le pratiquer en France (réglementation)"
+  },
+  {
+   "markdown": "- France : 3 000 à 15 000 € l'intervention, moyenne 6 000 à 9 000 € ; Paris 3 500 à 15 000 € (Clinique du Grand Paris, page « Combien coûte une greffe de cheveux », consultée le 2026-10-03). 1,5 à 3 € par greffon, ≈ 2 500 greffons pour un patient type, soit ≈ 5 000 € en France contre ≈ 2 000 € en Turquie (CapilClinic, guide 2026, consulté le 2026-10-03). Sources commerciales : fait de prix uniquement.\n- Une seule intervention en principe, mais une partie des patients refait une séance quand l'AGA progresse (18 % à ≈ 4 ans dans la série FUT féminine) [B] (PMID 33710162), et il faut ajouter le coût du traitement médical d'entretien.",
+   "titre": "Coût et durabilité"
+  },
+  {
+   "markdown": "- Traitement médical d'abord (minoxidil, finastéride chez l'homme) [A] : voir [alopécie androgénétique](fiche:alopecie-androgenetique).\n- [PRP](fiche:prp) : densité améliorée en méta-analyse, pas l'épaisseur [A, faible certitude].\n- Micropigmentation du cuir chevelu, prothèses capillaires : camouflage, pas de données d'efficacité ici [?].",
+   "titre": "Alternatives moins invasives"
+  },
+  {
+   "markdown": "- **Tourisme capillaire (Turquie, Istanbul)** : revue 2025 décrivant marketing agressif, rôle étendu de **techniciens non supervisés**, pratiques de « bait and switch », absence de registre des complications (« trou noir des données ») et coût des complications reporté sur le système de santé du pays d'origine [B, revue narrative] (PMID 40660034). Une revue d'expert dénonce les cliniques « marché noir » vendant une FUE « non invasive », « sans cicatrice », faite par des techniciens amateurs ; la FUE est une technique « à l'aveugle » à longue courbe d'apprentissage [B, avis d'expert] (PMID 38092043).\n- **Complications rapportées après chirurgie esthétique à l'étranger** (toutes chirurgies confondues, pas spécifique à la greffe) : 589 patients dans 44 études, infection en tête (81 % des germes bactériens identifiés : mycobactéries) [B, revue systématique de séries et cas] (PMID 37962261) ; la Turquie est la deuxième destination citée dans une revue de 370 infections post-tourisme esthétique [B] (PMID 37320953). Aucune donnée chiffrée vérifiée sur le taux de complications des greffes en Turquie [?].\n- Signaux concrets : forfait « tout compris » avec hôtel ; nombre de greffons promis très élevé (≥ 4 000 en une séance, facteur de risque de folliculite et retrouvé dans la série de nécroses) [B] (PMID 37904273, 39160404) ; on ne sait pas qui fait les incisions et les extractions ; pas de nom de médecin vérifiable ; pas de suivi prévu au retour ; pas de devis écrit avec délai de réflexion.\n- Vérifier l'inscription du médecin à l'Ordre (annuaire public du CNOM) et demander qui réalise chaque étape.",
+   "titre": "Signaux d'alerte (praticien, tourisme médical, produits)"
+  },
+  {
+   "markdown": "- Jimenez F et al., *J Am Acad Dermatol* 2021 — PMID 33905785 — [DOI](https://doi.org/10.1016/j.jaad.2021.03.124)\n- Stoneburner J et al., *Aesthetic Plast Surg* 2019 — PMID 31667549 — [DOI](https://doi.org/10.1007/s00266-019-01529-9)\n- Uebel CO et al., *Plast Reconstr Surg* 2021 — PMID 33710162 — [DOI](https://doi.org/10.1097/PRS.0000000000007760)\n- Gupta AK et al., *Dermatol Surg* 2020 — PMID 32141930 — [DOI](https://doi.org/10.1097/DSS.0000000000002373)\n- Yun D et al., *Ann Dermatol* 2024 — PMID 39623609 — [DOI](https://doi.org/10.5021/ad.23.158)\n- Maletic A et al., *Aesthetic Plast Surg* 2023 — PMID 38123846 — [DOI](https://doi.org/10.1007/s00266-023-03781-6)\n- Kumaresan M, Subburathinam DM, *J Cutan Aesthet Surg* 2020 — PMID 33911409 — [DOI](https://doi.org/10.4103/JCAS.JCAS_44_20)\n- Sindhusen S et al., *Cureus* 2025 — PMID 41069573 — [DOI](https://doi.org/10.7759/cureus.94116)\n- Khatib M et al., *Aesthetic Plast Surg* 2025 — PMID 40913181 — [DOI](https://doi.org/10.1007/s00266-025-05125-y)\n- Zhou Y et al., *Plast Reconstr Surg* 2023 — PMID 37904273 — [DOI](https://doi.org/10.1097/PRS.0000000000011175)\n- Ceran F et al., *Aesthetic Plast Surg* 2024 — PMID 39160404 — [DOI](https://doi.org/10.1007/s00266-024-04305-6)\n- Abbas Z, Kufi H, *J Cosmet Dermatol* 2020 — PMID 32757306 — [DOI](https://doi.org/10.1111/jocd.13659)\n- Haider SA et al., *Aesthetic Plast Surg* 2025 — PMID 40660034 — [DOI](https://doi.org/10.1007/s00266-025-05018-0)\n- Anastassakis K, *Facial Plast Surg* 2023 — PMID 38092043 — [DOI](https://doi.org/10.1055/s-0043-1777311)\n- Alkaelani MT et al., *Ann Plast Surg* 2023 — PMID 37962261 — [DOI](https://doi.org/10.1097/SAP.0000000000003683)\n- Gilardi R et al., *JPRAS* 2023 — PMID 37320953 — [DOI](https://doi.org/10.1016/j.bjps.2023.05.021)\n- Réglementation : Code de la santé publique art. R6322-1, D6322-30, D6322-43, R4127-70 ([Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006178723/), consulté le 2026-10-03) ; [question écrite AN n° 7585](https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE7585), réponse JO du 23 mai 2023 (consultée le 2026-10-03).\n- Prix : [Clinique du Grand Paris](https://www.cliniquedugrandparis.com/blog/combien-coute-greffe-cheveux-france), [CapilClinic](https://www.capilclinic.fr/blog/combien-coute-une-greffe-de-cheveux/) (consultés le 2026-10-03 ; sources commerciales, fait de prix uniquement).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Greffe capillaire (FUE, FUT)",
+ "type": "acte",
+ "unite": ""
+}

@@ -1,0 +1,84 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "cancer-estomac-helicobacter-pylori",
+ "intro": "",
+ "liens": [
+  "cancer-foie-carcinome-hepatocellulaire",
+  "cancer-oesophage-barrett",
+  "cancer-pancreas",
+  "depistage-cancer-colorectal",
+  "prevention-cancer-colorectal-hors-depistage",
+  "prevention-des-cancers",
+  "tabac-et-alcool"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "39824392",
+  "24846275",
+  "42860477",
+  "41994647",
+  "42223961"
+ ],
+ "preuve_globale": "A",
+ "resume": "Traiter H. pylori chez des porteurs sans cancer réduit l'incidence du cancer gastrique : RR 0,64 (IC 95 % 0,48-0,84, 8 ECR) [A] ; la mortalité par cancer gastrique : RR 0,78 (0,62-0,98, 5 ECR) [A] (PMID 39824392).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Traiter H. pylori chez des porteurs sans cancer réduit l'incidence du cancer gastrique : RR 0,64 (IC 95 % 0,48-0,84, 8 ECR) [A] ; la mortalité par cancer gastrique : RR 0,78 (0,62-0,98, 5 ECR) [A] (PMID 39824392).\n- Après résection endoscopique d'une néoplasie précoce, l'éradication réduit les nouveaux cancers : RR 0,52 (0,38-0,71, 3 ECR) [A] (PMID 39824392).\n- Méta-analyse antérieure : 1,6 % de cancers (51/3 294) sous traitement contre 2,4 % (76/3 203) sans, RR 0,66 ; NNT « jusqu'à 15 » chez les hommes chinois, « jusqu'à 245 » chez les Américaines si l'effet dure toute la vie [A] (PMID 24846275). Le bénéfice absolu dépend donc fortement de l'incidence du pays.\n- Pas de dépistage organisé du cancer gastrique ni de la bactérie en France retrouvé dans ce travail (recommandations HAS/INCa non consultées) [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "H. pylori provoque une gastrite chronique pouvant évoluer en atrophie puis métaplasie intestinale. Détail du modèle de Correa : non développé ici [?]. Une revue 2026 discute si la métaplasie intestinale régresse après éradication (controverse non tranchée dans le titre) (PMID 42860477).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Traitement d'éradication (antibiotiques + antisécrétoire) chez porteurs asymptomatiques | Supprime l'infection | [A] RR cancer 0,64 (PMID 39824392) | Médicaments sur ordonnance (schémas : non consultés) | non applicable |\n| Éradication après résection endoscopique précoce | Idem | [A] RR 0,52 (PMID 39824392) | Idem | non applicable |\n| Études observationnelles | Idem | [B] RR 0,56 (11 études) (PMID 39824392) | - | - |\n\nLimites : essais surtout en Asie de l'Est, zone à haute incidence ; la certitude globale de l'ensemble est qualifiée de « limitée, modérée » dans la méta-analyse de 2014 (PMID 24846275). Une méta-analyse chinoise de 8 ECR (2026) existe, résumé non lu [?] (PMID 41994647).",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Débutant : ne pas s'auto-traiter ; tester (souffle, antigène fécal ou biopsie) si ulcère, dyspepsie persistante, antécédent familial de cancer gastrique : indications précises non vérifiées [?].\n- Intermédiaire/avancé : décision médicale (test, schéma, contrôle d'éradication). Un essai de coût-efficacité 2026 a comparé FIT seul au FIT associé à un test antigénique H. pylori ; résultat non lu (PMID 42223961) [?].",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Croire que l'éradication supprime le risque : RR 0,64, pas 0.\n- Extrapoler les essais asiatiques à la France sans tenir compte de l'incidence (voir NNT ci-dessus).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "Aucun produit « anti-H. pylori » (probiotiques, plantes, compléments) n'a de preuve de réduction du cancer gastrique retrouvée ici [?] ; seul le traitement antibiotique a des ECR.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- L'estimation de 2014 est restée stable (RR 0,66) ; la mise à jour 2025 avec 11 ECR donne 0,64 [A] (PMID 24846275, 39824392).\n- Facteurs de risque autres (sel, tabac, alcool) : voir [tabac et alcool](fiche:tabac-et-alcool) et [prévention des cancers](fiche:prevention-des-cancers) ; chiffres propres à l'estomac non extraits [?].",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Douleur épigastrique persistante, perte de poids, vomissements, anémie, selles noires, dysphagie ; parent du 1er degré avec cancer gastrique.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "Traitements d'éradication : médicaments sur ordonnance. Schémas, AMM et recommandations (HAS, Maastricht) : non consultés [?]. Pas de statut AMA applicable.",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "[Cancers digestifs voisins : œsophage](fiche:cancer-oesophage-barrett), [foie](fiche:cancer-foie-carcinome-hepatocellulaire), [pancréas](fiche:cancer-pancreas), [prévention colorectale](fiche:prevention-cancer-colorectal-hors-depistage), [dépistage colorectal](fiche:depistage-cancer-colorectal).",
+   "titre": "Voir aussi"
+  },
+  {
+   "markdown": "- PMID 39824392 — Ford AC et al., *Gastroenterology* 2025.\n- PMID 24846275 — Ford AC et al., *BMJ* 2014.\n- PMID 42860477 — Li K et al., *Dig Dis Sci* 2026. doi:10.1007/s10620-026-10272-6 (résumé non lu)\n- PMID 41994647 — Liao J et al., *Front Oncol* 2026. doi:10.3389/fonc.2026.1789299 (résumé non lu)\n- PMID 42223961 — Lee YC et al., *JAMA* 2026. doi:10.1001/jama.2026.6908 (résumé non lu)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Cancer de l'estomac et éradication d'Helicobacter pylori",
+ "type": "condition",
+ "unite": ""
+}

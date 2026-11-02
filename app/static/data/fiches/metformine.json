@@ -1,0 +1,76 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "medicament",
+ "id": "metformine",
+ "intro": "",
+ "liens": [
+  "bilans-biologiques",
+  "glycemie-et-prediabete"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "36281624",
+  "31557380",
+  "42051241",
+  "42579881",
+  "28441958"
+ ],
+ "preuve_globale": "C",
+ "resume": "Médicament sur ordonnance du diabète de type 2 ; l'usage « anti-âge » chez une personne sans diabète est hors AMM. Aucun résultat d'essai sur la longévité humaine trouvé [?].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Médicament sur ordonnance du diabète de type 2 ; l'usage « anti-âge » chez une personne sans diabète est hors AMM. Aucun résultat d'essai sur la longévité humaine trouvé [?].\n- Chez l'animal, pas d'effet démontré sur la durée de vie : la méta-analyse chez la souris et le nématode ne trouve pas d'allongement global significatif [C] (PMID 36281624).\n- Chez des adultes sains de 65 ans et plus, la metformine a freiné le gain de masse maigre et de muscle de cuisse après 14 semaines de musculation [B, ECR unique n=94] (PMID 31557380).\n- Méta-analyse d'essais (n=827, population avec troubles de la glycémie, pas des sujets sains) : metformine + exercice donne un gain de VO2 pic plus faible qu'exercice seul [A, certitude modérée] (PMID 42051241).\n- L'essai TAME (critère : retarder l'apparition de maladies liées à l'âge) n'a pas de résultats publiés trouvés dans PubMed [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Activation d'AMPK, inhibition de mTOR, effets sur la biogenèse mitochondriale, l'autophagie, le microbiote et l'épigénétique : mécanismes décrits dans une revue narrative (PMID 42579881). Ce sont des hypothèses mécanistiques ; elles ne prouvent pas un bénéfice clinique chez l'humain sain.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Niveau | Ce que dit la donnée |\n|---|---|---|\n| Allongement de la durée de vie (animal) | [C] | Hétérogène ; non significatif en moyenne chez souris et nématode (PMID 36281624). |\n| Longévité / mortalité chez l'humain sain | [?] | Aucun essai randomisé trouvé. |\n| Hypertrophie et force chez le sujet âgé sain | [B, ECR unique n=94] | Le placebo gagne plus de masse maigre (p=0,003) et de muscle de cuisse (p<0,001) ; tendance à des gains de force atténués (PMID 31557380). |\n| Adaptations à l'exercice (VO2 pic, tension) | [A, certitude modérée] | VO2 pic : différence moyenne -1,19 (IC95 -2,33 à -0,04) ; baisse de la tension systolique atténuée de 3,76 mmHg. Population : glycémie dérégulée, 9 études (PMID 42051241). |\n| Protocole de l'essai MASTERS | — | Description du protocole : PMID 28441958. |\n\nLimite : l'effet sur la glycémie, les lipides et le poids n'était pas différent dans la méta-analyse (PMID 42051241) ; la metformine ne donne donc pas de « bonus » mesuré en plus de l'exercice sur ces marqueurs.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Dans MASTERS, la dose était celle d'un traitement antidiabétique, sous surveillance. Pas de forme « longévité » légale en France : la vente est sous ordonnance. Aucune posologie n'est donnée ici ; c'est une décision médicale.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Comprimés : médicament sur ordonnance (diabète de type 2). Statut et indications à confirmer en BDPM (non consulté pour cette fiche).\n- Prescription pour la longévité : hors AMM, à la discrétion d'un médecin ; aucune recommandation officielle de l'utiliser pour le vieillissement [?].\n- AMA/WADA  : liste 2026 inaccessible (wada-ama.org, page et PDF, tentatives 2026-10-06) ; statut non vérifié, à contrôler avant toute compétition [?].\n- Vente en ligne « sans ordonnance » : circuit illégitime, risque de qualité et de contrefaçon.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Effets indésirables connus du médicament (troubles digestifs, carence en vitamine B12 à long terme, acidose lactique rare) et contre-indications rénales : à confirmer dans le RCP/BDPM, non vérifié ici.\n- Interaction : produits de contraste iodés, alcool excessif, insuffisance rénale ou hépatique : non vérifié ici.\n- Chez le sujet sain, le rapport bénéfice/risque n'est pas établi [?].\n- Effet attendu sur l'entraînement : atténuation de l'hypertrophie et de la progression du VO2 pic (voir ci-dessus).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « La metformine ralentit le vieillissement » : aucune donnée humaine de longévité [?] ; les méta-analyses animales sont négatives en moyenne [C].\n- « Compatible avec l'entraînement » : pour les gains de muscle et de VO2 pic, les données vont dans le sens inverse [B] [A].\n- Corrélations observationnelles (diabétiques sous metformine vivant plus longtemps que d'autres diabétiques) ne valent pas essai randomisé chez le sujet sain [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Glycémie à jeun et HbA1c, fonction rénale, objectifs réels (prédiabète ? obésité ?). Alternatives autorisées mieux prouvées pour la santé métabolique : activité physique régulière, perte de poids si surpoids, alimentation ; voir [bilans biologiques](fiche:bilans-biologiques).",
+   "titre": "Ce qu'un médecin pourrait évaluer"
+  },
+  {
+   "markdown": "Aucune fiche produit (médicament sur ordonnance).\n\nVoir aussi : [Glycémie et prédiabète](fiche:glycemie-et-prediabete).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 31557380 — Walton RG et al., *Aging Cell*, MASTERS.\n- PMID 28441958 — Long DE et al., *Trials*, protocole MASTERS.\n- PMID 42051241 — Etayo-Urtasun P et al., *EClinicalMedicine* 2026. doi:10.1016/j.eclinm.2026.103915\n- PMID 36281624 — Parish AJ, Swindell WR, *Aging Cell* 2022. doi:10.1111/acel.13733\n- PMID 42579881 — Manneh J et al., *Aging (Albany NY)*, revue narrative.\n- Statut réglementaire (BDPM, ANSM, liste AMA 2026) : non consultés, à vérifier.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "hors_amm",
+ "titre": "Metformine (usage longévité)",
+ "type": "actif",
+ "unite": ""
+}

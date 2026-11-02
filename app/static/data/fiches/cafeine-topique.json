@@ -1,0 +1,77 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "cosmetique",
+ "id": "cafeine-topique",
+ "intro": "",
+ "liens": [
+  "alpecin-c1-shampooing-cafeine",
+  "minoxidil-cooper-5-solution"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "17214716",
+  "24836650",
+  "17396054",
+  "29055953",
+  "40820949",
+  "34424558",
+  "29512972",
+  "38764299",
+  "41187241",
+  "32599587",
+  "40986632"
+ ],
+ "preuve_globale": "B",
+ "resume": "Stimule la pousse de follicules humains en culture et contrecarre l'effet freinateur de la testostérone [D].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Stimule la pousse de follicules humains en culture et contrecarre l'effet freinateur de la testostérone [D].\n- Chez l'humain : une lotion à 0,2 % s'est montrée « non inférieure » au minoxidil 5 % sur la proportion de cheveux en anagène, dans un essai ouvert de 210 hommes [B, ECR ouvert n=210] ; aucun essai solide avec comptage sur zone tatouée [B].\n- Shampooings à la caféine : trois ECR de shampooings contenant de la caféine ont été trouvés (femmes AGA 6 mois, hommes 24 sem.), tous avec un critère de chute (test de traction) et des mélanges d'actifs ; aucun n'a testé Alpecin ni isolé la caféine [B].\n- Un consensus d'experts canadien classe la caféine « non recommandée » (avis d'experts).\n- Sans danger notable en usage topique ; concentration rarement déclarée sur les produits.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Sur follicules de patients AGA en culture, la caféine (0,001 à 0,005 %) annule la suppression de croissance induite par la testostérone et stimule seule la pousse [D] (PMID 17214716) ; elle allonge l'anagène, réduit le TGF-β2 et augmente l'IGF-1, avec une sensibilité plus forte des follicules féminins [D] (PMID 24836650).\n- Pénétration : appliquée 2 minutes en shampooing, elle pénètre plus vite par les follicules que par la peau [B, étude de pénétration chez l'humain] (PMID 17396054). Pénétrer ne prouve pas un effet clinique.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| AGA homme, lotion caféine 0,2 % vs minoxidil 5 %, 6 mois | Anagènes +10,59 % vs +11,68 % (différence 1,09 %) ; conclu « non inférieur ». Ouvert, critère = trichogramme (pas de comptage de densité) | [B, ECR ouvert n=210] (PMID 29055953) |\n| Shampooing diméthylglycine sodique + caféine vs placebo, 24 sem. | Moins de cheveux au test de traction (−2,8 vs +0,6) ; phototrichogramme sur 30 sujets seulement ; impossible d'isoler la caféine | [B, ECR n=154] (PMID 40820949) |\n| Régime shampooing + lotion (piroctone olamine, pyrithione de zinc, niacinamide, panthénol, caféine…) | Moins de chute et plus de cheveux vs shampooing placebo ; mélange, effet de la caféine non isolable | [B, ECR] (PMID 34424558) |\n| Shampooing « phyto-caféine » vs shampooing témoin, femmes AGA, 6 mois | Moins de cheveux au test de traction (−3,1 vs −0,5 ; p<0,001) ; critères secondaires majoritairement améliorés ; bien toléré ; extrait végétal, pas de caféine pure | [B, ECR double aveugle] (PMID 29512972) |\n| Shampooing caféine + adénosine, 77 sujets, 3 mois | Densité capillaire accrue vs l'état initial, diamètre inchangé ; comparaison à l'état initial (le résumé ne mentionne pas de groupe placebo) ; mélange d'actifs | [B, série non contrôlée d'après le résumé] (PMID 38764299) |\n| Revue systématique (9 études, dont 5 ECR) | Effet « constant » rapporté, peu d'effets indésirables, mais aucune étude n'a compté les cheveux sur zone marquée ou tatouée | [B] (PMID 41187241) |\n| Revue narrative | Candidat « prometteur » ; pas de conclusion d'efficacité clinique | [B] (PMID 32599587) |\n| Recommandation d'experts | Caféine « non recommandée », de même que les shampooings et lotions à base de papaye et mangoustan fermentés et caféine (consensus canadien) | Avis d'experts (PMID 40986632) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Étudiées : 0,001 à 0,005 % in vitro [D] ; lotion sans rinçage à 0,2 % chez l'humain [B] (PMID 29055953).\n- Vendues : les shampooings ne déclarent généralement pas leur teneur (Alpecin C1 : caféine en 7e position de l'INCI, concentration non déclarée) ; un shampooing reste 2 à 5 minutes sur le cuir chevelu, une lotion reste en place.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Shampooings, lotions et sérums vendus comme cosmétiques en France (supermarchés, pharmacies). Statut d'ingrédient dans CosIng non consulté [?].\n- Pas de médicament topique à base de caféine pour la chute de cheveux sur la BDPM [?] (non recherché en détail).\n- AMA : sans objet pour un shampooing ; la place de la caféine dans le programme de surveillance AMA 2026 n'a pas été relue [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Effets indésirables minimes dans les études topiques [B] (PMID 41187241). Pas d'interaction documentée avec le minoxidil.\n- Tolérance « très bonne » dans l'ECR phyto-caféine, sans différence avec le shampooing témoin [B] (PMID 29512972).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Le shampooing à la caféine fait repousser / remplace le minoxidil »** : l'essai de non-infériorité portait sur une lotion sans rinçage à 0,2 %, en ouvert, avec un critère indirect (anagènes) ; il ne dit rien d'un shampooing rincé après 2 minutes [B].\n- **« Caféine = dopage du cheveu, prouvé en laboratoire »** : les preuves de laboratoire portent sur des follicules en culture [D] ; les ECR cliniques de shampooings portent sur des mélanges (caféine + diméthylglycine, adénosine, antioxydants) ou un extrait végétal, jamais sur la caféine seule [B].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Top 3 (preuve de l'actif, concentration, prix, tolérance) :\n1. [Alpecin shampooing caféine C1](fiche:alpecin-c1-shampooing-cafeine) : le plus diffusé et peu cher (environ 8 à 13 € par flacon), mais concentration non déclarée et actif [B] au mieux.\n2. Lotion caféine sans rinçage : seule forme testée contre minoxidil [B] ; produit de l'essai non identifié avec certitude, pas de fiche.\n3. Pas de troisième choix justifiable : à preuve égale, un [minoxidil 5 %](fiche:minoxidil-cooper-5-solution) coûte moins de 8 €/mois.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 17214716 — Fischer T.W. et al., *Int J Dermatol* 2007, in vitro. doi:10.1111/j.1365-4632.2007.03119.x\n- PMID 24836650 — Fischer T.W. et al., *Br J Dermatol* 2014, in vitro. doi:10.1111/bjd.13114\n- PMID 17396054 — Otberg N. et al., *Skin Pharmacol Physiol* 2007, pénétration. doi:10.1159/000101389\n- PMID 29055953 — Dhurat R. et al., *Skin Pharmacol Physiol* 2017. doi:10.1159/000481141\n- PMID 40820949 — Celleno L. et al., *J Cosmet Dermatol* 2025. doi:10.1111/jocd.70390\n- PMID 34424558 — Davis M.G. et al., *Int J Cosmet Sci* 2021. doi:10.1111/ics.12734\n- PMID 41187241 — Ly N. et al., *J Drugs Dermatol* 2025, revue systématique. doi:10.36849/JDD.8902\n- PMID 32599587 — Völker J.M. et al., *Skin Pharmacol Physiol* 2020. doi:10.1159/000508228\n- PMID 29512972 — Bussoletti C. et al., *G Ital Dermatol Venereol* 2018. doi:10.23736/S0392-0488.18.05499-8\n- PMID 38764299 — Chen D. et al., *J Cosmet Dermatol* 2024. doi:10.1111/jocd.16347\n- PMID 40986632 — Landells I. et al., *J Cutan Med Surg* 2025. doi:10.1177/12034754251368849",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "Caféine topique",
+ "type": "actif",
+ "unite": ""
+}

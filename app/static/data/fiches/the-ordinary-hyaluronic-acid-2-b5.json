@@ -1,0 +1,63 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "cosmetique",
+ "id": "the-ordinary-hyaluronic-acid-2-b5",
+ "intro": "",
+ "liens": [
+  "acide-hyaluronique-filler",
+  "cerave-baume-hydratant-454g"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 1,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "22052267"
+ ],
+ "preuve_globale": "B",
+ "resume": "Un sérum hydratant bon marché dont l'effet réel est l'hydratation de surface ; l'acide hyaluronique topique n'est pas un filler, et l'effet sur les rides n'est étayé que par un essai de crèmes à 0,1 % en zone périoculaire.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Un sérum hydratant bon marché dont l'effet réel est l'hydratation de surface ; l'acide hyaluronique topique n'est pas un filler, et l'effet sur les rides n'est étayé que par un essai de crèmes à 0,1 % en zone périoculaire.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- Actifs (page marque, consultée le 2026-10-06) : hyaluronate de sodium (masses basse, moyenne, haute) + sodium hyaluronate crosspolymer, panthénol (vitamine B5) ; sérum aqueux, pH 6,0 à 7,5, sans alcool, sans huile, sans silicone. INCI complet non relevé sur une page lisible [?]. « 2 % » : concentration déclarée de l'ensemble du complexe d'après la marque ; la proportion d'acide hyaluronique pur n'est pas précisée [?].\n- **Hydratation et élasticité** : 76 femmes de 30 à 60 ans, crèmes à 0,1 % d'acide hyaluronique de 5 masses moléculaires (50 à 2 000 kDa) vs excipient autour de l'œil, 60 jours : toutes les formules ont amélioré l'hydratation et l'élasticité (R2) vs placebo (Pavicic 2011, PMID 22052267) [B].\n- **Rides** : profondeur des rides (rugosité Ra et Rz) significativement améliorée seulement avec les formes 50 et 130 kDa à 60 jours (même essai) [B] ; résultat non reproduit trouvé ; essai de formulation du fabricant de matière première probable, financement non lu dans le résumé [?]. La marque annonce plusieurs masses moléculaires, sans préciser lesquelles ni leurs proportions [?].\n- Panthénol : pas d'essai revu ici [?].\n- Ce produit : aucun essai trouvé [?].",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Cosmétique (règlement (CE) n° 1223/2009). Statut CosIng et fiche UE détaillée non consultés [?]. AMA : sans objet. Le filler injectable est un autre sujet : [acide hyaluronique filler](fiche:acide-hyaluronique-filler).",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- « Hydrate et lisse, renforce la barrière » (page marque) : hydratation [B] (PMID 22052267) ; « renforce la barrière » : aucun essai trouvé [?].\n- « Plusieurs poids moléculaires pour hydrater plusieurs couches de la peau » : pénétration en profondeur des formes de masse élevée non démontrée dans l'essai (les formes basses sont seules associées à une baisse des rides, hypothèse des auteurs : meilleure pénétration) [B].\n- Effet « repulpant » ou « filler » : [M] ; les données retrouvées sur un nanogel topique de tear trough ne concernent pas ce produit.",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Quelques gouttes matin et soir sur peau propre, avant les huiles et crèmes ; test préalable conseillé par la marque (consultée le 2026-10-06). Sur peau très sèche, appliquer sur peau légèrement humide puis couvrir d'une crème : convention, non testée [?].",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix relevés : 17,40 € les 60 ml (Pharmacie Lariboisière, consultée, soit ≈ 8,70 € les 30 ml) ; 9,90 € (Nocibé, Marionnaud) et 11,50 € (Sephora) les 30 ml annoncés par des résultats de recherche, pages illisibles (HTTP 403) ; 8,90 $ sur le site de la marque (consulté, US) (relevés du 2026-10-06).\n- Quelques gouttes matin et soir ; flacon de 30 ml estimé 2 à 3 mois (estimation personnelle) → environ 4 à 5 €/mois.\n- Alternative moins chère à preuve équivalente : un émollient glycérine (ex. [CeraVe](fiche:cerave-baume-hydratant-454g) contient aussi du hyaluronate de sodium) ; aucun essai comparatif sérum HA vs crème simple trouvé [?]. L'hydratation vient aussi d'un émollient classique.",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Texture « légère, non grasse » selon un vendeur (Lariboisière). Non systématisé [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Composition, prix : [The Ordinary](https://theordinary.com/en-us/hyaluronic-acid-2-b5-serum-original-formulation-100425.html), [Pharmacie Lariboisière](https://www.pharmacielariboisiere.com/products/the-ordinary-hyaluronic-acid-2-b5) (consultés le 2026-10-06) ; Nocibé, Marionnaud, Sephora France illisibles (HTTP 403)\n- Pavicic T et al., J Drugs Dermatol 2011 — PMID 22052267 (pas de DOI indexé)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "The Ordinary Hyaluronic Acid 2% + B5 (30 ml)",
+ "type": "produit",
+ "unite": ""
+}

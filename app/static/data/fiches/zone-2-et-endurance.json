@@ -1,0 +1,78 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-16",
+ "famille": "comportement",
+ "id": "zone-2-et-endurance",
+ "intro": "« Zone 2 » est devenu un slogan. L'endurance à intensité faible à modérée améliore bien la capacité aérobie ; en revanche, aucune étude trouvée ne montre que la zone 2 en tant que telle est la meilleure intensité pour la longévité. Voir aussi [hiit-et-zone-5-vo2max.md](fiche:hiit-et-zone-5-vo2max), [myokines.md](fiche:myokines), [exercice-physique.md](fiche:exercice-physique).",
+ "liens": [
+  "exercice-physique",
+  "hiit-et-zone-5-vo2max",
+  "mitochondries",
+  "myokines"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 17,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42703626",
+  "42318265",
+  "38717713",
+  "19454641",
+  "30646252",
+  "39390310",
+  "39888556",
+  "28623613",
+  "27402675",
+  "40313872",
+  "37107158",
+  "41302017",
+  "41810896",
+  "42688525",
+  "41344319",
+  "32100573",
+  "34574843"
+ ],
+ "preuve_globale": "B",
+ "resume": "La zone 2 n'a pas de définition unique : selon l'étude, c'est 60-70 % de la FC max (PMID 42703626), ou un intervalle défini par seuils ventilatoires (PMID 42318265), ou le « zone 2 » d'un modèle à 3 zones (PMID 38717713). Un chiffre « zone 2 » seul ne dit rien sans la méthode.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- La zone 2 n'a pas de définition unique : selon l'étude, c'est 60-70 % de la FC max (PMID 42703626), ou un intervalle défini par seuils ventilatoires (PMID 42318265), ou le « zone 2 » d'un modèle à 3 zones (PMID 38717713). Un chiffre « zone 2 » seul ne dit rien sans la méthode.\n- **VO2max et mortalité** : association forte et graduée, sans plafond observé [B, cohorte] (PMID 19454641, PMID 30646252). Cela ne montre pas que la zone 2 soit la façon d'augmenter le VO2max.\n- **Mitochondries** : l'entraînement continu à intensité faible ou modérée augmente le contenu mitochondrial musculaire de 23 ± 5 %, similaire à HIT (27 ± 5 %) et SIT (27 ± 7 %) à fréquence égale [A, méta-régression] (PMID 39390310). Par heure d'exercice, SIT et HIT sont plus efficaces.\n- **Répartition d'intensité** (polarisée vs autres) : pas de différence sur VO2max ni chronos chez des athlètes en réseau de méta-analyses [A] (PMID 39888556) ; sur-représenter la zone 2 ne se justifie pas par ces essais.\n- **Mortalité spécifique zone 2** : aucune donnée comparative trouvée [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Un effort continu à faible lactatémie sollicite surtout l'oxydation des substrats dans les fibres lentes ; l'augmentation du contenu mitochondrial et de la capillarisation est mesurée chez l'humain (PMID 39390310). Le lien « zone 2 = meilleure flexibilité métabolique » proposé en vulgarisation n'est pas établi par les sources lues [?].\n\n### L'argument « zone 2 et mitochondries » (San-Millán, Attia) : ce qui tient\n- **Corrélation, pas intervention** : chez 3 groupes (athlètes pros, actifs modérés, syndrome métabolique), l'oxydation des graisses à l'effort est inversement corrélée au lactate sanguin (r = -0,97 chez les athlètes, -0,92 dans le syndrome métabolique) ; les auteurs en déduisent un indicateur indirect de flexibilité métabolique et de capacité oxydative [B, étude transversale] (PMID 28623613). Auteur de l'hypothèse « zone 2 = niveau d'effort qui entraîne le mieux cette flexibilité » : l'étude ne teste pas d'entraînement.\n- **Le volume compte autant que l'intensité** : chez 10 hommes, 4 semaines d'entraînement fractionné normal n'ont modifié aucun paramètre mitochondrial ; 20 jours de double séance quotidienne ont augmenté respiration mitochondriale et citrate synthase de 40-50 %, et ces gains ont disparu en 2 semaines de volume réduit (citrate synthase restée +36 %) [B, étude non contrôlée n=10] (PMID 27402675). Lecture : l'argument de la zone 2 est surtout un argument de volume tolérable, pas de zone.\n- **Intensité modérée continue vs HIIT** : 20 jeunes hommes, 6 semaines : les deux augmentent contenu mitochondrial, citrate synthase et complexe I, mais le réseau mitochondrial se remodèle différemment (MICT : structure en grille ; HIIT : plus longitudinal, plus de fusion) ; l'intérêt fonctionnel de cette différence n'est pas établi [B, n=20] (PMID 40313872).\n- **Conclusion** : la zone 2 augmente bien les mitochondries musculaires ; aucune étude lue ne montre qu'elle le fait mieux que d'autres intensités à volume égal ni qu'elle protège mieux (voir TL;DR). La revue de San-Millán 2023 (PMID 37107158) est une revue narrative qui relie dysfonction mitochondriale et maladies chroniques ; elle ne prouve pas le bénéfice d'une zone d'entraînement [?].\n\n### Définitions\n- Zone 2 « pop-science » : intensité où le lactate reste stable, environ le premier seuil (LT1/VT1), « on peut parler en phrases ».\n- FC % max : zone 2 parfois 60-70 % de la FC max pour l'âge, utilisée comme intensité cible dans une étude pédiatrique (PMID 42703626). La FC max estimée par l'âge est une formule, pas une mesure.\n- Une étude équine a comparé 3 méthodes pour placer le seuil lactique et trouvé que le seuil tombait en zone 2, 3 ou 4 selon la méthode (PMID 41302017) : illustration sur animal [C] que la zone dépend de la méthode, pas transposable telle quelle à l'humain.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### VO2max et mortalité (cohortes)\n| Source | Résultat | Preuve |\n|---|---|---|\n| 33 études, 102 980 pers. | par MET en plus : mortalité toute cause RR 0,87 (0,84-0,90) ; faible vs haute condition RR 1,70 (PMID 19454641) | [B, méta-analyse de cohortes] |\n| 122 007 patients référés pour test d'effort | élite vs faible : HR ajusté 0,20 (0,16-0,24) ; « aucune limite supérieure observée » (PMID 30646252) | [B, cohorte rétrospective monocentrique] |\nAssociation ; état de santé de base et génétique confondent. Ces études mesurent la condition physique, pas un type d'entraînement.\n\n### Mitochondries et capillaires\nMéta-régression de 353 articles (5 973 participants, mitochondries) : gains similaires avec endurance faible-modérée (23 %), HIT (27 %), SIT (27 %), non influencés par âge, sexe ou maladie ; fréquence plus élevée (6 > 4 > 2 séances/sem) associée à de plus grands gains ; capillaires par mm² : plus d'augmentation avec l'endurance (+13 %) qu'avec HIT/SIT (PMID 39390310). [A, méta-régression, études hétérogènes]. Les gains sont plus grands chez les moins entraînés.\n\n### Santé métabolique\n- RCT femmes obèses sédentaires (n=40, 10 semaines) : polarisé, HIIT et seuil améliorent tous VO2max, glycémie à jeun, LDL, masse grasse ; le groupe polarisé fait mieux sur plusieurs critères [B, ECR unique n=40] (PMID 42318265). Petit effectif, jeunes femmes, supervisé.\n- Cochrane sur HIIT chez sédentaires : voir [hiit-et-zone-5-vo2max.md](fiche:hiit-et-zone-5-vo2max) pour la comparaison avec l'entraînement continu modéré (PMID 41810896).\n\n### Répartition de l'intensité (athlètes)\n| Étude | Résultat | Preuve |\n|---|---|---|\n| 17 études, n=437 | polarisé > autres sur VO2peak : SMD 0,24 (0,01-0,48), seulement < 12 semaines et athlètes très entraînés ; pas de différence sur chrono, TTE, vitesse au seuil (PMID 38717713) | [A, effet faible] |\n| 13 études, 348 athlètes, réseau sur données individuelles | polarisé vs pyramidal : VO2 SMD -0,06 (p=0,68), chrono SMD -0,05 (p=0,34) ; compétiteurs peut-être mieux en polarisé, récréatifs en pyramidal (PMID 39888556) | [A, hétérogène] |\n| 32 joueurs de tennis de table, 8 semaines | polarisé > seuil sur seuils ventilatoires ; pas de différence de VO2 absolu (PMID 42688525) | [B, ECR unique n=32] |\n\n### Volumes réellement étudiés\n- Dans une revue sur nageurs de haut niveau 10 km, répartition rapportée : ~77 % zone 1, ~18 % zone 2, ~5 % zone 3 [B] (PMID 41344319) : athlètes d'élite, pas la population générale.\n- Aucun ECR trouvé testant « X heures de zone 2 par semaine » contre mortalité ou vieillissement chez l'adulte non athlète [?]. Les repères de volumes populaires (3-4 h/sem) ne sont pas sourcés ici [?].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **« Zone 2 = la zone magique de la longévité »** : la mortalité est associée à la condition physique (cohortes), pas à une zone d'entraînement testée [B]. Pas de comparaison zone 2 vs autres intensités sur la mortalité [?].\n- **« Zone 2 pour construire les mitochondries, le HIIT non »** : faux d'après la méta-régression : HIT et SIT augmentent le contenu mitochondrial autant, plus par heure d'exercice [A] (PMID 39390310).\n- **« Le HIIT détruit le cortisol/les articulations, la zone 2 est sûre »** : non étayé par les sources lues [?] ; voir sécurité dans [hiit-et-zone-5-vo2max.md](fiche:hiit-et-zone-5-vo2max).\n- **« Zone 2 = 180 moins l'âge » (ou 220 moins l'âge)** : formules approximatives ; le seuil individuel varie, la zone dépend de la méthode (PMID 41302017, animal). Un test lactate ou ventilatoire donne la valeur réelle ; non quantifié ici [?].\n- **« Lactate zone 2 entre 1,7 et 2 mmol/L »** : valeur non vérifiée dans mes sources [?].\n- **Montres connectées et FC max** : la précision des estimations n'a pas été vérifiée ici [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Risque faible en intensité modérée chez l'adulte sain, mais la littérature cardiologique signale, pour les fortes charges d'endurance et les intensités vigoureuses, un risque de fibrillation auriculaire et de calcifications coronaires (relation en U ou J inversé) [B, déclaration de société savante] (PMID 32100573).\n- Reprise progressive après sédentarité : l'effort inhabituel et intense chez le sédentaire porteur de maladie cardiaque est associé à des événements aigus (PMID 34574843, revue).\n- Douleur thoracique, syncope, essoufflement anormal : arrêt et avis médical.",
+   "titre": "Sécurité, contre-indications"
+  },
+  {
+   "markdown": "Avant de démarrer si sédentaire de longue date et d'âge moyen ou plus, diabète, hypertension, maladie cardiaque connue, antécédents familiaux de mort subite, ou traitements bêta-bloquants (la FC cible n'est alors plus fiable). Un test d'effort avec mesure des échanges gazeux est la seule façon d'établir ses seuils [?, non lu en détail].\n\nVoir aussi : [mitochondries et vieillissement](fiche:mitochondries).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "Résumés lus via PubMed MCP. Les chiffres sont ceux des résumés.\n- PMID 39390310 : Mølmen KS et al. Exercise Training on Mitochondrial and Capillary Growth in Human Skeletal Muscle, méta-régression.\n- PMID 19454641 : Kodama S et al. Cardiorespiratory fitness as a quantitative predictor of all-cause mortality (JAMA 2009).\n- PMID 30646252 : Mandsager K et al. Association of CRF with long-term mortality among adults undergoing exercise treadmill testing.\n- PMID 28623613 : San-Millán I et al. Assessment of Metabolic Flexibility by Means of Measuring Blood Lactate, Fat, and Carbohydrate Oxidation Responses to Exercise (Sports Med 2018).\n- PMID 27402675 : Granata C et al. Mitochondrial adaptations to high-volume exercise training are rapidly reversed after a reduction in training volume (FASEB J 2016).\n- PMID 40313872 : Li Y et al. HIIT and MICT on mitochondrial dynamics in human skeletal muscle (Front Physiol 2025).\n- PMID 37107158 : San-Millán I. The Key Role of Mitochondrial Function in Health and Disease (Antioxidants 2023, revue narrative).\n- PMID 38717713 : Silva Oliveira et al. Polarized vs other TID, méta-analyse.\n- PMID 39888556 : Rosenblat et al. TID réseau de méta-analyse sur données individuelles.\n- PMID 42318265 : Zhou C et al. Polarized vs HIIT vs THR chez femmes obèses sédentaires (ECR).\n- PMID 42688525 : Wang W et al. Polarized vs threshold, tennis de table (ECR).\n- PMID 42703626 : Grady MF et al. Step test zone 2 FC, commotion pédiatrique (utilisé uniquement pour la définition 60-70 % FC max).\n- PMID 41302017 : Zuluaga-Cabrera AM et al. Lactate threshold et zones de FC chez le cheval Paso colombien (animal).\n- PMID 41344319 : Fernández-Asensio JM et al. Nageurs 10 km d'élite, revue systématique.\n- PMID 41810896 : Strauss JA et al. HIIT, Cochrane, sédentaires.\n- PMID 32100573 : Franklin BA et al. AHA scientific statement, risques de l'exercice.\n- PMID 34574843 : Franklin BA et al. Chronic stress, exercise and CVD (revue).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Zone 2 et entraînement d'endurance",
+ "type": "actif",
+ "unite": ""
+}

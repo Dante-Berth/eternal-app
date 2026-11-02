@@ -1,0 +1,99 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-29",
+ "famille": "",
+ "id": "maximiser-force-et-volume-musculaire",
+ "intro": "Fiche de synthèse : elle classe les leviers par poids de preuve en renvoyant aux fiches de détail, qui portent les références complètes. Les chiffres ci-dessous sont repris de ces fiches (même tag, même PMID). Presque toutes les synthèses portent sur de jeunes adultes, surtout des hommes ; le plafond génétique individuel et la réponse individuelle ne sont pas prédictibles à partir de ces moyennes.",
+ "liens": [
+  "adaptations-neurales-et-force-maximale",
+  "biomarqueurs-fonctionnels-force-marche-composition-corporelle",
+  "creatine",
+  "ecdysterone",
+  "entrainement-en-resistance",
+  "exercices-polyarticulaires",
+  "hmb",
+  "hypertrophie-volume-frequence-et-proximite-de-lechec",
+  "igf-1-lr3-et-mgf",
+  "metformine",
+  "prise-de-masse-surplus-calorique-et-recomposition",
+  "proteines",
+  "sarcopenie",
+  "secretagogues-de-gh-et-hormone-de-croissance",
+  "semaglutide-et-glp1",
+  "sommeil-recuperation-et-croissance-musculaire"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 19,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28698222",
+  "29138605",
+  "41343037",
+  "38970765",
+  "36334240",
+  "42410632",
+  "28834797",
+  "34623696",
+  "21851204",
+  "32078168",
+  "37057640",
+  "30558493",
+  "29043659",
+  "41433039",
+  "42099260",
+  "42027564",
+  "42141930",
+  "31557380",
+  "41877354"
+ ],
+ "preuve_globale": "A",
+ "resume": "L'entraînement fait 90 % du travail ; tout le reste est un petit effet marginal. Protéines : +2,5 kg de 1RM et +0,30 kg de masse maigre en moyenne sur ≥ 6 semaines [A] (PMID 28698222). Créatine chez l'adulte âgé : ~+1,4 kg de masse maigre en plus de la musculation [A] (PMID 29138605).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **L'entraînement fait 90 % du travail ; tout le reste est un petit effet marginal.** Protéines : +2,5 kg de 1RM et +0,30 kg de masse maigre en moyenne sur ≥ 6 semaines [A] (PMID 28698222). Créatine chez l'adulte âgé : ~+1,4 kg de masse maigre en plus de la musculation [A] (PMID 29138605).\n- **Volume** : plus de séries hebdomadaires = plus de force et d'hypertrophie, avec rendements décroissants, beaucoup plus marqués pour la force [A, méta-régression, 67 études] (PMID 41343037). Le nombre optimal de séries n'est pas tranché [?].\n- **Proximité de l'échec** : l'hypertrophie progresse en s'approchant de l'échec, qui n'est pas nécessaire ; la force est peu sensible [A, contradictoire sur le détail] (PMID 38970765, 36334240, 42410632).\n- **Charge** : hypertrophie similaire de ≤ 60 % à > 60 % de 1RM à l'échec ; la force maximale favorise les charges lourdes [A] (PMID 28834797).\n- **Surplus calorique** : un déficit d'environ 500 kcal/j annule les gains de masse maigre, la force reste comparable [A] (PMID 34623696) ; un surplus d'environ 500 kcal/j a fait +2,8 % de masse maigre contre rien en alimentation libre, chez 21 athlètes [B, ECR n=21] (PMID 21851204).\n- **Sommeil** : 5 nuits à 4 h abaissent la synthèse des protéines myofibrillaires (1,24 vs 1,53 %/j) [B, ECR n=24] (PMID 32078168). Effet à long terme sur le gain de muscle : non trouvé [?].\n- **Produits « anabolisants » du marché gris (peptides, SARM, facteurs de croissance)** : aucune preuve humaine d'un gain de muscle sûr ; voir [IGF-1 LR3 et MGF](fiche:igf-1-lr3-et-mgf) et les [sécrétagogues de la GH](fiche:secretagogues-de-gh-et-hormone-de-croissance).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Pour : adulte en bonne santé qui veut gagner du muscle ou de la force, y compris après 60 ans (la musculation est le traitement de référence de la [sarcopénie](fiche:sarcopenie) [A], PMID 37057640).\n- Pas pour : maladie cardiovasculaire, ostéoporose, hypertension non contrôlée, douleur articulaire persistante : avis médical avant de charger lourd (voir [entraînement en résistance](fiche:entrainement-en-resistance)). Dopage ou substances non autorisées : hors de ce protocole.",
+   "titre": "Pour qui (et pour qui pas)"
+  },
+  {
+   "markdown": "1. **Entraînement en résistance progressif**, polyarticulaires en priorité : [entraînement en résistance](fiche:entrainement-en-resistance), [exercices polyarticulaires](fiche:exercices-polyarticulaires). La surcharge progressive est la condition de tout le reste. [A]\n2. **Volume** : monter les séries dures par groupe musculaire par paliers avant d'ajouter des séances ; fréquence = outil de répartition (à volume égal, pas de différence d'hypertrophie [A], PMID 30558493 ; effet identifiable sur la force [A], PMID 41343037). Détail : [hypertrophie](fiche:hypertrophie-volume-frequence-et-proximite-de-lechec).\n3. **Proximité de l'échec** : finir les séries près de l'échec, sans l'exiger à chaque série ; l'échec systématique n'est pas supérieur en moyenne [A] (PMID 36334240).\n4. **Pour la force maximale** : charges lourdes et pratique du mouvement de test, car la force a une part neurale ; voir [adaptations neurales et force maximale](fiche:adaptations-neurales-et-force-maximale). Charge légère + restriction du flux sanguin : hypertrophie similaire à la charge lourde, force inférieure [A] (PMID 29043659).\n5. **Énergie et protéines** : surplus modeste pour maximiser la prise, déficit = frein à la masse ; protéines jusqu'à ~1,6 g/kg/j d'apport total puis plateau [A] (PMID 28698222). Une méta-analyse bayésienne note que les effets significatifs viennent d'essais non appariés en énergie : le gain peut venir des calories totales [A] (PMID 41433039). Détail : [prise de masse](fiche:prise-de-masse-surplus-calorique-et-recomposition), [protéines](fiche:proteines).\n6. **Sommeil 7 à 9 h** (avis de revue [B], PMID 42099260) : [sommeil et croissance musculaire](fiche:sommeil-recuperation-et-croissance-musculaire).\n7. **Créatine** : seul complément à effet démontré sur la masse et la force, avec l'entraînement ; sans musculation peu ou pas d'effet [A] (PMID 42027564, 42141930) : [créatine](fiche:creatine). En France, plafond de 3 g/jour par portion journalière (arrêté du 26 septembre 2016, source citée dans la fiche créatine).\n8. **Suivi** : force de préhension, charges soulevées, composition corporelle ; la masse maigre mesurée prédit moins bien la mortalité que la force [B] : [biomarqueurs fonctionnels](fiche:biomarqueurs-fonctionnels-force-marche-composition-corporelle).",
+   "titre": "Étapes (par ordre de poids de preuve)"
+  },
+  {
+   "markdown": "| Levier | Preuve | Coût |\n|---|---|---|\n| Entraînement en résistance, volume, proximité de l'échec | [A] | abonnement ou matériel |\n| Énergie et protéines alimentaires | [A] | alimentation |\n| Sommeil suffisant | [B] | gratuit |\n| Créatine | [A] | faible (voir la fiche) |\n| Protéines en poudre | [A] (petit effet, peut venir des calories) | moyen |\n| Autres compléments (HMB, β-alanine, citrulline, ecdystérone) | voir leurs fiches : [HMB](fiche:hmb), [ecdystérone](fiche:ecdysterone) | variable |\n| Peptides, facteurs de croissance, SARM du marché gris | [?] humain | élevé, risque élevé |",
+   "titre": "Classement preuve/prix"
+  },
+  {
+   "markdown": "Évaluer un bloc d'au moins 8 à 12 semaines (durée des essais cités, 8 à 12 semaines pour la plupart) ; pas de délai plus précis sourcé [?]. Changer une variable à la fois.",
+   "titre": "Montée en charge et délai avant d'évaluer"
+  },
+  {
+   "markdown": "- **Metformine** : chez des adultes sains de 65 ans et plus, elle a freiné le gain de masse maigre après 14 semaines de musculation [B, ECR n=94] (PMID 31557380) : voir [metformine](fiche:metformine).\n- **GLP-1 (sémaglutide, tirzépatide)** : 25 à 39 % du poids perdu est de la masse maigre ; la musculation limite cette part à environ 17 % [A] (PMID 41877354).\n- Blessure : incidence non sourcée dans la fiche résistance [?]. Rhabdomyolyse, douleur thoracique, syncope : consulter.",
+   "titre": "Incompatibilités et précautions"
+  },
+  {
+   "markdown": "- Chercher un complément avant d'avoir réglé volume, énergie, sommeil.\n- « Tout à l'échec », « tempo lent », « position allongée obligatoire » : non supérieurs dans les synthèses (voir [mythes de la fiche hypertrophie](fiche:hypertrophie-volume-frequence-et-proximite-de-lechec)).\n- Manger en déficit en espérant grossir : le déficit réduit la masse gagnée [A] (PMID 34623696).\n- Extrapoler les moyennes d'hommes de ~25 ans à d'autres profils : non démontré par ces analyses.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "Douleur thoracique, syncope, essoufflement anormal, urines foncées après un effort intense, ostéoporose ou maladie cardiovasculaire connue, blessure persistante, perte de force inexpliquée (cause à chercher avant d'« entraîner plus »).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "Les références complètes (PMID, auteurs, DOI) sont dans les fiches liées, qui portent chacune leur propre vérification : [entraînement en résistance](fiche:entrainement-en-resistance), [hypertrophie](fiche:hypertrophie-volume-frequence-et-proximite-de-lechec), [protéines](fiche:proteines), [créatine](fiche:creatine), [prise de masse](fiche:prise-de-masse-surplus-calorique-et-recomposition), [sommeil et croissance musculaire](fiche:sommeil-recuperation-et-croissance-musculaire), [sarcopénie](fiche:sarcopenie), [metformine](fiche:metformine), [sémaglutide et GLP-1](fiche:semaglutide-et-glp1). Les PMID de cette fiche sont repris de ces fiches sans nouvelle relecture dans cette session ; d'où `sources_verifiees: partielle`.\n\nPMID repris des fiches liées (références complètes dans ces fiches) :\n- Résistance et hypertrophie : PMID 41343037, 38970765, 36334240, 42410632, 28834797, 29043659, 30558493.\n- Nutrition : PMID 28698222, 41433039, 34623696, 21851204.\n- Compléments : PMID 29138605, 42027564, 42141930.\n- Sommeil : PMID 32078168, 42099260.\n- Sarcopénie, metformine, GLP-1 : PMID 37057640, 31557380, 41877354.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Maximiser la force et le volume musculaire : ce qui compte, dans l'ordre",
+ "type": "protocole",
+ "unite": ""
+}

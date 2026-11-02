@@ -1,0 +1,76 @@
+{
+ "cibles": [
+  "cerveau",
+  "sante-mentale"
+ ],
+ "derniere_maj": "2026-10-27",
+ "famille": "comportement",
+ "id": "musique-432-hz",
+ "intro": "",
+ "liens": [
+  "bruit-rose-et-sons-pour-dormir",
+  "insomnie",
+  "sommeil"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "33263352",
+  "31879635",
+  "41093978",
+  "40497523",
+  "35545982",
+  "39844155",
+  "37760370",
+  "37409630"
+ ],
+ "preuve_globale": "B",
+ "resume": "432 Hz désigne un accordage où le la4 est à 432 Hz au lieu des 440 Hz du standard moderne. Les allégations « fréquence naturelle », « harmonie de l'univers », « soigne le stress et le sommeil » circulent en ligne sans étude [M].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- 432 Hz désigne un accordage où le la4 est à 432 Hz au lieu des 440 Hz du standard moderne. Les allégations « fréquence naturelle », « harmonie de l'univers », « soigne le stress et le sommeil » circulent en ligne sans étude [M].\n- **Sommeil** : deux petites études, aucune robuste. Un essai croisé de 12 patients blessés médullaires a trouvé un meilleur score de sommeil à 432 Hz (+3,6, p = 0,02) mais pas à 440 Hz (−1,5, p = 0,34), sur une échelle modifiée pour l'étude, et un auteur est ingénieur du son associé à un site 432 [B, essai croisé n=12] (PMID 33263352). Une sieste de jour chez 15 hommes : alpha accru à l'endormissement, **latence inchangée** [B, n=15, sans comparateur 440 Hz] (PMID 31879635).\n- **Aucun essai robuste ne montre que 432 Hz bat 440 Hz** : chez 22 athlètes les bénéfices étaient « plus nets à 440 Hz » (PMID 41093978) ; en soins dentaires (72 patients) la musique à 432 Hz n'a pas réduit significativement la tension ni le pouls (PMID 40497523) [B, négatifs].\n- Ce qui compte probablement dans ces études, c'est d'écouter de la musique relaxante, pas la hauteur de l'accordage : le stress a baissé dans les trois groupes, y compris sans musique, chez des infirmiers (PMID 35545982) [B].\n- Un « boost 432 Hz » ajouté à du bruit rose : aucun essai trouvé [?] (voir [bruit rose](fiche:bruit-rose-et-sons-pour-dormir)).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Aucun mécanisme physiologique démontré pour une différence entre 432 et 440 Hz [?]. Les auteurs de l'étude sur la sieste parlent d'un effet « calmant » reflété par l'activité alpha, sans mécanisme (PMID 31879635).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Sommeil, blessés médullaires | 12 patients, double aveugle croisé, 30 min par jour de leur musique préférée à 432 ou 440 Hz, périodes d'écoute et de wash-out variables : score de sommeil +3,6 (p = 0,02) à 432 Hz, −1,5 (p = 0,34) à 440 Hz ; le stress baisse sans différence significative. Le résumé ne rapporte pas de comparaison directe entre 432 et 440 Hz ; échelle « modifiée pour cette étude » ; un auteur est musicien et ingénieur du son lié au site gp432.com (PMID 33263352) | [B, essai croisé n=12, conflit d'intérêts visible] |\n| Sommeil, latence longue | 15 hommes, sieste avec ou sans musique à 432 Hz : latence moyenne non significativement plus courte, énergie alpha accrue à l'endormissement ; pas de comparaison à 440 Hz (PMID 31879635) | [B, n=15] |\n| Anxiété, soignants | 54 soignants d'urgence, pause de travail : STAI en baisse dans les 3 groupes (440 Hz 34,5 → 32 ; 432 Hz 34 → 29 ; activité libre 33 → 31) ; fréquence respiratoire −2,7/min et tension systolique −3,8 mmHg uniquement dans le groupe 432 Hz ; le résumé ne donne pas de test entre groupes (PMID 35545982) | [B, ECR pilote n=54] |\n| Paramètres cardiovasculaires, cancer | 43 patients, monocorde corporel 432 vs 443 Hz, 15 min : fréquence cardiaque −3 vs −1 bpm (p = 0,04) ; la plupart des autres mesures ne diffèrent pas significativement entre les deux fréquences ; seule la vitesse de l'onde de pouls baisse plus à 432 Hz (p < 0,001) ; bien-être amélioré aux deux fréquences (PMID 39844155) | [B, essai croisé n=43, instrument et non musique enregistrée] |\n| Tension et pouls, soins dentaires | 72 patients, musique à 432 Hz ± aromathérapie : baisse non significative par rapport au contrôle (PMID 40497523) | [B, négatif] |\n| Performance sportive | 22 athlètes : la musique améliore la performance et l'humeur par rapport à l'absence de musique, quelle que soit la fréquence ; effets plus nets à 440 Hz (PMID 41093978) | [B, essai croisé n=22, négatif pour 432 Hz] |\n| Chevaux de course | stimulus commercial composé d'un ensemble de fréquences (pas un accordage seul) : moins de stéréotypies, plus de repos allongé (PMID 37760370) | [C] |\n| Souris gestantes | 432 Hz, 2 h par jour : meilleurs scores de comportements moteurs des petits, 6 mères au total ; le résumé affirme que la musique « devrait » être à 432 Hz pour être positive, sans comparaison à un autre accordage (PMID 37409630) | [C, n=6 mères] |\n| « Soigne », « guérit », « recalibre l'ADN » | aucune étude | [M] |\n\nLimites : petits effectifs, critères subjectifs, comparateurs absents ou mal appariés, instruments différents (musique enregistrée, monocorde), aucun effet à long terme.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Études : 15 à 30 min d'écoute par séance (PMID 33263352, 39844155). Nombre de séances et dose-effet : non recherchés [?].\n- Vendu : vidéos de 8 h, remixes « 432 Hz » de morceaux standards. Un fichier réaccordé n'est pas contrôlé en niveau sonore ni en contenu [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Contenu audio, aucun statut réglementaire recherché ici [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Aucun effet indésirable propre à l'accordage décrit dans les résumés lus [?].\n- Les risques sont ceux de l'écoute prolongée : volume, écouteurs la nuit (voir [bruit rose](fiche:bruit-rose-et-sons-pour-dormir)).\n- Une insomnie persistante demande une prise en charge (voir [insomnie](fiche:insomnie)).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« 432 Hz est la fréquence naturelle qui guérit »** : aucune étude ne le démontre [M]. Les essais comparatifs les plus propres ne trouvent pas 432 Hz supérieur à 440 Hz pour la performance ou la tension (PMID 41093978, 40497523).\n- **« Prouvé : améliore le sommeil »** : une étude de 12 patients avec une échelle modifiée et un conflit d'intérêts visible, et une sieste de 15 hommes sans effet sur la latence [B] (PMID 33263352, 31879635).\n- **Résumé qui répète le mythe** : l'étude chez la souris affirme que la musique « devrait » être à 432 Hz pour être positive, sans la comparer à un autre accordage (PMID 37409630). Une phrase dans un résumé n'est pas une preuve.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit. Voir [bruit rose et sons pour dormir](fiche:bruit-rose-et-sons-pour-dormir), [sommeil](fiche:sommeil), [insomnie chronique](fiche:insomnie).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 33263352, Calamassi et al., « Music tuned to 432 Hz versus music tuned to 440 Hz for improving sleep in patients with spinal cord injuries: a double-blind cross-over pilot study », Acta Biomed 2020, doi:10.23750/abm.v91i12-S.10755 (résumé relu).\n- PMID 31879635, Dubey et al., « Effect of music of specific frequency upon the sleep architecture and electroencephalographic pattern of individuals with delayed sleep latency: A daytime nap study », J Family Med Prim Care 2019, doi:10.4103/jfmpc.jfmpc_575_19 (résumé relu).\n- PMID 35545982, Calamassi et al., « The Listening to music tuned to 440 Hz versus 432 Hz to reduce anxiety and stress in emergency nurses during the COVID-19 pandemic », Acta Biomed 2022, doi:10.23750/abm.v93iS2.12915 (résumé relu).\n- PMID 39844155, Hohneck et al., « Differential effects of sound interventions tuned to 432 Hz or 443 Hz on cardiovascular parameters in cancer patients: a randomized cross-over trial », BMC Complement Med Ther 2025, doi:10.1186/s12906-025-04758-5 (résumé relu).\n- PMID 40497523, Mousavi et al., « Effects of Music and Aromatherapy on Blood Pressure and Heart Rate Among Endodontic Patients: A Randomized Clinical Trial », Clin Exp Dent Res 2025, doi:10.1002/cre2.70156 (résumé relu).\n- PMID 41093978, Jebabli et al., « Effect of listening to preferred music at different frequencies during warmup on physical performance and psychophysiological responses in male athletes », Sci Rep 2025, doi:10.1038/s41598-025-20465-0 (résumé relu).\n- PMID 37760370, Gueguen et al., « Selected Acoustic Frequencies Have a Positive Impact on Behavioural and Physiological Welfare Indicators in Thoroughbred Racehorses », Animals 2023, doi:10.3390/ani13182970 (résumé relu).\n- PMID 37409630, Bidari et al., « Maternal music exposure during pregnancy influences reflexive motor behaviors in mice offspring », Int J Dev Neurosci 2023, doi:10.1002/jdn.10285 (résumé relu).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Musique accordée à 432 Hz",
+ "type": "actif",
+ "unite": ""
+}

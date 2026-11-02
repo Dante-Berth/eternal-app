@@ -1,0 +1,62 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-11",
+ "famille": "peptide",
+ "id": "the-ordinary-multi-peptide-serum-hair-density",
+ "intro": "",
+ "liens": [
+  "cafeine-topique",
+  "minoxidil-cooper-5-solution",
+  "peptides-capillaires"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 0,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [],
+ "preuve_globale": "B",
+ "resume": "Un sérum peu cher qui empile des actifs dont l'effet n'a été mesuré qu'en formules combinées et souvent par les fabricants : un appoint cosmétique, pas un substitut au minoxidil ni au finastéride.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Un sérum peu cher qui empile des actifs dont l'effet n'a été mesuré qu'en formules combinées et souvent par les fabricants : un appoint cosmétique, pas un substitut au minoxidil ni au finastéride.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "INCI (page The Ordinary via Cult Beauty, consultée le 2026-10-11) : Aqua, Propanediol, Butylene Glycol, Glycerin, Caffeine, Biotinoyl Tripeptide-1, Acetyl Tetrapeptide-3, Larix Europaea Wood Extract, Pisum Sativum Extract, Scutellaria Baicalensis Root Extract, Triticum Vulgare Germ Extract, Glycine Soja Germ Extract, Trifolium Pratense Flower Extract, Camellia Sinensis Leaf Extract, Apigenin, Oleanolic Acid, Arginine, Glycine, Calcium Gluconate, Zinc Chloride, Lactic Acid, Gluconolactone, Dextran, Maltodextrin, Hydroxyethylcellulose, Xanthan Gum, Pentylene Glycol, Dimethyl Isosorbide, Polysorbate 20, PPG-26-Buteth-26, PEG-40 Hydrogenated Castor Oil, Trisodium Ethylenediamine Disuccinate, Sodium Metabisulfite, Sodium Benzoate, Phenoxyethanol, Chlorphenesin. Les formulations peuvent changer : vérifier l'emballage.\n\n| Actif | Concentration | Preuve |\n|---|---|---|\n| Biotinoyl tripeptide-1 (Procapil) | non déclarée | [B, formules combinées, liens avec les fabricants] voir [peptides capillaires](fiche:peptides-capillaires) |\n| Acétyl tétrapeptide-3 (Capixyl) | non déclarée | [B, ECR unique n=32 sans placebo, en mélange] |\n| Extrait de mélèze + thé vert (Redensyl) | non déclarée | [B, ECR unique n=44, en mélange avec Sepicontrol A5] |\n| Scutellaire, germe de blé, germe de soja (Baicapil) | non déclarée | [?] |\n| [Caféine](fiche:cafeine-topique) | « 1 % » selon un résumé de détaillant, non confirmé sur la page de la marque | voir fiche caféine |",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Cosmétique (INCI, vente libre). CosIng non consulté pour ces ingrédients [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| Allégation de la marque | Études |\n|---|---|\n| « Soutient le cuir chevelu et les follicules », donne « l'aspect de cheveux plus épais, plus denses, plus sains » (page Cult Beauty, 2026-10-11) | Aucune étude du produit trouvée ; la page ne donne ni effectif ni durée de test [?]. Études de formules voisines : [B] |\n| Technologies nommées (Capixyl, Procapil, Redensyl, Baicapil) | La page de la marque consultée ne les nomme pas ; c'est un détaillant qui le fait. Le lien entre la formule vendue et les formules testées n'est pas établi [?] |\n\nLe libellé « l'aspect de » est une formulation d'allégation cosmétique prudente : la marque ne promet pas de repousse.",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Selon la marque : quelques gouttes sur cuir chevelu propre et sec, le soir, masser, ne pas rincer (Cult Beauty, 2026-10-11).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix : 25,19 € les 60 ml (Cult Beauty, version .com, 2026-10-11) ; trois flacons à 65,45 €, soit environ 21,8 € le flacon (Look Fantastic France, 2026-10-11 ; prix relevé via résultat de recherche, non revérifié sur la page).\n- Par mois : la marque ne donne pas de quantité ; en supposant 1 à 1,5 ml par soir, 60 ml durent 40 à 60 jours, soit **environ 8-13 €/mois** (estimation).\n- Alternative à preuve supérieure : [minoxidil](fiche:minoxidil-cooper-5-solution) 5-8 €/mois, preuve [A].",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "La page affiche des avis sans analyse de tolérance ; non exploités [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Fiche The Ordinary / Cult Beauty (INCI, prix, usage, allégations) — https://www.cultbeauty.com/the-ordinary-multi-peptide-serum-for-hair-density-60ml/11841280.html (consultée le 2026-10-11)\n- Look Fantastic France, pack de trois — https://www.lookfantastic.fr/p/the-ordinary-multi-peptide-serum-for-hair-density-60ml-three-pack/13485841 (prix vu en résultat de recherche, 2026-10-11)\n- Preuves : voir [peptides capillaires](fiche:peptides-capillaires).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "The Ordinary Multi-Peptide Serum for Hair Density",
+ "type": "produit",
+ "unite": ""
+}

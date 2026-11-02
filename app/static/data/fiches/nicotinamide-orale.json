@@ -1,0 +1,83 @@
+{
+ "cibles": [
+  "peau",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "medicament",
+ "id": "nicotinamide-orale",
+ "intro": "",
+ "liens": [
+  "niacinamide",
+  "nmn-et-nad",
+  "protection-solaire",
+  "retinoides"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 10,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "26488693",
+  "36856616",
+  "35134311",
+  "38201930",
+  "22709272",
+  "37838527",
+  "28220628",
+  "32113941",
+  "42248744",
+  "11126400"
+ ],
+ "preuve_globale": "A",
+ "resume": "Seule indication appuyée par un grand essai : chez les personnes à haut risque (≥ 2 cancers cutanés non mélanomes en 5 ans), 500 mg 2 fois/j pendant 12 mois réduisent les nouveaux cancers non mélanomes de 23 % (IC 4 à 38 ; ECR de phase 3, n = 386) et les kératoses actiniques de 11 à 20 % selon le…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Seule indication appuyée par un grand essai** : chez les personnes à haut risque (≥ 2 cancers cutanés non mélanomes en 5 ans), 500 mg 2 fois/j pendant 12 mois réduisent les nouveaux cancers non mélanomes de **23 %** (IC 4 à 38 ; ECR de phase 3, n = 386) et les kératoses actiniques de 11 à 20 % selon les mois [B, ECR unique n=386] (PMID 26488693). **L'effet disparaît à l'arrêt** : aucun bénéfice après interruption, dans le même essai.\n- **Chez les greffés d'organes (immunodéprimés), l'essai de phase 3 est nul** : 207 vs 210 nouveaux cancers kératinocytaires, RR 1,0 (IC 0,8-1,3) ; arrêté tôt faute de recrutement, n = 158 [B, ECR unique n=158] (PMID 36856616).\n- **Les méta-analyses divergent** : l'une trouve un RR de 0,50 (IC 0,29-0,85, 5 ECR, 552 patients, preuve « modérée ») pour tous cancers cutanés [A] (PMID 35134311) ; l'autre, qui regroupe 4 ECR immunocompétents et immunodéprimés, ne trouve **pas** d'association significative (NMSC RR 0,82 ; IC 0,61-1,12, I² 63 %) [A, divergent] (PMID 38201930).\n- **Ne remplace ni la protection solaire ni la surveillance dermatologique.** Aucun effet démontré sur le mélanome dans les sources lues [?].\n- À ne pas confondre avec la niacinamide **topique** (cosmétique, fiche [niacinamide](fiche:niacinamide)) ni avec le NMN/NR (fiche [NMN et NAD+](fiche:nmn-et-nad)).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Précurseur du NAD+ ; favoriserait la réparation de l'ADN après UV et réduirait l'immunosuppression cutanée induite par les UV (rationnel cité dans l'introduction des essais, PMID 36856616). Un essai randomisé a montré que la nicotinamide diminue l'immunosuppression induite par la thérapie photodynamique chez l'humain [B, ECR croisé n=30 en oral] : 500 mg oral 2 fois/j pendant 1 semaine réduit de 66 % l'immunosuppression induite par la PDT à haut débit (p < 0,0001) ; les auteurs précisent que la pertinence clinique est inconnue (PMID 22709272).\n- L'effet sur la réparation de l'ADN est un mécanisme proposé, et la clinique (réduction de 23 % dans un seul essai, nulle chez les greffés) ne le démontre pas à elle seule [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Prévention des cancers cutanés non mélanomes, haut risque immunocompétents | 386 participants (≥ 2 NMSC en 5 ans), 500 mg 2 fois/j, 12 mois : nouveaux NMSC −23 % (IC 4-38, p = 0,02) ; carcinomes spinocellulaires −30 % (IC 0-51, p = 0,05) ; basocellulaires −20 % (IC −6 à 39, p = 0,12) ; kératoses actiniques −11 % à 3 mois, −14 % à 6 mois, −20 % à 9 mois, −13 % à 12 mois ; aucun bénéfice 6 mois après l'arrêt ; événements indésirables non différents (PMID 26488693) | [B, ECR unique n=386] |\n| Greffés d'organes | 158 greffés (≥ 2 cancers kératinocytaires en 5 ans), 500 mg 2 fois/j, 12 mois : 207 vs 210 nouveaux cancers, RR 1,0 (IC 0,8-1,3, p = 0,96) ; carcinomes, kératoses actiniques, qualité de vie : pas de différence ; essai arrêté pour recrutement insuffisant (PMID 36856616) | [B, ECR unique n=158] négatif |\n| Méta-analyse, cancers cutanés et kératoses actiniques | 29 essais (3 039 patients) inclus ; pour tous cancers cutanés : RR 0,50 (0,29-0,85), I² 64 %, 5 ECR, 552 patients ; réduction des BCC et SCC ; plus d'effets digestifs ; recommandation « faible » d'envisager chez les patients sains ou greffés avec antécédent (PMID 35134311) | [A, hétérogénéité] |\n| Méta-analyse alternative | 4 ECR, immunocompétents et immunodéprimés poolés : SCC RR 0,81 (0,48-1,37) ; BCC RR 0,88 (0,50-1,55) ; NMSC RR 0,82 (0,61-1,12) ; preuve jugée insuffisante par les auteurs (PMID 38201930) | [A, divergent] |\n| Kératoses actiniques isolées chez le greffé du rein | ECR pilote, 21 randomisés (nicotinamide n = 10, placebo n = 11), 500 mg 2 fois/j, 12 mois : pas de diminution des kératoses actiniques (P = 0,38) ; 40 % d'abandons dans le bras actif, dose d'induction de 1 000 mg 2 fois/j réduite pour symptômes digestifs (PMID 37838527) | [B, ECR pilote n=21] négatif |\n| Acné, pemphigoïde bulleuse, mélasma | revue de 10 études sur l'acné : effet « incertain » (topique : 6 études sur 8 favorables ; oral : 2 études favorables vs état initial, avec un complément multi-ingrédients), littérature limitée (PMID 28220628) ; pemphigoïde bulleuse et mélasma : non recherchés | [B, revue, acné] ; autres [?] |\n| Prévention primaire chez la personne sans antécédent | aucun essai trouvé | [?] |\n\nOrdre de grandeur : une réduction relative de 23 % sur des patients à très haut risque est un effet modeste. Il vaut pour des gens qui font plusieurs cancers cutanés par an, pas pour une peau « saine ».",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais : **500 mg 2 fois par jour** de nicotinamide (amide de la vitamine B3, pas l'acide nicotinique/niacine), pendant 12 mois (PMID 26488693, 36856616).\n- Vendu : gélules ou comprimés de 250 à 500 mg, « B3 » ; la niacine (acide nicotinique) provoque des bouffées vasomotrices et n'est pas la molécule testée. Prix et marques : non relevés [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Nicobion 500 mg, comprimé pelliculé** (Teofarma) : médicament, AMM du 1997-07-07 en procédure nationale, commercialisé ; indication : « traiter la carence en vitamine PP : la pellagre » ; la prévention des cancers cutanés n'est **pas** une indication de l'AMM ; la page n'indique pas de taux de remboursement (BDPM, consulté le 2026-10-14).\n- Solutions injectables de nicotinamide / vitamine PP (Renaudin, Aguettant) : usage hospitalier, hors sujet.\n- Compléments alimentaires de nicotinamide : la nicotinamide est une forme de niacine autorisée dans les compléments (arrêté du 9 mai 2006, annexe I) avec une **dose journalière maximale de 54 mg** (annexe III, version en vigueur depuis le 2006-11-17, Légifrance, consulté le 2026-10-14). La dose des essais (1 000 mg/j) est près de 20 fois supérieure : un complément conforme en France ne peut pas la fournir ; seul le médicament le permet. L'ANSES a proposé 450 mg/j (avis 2023-SA-0165 du 2024-07-31, limite de sécurité adulte 900 mg/j, non applicable aux femmes enceintes ou allaitantes) ; la révision de l'arrêté n'a pas été retrouvée.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Hors AMM** pour la prévention des cancers cutanés : le dermatologue peut prescrire hors AMM, ce qui engage sa responsabilité (principe général, non sourcé ici [?]).\n- Recommandations : la ligne directrice européenne sur le carcinome épidermoïde cutané (EADO/EDF/ESTRO/UEMS/EORTC) a évolué : en 2020, nicotinamide, rétinoïdes oraux et 5-FU topique « ont été utilisés pour la chimioprévention [...] mais ne sont pas recommandés en routine » (PMID 32113941) ; la mise à jour 2026 cite, dans son résumé, la nicotinamide orale parmi les stratégies de prévention avec la photoprotection, sans gradation lisible dans le résumé (PMID 42248744). Les positions de la SFD et du NCCN n'ont pas été consultées [?]. La méta-analyse de Mainville affirme que la nicotinamide « est recommandée » pour certains profils (PMID 35134311, introduction), sans source identifiée.\n- Statut du Nicobion (BDPM, CIS 68884833) : voir ci-dessus ; conditions de prescription et de délivrance non relevées ici.\n- AMA : la nicotinamide n'est pas citée dans la Liste des interdictions 2026 (PDF officiel, parcouru par mots-clés, consulté le 2026-10-14).",
+   "titre": "Réglementaire"
+  },
+  {
+   "markdown": "- Dans l'ECR à 386 patients : pas de différence notable d'événements indésirables sur 12 mois (PMID 26488693). Dans l'ECR chez les greffés : événements indésirables et biologie comparables (PMID 36856616). La méta-analyse de Mainville note un risque accru d'effets digestifs (PMID 35134311).\n- Revue de sécurité de la nicotinamide à haute dose (Diabetologia 2000) : bonne tolérance, mais hépatotoxicité réversible rapportée chez l'animal et l'humain à des doses très élevées, et anomalies mineures des enzymes hépatiques « peu fréquentes » aux doses utilisées pour la prévention du diabète ; la revue juge qu'au-delà de 3 g/j chez l'adulte il faut la considérer comme un médicament à potentiel toxique, usage sans supervision à décourager ; pas de tératogénicité animale, pas d'oncogénicité humaine, résistance à l'insuline mineure possible [B, revue] (PMID 11126400). Effets cardiovasculaires à long terme et interactions médicamenteuses (antiépileptiques, anticoagulants) : non retrouvés [?]. Bilan hépatique de suivi à discuter avec un médecin.\n- Grossesse, allaitement : l'ANSES ne rend pas sa limite de sécurité de 900 mg/j applicable aux femmes enceintes ou allaitantes (données insuffisantes) ; la revue de 2000 ne trouve pas de tératogénicité animale (PMID 11126400). Enfants : non étudiés ici [?].\n- **Piège** : l'effet est suspensif ; à l'arrêt, le risque revient (PMID 26488693). Un traitement efficace suppose donc une prise continue, donc une surveillance sur le long cours.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« La vitamine B3 prévient le cancer de la peau »** : vrai seulement dans l'ECR sur des patients à très haut risque (−23 %) ; faux chez les greffés ; non démontré en prévention primaire [B] (PMID 26488693, 36856616).\n- **« Équivalent d'une crème solaire »** : aucune étude ne la compare ; la protection solaire reste la base (voir [protection solaire](fiche:protection-solaire)).\n- **« Efficace tant qu'on en prend, puis protège à vie »** : aucune protection après arrêt (PMID 26488693).\n- **« La niacinamide topique fait pareil »** : la preuve de prévention du cancer porte sur la forme orale ; pour le topique, voir [niacinamide](fiche:niacinamide).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit dans ce dépôt. Fiches voisines : [niacinamide](fiche:niacinamide), [protection solaire](fiche:protection-solaire), [NMN et NAD+](fiche:nmn-et-nad), [rétinoïdes](fiche:retinoides).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 26488693, Chen et al., « A Phase 3 Randomized Trial of Nicotinamide for Skin-Cancer Chemoprevention », N Engl J Med 2015 (résumé relu).\n- PMID 36856616, Allen et al., « Nicotinamide for Skin-Cancer Chemoprevention in Transplant Recipients », N Engl J Med 2023 (résumé relu).\n- PMID 35134311, Mainville et al., « Effect of Nicotinamide in Skin Cancer and Actinic Keratoses Chemoprophylaxis, and Adverse Effects Related to Nicotinamide: A Systematic Review and Meta-Analysis », J Cutan Med Surg 2022 (résumé relu).\n- PMID 38201930, Tosti et al., « The Role of Nicotinamide as Chemo-Preventive Agent in NMSCs: A Systematic Review and Meta-Analysis », Nutrients 2023 (résumé relu).\n- PMID 22709272, Thanos et al., « Nicotinamide reduces photodynamic therapy-induced immunosuppression in humans », Br J Dermatol 2012 (résumé relu).\n- PMID 37838527, Zhang et al., nicotinamide orale et kératoses actiniques chez des greffés du rein, Transplant Proc 2023 (résumé relu).\n- PMID 28220628, Walocko et al., « The role of nicotinamide in acne treatment », Dermatol Ther 2017 (résumé relu).\n- PMID 11126400, Knip et al., « Safety of high-dose nicotinamide: a review », Diabetologia 2000 (résumé relu).\n- PMID 32113941, Stratigos et al., ligne directrice européenne sur le carcinome épidermoïde cutané, partie 1, Eur J Cancer 2020 (résumé relu) ; PMID 42248744, mise à jour 2026, Eur J Cancer (résumé relu).\n- Arrêté du 9 mai 2006 (Légifrance, annexes I et III) ; Anses, avis 2023-SA-0165 du 2024-07-31 ; Liste AMA 2026 ; consultés le 2026-10-14.\n- BDPM (base-donnees-publique.medicaments.gouv.fr), Nicobion 500 mg comprimé pelliculé, CIS 68884833 : fichier CIS_bdpm et page du médicament, consultés le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "hors_amm",
+ "titre": "Nicotinamide orale (vitamine B3) et cancers cutanés",
+ "type": "actif",
+ "unite": ""
+}

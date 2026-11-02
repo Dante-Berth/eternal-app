@@ -1,0 +1,66 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "medicament",
+ "id": "effederm-tretinoine-0-05",
+ "intro": "",
+ "liens": [
+  "differine-adapalene-0-1",
+  "retinoides"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "1552056",
+  "2024983",
+  "16060712",
+  "9990414"
+ ],
+ "preuve_globale": "A",
+ "resume": "La trétinoïne à la concentration des essais pivots, pour 3,39 € le tube remboursable : le meilleur rapport preuve/prix de la peau anti-âge, à condition d'avoir une ordonnance et de supporter l'irritation.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "La trétinoïne à la concentration des essais pivots, pour 3,39 € le tube remboursable : le meilleur rapport preuve/prix de la peau anti-âge, à condition d'avoir une ordonnance et de supporter l'irritation.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- Trétinoïne 0,050 g pour 100 g de crème (BDPM, consulté le 2026-10-03).\n- Photovieillissement : trétinoïne 0,05 % supérieure à l'excipient dans plusieurs grands essais de 24 semaines (68 % vs 43 % d'amélioration ; 79 % vs 48 %) [A] et sur 2 ans [B, ECR unique n=204]. Détail et références : [rétinoïdes](fiche:retinoides).\n- Les essais pivots ont utilisé une crème émolliente américaine, pas l'excipient d'Effederm : l'équivalence de formulation n'est pas étudiée [?].",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Médicament liste I (ordonnance), commercialisé ; tube de 30 g, prix 2,37 € + 1,02 € d'honoraire = 3,39 €, remboursé à 30 % ; indications : acné de sévérité moyenne (surtout rétentionnelle), troubles de la kératinisation résistant aux émollients, verrues planes ; contre-indiqué chez la femme enceinte ou qui planifie une grossesse (BDPM, consulté le 2026-10-03). Usage anti-âge = hors AMM. AMA : sans objet (médicament dermatologique topique, hors substances visées par la règle 4).",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "Aucune allégation anti-âge (médicament de l'acné). Les études soutiennent l'usage anti-photovieillissement à 0,05 % [A], avec une irritation dose-dépendante [A].",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Selon la prescription. Les essais anti-âge appliquaient le produit une fois par jour, le soir, sur tout le visage [A]. La trétinoïne est détruite par la lumière et par le peroxyde de benzoyle [D] : application le soir, pas de mélange avec du peroxyde de benzoyle. Grossesse : contre-indiqué.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "Prix réglementé, identique dans toutes les pharmacies (3,39 €, 30 % remboursés sur ordonnance). Durée d'un tube de 30 g pour le visage : non indiquée dans la BDPM ; estimation 2 à 3 mois en couche fine (estimation personnelle, pas une donnée de la notice) → environ 1 à 2 €/mois. Aucune alternative moins chère à preuve égale. Alternatives : [Ketrel 0,050 %](https://base-donnees-publique.medicaments.gouv.fr/medicament/60552619/extrait) (même concentration, prix libre, non remboursé) ; [adapalène](fiche:differine-adapalene-0-1) si irritation (preuve moindre [B]).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non recherchés pour ce produit [?]. Tolérance attendue d'après les essais : rougeurs, desquamation, brûlures les premières semaines [A].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- BDPM, Effederm 0,05 %, crème — [fiche](https://base-donnees-publique.medicaments.gouv.fr/medicament/67020138/extrait) (consulté le 2026-10-03)\n- Références cliniques (PMID 1552056, 2024983, 16060712, 9990414) : voir [rétinoïdes](fiche:retinoides)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "true",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Effederm 0,05 % crème (trétinoïne)",
+ "type": "produit",
+ "unite": ""
+}

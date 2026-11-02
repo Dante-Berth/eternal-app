@@ -1,0 +1,119 @@
+{
+ "cibles": [
+  "longevite",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-29",
+ "famille": "",
+ "id": "maximiser-esperance-de-vie",
+ "intro": "Fiche de synthèse : elle ordonne les leviers du dépôt par gain démontré, et sépare ce qui est prouvé sur la mortalité de ce qui n'est qu'un marqueur. Les chiffres viennent des fiches liées (même tag, même PMID). **Presque tout le niveau [B] ici est observationnel** : association entre un comportement et la survie, pas preuve que le modifier allonge la vie. Aucun essai randomisé ne mesure « vivre plus longtemps » sur des décennies chez l'humain [?].",
+ "liens": [
+  "alimentation",
+  "bilans-biologiques",
+  "biomarqueurs-fonctionnels-force-marche-composition-corporelle",
+  "empiler-des-molecules-et-rotation",
+  "exercice-physique",
+  "fisetine",
+  "hiit-et-zone-5-vo2max",
+  "horloges-epigenetiques-et-age-biologique",
+  "jeune-intermittent-et-restriction-calorique",
+  "maximiser-force-et-volume-musculaire",
+  "metformine",
+  "nmn-et-nad",
+  "prevention-avc-et-infarctus",
+  "prevention-chutes-et-fractures",
+  "rapamycine",
+  "regime-mediterraneen",
+  "resveratrol",
+  "sarcopenie",
+  "semaglutide-et-glp1",
+  "sommeil",
+  "spermidine",
+  "tabac-et-alcool",
+  "urolithine-a",
+  "vitamine-d",
+  "vo2max-et-aptitude-cardio-respiratoire",
+  "zone-2-et-endurance"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 24,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "23343063",
+  "37696529",
+  "19454641",
+  "30646252",
+  "34315158",
+  "37057640",
+  "40713949",
+  "30703272",
+  "28889101",
+  "26900147",
+  "30667501",
+  "37000449",
+  "37905315",
+  "42806363",
+  "37128734",
+  "19587680",
+  "40188830",
+  "36281624",
+  "31557380",
+  "37952131",
+  "40892610",
+  "37118425",
+  "30293909",
+  "41877354"
+ ],
+ "preuve_globale": "B",
+ "resume": "Fiche de synthèse : elle ordonne les leviers du dépôt par gain démontré, et sépare ce qui est prouvé sur la mortalité de ce qui n'est qu'un marqueur. Les chiffres viennent des fiches liées (même tag, même PMID). Presque tout le niveau [B] ici est observationnel : association entre un comportement…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "1. **Tabac** : levier au gain le plus chiffré. Les fumeurs perdent plus de 10 ans d'espérance de vie ; arrêter à 25-34, 35-44 ou 45-54 ans fait regagner environ 10, 9 et 6 ans [B, cohorte transversale US] (PMID 23343063). Aides à l'arrêt : cigarette électronique (OR 2,37), varénicline (OR 2,33), cytisine (OR 2,21) [A] (PMID 37696529).\n2. **Condition cardio-respiratoire** : chaque MET en plus, RR de mortalité toute cause 0,87 [B, méta-analyse de cohortes] (PMID 19454641), sans plafond observé (PMID 30646252). Aucun ECR ne montre qu'augmenter le VO2max réduit la mortalité [?] : [VO2max](fiche:vo2max-et-aptitude-cardio-respiratoire).\n3. **Force et muscle** : préhension la plus haute vs la plus basse, HR 0,69 sur 1,9 million de personnes [B, méta-analyse de cohortes] ; sarcopénie associée à un doublement de la mortalité (HR 2,00) [B] (PMID 34315158). La musculation est le traitement de référence [A] (PMID 37057640) : [biomarqueurs fonctionnels](fiche:biomarqueurs-fonctionnels-force-marche-composition-corporelle), [sarcopénie](fiche:sarcopenie), [maximiser force et volume](fiche:maximiser-force-et-volume-musculaire).\n4. **Marche** : 7 000 pas/j vs 2 000, HR 0,53 pour la mortalité toute cause, plateau vers 5 000-7 000 [B, méta-analyse de cohortes] (PMID 40713949).\n5. **Muscle contre chutes** : exercices d'équilibre et fonctionnels, chutes -23 % (108 ECR) [A, certitude élevée] (PMID 30703272).\n6. **Sommeil** : minimum de risque autour de 7 h, courbe en U, causalité inverse probable pour les longues durées [B] (PMID 28889101, 26900147).\n7. **Risque cardiovasculaire** : piloter le risque global (tension, LDL/ApoB, glycémie, tabac), pas un facteur isolé ; aspirine en prévention primaire : en général non (+43 % d'hémorragies majeures pour -11 % d'événements CV) [A] (PMID 30667501) : [prévention AVC et infarctus](fiche:prevention-avc-et-infarctus).\n8. **Alcool** : le « verre protecteur » repose en grande partie sur des biais ; pas de seuil sûr pour plusieurs cancers dès la consommation légère [A] (PMID 37000449, 37905315) : [tabac et alcool](fiche:tabac-et-alcool).\n9. **Alimentation** : pas d'aliment miracle ; le signal constant est un pattern (méditerranéen) [B, observationnel] : [alimentation](fiche:alimentation), [régime méditerranéen](fiche:regime-mediterraneen).\n10. **Molécules « anti-âge »** : aucune n'a de preuve d'allongement de la vie humaine (voir plus bas).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Pour : adulte qui veut hiérarchiser ses efforts. L'ordre ci-dessus est un ordre de preuve et d'ampleur chiffrée, pas un classement personnalisé : l'effet dépend du point de départ (un non-fumeur ne gagne rien du levier n° 1).\n- Pas pour : remplacer un suivi médical ; toute maladie connue (cardiaque, rénale, diabète) change les priorités.",
+   "titre": "Pour qui (et pour qui pas)"
+  },
+  {
+   "markdown": "1. **Ne pas fumer, ou arrêter** avec une aide validée. [A] pour les aides, [B] pour le gain d'années.\n2. **Activité en trois couches** : marcher régulièrement, travailler la condition cardio-respiratoire ([zone 2](fiche:zone-2-et-endurance), [HIIT](fiche:hiit-et-zone-5-vo2max)), faire de la musculation ; voir [exercice physique](fiche:exercice-physique). Comparaison zone 2 vs HIIT sur la mortalité : aucune donnée solide [?].\n3. **Dormir environ 7 h** et traiter une insomnie par TCC-I en première intention [A] ([sommeil](fiche:sommeil), PMID 42806363).\n4. **Maîtriser le risque cardio-métabolique** avec un médecin : tension, lipides (dont Lp(a) au moins une fois dans la vie, consensus d'experts [B], PMID 37128734), glycémie ; voir [bilans biologiques](fiche:bilans-biologiques).\n5. **Dépistages recommandés par âge** : voir [prévention et dépistage](../../vues/themes/prevention-et-depistage.md) (colorectal, sein, col de l'utérus, poumon chez les fumeurs, vaccins) ; ce dépôt détaille chaque dépistage, son bénéfice et ses limites.\n6. **Alcool le plus bas possible**, alimentation de type méditerranéen, poids stable.\n7. **Prévenir les chutes et les fractures** après 60 ans ([prévention des chutes](fiche:prevention-chutes-et-fractures)).",
+   "titre": "Étapes"
+  },
+  {
+   "markdown": "| Molécule | État des preuves sur la durée de vie ou la mortalité humaine | Fiche |\n|---|---|---|\n| Rapamycine | Allonge la vie de souris hétérogènes [C] (PMID 19587680) ; chez l'humain sain, ECR de 48 semaines sans effet sur le critère principal ; aucun essai de survie [B, ECR unique] (PMID 40188830), financeur à intérêt commercial | [rapamycine](fiche:rapamycine) |\n| Metformine | Pas d'allongement global chez souris et nématode [C] (PMID 36281624) ; freine le gain de muscle à la musculation chez des 65+ [B, ECR n=94] (PMID 31557380) ; TAME sans résultat publié trouvé | [metformine](fiche:metformine) |\n| GLP-1 (sémaglutide, tirzépatide) | Bénéfice cardiovasculaire chez des patients à risque (HR 0,80) [B] (PMID 37952131) ; −12 % de mortalité totale chez des patients à haut risque [A, 21 ECR] (PMID 40892610) ; personne mince ou en bonne santé : aucune donnée [?] | [GLP-1](fiche:semaglutide-et-glp1) |\n| Jeûne / restriction calorique | Allongement chez l'animal [C] ; humain : aucune donnée de mortalité [B] (PMID 37118425) | [jeûne](fiche:jeune-intermittent-et-restriction-calorique) |\n| Vitamine D (non carencé) | Ni fractures ni chutes évitées (81 ECR) [A] (PMID 30293909) | [vitamine D](fiche:vitamine-d) |\n| NMN, résvératrol, spermidine, urolithine A, fisétine | Voir chaque fiche ; aucun résultat de survie humaine retenu dans ce résumé [?] | [NMN](fiche:nmn-et-nad), [résvératrol](fiche:resveratrol), [spermidine](fiche:spermidine), [urolithine A](fiche:urolithine-a), [fisétine](fiche:fisetine) |\n| Peptides injectables (épitalon, FOXO4-DRI, humanine…) | Animal ou in vitro, jamais de preuve de survie humaine | [peptides](../../vues/themes/peptides.md) |",
+   "titre": "Ce que les molécules « anti-âge » démontrent réellement"
+  },
+  {
+   "markdown": "Ordre des leviers (preuve, puis ampleur chiffrée, puis coût) : tabac (gratuit, gain le plus chiffré) > activité physique (gratuit) > sommeil (gratuit) > suivi cardio-métabolique (remboursé) > dépistages (remboursés) > alcool et alimentation (gratuit) > molécules (coûteuses, preuve humaine absente sur la survie).",
+   "titre": "Classement preuve/prix"
+  },
+  {
+   "markdown": "Pas de critère d'évaluation « espérance de vie » à l'échelle individuelle. Suivre des marqueurs fonctionnels (préhension, vitesse de marche, VO2max, tension, LDL) tous les 3 à 12 mois ; ce sont des marqueurs de risque, pas des résultats prouvés [B]. Les horloges épigénétiques grand public n'ont pas d'utilité clinique établie [?] : [horloges épigénétiques](fiche:horloges-epigenetiques-et-age-biologique).",
+   "titre": "Montée en charge et délai avant d'évaluer"
+  },
+  {
+   "markdown": "- Empiler des molécules : voir [empiler des molécules et rotation](fiche:empiler-des-molecules-et-rotation) ; aucun cadre « sûr » validé.\n- Metformine et musculation, GLP-1 et perte de masse maigre (25 à 39 % du poids perdu, limitée à environ 17 % avec musculation [A], PMID 41877354) : l'effet de l'un peut annuler celui d'un levier de base.\n- Médicaments sur ordonnance (rapamycine, metformine, GLP-1) : jamais sans médecin ; l'achat en ligne de GLP-1 est illégal en France et expose à des produits falsifiés (ANSM, cité dans la fiche GLP-1).",
+   "titre": "Incompatibilités et précautions"
+  },
+  {
+   "markdown": "- Prendre des molécules sans preuve de survie avant d'avoir réglé tabac, activité, sommeil, tension, lipides.\n- Confondre biomarqueur et résultat clinique : un NAD+ ou un « âge biologique » qui bouge n'est pas une vie plus longue.\n- Lire une association de cohorte comme une cause : activité et santé de base sont liées.\n- Croire à un alcool protecteur à petite dose.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "Médecin traitant pour un bilan de risque cardiovasculaire et le calendrier de dépistage ; consultation spécialisée pour toute molécule sur ordonnance ; tout symptôme nouveau (douleur thoracique, perte de poids inexpliquée, essoufflement, chutes).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "Références complètes dans les fiches liées. PMID repris de ces fiches (non relus un par un dans cette session) :\n- Tabac, alcool : PMID 23343063, 37696529, 37000449, 37905315.\n- Activité : PMID 19454641, 30646252, 40713949, 30703272, 37057640.\n- Sarcopénie : PMID 34315158. Sommeil : PMID 28889101, 26900147, 42806363.\n- Risque cardiovasculaire : PMID 30667501, 37128734, 37952131, 40892610.\n- Molécules : PMID 19587680, 40188830, 36281624, 31557380, 37118425, 30293909, 41877354.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Maximiser l'espérance de vie : leviers classés par poids de preuve",
+ "type": "protocole",
+ "unite": ""
+}

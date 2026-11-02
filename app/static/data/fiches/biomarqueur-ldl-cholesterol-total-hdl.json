@@ -1,0 +1,115 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-ldl-cholesterol-total-hdl",
+ "intro": "Fiche « examen » du bilan lipidique de base. Traitements, preuves des statines et statut des médicaments : [ApoB, LDL-C et statines](fiche:apob-lipides-et-statines), [statines](fiche:statines). Autres lignes du bilan : [triglycérides, non-HDL-C et remnants](fiche:biomarqueur-triglycerides-non-hdl-remnants), [ApoB](fiche:biomarqueur-apob), [ApoA-I et HDL](fiche:biomarqueur-apoa1), [Lp(a)](fiche:biomarqueur-lipoproteine-a). Contexte du bilan : [bilans biologiques](fiche:bilans-biologiques).",
+ "liens": [
+  "alimentation",
+  "apob-lipides-et-statines",
+  "berberine",
+  "bilans-biologiques",
+  "biomarqueur-apoa1",
+  "biomarqueur-apob",
+  "biomarqueur-foie-alat-ggt-fib4-fibroscan",
+  "biomarqueur-hba1c",
+  "biomarqueur-lipoproteine-a",
+  "biomarqueur-reins-creatinine-cystatine-albuminurie",
+  "biomarqueur-thyroide-tsh-t4-anti-tpo",
+  "biomarqueur-triglycerides-non-hdl-remnants",
+  "exercice-physique",
+  "psyllium-et-fibres-solubles",
+  "statines",
+  "tabac-et-alcool"
+ ],
+ "marqueurs": [
+  "ldl-c",
+  "hdl-c",
+  "cholesterol-total",
+  "non-hdl-c",
+  "apob",
+  "triglycerides"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 10,
+ "nb_seuils": 18,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28444290",
+  "21067804",
+  "37437107",
+  "42894737",
+  "42813263",
+  "31504418",
+  "22797450",
+  "19903920",
+  "27122601",
+  "31591002"
+ ],
+ "preuve_globale": "A",
+ "resume": "Le LDL-C est la ligne qui porte les cibles de traitement. Le lien causal LDL → athérosclérose est établi par la génétique, les cohortes et les essais ; la baisse de risque suit la baisse absolue de LDL-C [A] (PMID 28444290). Les statines réduisent les événements vasculaires majeurs de 22 % par mm…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Le **LDL-C** est la ligne qui porte les cibles de traitement. Le lien causal LDL → athérosclérose est établi par la génétique, les cohortes et les essais ; la baisse de risque suit la baisse absolue de LDL-C [A] (PMID 28444290). Les statines réduisent les événements vasculaires majeurs de 22 % par mmol/L de LDL-C en moins (RR 0,78 ; 0,76-0,80), sans seuil visible dans la plage étudiée et sans excès de cancer [A, méta-analyse de 26 essais] (PMID 21067804).\n- **Le LDL-C du compte rendu est le plus souvent calculé, pas mesuré** (Friedewald dans la recommandation ESC/EAS) et il sous-estime dès que les triglycérides montent (≥ 2 mmol/L, soit 177 mg/dL) ; la formule est inutilisable au-delà de 4,5 mmol/L (400 mg/dL) (ESC/EAS 2019). Un LDL-C « bon » avec des triglycérides élevés ou un LDL-C très bas est donc le cas où il faut demander une autre méthode ou l'ApoB.\n- **Cibles ESC/EAS 2019, inchangées par la mise à jour 2025** : < 1,4 mmol/L (55 mg/dL) et baisse ≥ 50 % en risque très élevé ; < 1,8 mmol/L (70 mg/dL) en risque élevé ; < 2,6 en risque modéré (« à considérer ») ; < 3,0 en risque faible. Ce sont des **cibles d'experts, jamais testées en essai randomisé** comme telles (extrapolation des essais « plus vs moins intensif ») (voir [fiche liée](fiche:apob-lipides-et-statines), PMID 21067804).\n- **Cholestérol total** : peu utile seul ; sert à calculer le non-HDL-C (cholestérol total − HDL-C) et le risque SCORE2.\n- **HDL-C** : « plus c'est haut, mieux c'est » est faux. Les médicaments qui l'augmentent n'ont pas réduit les événements sous statine ; un HDL-C très élevé (≥ 80 mg/dL chez l'homme, ≥ 100 mg/dL chez la femme) est associé à une mortalité plus haute [B, revue narrative] (PMID 37437107).\n- HAS : pas de recommandation française récente sur les cibles retrouvée (fiche mémo 2017 abrogée) [?] (voir Valeurs). Remboursement et cotation : non retrouvés [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Cholestérol total** : cholestérol de toutes les lipoprotéines (LDL, HDL, VLDL, remnants, Lp(a)). **HDL-C** : cholestérol des HDL, mesuré directement. **LDL-C** : cholestérol des LDL, **calculé** à partir des trois autres lignes ou **dosé directement** (méthode enzymatique homogène).\n- Formule de Friedewald (ESC/EAS 2019) : LDL-C = cholestérol total − HDL-C − TG/2,2 en mmol/L, ou − TG/5 en mg/dL (ou en g/L si toutes les valeurs sont en g/L). Elle suppose un rapport fixe cholestérol/triglycérides dans les VLDL et cumule les erreurs de trois dosages. Sous 2 mmol/L de triglycérides l'erreur est faible ; au-delà, sous-estimation (ESC/EAS 2019).\n- Les dosages directs ont aussi un biais en cas de dyslipidémie, surtout avec triglycérides élevés (ESC/EAS 2019). Dans une comparaison de méthodes d'un seul laboratoire indien, la formule de Friedewald range 58 % des échantillons à 250-300 mg/dL de triglycérides (et 58 % au-dessus de 300) dans une tranche de LDL-C plus basse que le dosage direct ; les auteurs recommandent le dosage direct au-dessus de 250 mg/dL [B, comparaison de méthodes monocentrique] (PMID 42894737).\n- Équations alternatives (Martin-Hopkins, Sampson/NIH) : conçues pour corriger la sous-estimation quand les triglycérides sont élevés ou le LDL-C bas. Chez 10 550 jeunes adultes (7 cohortes, 22,7 ans de suivi), les trois équations associent un LDL-C élevé aux événements (sHR 1,47 à 1,69) et la classification Martin-Hopkins repère plus de sujets à risque que Friedewald ; pas de supériorité démontrée en prise en charge [B, cohortes] (PMID 42813263). Quelle équation votre laboratoire utilise : à lire sur le compte rendu ; non standardisé en France à ma connaissance, non vérifié [?].\n- **Conversion** : cholestérol, 1 mmol/L = 38,67 mg/dL (ESC/EAS 2019) ; 1 g/L = 100 mg/dL. Triglycérides : 1 mmol/L ≈ 88,5 mg/dL (facteur du consensus EAS/EFLM dans la [fiche triglycérides](fiche:biomarqueur-triglycerides-non-hdl-remnants) : 89).",
+   "titre": "Ce que mesure l'examen"
+  },
+  {
+   "markdown": "Conversion : cholestérol, 1 mmol/L = 38,67 mg/dL ; 1 g/L = 100 mg/dL = 2,586 mmol/L (calcul). Les laboratoires français rendent en g/L, les recommandations ESC en mmol/L.\n\nRecommandation officielle : ESC/EAS 2019 (Mach F et al., *Eur Heart J* 2020, doi 10.1093/eurheartj/ehz455, PMID 31504418), mise à jour 2025 qui conserve les cibles de LDL-C (ESC, doi 10.1093/eurheartj/ehaf190), texte lu sur academic.oup.com, consulté le 2026-11-01 ; les tableaux 4 et 5 du texte 2019 sont des images, non lus. Les valeurs de LDL-C en g/L sont des conversions.\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| LDL-C | mmol/L (mg/dL) | < 1,4 (< 55) et baisse ≥ 50 % | cible de traitement | risque cardiovasculaire très élevé | ESC/EAS 2019, inchangée en 2025, consulté le 2026-11-01 |\n| LDL-C | mmol/L (mg/dL) | < 1,0 (< 40) | cible « à considérer » | très haut risque avec 2e événement vasculaire en 2 ans sous statine maximale tolérée | ESC/EAS 2019, consulté le 2026-11-01 |\n| LDL-C | mmol/L (mg/dL) | < 1,8 (< 70) et baisse ≥ 50 % | cible de traitement | risque élevé | ESC/EAS 2019, inchangée en 2025, consulté le 2026-11-01 |\n| LDL-C | mmol/L (mg/dL) | < 2,6 (< 100) | cible « à considérer » | risque modéré | ESC/EAS 2019, consulté le 2026-11-01 |\n| LDL-C | mmol/L (mg/dL) | < 3,0 (< 116) | cible « peut être considérée » | risque faible | ESC/EAS 2019, consulté le 2026-11-01 |\n| LDL-C | g/L | ≥ 0,70 | critère de remboursement des anti-PCSK9 (en plus d'une intolérance ou contre-indication aux statines ou à l'ézétimibe) | maladie cardiovasculaire athéroscléreuse établie | arrêtés 2023-04-07 et 2023-06-12 (Vidal), repris de la [fiche liée](fiche:apob-lipides-et-statines), consulté le 2026-10-08 |\n| Non-HDL-C | mmol/L (mg/dL) | < 2,2 (< 85) | objectif secondaire | risque très élevé | ESC/EAS 2019, consulté le 2026-11-01 |\n| Non-HDL-C | mmol/L (mg/dL) | < 2,6 (< 100) | objectif secondaire | risque élevé | ESC/EAS 2019, consulté le 2026-11-01 |\n| Non-HDL-C | mmol/L (mg/dL) | < 3,4 (< 130) | objectif secondaire | risque modéré | ESC/EAS 2019, consulté le 2026-11-01 |\n| ApoB | mg/dL | < 65 / < 80 / < 100 | objectif secondaire | risque très élevé / élevé / modéré | ESC/EAS 2019, consulté le 2026-11-01 |\n| Triglycérides | mmol/L (mg/dL) | < 1,7 (< 150) | risque plus faible ; au-dessus, chercher d'autres facteurs de risque (pas d'objectif thérapeutique) | adulte | ESC/EAS 2019, consulté le 2026-11-01 |\n| Cholestérol total | mmol/L (mg/dL) | ≤ 4 (≤ 155) | valeur « idéale » utilisée pour calculer l'âge de risque (avec non-fumeur et PAS ≤ 120 mmHg) | adulte | ESC/EAS 2019, consulté le 2026-11-01 |\n| HDL-C | mmol/L (mg/dL) | jusqu'à 2,3 (90) | associé à un risque plus bas ; au-delà, ne prédit plus le risque | adulte | ESC/EAS 2019, consulté le 2026-11-01 |\n| HDL-C | mg/dL | ≥ 80 (homme), ≥ 100 (femme) | associé à une mortalité totale et cardiovasculaire plus haute (cible pronostique, pas un seuil de traitement) | adulte | [B, revue narrative] PMID 37437107 |\n| LDL-C calculé | mmol/L (mg/dL) | triglycérides ≥ 2 (177) / > 4,5 (> 400) | sous-estimation / formule de Friedewald inutilisable | adulte | ESC/EAS 2019, consulté le 2026-11-01 |\n| HDL-C bas | | non retrouvé [?] | seuil homme/femme : absent du texte ESC/EAS 2019 lu | | |\n| LDL-C, seuil diagnostique d'hypercholestérolémie familiale | | non retrouvé [?] | tableau image non lu | | |\n| Plages de référence « normales » des laboratoires français | | non retrouvé [?] | varient selon le laboratoire et le risque ; HAS : fiche mémo 2017 abrogée (décision du 2018-11-21), pas de remplaçante trouvée | | HAS, consulté via moteur de recherche le 2026-10-13 (repris de la fiche liée) |\n\nLes catégories de risque (SCORE2 depuis la mise à jour 2025, âge 40-89 sans maladie cardiovasculaire ni diabète) et leurs seuils en pourcentage ne sont pas relus ici [?]. Le plus simple pour l'application : la catégorie de risque est saisie par l'utilisateur ou fournie par son médecin.",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| LDL cause-t-il l'athérosclérose ? | Oui : relation dose-dépendante, log-linéaire, proportionnelle à l'exposition cumulée (> 200 études, > 2 millions de participants) | [A, consensus EAS et méta-analyses] (PMID 28444290) |\n| Baisser le LDL-C réduit-il les événements ? | RR 0,78 (0,76-0,80) par mmol/L en événements vasculaires majeurs ; mortalité totale RR 0,90 (0,87-0,93) ; plus intensif vs moins intensif : −15 % d'événements (11-18) ; aucun effet sur le cancer (RR 1,00) | [A, méta-analyse de 26 essais, 170 000 participants] (PMID 21067804) |\n| Cibles chiffrées validées ? | Non : aucun essai n'a randomisé une cible de LDL-C | voir [fiche liée](fiche:apob-lipides-et-statines) |\n| Cholestérol total + HDL-C pour prédire le risque | l'ajout d'ApoB/ApoA-I change à peine le C-index (+0,0006) | [A, cohortes] (PMID 22797450, repris de [ApoB](fiche:biomarqueur-apob)) |\n| Non-HDL-C vs triglycérides | non-HDL-C HR 1,50 (1,39-1,61) par écart-type ; HDL-C 0,78 (0,74-0,82) ; triglycérides 0,99 (0,94-1,05) | [A, données individuelles] (PMID 19903920, voir [triglycérides](fiche:biomarqueur-triglycerides-non-hdl-remnants)) |\n| Monter le HDL-C protège-t-il ? | Non : niacine, fibrates, inhibiteurs de CETP sans réduction d'événements sous statine ; RM : HDL-C probablement pas une cause directe ; relation en U | [B, revue narrative] (PMID 37437107) |\n\nLimite : les chiffres de risque par mmol/L viennent d'essais menés surtout chez des patients à risque ; le bénéfice absolu en prévention primaire à faible risque est faible et dépend du risque de départ.",
+   "titre": "Ce que dit la preuve (valeur prédictive, utilité clinique)"
+  },
+  {
+   "markdown": "- **Prélèvement** : le jeûne n'est pas requis en routine (différences faibles ; triglycérides non à jeun ≈ +0,3 mmol/L) (ESC/EAS 2019 ; consensus EAS/EFLM, PMID 27122601). Le LDL-C calculé s'interprète avec prudence en cas de diabète, de syndrome métabolique ou de triglycérides élevés (ESC/EAS 2019).\n- **Leviers du mode de vie, médicaments et compléments** : statines et autres hypolipémiants ([statines](fiche:statines)), fibres solubles ([psyllium](fiche:psyllium-et-fibres-solubles) : environ −0,33 mmol/L de LDL-C [A], voir la fiche), [alimentation](fiche:alimentation), [exercice physique](fiche:exercice-physique) (effet faible sur le LDL-C), [tabac et alcool](fiche:tabac-et-alcool). Levure de riz rouge et [berbérine](fiche:berberine) : statut et risques dans la [fiche liée](fiche:apob-lipides-et-statines) ; ne pas les prendre avec une statine.\n- **Causes secondaires à écarter avant d'interpréter un LDL-C élevé** : hypothyroïdie ([thyroïde](fiche:biomarqueur-thyroide-tsh-t4-anti-tpo)), syndrome néphrotique et maladie rénale ([reins](fiche:biomarqueur-reins-creatinine-cystatine-albuminurie)), cholestase et foie ([foie](fiche:biomarqueur-foie-alat-ggt-fib4-fibroscan)), diabète ([HbA1c](fiche:biomarqueur-hba1c)), certains médicaments : liste et ampleur non sourcées ici [?].\n- **Méthode** : comparer deux bilans exige la même équation ou le même dosage ; un changement de laboratoire peut déplacer le LDL-C sans changement biologique réel (aucune étude lue sur l'ampleur) [?].",
+   "titre": "Ce qui fait varier le résultat (leviers, médicaments, compléments, conditions de prélèvement)"
+  },
+  {
+   "markdown": "- Confirmer avec le médecin la catégorie de risque (SCORE2, diabète, maladie établie), puis comparer le LDL-C à la cible de cette catégorie. Pas de cible sans catégorie de risque : un LDL-C de 1,3 g/L est banal chez une femme de 30 ans sans facteur de risque, préoccupant chez un patient après infarctus.\n- Triglycérides élevés, diabète, LDL-C très bas : demander un LDL-C dosé directement ou une ApoB plutôt que se fier à la formule ([ApoB](fiche:biomarqueur-apob)).\n- Mode de vie d'abord pour les risques faible et modéré ; traitement médicamenteux décidé par le médecin. Contrôle du LDL-C 4 à 6 semaines après tout changement (ESC, repris de la [fiche liée](fiche:apob-lipides-et-statines)). Pas de dose ni de schéma ici.",
+   "titre": "Que faire d'un résultat anormal"
+  },
+  {
+   "markdown": "- Bilan lipidique (cholestérol total, HDL-C, triglycérides, LDL-C calculé) : prescrit par le médecin, jeûne non nécessaire. Fréquence de dépistage et de suivi recommandée en France : non retrouvée [?].\n- Remboursement et cotation : non retrouvés dans les sources officielles consultées [?].",
+   "titre": "Qui, quand, comment (fréquence, remboursement)"
+  },
+  {
+   "markdown": "Examens de biologie médicale prescrits. Remboursement et nomenclature NABM : non consultés [?]. Statut AMA : sans objet (examen).",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Comparer un LDL-C en g/L à une cible en mmol/L sans conversion (1,0 g/L = 2,59 mmol/L ; cible 0,70 g/L = 1,8 mmol/L).\n- Prendre le LDL-C calculé pour une mesure exacte quand les triglycérides sont élevés ou le LDL-C déjà bas.\n- Se rassurer avec un « bon HDL » malgré un LDL-C élevé.\n- Viser un LDL-C le plus bas possible sans catégorie de risque ni avis médical.\n- Se baser sur un seul prélèvement : la variabilité d'un prélèvement à l'autre n'a pas été recherchée ici [?].",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Le cholestérol, c'est du mythe, seuls les triglycérides ou l'inflammation comptent »** : l'effet causal du LDL est établi par la génétique et par des essais (PMID 28444290, 21067804) [A].\n- **« Augmenter son HDL protège »** : pas de réduction d'événements avec les médicaments qui l'augmentent ; relation en U (PMID 37437107) [B].\n- **« Les compléments (levure de riz rouge, berbérine) remplacent une statine »** : la levure de riz rouge contient de la monacoline K (lovastatine) avec des mises en garde ANSM et ANSES ; voir la [fiche liée](fiche:apob-lipides-et-statines).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Le LDL-C d'un compte rendu est le plus souvent une estimation, et la formule la plus répandue sous-estime le LDL-C quand les triglycérides dépassent 2 mmol/L (ESC/EAS 2019) ; au-dessus de 4,5 mmol/L elle n'est plus utilisable.",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "LDL-C très élevé, antécédent familial d'infarctus ou d'AVC précoce (hypercholestérolémie familiale possible), xanthomes, triglycérides très élevés avec douleurs abdominales, ou tout LDL-C à discuter avec un médecin chez un patient diabétique ou ayant déjà eu un événement cardiovasculaire. Seuils chiffrés d'hypercholestérolémie familiale : non retrouvés [?].",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 31504418 — Mach F et al., 2019 ESC/EAS Guidelines for the management of dyslipidaemias. *Eur Heart J* 2020 ; 41:111-188. doi:10.1093/eurheartj/ehz455 (résumé PubMed absent ; texte intégral lu sur academic.oup.com, consulté le 2026-11-01 ; tableaux images non lus). Version jumelle : PMID 31591002 (*Atherosclerosis* 2019).\n- ESC, 2025 Focused Update of the 2019 ESC/EAS dyslipidaemia guidelines, *Eur Heart J* 2025, doi 10.1093/eurheartj/ehaf190 (texte lu sur academic.oup.com, consulté le 2026-11-01 : cibles de LDL-C « inchangées », Figure 1 non lue).\n- PMID 28444290 — Ference BA et al., LDL cause atherosclerotic cardiovascular disease. *Eur Heart J* 2017 (résumé relu).\n- PMID 21067804 — Cholesterol Treatment Trialists' (CTT) Collaboration, Efficacy and safety of more intensive lowering of LDL cholesterol. *Lancet* 2010 (résumé relu).\n- PMID 37437107 — Razavi AC et al., Does Elevated HDL Cholesterol Protect Against Cardiovascular Disease? *J Clin Endocrinol Metab* 2024 (résumé relu).\n- PMID 42894737 — Gupta D et al., Underestimation of LDL-C Using the Friedewald Equation at Higher Triglyceride Levels. *Cureus* 2026 (résumé relu).\n- PMID 42813263 — Meng Y et al., Multi-National Evaluation of LDL-C Equations in Young Adulthood. *Circ Popul Health Outcomes* 2026 (résumé relu).\n- PMID 22797450, 19903920, 27122601 — voir [ApoB](fiche:biomarqueur-apob) et [triglycérides](fiche:biomarqueur-triglycerides-non-hdl-remnants) (chiffres repris de ces fiches, qui indiquent un résumé relu pour 19903920 et 27122601).\n- Arrêtés 2023-04-07 et 2023-06-12 (anti-PCSK9), HAS fiche mémo 2017 abrogée : repris de [ApoB, LDL-C et statines](fiche:apob-lipides-et-statines).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : LDL-C, cholestérol total et HDL-C",
+ "type": "biomarqueur",
+ "unite": ""
+}

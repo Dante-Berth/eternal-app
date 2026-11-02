@@ -1,0 +1,64 @@
+{
+ "cibles": [
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-23",
+ "famille": "alimentation",
+ "id": "regime-pauvre-en-graisses",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "apob-lipides-et-statines",
+  "huile-olive-vierge-extra",
+  "regime-cetogene-et-pauvre-en-glucides",
+  "regime-mediterraneen"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "26527511",
+  "32428300",
+  "23651522"
+ ],
+ "preuve_globale": "A",
+ "resume": "Poids : le low-fat fait perdre du poids face au régime habituel (−5,41 kg), mais pas plus que les autres régimes de même intensité ; face au low-carb, il perd ~1,15 kg de moins [A] (PMID 26527511).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Poids** : le low-fat fait perdre du poids face au régime habituel (−5,41 kg), mais pas plus que les autres régimes de même intensité ; face au low-carb, il perd ~1,15 kg de moins [A] (PMID 26527511).\n- **Réduire les graisses saturées** (pas « les graisses » en général) : −21 % d'événements cardiovasculaires combinés (RR 0,79, IC 0,66-0,93), mais peu ou pas d'effet sur la mortalité toute cause (RR 0,96) ou cardiovasculaire (RR 0,95) [A, certitude modérée] (PMID 32428300).\n- **Ce qui compte, c'est par quoi on remplace** : graisses polyinsaturées ou glucides semblent utiles ; monoinsaturés incertains [A] (PMID 32428300).\n- **« Low-fat » n'est pas un label de santé** : un régime pauvre en graisses riche en sucres et farines raffinées n'est pas couvert par ces résultats [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Définition d'un régime pauvre en graisses (LFD)** : < 30 % de l'énergie sous forme de graisses, avec restriction énergétique, dans la méta-analyse comparant cétogène et low-fat (PMID 23651522). Ce seuil n'est pas universel ; les autres revues ne le détaillent pas dans leurs résumés [?].\n- **Pauvre en graisses ≠ pauvre en graisses saturées** : les essais de la Cochrane portent sur la réduction des graisses saturées, par des moyens allant de la fourniture de tous les aliments à de simples conseils, et le remplacement des saturées par des polyinsaturés ou des glucides semble utile, par des monoinsaturés incertain (PMID 32428300).\n- **Intensité de l'intervention** : l'effet sur le poids dépend de l'intensité du groupe comparateur (PMID 26527511). Un « conseil pauvre en graisses » léger et un régime encadré ne se valent pas.\n- **Régimes très pauvres en graisses** (type Ornish ou Pritikin) : non relus [?].",
+   "titre": "Variantes et contenu"
+  },
+  {
+   "markdown": "Non revérifié [?]. La réduction de la LDL est le mécanisme avancé : plus la baisse de saturées est forte, plus la baisse de cholestérol et d'événements est forte (méta-régression de PMID 32428300).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Poids\n| Source | Résultat | Preuve |\n|---|---|---|\n| 53 études, 68 128 pers., suivi ≥ 1 an | low-fat vs régime habituel : −5,41 kg (−7,29 à −3,54) ; vs régimes plus gras de même intensité : +0,36 kg (−0,66 à 1,37), pas de différence ; vs low-carb : low-carb perd 1,15 kg de plus (0,52-1,79) (PMID 26527511) | [A] |\n| 13 ECR ≥ 12 mois, VLCKD vs low-fat | cétogène : poids −0,91 kg, HDL +0,09 mmol/L, LDL +0,12 mmol/L (PMID 23651522) | [A] |\n\nLes auteurs concluent que l'effet dépend de l'intensité de l'intervention du groupe comparateur : à intensité égale, les ECR ne soutiennent pas le low-fat contre les autres régimes (PMID 26527511).\n\n### Réduction des graisses saturées et événements cardiovasculaires\nCochrane, 15 ECR (≈ 59 000 pers., ≥ 24 mois) : événements CV combinés RR 0,79 (0,66-0,93) ; NNTB 56 en prévention primaire, 32 en secondaire ; mortalité toute cause RR 0,96 (0,90-1,03) ; mortalité CV RR 0,95 (0,80-1,12) ; infarctus non fatal 0,97 ; petites baisses de poids, cholestérol total, LDL ; pas d'effet nocif identifié [A, certitude modérée pour la plupart des critères ; faible à très faible pour infarctus, AVC] (PMID 32428300).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « Les graisses font grossir, il faut les bannir » : à intensité égale, pas de supériorité du low-fat sur les autres régimes pour le poids [A] (PMID 26527511).\n- « Manger gras est sans conséquence sur le cœur » : réduire les saturées baisse les événements CV combinés de 21 % dans les essais, sans effet démontré sur la mortalité [A, certitude modérée] (PMID 32428300).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Pas d'effet nocif identifié de la réduction des saturées (PMID 32428300). Un apport en graisses trop bas peut limiter l'absorption des vitamines liposolubles et des oméga-3 : non sourcé ici [?]. Essais WHI (Women's Health Initiative) et régimes très pauvres en graisses (Ornish) : non relus [?].\n\nStatut réglementaire : sans objet (pattern alimentaire).\n\nVoir aussi : [cétogène et low-carb](fiche:regime-cetogene-et-pauvre-en-glucides) · [régime méditerranéen](fiche:regime-mediterraneen) · [huile d'olive](fiche:huile-olive-vierge-extra) · [ApoB, lipides et statines](fiche:apob-lipides-et-statines) · [synthèse alimentation](fiche:alimentation).",
+   "titre": "Sécurité, populations à risque"
+  },
+  {
+   "markdown": "- PMID 26527511 — Tobias D.K. et al., *Lancet Diabetes Endocrinol* 2015. doi:10.1016/S2213-8587(15)00367-8\n- PMID 32428300 — Hooper L. et al., *Cochrane Database Syst Rev* 2020. doi:10.1002/14651858.CD011737.pub2\n- PMID 23651522 — Bueno N.B. et al., *Br J Nutr* 2013. doi:10.1017/S0007114513000548",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Régime pauvre en graisses (low-fat)",
+ "type": "actif",
+ "unite": ""
+}

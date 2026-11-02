@@ -1,0 +1,63 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "peptide",
+ "id": "the-ordinary-multi-peptide-copper-peptides-1",
+ "intro": "",
+ "liens": [
+  "acetyl-hexapeptide-8",
+  "ghk-cu",
+  "palmitoyl-pentapeptide-4",
+  "rides-et-sillons-nasogeniens"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 0,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [],
+ "preuve_globale": "B",
+ "resume": "Le sérum peptides le moins cher du segment, mais il empile des peptides dont aucun n'a de preuve clinique solide : achat de confort, pas de traitement anti-rides.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Le sérum peptides le moins cher du segment, mais il empile des peptides dont aucun n'a de preuve clinique solide : achat de confort, pas de traitement anti-rides.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "INCI complet (site de la marque, consulté le 2026-10-06) : Aqua, Glycerin, Lactococcus Ferment Lysate, Copper Tripeptide-1, Acetyl Hexapeptide-8, Pentapeptide-18, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-38, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Acetylarginyltryptophyl Diphenylglycine, Sodium Hyaluronate Crosspolymer, Sodium Hyaluronate, Allantoin, acides aminés (Glycine, Alanine, Serine, Valine, Isoleucine, Proline, Threonine, Histidine, Phenylalanine, Arginine, Aspartic Acid), Trehalose, Fructose, Glucose, Maltose, Urea, Sodium PCA, PCA, Sodium Lactate, Citric Acid, Hydroxypropyl Cyclodextrin, Sodium Chloride, Sodium Hydroxide, Butylene Glycol, Pentylene Glycol, Acacia Senegal Gum, Xanthan Gum, Carbomer, Polysorbate 20, Dimethyl Isosorbide, Sodium Benzoate, Caprylyl Glycol, Ethylhexylglycerin, Phenoxyethanol, Chlorphenesin. pH 6,0–7,0 (marque). Conservateurs : phénoxyéthanol, benzoate de sodium, chlorphénésine.\n\n| Actif | Concentration | Preuve |\n|---|---|---|\n| [GHK-Cu](fiche:ghk-cu) (Copper Tripeptide-1) | « 1 % de peptides de cuivre » ; la marque ne dit pas s'il s'agit du peptide pur ou d'une solution | [B, ECR unique n=13 négatif sur critères objectifs] |\n| [Acétyl hexapeptide-8](fiche:acetyl-hexapeptide-8) (Argireline) | non déclarée | [B, ECR unique n=24 + essais de formules industriels] |\n| Palmitoyl tripeptide-1 + palmitoyl tetrapeptide-7 (« Matrixyl 3000 »), palmitoyl tripeptide-38 | non déclarées | [?] non évalués dans ce repo. Ce n'est **pas** le palmitoyl pentapeptide-4 de la [fiche Matrixyl](fiche:palmitoyl-pentapeptide-4) |\n| Hyaluronate de sodium | non déclarée | [?] non évalué ici |",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Cosmétique (étiquetage INCI, vente libre en parfumerie et pharmacie). Fiche CosIng des ingrédients non consultable depuis cette session (2026-10-06) : restrictions UE non vérifiées [?]. Le GHK-Cu injectable vendu en ligne est visé par une mise en garde de l'ANSM (2026-07-02), pas les cosmétiques (voir [fiche GHK-Cu](fiche:ghk-cu)).",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| Allégation de la marque | Études |\n|---|---|\n| Cible les rides statiques et dynamiques, élasticité, fermeté (Redcare, fiche produit) | Aucune étude publiée du produit trouvée [?] ; GHK-Cu : pas de différence objective dans le seul ECR [B] |\n| « Protection antioxydante » par le GHK-Cu (Redcare) | Données cellulaires seulement [D] |\n| À ne pas associer avec acides directs, vitamine C directe, rétinoïdes (site de la marque) | Consigne de prudence [M] ; aucune étude d'interaction [?] |",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Selon la marque : quelques gouttes sur le visage matin et soir ; test préalable sur une petite zone recommandé (Redcare, consulté le 2026-10-03).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix : 35,30 € les 30 ml sur theordinary.com/fr-fr (consulté le 2026-10-06) ; 34,95 € sur Zalando.fr (consulté le 2026-10-03, non revérifié aujourd'hui).\n- Par mois : la marque ne donne pas de quantité ; en supposant 0,3 à 0,5 ml/j (quelques gouttes deux fois par jour), 30 ml durent 2 à 3 mois, soit **12–18 €/mois** (estimation).\n- Alternative à preuve supérieure pour les rides : rétinoïdes (rétinol cosmétique ou trétinoïne sur ordonnance), voir [rides](fiche:rides-et-sillons-nasogeniens).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Fiche Redcare (consultée le 2026-10-03) : 2 avis seulement (note 3,5/5) ; un avis signale la présence de phénoxyéthanol. Échantillon trop faible pour juger la tolérance [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Fiche produit The Ordinary (prix, INCI, incompatibilités déclarées) — https://theordinary.com/fr-fr/multi-peptide-copper-peptides-1-serum-100625.html (consultée le 2026-10-06)\n- Redcare Pharmacie (mode d'emploi, allégations, avis) — https://www.redcare-pharmacie.fr/beaute/BE04722484/the-ordinary-serum-multi-peptides-peptides-de-cuivre-1.htm (consultée le 2026-10-03)\n- Zalando.fr (prix) — https://www.zalando.fr/the-ordinary-multi-peptide-copper-peptides-1-serum-serum-na-thr34g015-s11.html (consultée le 2026-10-03)\n- Preuves des actifs : voir les fiches [GHK-Cu](fiche:ghk-cu) et [acétyl hexapeptide-8](fiche:acetyl-hexapeptide-8).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "The Ordinary Multi-Peptide + Copper Peptides 1% Serum",
+ "type": "produit",
+ "unite": ""
+}

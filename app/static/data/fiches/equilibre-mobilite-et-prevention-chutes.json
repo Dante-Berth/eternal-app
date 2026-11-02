@@ -1,0 +1,63 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "comportement",
+ "id": "equilibre-mobilite-et-prevention-chutes",
+ "intro": "Complément de [exercice-physique.md](fiche:exercice-physique) (section chutes) et de [entraînement en résistance](fiche:entrainement-en-resistance). C'est l'un des rares sujets de la série où la preuve [A] porte sur un critère dur (chutes) et pas seulement sur un substitut.",
+ "liens": [
+  "entrainement-en-resistance",
+  "exercice-physique",
+  "sarcopenie"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "30703272",
+  "41110662",
+  "42611710",
+  "40713949"
+ ],
+ "preuve_globale": "A",
+ "resume": "Cochrane (108 ECR, 23 407 personnes ≥ 60 ans vivant à domicile, âge moyen 76) : l'exercice réduit le taux de chutes de 23 % (RaR 0,77 ; 0,71-0,83) et le nombre de chuteurs de 15 % (RR 0,85) [A, Cochrane, certitude élevée] (PMID 30703272).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Cochrane (108 ECR, 23 407 personnes ≥ 60 ans vivant à domicile, âge moyen 76) : l'exercice réduit le taux de chutes de 23 % (RaR 0,77 ; 0,71-0,83) et le nombre de chuteurs de 15 % (RR 0,85) [A, Cochrane, certitude élevée] (PMID 30703272).\n- Équilibre et exercices fonctionnels : RaR 0,76 [A, certitude élevée] ; programmes multiples (équilibre + résistance) : RaR 0,66 (0,50-0,88) [A, certitude modérée] (PMID 30703272).\n- Tai-chi : RaR 0,81 (0,67-0,99) [A, faible certitude] ; chuteurs RR 0,80 [A, certitude élevée] (PMID 30703272).\n- Résistance seule, danse, marche : effet sur les chutes incertain [A, incertain] (PMID 30703272).\n- Fractures liées aux chutes : RR 0,73 (0,56-0,95) [A, faible certitude, 10 études] (PMID 30703272).\n- Otago : classé 2e (SUCRA 57,6 %) derrière FaME (68,6 %) dans une méta-analyse en réseau de 21 ECR ; les SUCRA sont des probabilités de rang, pas des effets mesurés [A, réseau, 3 387 participants] (PMID 41110662).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Entraînement des réactions posturales, de la force des membres inférieurs et de la marche ; la Cochrane classe les programmes surtout « équilibre et fonction » ; mécanisme neuromusculaire détaillé non sourcé ici [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Intervention | Résultat | Tag |\n|---|---|---|\n| Exercice, tous types | taux de chutes −23 % | [A, élevée] (PMID 30703272) |\n| Équilibre + fonction | −24 % | [A, élevée] (PMID 30703272) |\n| Multicomposante | −34 % | [A, modérée] (PMID 30703272) |\n| Tai-chi | −19 % | [A, faible] (PMID 30703272) |\n| Otago vs autres | rang 2/5 (SUCRA) ; dose optimale totale ≈ 420 MET·min/sem (courbe en U inversé) | [A, réseau, exploratoire] (PMID 41110662) |\n| Fractures | −27 % de personnes avec fracture liée à une chute | [A, faible] (PMID 30703272) |\n| Personnes fragiles | méta-analyse de 14 études (n = 2 719) sur chutes et fonction physique ; chiffres du résumé non relevés ici | [?] (PMID 42611710) |\n| Hospitalisation après chute | effet incertain (RR 0,78 ; 0,51-1,18 ; 2 études) | [A, très faible] (PMID 30703272) |\n| Mobilité (souplesse/étirements seuls) | aucun essai contre contrôle dans la Cochrane | [?] (PMID 30703272) |\n| Mortalité par ces programmes | non retrouvée | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « La marche suffit contre les chutes » : effet incertain dans la Cochrane (PMID 30703272) ; les pas réduisent les chutes en cohorte (HR 0,72) [B] (PMID 40713949), mais ce n'est pas un essai.\n- « Les appareils d'équilibre/applications » : aucune donnée vérifiée [?].\n- « Le renforcement seul protège » : incertain sans composante d'équilibre (PMID 30703272).\n- Les revues Cochrane ont des essais majoritairement à risque de biais « incertain ou élevé » : l'effet réel peut différer (PMID 30703272).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Événements indésirables surtout non graves et musculo-squelettiques (27 essais en rapportant ; 2 événements graves au total) [A] (PMID 30703272). Programmes supervisés conseillés si fragilité, vertiges, hypotension orthostatique, ostéoporose sévère.",
+   "titre": "Sécurité, contre-indications"
+  },
+  {
+   "markdown": "Chute (a fortiori avec blessure), peur de tomber limitant l'activité, vertiges, troubles de la marche, médicaments sédatifs : bilan médical et kinésithérapie ; ne pas attendre une fracture.\n\nVoir aussi : [sarcopénie](fiche:sarcopenie).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 30703272 — Sherrington C. et al., *Cochrane Database Syst Rev* 2019. doi:10.1002/14651858.CD012424.pub2\n- PMID 41110662 — Cheng M. et al., *Ageing Res Rev* 2025 (méta-analyse en réseau). doi:10.1016/j.arr.2025.102924\n- PMID 42611710 — Mehta P. et al., *J Frailty Aging* (fragilité et chutes) ; résultat chiffré non relevé.\n- PMID 40713949 — Ding D. et al., *Lancet Public Health* 2025. doi:10.1016/S2468-2667(25)00164-1",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Équilibre, mobilité et prévention des chutes",
+ "type": "actif",
+ "unite": ""
+}

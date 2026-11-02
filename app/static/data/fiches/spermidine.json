@@ -1,0 +1,71 @@
+{
+ "cibles": [
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "spermidine",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "jeune-intermittent-et-restriction-calorique",
+  "nmn-et-nad",
+  "urolithine-a"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "29955838",
+  "35616942",
+  "39405978"
+ ],
+ "preuve_globale": "B",
+ "resume": "Polyamine présente dans l'alimentation (le germe de blé est la source du complément autorisé en UE). Chez l'animal, elle prolonge la survie et améliore la fonction cardiaque et cognitive dans des modèles [C] (références animales non reprises ici ; non vérifiées dans cette session) [?].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Polyamine présente dans l'alimentation (le germe de blé est la source du complément autorisé en UE). Chez l'animal, elle prolonge la survie et améliore la fonction cardiaque et cognitive dans des modèles [C] (références animales non reprises ici ; non vérifiées dans cette session) [?].\n- **Seule preuve humaine de longévité : une cohorte observationnelle** (Bruneck, 829 personnes) où un apport alimentaire plus élevé est associé à moins de décès [B, observationnel] (PMID 29955838). Association, pas causalité : l'apport en spermidine suit un régime sain global.\n- **ECR de supplémentation : le seul essai de 12 mois sur le déclin cognitif subjectif (SmartAge, n=100) est négatif** sur son critère principal [B, ECR unique n=100] (PMID 35616942). Dose : 0,9 mg/j.\n- Aucun essai ne montre un effet sur la durée de vie, la maladie ou la mortalité [?].\n- Statut UE : extrait de germe de blé riche en spermidine, autorisé comme nouvel aliment ; la spermidine pure n'a pas de statut d'autorisation retrouvé.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Proposé : induction de l'autophagie et soutien de la fonction mitochondriale, d'après des modèles animaux [C] ; références animales non relues dans cette session [?].\n- Chez l'humain : l'effet sur l'autophagie n'est pas mesuré dans les essais retenus [?]. Les concentrations circulantes de polyamines sont fortement régulées : 40 mg/j de spermidine très pure pendant 28 jours n'a pas modifié substantiellement les polyamines sériques ou urinaires chez 37 hommes de 50 à 70 ans [B, ECR n=37] (PMID 39405978). Ce résultat remet en question l'idée qu'un apport oral fait monter les niveaux tissulaires.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "**Mortalité (observationnel)**\n- Cohorte Bruneck, 829 participants de 45 à 84 ans, 20 ans de suivi, 341 décès : mortalité toutes causes de 40,5 à 15,1 pour 1000 personnes-années du tiers inférieur au tiers supérieur d'apport ; HR 0,76 (IC95 0,67 à 0,86) par écart-type après ajustement, résultat répliqué dans une seconde cohorte (HR 0,71) [B, observationnel] (PMID 29955838). Limites : apport estimé par questionnaire alimentaire, confusion résiduelle (régime global, fibres, légumineuses) ; l'écart « équivalent à 5,7 ans d'âge » est un calcul statistique, pas un effet de supplément.\n\n**Cognition (ECR)**\n- SmartAge : 100 adultes de 60 à 90 ans avec plainte cognitive subjective, supplément de germe de blé (0,9 mg de spermidine/j) pendant 12 mois. Critère principal (discrimination mnésique) : différence −0,03 (IC95 −0,11 à 0,05 ; p=0,47) ; critères secondaires non modifiés ; effets possibles sur la mémoire verbale et l'inflammation uniquement en analyses exploratoires [B, ECR unique n=100] (PMID 35616942).\n- Essais pilotes plus petits (déclin cognitif, démence) : non relus dans cette session, non cités [?].\n\n**Sécurité à forte dose**\n- 40 mg/j de spermidine purifiée, 28 jours, 37 hommes : aucun changement clinique, lipidique, biochimique ou hématologique, aucun événement attribué [B, ECR n=37] (PMID 39405978). Durée courte.\n\n**Tension artérielle, cœur, peau, cheveux, sommeil, âge biologique** : aucune donnée humaine retenue dans cette session [?].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essai cognitif : 0,9 mg/j (germe de blé). Essai de sécurité : 40 mg/j de spermidine pure (étude distincte, usage non autorisé voir plus bas).\n- Spécification UE de l'extrait de germe de blé : spermidine 0,8 à 2,4 mg/g d'extrait (règlement d'exécution (UE) 2020/443, annexe) ; **plafond journalier** pour compléments : annoncé à 6 mg/j par une source secondaire (NutraIngredients, 2026-02-02), non retrouvé dans le règlement 2020/443 (qui ne fixe que des spécifications) ni vérifiable dans la liste de l'Union : ne pas citer 6 mg/j comme fait [?].\n- Étiquettes de produits vendus en France : non relevées [?].\n- Teneurs des aliments courants : non relevées dans cette session [?]. Voir [alimentation](fiche:alimentation).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Faits réglementaires (consultés le 2026-10-06) :\n- **Extrait de germe de blé riche en spermidine (Triticum aestivum)** : nouvel aliment autorisé en UE, spécifications modifiées par le règlement d'exécution (UE) 2020/443 du 25 mars 2020 (le texte, tel qu'archivé sur legislation.gov.uk, est « revoked » pour le Royaume-Uni depuis 2025 : cette abrogation ne concerne pas l'UE). Texte FR/EN du règlement 2020/443 relu sur EUR-Lex le 2026-10-06 : il fixe des spécifications (spermidine 0,8–2,4 mg/g, spermine 0,4–1,2 mg/g, putrescine < 0,3 mg/g, cadavérine ≤ 16,0 µg/g) et **ne mentionne aucune dose journalière maximale** ; autorisation initiale au titre de l'art. 5 du règlement (CE) n° 258/97 pour la population adulte hors femmes enceintes et allaitantes (extrait EUR-Lex via recherche web, non relu en intégralité). Les conditions d'emploi et plafonds éventuels figurent dans l'entrée de la liste de l'Union (règlement d'exécution (UE) 2017/2470, consolidé) : non lisible ici, plafond non vérifié.\n- **Spermidine pure (trichlorhydrate, etc.)** : aucune autorisation retrouvée ; produits vendus en ligne à doses élevées : statut non établi [?].\n- France : DGCCRF et ANSES non consultées pour cette molécule ; liste AMA 2026 : site wada-ama.org inaccessible le 2026-10-06 [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Pas d'événement indésirable lié au produit dans les deux essais cités [B] (PMID 35616942, 39405978) ; durée maximale 12 mois à faible dose, 28 jours à 40 mg.\n- Polyamines et cancer : les cellules tumorales ont un besoin élevé en polyamines ; l'effet d'un supplément sur un cancer existant ou un risque de cancer n'est pas étudié dans les essais retenus [?]. Prudence en cas d'antécédent de cancer (absence de données, pas preuve de danger).\n- Allergie au blé ou intolérance au gluten : l'extrait de germe de blé n'est pas adapté sans avis médical (germe de blé = source allergénique) [?].\n- Grossesse, allaitement, insuffisance rénale : [?].\n- Interactions médicamenteuses : [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Prolonge la vie chez l'humain »** : seule une association observationnelle ; l'essai randomisé n'a rien montré sur la cognition (PMID 29955838, 35616942).\n- **« Prouvé cliniquement sur la mémoire »** : le critère principal de l'unique ECR de 12 mois est négatif ; les gains « verbal memory » sont exploratoires (PMID 35616942).\n- **« Plus on en prend, plus l'autophagie s'active »** : à 40 mg/j les polyamines circulantes ne bougent pas (PMID 39405978).\n- **« Naturel donc sans risque »** : absence de données de long terme à forte dose ; un statut de nouvel aliment ne vaut pas preuve d'efficacité.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit dans ce repo. Voir aussi [urolithine A](fiche:urolithine-a), [NMN et NAD+](fiche:nmn-et-nad), [jeûne intermittent et restriction calorique](fiche:jeune-intermittent-et-restriction-calorique).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 29955838, Kiechl S et al., « Higher spermidine intake is linked to lower mortality: a prospective population-based study », 2018 (résumé relu).\n- PMID 35616942, Schwarz C et al., « Effects of Spermidine Supplementation on Cognition and Biomarkers in Older Adults With Subjective Cognitive Decline: A Randomized Clinical Trial », JAMA Netw Open 2022 (résumé relu).\n- PMID 39405978, Keohane P et al., spermidine 40 mg/j chez hommes âgés, 2024 (résumé relu).\n- Règlement d'exécution (UE) 2020/443 (spécifications de l'extrait de germe de blé riche en spermidine), copie legislation.gov.uk du texte adopté, consulté le 2026-10-06.\n- NutraIngredients, « Longevity ingredients under the EU regulatory spotlight », 2026-02-02, consulté le 2026-10-06 (source secondaire, plafond de 6 mg/j).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Spermidine",
+ "type": "actif",
+ "unite": ""
+}

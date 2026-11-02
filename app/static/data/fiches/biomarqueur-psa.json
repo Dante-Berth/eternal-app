@@ -1,0 +1,103 @@
+{
+ "cibles": [
+  "prevention",
+  "hormones-sexualite"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-psa",
+ "intro": "Fiche « examen » : comment lire un chiffre. La question « faut-il se dépister ? » (essais, bénéfices, surdiagnostic, position HAS/INCa/AFU/EAU) est dans [dépistage du cancer de la prostate par PSA](fiche:depistage-cancer-prostate-psa) ; ne pas la dupliquer. Médicaments qui changent le PSA : [finastéride](fiche:finasteride), [dutastéride](fiche:dutasteride), [testostérone](fiche:testosterone).",
+ "liens": [
+  "depistage-cancer-prostate-psa",
+  "dutasteride",
+  "finasteride",
+  "testosterone"
+ ],
+ "marqueurs": [
+  "psa",
+  "psa-densite"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 15,
+ "nb_seuils": 10,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "35534215",
+  "39321360",
+  "41714267",
+  "42759951",
+  "24974369",
+  "23398767",
+  "17196507",
+  "19293477",
+  "19675786",
+  "21047594",
+  "38490856",
+  "27013850",
+  "21894356",
+  "30731465",
+  "42858215"
+ ],
+ "preuve_globale": "B",
+ "resume": "Le PSA est un marqueur d'organe, pas de cancer : il monte avec l'âge, le volume prostatique et d'autres causes que le cancer. Le seuil historique de 4 ng/mL a, dans une méta-analyse de 11 études en milieu hospitalier, une sensibilité de 0,92 et une spécificité de 0,16 (seuil < 4 ng/mL) ; les seui…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Le PSA est un marqueur **d'organe, pas de cancer** : il monte avec l'âge, le volume prostatique et d'autres causes que le cancer. Le seuil historique de 4 ng/mL a, dans une méta-analyse de 11 études en milieu hospitalier, une sensibilité de 0,92 et une spécificité de 0,16 (seuil < 4 ng/mL) ; les seuils de 2 à 2,99 et de 3 à 3,99 ng/mL ne se distinguent pas statistiquement (PMID 35534215) [A, 11 études, milieu hospitalier].\n- Les essais récents utilisent **≥ 3 ng/mL** pour déclencher une IRM : essai Göteborg-2 (hommes de 50 à 60 ans) (PMID 39321360) ; biopsie si PSA > 3,0 dans l'étude IMPACT (PMID 41714267). L'AFU retient aussi 3 ng/mL (rapporté par la [fiche dépistage](fiche:depistage-cancer-prostate-psa), source AFU consultée le 2026-10-08, non rouverte ici).\n- **Densité de PSA** (PSA ÷ volume prostatique) : après une IRM négative, le risque de cancer significatif à 7 ans est de 5,5 % si < 0,10 ng/mL/mL, 13,8 % de 0,10 à < 0,15 et 11,9 % si ≥ 0,15 (PMID 42759951) [B, sous-analyse prévue d'un ECR].\n- **Vélocité** : ajoute peu au PSA seul quand elle est bien définie (PMID 24974369) [A, revue systématique] ; une cohorte danoise trouve un gain de classement avec une vélocité à long terme > 0,35 ng/mL/an (PMID 23398767) [B]. Résultats contradictoires, définitions hétérogènes.\n- Les **intervalles de référence par âge** retrouvés viennent de populations non européennes et varient du simple au double selon le pays : ne pas les importer. Références européennes/françaises par âge : non retrouvées [?].\n- Sous finastéride ou dutastéride, le PSA est **à multiplier par 2** : le PSA baisse de 40 à 50 % sous finastéride 1 mg (PMID 17196507).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **PSA total** : enzyme produite par l'épithélium prostatique ; dosage sanguin. Il est modifié par le volume de la prostate (corrélation PSA-volume de 0,33 à 0,5 dans des cohortes communautaires, PMID 19293477, 19675786), pas seulement par un cancer.\n- **PSA libre / rapport libre-total** : la fraction libre, ajoutée au total pour un seuil de 3 ng/mL, réduit d'environ 30 % les biopsies négatives, au prix de 10 % de cancers manqués, plutôt bien différenciés (ERSPC, revue de 2010) (PMID 21047594) [B, revue]. Seuil de rapport : non retrouvé [?].\n- **Densité de PSA** : PSA total divisé par le volume de la prostate (IRM ou échographie), en ng/mL/mL (ou ng/mL/cc). Sert à décider après IRM si l'on biopsie ou surveille.\n- **Vélocité** (ng/mL/an) et **temps de doublement** : variation entre plusieurs dosages ; demandent ≥ 3 valeurs sur un intervalle défini (PMID 24974369).",
+   "titre": "Ce que mesure l'examen"
+  },
+  {
+   "markdown": "Conversion : 1 ng/mL = 1 µg/L. Densité : ng/mL ÷ mL (ou cc, équivalents).\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| PSA total | ng/mL | ≥ 3 | Seuil d'orientation (IRM puis biopsie ciblée si IRM suspecte) dans les essais de dépistage ; l'AFU retient 3 | Hommes de 50 à 69 ans environ | Göteborg-2, Hugosson, PMID 39321360 [B, ECR unique n=13 153] ; AFU rapporté par la fiche dépistage (consulté le 2026-10-08, non rouvert) |\n| PSA total | ng/mL | > 3,0 | Indication de biopsie dans le protocole de dépistage des porteurs BRCA1/2 | Hommes de 40 à 69 ans, porteurs et non-porteurs | IMPACT, Bancroft, PMID 41714267 [B] |\n| PSA total | ng/mL | 4 | Seuil historique ; sensibilité 0,92, spécificité 0,16 pour un seuil situé sous 4 en milieu hospitalier | Hommes adressés, hôpital | Jin 2022, PMID 35534215 [A, 11 études, hétérogène] |\n| PSA total | ng/mL | 1,8 à < 3 | « Zone basse » : parmi les hommes à IRM positive de ce groupe, 20 % avaient un cancer de Gleason ≥ 7 | Hommes de 50 à 60 ans, Göteborg-2 | Möller, PMID 38490856 [B, une seule ronde] |\n| Densité de PSA | ng/mL/mL | < 0,10 | Risque cumulé de cancer significatif à 7 ans 5,5 % après IRM négative | Hommes avec IRM négative (PI-RADS ≤ 2), n=1 685 | Möller, PMID 42759951 [B] |\n| Densité de PSA | ng/mL/mL | 0,10 à < 0,15 | Risque à 7 ans 13,8 % | idem | PMID 42759951 [B] |\n| Densité de PSA | ng/mL/mL | ≥ 0,15 | Risque à 7 ans 11,9 % ; seuil AFU de ≥ 0,15 pour ne pas omettre la biopsie (selon la fiche dépistage) | idem | PMID 42759951 [B] ; AFU rapporté par la fiche dépistage (consulté le 2026-10-08, non rouvert) |\n| Vélocité du PSA | ng/mL/an | > 0,35 | Reclassement du risque de cancer et de décès dans une cohorte danoise ; non retenu comme seuil de décision | Hommes de 40 à 80 ans, cohorte danoise | Ørsted, PMID 23398767 [B] |\n| PSA total, intervalle de référence par âge (Europe, France) | ng/mL | non retrouvé [?] | Aucune source relue pour une population européenne | Hommes de 40 à 80 ans | [?] |\n| Baisse du PSA sous finastéride 1 mg | % | −40 (40-49 ans) ; −50 (50-60 ans) | Multiplier le PSA par 2 pour comparer à un PSA hors traitement | Hommes de 40 à 60 ans, alopécie | D'Amico, PMID 17196507 [B, ECR unique n=355] |\n\n**Percentiles 95 du PSA dans des populations non européennes** (illustration de la variabilité, pas des normes françaises) : Nigeria, 4 032 hommes : 4,78 (40-49 ans), 5,47 (50-59), 8,93 (60-70) ng/mL (PMID 27013850) ; Soudan, 1 051 hommes : 3,0 (40-49), 3,02 (50-59), 3,8 (60-69), 8,7 (70-90) (PMID 21894356) ; Iran, 666 hommes de 50 à 79 ans : 2,61, 3,59, 4,83 ng/mL par décennie (PMID 19293477) ; Inde, communautaire : 2,1, 3,4, 4,2, 5,0 (PMID 19675786) ; Arabie saoudite, 7 814 hommes : 3,8 à 60-70 ans, 6,9 au-delà de 71 ans (PMID 30731465) [B, transversaux, hommes sans cancer connu, critères d'inclusion variables].",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "- **Valeur prédictive d'un seuil unique** : faible spécificité (0,16 à 4 ng/mL, 0,16 à 3-3,99, 0,17 à 2-2,99) : la plupart des PSA élevés ne signent pas un cancer (PMID 35534215) [A]. Choisir le seuil selon le contexte et le patient.\n- **Au-dessus du seuil, l'IRM change la décision** : dans Göteborg-2, la biopsie ciblée seule détecte 57 % de cancers de bas grade en moins qu'une biopsie systématique, sans différence significative sur les cancers avancés (PMID 39321360) [B, ECR unique]. Ce travail mesure la détection, pas la mortalité ; mortalité : voir la [fiche dépistage](fiche:depistage-cancer-prostate-psa).\n- **Densité** : stratifie le risque après IRM négative, mais 42 cancers significatifs sont apparus même dans le groupe < 0,10 : un PSA bas ne dispense pas de suivi (PMID 42759951) [B].\n- **Vélocité** : revue systématique 1992-2013 : forte colinéarité avec le PSA, ne l'améliore pas quand les définitions sont respectées (PMID 24974369) [A, revue sans méta-analyse chiffrée dans le résumé]. En IRM, la vélocité de densité n'ajoute rien en analyse multivariée (ΔAUC +0,0006) (PMID 42858215) [B, rétrospectif]. Dans ERSPC, la variation du PSA (temps de doublement 5,1 vs 6,1 ans) diffère entre hommes avec et sans cancer mais n'apporte pas de bénéfice significatif au dépistage de population (PMID 21047594) [B].\n- **Seuil à 1,8-3 ng/mL** : une IRM positive y trouve 41 % de cancers, dont 20 % Gleason ≥ 7 : ne pas traiter un PSA « bas » comme une garantie (PMID 38490856) [B].",
+   "titre": "Ce que dit la preuve (valeur prédictive, utilité clinique)"
+  },
+  {
+   "markdown": "- **Volume de la prostate / âge** : le PSA monte avec l'âge et le volume (PMID 19293477, 19675786, 30731465).\n- **5-alpha-réductase (finastéride, dutastéride)** : baisse de 40-50 % ; règle du doublement. Un PSA « normal » sous traitement n'est pas rassurant (PMID 17196507). Voir [finastéride](fiche:finasteride) et [dutastéride](fiche:dutasteride).\n- **Testostérone exogène** : effet sur le PSA et la prostate décrit dans la fiche [testostérone](fiche:testosterone) ; seuil de surveillance : non repris ici [?].\n- **Éjaculation, vélo, infection urinaire/prostatite, sondage, toucher rectal, biopsie récente** : facteurs connus d'élévation transitoire mais **non sourcés dans cette fiche** [?]. Le délai avant dosage est à demander au médecin.\n- **Population** : percentiles 95 variant d'un facteur 2 selon les pays (ci-dessus) ; aucune référence relue pour la France [?].\n- **Dosage** : le même laboratoire et la même méthode pour suivre une tendance ; impact de la méthode et du kit : non sourcé [?].\n- **Compléments « prostate » (palmier de Floride, etc.)** : aucune fiche relue ne les relie à une baisse du PSA ; un PSA abaissé par un produit peut masquer un cancer. Non démontré [?].",
+   "titre": "Ce qui fait varier le résultat (leviers, médicaments, compléments, conditions de prélèvement)"
+  },
+  {
+   "markdown": "- **PSA ≥ 3 ng/mL** : consultation d'urologie, deuxième dosage, puis IRM avant biopsie ; décisions selon la [fiche dépistage](fiche:depistage-cancer-prostate-psa). Répéter le dosage avant d'enchaîner les examens est proposé par les recommandations rapportées [?, texte officiel non rouvert].\n- **PSA bas mais en hausse régulière, ou symptômes** : en parler au médecin ; la vélocité seule ne tranche pas (PMID 24974369).\n- **IRM négative** : la densité de PSA et un suivi régulier orientent la suite (PMID 42759951).\n- **Sous 5-ARI** : toujours signaler le traitement et corriger le chiffre (PMID 17196507).",
+   "titre": "Que faire d'un résultat anormal"
+  },
+  {
+   "markdown": "- Dosage sur ordonnance, pour une détection individuelle après information (position HAS/INCa et AFU opposées : voir la [fiche dépistage](fiche:depistage-cancer-prostate-psa)). Âges de début selon l'AFU (50 ans ; 45 ans pour origine afro-antillaise ou antécédents familiaux ; 40 ans BRCA2/HOXB13) : rapportés par la fiche dépistage, source AFU consultée le 2026-10-08.\n- Fréquence selon le niveau de risque (2 à 4 ans selon l'AFU) : idem. Remboursement et cotation : non retrouvés [?].\n- **Autotests PSA** vendus en pharmacie en ligne : seuil unique de 4 ng/mL et aucune étude de bénéfice trouvée (voir la fiche dépistage) [M].",
+   "titre": "Qui, quand, comment (fréquence, remboursement)"
+  },
+  {
+   "markdown": "Examen de biologie médicale sur ordonnance ; cotation, prix et remboursement : non consultés [?]. Autotests PSA : dispositifs de diagnostic in vitro vendus librement ; classement et réglementation : non consultés [?]. Finastéride et dutastéride : médicaments sur ordonnance (voir leurs fiches).",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Comparer un PSA d'un laboratoire à celui d'un autre ou à un seuil d'âge d'une autre population.\n- Rester sur « moins de 4 : tout va bien » : des cancers significatifs existent à 1,8-3 ng/mL (PMID 38490856).\n- Oublier de signaler un 5-ARI (PMID 17196507).\n- Utiliser la vélocité calculée sur deux valeurs : la définition demande plusieurs dosages sur un intervalle précis (PMID 24974369).\n- Biopsier sur un PSA isolé sans IRM ni deuxième dosage (voir fiche dépistage).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Mon autotest PSA est négatif sous 4, je suis tranquille »** : spécificité faible, sensibilité imparfaite, aucun contexte d'âge ni de volume (PMID 35534215) ; validité clinique des autotests : aucune étude trouvée [M].\n- **« Un complément baisse mon PSA donc ma prostate va mieux »** : un PSA abaissé ne prouve pas une prostate plus saine ; effet des compléments : non démontré [?].\n- **« Le PSA détecte le cancer »** : il détecte surtout un excès de PSA : à un seuil situé sous 4 ng/mL la spécificité n'est que de 0,16 en milieu hospitalier, donc 84 % des hommes sans cancer dépassent le seuil (PMID 35534215).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Les 95e percentiles du PSA chez des hommes sans cancer connu varient de 3,0 à 8,9 ng/mL dans la tranche 40-70 ans selon le pays étudié (PMID 21894356, 27013850) : un seuil unique est arbitraire.\n- Dans Göteborg-2, 87 % des IRM répétées après une IRM négative restent négatives, et un suivi guidé par la densité (PSA tous les 2 ans, IRM si ≥ 0,10) réduirait l'IRM de 60 % et les biopsies de 46 %, au prix d'un retard de diagnostic chez 17 % des cancers significatifs (PMID 42759951) [B, simulation].\n- La fraction libre ajoutée au PSA total à 3 ng/mL évite environ 30 % de biopsies négatives mais manque environ 10 % des cancers (PMID 21047594).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Difficultés ou douleurs à uriner, sang dans les urines ou le sperme, douleurs osseuses persistantes ; PSA ≥ 3 ng/mL ; antécédent familial ou mutation BRCA2/HOXB13 (surveillance plus précoce, voir fiche dépistage) ; tout traitement par 5-ARI ou testostérone avant le dosage.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 35534215 — Jin Y et al., Diagnostic accuracy of PSA below 4 ng/mL as a cutoff. *Investig Clin Urol* 2022 (résumé relu)\n- PMID 39321360 — Hugosson J et al., Results after four years of screening for prostate cancer with PSA and MRI. *N Engl J Med* 2024 (résumé relu)\n- PMID 41714267 — Bancroft EK et al., Targeted prostate cancer screening in BRCA1/2 carriers, IMPACT. *Eur Urol* 2026 (résumé relu)\n- PMID 38490856 — Möller et al., Prostate cancers in the PSA interval 1.8-3 ng/ml (Göteborg-2). *Eur Urol* 2024 (résumé relu)\n- PMID 42759951 — Möller et al., The role of PSA density after negative MRI in Göteborg-2. *BJU Int* 2026 (résumé relu)\n- PMID 24974369 — Loughlin KR, PSA velocity: a systematic review of clinical applications. *Urol Oncol* 2014 (résumé relu)\n- PMID 23398767 — Ørsted DD et al., Long-term PSA velocity in improved classification of prostate cancer risk and mortality. *Eur Urol* 2013 (résumé relu)\n- PMID 42858215 — Narayanasamy S et al., Utility of PSA density velocity in diagnosing prostate cancer on prostate MR. *Abdom Radiol* 2026 (résumé relu)\n- PMID 21047594 — Bangma CH et al., On the use of PSA for screening in ERSPC. *Eur J Cancer* 2010 (résumé relu)\n- PMID 17196507 — D'Amico AV, Roehrborn CG, Effect of 1 mg/day finasteride on serum PSA. *Lancet Oncol* 2007 (résumé partiellement relu : objectifs et méthodes ; chiffres cités d'après la fiche dépistage)\n- PMID 27013850, 21894356, 19293477, 19675786, 30731465 — percentiles de PSA par âge au Nigeria, Soudan, Iran, Inde, Arabie saoudite (résumés relus)\n- AFU (CCAFU) : seuils ≥ 3 ng/mL et densité 0,15, âges de début, tels que rapportés dans [la fiche dépistage](fiche:depistage-cancer-prostate-psa) (consultés le 2026-10-08, non rouverts le 2026-11-01). HAS : site non ouvert.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : PSA (antigène prostatique spécifique) : seuils, densité, vélocité",
+ "type": "biomarqueur",
+ "unite": "ng/mL"
+}

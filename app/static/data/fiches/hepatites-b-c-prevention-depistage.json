@@ -1,0 +1,71 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "hepatites-b-c-prevention-depistage",
+ "intro": "",
+ "liens": [
+  "ist-vih-prevention"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "38055218",
+  "28922704"
+ ],
+ "preuve_globale": "A",
+ "resume": "Hépatite B : évitable par vaccin ; la vaccination ciblée et universelle réduit l'infection (revue de 21 méta-analyses) [A].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Hépatite B : évitable par vaccin ; la vaccination ciblée et universelle réduit l'infection (revue de 21 méta-analyses) [A].\n- Hépatite C : pas de vaccin ; traitement par antiviraux à action directe (guérison virologique), dépistage par sérologie.\n- Le dépistage combiné VIH-VHB-VHC avec TROD est recommandé par la HAS pour les populations exposées ; test VIH une fois dans la vie à 15-70 ans (HAS 2017) (consultées le 2026-10-15 via recherche web).\n- Le bénéfice des antiviraux sur la mortalité n'est pas démontré par les ECR courts (Cochrane 2017) : il repose sur le critère de substitution SVR et sur des cohortes [A, très faible certitude pour la mortalité].\n- Voir aussi [IST et VIH](fiche:ist-vih-prevention).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "VHB : transmission sexuelle, sanguine, mère-enfant ; peut devenir chronique, cirrhose, carcinome hépatocellulaire. VHC : sanguine (partage de matériel, soins), parfois sexuelle ; chronicisation fréquente.",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Vaccin hépatite B | Anticorps anti-HBs | Umbrella review (21 méta-analyses, 83 associations) : vaccination ciblée et universelle réduisent l'infection VHB ; rappel et adjuvant HBsAg-1018 améliorent la séroprotection ; obésité réduit la séroprotection (PMID 38055218) [A] | medicament_ordonnance | remboursé selon indication |\n| Dépistage VHB (Ag HBs, anti-HBc, anti-HBs) | Détecte l'infection et l'immunité | Recommandation HAS : TROD VHB complémentaires du dépistage biologique pour populations éloignées du soin ; efficacité de morbi-mortalité non chiffrée ici [?] | acte_medical | remboursé |\n| Dépistage VHC (sérologie) | Détecte l'infection | Recommandation HAS sans chiffre d'effet repris ici [?] | acte_medical | remboursé |\n| Antiviraux à action directe (VHC) | Inhibition virale | Cochrane 2017 : 138 essais, 25 232 participants, tous à haut risque de biais ; mortalité toutes causes non démontrée (15/2377 vs 1/617, OR 3,72, 0,53-26,18, très faible certitude) ; critère SVR (PMID 28922704) [A, très faible certitude] | medicament_ordonnance | pris en charge |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Débutant : vérifier son statut vaccinal VHB (carnet de santé) ; faire un dépistage VIH-VHB-VHC une fois ; préservatif ; ne pas partager rasoir, brosse à dents, matériel de consommation.\n- Intermédiaire : si exposition (partenaires multiples, usage de drogues, voyage en zone endémique, soins à l'étranger), répéter le dépistage ; vaccination si non immunisé.\n- Avancé : sérologie VHB avant immunosuppression ou chimiothérapie (la réactivation est un risque documenté, source non relue ici [?]).",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Penser « je suis vacciné enfant » sans vérifier : la vaccination du nourrisson est obligatoire depuis 2018, avant cela non systématique (source officielle non relue [?]).\n- Dépistage VHC négatif ancien malgré exposition récente.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Détox du foie », cures de plantes contre l'hépatite : aucune preuve recherchée ici ; l'efficacité de ces allégations est [M]. Aucune plante ne remplace antiviral ou vaccin.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- L'obésité diminue la séroprotection après vaccination hépatite B (PMID 38055218) [A].\n- Les ECR sur antiviraux VHC n'ont pas mesuré la morbidité hépatique : le bénéfice clinique vient de critères de substitution (PMID 28922704) [A].",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Fatigue inexpliquée avec transaminases élevées, ictère, partenaire ou famille infecté, grossesse (dépistage VHB prévu), avant chimiothérapie, après exposition au sang.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "Vaccin : effets locaux/systémiques légers rapportés (PMID 38055218, évidence faible). Antiviraux VHC : interactions médicamenteuses et surveillance VHB (réactivation) : non détaillées, à voir avec l'hépatologue [?]. Tests : un faux négatif est possible dans la fenêtre sérologique.",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- Umbrella review Expert Rev Vaccines 2024, PMID 38055218 ; Cochrane 2017, PMID 28922704.\n- HAS (TROD hépatite B 2016, dépistage VIH 2017, hépatite C 2019/2023), consultée le 2026-10-15 via recherche web. Données sur la prévalence et la couverture vaccinale en France : non recherchées [?].",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Hépatites B et C : prévention et dépistage",
+ "type": "condition",
+ "unite": ""
+}

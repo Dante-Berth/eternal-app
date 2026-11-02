@@ -1,0 +1,67 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "proteine-pois-isolat-bulk",
+ "intro": "",
+ "liens": [
+  "proteines",
+  "whey-native-nutrimuscle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28698222",
+  "33670701",
+  "41059835",
+  "42625626",
+  "40806155"
+ ],
+ "preuve_globale": "B",
+ "resume": "Une protéine végétale très bon marché (≈ 12,5 € par kg de protéines contre ≈ 47 € pour la whey Nutrimuscle), correcte pour la masse musculaire sous musculation si la dose est suffisante, mais les données directes sur le pois seul sont minces et la whey garde un léger avantage sur la masse maigre.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Une protéine végétale très bon marché (≈ 12,5 € par kg de protéines contre ≈ 47 € pour la whey Nutrimuscle), correcte pour la masse musculaire sous musculation si la dose est suffisante, mais les données directes sur le pois seul sont minces et la whey garde un léger avantage sur la masse maigre.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur déclarée | Preuve |\n|---|---|---|\n| Protéine de pois (100 % pois cassés jaunes) | 80 g/100 g ; 24 g par 30 g ; 119 kcal par portion ; sucres 0,1 g/100 g | Supplément protéique + musculation : gains de force et de masse [A] (PMID 28698222) ; source végétale vs animale : pas de différence sur la masse maigre absolue ni la force, léger avantage animal en % de masse maigre [A] (PMID 33670701) ; pois seul vs whey : aucun ECR trouvé [?] |\n\nComposition lue sur le site de la marque (bulk.com/fr, consulté le 2026-10-06) ; 5 arômes et une version naturelle existent. La page Myprotein équivalente est en 404 ; sa fiche Open Food Facts indique 80 g/100 g, 5,5 g de lipides, 1,9 g de sel (donnée communautaire, consultée le 2026-10-06).",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Denrée alimentaire de nutrition sportive : classement « aliment » retenu, texte officiel non relu [?] (le dépôt classe la whey en complément alimentaire ; incohérence à trancher avec la DGCCRF). Allégation protéines de l'UE : [?] non vérifiée. Poudre de protéines non interdite en soi par l'AMA ; liste 2026 non relue [?]. Allergènes : pois ; traces possibles d'œuf, gluten, lait, soja signalées pour le produit Myprotein (Open Food Facts), pas pour Bulk [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque dit | Les études |\n|---|---|\n| « Contient tous les acides aminés essentiels, dont les BCAA » | Aucun ECR lu sur le profil du pois seul ; le pois est pauvre en méthionine selon la littérature générale, non sourcée ici [?] |\n| Alternative végétale à la whey | [A] la source n'affecte pas la masse maigre absolue ni la force, mais l'animal fait mieux en % de masse maigre, surtout < 50 ans (PMID 33670701) ; [B, ECR n=44] un mélange soja+pois = whey sur 12 semaines (masse maigre +2,4 kg vs +2,5 kg) chez de jeunes hommes novices (PMID 41059835) ; réseau 2026 : estimations plus faibles pour les protéines végétales, certitude faible à très faible (PMID 42625626) |\n| Ne pas dépasser le besoin | [A] au-delà de ~1,6 g/kg/j de protéines totales, aucun gain supplémentaire de masse maigre (PMID 28698222) |",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Selon la marque : 1 portion (30 g) dans 300 mL d'eau, 1 à 3 portions/j selon besoins (bulk.com/fr, consulté le 2026-10-06). 30 g = 24 g de protéines ; viser ≥ 30 g de protéine végétale par prise pour compenser le leucine plus faible [?] (revue : ≥ 30 g avec ~2,5 g de leucine, PMID 40806155, revue de recovery, certitude limitée).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- 1 kg : 9,99 € (barré 12,99 €) chez Bulk (bulk.com/fr, consulté le 2026-10-06) ; Myprotein : 10,79 € (barré 17,99 €) et 19,99 € chez un revendeur, via recherche web (non relus) ; Vegetopie (bio, 83 % de protéines, Canada) 15,90 € les 500 g (vegetopie.com, consulté le 2026-10-06).\n- 30 g/j (0,9 kg/mois) : **≈ 9 €/mois** (9,99 €/kg) à ≈ 12 € (12,99 €/kg). Protéines : 9,99 € ÷ 0,8 kg = **≈ 12,5 €/kg de protéines**.\n- Comparaison : [Whey Native Nutrimuscle](fiche:whey-native-nutrimuscle) ≈ 47 €/kg de protéines (30-36 €/mois) ; Vegetopie ≈ 19 €/kg de protéines (15,90 € ÷ 0,415 kg).\n- Moins cher à preuve supérieure : aucun produit ; pour la même preuve à coût nul, couvrir le besoin avec l'alimentation (voir [protéines](fiche:proteines)).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Note de 4/5 sur plus de 2 400 avis, « goût vanille naturel » loué sur la version aromatisée (bulk.com/fr, avis non relus ; arôme non comparable à la version neutre) [?]. Ballonnements éventuels : [?] non relevés.",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 28698222 — Morton RW et al., *Br J Sports Med* 2018. doi:10.1136/bjsports-2017-097608\n- PMID 33670701 — Lim MT et al., *Nutrients* 2021. doi:10.3390/nu13020661\n- PMID 41059835 — Santini MH et al., *J Int Soc Sports Nutr* 2025. doi:10.1080/15502783.2025.2568047\n- PMID 42625626 — Li Y et al., *Front Nutr* 2026. doi:10.3389/fnut.2026.1860234\n- PMID 40806155 — Govindasamy K et al., *Nutrients* 2025. doi:10.3390/nu17152571\n- Bulk (bulk.com/fr), Vegetopie, Open Food Facts (Myprotein), consultés le 2026-10-06.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Isolat de protéine de pois — Bulk",
+ "type": "produit",
+ "unite": ""
+}

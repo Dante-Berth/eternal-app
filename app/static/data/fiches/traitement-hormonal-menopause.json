@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "hormones-sexualite",
+  "muscle-os",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "medicament",
+ "id": "traitement-hormonal-menopause",
+ "intro": "",
+ "liens": [
+  "bilans-biologiques",
+  "biomarqueur-bilan-hormonal-femme",
+  "desir-sexuel-hypoactif-femme",
+  "dhea",
+  "kisspeptine",
+  "osteoporose-et-densite-osseuse"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "15495039",
+  "28898378",
+  "38263123",
+  "31474332",
+  "32721007",
+  "41307293",
+  "39173088",
+  "34731351",
+  "38385734"
+ ],
+ "preuve_globale": "A",
+ "resume": "Œstrogène (seul, ou avec un progestatif si l'utérus est présent). Il traite les bouffées de chaleur et les sueurs nocturnes avec une efficacité très nette, bien au-dessus du placebo ; il ne prolonge pas la vie et ne protège pas le cœur, et son profil de risque dépend du type de traitement et de l…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Œstrogène (seul, ou avec un progestatif si l'utérus est présent). Il traite **les bouffées de chaleur et les sueurs nocturnes avec une efficacité très nette**, bien au-dessus du placebo ; il **ne prolonge pas la vie** et ne protège pas le cœur, et son profil de risque dépend du type de traitement et de l'âge de départ.\n- Symptômes vasomoteurs : fréquence hebdomadaire des bouffées réduite d'environ 75 % par rapport au placebo (IC 95 % 64-82 %), sévérité réduite (OR 0,13), avec un effet placebo notable (−57,7 %) [A, ancien mais cohérent] (PMID 15495039).\n- Mortalité : après 18 ans de suivi des deux essais WHI, mortalité toutes causes comparable (HR 0,99 ; IC 95 % 0,94-1,03), cardiovasculaire (HR 1,00) et par cancer (HR 1,03) inchangées [A] (PMID 28898378).\n- Cœur : méta-analyse de 33 RCT (44 639 femmes) : pas de différence de mortalité (RR 0,96) ni d'événements cardiovasculaires (RR 0,97), mais **plus d'AVC (RR 1,23) et de thrombose veineuse (RR 1,86)** ; un démarrage dans les 10 ans après la ménopause serait moins défavorable selon les mêmes auteurs [A] (PMID 38263123).\n- Sein : œstrogène + progestatif augmente le risque (RR 1,60 en cours de traitement la première période, jusqu'à environ le double au-delà de 5 ans) ; œstrogène seul : risque plus faible (RR 1,17) en méta-analyse de 108 647 cancers [A, observationnel poolé] (PMID 31474332). Dans WHI, œstrogène seul **réduit** l'incidence du cancer du sein (HR 0,78), œstrogène + MPA l'augmente [A] (PMID 32721007).\n- Os : réduit toutes les fractures (œstrogène seul) selon la Cochrane 2025, mais la prévention de l'ostéoporose n'est pas son indication première [A] (PMID 41307293).\n- Hors symptômes : aucune justification « longévité » ou « anti-âge » établie [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Remplacement partiel des œstrogènes ovariens ; l'ajout d'un progestatif protège l'endomètre chez les femmes ayant un utérus (HAS, 2014).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Bouffées de chaleur, sueurs nocturnes | Fréquence −75 % vs placebo, sévérité OR 0,13 ; effets indésirables fréquents (tension mammaire, œdème, douleurs articulaires) sans excès de sorties d'étude (OR 1,25) | [A] (PMID 15495039) |\n| Mortalité toutes causes, CV, cancer | WHI 18 ans, 27 347 femmes : HR 0,99 / 1,00 / 1,03 | [A] (PMID 28898378) |\n| Événements cardiovasculaires | 33 RCT : pas de différence ; AVC RR 1,23, thrombose veineuse RR 1,86 ; meilleur profil si initiation précoce | [A] (PMID 38263123) |\n| Revue Cochrane au long cours (24 études, 45 660 femmes) | Œstrogène seul : peu ou pas de différence sur les événements coronariens, plus d'AVC et de maladie de la vésicule, peu ou pas de différence sur le cancer du sein, moins de fractures ; combiné : plus de thromboembolie et de cancer du sein ; basé sur un traitement oral | [A] (PMID 41307293) |\n| Cancer du sein | Œstroprogestatif : plus de cas (HR >1) ; œstrogène seul : HR 0,78 sur l'incidence et 0,60 sur la mortalité du cancer du sein dans WHI (femmes hystérectomisées) | [A] (PMID 32721007, PMID 31474332) |\n| Os | Moins de fractures sous œstrogène seul (Cochrane 2025) ; voir [ostéoporose et densité osseuse](fiche:osteoporose-et-densite-osseuse) | [A] (PMID 41307293) |\n| Cancer de l'ovaire / endomètre, démence, humeur, peau, libido | Études citées dans les résultats de recherche (PMID 39173088 et autres) : titres vérifiés, résumés non relus | [?] |\n| Femmes ayant eu un cancer du sein | Revues de sécurité existantes (PMID 34731351, PMID 38385734) : résumés non relus | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Les essais WHI utilisaient des œstrogènes équins conjugués par voie orale, avec ou sans acétate de médroxyprogestérone ; les traitements actuels (estradiol, voie cutanée, progestérone micronisée) diffèrent, et la Cochrane 2025 souligne que ses conclusions reposent sur une étude orale « pouvant ne pas représenter » la pratique actuelle (PMID 41307293). Doses : sans objet pour cette fiche (prescription individuelle).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Médicaments sur ordonnance** (estradiol, valérate d'estradiol, tibolone ; oral, patch, gel, etc.) avec SMR important lorsque les symptômes altèrent la qualité de vie ; HAS, communiqué du 2014-07-16 (consulté le 2026-10-12) : plus faible dose efficace, plus court temps possible, réévaluation au moins annuelle, jamais d'œstrogène sans progestatif chez la femme non hystérectomisée. Mise à jour récente de la HAS ou de l'ANSM : non trouvée dans la recherche ; voies d'administration et progestérone micronisée : non vérifiées dans une source officielle [?].\n- **Hors circuit médical** (crèmes « bio-identiques » en vente libre, hormones importées) : statut et contenu non vérifiés [?].\n- Alternative non hormonale ciblant la voie NKB (fézolinétant) mentionnée dans une revue : voir [kisspeptine](fiche:kisspeptine) ; statut français non vérifié [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Risques identifiés par la HAS (2014) : cancer du sein (augmente avec la durée), cancer de l'endomètre (si œstrogène seul chez la femme avec utérus), cancer de l'ovaire, thromboembolie veineuse et AVC (surtout la première année).\n- Chiffres issus d'essais sur des femmes de 63 ans en moyenne dans WHI (PMID 28898378) : ils ne s'appliquent pas tels quels à une femme de 50 ans en début de ménopause.\n- Contre-indications (cancer du sein ou de l'endomètre hormonodépendant, thrombose, maladie hépatique, AVC) : la page HAS lue ne les détaille pas ; à confirmer avec un médecin [?].\n- Interactions et suivi (mammographie, pression artérielle, lipides) : non détaillés ici [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Hormones de jouvence qui protègent le cœur et le cerveau » : pas de réduction de la mortalité ni des événements cardiovasculaires en essai (PMID 28898378, PMID 38263123) ; démence et cognition non relues [?].\n- « Les hormones bio-identiques sont sans risque » : aucune donnée dans les sources lues ; les risques documentés concernent les formes testées en essai [?].\n- « Tout THM donne un cancer du sein » : le risque dépend du type (œstrogène seul vs œstroprogestatif) et de la durée (PMID 31474332, PMID 32721007).\n- « La DHEA ou les compléments remplacent un THM » : voir [DHEA](fiche:dhea) ; l'effet sur les bouffées de chaleur n'est pas démontré dans les sources lues [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour.\n\nVoir aussi : [ostéoporose et densité osseuse](fiche:osteoporose-et-densite-osseuse), [DHEA](fiche:dhea), [désir sexuel hypoactif de la femme](fiche:desir-sexuel-hypoactif-femme), [bilans biologiques](fiche:bilans-biologiques).\n\nFiches « examen » liées : [bilan hormonal de la femme](fiche:biomarqueur-bilan-hormonal-femme)",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. MacLennan AH et al. *Cochrane Database Syst Rev* 2004 — PMID 15495039 — [DOI](https://doi.org/10.1002/14651858.CD002978.pub2)\n2. Manson JE et al. *JAMA* 2017 — PMID 28898378 — [DOI](https://doi.org/10.1001/jama.2017.11217)\n3. Gu Y et al. *BMC Womens Health* 2024 — PMID 38263123 — [DOI](https://doi.org/10.1186/s12905-023-02788-0)\n4. Bofill Rodriguez M et al. *Cochrane Database Syst Rev* 2025 — PMID 41307293 — [DOI](https://doi.org/10.1002/14651858.CD004143.pub6)\n5. Collaborative Group on Hormonal Factors in Breast Cancer. *Lancet* 2019 — PMID 31474332 — [DOI](https://doi.org/10.1016/S0140-6736(19)31709-X)\n6. Chlebowski RT et al. *JAMA* 2020 — PMID 32721007 — [DOI](https://doi.org/10.1001/jama.2020.9482)\n7. HAS, « Traitements hormonaux de la ménopause », communiqué du 2014-07-16 — https://www.has-sante.fr/jcms/c_1754596/fr/traitements-hormonaux-de-la-menopause (consulté le 2026-10-12)\n8. PMID 39173088 (Chlebowski RT, *J Clin Oncol* 2024), PMID 34731351 (Poggio F, *Breast Cancer Res Treat* 2022), PMID 38385734 (Coronado PJ, *Menopause* 2024) : titres vérifiés, résumés non relus.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Traitement hormonal de la ménopause (THM, ex-THS)",
+ "type": "actif",
+ "unite": ""
+}

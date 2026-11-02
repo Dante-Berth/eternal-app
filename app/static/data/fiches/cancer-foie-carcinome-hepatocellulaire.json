@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "cancer-foie-carcinome-hepatocellulaire",
+ "intro": "",
+ "liens": [
+  "cancer-pancreas",
+  "metformine",
+  "prevention-cancer-colorectal-hors-depistage",
+  "steatose-hepatique-metabolique-masld",
+  "tabac-et-alcool"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "39834076",
+  "36921104",
+  "41918240",
+  "41077883"
+ ],
+ "preuve_globale": "B",
+ "resume": "Revue parapluie (175 méta-analyses, 101 facteurs) : hépatite B et C multiplient le risque par 12,5 et 11,2 ; tabac, obésité, stéatose hépatique, diabète augmentent ; café, alimentation saine, chirurgie bariatrique le baissent [B] (PMID 39834076).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Revue parapluie (175 méta-analyses, 101 facteurs) : hépatite B et C multiplient le risque par 12,5 et 11,2 ; tabac, obésité, stéatose hépatique, diabète augmentent ; café, alimentation saine, chirurgie bariatrique le baissent [B] (PMID 39834076).\n- Aspirine, statines, metformine, agonistes GLP-1 sont associés à moins de CHC, « confirmation nécessaire » selon les auteurs ; inhibiteurs de pompe à protons associés à plus [B, observationnel] (PMID 39834076).\n- Surveillance par échographie semestrielle (population cirrhotique/hépatite B) : 6 mois vs 12 mois, plus de CHC précoces (RR 1,17) et survie à 5 ans (RR 1,39) ; pas de différence entre 3-4 mois et 6-12 mois [B, cohortes + ECR] (PMID 36921104).\n- Pas de dépistage dans la population générale sans maladie du foie : non recherché [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Cirrhose, hépatite B/C chronique et stéatohépatite sont les terrains. La fibrose avancée est le principal marqueur prédictif de complications (cf. [MASLD](fiche:steatose-hepatique-metabolique-masld)).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Levier | Ce qui est montré | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Traitements antiviraux B/C | Réduisent l'excès de risque (PMID 39834076) | [B] | Médicaments sur ordonnance | non applicable |\n| Surveillance échographique semestrielle | Voir TL;DR (PMID 36921104) | [B] | Acte médical | non recherché |\n| Café | Associé à moins de CHC (PMID 39834076) | [B] | Aliment | non applicable |\n| Aspirine, statines, metformine | Associées à moins de CHC (PMID 39834076) | [B, observationnel] | Médicaments | non applicable |\n\nIRM vs échographie biannuelle : proportion de CHC précoces 0,60 (0,37-0,97) pour l'échographie seule vs IRM biannuelle (PMID 36921104). L'IRM sans contraste pour la surveillance fait l'objet d'une méta-analyse récente, non lue [?] (PMID 41918240).",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Débutant : vaccination VHB, limiter l'alcool ([tabac et alcool](fiche:tabac-et-alcool)), poids stable.\n- Intermédiaire : dépistage de l'hépatite B et C, bilan hépatique/FIB-4.\n- Avancé : si cirrhose ou fibrose avancée : surveillance échographique semestrielle avec hépatologue.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "Penser que l'absence de symptômes exclut un CHC sur cirrhose ; croire qu'un foie gras sans fibrose impose une surveillance échographique (non établi ici [?]).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "Les « détox du foie », chardon-marie et autres compléments n'ont pas été évalués ici sur le CHC [?]. Seuls les facteurs ci-dessus ont des méta-analyses.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "La méta-analyse de l'utilisation de la surveillance 2026 existe mais n'a pas été lue (PMID 41077883) [?]. Les associations médicamenteuses restent observationnelles ; ne pas prendre d'aspirine pour cela sans médecin (risque hémorragique : voir [prévention colorectale](fiche:prevention-cancer-colorectal-hors-depistage)).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Cirrhose connue, hépatite B/C, jaunisse, douleur de l'hypocondre droit, perte de poids, ascite.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "Recommandations HAS, AFEF, INCa sur la surveillance du CHC et remboursement : non consultés [?]. Pas de statut AMA.",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "[MASLD](fiche:steatose-hepatique-metabolique-masld), [tabac et alcool](fiche:tabac-et-alcool), [metformine](fiche:metformine), [pancréas](fiche:cancer-pancreas).",
+   "titre": "Voir aussi"
+  },
+  {
+   "markdown": "- PMID 39834076 — Wang J et al., *Ann Med* 2025 (revue parapluie)\n- PMID 36921104 — Yang J et al., *Chin Med J* 2023. doi:10.1097/CM9.0000000000002341\n- PMID 41918240 — Zhou H et al., *J Med Imaging Radiat Oncol* 2026 (résumé non lu)\n- PMID 41077883 — Tang NSY et al., *Aliment Pharmacol Ther* 2026 (résumé non lu)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Cancer du foie (carcinome hépatocellulaire) : facteurs de risque et surveillance",
+ "type": "condition",
+ "unite": ""
+}

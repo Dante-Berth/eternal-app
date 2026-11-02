@@ -1,0 +1,71 @@
+{
+ "cibles": [
+  "prevention",
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "medicament",
+ "id": "vaccin-zona-shingrix",
+ "intro": "",
+ "liens": [
+  "declin-cognitif-et-neurodegenerescence",
+  "vaccin-pneumocoque",
+  "vaccins-dtcap-et-hpv-adulte",
+  "vaccins-respiratoires-grippe-covid-vrs"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "27626517",
+  "26465999",
+  "33197294",
+  "39053634",
+  "42754179",
+  "41910703"
+ ],
+ "preuve_globale": "A",
+ "resume": "Shingrix (sous-unité recombinante gE + adjuvant AS01B, 2 doses) réduit le zona de 89,8 % (IC 95 % 84,2-93,7) chez les 70 ans et plus, ECR ZOE-70 ; efficacité sur la névralgie post-zostérienne de 88,8 % (68,7-97,1) en analyse poolée des 70 ans et plus [A]. Essais financés par GSK.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Shingrix (sous-unité recombinante gE + adjuvant AS01B, 2 doses) réduit le zona de 89,8 % (IC 95 % 84,2-93,7) chez les 70 ans et plus, ECR ZOE-70 ; efficacité sur la névralgie post-zostérienne de 88,8 % (68,7-97,1) en analyse poolée des 70 ans et plus [A]. Essais financés par GSK.\n- Critère jugé : zona et névralgie, pas mortalité ni hospitalisation toutes causes : non rapportés dans les résumés lus [?].\n- Recommandé en France à partir de 65 ans et dès 18 ans si immunodéprimé ; remboursé à 65 % depuis le 14 décembre 2024 (Santé publique France, consulté le 2026-10-15).\n- Lien démence : association observationnelle (Taquet, Nat Med 2024) [B, observationnel] ; une analyse de 2026 montre que les « expériences naturelles » avec le vaccin vivant donnent des effets implicites supérieurs à 100 %, donc non crédibles comme effet causal du vaccin seul [B, analyse méthodologique]. Aucun ECR sur la démence [?].\n- Effet indésirable rare à connaître : syndrome de Guillain-Barré, surcroît de 6,59 pour 1 000 000 de doses chez les 65 ans et plus (Medicare).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Glycoprotéine E du virus varicelle-zona (VZV) recombinante associée à l'adjuvant AS01B : stimule les réponses anticorps et lymphocytes T CD4. Contrairement à l'ancien vaccin vivant atténué (Zostavax, retiré de France depuis juin 2024), il ne contient pas de virus vivant et peut être donné aux immunodéprimés.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Zona et névralgie post-zostérienne\n| Résultat | Chiffre | Tag |\n|---|---|---|\n| ZOE-70, 70 ans et plus (n = 13 900 évaluables, suivi moyen 3,7 ans) : zona | 0,9 vs 9,2 pour 1 000 personnes-années ; efficacité 89,8 % | [A] (PMID 27626517, ZOE-50 PMID 26465999 : 97,2 % chez les 50 ans et plus, chiffre cité dans le résumé de ZOE-70) |\n| Poolé ZOE-50 + ZOE-70, 70 ans et plus (n = 16 596) : zona | efficacité 91,3 % (86,8-94,5) | [A] |\n| Poolé : névralgie post-zostérienne | 88,8 % (68,7-97,1) | [A] |\n| Fragiles (analyse de sous-groupe des ZOE) | efficace et bien toléré selon le résumé de PMID 33197294 (chiffre non relu) | [B] |\nDurée de protection au-delà du suivi des essais : non relue ici [?].\n\n### Démence (hypothèse, non prouvée)\n- Taquet et al. (Nat Med 2024) : le vaccin recombinant est associé à un risque de démence plus bas que le vaccin vivant, la grippe et le dTcaP (+17 % de temps sans diagnostic, soit 164 jours) ; observationnel, dossiers de santé, avec biais possibles de comportement de santé [B, observationnel] (PMID 39053634). Les auteurs eux-mêmes appellent à un ECR.\n- Kivimäki et al. (Brain Behav Immun 2026) : les études naturelles du vaccin vivant (Pays de Galles, Australie, Canada) impliquent des réductions de risque chez les vaccinés de 18 %, 177 %, 84 % et 111 %, dont plusieurs dépassent le maximum théorique de 100 % ; aucun déclin de l'incidence de démence observé en population après introduction des programmes. Les auteurs concluent que ces résultats ne s'expliquent pas par le seul effet du vaccin [B, analyse méthodologique] (PMID 42754179).\n- Verdict : hypothèse plausible (VZV et neuro-inflammation) mais non démontrée ; ne pas se vacciner « contre la démence » : se vacciner pour le zona.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "(Santé publique France, vaccination-info-service.fr, consulté le 2026-10-15 ; texte HAS non consulté, certificat du site HAS refusé par l'outil, ce qui reste à vérifier.)\n- Adultes de 65 ans et plus, même après un zona ou un Zostavax ; adultes de 18 ans et plus immunodéprimés.\n- 2 doses à 2 mois d'intervalle ; si zona ou Zostavax il y a plus d'un an, 2 doses Shingrix à au moins 1 an d'écart.\n- Coadministrable avec grippe inactivée, pneumocoque, dTca et covid ARNm.\n- Remboursement : 65 % par l'Assurance maladie depuis le 14 décembre 2024, le reste le plus souvent par la complémentaire.",
+   "titre": "Recommandations françaises"
+  },
+  {
+   "markdown": "- Très fréquents : réactions au site d'injection ; fréquents : fièvre, douleurs musculaires ou articulaires. Réactogénicité plus élevée que le placebo : 79,0 % vs 29,5 % de réactions locales ou générales dans les 7 jours chez les 70 ans et plus ; événements graves et maladies à médiation immune comparables au placebo (PMID 27626517).\n- Guillain-Barré : Medicare, 65 ans et plus, 3 383 799 vaccinés, 75 cas ; risque relatif 3,15 (1,82-5,68) dans les 42 jours, risque attribuable 6,59 par million de doses (PMID 41910703). Risque réel mais très faible.\n- Contre-indications : hypersensibilité à un composant ; report en cas de maladie fébrile aiguë ; grossesse : généralement évité (données limitées) ; allaitement : au cas par cas (SPF).",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "Shingrix (GSK) : seul disponible. Zostavax : plus commercialisé depuis juin 2024 (SPF).",
+   "titre": "Vaccins disponibles"
+  },
+  {
+   "markdown": "- « Le vaccin du zona protège du Alzheimer » : association observationnelle, effet non causal démontré ; les ordres de grandeur des études naturelles sont incompatibles avec un effet du seul vaccin.\n- « Efficacité à 97 % » : c'est celle des 50 ans et plus dans ZOE-50 ; chez les 70 ans et plus elle est de 90 % environ, et il s'agit de zona, pas de mortalité.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 27626517 — Cunningham AL et al., *N Engl J Med* 2016 (ZOE-70). doi:10.1056/NEJMoa1603800\n- PMID 26465999 — Lal H et al., *N Engl J Med* 2015 (ZOE-50, pas de résumé sur PubMed ; chiffre 97,2 % repris du résumé de ZOE-70)\n- PMID 33197294 — Curran D et al., *J Am Geriatr Soc* 2021 (résumé non relu en détail)\n- PMID 39053634 — Taquet M et al., *Nat Med* 2024\n- PMID 42754179 — Kivimäki M et al., *Brain Behav Immun* 2026\n- PMID 41910703 — Dos Reis et al., *Drug Saf* 2026\n- Web, consulté le 2026-10-15 : vaccination-info-service.fr (Santé publique France), page Zona.\n\nVoir aussi : [vaccins respiratoires](fiche:vaccins-respiratoires-grippe-covid-vrs), [pneumocoque](fiche:vaccin-pneumocoque), [dTcaP et HPV](fiche:vaccins-dtcap-et-hpv-adulte), [déclin cognitif](fiche:declin-cognitif-et-neurodegenerescence).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Vaccin du zona (Shingrix) et lien avec la démence",
+ "type": "actif",
+ "unite": ""
+}

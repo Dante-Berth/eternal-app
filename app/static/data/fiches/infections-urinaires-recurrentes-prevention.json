@@ -1,0 +1,73 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "infections-urinaires-recurrentes-prevention",
+ "intro": "",
+ "liens": [],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "37068952",
+  "32497610",
+  "38587819",
+  "35535708",
+  "34001538",
+  "37178856"
+ ],
+ "preuve_globale": "A",
+ "resume": "Canneberge : RR 0,70 (0,58-0,84) toutes populations ; chez les femmes à cystites récidivantes RR 0,74 (0,55-0,99) [A, hétérogénéité I² 54-69 %].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Canneberge : RR 0,70 (0,58-0,84) toutes populations ; chez les femmes à cystites récidivantes RR 0,74 (0,55-0,99) [A, hétérogénéité I² 54-69 %].\n- D-mannose : méta-analyse de 3 petites études favorable (RR 0,23) mais le plus gros ECR (n=598) est négatif (51,0 % vs 55,7 %) [A, contradictoire].\n- Méthénamine hippurate : non-infériorité aux antibiotiques prophylactiques dans un ECR (ALTAR), mais méta-analyse non concluante [B].\n- Œstrogène vaginal après la ménopause : réduction des récidives dans des données observationnelles [B].\n- Une cystite récidivante = 2 épisodes en 6 mois ou 3 par an (définition courante, source officielle non relue [?]).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Canneberge : proanthocyanidines empêchant l'adhésion d'E. coli (hypothèse). D-mannose : leurre des adhésines FimH (hypothèse). Méthénamine : libère du formaldéhyde en urine acide. Œstrogène : restaure flore vaginale à lactobacilles.",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Canneberge | Anti-adhésion | Cochrane 2023 : 50 études, 8 857 participants ; UTI symptomatique culture-vérifiée RR 0,70 (0,58-0,84), certitude modérée ; enfants RR 0,46 (0,32-0,68) ; pas de bénéfice chez âgés institutionnalisés (RR 0,93), femmes enceintes (1,06), vessie neurologique (0,97) (PMID 37068952) [A] | complement_alimentaire (selon produit) | moyen, non relevé [?] |\n| D-mannose | Anti-adhésion | Méta-analyse 3 études : RR 0,23 (0,14-0,37) vs placebo, petits effectifs (PMID 32497610) [A, faible certitude] ; ECR en soins primaires n=598 : suspicion d'UTI 51,0 % vs 55,7 % (différence -5 %, -13 à 3) (PMID 38587819) [B, ECR unique n=598] | complement_alimentaire | non relevé [?] |\n| Méthénamine hippurate | Antiseptique urinaire | ALTAR (n=240) : incidence 1,38 vs 0,89 épisodes/personne-an, différence 0,49 (IC 90 % 0,15-0,84), non-infériorité retenue (limite 1) ; moins de résistances des E. coli sous méthénamine (PMID 35535708) [B, ECR unique n=240] ; méta-analyse : 6 études, 557 participants, tendance non significative, preuve insuffisante (PMID 34001538) [A, faible certitude] | medicament_ordonnance (statut BDPM non consulté [?]) | non relevé [?] |\n| Œstrogène vaginal (ménopause) | Restaure l'épithélium et la flore | Cohorte rétrospective de 5 638 femmes : 3,9 à 1,8 infections/an (-51,9 %), sans groupe contrôle (PMID 37178856) [B, observationnel] | medicament_ordonnance | non relevé [?] |\n| Antibioprophylaxie | Suppression bactérienne | Comparateur de ALTAR (0,89 épisode/personne-an) ; résistances plus élevées (72 % vs 56 % de portage d'E. coli résistant) (PMID 35535708) [B] | medicament_ordonnance | non relevé [?] |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Débutant : hydratation, miction régulière, mesures d'hygiène (preuves de ces mesures non recherchées [?]).\n- Intermédiaire : essai de canneberge titrée en proanthocyanidines ; consultation pour bilan (cause anatomique, diabète, ménopause).\n- Avancé : prophylaxie médicale (méthénamine, œstrogène local, antibiotique) décidée avec le médecin ; pas de schéma de dose rédigé ici.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Traiter une bactériurie asymptomatique : sans symptômes, pas d'antibiotique, sauf grossesse et avant certains actes (source officielle non relue [?]).\n- Prendre de la canneberge en traitement d'une cystite en cours : la preuve porte sur la prévention.\n- Jus sucrés plutôt qu'extraits dosés : dosage en PAC variable, essais hétérogènes.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « D-mannose = antibiotique naturel » : le plus gros ECR est négatif (PMID 38587819) ; le JAMA IM conclut qu'il ne doit pas être recommandé [B].\n- « Canneberge guérit la cystite » : [M] ; la preuve porte sur la réduction des récidives, pas sur la guérison.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Dans ALTAR, la méthénamine a été associée à moins de résistance qu'un antibiotique quotidien, mais l'incidence 6 mois après l'arrêt était de 1,72 contre 1,19 épisode/an (PMID 35535708) [B].\n- Le bénéfice de la canneberge varie selon la population (nul chez les âgés institutionnalisés) (PMID 37068952) [A].",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Fièvre, douleur lombaire, sang dans les urines, homme, enfant, grossesse, échec d'un traitement, plus de 3 épisodes par an.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "Canneberge : interactions avec la warfarine rapportées (non vérifiées ici [?]), apports d'oxalates. D-mannose : diarrhée (8/103 dans une étude, PMID 32497610) ; diabète : sucre. Méthénamine : urine acide requise, contre-indiquée en insuffisance rénale ou hépatique sévère (RCP non relu [?]). Œstrogène vaginal : contre-indications à discuter (cancer hormonodépendant).",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- Cochrane 2023, PMID 37068952 ; Am J Obstet Gynecol 2020, PMID 32497610 ; JAMA Intern Med 2024, PMID 38587819 ; Health Technol Assess 2022 (ALTAR), PMID 35535708 ; Br J Gen Pract 2021, PMID 34001538 ; Am J Obstet Gynecol 2023, PMID 37178856.\n- BDPM/ANSM/HAS : non consultés pour cette fiche (statuts [?]).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Prévention des infections urinaires récurrentes (canneberge, D-mannose, méthénamine)",
+ "type": "condition",
+ "unite": ""
+}

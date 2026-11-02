@@ -1,0 +1,80 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "cerveau",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-18",
+ "famille": "alimentation",
+ "id": "legumes-verts-a-feuilles",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "antioxydants-alimentaires-et-absorption",
+  "betterave-et-nitrates",
+  "cruciferes-brocoli-et-sulforaphane",
+  "legumes-comparatif-et-tier-list",
+  "vitamines-aliments-et-absorption"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42587937",
+  "34128951",
+  "33000670",
+  "30971126",
+  "38598978",
+  "34034049",
+  "17538185",
+  "15121490"
+ ],
+ "preuve_globale": "B",
+ "resume": "Association inverse avec les maladies cardiovasculaires en cohortes, mais forte hétérogénéité. Méta-analyse de 2026 : consommation haute vs basse, maladie cardiovasculaire RR 0,89 (0,82-0,97, I² = 80 %), mortalité cardiovasculaire RR 0,79 (0,62-0,97) [B, observationnel] (PMID 42587937). Méta-anal…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Association inverse avec les maladies cardiovasculaires en cohortes, mais forte hétérogénéité.** Méta-analyse de 2026 : consommation haute vs basse, maladie cardiovasculaire RR 0,89 (0,82-0,97, I² = 80 %), mortalité cardiovasculaire RR 0,79 (0,62-0,97) [B, observationnel] (PMID 42587937). Méta-analyse de 2021 (17 études, effet fixe) : RR 0,93 (0,92-0,95), infarctus cérébral 0,92 (0,88-0,96) [B] (PMID 34128951).\n- **Les essais randomisés ne confirment pas l'effet sur les marqueurs.** Sept ECR : pas d'amélioration de la fonction vasculaire (DM -0,37, IC -1,90 à 1,16) ni de la tension systolique ou diastolique [B, essais hétérogènes, I² = 88 %] (PMID 42587937).\n- **Parmi les sources de légumes, les verts à feuilles font partie de celles qui ont la certitude la plus haute** : dans 81 cohortes (4 M de personnes), le niveau de certitude va de « très faible » à « modéré », au plus haut pour les fruits et légumes totaux, les fruits à pépins et les légumes verts à feuilles ; bénéfice plus marqué pour les alliacés, carottes, crucifères et verts à feuilles ; aucune source n'est associée à un effet néfaste [B] (PMID 33000670). Salade/légumes verts à feuilles et mortalité toutes causes : RR 0,78 (0,71-0,86) dans une revue de méta-analyses [B] (PMID 30971126).\n- **Cognition** : dans deux cohortes (Chine, États-Unis), les légumes verts à feuilles sont associés à une meilleure fonction cognitive dans la cohorte américaine (β = 0,082 ; 0,046-0,117) ; dans la cohorte chinoise, la limite basse de l'IC touche zéro (β = 0,036 ; -0,001 à 0,073) [B, observationnel] (PMID 38598978).\n- **Deux précautions réelles** : oxalate des épinards (calculs rénaux) et vitamine K (anticoagulants), voir Sécurité.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Lutéine, folates, vitamine K, nitrates, fibres. Une revue de méta-analyses associe l'apport en lutéine à moins de dégénérescence maculaire liée à l'âge et de cataracte, sans essai cité dans le résumé [B] (PMID 34034049). Le mécanisme précis de la protection cardiovasculaire n'est pas démêlé dans les résumés lus ; le fait que les essais sur la tension et la fonction vasculaire soient nuls (PMID 42587937) suggère que l'association observée ne passe pas par ces voies, ou qu'elle est en partie confondue [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Maladie cardiovasculaire | RR 0,89 (0,82-0,97), I² = 80 % (PMID 42587937) ; RR 0,93 (0,92-0,95) (PMID 34128951) | [B, cohortes] |\n| Mortalité toutes causes | par 100 g/j, environ -25 % (cardiopathie coronarienne et AVC aussi) selon une revue de 24 méta-analyses (PMID 34034049) ; salade/verts : RR 0,78 (PMID 30971126) | [B] |\n| Tension, fonction vasculaire (essais) | nul (PMID 42587937) | [B, ECR hétérogènes] |\n| Cognition | association positive dans 1 cohorte sur 2 de façon nette (PMID 38598978) | [B] |\n| Dégénérescence maculaire, cataracte (lutéine) | association inverse dans les méta-analyses résumées (PMID 34034049) | [B] |\n| Cancer (hors vessie et bouche) | non recherché [?] | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Dose** : environ 100 g/j dans les analyses dose-réponse (PMID 34034049). Quantité de « portion » dans les cohortes : non relevée [?].\n- **Composition (USDA FoodData Central, base SR Legacy, aliment cru, par 100 g, consulté le 2026-10-18)** : épinards : vitamine C 28,1 mg, vitamine K 483 µg, folates 194 µg, potassium 558 mg, fibres 2,2 g, 23 kcal (FDC 168462). Chou kale : vitamine C 93,4 mg, vitamine K 390 µg, folates 62 µg, fibres 4,1 g, 35 kcal (FDC 168421). Valeurs après cuisson, salades (laitue, mâche, roquette) : non relevées [?].\n- **Produits du commerce** : salades en sachet, jus verts, poudres de « super-légumes verts » : non évalués [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Aliment (frais, surgelé, conserve). Poudres vertes en compléments : statut et allégations non consultés [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Oxalate et calculs rénaux** : cohortes de 240 000 personnes, 4 605 calculs : le quintile d'oxalate le plus haut a un RR de 1,22 (1,03-1,45) chez les hommes, 1,21 (1,01-1,44) chez les femmes âgées ; ≥ 8 portions d'épinards par mois vs < 1 : RR 1,30 (1,08-1,58) chez les hommes, 1,34 (1,10-1,64) chez les femmes âgées ; pas d'association chez les jeunes femmes ; les épinards fournissent plus de 40 % de l'oxalate ; les auteurs concluent que l'oxalate alimentaire n'est pas un facteur de risque majeur [B, cohortes] (PMID 17538185). Si vous avez déjà eu un calcul d'oxalate de calcium, en parler à un néphrologue ; l'effet d'une réduction des épinards en prévention secondaire n'est pas dans le résumé lu [?].\n- **Antivitamine K (warfarine, acénocoumarol, fluindione)** : la vitamine K des verts à feuilles déplace l'INR ; la conduite est de garder une consommation régulière, pas de la supprimer ; voir [crucifères](fiche:cruciferes-brocoli-et-sulforaphane) (PMID 15121490).\n- **Contamination microbiologique** : la revue de 24 méta-analyses signale une prudence vis-à-vis des contaminations (*Escherichia coli*) des légumes à feuilles (PMID 34034049). Lavage et chaîne du froid : recommandations officielles non consultées [?].\n- **Nitrates** : voir [betterave et nitrates](fiche:betterave-et-nitrates).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Les épinards sont la meilleure source de fer »** : non évalué ici (biodisponibilité du fer non recherchée) ; l'oxalate des épinards est un facteur connu qui limite l'intérêt, mais aucune source lue ne chiffre l'absorption du fer [?].\n- **« Les légumes verts baissent la tension »** : les essais randomisés poolés ne montrent aucun effet sur la tension [B] (PMID 42587937).\n- **« Jus verts et poudres de verts = salade »** : aucune comparaison trouvée [?].\n\nVoir aussi : [crucifères](fiche:cruciferes-brocoli-et-sulforaphane) · [légumes : tier list](fiche:legumes-comparatif-et-tier-list) · [betterave et nitrates](fiche:betterave-et-nitrates) · [antioxydants alimentaires](fiche:antioxydants-alimentaires-et-absorption) · [vitamines : aliments et absorption](fiche:vitamines-aliments-et-absorption) · [alimentation : synthèse](fiche:alimentation).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 42587937 — Kaewpradup et al., *Foods* 2026 (légumes verts à feuilles et maladie cardiovasculaire). doi:10.3390/foods15152678\n- PMID 34128951 — Ojagbemi et al., *Cardiovasc J Afr* 2021 (légumes verts à feuilles et maladies cardiovasculaires). doi:10.5830/CVJA-2021-017\n- PMID 34034049 — Li et al., *Food Chem* 2021 (légumes verts à feuilles, lutéine, revue de méta-analyses). doi:10.1016/j.foodchem.2021.130145\n- PMID 33000670 — Zurbau et al., *J Am Heart Assoc* 2020 (sources de fruits et légumes, 81 cohortes). doi:10.1161/JAHA.120.017728\n- PMID 30971126 — Kwok et al., *Eur J Prev Cardiol* 2019 (composants alimentaires, revue de méta-analyses). doi:10.1177/2047487319843667\n- PMID 38598978 — Huang et al., *J Nutr Health Aging* 2024 (légumes, fruits et cognition).\n- PMID 17538185 — Taylor et Curhan, *J Am Soc Nephrol* 2007 (oxalate et calculs). doi:10.1681/ASN.2007020219\n- PMID 15121490 — Franco et al., *Am J Med* 2004 (vitamine K et anticoagulation). doi:10.1016/j.amjmed.2003.12.036\n- USDA FoodData Central, base SR Legacy, FDC 168462 et 168421 (consulté le 2026-10-18).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Légumes verts à feuilles (épinards, chou kale, salades)",
+ "type": "actif",
+ "unite": ""
+}

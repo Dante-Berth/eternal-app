@@ -1,0 +1,64 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "alimentation",
+ "id": "jeune-intermittent-et-restriction-calorique",
+ "intro": "",
+ "liens": [
+  "exercice-physique",
+  "glycemie-et-prediabete",
+  "semaglutide-et-glp1"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "41692034",
+  "40367516",
+  "37118425",
+  "42746281",
+  "41883415",
+  "41895150",
+  "41838032",
+  "41825741"
+ ],
+ "preuve_globale": "A",
+ "resume": "Perte de poids : le jeûne intermittent (JI) ne fait pas mieux qu'un conseil diététique classique ; contre « aucune intervention », il fait perdre environ 3,4 % du poids initial [A, Cochrane, certitude faible à modérée] (PMID 41692034).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Perte de poids** : le jeûne intermittent (JI) ne fait pas mieux qu'un conseil diététique classique ; contre « aucune intervention », il fait perdre environ 3,4 % du poids initial [A, Cochrane, certitude faible à modérée] (PMID 41692034).\n- **Ce qui compte, c'est le déficit énergétique**, pas l'horaire des repas [A, méta-analyse en réseau] (PMID 40367516).\n- **Longévité humaine** : aucune donnée de mortalité ou de durée de vie ; seuls des marqueurs de « vitesse de vieillissement » ont bougé, modestement, sous 25 % de restriction pendant 2 ans [B, ECR unique, analyse post hoc] (PMID 37118425). L'allongement de durée de vie est démontré chez l'animal, pas chez l'humain [C].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Non revérifié ici [?]. Les revues citées décrivent le JI comme une restriction énergétique déguisée.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Perte de poids (adultes en surpoids ou obèses)\n| Source | Résultat | Preuve |\n|---|---|---|\n| Cochrane, 22 études, 1 995 pers. | JI vs conseil diététique : écart de perte de poids −0,33 % (IC −0,92 à 0,26), pas de différence ; JI vs liste d'attente : −3,42 % (IC −4,95 à −1,90), certitude modérée ; effets indésirables : preuve très incertaine ; satisfaction, diabète, comorbidités non rapportés (PMID 41692034) | [A, certitude faible à modérée] |\n| Méta-analyse en réseau d'ECR | à restriction énergétique absolue comparable, JI et restriction continue donnent une perte comparable ; l'efficacité dépend de l'ampleur de la restriction, « quel que soit l'horaire » ; rebond après 12 semaines observé pour le JI mais pas pour la restriction continue (PMID 40367516) | [A] |\n| Revue systématique d'essais, JI | jeûne alterné et alimentation limitée à 8 h (16:8) : résultats les plus constants ; pas de différence significative avec la restriction continue (PMID 42746281) | [A, revue sans pooling dans le résumé] |\n| JI + exercice, méta-analyse multiniveau | amélioration de composition corporelle et de marqueurs lipidiques et glycémiques ; meilleur effet à 45-60 min/séance, 4 séances/sem (PMID 41883415) | [A, hétérogénéité non chiffrée dans le résumé] |\n\n### Restriction calorique (RC) et vieillissement : humain vs animal\n- Animal : allongement de la durée de vie dans plusieurs espèces (affirmé dans l'introduction de PMID 37118425) [C] ; les données chez les primates ne sont pas relues ici [?].\n- Humain, CALERIE (220 adultes sans obésité, RC visée 25 %, 2 ans) : ralentissement du rythme de vieillissement mesuré par DunedinPACE, sans changement significatif des horloges PhenoAge et GrimAge ; effets « petits » ; les auteurs réclament des essais avec critères durs (maladies, mortalité) [B, ECR unique, analyse post hoc] (PMID 37118425).\n- Même cohorte, âge biologique par organe : effet modéré, plus net pour métabolisme, cardiovasculaire, immunité, âge global ; plus la RC réellement atteinte est forte, plus l'effet est marqué [B, post hoc] (PMID 41895150).\n- La reprise de poids après perte importante annule une partie des bénéfices sur l'axe insuline-IGF-1 ; une perte modérée et durable est plus favorable [B, post hoc] (PMID 41838032).\n- Fer, anémie : 2 ans de RC sans malnutrition n'altèrent pas le statut en fer (prévalence d'anémie > 5 % dans les deux groupes) [B] (PMID 41825741).\n- Effets sur la masse musculaire et osseuse du senior : non extraits [?]. À mettre en regard de la sarcopénie : voir [exercice physique](fiche:exercice-physique).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « Le jeûne 16:8 est plus efficace que manger moins » : non, à déficit égal l'effet est comparable [A] (PMID 40367516).\n- « Le jeûne ralentit le vieillissement chez l'humain » : seulement des marqueurs de substitution, modestes, sous une restriction de 25 % difficile à tenir [B] (PMID 37118425).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Effets indésirables du JI : preuve très incertaine (RR 1,45 vs conseil, IC 0,64-3,28, 7 études) [A, très faible certitude] (PMID 41692034). Troubles du comportement alimentaire, grossesse, diabète traité, sujets âgés dénutris ou sarcopéniques : populations non couvertes par les résumés lus ; avis médical [?].\n\nVoir aussi : [sémaglutide et GLP-1](fiche:semaglutide-et-glp1).\n\nVoir aussi : [Glycémie et prédiabète](fiche:glycemie-et-prediabete).",
+   "titre": "Sécurité, populations à risque"
+  },
+  {
+   "markdown": "- PMID 41692034 — Garegnani L.I. et al., *Cochrane Database Syst Rev* 2026. doi:10.1002/14651858.CD015610.pub2\n- PMID 40367516 — Wu X. et al., *Nutr Rev* 2026. doi:10.1093/nutrit/nuaf056\n- PMID 42746281 — Manzoor et al., *Food Sci Nutr* 2026. doi:10.1002/fsn3.72264\n- PMID 41883415 — Jiao et al., *Front Nutr* 2026. doi:10.3389/fnut.2026.1772836\n- PMID 37118425 — Waziry R. et al., *Nat Aging* 2023. doi:10.1038/s43587-022-00357-y\n- PMID 41895150 — Li et al., *Clin Nutr* 2026. doi:10.1016/j.clnu.2026.106625\n- PMID 41838032 — Warmbrunn et al., *Diabetes Care* 2026. doi:10.2337/dc25-1911\n- PMID 41825741 — Dugan et al., *J Nutr* 2026. doi:10.1016/j.tjnut.2026.101474",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Jeûne intermittent et restriction calorique",
+ "type": "actif",
+ "unite": ""
+}

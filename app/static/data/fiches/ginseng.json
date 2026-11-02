@@ -1,0 +1,91 @@
+{
+ "cibles": [
+  "cerveau",
+  "hormones-sexualite"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "ginseng",
+ "intro": "",
+ "liens": [
+  "ashwagandha",
+  "bacopa",
+  "boosters-de-testosterone",
+  "declin-cognitif-et-neurodegenerescence",
+  "dysfonction-erectile",
+  "ginkgo",
+  "glycemie-et-prediabete",
+  "rhodiola",
+  "tadalafil"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 17,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "39474788",
+  "21154383",
+  "25265315",
+  "27074879",
+  "39387709",
+  "36730693",
+  "35776997",
+  "33871063",
+  "37465522",
+  "28725042",
+  "28707603",
+  "40923100",
+  "19913311",
+  "32379697",
+  "18637764",
+  "19719333",
+  "31493264"
+ ],
+ "preuve_globale": "A",
+ "resume": "Cognition : méta-analyse 2024 (15 ECR, 671 patients, populations très mélangées) : petit gain de mémoire (SMD 0,19 ; IC 0,02–0,36) mais rien sur la cognition globale, l'attention ni les fonctions exécutives [A, faible certitude] (PMID 39474788). La Cochrane (2010) concluait déjà à un « manque de…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Cognition** : méta-analyse 2024 (15 ECR, 671 patients, populations très mélangées) : petit gain de mémoire (SMD 0,19 ; IC 0,02–0,36) mais **rien sur la cognition globale, l'attention ni les fonctions exécutives** [A, faible certitude] (PMID 39474788). La Cochrane (2010) concluait déjà à un « manque de preuves convaincantes » chez le sujet sain [A] (PMID 21154383).\n- **Glycémie, tension** : glycémie à jeun −0,31 mmol/L sur 16 ECR (PMID 25265315) ; tension : méta-analyses contradictoires, de « neutre » (17 études) à −2,57 mmHg de PAS (45 études) ; effets petits [A, contradictoire] (PMID 27074879, 39387709).\n- **Fatigue** : tout dépend de la sous-analyse. 19 ECR : pas de baisse significative de la fatigue (SMD −0,36 ; −0,82 à 0,11) ; effet seulement dans certains sous-groupes (fatigue générale SMD −0,48), « tailles d'effet petites » [A, faible certitude] (PMID 36730693). Fatigue liée à une maladie : SMD 0,33 sur 12 ECR [A, faible certitude] (PMID 35776997).\n- **Érection** : Cochrane 2021, 9 ECR (587 hommes) : effet « trivial » (IIEF-15 domaine érectile +3,52 points, pour une différence cliniquement importante estimée à 4), certitude faible ; aucune comparaison avec les inhibiteurs de la PDE5 [A, faible certitude] (PMID 33871063).\n- **Qualité de la preuve globale** : sur 19 méta-analyses d'une revue parapluie, 14 sont de qualité « critiquement basse » [A, qualité critiquement basse] (PMID 37465522).\n- **Sécurité** : troubles digestifs, risque possible de saignement ; interactions avec la warfarine non tranchées (données humaines sans différence significative sur 2 petits essais).\n- **France** : racine, feuille et fruit de *Panax ginseng* figurent à l'annexe I de l'arrêté plantes (complément autorisé).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Les ginsénosides sont les composés d'intérêt ; mécanisme chez l'humain à dose orale : [?] non établi par les sources lues. Chez le rat, les ginsénosides augmentent l'activité des CYP3A4 et 2C9 et réduisent l'anticoagulation de la warfarine [C] (PMID 28725042). « Adaptogène » est un terme marketing sans définition pharmacologique [M].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Mémoire, cognition (adultes sains, MCI, Alzheimer, schizophrénie mélangés) | 15 ECR, 671 patients : mémoire SMD 0,19 (0,02–0,36), 0,33 (0,04–0,61) à haute dose ; cognition globale SMD 0,06 (−0,64 à 0,77) ; attention 0,06 (−0,12 à 0,23) ; fonctions exécutives −0,03 (−0,28 à 0,21) (PMID 39474788) | [A, faible certitude] |\n| Cognition du sujet sain, Cochrane | 9 ECR en double aveugle contre placebo, 5 analysables ; hétérogénéité empêchant le regroupement ; « manque de preuves convaincantes » (PMID 21154383) | [A, regroupement impossible] |\n| Fatigue (tous types) | 19 ECR : SMD −0,36 (−0,82 à 0,11), non significatif ; sous-groupes : formule à base de ginseng −0,39 (−0,66 à −0,13), fatigue chronique −0,30 (−0,56 à −0,03), fatigue générale −0,48 (−0,71 à −0,25) ; effets « petits » (PMID 36730693) | [A, faible certitude] |\n| Fatigue liée à une maladie | 12 ECR, 1 298 patients : SMD 0,33 (0,22–0,44) en effets fixes (PMID 35776997) | [A, faible certitude] |\n| Dysfonction érectile légère à modérée | 9 ECR, 587 hommes, ≤ 12 semaines : IIEF-15 EF +3,52 (1,79–5,25) ; IIEF-5 +2,39 (0,89–3,88) ; « capacité à avoir un rapport » RR 2,55 (1,76–3,69) ; événements indésirables RR 1,45 (0,69–3,03) ; effet « trivial » sur la fonction érectile (PMID 33871063) | [A, faible certitude] |\n| Autres bénéfices (fatigue, fonction sexuelle, ménopause, marqueurs métaboliques) | revue parapluie : 19 méta-analyses, 14 de qualité « critiquement basse » ; effets bénéfiques rapportés mais à confirmer (PMID 37465522) | [A, qualité critiquement basse] |\n| Glycémie à jeun | 16 ECR ≥ 30 jours (n=770 pour la glycémie), 67 % de moins de 12 semaines, participants à glycémie plutôt bien contrôlée : glycémie à jeun −0,31 mmol/L (−0,59 à −0,03) ; pas d'effet significatif sur l'insuline, l'HbA1c ni l'HOMA (PMID 25265315) | [A, faible certitude] |\n| Pression artérielle | 17 études (n=1 381), ≥ 4 semaines : aucun effet significatif sur la PAS, la PAD ni la PAM, « effets vasculaires neutres » (PMID 27074879) ; 9 ECR chez des (pré)hypertendus : ginseng rouge coréen −2,92 mmHg (PAS) et −3,19 (PAD) à long terme, sur 183 patients, 2 petits essais (PMID 28707603) ; 45 études : PAS −2,57 mmHg (−4,99 à −0,14), forte hétérogénéité (PMID 39387709) ; 70 études (n=4 506), 2025 : pas d'effet sur la PA ni le profil glycémique (PMID 40923100) | [A, contradictoire] |\n| Marqueurs cardiovasculaires et inflammatoires | 45 études : LDL −2,81 mg/dL, CRP −0,41 mg/L, IL-6 −2,82 pg/mL (PMID 39387709) ; 70 études : CRP ultrasensible SMD −0,23, GGT −0,20 (PMID 40923100) ; effets biochimiques, non cliniques | [A, faible certitude] |\n| Immunité | [?] recherchée (« ginseng immunité méta-analyse ») : non lue au-delà de la revue parapluie (PMID 37465522) | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Monographie EMA/HMPC (révision 1, adoptée le 29 mai 2024, consultée le 2026-10-14)** : usage traditionnel pour l'asthénie (fatigue, faiblesse), adultes, jusqu'à 3 mois, avis médical si les symptômes durent plus de 2 semaines ; extraits secs 40–200 mg/j (extrait à 4 % de ginsénosides) à 200–670 mg/j selon l'extrait, poudre 600–2 000 mg/j, ginseng rouge en poudre 1 200–1 800 mg/j, extrait sec de ginseng rouge 360–500 mg/j.\n- **Étudié** : les extraits sont hétérogènes (racine entière, ginseng rouge coréen, formules à base de ginseng) ; la méta-analyse cognitive trouve un effet de mémoire plus net à haute dose sans fixer de seuil dans le résumé (PMID 39474788). Un essai de warfarine utilise 1 g/j de ginseng rouge coréen (PMID 19913311).\n- **Vendu** : teneur en ginsénosides variable selon les produits ; teneurs du marché français : [?] non relevées (aucun produit dans le dépôt ; marques non retenues comme preuve).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Gélules, ampoules, extraits, racines séchées, boissons.\n- **France** : *Panax ginseng* C.A.Mey. (racine, feuille, fruit) figure à l'annexe I de l'arrêté du 24 juin 2014, comme *Panax quinquefolius* L. dans la version consolidée 2016 (non reconfirmé en 2026) (annexe I relue sur Légifrance, texte « en vigueur au 14 octobre 2026 » sans texte modificatif listé, consulté le 2026-10-14).\n- **Médicament à base de plantes** : l'EMA a adopté une monographie communautaire d'usage traditionnel (voir ci-dessus). Dans la BDPM, aucune spécialité à base de ginseng hors préparations homéopathiques (« GINSENG pour préparations homéopathiques »), donc pas de médicament traditionnel à base de ginseng autorisé en France d'après la base de composition (consultée le 2026-10-14).\n- **Allégations de santé UE** : aucune allégation ginseng dans l'édition 2013 du registre UE relue ; édition en ligne actuelle : [?] inaccessible depuis cet environnement.\n- **AMA** : non nommé dans la Liste des interdictions 2026 (recherche par nom, fichier du 2026-10-13).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- La revue parapluie cite des symptômes digestifs et un risque de saignement potentiel, sans événement grave rapporté (PMID 37465522) [A, qualité critiquement basse].\n- **Foie** : 14 ECR, 992 sujets, pas de changement de l'ALAT, ASAT, GGT ni des phosphatases alcalines ; légère hausse de la bilirubine, surtout à ≥ 3 g/j ou chez les personnes malades ; données applicables aux foies sains [A] (PMID 32379697).\n- **Warfarine** : deux petits essais chez des patients (n=25 chacun) ne montrent pas de différence d'INR avec le ginseng (PMID 18637764, 19913311) ; l'étude chez le rat montre un antagonisme de la warfarine avec des ginsénosides purifiés [C] (PMID 28725042). Prudence et suivi de l'INR si association, avis médical [B, ECR petits].\n- **Monographie EMA/HMPC (2024)** : « aucune interaction rapportée » ; effets indésirables de fréquence inconnue : troubles digestifs (gêne gastrique, nausées, vomissements, diarrhée, constipation), hypersensibilité (urticaire, prurit), insomnie ; grossesse et allaitement : sécurité non établie, usage non recommandé ; enfants et adolescents de moins de 18 ans : non recommandé ; aucune donnée de fertilité.\n- **Interactions, revues** : revue systématique de 2009 (case reports et essais) : le ginseng « pourrait interagir » avec la phénelzine (IMAO) et la warfarine (PMID 19719333) ; revue de 2019 : 0,5 à 3 g/j de ginseng rouge coréen n'entraînent pas d'interaction significative avec les enzymes du métabolisme ni les transporteurs, mais l'évaluation chez les diabétiques et avec les antiplaquettaires/anticoagulants dépend de l'origine et de la teneur en ginsénosides, peu documentées (PMID 31493264). Antidépresseurs autres que la phénelzine, immunosuppresseurs : [?] aucune étude trouvée. Le ginseng abaissant la glycémie à jeun de 0,31 mmol/L en moyenne (PMID 25265315), une surveillance chez les personnes sous antidiabétiques est un raisonnement par le mécanisme, non démontré cliniquement [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Aucune fiche produit.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Booster de cerveau »** : cognition globale, attention et exécutif sans effet dans la méta-analyse (PMID 39474788) [A, faible certitude].\n- **« Anti-fatigue prouvé »** : le critère principal global est non significatif (PMID 36730693) [A, faible certitude].\n- **« Aphrodisiaque naturel, alternative au Viagra »** : effet trivial sur la fonction érectile et aucune comparaison avec les inhibiteurs de la PDE5 (PMID 33871063) [A, faible certitude]. Voir [tadalafil](fiche:tadalafil) et [dysfonction érectile](fiche:dysfonction-erectile).\n- **« 19 méta-analyses favorables »** : 14 sont de qualité critiquement basse (PMID 37465522).\n\nÀ voir aussi : [Déclin cognitif et neurodégénérescence](fiche:declin-cognitif-et-neurodegenerescence) · [ashwagandha](fiche:ashwagandha) · [rhodiola](fiche:rhodiola) · [ginkgo](fiche:ginkgo) · [bacopa](fiche:bacopa) · [boosters de testostérone](fiche:boosters-de-testosterone) · [Glycémie et prédiabète](fiche:glycemie-et-prediabete).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 39474788 — Zeng M et al., *Phytother Res* 2024. doi:10.1002/ptr.8359 (résumé relu).\n- PMID 21154383 — Geng J et al., *Cochrane Database Syst Rev* 2010. doi:10.1002/14651858.CD007769.pub2 (résumé relu).\n- PMID 36730693 — Li X et al., *J Integr Complement Med* 2023. doi:10.1089/jicm.2022.0532 (résumé relu).\n- PMID 35776997 — Zhu J et al., *Medicine (Baltimore)* 2022. doi:10.1097/MD.0000000000029767 (résumé relu).\n- PMID 33871063 — Lee HW et al., *Cochrane Database Syst Rev* 2021. doi:10.1002/14651858.CD012654.pub2 (résumé relu).\n- PMID 37465522 — Li Z et al., *Front Pharmacol* 2023. doi:10.3389/fphar.2023.1069268 (résumé relu).\n- PMID 32379697 — Ghavami A et al., *Complement Ther Clin Pract* 2020. doi:10.1016/j.ctcp.2020.101173 (résumé relu).\n- PMID 18637764 — Lee SH et al., *J Altern Complement Med* 2008. doi:10.1089/acm.2007.0799 (résumé relu).\n- PMID 19913311 — Lee YH et al., *Int J Cardiol* 2010. doi:10.1016/j.ijcard.2009.09.553 (résumé relu).\n- PMID 25265315 — Shishtar E et al., *PLoS One* 2014. doi:10.1371/journal.pone.0107391 (résumé relu).\n- PMID 27074879 — Komishon AM et al., *J Hum Hypertens* 2016. doi:10.1038/jhh.2016.18 (résumé relu).\n- PMID 28707603 — Lee HW et al., *Curr Vasc Pharmacol* 2017. doi:10.2174/1570161115666170713092701 (résumé relu).\n- PMID 39387709 — Zhang XF et al., *Phytother Res* 2024. doi:10.1002/ptr.8339 (résumé relu).\n- PMID 40923100 — Jafari A et al., *Br J Nutr* 2025. doi:10.1017/S0007114525103607 (résumé relu).\n- PMID 19719333 — Izzo AA, Ernst E, *Drugs* 2009. doi:10.2165/11317010-000000000-00000 (résumé relu).\n- PMID 31493264 — Choi MK, Song IS, *Arch Pharm Res* 2019. doi:10.1007/s12272-019-01184-3 (résumé relu).\n- PMID 28725042 — Dong H et al., *Sci Rep* 2017. doi:10.1038/s41598-017-05825-9 (résumé relu, rat).\n- Arrêté du 24 juin 2014 établissant la liste des plantes, autres que les champignons, autorisées dans les compléments alimentaires, annexe I (NOR ERNC1406332A), Légifrance, legifrance.gouv.fr/loda/id/JORFTEXT000029254516, texte affiché « en vigueur au 14 octobre 2026 » sans texte modificatif listé ; entrée Panax ginseng ; Panax quinquefolius non reconfirmé en 2026 (présent dans la version consolidée 2016) relue par nom de plante, consulté le 2026-10-14.\n- EMA, HMPC, European Union herbal monograph on Panax ginseng C.A.Mey., radix, révision 1 (EMA/HMPC/27744/2023), adoptée le 29 mai 2024, ema.europa.eu/en/medicines/herbal/ginseng-radix, consultée le 2026-10-14.\n- BDPM, fichier de composition des spécialités (CIS_COMPO_bdpm.txt, base-donnees-publique.medicaments.gouv.fr/download/file/CIS_COMPO_bdpm.txt), recherche par nom de substance (ginseng), consulté le 2026-10-14.\n- Registre de l'UE des allégations nutritionnelles et de santé, édition générée le 14/02/2013 (fichier du 2026-10-13, relu le 2026-10-14) : aucune entrée « ginseng ».\n- Liste des interdictions AMA 2026, recherche par nom, fichier du 2026-10-13.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Ginseng (Panax ginseng)",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,88 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "depistage-cancer-col-uterus",
+ "intro": "",
+ "liens": [
+  "depistage-cancer-colorectal",
+  "depistage-cancer-sein",
+  "tabac-et-alcool"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "24192252",
+  "35709810",
+  "29740819",
+  "24302411",
+  "32997908",
+  "41740992",
+  "27469988",
+  "28125861",
+  "41803020"
+ ],
+ "preuve_globale": "A",
+ "resume": "Programme national français depuis mai 2018 (25-65 ans) : cytologie tous les 3 ans de 25 à 29 ans (après 2 tests normaux à 1 an d'intervalle), test HPV-HR tous les 5 ans de 30 à 65 ans, remboursé à 100 % dans le cadre organisé (HAS, 6 juillet 2020, consultée le 2026-10-15).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Programme national français depuis mai 2018 (25-65 ans) : cytologie tous les 3 ans de 25 à 29 ans (après 2 tests normaux à 1 an d'intervalle), test HPV-HR tous les 5 ans de 30 à 65 ans, remboursé à 100 % dans le cadre organisé (HAS, 6 juillet 2020, consultée le 2026-10-15).\n- Le dépistage par test HPV protège davantage que la cytologie : rapport de taux de cancer invasif 0,60 (IC 95 % 0,40-0,89) sur 4 essais européens (176 464 femmes, suivi médian 6,5 ans) ; 0,30 (0,15-0,60) chez les femmes négatives à l'inclusion [A].\n- Le test HPV détecte plus de CIN2+ et CIN3+ que la cytologie ; sa spécificité est comparable à celle de la cytologie à partir de 30 ans, moindre avant [A].\n- Vaccin HPV : protection élevée contre les lésions précancéreuses si vaccination avant l'exposition (Cochrane : CIN2+ associées à HPV16/18 de 164 à 2 pour 10 000, RR 0,01) [A] ; cohorte suédoise : cancer invasif IRR 0,12 (0,00-0,34) avant 17 ans [B].\n- La vaccination ne remplace pas le dépistage.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Presque tous les cancers du col viennent d'une infection persistante par un HPV à haut risque (HPV16 et 18 : environ 70 % des cancers, d'après la Cochrane). Le test HPV cherche le virus, la cytologie cherche les cellules anormales. Le virus est détecté des années avant la lésion, d'où l'intervalle de 5 ans possible après un test négatif. Avant 30 ans, les infections transitoires sont très fréquentes ; un test HPV sur-détecterait des infections qui disparaissent seules, ce qui explique le choix de la cytologie.",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "Tableau des stratégies de dépistage et de prévention.\n\n| Méthode | Ce qui est prouvé | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Test HPV-HR (ADN) 30-65 ans | Cancer invasif : rapport de taux 0,60 (0,40-0,89) contre cytologie (PMID 24192252) | [A] | Programme organisé, 100 % | non applicable |\n| Test HPV mRNA (APTIMA) | Sensibilité relative CIN2+ 0,98 (0,95-1,01) et spécificité 1,03 (1,02-1,04) par rapport aux tests ADN (PMID 35709810) | [A] | Non vérifié | non applicable |\n| Auto-prélèvement HPV | Sensibilité relative CIN2+ de l'APTIMA sur auto-prélèvement 0,84 (0,74-0,96) vs prélèvement médecin (PMID 35709810) ; autres tests non recherchés | [A] | Non vérifié [?] | non applicable |\n| Cytologie 25-29 ans | Maintenue par la HAS ; efficacité spécifique à cet âge non recherchée ici | [?] | Programme organisé | non applicable |\n| Vaccination HPV | CIN2+ liées à HPV16/18 : RR 0,01 chez les négatives à l'inclusion, 15-26 ans (PMID 29740819) | [A] | Recommandée (HAS) | non applicable |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- **25-29 ans** : cytologie ; deux premiers frottis à 1 an d'intervalle, puis tous les 3 ans si normaux (HAS 2020).\n- **30-65 ans** : test HPV-HR 3 ans après la dernière cytologie normale, puis tous les 5 ans si négatif (HAS 2020).\n- **Test positif ou frottis anormal** : cytologie de triage, colposcopie selon résultat ; la conduite relève du gynécologue.\n- **Immunodépression, antécédent de lésion traitée** : calendrier renforcé, source secondaire seulement [?].\n- **Vaccination** : recommandée en France entre 11 et 14 ans révolus pour filles et garçons, rattrapage de 15 à 19 ans, et jusqu'à 26 ans pour les hommes ayant des rapports avec des hommes ; en mai 2025, la HAS recommande d'étendre le rattrapage à tous les jeunes adultes jusqu'à 26 ans, non intégré au calendrier à la date de son communiqué (HAS, communiqué du 13 mai 2025, consulté le 2026-10-15).",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "### Test HPV contre cytologie\n- Ronco 2014 (4 ECR : Suède, Pays-Bas, Angleterre, Italie ; 107 cancers invasifs) : rapport de taux 0,60 (0,40-0,89) ; 0,79 (0,46-1,36) pendant les 2,5 premières années, 0,45 (0,25-0,81) ensuite ; adénocarcinome 0,31 (0,14-0,69), carcinome épidermoïde 0,78 (0,49-1,25). Taux cumulé chez les négatives à l'entrée : 8,7 pour 100 000 à 5,5 ans (test HPV) contre 36,0 (cytologie). Les auteurs soutiennent un début à 30 ans et un intervalle d'au moins 5 ans (PMID 24192252) [A].\n- Méta-analyse de 8 ECR (2014) : détection de CIN2+ et CIN3+ plus élevée avec le test HPV ; spécificité en faveur de la cytologie tous âges confondus, similaire à partir de 30 ans (PMID 24302411) [A].\n- Le test mRNA APTIMA est aussi sensible (0,98) et un peu plus spécifique que les tests ADN ; le suivi à 4-7 ans donne des résultats hétérogènes (PMID 35709810) [A]. Parmi les financeurs de cette revue figure la HAS ; l'une des autrices travaille à la HAS.\n\n### Vaccination\n- Cochrane 2018 (26 ECR, 73 428 participantes ; presque tous financés par les fabricants, durée de suivi trop courte pour le cancer invasif) : chez les négatives à l'inclusion, CIN3+ de 70 à 0 pour 10 000 (RR 0,01, 0,00-0,10, certitude élevée) ; toutes lésions confondues, quel que soit le statut HPV, CIN2+ de 559 à 391 pour 10 000 (RR 0,70, 0,58-0,85). Chez les femmes de 24 à 45 ans, pas de différence nette (CIN2+ toutes causes RR 1,04, 0,83-1,30) [A].\n- Cancer invasif (registres suédois, 1 672 983 personnes de 10 à 30 ans) : IRR ajusté sur tous les facteurs : 0,37 (0,21-0,57) ; vaccinées avant 17 ans 0,12 (0,00-0,34) ; entre 17 et 30 ans 0,47 (0,27-0,75) (PMID 32997908) [B]. Suivi prolongé (926 362 femmes, jusqu'à 18 ans) : avant 17 ans IRR 0,21 (0,13-0,32), protection maintenue 13-15 ans après (0,23, 0,11-0,46) ; à 17 ans ou plus 0,63 (0,49-0,81) (PMID 41740992) [B]. Observationnel : ajustement imparfait possible.\n\n### Risques et surdiagnostic\n- Le dépistage détecte des lésions CIN qui régresseraient parfois d'elles-mêmes ; le traitement local peut augmenter la prématurité : naissance avant 37 semaines 10,7 % contre 5,4 %, RR 1,78 (1,60-1,98) après traitement ; conisation à froid RR 2,70 (2,14-3,40), anse diathermique 1,56 (1,36-1,79) (méta-analyse de 71 études, PMID 27469988) [B, observationnel]. La part de ces traitements évitables par le dépistage n'est pas chiffrée ici [?].\n- Cochrane 2017 : pour des anomalies mineures, la colposcopie immédiate détecte plus de lésions sans importance clinique (CIN1 RR 2,58, 1,69-3,94) que la surveillance par frottis ; au bout de 24 mois, pas de différence de CIN2+ (RR 1,14, 0,66-1,97) (PMID 28125861) [A, qualité faible à modérée].\n- Vaccin, sécurité : événements indésirables graves 669 contre 656 pour 10 000 (RR 0,98, 0,92-1,05, certitude élevée) ; mortalité 11 contre 14 pour 10 000 (RR 1,29, 0,85-1,98, certitude faible, sans schéma identifiable) ; pas de sur-risque de fausse couche (PMID 29740819) [A].",
+   "titre": "Ce que montrent les essais : bénéfice absolu, limites, risques"
+  },
+  {
+   "markdown": "Audit suédois (5 689 cancers invasifs 2012-2022) : l'absence de participation reste le premier facteur de risque (31 % des cas en 2022, incidence 33,9 pour 100 000 personnes-années chez les non-participantes) ; incidence après cytologie négative en hausse (5,5 en 2012, 11,5 en 2022) et élevée après HPV positif avec cytologie de triage négative (PMID 41803020) [B].",
+   "titre": "Les cancers malgré le dépistage"
+  },
+  {
+   "markdown": "- Se croire protégée à vie après le vaccin : il ne couvre pas tous les types oncogènes et le dépistage reste recommandé (programme HAS).\n- Ne pas se faire dépister après la ménopause : le programme court jusqu'à 65 ans.\n- Faire un test HPV avant 30 ans en dehors du programme, avec sur-détection d'infections transitoires (raisonnement de la HAS, effets non chiffrés ici [?]).\n- Ignorer un frottis anormal ou une convocation de suivi.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Le vaccin est inutile après les premiers rapports » : l'effet est plus faible chez les femmes plus âgées (CIN2+ liées à HPV16/18 chez les négatives au HPV16/18 : RR 0,30 à 24 ans ou plus contre 0,05 avant 26 ans) et, vaccinées à 24-45 ans, pas de différence nette sur les CIN2+ toutes causes (RR 1,04, 0,83-1,30) (PMID 29740819) [A].\n- « Le vaccin donne des effets graves fréquents » : événements graves comparables au placebo (RR 0,98) dans les essais ; la surveillance post-commercialisation n'a pas été relue ici [?].\n- « Un test HPV positif = cancer » : l'infection est transitoire dans la majorité des cas ; environ 10 % persistent (HAS 2020) ; le test ne dit rien sur la lésion.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Le test HPV ne protège de façon claire qu'après 2,5 ans de suivi : rapport 0,79 (non significatif) avant, 0,45 après (PMID 24192252) [A].\n- La protection contre l'adénocarcinome (0,31) est meilleure que contre le carcinome épidermoïde (0,78, non significatif) (PMID 24192252) [A].\n- Le vaccin Cochrane n'a pas été testé sur le cancer invasif, seulement sur les précurseurs (PMID 29740819) [A].",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Saignements entre les règles, après les rapports ou après la ménopause ; pertes anormales persistantes ; douleurs pelviennes ; frottis ou test HPV anormal ; jamais dépistée depuis plus de 3 ans (cytologie) ou 5 ans (test HPV).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- Programme national de dépistage organisé du cancer du col depuis mai 2018, 25-65 ans, test HPV-HR dès 30 ans, remboursé à 100 % dans ce cadre (HAS, actualité du 6 juillet 2020, consultée le 2026-10-15 ; Santé publique France, page consultée le 2026-10-15).\n- Vaccination : calendrier HAS décrit plus haut (HAS, communiqué du 13 mai 2025, consulté le 2026-10-15). Remboursement et état du calendrier vaccinal actuel : non vérifiés auprès du ministère ou d'ameli.\n- Pas de statut AMA applicable.",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- PMID 24192252 — Ronco G et al., *Lancet* 2014. doi:10.1016/S0140-6736(13)62218-7\n- PMID 24302411 — Pileggi C et al., *Int J Cancer* 2014. doi:10.1002/ijc.28640\n- PMID 35709810 — Arbyn M et al., *Lancet Oncol* 2022. doi:10.1016/S1470-2045(22)00294-7\n- PMID 28125861 — Kyrgiou M et al., *Cochrane Database Syst Rev* 2017, CD009836. doi:10.1002/14651858.CD009836.pub2\n- PMID 27469988 — Kyrgiou M et al., *BMJ* 2016. doi:10.1136/bmj.i3633\n- PMID 29740819 — Arbyn M et al., *Cochrane Database Syst Rev* 2018, CD009069. doi:10.1002/14651858.CD009069.pub3\n- PMID 32997908 — Lei J et al., *N Engl J Med* 2020. doi:10.1056/NEJMoa1917338\n- PMID 41740992 — Wu et al., *BMJ* 2026. doi:10.1136/bmj-2025-087326\n- PMID 41803020 — Kärrberg et al., *Int J Cancer* 2026. doi:10.1002/ijc.70415\n- Web, consulté le 2026-10-15 : HAS (actualité du 6 juillet 2020, test HPV-HR) ; HAS (communiqué du 13 mai 2025, vaccination HPV) ; Santé publique France.\n\nVoir aussi : [dépistage du cancer du sein](fiche:depistage-cancer-sein), [dépistage colorectal](fiche:depistage-cancer-colorectal), [tabac et alcool](fiche:tabac-et-alcool).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Dépistage du cancer du col de l'utérus et vaccination HPV",
+ "type": "condition",
+ "unite": ""
+}

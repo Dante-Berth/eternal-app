@@ -1,0 +1,70 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "cosmetique",
+ "id": "nivea-sun-protect-hydrate-spf50",
+ "intro": "",
+ "liens": [
+  "avene-intense-protect-spf50",
+  "protection-solaire"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "23732711",
+  "34698024",
+  "17493070",
+  "20644036"
+ ],
+ "preuve_globale": "B",
+ "resume": "Un SPF 50+ de supermarché à environ 13 € les 200 ml, avec cinq filtres modernes : bon rapport preuve/prix pour une application généreuse, mais le spray rend la quantité réellement appliquée difficile à contrôler.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Un SPF 50+ de supermarché à environ 13 € les 200 ml, avec cinq filtres modernes : bon rapport preuve/prix pour une application généreuse, mais le spray rend la quantité réellement appliquée difficile à contrôler.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- Filtres relevés sur la page Auchan : butyl methoxydibenzoylmethane (avobenzone), ethylhexyl triazone, bis-ethylhexyloxyphenol methoxyphenyl triazine, phenylbenzimidazole sulfonic acid, diethylamino hydroxybenzoyl hexyl benzoate ; vitamine E (Auchan, consulté le 2026-10-06). **Concentrations non déclarées** [?].\n- INCI complet : relevé uniquement via des agrégateurs (incidecoder) sur des déclinaisons Nivea Protect & Hydrate/Moisture dont la liste varie ; il comporte de l'alcool dénaturé, du parfum et des allergènes (linalol, citronellol) selon ces listes [?]. Non relu sur la page marque.\n- Écran large spectre quotidien : vieillissement cutané −24 % sur 4,5 ans [B, ECR unique n=903] (PMID 23732711) ; revue : bénéfice sur kératoses actiniques et carcinome épidermoïde, preuves limitées [A, faible certitude] (PMID 34698024). Aucun essai sur ce produit [?].",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Cosmétique (règlement (CE) n° 1223/2009) ; SPF 50+ = « très haute protection » (Recommandation 2006/647/CE, EUR-Lex, consulté le 2026-10-03, voir [protection solaire](fiche:protection-solaire)). Statut des filtres dans CosIng non revérifié ce jour [?]. AMA : sans objet.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- « Protection immédiate UVA/UVB, hydratation 48 h, résistant à l'eau » (Auchan) : protection cohérente avec le SPF 50+ ; « hydratation 48 h » et résistance à l'eau : tests du fabricant non publiés [M].\n- À 0,5 mg/cm² au lieu de 2 mg/cm² étiquetés, le SPF chute à sa racine quatrième [B, n=20, SPF 4 testé] (PMID 17493070) : un spray appliqué en passage rapide expose à cette sous-dose.",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Le matin sur visage et cou, quantité généreuse ; pour un spray, pulvériser puis étaler jusqu'à film couvrant, pas sur le visage directement (inhalation) [?] ; renouveler en cas d'exposition.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "Irritation possible, aussi avec l'excipient [A, faible certitude] (PMID 34698024). Allergie : cette gamme ne semble pas contenir d'octocrylène d'après la liste de filtres Auchan ; l'octocrylène est un photoallergène émergent [B] (PMID 20644036). Contient du parfum d'après les agrégateurs [?] : à éviter en cas d'allergie aux parfums.",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- Prix relevés (200 ml) : 12,89 € (Carrefour) à 18,19 € (Newpharma) (relevés du 2026-10-06, via recherche web, non revérifiés sur page). À environ 30 ml/mois pour le visage et le cou (estimation de la fiche [protection solaire](fiche:protection-solaire)), un flacon dure ≈ 6-7 mois → **2 à 3 €/mois**.\n- Alternative à preuve équivalente et prix proche : [Avène Intense Protect 50+](fiche:avene-intense-protect-spf50) (2,6-3,6 €/mois, sans octocrylène, sans parfum).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Note moyenne 3,8/5 sur 5 avis (Auchan) : trop peu d'avis pour conclure [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 23732711 — Hughes M.C. et al., *Ann Intern Med* 2013. doi:10.7326/0003-4819-158-11-201306040-00002\n- PMID 34698024 — Rönsch H., Bauer A., *Curr Probl Dermatol* 2021. doi:10.1159/000517641\n- PMID 17493070 — Faurschou A., Wulf H.C., *Br J Dermatol* 2007. doi:10.1111/j.1365-2133.2006.07684.x\n- PMID 20644036 — Avenel-Audran M. et al., *Arch Dermatol* 2010. doi:10.1001/archdermatol.2010.132\n- [Auchan, Nivea Sun Protect & Hydrate spray](https://www.auchan.fr/nivea-sun-protect-hydrate-spray-protection-48h-fps50/pr-C1619711), consulté le 2026-10-06.\n- Prix : Carrefour, Newpharma, relevés le 2026-10-06 (via recherche web).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "Nivea Sun Protect & Hydrate SPF 50+ (spray, 200 ml)",
+ "type": "produit",
+ "unite": ""
+}

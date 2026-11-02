@@ -1,0 +1,75 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "matcha-bio-ceremonial-aromandise",
+ "intro": "",
+ "liens": [
+  "cafeine",
+  "extrait-the-vert-egcg-now-foods",
+  "l-theanine",
+  "l-theanine-200mg-nutriforce",
+  "the-et-sante"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "36582446",
+  "39275223",
+  "33744591",
+  "39213264",
+  "28056735"
+ ],
+ "preuve_globale": "B",
+ "resume": "Matcha bio d'Uji à prix correct (19,90 € les 30 g, ≈ 663 €/kg), mais l'étiquette ne donne aucune teneur en caféine, théanine ou EGCG : les effets mesurés en essai (légère amélioration de l'attention, [B]) viennent de matchas d'autres marques, et le produit reste une boisson de plaisir à ~35 €/moi…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Matcha bio d'Uji à prix correct (19,90 € les 30 g, ≈ 663 €/kg), mais l'étiquette ne donne aucune teneur en caféine, théanine ou EGCG : les effets mesurés en essai (légère amélioration de l'attention, [B]) viennent de matchas d'autres marques, et le produit reste une boisson de plaisir à ~35 €/mois, pas un complément dosé.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur déclarée | Preuve |\n|---|---|---|\n| Matcha (thé vert en poudre, bio) | 100 % ; 1 cuillère à café rase ≈ 1,74 g par tasse ; max conseillé 2,5 g/j (marque) | Revue critique : les ECR montrent moins de stress et légère hausse de l'attention/mémoire, résultats contradictoires, conclusions non tirables [B] (PMID 36582446) |\n| Caféine | non déclarée [?] | Dans un matcha d'essai : 71,5 mg pour 2,7 g (≈ 26 mg/g) ; sur 1,74 g, ordre de grandeur ≈ 46 mg, extrapolation non vérifiée sur ce produit [?] |\n| L-théanine | non déclarée ; la marque la dit « riche » [M] | 50,3 mg pour 2,7 g dans l'essai (PMID 39275223), donc très en dessous des 100-400 mg testés pour la théanine isolée, voir [L-théanine](fiche:l-theanine) |\n| Catéchines (EGCG) | non déclarées [?] | 301,4 mg catéchines pour 2,7 g dans l'essai (PMID 39275223) |\n\nComposition, origine (Uji, Japon ; famille Nagata ; cultivars Yabukita, Saemidori, Okumidori ; récolte de printemps) : aromandise.com, consulté le 2026-10-06. Aucune analyse indépendante de ce lot (métaux lourds, caféine) trouvée [?].",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Aliment (thé), non complément alimentaire. Label AB (certification déclarée par la marque ; non vérifiée sur l'annuaire de l'Agence Bio) [?]. Pas d'allégation de santé autorisée UE pour le matcha ; formulations de la marque (« stimulant, aide à résister à la fatigue physique et mentale ») à lire comme marketing [M]. Non concerné par l'AMA (caféine hors liste d'interdiction, surveillance seulement) : non revérifié sur la liste 2026 [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque dit | Les études |\n|---|---|\n| « Résiste à la fatigue physique et mentale » | Matcha 2 g/j 2 semaines : temps de réaction Stroop plus court après stress léger, n=42 [B, ECR unique] (PMID 33744591). Matcha 2 g/j 12 mois chez 99 seniors : critères principaux (MoCA, ADCS-ADL) sans changement [B, ECR unique n=99] (PMID 39213264) |\n| « Riche en L-théanine » | ≈ 50 mg pour 2,7 g de matcha, soit ~19 mg/g (PMID 39275223) ; une tasse n'apporte qu'une fraction de la dose de 200 mg de la théanine isolée [B] |\n| Sommeil / humeur (implicite) | 2,7 g/j 4 semaines : EEG du sommeil inchangé ; signal subjectif (p < 0,1) seulement [B, ECR unique] (PMID 39275223) |\n\nLes essais cités sont en partie financés ou co-signés par ITO EN (fabricant de thé) : conflit d'intérêts à garder en tête. [A] impossible : aucune méta-analyse du matcha trouvée ; une revue narrative de 2017 sur 49 études (caféine, théanine, EGCG pris séparément) conclut à des effets de la caféine et de la théanine+caféine sur l'attention, et à aucune preuve concluante pour l'EGCG [B] (PMID 28056735).",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Selon la marque : 1 cuillère rase (≈ 1,74 g) dans le bol, matin ou début d'après-midi, max 2,5 g/j. Pas de dose étudiée à retenir au-delà de 2-4 g/j (doses d'essai). Voir [thé et santé](fiche:the-et-sante) et [caféine](fiche:cafeine).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- 19,90 € les 30 g (aromandise.com, 2026-10-06) ; 1,74 g/tasse = 17 tasses par boîte ≈ **1,16 €/tasse**.\n- Par mois à 1 tasse/j : 52 g ≈ **34,5 €** ; à 2 g/j (dose des essais) : 60 g ≈ 39,8 €.\n- Alternatives : une page de recherche web (non fetchée) donne NaturaleBio Uji 15,99 € les 30 g, Panda Tea (Shizuoka) 29,99 € (page fetchée mais produit indisponible). Prix NaturaleBio non vérifié sur la page [?]. Moins cher à effet équivalent : thé vert infusé (aucun essai matcha vs thé vert comparatif trouvé [?]) ou café + L-théanine en gélule, voir [L-théanine Nutriforce](fiche:l-theanine-200mg-nutriforce).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non consultés [?]. Marque : amertume « quasi absente » [M].",
+   "titre": "Retours utilisateurs (tolérance/texture/goût uniquement)"
+  },
+  {
+   "markdown": "- Caféine : insomnie, palpitations, anxiété chez les sensibles ; à éviter l'après-midi tardif, grossesse (limiter la caféine totale), anxiété. Doses d'essai (2-4 g) : effets indésirables non détaillés dans les résumés lus.\n- Catéchines : à 2-4 g de matcha, bien en deçà des doses d'extraits associées aux élévations d'enzymes hépatiques ; voir [extrait de thé vert](fiche:extrait-the-vert-egcg-now-foods).\n- Feuilles entières ingérées : contaminants (plomb, fluor, aluminium) potentiels ; aucun contrôle indépendant pour ce lot [?].\n- Interactions : fer (les catéchines réduisent l'absorption non héminique) et certains médicaments : [?] non recherché dans PubMed ici.",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- PMID 39275223 — Baba Y et al., *Nutrients* 2024. doi:10.3390/nu16172907\n- PMID 39213264 — Uchida K et al., *PLoS One* 2024. doi:10.1371/journal.pone.0309287\n- PMID 33744591 — Baba Y et al., *Nutr Res* 2021. doi:10.1016/j.nutres.2020.12.024\n- PMID 36582446 — Sokary S et al., *Curr Res Food Sci* 2022. doi:10.1016/j.crfs.2022.11.015\n- PMID 28056735 — Dietz C, Dekker M, *Curr Pharm Des* 2017. doi:10.2174/1381612823666170105151800\n- Aromandise, fiche produit, consultée le 2026-10-06 ; Panda Tea, consulté le 2026-10-06.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Matcha de cérémonie bio Premium — Aromandise",
+ "type": "produit",
+ "unite": ""
+}

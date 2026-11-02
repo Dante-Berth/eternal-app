@@ -1,0 +1,80 @@
+{
+ "cibles": [
+  "peau",
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "collagene-oral",
+ "intro": "",
+ "liens": [
+  "alimentation-cheveux",
+  "collagene-peptan-nutrimuscle",
+  "proteines",
+  "rides-et-sillons-nasogeniens",
+  "whey-native-nutrimuscle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 10,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "40324552",
+  "26353786",
+  "29018060",
+  "26362110",
+  "37432180",
+  "33742704",
+  "38192916",
+  "41924746",
+  "23949208",
+  "26561784"
+ ],
+ "preuve_globale": "A",
+ "resume": "Quatre méta-analyses trouvent un petit bénéfice d'hydratation et d'élasticité de la peau [A]. Mais la seule qui sépare les essais selon leur financement (23 ECR, 1 474 participants) montre que l'effet disparaît dans les essais non financés par l'industrie et dans les essais de bonne qualité ; con…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Quatre méta-analyses trouvent un petit bénéfice d'**hydratation et d'élasticité** de la peau [A]. Mais la seule qui sépare les essais selon leur financement (23 ECR, 1 474 participants) montre que **l'effet disparaît dans les essais non financés par l'industrie et dans les essais de bonne qualité** ; conclusion des auteurs : aucune preuve clinique pour prévenir ou traiter le vieillissement cutané [A, contradictoire] (PMID 40324552).\n- Les essais testent des peptides de marque (Verisol de Gelita à 2,5 g/j, Peptan de Rousselot) et sont souvent cosignés par le fabricant ou un institut lié.\n- Musculation chez l'homme âgé sarcopénique : un ECR (15 g/j) favorable, cosigné par un institut du collagène [B, ECR unique n=53] (PMID 26353786).\n- Arthrose : effet sur la douleur à court terme, sur des données de très faible qualité [A, faible certitude] (PMID 29018060).\n- Aucune allégation de santé autorisée dans l'UE pour le collagène.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Proposé : des di- et tripeptides absorbés (riches en hydroxyproline) stimuleraient les fibroblastes ; observé ex vivo sur explants de peau dans un travail cosigné par Rousselot [D] (PMID 26362110). Chez l'humain, non démontré indépendamment [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Peau (hydratation, élasticité, rides)\n| Étude | Résultat | Preuve |\n|---|---|---|\n| 26 ECR, 1 721 sujets | hydratation et élasticité améliorées vs placebo ; biais relevés ; grands essais nécessaires (PMID 37432180) | [A] |\n| 19 études, 1 125 sujets (20–70 ans, 95 % de femmes) | hydratation, élasticité **et rides** améliorées (PMID 33742704) | [A] |\n| 14 études, 967 sujets (2017–2023) | hydratation et élasticité améliorées, cure de 12 semaines (PMID 38192916) | [A] |\n| **23 ECR, 1 474 sujets, analyse par financement et qualité** | effet global positif, mais **nul** dans les essais non financés par l'industrie et dans les essais de bonne qualité ; seuls les essais de faible qualité montrent un gain d'élasticité (PMID 40324552) | [A, contradictoire] |\n| Peptides oraux et topiques confondus : 19 ECR, 1 341 sujets (méta-analyse 2026, pas spécifique au collagène) | hydratation et brillance améliorées, effet modeste sur les rides (MD = 0,27 ; p = 0,04), porté par les polypeptides oraux (MD = 1,5 ; p = 0,01) ; élasticité et densité incohérentes ; financement non analysé dans le résumé (PMID 41924746) | [A] |\n| Verisol 2,5 ou 5 g/j, 8 semaines, 69 femmes de 35–55 ans | élasticité améliorée vs placebo ; hydratation non significative ; cosigné par le Collagen Research Institute (Kiel) (PMID 23949208) | [B, ECR n=69] |\n| Peptan, 2 essais contre placebo | hydratation à 8 semaines, densité du collagène dermique à 4 semaines ; dernier auteur salarié de Rousselot (fabricant) ; dose non indiquée dans le résumé (PMID 26362110) | [B] |\n| Cellulite, Verisol 2,5 g/j, 6 mois, 105 femmes | baisse du degré de cellulite chez les femmes de poids normal, moins nette en surpoids ; auteurs du Collagen Research Institute (PMID 26561784) | [B, ECR n=105] |\n\nLecture : les trois premières méta-analyses n'analysent pas le financement ; la quatrième montre que le signal tient aux essais industriels et de faible qualité. Sillons nasogéniens : aucune donnée spécifique [?]. Voir [rides et sillons](fiche:rides-et-sillons-nasogeniens).\n\n### Muscle (sujet âgé)\n- 53 hommes sarcopéniques de 72 ans, musculation 12 semaines, 15 g/j de peptides de collagène vs placebo (silice) : masse maigre +4,2 kg contre +2,9 kg, force du quadriceps +16,5 contre +7,3 Nm ; cosigné par le Collagen Research Institute [B, ECR unique n=53] (PMID 26353786).\n- Le placebo n'apportait aucune protéine : l'essai ne dit pas si le collagène fait mieux qu'une autre protéine à apport égal [?]. Pour la masse musculaire, les protéines complètes (whey) sont mieux étayées : voir [protéines](fiche:proteines).\n\n### Articulations\n- Arthrose (main, hanche, genou) : le collagène hydrolysé figure parmi les compléments à effet « large » sur la douleur à court terme, mais sur peu d'études et avec une qualité de preuve allant de très faible à élevée selon les produits ; aucun complément n'a d'effet cliniquement important à long terme (PMID 29018060) [A, faible certitude].\n\n### Cheveux\nUn seul essai capillaire mentionné dans la fiche [alimentation et cheveux](fiche:alimentation-cheveux) [B].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "| Peptide de marque | Fabricant | Dose dans les essais lus | Indication testée |\n|---|---|---|---|\n| Verisol | Gelita | 2,5 g/j (et 5 g/j), 8 semaines à 6 mois (PMID 23949208, 26561784) | élasticité, cellulite |\n| Peptan | Rousselot | non indiquée dans le résumé [?] (PMID 26362110) | hydratation, densité dermique |\n| Peptides de collagène (essai muscle) | non précisé dans le résumé | 15 g/j (PMID 26353786) | masse maigre avec musculation |\n\nLes méta-analyses agrègent des produits, doses (souvent 2,5 à 10 g/j, non extraites ici ; les résumés lus ne donnent pas les doses [?]) et durées (8 à 12 semaines) différents. Un produit vendu ne reproduit un essai que s'il contient le même peptide à la même dose.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **France/UE** : complément alimentaire ou aliment. Aucune allégation de santé autorisée : les allégations « maintien d'articulations normales » pour le collagène et l'hydrolysat de collagène ont été refusées (registre UE des allégations, avis EFSA 2011;9(6):2247, consulté le 2026-10-03).\n- Origines : bovine, porcine, marine (poisson).\n- **AMA** : non concerné (aliment protéique) ; pour un sportif contrôlé, le risque est la contamination du produit (voir [protéines](fiche:proteines)).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Pas d'effet indésirable noté dans l'essai Verisol de 8 semaines [B] (PMID 23949208). Les méta-analyses lues ne rapportent pas de signal de sécurité dans leurs résumés ; données à long terme absentes [?].\n- **Allergies** : éviter le collagène marin en cas d'allergie au poisson, et vérifier l'origine (bovine, porcine) selon les régimes alimentaires (étiquetage, pas une donnée d'étude).\n- **Insuffisance rénale** : c'est un apport de protéines (10 g de collagène ≈ 9 g de protéines) à intégrer au total protéique autorisé (voir [protéines](fiche:proteines)).\n- Interactions médicamenteuses : aucune documentée dans les sources lues [?].\n- Grossesse, enfants : déconseillé par certaines étiquettes (fitnessboutique.fr, consulté le 2026-10-03) ; aucune donnée d'étude [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Le collagène efface les rides »** : seule une méta-analyse sur quatre conclut à un effet sur les rides (PMID 33742704), et l'effet disparaît dans les essais indépendants et de bonne qualité (PMID 40324552) [A, contradictoire].\n- **« Les études prouvent l'effet »** : les essais sont majoritairement financés ou cosignés par les fabricants de peptides (Gelita, Rousselot, Collagen Research Institute) (PMID 23949208, 26362110, 40324552).\n- **« Le collagène remplace la whey pour le muscle »** : non testé à apport protéique égal [?] ; voir [protéines](fiche:proteines).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Top 3 selon les critères de CLAUDE.md (preuve de l'actif, concentration efficace, prix, tolérance). La preuve étant faible et contestée pour la peau, aucun produit ne mérite un rang élevé dans l'absolu.\n\n1. [Collagène Peptides Peptan (Nutrimuscle)](fiche:collagene-peptan-nutrimuscle) : peptide de marque des essais Peptan, 10 g/j sans additif en version neutre, 15 à 23 €/mois selon le format.\n2. Un produit à base de Verisol dosé à 2,5 g/j (dose de l'essai Proksch) : pas de fiche ; vérifier que l'étiquette nomme Verisol et indique 2,5 g par jour.\n3. Une whey ou toute protéine complète si l'objectif est le muscle : meilleure preuve, voir [whey](fiche:whey-native-nutrimuscle).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 40324552 — Myung SK, Park Y, *Am J Med* 2025 (méta-analyse par financement et qualité). doi:10.1016/j.amjmed.2025.04.034\n- PMID 41924746 — Nukaly HY et al., *Front Med* 2026. doi:10.3389/fmed.2026.1618306\n- PMID 37432180 — Pu SY et al., *Nutrients* 2023. doi:10.3390/nu15092080\n- PMID 33742704 — de Miranda RB et al., *Int J Dermatol* 2021. doi:10.1111/ijd.15518\n- PMID 38192916 — Dewi DAR et al., *Cureus* 2023. doi:10.7759/cureus.50231\n- PMID 23949208 — Proksch E et al., *Skin Pharmacol Physiol* 2014 (Verisol). doi:10.1159/000351376\n- PMID 26362110 — Asserin J et al., *J Cosmet Dermatol* 2015 (Peptan). doi:10.1111/jocd.12174\n- PMID 26561784 — Schunck M et al., *J Med Food* 2015 (cellulite). doi:10.1089/jmf.2015.0022\n- PMID 26353786 — Zdzieblik D et al., *Br J Nutr* 2015 (sarcopénie). doi:10.1017/S0007114515002810\n- PMID 29018060 — Liu X et al., *Br J Sports Med* 2018 (compléments et arthrose). doi:10.1136/bjsports-2016-097333\n- Registre UE des allégations nutritionnelles et de santé (export officiel), entrées « Collagen » et « Collagen hydrolysate », consulté le 2026-10-03.\n- FitnessBoutique, page Collagen Peptides Peptan Nutrimuscle (mentions d'étiquette), consultée le 2026-10-03.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Collagène hydrolysé oral",
+ "type": "actif",
+ "unite": ""
+}

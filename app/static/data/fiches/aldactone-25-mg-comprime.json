@@ -1,0 +1,65 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "medicament",
+ "id": "aldactone-25-mg-comprime",
+ "intro": "",
+ "liens": [
+  "minoxidil-bailleul-2-solution",
+  "spironolactone"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "15787815",
+  "35899211",
+  "27225981"
+ ],
+ "preuve_globale": "B",
+ "resume": "Médicament cardiovasculaire et antiandrogène ancien, bon marché, prescrit hors AMM contre l'alopécie androgénétique féminine sur des preuves minces (séries ouvertes, un seul ECR contre comparateur actif) : décision et surveillance médicales (kaliémie, grossesse, interactions), jamais en autogestion.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Médicament cardiovasculaire et antiandrogène ancien, bon marché, prescrit hors AMM contre l'alopécie androgénétique féminine sur des preuves minces (séries ouvertes, un seul ECR contre comparateur actif) : décision et surveillance médicales (kaliémie, grossesse, interactions), jamais en autogestion.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Composant | Quantité | Preuve |\n|---|---|---|\n| Spironolactone | 25,00 mg/comprimé | AGA féminine : 44 % de repousse, 44 % sans changement, 12 % de perte continue sous antiandrogène oral, sans placebo [B, étude ouverte n=80] (PMID 15787815) ; minoxidil 5 % + spironolactone > minoxidil seul sur la densité à 24 sem. [B, ECR unique n=120, évaluateur en aveugle] (PMID 35899211). Aucun essai contre placebo trouvé [?] |\n| Lactose monohydraté (100 mg), amidon de riz, stéarate de magnésium, polyméthacrylate de potassium, laurylsulfate de sodium | — | Excipients (BDPM). Le lactose compte en cas d'intolérance |\n\nVoir [spironolactone](fiche:spironolactone) pour les doses étudiées, les comparaisons et les risques.",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "- Liste II, titulaire Pfizer Holding France, AMM du 25/09/1997, procédure nationale (BDPM, Aldactone 25 mg, CIS 64565845, fiche mise à jour le 29/09/2026, consultée le 2026-10-13).\n- Indications AMM : hyperaldostéronisme, hypertension artérielle essentielle, états œdémateux, adjuvant de la myasthénie, et chez l'adulte insuffisance cardiaque stade III-IV et hirsutisme. **L'alopécie n'est pas une indication : usage hors AMM** (BDPM, consultée le 2026-10-13).\n- Remboursement : 65 % dans les indications de l'AMM ; la BDPM ne mentionne pas l'alopécie. Prise en charge hors AMM : non précisée par la BDPM [?].\n- Des génériques existent (Biogaran, Arrow, EG…, d'après la fiche actif) ; le choix relève du prescripteur et du pharmacien (voir la fiche actif).\n- AMA : la spironolactone relève des diurétiques (S5) ; statut 2026 et applicabilité hors compétition à confirmer sur la liste AMA [?] (voir la fiche actif).",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "Pas d'allégation capillaire : c'est un médicament, et le laboratoire ne revendique pas cet usage. Le discours « traitement de référence de la chute de cheveux féminine » n'est pas appuyé par un ECR contre placebo ; le mécanisme antiandrogène est établi pour l'hirsutisme (RCP), pas démontré comme cause de la repousse [B] (PMID 15787815). Voir « Mythes marketing démontés » dans la [fiche actif](fiche:spironolactone).",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Comprimé sécable par voie orale. Pas de protocole ici : la dose, la titration, la contraception et le suivi (tension, kaliémie selon l'âge et les comorbidités) relèvent du médecin. Contre-indications principales (RCP) : hyperkaliémie, insuffisance rénale sévère ou aiguë, maladie d'Addison, grossesse (sauf bénéfice jugé supérieur au risque), allaitement ; interactions avec IEC, ARA II, AINS, sels de potassium, lithium. Détail et chiffres dans la [fiche actif](fiche:spironolactone).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Boîte de 30 comprimés : 3,63 € hors honoraire, 4,65 € honoraire compris, remboursée à 65 % dans les indications de l'AMM (BDPM, consultée le 2026-10-13). Boîte de 90 : 9,97 € (12,73 € avec honoraire). Prix réglementés : aucun écart entre pharmacies pour ces présentations. Le coût mensuel dépend de la dose prescrite ; un comprimé par jour correspondrait à une boîte de 30, soit 3,63-4,65 €, à titre d'ordre de grandeur et non de posologie.\n- Le prix est négligeable : l'enjeu est la preuve, pas le coût. Alternative à meilleure preuve chez la femme : [minoxidil 2 %](fiche:minoxidil-bailleul-2-solution), seul traitement soutenu par des ECR dans l'AGA féminine [A, faible certitude] (PMID 27225981).\n- Disponibilité effective en pharmacie : la BDPM précise que toutes les présentations peuvent ne pas être commercialisées ; la boîte de 30 porte une déclaration de commercialisation (19/10/1998). Stock réel chez un vendeur : non vérifié [?].",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Aucune source d'avis exploitable relevée [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 15787815 — Sinclair R., Wewerinke M., Jolley D., *Br J Dermatol* 2005. doi:10.1111/j.1365-2133.2005.06218.x\n- PMID 35899211 — Liang Y. et al., *Front Med* 2022. doi:10.3389/fmed.2022.905140\n- PMID 27225981 — van Zuuren E.J. et al., *Cochrane Database Syst Rev* 2016. doi:10.1002/14651858.CD007628.pub4\n- BDPM, Aldactone 25 mg (CIS 64565845) : composition, indications, liste II, prix et remboursement, consultée le 2026-10-13.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Aldactone 25 mg, comprimé sécable (spironolactone, Pfizer)",
+ "type": "produit",
+ "unite": ""
+}

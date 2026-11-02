@@ -8,6 +8,7 @@ Sorties (déterministes, sans horodatage) :
   index.json        métadonnées de toutes les fiches + vocabulaire (chargé au démarrage de l'app)
   fiches/<id>.json  une fiche : sections Markdown, liens, PMID (chargée à la demande)
   marqueurs.json    identifiants stables des marqueurs, unités et conversions (copie de donnees/marqueurs.json)
+  recherche.json    index de recherche précalculé (texte normalisé : minuscules, sans accents)
   seuils.json       lignes des tableaux « Valeurs, unités et seuils », une par seuil
 
 L'identifiant d'une fiche est son nom de fichier sans .md. Les liens Markdown entre fiches sont
@@ -15,6 +16,7 @@ réécrits en `fiche:<id>`. Le compilateur ne déduit rien du texte : il recopie
 PMID et tableaux de seuils.
 """
 import argparse
+import unicodedata
 import json
 import os
 import re
@@ -129,6 +131,41 @@ def resume(texte_tldr):
     return ""
 
 
+def normaliser(texte):
+    """Minuscules sans accents, ponctuation réduite à des espaces (même fonction côté app)."""
+    s = unicodedata.normalize("NFD", texte.lower().replace("œ", "oe").replace("æ", "ae"))
+    s = "".join(c for c in s if unicodedata.category(c) != "Mn")
+    return re.sub(r"[^a-z0-9]+", " ", s).strip()
+
+
+def entree_recherche(f):
+    """Champs interrogés par la recherche : titre, résumé, titres de sections, TL;DR, marqueurs, cibles."""
+    tldr = next((s["markdown"] for s in f["sections"] if s["titre"].startswith("TL;DR")), "")
+    tldr = re.sub(r"\]\([^)]*\)", "]", tldr)
+    return {
+        "id": f["id"],
+        "titre": normaliser(f["titre"]),
+        "resume": normaliser(f["resume"]),
+        "sections": normaliser(" ".join(s["titre"] for s in f["sections"])),
+        "corps": normaliser(tldr + " " + " ".join(f.get("marqueurs", [])) + " " + " ".join(f.get("cibles", []))),
+    }
+
+
+def resume_fiche(secs, intro):
+    """Premier point du TL;DR ; à défaut la 1re ligne de « Verdict… » ; à défaut le début de l'introduction."""
+    tldr = next((m for t, m in secs if t.startswith("TL;DR")), "")
+    r = resume(tldr)
+    candidats = []
+    if not r:
+        candidats = [m for t, m in secs if t.startswith("Verdict")] + [intro]
+    for c in candidats:
+        for ligne in c.splitlines():
+            ligne = re.sub(r"\*\*|\[([^\]]*)\]\([^)]*\)", lambda m: m.group(1) or "", ligne).strip(" -*>")
+            if len(ligne) >= 30:
+                return ligne if len(ligne) <= 300 else ligne[:297].rstrip() + "…"
+    return r
+
+
 def lister(source):
     base = os.path.join(source, "fiches")
     out = []
@@ -174,7 +211,7 @@ def compiler(source):
             "cibles": fm.get("cibles", []), "preuve_globale": fm.get("preuve_globale", ""),
             "statut_fr": fm.get("statut_fr", ""), "derniere_maj": fm.get("derniere_maj", ""),
             "sources_verifiees": fm.get("sources_verifiees", ""), "unite": fm.get("unite", ""),
-            "mesure": fm.get("mesure", ""), "marqueurs": fm.get("marqueurs", []), "resume": resume(tldr),
+            "mesure": fm.get("mesure", ""), "marqueurs": fm.get("marqueurs", []), "resume": resume_fiche(secs, intro),
             "nb_pmid": len(pmids(texte)), "nb_seuils": 0,
         }
         index.append(meta)
@@ -225,6 +262,8 @@ def main(argv=None):
         "vocabulaire": vocab, "fiches": index})
     for fid, f in fiches.items():
         ecrire(os.path.join(a.sortie, "fiches", fid + ".json"), dict(f, schema_version=SCHEMA_VERSION))
+    ecrire(os.path.join(a.sortie, "recherche.json"), {
+        "schema_version": SCHEMA_VERSION, "fiches": [entree_recherche(f) for f in fiches.values()]})
     marqueurs_chemin = os.path.join(a.source, "donnees", "marqueurs.json")
     if os.path.exists(marqueurs_chemin):
         with open(marqueurs_chemin, encoding="utf-8") as fh:

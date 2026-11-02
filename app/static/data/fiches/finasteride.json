@@ -1,0 +1,83 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "medicament",
+ "id": "finasteride",
+ "intro": "",
+ "liens": [
+  "biomarqueur-psa",
+  "depistage-cancer-prostate-psa",
+  "finasteride-zydus-1mg-comprime",
+  "spironolactone"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 19,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "9777765",
+  "34634163",
+  "11809594",
+  "20956649",
+  "34291720",
+  "41051009",
+  "32166351",
+  "40090937",
+  "27225981",
+  "35238144",
+  "42396141",
+  "27475241",
+  "32033719",
+  "39953145",
+  "33175100",
+  "36547981",
+  "28319231",
+  "32294395",
+  "17196507"
+ ],
+ "preuve_globale": "A",
+ "resume": "Homme 18-41 ans : efficace contre l'alopécie androgénétique (AGA) à 1 mg/j, effet maintenu sur 5 ans dans les essais du fabricant, alors que le placebo continue de perdre [A].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Homme 18-41 ans : efficace contre l'alopécie androgénétique (AGA) à 1 mg/j, effet maintenu sur 5 ans dans les essais du fabricant, alors que le placebo continue de perdre [A].\n- Femme : pas mieux que le placebo dans la revue Cochrane (qualité faible) [A, faible certitude], et contre-indiqué (risque pour un fœtus masculin). Autre antiandrogène hors AMM chez la femme : [spironolactone](fiche:spironolactone).\n- Effets sexuels : en essais contrôlés, 1,9 à 6,7 % sous finastéride 1 mg vs 0,9 à 3,9 % sous placebo, surtout réversibles [A] ; des cas persistant après l'arrêt existent (RCP).\n- Idées suicidaires : effet indésirable confirmé par l'Europe (PRAC) pour le finastéride oral ; en France, carte patient dans la boîte et attestation annuelle d'information cosignée médecin-patient obligatoire depuis le 16/04/2026 (ANSM, consulté le 2026-10-03).\n- Topique (Fincrezo 0,25 % en spray, commercialisé depuis 2025) : efficacité proche de l'oral avec une exposition sanguine plus de 100 fois plus faible [B, ECR unique n=458] ; mêmes mesures de sécurité ANSM.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Inhibiteur de la 5α-réductase de type II : bloque la conversion de la testostérone en dihydrotestostérone (DHT), hormone qui miniaturise le follicule ; baisse de la DHT sérique et du cuir chevelu [B] (PMID 9777765). DHT sérique : −55,6 % sous 1 mg oral vs −34,5 % sous topique [B, ECR unique n=458] (PMID 34634163). Effet suspensif : selon le RCP, le bénéfice régresse à partir du 6e mois après l'arrêt et disparaît en 9 à 12 mois (BDPM, Propecia, consulté le 2026-10-03).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| AGA homme, oral 1 mg vs placebo, 1-2 ans | 1553 hommes : +107 et +138 cheveux vs placebo sur 5,1 cm² de vertex à 1 et 2 ans (base 876) ; perte progressive sous placebo | [B, ECR pivots n=1553, financés par Merck] (PMID 9777765) |\n| AGA homme, 5 ans | Amélioration durable vs placebo sur 5 ans (extensions contrôlées, 1215 hommes) | [B] (PMID 11809594) |\n| AGA homme, méta-analyse | 12 ECR, 3927 hommes : amélioration perçue RR 1,81 à court terme, 1,71 à long terme (NNT 5,6 puis 3,4) ; +9,42 % puis +24,3 % de cheveux vs placebo (qualité modérée) | [A] (PMID 20956649) |\n| AGA homme, méta-analyse récente | +12,4 cheveux/cm² vs placebo à 24 sem., +16,4 à 48 sem. ; 1 mg et 5 mg non différents | [A] (PMID 34291720) |\n| NMA homme, 24 sem. | Finastéride 1 mg vs contrôle +12,0 cheveux/cm² (IC crédible 4,2–19,0), mais incohérence significative entre preuves directes et indirectes (p = 0,0027) ; texte intégral | [A, faible certitude] (PMID 41051009) |\n| + minoxidil topique | Meilleure évaluation photographique que chaque monothérapie, densité non différente (5 ECR) | [A, faible certitude] (PMID 32166351) |\n| Topique 0,25 % spray vs placebo, 24 sem. | +20,2 vs +6,7 cheveux (zone cible) ; proche de l'oral (+21,1) ; effets indésirables comparables au placebo | [B, ECR unique n=458] (PMID 34634163) ; confirmé chez 270 Chinois [B] (PMID 40090937) |\n| AGA femme, 1 mg vs placebo | Pas plus efficace (amélioration 30/67 vs 33/70 ; RR 0,95, qualité faible) | [A, faible certitude] (Cochrane, PMID 27225981) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Oral : 1 mg/j (AGA) ; 5 mg/j existe pour l'hypertrophie bénigne de la prostate, pas plus efficace sur les cheveux [A] (PMID 34291720) et non indiqué pour l'AGA.\n- Topique : 0,25 % en spray (1 à 4 pulvérisations/j de 114 µg chacune, soit 0,11 à 0,46 mg/j) dans l'essai pivot et dans Fincrezo (BDPM) ; gel 1 % étudié dans de petits essais, non commercialisé en France [B] (PMID 35238144).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "| Forme | Statut France (BDPM / ANSM, consultés le 2026-10-03) |\n|---|---|\n| Finastéride 1 mg comprimé (Propecia, génériques Bailleul, Biogaran, Teva, Zydus, Viatris…) | Liste I, sur ordonnance, non remboursé, prix libre ; homme 18-41 ans. Depuis le 16/04/2026 : délivrance avec attestation annuelle d'information partagée cosignée. Propecia et Finastéride Viatris signalés en arrêt de commercialisation |\n| Fincrezo 2,275 mg/ml, spray cutané (Bailleul) | Sur ordonnance, non remboursable ; AMM 28/03/2024, commercialisé depuis le 03/03/2025 ; homme 18-41 ans |\n| Finastéride 5 mg | Prostate uniquement ; ne pas associer au 1 mg |\n| Cosmétiques | Non autorisé : un « shampooing au finastéride » cosmétique est anormal |\n\nAMA : le finastéride n'apparaît pas dans les communications 2026 consultées (AFLD) ; le texte intégral de la liste 2026 n'a pas pu être ouvert depuis mes outils : statut à confirmer sur la liste 2026 ou medicaments.afld.fr.\n\nPrix indicatif : génériques 1 mg vendus environ 8 à 27 € la boîte de 28 comprimés selon les pharmacies (pharmanity.com et pages de pharmacies, relevés le 2026-10-03, prix libre), soit environ 9 à 30 €/mois.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Sexuels : RCP : troubles sexuels chez 3,8 % vs 2,1 % sous placebo ; dysfonction érectile, troubles de l'éjaculation, baisse de libido « peu fréquents » ; dysfonction sexuelle persistante après l'arrêt et infertilité de fréquence indéterminée (BDPM, Finastéride Viatris 1 mg, consulté le 2026-10-03). Revue systématique de 41 études : 1,9–6,7 % vs 0,9–3,9 % placebo, surtout réversibles ; topique 0,25 % : 2,8 % vs 4,8 % pour l'oral [A] (PMID 42396141). Méta-analyse d'ECR : dysfonction érectile RR 2,22, nombre nécessaire pour nuire 82 [A] (PMID 20956649) ; une autre ne trouve pas d'excès significatif dans l'AGA (RR 1,21, IC 0,85–1,72) [A, contradictoire] (PMID 27475241).\n- Syndrome post-finastéride (symptômes sexuels, neurologiques, psychiques persistants) : entité contestée, aucune preuve de causalité ni traitement validé ; revues d'opinion [B] (PMID 32033719, 39953145). L'ANSM note que dans 56 % des cas psychiatriques français les symptômes ont persisté après l'arrêt (ANSM, 25/09/2025, mis à jour 20/02/2026).\n- Psychiatriques : idées suicidaires confirmées comme effet indésirable du finastéride oral par le PRAC (mai 2025) ; en France, 110 cas de troubles psychiatriques (1985-mai 2024), âge médian 30 ans, 67,3 % graves, 1 suicide et 4 tentatives, puis 2 suicides déclarés après mai 2024 (ANSM, consulté le 2026-10-03). Pharmacovigilance mondiale : signal disproportionné de suicidalité (ROR 1,63), plus fort chez les moins de 45 ans traités pour alopécie (ROR 2,06), possiblement amplifié par la médiatisation [B] (PMID 33175100). Cohortes d'hommes âgés (prostate) : dépression accrue (HR 1,61 à 1,94) sans excès de suicide [B] (PMID 36547981, 28319231) ; une autre cohorte ne trouve aucune association [B] (PMID 32294395).\n- PSA : baisse médiane de 40 % (40-49 ans) et 50 % (50-60 ans) sous 1 mg ; le doubler pour le dépistage du cancer de la prostate [B, ECR unique n=355] (PMID 17196507). Voir [dépistage du cancer de la prostate](fiche:depistage-cancer-prostate-psa).\n- Sein : cancers du sein chez l'homme rapportés ; signaler toute boule, douleur, écoulement (RCP).\n- Grossesse : contre-indiqué chez la femme (risque d'anomalie des organes génitaux d'un fœtus masculin) ; une femme enceinte ne doit pas manipuler de comprimés écrasés ou cassés ; pour le spray, pas de contact avec la zone traitée (RCP Finastéride Viatris, Fincrezo, BDPM).\n- Interactions : ne pas associer à un autre inhibiteur de la 5α-réductase (finastéride 5 mg, dutastéride) (RCP).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Médicament sur ordonnance, à discuter avec un médecin. Le choix pratique est entre un générique oral 1 mg (le moins cher) et le spray Fincrezo (exposition systémique moindre, prix non relevé).\nFiche produit : [Finastéride Zydus France 1 mg](fiche:finasteride-zydus-1mg-comprime) (statut, risques, alerte ANSM, ce que le médecin évalue).\n\nFiches « examen » liées : [PSA](fiche:biomarqueur-psa)",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 9777765 — Kaufman K.D. et al., *J Am Acad Dermatol* 1998, essais pivots. doi:10.1016/s0190-9622(98)70007-6\n- PMID 11809594 — Finasteride Male Pattern Hair Loss Study Group, *Eur J Dermatol* 2002, 5 ans.\n- PMID 20956649 — Mella J.M. et al., *Arch Dermatol* 2010, revue systématique. doi:10.1001/archdermatol.2010.256\n- PMID 34291720 — Gupta A.K. et al., *J Dermatolog Treat* 2021, revue et méta-analyses. doi:10.1080/09546634.2021.1959506\n- PMID 41051009 — Gupta A.K. et al., *J Cosmet Dermatol* 2025, NMA (texte intégral). doi:10.1111/jocd.70483\n- PMID 32166351 — Chen L. et al., *Aesthetic Plast Surg* 2020. doi:10.1007/s00266-020-01621-5\n- PMID 34634163 — Piraccini B.M. et al., *J Eur Acad Dermatol Venereol* 2021, spray topique. doi:10.1111/jdv.17738\n- PMID 40090937 — Zhou C. et al., *Chin Med J* 2025, spray topique. doi:10.1097/CM9.0000000000003495\n- PMID 35238144 — Gupta A.K. et al., *J Cosmet Dermatol* 2022, revue topique. doi:10.1111/jocd.14895\n- PMID 27225981 — van Zuuren E.J. et al., *Cochrane Database Syst Rev* 2016. doi:10.1002/14651858.CD007628.pub4\n- PMID 42396141 — Złotowska A. et al., *Front Med* 2026, effets sexuels. doi:10.3389/fmed.2026.1787706\n- PMID 27475241 — Liu L. et al., *J Sex Med* 2016. doi:10.1016/j.jsxm.2016.07.006\n- PMID 32033719 — Traish A.M., *Fertil Steril* 2020. doi:10.1016/j.fertnstert.2019.11.030\n- PMID 39953145 — Cilio S. et al., *Int J Impot Res* 2025. doi:10.1038/s41443-025-01025-6\n- PMID 33175100 — Nguyen D.D. et al., *JAMA Dermatol* 2021. doi:10.1001/jamadermatol.2020.3385\n- PMID 36547981 — Garcia-Argibay M. et al., *JAMA Netw Open* 2022. doi:10.1001/jamanetworkopen.2022.48135\n- PMID 28319231 — Welk B. et al., *JAMA Intern Med* 2017. doi:10.1001/jamainternmed.2017.0089\n- PMID 32294395 — Dyson T.E. et al., *J Urol* 2020. doi:10.1097/JU.0000000000001079\n- PMID 17196507 — D'Amico A.V., Roehrborn C.G., *Lancet Oncol* 2007. doi:10.1016/S1470-2045(06)70981-0\n- ANSM, « Finastéride et risque d'idées suicidaires : nouvelles mesures », 25/09/2025, mis à jour 20/02/2026, consulté le 2026-10-03.\n- ANSM, information de sécurité « Médicaments à base de finastéride ou de dutastéride : nouvelles mesures pour réduire le risque d'idées suicidaires », 25/09/2025, consulté le 2026-10-03.\n- BDPM, consulté le 2026-10-03 : Propecia 1 mg (60580369), Finastéride Viatris 1 mg (61699383), Fincrezo 2,275 mg/ml (61798869, RCP du 22/07/2024).\n- AFLD, liste AMA 2026, consulté le 2026-10-03.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Finastéride",
+ "type": "actif",
+ "unite": ""
+}

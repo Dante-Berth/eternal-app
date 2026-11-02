@@ -1,0 +1,79 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "complement",
+ "id": "beta-alanine",
+ "intro": "",
+ "liens": [
+  "beta-alanine-carnosyn-nutrimuscle-poudre",
+  "carnosine-et-anserine",
+  "creatine",
+  "l-carnitine",
+  "proteines",
+  "taurine"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42370349",
+  "41971372",
+  "40205676",
+  "42639281",
+  "26175657",
+  "31083045",
+  "30980076",
+  "28910200",
+  "42384726"
+ ],
+ "preuve_globale": "A",
+ "resume": "Acide aminé précurseur de la carnosine musculaire (tampon acide), vendu aux sportifs pour retarder la fatigue lors d'efforts intenses de 1 à 4 minutes. Effet attendu : spécifique à certains efforts, pas une aide universelle.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Acide aminé précurseur de la carnosine musculaire (tampon acide), vendu aux sportifs pour retarder la fatigue lors d'efforts intenses de 1 à 4 minutes. Effet attendu : **spécifique à certains efforts**, pas une aide universelle.\n- Chez la femme : 11 RCT, 312 participantes, temps jusqu'à épuisement amélioré (SMD 0,49 ; 0,20-0,79) mais **certitude très faible** pour tous les critères ; pas d'effet net sur la puissance maximale, l'anaérobie, la VO₂max ni la masse grasse [A, certitude très faible] (PMID 42370349).\n- Sprints répétés : 17 RCT, **aucun effet** sur la performance moyenne, maximale ni sur la baisse de performance (SMD −0,018 ; −0,207 à 0,170), quels que soient la dose, la durée ou le niveau d'entraînement [A] (PMID 41971372).\n- Natation : sur les compléments évalués, seule la créatine ressort significative ; bicarbonate et bêta-alanine pourraient aider sur des distances à forte demande glycolytique, sans effet significatif démontré [A, faible] (PMID 40205676).\n- Revue narrative 2026 : bêta-alanine, nitrate et bicarbonate ont des bénéfices « dépendants du contexte » ; créatine et caféine sont mieux étayées (PMID 42639281) [B].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Précurseur limitant de la carnosine (bêta-alanyl-histidine) : 4 semaines de 4 à 6 g/j augmentent la carnosine musculaire, qui agit comme tampon de pH intracellulaire [B] (PMID 26175657, position de l'ISSN).\n- Autres rôles proposés pour la carnosine dans le muscle humain à l'effort : modulation du métabolisme énergétique, gestion du calcium et sensibilité des myofilaments, piégeage d'espèces réactives ; ce sont des rôles putatifs, non démontrés comme cause de l'effet sur la performance [B] (PMID 31083045).\n- La bêta-alanine est aussi un constituant de l'acide pantothénique (vitamine B5), donc du coenzyme A (ANSES, avis 2014-SA-0008).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Temps jusqu'à épuisement (femmes) | SMD 0,49 ; certitude très faible | [A, très faible certitude] (PMID 42370349) |\n| Puissance maximale, anaérobie, VO₂max (femmes) | Imprécis, non démontré | [A, très faible certitude] (PMID 42370349) |\n| Sprints répétés | Aucun effet (17 RCT) | [A] (PMID 41971372) |\n| Natation de compétition | Pas d'effet significatif prouvé ; créatine seule significative | [A, faible] (PMID 40205676) |\n| Effort continu intense chez l'homme, endurance longue, force | Non relus dans cette fiche | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Dose, durée (≥ 2 semaines dans l'essai sur les sprints) ; l'effet sur les sprints n'est pas modifié par la dose ni la durée (PMID 41971372). Doses exactes recommandées par les fabricants : à lire sur les étiquettes, non vérifiées ici [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Poudre, gélules, mélanges préentraînement (formes retard existantes : voir Sécurité).\n- **Statut France : complément alimentaire.** Les substances à but nutritionnel ou physiologique (SBNP) autres que celles de l'arrêté du 26 septembre 2016 (quatre substances seulement) relèvent de la liste DGCCRF des SBNP « éligibles à l'article 15 » du décret 2006-352 (123 SBNP, selon l'avis Anses 2023-SA-0216 du 24 décembre 2024, consulté le 2026-10-13). Un moteur de recherche indexe la bêta-alanine dans ce tableau (Table-SBNP.pdf, DGCCRF) mais le PDF a refusé le téléchargement (HTTP 403) : présence dans la liste et conditions d'emploi (dose maximale) non relues à la source (DGCCRF, consulté le 2026-10-13) [?].\n- **Allégations de santé UE : aucune autorisée.** Le registre de la Commission européenne liste 14 entrées « bêta-alanine » (performance, temps jusqu'à épuisement, stocks de carnosine), toutes « Non-authorised » faute de preuve suffisante d'après l'EFSA (EFSA Journal 2010;8(10):1729) (Registre UE des allégations nutritionnelles et de santé, version PDF générée le 2013-02-14, consulté le 2026-10-13). Même constat dans l'avis Anses 2014-SA-0008 du 7 novembre 2016 : l'allégation « performance physique » est refusée faute de preuve, celle sur les stocks de carnosine parce que cet effet n'est pas jugé bénéfique en soi (consulté le 2026-10-13). Ce registre date de 2013 : évolution ultérieure non vérifiée [?].\n- **AMA/WADA : non nommée.** Liste des interdictions 2026 (en vigueur depuis le 1er janvier 2026) : aucune occurrence de « alanine », ni d'acide aminé, dans le texte (téléchargement du PDF anglais et recherche textuelle, WADA, consulté le 2026-10-13). Le risque pour un sportif testé est la contamination (voir Sécurité).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Paresthésies (fourmillements)** : seul effet indésirable rapporté dans la méta-analyse de sécurité (101 études humaines, 50 animales), OR 8,9 (IC crédible 95 % : 2,2-32,6) contre placebo ; abandons comparables au placebo ; petite hausse de l'ALAT (ES 0,274), restée dans les valeurs normales ; pas d'effet sur la taurine ni l'histidine musculaires chez l'humain [A] (PMID 30980076).\n- Dose et formulation : paresthésies observées à partir de 8 g/j, corrélées à la concentration plasmatique de bêta-alanine, attribuées à un effet direct sur des récepteurs sensoriels périphériques ; elles disparaissent 60 à 90 minutes après la prise, et la réduction des doses ou une forme retard les supprime (Anses, avis 2014-SA-0008, consulté le 2026-10-13). L'ISSN recommande des doses fractionnées plus faibles (1,6 g) ou une forme retard [B] (PMID 26175657). Un essai randomisé de 4 semaines (6 g/j) ou 2 semaines (12 g/j en forme retard) n'a pas montré de différence de paresthésies entre groupes [B] (PMID 28910200).\n- Interactions médicamenteuses, contre-indications, grossesse, populations à risque : non documentées dans les sources lues [?].\n- Produits préentraînement : la contamination est la plus élevée pour les mélanges multi-ingrédients, ce qui compte pour les sportifs testés (PMID 42639281) [B]. Préférer des produits certifiés par un tiers.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Plus de force et de puissance » : pas d'effet net sur la puissance maximale ni sur les sprints répétés (PMID 42370349, PMID 41971372).\n- « Pour tous les sports » : l'effet éventuel dépend du type d'effort (PMID 42639281).\n- « Allégation validée » ou « prouvée par l'EFSA » : faux, les 14 allégations bêta-alanine examinées sont non autorisées dans l'UE (registre de la Commission, EFSA Journal 2010;8(10):1729).\n- « Synergie avec la créatine » : réseau de méta-analyse de 52 RCT, la créatine seule améliore sprint, saut et sprints répétés, la bêta-alanine seule donne des effets non significatifs ou propres à la tâche, et l'association n'apporte aucun bénéfice de plus que la créatine seule [A] (PMID 42384726).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- [Bêta-Alanine Carnosyn® en poudre Nutrimuscle](fiche:beta-alanine-carnosyn-nutrimuscle-poudre)\n\nVoir aussi : [carnosine et ansérine](fiche:carnosine-et-anserine) (le dipeptide lui-même, preuves cognitives et métaboliques), [créatine](fiche:creatine), [taurine](fiche:taurine), [L-carnitine](fiche:l-carnitine), [protéines](fiche:proteines).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Gu J et al. *Front Nutr* 2026 — PMID 42370349 — [DOI](https://doi.org/10.3389/fnut.2026.1857513)\n2. Liang W et al. *Front Nutr* 2026 — PMID 41971372 — [DOI](https://doi.org/10.3389/fnut.2026.1818755)\n3. Domínguez R et al. *J Int Soc Sports Nutr* 2025 — PMID 40205676 — [DOI](https://doi.org/10.1080/15502783.2025.2486988)\n4. Mancin L et al. *Transl Sports Med* 2026 — PMID 42639281 — [DOI](https://doi.org/10.1155/tsm2/5919439)\n5. Dolan E et al. *Adv Nutr* 2019 — PMID 30980076 — [DOI](https://doi.org/10.1093/advances/nmy115)\n6. Trexler ET et al. *J Int Soc Sports Nutr* 2015 — PMID 26175657 — [DOI](https://doi.org/10.1186/s12970-015-0090-y)\n7. Matthews JJ et al. *Med Sci Sports Exerc* 2019 — PMID 31083045 — [DOI](https://doi.org/10.1249/MSS.0000000000002033)\n8. Church DD et al. *J Am Coll Nutr* 2017 — PMID 28910200 — [DOI](https://doi.org/10.1080/07315724.2017.1335250)\n9. Bai X, Xu T. *J Int Soc Sports Nutr* 2026 — PMID 42384726 — [DOI](https://doi.org/10.1080/15502783.2026.2695133)\n10. Anses, avis 2014-SA-0008 « compléments alimentaires destinés aux sportifs », 7 novembre 2016 — https://www.anses.fr/fr/system/files/NUT2014SA0008Ra.pdf (consulté le 2026-10-13) ; Anses, avis 2023-SA-0216, 24 décembre 2024 — https://www.anses.fr/sites/default/files/NUT2023-SA-0216.pdf (consulté le 2026-10-13)\n11. Commission européenne, Registre UE des allégations nutritionnelles et de santé — https://ec.europa.eu/food/food-feed-portal/backend/claims/files/euregister.pdf (version générée le 2013-02-14, consulté le 2026-10-13) ; DGCCRF, Table-SBNP — https://www.economie.gouv.fr/files/files/directions_services/dgccrf/securite/produits_alimentaires/Complement_alimentaire/Table-SBNP.pdf (non téléchargeable, HTTP 403, consulté le 2026-10-13)\n12. AMA/WADA, Liste des interdictions 2026 — https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf (consulté le 2026-10-13)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Bêta-alanine",
+ "type": "actif",
+ "unite": ""
+}

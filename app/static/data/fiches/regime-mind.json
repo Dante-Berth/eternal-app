@@ -1,0 +1,66 @@
+{
+ "cibles": [
+  "cerveau",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-23",
+ "famille": "alimentation",
+ "id": "regime-mind",
+ "intro": "",
+ "liens": [
+  "alimentation-cerveau",
+  "baies-myrtilles-et-anthocyanes",
+  "huile-olive-vierge-extra",
+  "legumes-verts-a-feuilles",
+  "noix-et-fruits-a-coque",
+  "regime-dash",
+  "regime-mediterraneen"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "37466280",
+  "42135789"
+ ],
+ "preuve_globale": "B",
+ "resume": "L'essai randomisé est nul : 604 adultes âgés à risque (antécédent familial de démence, IMC > 25), 3 ans ; cognition globale +0,205 (MIND) vs +0,170 (témoin), écart 0,035 (IC −0,022 à 0,092 ; P = 0,23). IRM identique [B, ECR unique n=604] (PMID 37466280).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **L'essai randomisé est nul** : 604 adultes âgés à risque (antécédent familial de démence, IMC > 25), 3 ans ; cognition globale +0,205 (MIND) vs +0,170 (témoin), écart 0,035 (IC −0,022 à 0,092 ; P = 0,23). IRM identique [B, ECR unique n=604] (PMID 37466280).\n- **Les cohortes sont plus flatteuses** : moins de cancers et de mortalité toute cause/CV, pas de lien net avec l'HTA ou les maladies CV, hétérogénéité forte et biais de publication [B] (PMID 42135789).\n- **Limite de l'essai** : le groupe témoin suivait aussi une restriction calorique légère et un accompagnement à la perte de poids, et les deux groupes se sont améliorés. L'essai ne dit donc pas que MIND ne vaut rien, il dit qu'il ne fait pas mieux qu'un régime témoin encadré [B].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Hybride** du régime méditerranéen et du DASH, modifié pour inclure des aliments supposés associés à moins de démence (PMID 37466280). Liste exacte des groupes d'aliments et quantités : non extraites des résumés lus [?]. Détails par aliment : [baies](fiche:baies-myrtilles-et-anthocyanes), [légumes verts à feuilles](fiche:legumes-verts-a-feuilles), [noix](fiche:noix-et-fruits-a-coque), [huile d'olive](fiche:huile-olive-vierge-extra).\n- **Version testée** : MIND avec légère restriction calorique et accompagnement à la perte de poids, comparée à un régime témoin avec la même restriction (PMID 37466280). On ne sait donc pas ce que donne MIND sans restriction.\n- **Cohortes** : probablement un score de conformité au MIND plutôt qu'une prescription ; non relu dans le résumé de PMID 42135789 [?].",
+   "titre": "Variantes et contenu"
+  },
+  {
+   "markdown": "Non revérifié [?]. MIND est un hybride méditerranéen-DASH incluant des aliments supposés protecteurs contre la démence (PMID 37466280) ; lesquels exactement : voir « Variantes et contenu ».",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Déclin cognitif\n| Source | Résultat | Preuve |\n|---|---|---|\n| ECR 2 centres, 604 pers., 3 ans | cognition globale : écart 0,035 unité standardisée (IC −0,022 à 0,092), non significatif ; IRM (hyperintensités, hippocampe, substance grise/blanche) sans différence (PMID 37466280) | [B, ECR unique n=604] |\n\n### Mortalité et maladies chroniques\nMéta-analyse : association à moins de cancers et de mortalité toute cause et CV ; pas de lien net avec HTA ou maladies CV ; hétérogénéité forte (PMID 42135789) [B]. Association ≠ causalité.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « Le régime MIND protège du Alzheimer » : le seul ECR relu ne montre aucun bénéfice cognitif à 3 ans par rapport à un régime témoin encadré [B, ECR unique n=604] (PMID 37466280). Un suivi plus long ou une autre population pourraient changer la conclusion [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Pas d'effet indésirable spécifique dans les résumés lus. Non recherché : interaction des légumes verts à feuilles (vitamine K) avec les antivitamines K ; voir [légumes verts à feuilles](fiche:legumes-verts-a-feuilles) [?].\n\nStatut réglementaire : sans objet (pattern alimentaire).\n\nVoir aussi : [régime méditerranéen](fiche:regime-mediterraneen) · [DASH](fiche:regime-dash) · [alimentation et cerveau](fiche:alimentation-cerveau) · [baies et anthocyanes](fiche:baies-myrtilles-et-anthocyanes).",
+   "titre": "Sécurité, populations à risque"
+  },
+  {
+   "markdown": "- PMID 37466280 — Barnes L.L. et al., *N Engl J Med* 2023. doi:10.1056/NEJMoa2302368\n- PMID 42135789 — Ahmadirad et al., *Nutr Metab (Lond)* 2026. doi:10.1186/s12986-026-01135-y",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Régime MIND",
+ "type": "actif",
+ "unite": ""
+}

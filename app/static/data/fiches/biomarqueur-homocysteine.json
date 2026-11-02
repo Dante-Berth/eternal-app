@@ -1,0 +1,90 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-11-02",
+ "famille": "",
+ "id": "biomarqueur-homocysteine",
+ "intro": "Fiche « examen ». Statut B12/folates, formes de vitamines et supplémentation : [vitamine B12 et folates](fiche:vitamine-b12-et-folates). Méthionine alimentaire et homocystéine : [méthionine](fiche:methionine). Autres marqueurs CV : [ApoB](fiche:biomarqueur-apob), [CRP](fiche:biomarqueur-crp-hscrp).",
+ "liens": [
+  "biomarqueur-apob",
+  "biomarqueur-crp-hscrp",
+  "biomarqueur-vitamine-b12-folates",
+  "methionine",
+  "vitamine-b12-et-folates"
+ ],
+ "marqueurs": [
+  "homocysteine"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 5,
+ "nb_seuils": 3,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "12387654",
+  "22363213",
+  "28816346",
+  "20937919",
+  "42109795"
+ ],
+ "preuve_globale": "A",
+ "resume": "L'homocystéine est un marqueur associé au risque cardiovasculaire, pas une cible démontrée. Association modeste : 25 % d'homocystéine en moins (≈ 3 µmol/L) correspond à 11 % de cardiopathie ischémique en moins (OR 0,89 ; 0,83-0,96) et 19 % d'AVC en moins (OR 0,81 ; 0,69-0,95) dans les études pros…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- L'homocystéine est un **marqueur associé** au risque cardiovasculaire, **pas une cible démontrée**. Association modeste : 25 % d'homocystéine en moins (≈ 3 µmol/L) correspond à 11 % de cardiopathie ischémique en moins (OR 0,89 ; 0,83-0,96) et 19 % d'AVC en moins (OR 0,81 ; 0,69-0,95) dans les études prospectives, après correction du biais de régression [A, observationnel, 30 études] (PMID 12387654).\n- **La génétique ne soutient pas la causalité** : l'allèle TT de MTHFR C677T (homocystéine ≈ 20 % plus haute) n'est pas associé à la maladie coronaire dans 19 jeux de données non publiés (48 175 cas, 67 961 témoins) : OR 1,02 (0,98-1,07) ; les études publiées donnaient 1,15, écart attribué à un biais de publication [A, randomisation mendélienne] (PMID 22363213).\n- **Les essais ne soutiennent pas non plus** : 15 ECR, 71 422 participants : infarctus RR 1,02 (0,95-1,10), mortalité RR 1,01 (0,96-1,06), AVC RR 0,90 (0,82-0,99) [A, preuve de haute qualité selon les auteurs] (PMID 28816346) ; 8 grands ECR d'acide folique (37 485 sujets, homocystéine −25 %) : événements vasculaires majeurs RR 1,01 (0,97-1,05), AVC 0,96 (0,87-1,06) [A] (PMID 20937919).\n- Seul signal : un **effet possible sur l'AVC**, surtout hors pays à enrichissement des céréales en folates (voir la [fiche B12/folates](fiche:vitamine-b12-et-folates)).\n- Intérêt pratique : repérer une **carence en B12/folates** ou une cause rénale/médicamenteuse, pas évaluer son « risque cardiaque ».",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Acide aminé soufré intermédiaire du métabolisme de la méthionine ; remis en méthionine grâce à la B12 et aux folates, ou orienté vers la cystéine (vitamine B6). Un déficit en B12/folates fait monter l'homocystéine (voir la [fiche B12/folates](fiche:vitamine-b12-et-folates), qui cite l'avis EFSA PMID 42109795).\n- Unité : µmol/L. Seuil de « hyperhomocystéinémie », valeurs de référence par méthode et âge, effet du jeûne et du délai de centrifugation du prélèvement : non vérifiés ici [?].\n- Rare maladie héréditaire (homocystinurie) : hors périmètre ; elle donne des taux très élevés et un tableau clinique spécifique, non sourcé ici [?].",
+   "titre": "Mécanisme et ce que mesure l'examen"
+  },
+  {
+   "markdown": "Unité usuelle : µmol/L. Aucun seuil d'hyperhomocystéinémie ni valeur de référence n'a pu être lu dans un résumé vérifié ce jour ; la seule valeur chiffrée lue est un écart (pas un seuil).\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| Homocystéine | µmol/L | — | seuil d'hyperhomocystéinémie | adulte | non retrouvé [?] |\n| Homocystéine | µmol/L | — | valeur de référence par méthode, âge et sexe | adulte | non retrouvé [?] |\n| Homocystéine | µmol/L | — | cible à atteindre par traitement | adulte | non retrouvé [?] ; les essais d'abaissement n'ont pas réduit infarctus ni mortalité [A] (PMID 28816346) |",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Association avec la cardiopathie ischémique (prospectif, 25 % plus bas) | OR 0,89 (0,83-0,96) | [A, observationnel] (PMID 12387654) |\n| Idem AVC | OR 0,81 (0,69-0,95) | [A, observationnel] (PMID 12387654) |\n| Causalité (MTHFR TT vs CC et maladie coronaire) | OR 1,02 (0,98-1,07) ; cas non publiés ; études publiées 1,15 | [A, RM] (PMID 22363213) |\n| Abaisser par vitamines B : infarctus, mortalité | RR 1,02 (0,95-1,10) ; RR 1,01 (0,96-1,06) | [A] (PMID 28816346) |\n| Abaisser par vitamines B : AVC | RR 0,90 (0,82-0,99) ; 10 ECR, N = 44 224 | [A] (PMID 28816346) |\n| Abaisser par acide folique : événements vasculaires majeurs | RR 1,01 (0,97-1,05) ; cancer 1,05 (0,98-1,13) ; mortalité 1,02 (0,97-1,08) | [A] (PMID 20937919) |\n\nLes auteurs de la méta-analyse de 2002 concluent que l'homocystéine élevée est « au plus un prédicteur indépendant modeste » dans les populations en bonne santé (PMID 12387654).",
+   "titre": "Ce que le chiffre prédit"
+  },
+  {
+   "markdown": "- Pas de recommandation de dosage en dépistage cardiovasculaire retrouvée ; intérêt cité : suspicion de carence en B12/folates (végans, sujets âgés, metformine, anti-acides, voir [fiche liée](fiche:vitamine-b12-et-folates)), bilan d'une anémie macrocytaire ou de symptômes neurologiques [?] pour le détail des indications officielles.\n- Ce qui n'a pas été cherché : spécificité de l'homocystéine par rapport à l'acide méthylmalonique et à l'holotranscobalamine pour diagnostiquer une carence en B12 (l'avis EFSA PMID 42109795 est cité dans la fiche liée, non relu ici) [?].",
+   "titre": "Qui, quand, comment"
+  },
+  {
+   "markdown": "Chercher la cause avec un médecin : statut B12/folates, fonction rénale, médicaments (causes courantes, non sourcées dans les résumés lus [?]) ; corriger la carence si elle existe. **Supplémenter « pour baisser l'homocystéine » sans carence prouvée ne réduit pas les événements CV** (PMID 20937919, 28816346). Pas de dose ici. Une supplémentation B6/B9/B12 massive n'est pas anodine : effets indésirables graves RR 1,07 (1,00-1,14) vs comparateur dans la Cochrane (limite de significativité) [A] (PMID 28816346).",
+   "titre": "Que faire d'une homocystéine élevée"
+  },
+  {
+   "markdown": "Examen de biologie médicale sur prescription. Cotation NABM, prix, remboursement : non retrouvés dans les sources officielles consultées [?]. Les vitamines B sont des compléments alimentaires ou médicaments selon la dose/présentation : voir la fiche liée.",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Acheter des compléments « pour l'homocystéine » ou « pour le cœur » en l'absence de carence : pas d'effet sur les infarctus ni la mortalité (PMID 20937919, 28816346).\n- Comparer des valeurs de laboratoires différents ou un prélèvement mal conservé : conditions de prélèvement non vérifiées ici [?].\n- Utiliser l'homocystéine comme indicateur « d'âge biologique » ou d'efficacité d'un protocole de longévité : l'échelle n'est pas validée comme cible.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Baisser l'homocystéine protège le cœur »** : les ECR n'ont pas réduit l'infarctus ni la mortalité, et la génétique est neutre (PMID 28816346, 20937919, 22363213) [A].\n- **« Méthionine ou viande rouge = homocystéine = infarctus »** : le lien alimentaire n'est pas établi dans ce travail ; voir la [fiche méthionine](fiche:methionine).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Les premiers résultats génétiques publiés (OR 1,15) étaient en partie un biais de publication : sur les données non publiées, l'OR est de 1,02 (PMID 22363213). Le signal AVC des essais (RR 0,90) est compatible avec un effet réel mais modeste, observé surtout chez des sujets à risque (PMID 28816346).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Fatigue inhabituelle avec anémie, fourmillements ou troubles de la marche, régime végan strict sans supplémentation, traitement prolongé par metformine ou antiacide : avis médical pour doser B12/folates.\n\nFiches « examen » liées : [B12 et folates](fiche:biomarqueur-vitamine-b12-folates)",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 12387654 — Homocysteine Studies Collaboration, Homocysteine and risk of ischemic heart disease and stroke: a meta-analysis. *JAMA* 2002 (résumé relu).\n- PMID 22363213 — Clarke R et al., Homocysteine and coronary heart disease: meta-analysis of MTHFR case-control studies avoiding publication bias. *PLoS Med* 2012 (résumé relu).\n- PMID 28816346 — Martí-Carvajal AJ et al., Homocysteine-lowering interventions for preventing cardiovascular events. *Cochrane Database Syst Rev* 2017 (résumé relu).\n- PMID 20937919 — Clarke R et al., Effects of lowering homocysteine levels with B vitamins on CVD, cancer and mortality: 8 randomized trials, 37,485 individuals. *Arch Intern Med* 2010 (résumé relu).\n- PMID 42109795 — avis EFSA 2015 sur la B12, cité dans la [fiche B12/folates](fiche:vitamine-b12-et-folates) (non relu ici).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : homocystéine",
+ "type": "biomarqueur",
+ "unite": ""
+}

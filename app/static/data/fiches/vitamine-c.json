@@ -1,0 +1,92 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-22",
+ "famille": "cosmetique",
+ "id": "vitamine-c",
+ "intro": "",
+ "liens": [
+  "geek-gorgeous-c-glow",
+  "niacinamide",
+  "skinceuticals-c-e-ferulic",
+  "the-ordinary-vitamin-c-suspension-23-ha-spheres-2",
+  "tomate-carotte-poivron-et-aliments-colores",
+  "vitamine-c-orale",
+  "vitamines-aliments-et-absorption"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 17,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "37128827",
+  "18603326",
+  "11207686",
+  "12789176",
+  "16185284",
+  "11896774",
+  "10522500",
+  "12823436",
+  "38758222",
+  "15304189",
+  "34910367",
+  "38525606",
+  "28805671",
+  "11407971",
+  "38931263",
+  "42761976",
+  "32307865"
+ ],
+ "preuve_globale": "B",
+ "resume": "Preuves cliniques minces : une poignée de petits essais contre excipient (10 à 50 personnes, 3 à 6 mois) montrent moins de rides fines et une peau plus lisse [B]. La revue systématique la plus récente ne regroupe que 7 publications et 139 volontaires [B] (PMID 37128827).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Preuves cliniques **minces** : une poignée de petits essais contre excipient (10 à 50 personnes, 3 à 6 mois) montrent moins de rides fines et une peau plus lisse [B]. La revue systématique la plus récente ne regroupe que 7 publications et 139 volontaires [B] (PMID 37128827).\n- L'argument le plus solide est **photoprotecteur** : la formule 15 % acide L-ascorbique + 1 % vitamine E + 0,5 % acide férulique réduit érythème, cellules de coup de soleil et dimères de thymine sous UV chez l'humain [B] (PMID 18603326). Ce n'est pas un écran solaire : elle ne remplace pas un SPF.\n- Formulation décisive : pénétration seulement à pH < 3,5, plateau à 20 %, et les dérivés courants (phosphate de magnésium, palmitate d'ascorbyle) n'augmentent pas la vitamine C dans la peau [C] (PMID 11207686).\n- Taches : moins efficace que l'hydroquinone 4 % sur l'évaluation subjective mais mieux tolérée [B, ECR n=16].\n- Instable : s'oxyde à l'air et à la lumière (sérum qui brunit) ; prix très variable pour une formule comparable (de 12,50 € à plus de 160 € les 30 ml).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Antioxydant hydrosoluble et cofacteur de la synthèse du collagène. Sur peau de porc, 15 % acide L-ascorbique + 1 % α-tocophérol protège mieux de l'érythème et des cellules de coup de soleil que chaque vitamine seule (facteur de protection antioxydant ≈ 4) [C] (PMID 12789176) ; l'ajout de 0,5 % d'acide férulique stabilise la solution et double la photoprotection (≈ 8) [C] (PMID 16185284). Chez l'humain, la même formule appliquée 4 jours réduit l'érythème, les cellules de coup de soleil, les dimères de thymine et p53 après UV ; effectif « relativement petit » non précisé dans le résumé [B] (PMID 18603326). Hausse de l'ARNm du collagène I sur biopsies (4 patients) [B] (PMID 11896774).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Photovieillissement du visage, 12 sem., hémivisage | 19 sujets, sérum d'acide ascorbique (Cellex-C, concentration non donnée dans le résumé) : profilométrie améliorée (Ra et ombres +73,7 % vs excipient), rides fines, rugosité, teint (Traikovich 1999, PMID 10522500) | [B] |\n| Photovieillissement du visage, 12 sem., hémivisage | 10 sujets, 10 % acide ascorbique + 7 % tétrahexyldécyl ascorbate : joues et région péribuccale améliorées (p = 0,006 et 0,01) ; non randomisé selon l'indexation PubMed (Fitzpatrick 2002, PMID 11896774) | [B] |\n| Décolleté et bras, 6 mois | Femmes, crème 5 % vitamine C vs excipient : score global et microrelief améliorés ; effectif non donné dans le résumé (Humbert 2003, PMID 12823436) | [B] |\n| Synthèse photovieillissement + mélasma | 7 ECR, 139 volontaires : peau plus lisse, éclaircissement objectif ; hydratation identique au placebo ; concentration idéale inconnue (Correia 2023, PMID 37128827) | [B] |\n| Revue systématique « cosméceutiques anti-âge » | Rétinol et vitamine C notés « grade A » de recommandation (échelle Oxford) sur 32 études, 1 236 patients ; les auteurs signalent peu d'ECR et l'absence de données à long terme (Lau 2024, PMID 38758222) | [B] |\n| Mélasma | 16 femmes, 16 sem., hémivisage : bon/excellent 62,5 % (vitamine C 5 %) vs 93 % (hydroquinone 4 %) en subjectif, colorimétrie identique ; effets indésirables 6 % vs 69 % (Espinal-Perez 2004, PMID 15304189) | [B, ECR n=16] |\n| Photoprotection (en complément d'un écran) | Voir mécanisme : humain [B], porc [C] | [B] |\n| Prévention des rides à long terme | Aucun essai trouvé | [?] |\n\nLecture honnête : aucun essai de plus de 50 personnes, souvent hémivisage, avec des produits de marque fournis pour l'essai (Cellex-C dans PMID 10522500) ; affiliations et financements des autres essais non contrôlés ici [?]. Le cumul de petits essais positifs justifie [B], pas [A].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Étudiées : 5 % (crème), 10 % (+ 7 % dérivé lipophile), 15 % (+ vitamine E + férulique), sérum Cellex-C (non précisé).\n- Pénétration (peau de porc) : seulement à pH < 3,5 ; maximum à 20 % (au-delà, pas de gain) ; saturation tissulaire après 3 applications, demi-vie ≈ 4 jours [C] (PMID 11207686).\n- Dérivés : phosphate d'ascorbyle de magnésium et palmitate d'ascorbyle n'ont pas augmenté le taux de vitamine C cutanée [C] (PMID 11207686). Contre-exemples cliniques sur d'autres dérivés : ECR en hémivisage, 3 groupes de 23 femmes, crèmes 1, 2 ou 3 % de tétra-isopalmitoyl ascorbate contre placebo, 8 semaines : rides périorbitaires améliorées ; les deux auteurs sont d'un groupe cosmétique (Nikkol), effet fonction de la dose, chiffres absents du résumé [B] (PMID 34910367). ECR 44 sujets, tétrahexyldécyl ascorbate 5 % + acétyl zingérone 1 % vs THDA 5 % seul, 8 semaines : moins de rides (−3,72 % vs +4,48 %) et de rougeur ; pas de groupe excipient, donc l'effet de la vitamine C dérivée seule n'est pas isolé, un co-auteur est d'une société d'ingrédients (Sytheon) [B] (PMID 38525606). Glucoside d'ascorbyle, éthyl ascorbique : aucun ECR cutané trouvé par la recherche PubMed ciblée [?].\n- Vendu : 10 à 25 % d'acide L-ascorbique dans les sérums « purs » ; de nombreux produits « vitamine C » contiennent uniquement des dérivés, parfois à concentration non déclarée [M].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Topique : cosmétique (règlement (CE) n° 1223/2009) ; l'acide ascorbique ne figure pas parmi les substances restreintes des règlements 2022/1176 et 2024/996 consultés (EUR-Lex, consulté le 2026-10-03). Statut CosIng détaillé non consulté [?].\n- Oral : complément ou aliment ; voir [vitamine C orale](fiche:vitamine-c-orale) et la section « Vitamine C alimentaire » ci-dessous.\n- Injectable (« mésothérapie », perfusions « éclat ») : pas d'essai d'efficacité cutanée revu ici [?] ; non traité (règle 7).\n- AMA : sans objet.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Preuve directe : aucune.** Aucun essai trouvé qui donne des aliments riches en vitamine C et mesure la peau (rides, collagène, photoprotection) [?]. La revue de Pullar 2017 note que l'efficacité du topique par rapport à l'optimisation de l'apport alimentaire est « mal comprise » [?] (PMID 28805671, revue narrative).\n- **Seul indice humain** : l'effet du topique sur l'ARNm du collagène I et III (biopsies de femmes ménopausées, hémi-avant-bras contre placebo) était le plus marqué chez les femmes au plus faible apport alimentaire de vitamine C [B] (PMID 11407971). Lecture : manger assez de vitamine C compte surtout si l'apport est bas ; au-delà, un bénéfice cutané supplémentaire n'est pas démontré [?].\n- **Collagène + vitamine C oral** : ECR, 87 femmes de 40 à 65 ans, 16 semaines, 5 g de collagène hydrolysé + 80 mg de vitamine C contre placebo : densité du derme, texture et rides améliorées, élasticité et hydratation inchangées [B] (PMID 38931263). La vitamine C seule n'est pas isolée : on ne peut pas lui attribuer l'effet.\n- Une revue de 2026 avance qu'un apport de 40 à 80 mg/j donnerait une photoprotection, une hydratation et un lissage « modestes » sans carence ; chiffre lu uniquement dans le résumé, sans les essais sous-jacents [?] (PMID 42761976).\n\nTeneurs (USDA FoodData Central, base SR Legacy, cru, mg pour 100 g, consulté le 2026-10-22) :\n\n| Aliment | Vit. C (mg/100 g) | FDC |\n|---|---|---|\n| Goyave | 228 | 173044 |\n| Cassis | 181 | 173963 |\n| Persil frais | 133 | 170416 |\n| Poivron rouge | 128 | 170108 |\n| Kiwi vert | 92,7 | 168153 |\n| Brocoli | 89,2 | 170379 |\n| Fraise | 58,8 | 167762 |\n| Orange | 53,2 | 169097 |\n| Jus de citron | 38,7 | 167747 |\n\nConseil sans surpromesse : kiwi, poivron rouge, fraises, brocoli, cassis et agrumes couvrent largement un besoin courant en une portion ou deux ; la goyave et le cassis sont les plus concentrés mais peu accessibles. Ce classement est celui de la teneur, pas de l'effet sur la peau [?]. Pertes à la cuisson et au stockage : non vérifiées ici [?]. Besoin journalier de référence (ANSES) : non consulté [?]. Détail du poivron et des aliments colorés : [tomate, carotte, poivron](fiche:tomate-carotte-poivron-et-aliments-colores) ; synthèse : [vitamines, aliments et absorption](fiche:vitamines-aliments-et-absorption).",
+   "titre": "Vitamine C alimentaire et peau"
+  },
+  {
+   "markdown": "- Tolérance : picotements possibles à pH bas ; effets indésirables 1/16 sous vitamine C 5 % vs 11/16 sous hydroquinone [B] (PMID 15304189) ; pas d'inflammation dans l'essai hémivisage [B] (PMID 11896774).\n- Ex vivo, une formule commerciale à 15 % (non nommée) a réduit la viabilité de la peau humaine en culture, effet attribué à l'excipient, pas observé avec une autre formule à 20 % [D] (PMID 32307865). Pertinence clinique inconnue [?].\n- Oxydation : brunissement = conversion en formes moins actives ; aucune étude clinique trouvée sur l'efficacité d'un sérum oxydé [?]. Conserver fermé, à l'abri de la lumière, respecter la durée après ouverture.\n- **Vitamine C + niacinamide** : l'idée qu'ils « s'annulent » ou forment de l'acide nicotinique irritant n'a aucune étude clinique trouvée [?] ; voir [niacinamide](fiche:niacinamide). L'interdiction affichée par certaines marques est une précaution de formulation, pas une donnée clinique [M].\n- **Vitamine C + rétinoïde** : cumul d'irritation plausible (pH acide), aucun essai d'interaction trouvé [?]. Usage courant : vitamine C le matin sous l'écran, rétinoïde le soir (convention, pas une preuve).\n- **Vitamine C + peptides de cuivre (GHK-Cu)** : incompatibilité souvent citée (règle 5 de CLAUDE.md) ; aucune étude sur peau humaine trouvée [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Plus de vitamine C = plus d'effet » (sérums 25-30 %)** : la pénétration plafonne à 20 % sur peau de porc [C] (PMID 11207686) ; aucun essai clinique ne compare 15 % et 25 % [?].\n- **« Vitamine C stable » à base de dérivés** : les dérivés testés n'augmentent pas la vitamine C cutanée [C] (PMID 11207686) ; leur efficacité anti-âge propre n'est pas démontrée par des essais contre excipient trouvés [M].\n- **« Protection 8× » ou « remplace la crème solaire »** : le facteur 8 est mesuré sur peau de porc [C] ; chez l'humain la formule s'ajoute à un écran, elle ne le remplace pas [B] (PMID 18603326).\n- **« Anti-rides cliniquement prouvé +36 % »** (allégation SkinCeuticals) : étude du fabricant non publiée sur PubMed [M].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Top 3 (critères : preuve de l'actif, concentration efficace, prix, tolérance) :\n1. [Geek & Gorgeous C-Glow](fiche:geek-gorgeous-c-glow) : même trio que la formule testée (15 % acide L-ascorbique + vitamine E + acide férulique, pH 3–3,4), 12,50–14,99 € les 30 ml ; proportions de vitamine E et de férulique non déclarées.\n2. [SkinCeuticals C E Ferulic](fiche:skinceuticals-c-e-ferulic) : la formule exacte de l'essai humain (15 % / 1 % / 0,5 %) [B], mais 128 à 179 € les 30 ml, soit environ 10 fois le prix pour une preuve équivalente.\n3. Aucun troisième retenu : les sérums à dérivés (glucoside d'ascorbyle, etc.) n'ont pas la preuve de l'acide L-ascorbique [?].\n- Hors classement : [The Ordinary Vitamin C Suspension 23 %](fiche:the-ordinary-vitamin-c-suspension-23-ha-spheres-2) : 23 % d'acide L-ascorbique en suspension anhydre, ≈ 9,8 € les 30 ml ; pénétration non étudiée pour cette forme [?].",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Traikovich SS, Arch Otolaryngol Head Neck Surg 1999 — PMID 10522500 — [DOI](https://doi.org/10.1001/archotol.125.10.1091)\n2. Fitzpatrick RE, Rostan EF, Dermatol Surg 2002 — PMID 11896774 — [DOI](https://doi.org/10.1046/j.1524-4725.2002.01129.x)\n3. Humbert PG et al., Exp Dermatol 2003 — PMID 12823436 — [DOI](https://doi.org/10.1034/j.1600-0625.2003.00008.x)\n4. Correia G, Magina S, J Cosmet Dermatol 2023 — PMID 37128827 — [DOI](https://doi.org/10.1111/jocd.15748)\n5. Lau M et al., Arch Dermatol Res 2024 — PMID 38758222 — [DOI](https://doi.org/10.1007/s00403-024-02908-2)\n6. Espinal-Perez LE et al., Int J Dermatol 2004 — PMID 15304189 — [DOI](https://doi.org/10.1111/j.1365-4632.2004.02134.x)\n7. Pinnell SR et al., Dermatol Surg 2001 — PMID 11207686 — [DOI](https://doi.org/10.1046/j.1524-4725.2001.00264.x)\n8. Lin JY et al., J Am Acad Dermatol 2003 — PMID 12789176 — [DOI](https://doi.org/10.1067/mjd.2003.425)\n9. Lin FH et al., J Invest Dermatol 2005 — PMID 16185284 — [DOI](https://doi.org/10.1111/j.0022-202X.2005.23768.x)\n10. Murray JC et al., J Am Acad Dermatol 2008 — PMID 18603326 — [DOI](https://doi.org/10.1016/j.jaad.2008.05.004)\n11. Romana-Souza B et al., J Cosmet Dermatol 2020 — PMID 32307865 — [DOI](https://doi.org/10.1111/jocd.13413)\n12. Yokota M, Yahagi S, J Cosmet Dermatol 2021 — PMID 34910367 — [DOI](https://doi.org/10.1111/jocd.14604)\n13. Afzal N et al., J Cosmet Dermatol 2024 — PMID 38525606 — [DOI](https://doi.org/10.1111/jocd.16292)\n14. Règlements (UE) 2022/1176 et 2024/996 — [EUR-Lex](https://eur-lex.europa.eu/eli/reg/2024/996/oj) (consulté le 2026-10-03)\n15. Pullar JM, Carr AC, Vissers MCM, Nutrients 2017 — PMID 28805671 — [DOI](https://doi.org/10.3390/nu9080866)\n16. Nusgens BV et al., J Invest Dermatol 2001 — PMID 11407971 — [DOI](https://doi.org/10.1046/j.0022-202x.2001.01362.x)\n17. Žmitek K et al., Nutrients 2024 — PMID 38931263 — [DOI](https://doi.org/10.3390/nu16121908)\n18. Boghosian T et al., J Clin Aesthet Dermatol 2026 — PMID 42761976 (résumé seul)\n19. USDA FoodData Central, SR Legacy (consulté le 2026-10-22)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "Vitamine C topique (acide L-ascorbique)",
+ "type": "actif",
+ "unite": ""
+}

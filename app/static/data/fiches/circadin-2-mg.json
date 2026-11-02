@@ -1,0 +1,73 @@
+{
+ "cibles": [
+  "cerveau",
+  "sante-mentale"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "complement",
+ "id": "circadin-2-mg",
+ "intro": "",
+ "liens": [
+  "insomnie",
+  "melatonine",
+  "sommeil"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "23691095",
+  "35843245",
+  "38063870",
+  "30107892",
+  "27855744"
+ ],
+ "preuve_globale": "A",
+ "resume": "Seule mélatonine à dose garantie (2 mg, médicament sur ordonnance, indiqué à partir de 55 ans pour l'insomnie primaire à court terme), alors que les compléments du commerce peuvent s'écarter fortement de leur étiquette ; mais l'actif a un effet petit sur l'insomnie, et la Haute Autorité de santé…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Seule mélatonine à dose garantie (2 mg, médicament sur ordonnance, indiqué à partir de 55 ans pour l'insomnie primaire à court terme), alors que les compléments du commerce peuvent s'écarter fortement de leur étiquette ; mais l'actif a un effet petit sur l'insomnie, et la Haute Autorité de santé lui attribue une valeur thérapeutique faible (SMR faible, ASMR V, selon Vidal).",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur déclarée | Preuve |\n|---|---|---|\n| Mélatonine | 2 mg par comprimé à libération prolongée | Insomnie primaire : latence d'endormissement −7,1 min, sommeil total +8,3 min [A] (PMID 23691095) ; moins efficace que benzodiazépines et Z-drugs dans une méta-analyse en réseau [A] (PMID 35843245) |\n| Excipients | Lactose monohydraté (80 mg), copolymère d'ammonio-méthacrylate B, phosphate de calcium, silice, talc, stéarate de magnésium | Sans objet |\n\nComposition : Vidal, consulté le 2026-10-12. Essais propres à la forme Circadin (population ≥ 55 ans) : non recherchés dans PubMed pour cette fiche [?]. Détail de la mélatonine, dose et horaire : voir [mélatonine](fiche:melatonine).",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Médicament sur ordonnance, liste II, non remboursé par l'Assurance maladie ; AMM européenne EU/1/07/392/003 ; indication : monothérapie à court terme de l'insomnie primaire « caractérisée par un sommeil de mauvaise qualité » chez les patients de 55 ans et plus (Vidal, mise à jour du 24 septembre 2026, consulté le 2026-10-12 ; RCP européen 2015). Vidal indique SMR « faible » et ASMR V (date « 04/03/2026 » sur la page, non confirmée sur le site de la HAS [?]). BDPM non consultée directement [?]. AMA : non recherché [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque / l'AMM dit | Les études |\n|---|---|\n| Traitement de l'insomnie primaire ≥ 55 ans | Effet moyen petit chez l'adulte (−7 min d'endormissement) ; la TCC de l'insomnie reste le premier choix (PMID 38063870) [A] |\n| Bien toléré, sans effet rebond | Revue citée par la presse professionnelle (une revue de 2018, PMID 30107892, titre non relu ici) ; non vérifié dans le détail [?] |",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Dose et durée fixées par le prescripteur (RCP, posologie non lisible sur la page publique de Vidal). Les données de dose-réponse en études sont à lire dans la [fiche mélatonine](fiche:melatonine), sans valeur de consigne.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix : prix libre en pharmacie, boîte de 30 comprimés ; montant français non trouvé en ligne [?] (CIP 3400922499857 d'après Vidal).\n- Alternatives : TCC de l'insomnie (premier choix, voir [insomnie](fiche:insomnie) et [sommeil](fiche:sommeil)). Complément mélatonine 1,9 mg (Micronutrae Sommeil, 30 gélules) : 7,25 € sur un seul vendeur français (lasante.net, 2026-10-12), donc environ 7 €/mois ; dose réelle non vérifiée par analyse indépendante [?] alors que le contenu des compléments varie de −83 % à +478 % de l'étiquette dans une étude (PMID 27855744).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non consultés [?]. Somnolence signalée dans le RCP, prudence à la conduite.",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Somnolence ; déconseillée en cas de maladie auto-immune (Vidal, RCP). Grossesse, allaitement, interactions : voir RCP et [mélatonine](fiche:melatonine).\n- Ne remplace pas la recherche d'une cause d'insomnie (apnée du sommeil, dépression).",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "1. Vidal, « CIRCADIN 2 mg, comprimé à libération prolongée » — https://www.vidal.fr/Medicament/circadin-83685.htm (consulté le 2026-10-12)\n2. RCP européen Circadin (2015) — https://ec.europa.eu/health/documents/community-register/2015/20150717132329/anx_132329_fr.pdf (via résultat de recherche, non relu)\n3. lasante.net, Micronutrae Sommeil x30 — https://lasante.net/espace-para/bien-etre-et-minceur/bien-etre-complements-alimentaires/micronutrae-sommeil-gelules-x30.html (consulté le 2026-10-12)\n4. PMID 23691095, PMID 35843245, PMID 38063870, PMID 27855744 : études reprises de la fiche [mélatonine](fiche:melatonine) (résumés relus lors de sa rédaction).\n5. PMID 30107892 : revue sur la mélatonine 2 mg à libération prolongée, titre non relu.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Circadin 2 mg (mélatonine à libération prolongée)",
+ "type": "produit",
+ "unite": ""
+}

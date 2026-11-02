@@ -1,0 +1,78 @@
+{
+ "cibles": [
+  "prevention",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "lactoferrine",
+ "intro": "",
+ "liens": [
+  "fer-et-ferritine",
+  "probiotiques",
+  "vitamine-d",
+  "zinc"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "29059584",
+  "38291525",
+  "35481594",
+  "30635141",
+  "37782505"
+ ],
+ "preuve_globale": "A",
+ "resume": "Protéine du lait (vache, humain) qui fixe le fer, vendue pour « l'immunité », l'anémie et l'inflammation. Preuves réelles mais hétérogènes : anémie par carence en fer (méta-analyses d'ECR favorables au fer standard, avec une très forte hétérogénéité), IL-6 en baisse, infections respiratoires rédu…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Protéine du lait (vache, humain) qui fixe le fer, vendue pour « l'immunité », l'anémie et l'inflammation. Preuves réelles mais **hétérogènes** : anémie par carence en fer (méta-analyses d'ECR favorables au fer standard, avec une très forte hétérogénéité), IL-6 en baisse, infections respiratoires **réduites chez l'enfant, pas chez l'adulte**.\n- **Anémie** : lactoferrine orale vs sulfate ferreux, grossesse (4 ECR, 600 femmes) : hémoglobine +0,77 g/dL à 4 semaines (IC 0,04-1,55), moins d'effets digestifs [A, qualité à relire] (PMID 29059584). Méta-analyse de 7 ECR (tous contextes) : SMD −0,81 (IC −1,21 à −0,42) en faveur de la lactoferrine, mais **I² = 95,8 %** [A, hétérogénéité majeure] (PMID 38291525).\n- **Infections respiratoires** : OR 0,78 (IC 0,61-0,98) chez le nourrisson et l'enfant ; **OR 1,00 (IC 0,76-1,32) chez l'adulte** [A, hétérogène] (PMID 35481594).\n- **Prématurés** : le plus gros ECR (n = 2 203, 150 mg/kg/j) ne réduit pas les infections tardives (RR 0,95 ; IC 0,86-1,04) [B, ECR unique n=2203] (PMID 30635141).\n- Aucune donnée « anti-âge » ou longévité.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Fixe le fer et module l'immunité innée ; hypothèses anti-infectieuses et anti-inflammatoires. Pour l'anémie, l'effet proposé tient à la régulation de l'absorption du fer, sans mécanisme tranché dans les résumés lus [?].\n- Les effets systémiques observés (IL-6 −24,9 pg/mL, CRP et cytotoxicité NK inchangées chez l'adulte) sont des biomarqueurs (PMID 35481594) [A].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Anémie ferriprive de la grossesse | 4 ECR, 600 femmes : Hb +0,77 g/dL vs sulfate ferreux à 4 semaines (IC 0,04-1,55) ; différence non significative en anémie légère (+0,80, IC −0,21 à 1,82), significative en anémie modérée (1 essai, 228 femmes, +0,68) ; moins d'effets digestifs ; les auteurs recommandent la lactoferrine « comme agent de choix » (PMID 29059584), conclusion forte au regard des 4 essais | [A, petits ECR] |\n| Hémoglobine basse, tous contextes | 19 ECR inclus ; méta-analyse de 7 ECR vs sulfate ferreux : SMD −0,81 (IC −1,21 à −0,42), I² 95,8 % ; doses 100-250 mg/j d'après le résumé (« ng/day » dans le texte, coquille probable) (PMID 38291525) | [A, forte hétérogénéité] |\n| Inflammation (adulte) | IL-6 −24,9 pg/mL (IC −41,6 à −8,1) ; CRP non modifiée (SMD −0,09, IC −0,82 à 0,65) ; 200 mg/j évoqué comme dose à effet sur l'inflammation systémique (PMID 35481594) | [A, biomarqueurs] |\n| Infections respiratoires | enfants/nourrissons OR 0,78 (IC 0,61-0,98) ; adultes OR 1,00 (IC 0,76-1,32) ; sur 10 études, 6 rapportent une réduction de l'incidence, de la fréquence ou de la durée (PMID 35481594) | [A, pédiatrie] ; adulte [A, résultat nul] |\n| Prématurés, infections tardives | 2 203 nouveau-nés < 32 SA, lactoferrine 150 mg/kg/j (max 300 mg/j) vs saccharose : infection tardive 29 % vs 31 %, RR 0,95 (IC 0,86-1,04, p = 0,233) (PMID 30635141). Une méta-analyse en réseau (probiotiques, prébiotiques, lactoferrine) (106 ECR, 25 840 prématurés) conclut que les **associations** (probiotiques + prébiotiques ou lactoferrine) sont associées à la plus grande réduction de morbi-mortalité ; probiotique monosouche + lactoferrine : sepsis RR 0,33 (IC 0,14-0,78) ; seuls les probiotiques multisouches réduisent la mortalité toutes causes (RR 0,69) ; la lactoferrine seule n'est pas mise en avant dans le résumé (PMID 37782505) | [B, ECR unique n=2203] négatif ; réseau : [A] pour les probiotiques |\n| Peau, acné, COVID-19, H. pylori, prévention cancer, longévité | non recherché dans le détail | [?] |\n\nLimites : essais souvent financés par l'industrie laitière (non vérifié dans les résumés) [?] ; produits, doses, origines (bovine, humaine recombinante) variables.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Anémie : 100-250 mg/j (PMID 38291525). Inflammation : ≈ 200 mg/j (PMID 35481594). Nourrisson/enfant : formules 35-833 mg/j (PMID 35481594). Prématurés : 150 mg/kg/j (PMID 30635141).\n- Vendu : gélules 100-350 mg ; les doses de produits ne sont pas relevées ici [?]. La lactoferrine est une protéine fragile à l'acidité gastrique : les galéniques « protégées » sont un argument commercial non vérifié [M].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Compléments alimentaires (gélules, poudres, sticks) ; ingrédient de laits infantiles et de produits laitiers.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **UE, nouvel aliment** : la lactoferrine bovine (« lactoferrine de lait de vache ») figure dans la liste de l'Union (règlement d'exécution (UE) 2017/2470, version consolidée du 2026-08-10, EUR-Lex/Office des publications, consulté le 2026-10-14), pour des catégories précises : préparations pour nourrissons 100 mg/100 mL, denrées pour enfants en bas âge 200 mg/100 g, boissons lactées 200 mg/100 g, produits à base de yaourt 80 mg/100 g, fromage 2 000 mg/100 g, confiseries 750 mg/100 g, chewing-gum 3 000 mg/100 g, denrées à fins médicales spéciales jusqu'à 3 g/jour. **La catégorie « compléments alimentaires » n'apparaît pas dans cette entrée** (le « 4,5 g/jour » qui la précède dans le texte concerne l'entrée voisine). Les gélules de lactoferrine vendues en France ne relèvent donc pas d'une autorisation explicite comme complément ; leur conformité (usage avant 1997 comme protéine laitière, ou non) n'a pas pu être établie, le catalogue Novel Food en ligne étant inaccessible [?]. L'ancienne décision 2012/727/UE (citée via legislation.gov.uk) est la base d'origine.\n- **France** : aucune spécialité à base de lactoferrine dans la BDPM (fichier CIS_COMPO téléchargé le 2026-10-14). Position DGCCRF/ANSES : non trouvée [?].\n- **Allégations** : aucune allégation de santé « immunité » ou « anémie » trouvée pour la lactoferrine dans le registre UE (recherche non exhaustive).\n- **AMA** : la lactoferrine n'est pas citée dans la Liste des interdictions 2026 (PDF officiel, parcouru par mots-clés, consulté le 2026-10-14).",
+   "titre": "Réglementaire"
+  },
+  {
+   "markdown": "- Effets indésirables : dans la méta-analyse sur l'anémie de la grossesse, moins d'événements digestifs que sous sulfate ferreux (PMID 29059584). Détail de sécurité dans l'ECR de prématurés (16 événements indésirables graves) : non relu au-delà du résumé (PMID 30635141).\n- Allergie aux protéines du lait de vache : contre-indication de précaution (produit d'origine laitière) ; non étudiée dans les sources lues [?]. Grossesse : l'ECR relu ne concerne pas l'innocuité ; l'usage dans la méta-analyse de grossesse (PMID 29059584) porte sur des doses thérapeutiques sous suivi, pas sur de l'automédication.\n- **Anémie à ne pas traiter sans bilan** : diagnostic de carence, cause (saignement) et suivi de la ferritine avant de remplacer un traitement martial ; voir [fer et ferritine](fiche:fer-et-ferritine). Interactions médicamenteuses : aucune donnée trouvée [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Booste l'immunité de l'adulte »** : OR 1,00 pour les infections respiratoires de l'adulte [A] (PMID 35481594).\n- **« Remplace le fer »** : signaux favorables en méta-analyses mais I² 95,8 % et petits essais ; les recommandations (non consultées ici [?]) restent au fer oral.\n- **« Protège les prématurés »** : le plus gros ECR est nul sur le critère principal (PMID 30635141).\n- **« Anti-inflammatoire »** : baisse d'IL-6 mais pas de la CRP (PMID 35481594) ; effet clinique inconnu.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit dans ce dépôt. Voir [fer et ferritine](fiche:fer-et-ferritine), [probiotiques](fiche:probiotiques), [zinc](fiche:zinc), [vitamine D](fiche:vitamine-d).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 35481594, Berthon et al., « Effect of Lactoferrin Supplementation on Inflammation, Immune Function, and Prevention of Respiratory Tract Infections in Humans: A Systematic Review and Meta-analysis », Adv Nutr 2022 (résumé relu).\n- PMID 29059584, Abu Hashim et al., « Lactoferrin or ferrous salts for iron deficiency anemia in pregnancy: A meta-analysis of randomized trials », Eur J Obstet Gynecol Reprod Biol 2017 (résumé relu).\n- PMID 38291525, Christofi et al., « The effectiveness of oral bovine lactoferrin compared to iron supplementation in patients with a low hemoglobin profile », BMC Nutr 2024 (résumé relu).\n- PMID 30635141, ELFIN trial investigators group, « Enteral lactoferrin supplementation for very preterm infants: a randomised placebo-controlled trial », Lancet 2019 (résumé relu).\n- PMID 37782505, Wang et al., réseau de méta-analyses probiotiques, prébiotiques et lactoferrine chez le prématuré, JAMA Pediatr 2023 (résumé relu).\n- Règlement d'exécution (UE) 2017/2470 consolidé 2026-08-10 ; BDPM ; Liste AMA 2026 ; consultés le 2026-10-14.\n- Décision d'exécution 2012/727/UE (lactoferrine bovine, nouvel aliment), legislation.gov.uk, consulté le 2026-10-14 (article 1 lu, annexes non lues).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Lactoferrine (bovine)",
+ "type": "actif",
+ "unite": ""
+}

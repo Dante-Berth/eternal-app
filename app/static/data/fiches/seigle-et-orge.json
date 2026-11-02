@@ -1,0 +1,82 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-18",
+ "famille": "alimentation",
+ "id": "seigle-et-orge",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "apob-lipides-et-statines",
+  "avoine-et-beta-glucanes",
+  "ble-gluten-epeautre-et-cereales-anciennes",
+  "cereales-completes-et-raffinees",
+  "maladie-coeliaque-et-intolerances",
+  "psyllium-et-fibres-solubles"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 10,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "27273067",
+  "20924392",
+  "41651462",
+  "32728756",
+  "26026211",
+  "19709412",
+  "27417338",
+  "41081381",
+  "42016010",
+  "42016012"
+ ],
+ "preuve_globale": "A",
+ "resume": "Orge : le β-glucane baisse un peu le LDL, comme l'avoine. 14 ECR (n = 615), dose médiane ~6,5-6,9 g/j de β-glucane, 4 semaines : LDL -0,25 mmol/L (-0,30 à -0,20), non-HDL -0,31, apoB sans effet, forte hétérogénéité sur le non-HDL (I² = 98 %) [A] (PMID 27273067). Méta-analyse antérieure (11 ECR) :…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Orge : le β-glucane baisse un peu le LDL, comme l'avoine.** 14 ECR (n = 615), dose médiane ~6,5-6,9 g/j de β-glucane, 4 semaines : LDL -0,25 mmol/L (-0,30 à -0,20), non-HDL -0,31, apoB sans effet, forte hétérogénéité sur le non-HDL (I² = 98 %) [A] (PMID 27273067). Méta-analyse antérieure (11 ECR) : cholestérol total -0,30 mmol/L, LDL -0,27, sans relation dose-effet nette [A] (PMID 20924392).\n- **Orge et glycémie : un effet de court terme seulement.** 31 essais contrôlés : glycémie postprandiale -10,5 mg/dL à 30 min, -12,4 à 60 min, -7,0 à 120 min ; pas d'effet sur la glycémie à jeun ni l'HbA1c à long terme [A] (PMID 41651462).\n- **Seigle : peu de preuves cliniques solides.** Petits essais courts sur la satiété (comparés à un pain de blé) et un essai sur le syndrome de l'intestin irritable ; une recommandation britannique sur la constipation inclut deux énoncés sur le pain de seigle, dont le contenu n'a pas été extrait [?]. Effets sur la mortalité ou le diabète : non recherchés [?].\n- **Les deux contiennent du gluten** (seigle et orge sont à éviter en cas de maladie cœliaque) ; voir [blé, gluten](fiche:ble-gluten-epeautre-et-cereales-anciennes).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "L'orge est riche en β-glucane (fibre soluble visqueuse) ; le seigle est riche en fibres insolubles et en fructanes. Revue de mécanismes pour l'avoine et l'orge : fibres solubles, composés phénoliques, viscosité intestinale, microbiote [D, revue de mécanismes] (PMID 32728756).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Orge, LDL | 14 ECR, n = 615 : LDL -0,25 mmol/L (PMID 27273067) ; 11 ECR : LDL -0,27 (PMID 20924392) | [A] |\n| Orge ou avoine, β-glucane, hypercholestérolémie | 17 ECR (n = 916) : cholestérol total -0,26, LDL -0,21 ; HDL, TG et glycémie sans effet (PMID 26026211) | [A] |\n| Orge, glycémie | effet postprandial précoce ; pas d'effet sur glycémie à jeun ni HbA1c (PMID 41651462) | [A] |\n| Seigle, satiété | 2 ECR croisés (n = 16 chacun) : appétit réduit avant le déjeuner avec le pain de seigle, surtout au son de seigle, vs pain de blé de référence (PMID 19709412) | [B, petit effectif, court terme] |\n| Seigle, syndrome de l'intestin irritable | pain de seigle pauvre en FODMAP vs pain classique : ECR croisé en double aveugle n = 87, 4 semaines : flatulences, douleurs, crampes moindres, hydrogène expiré plus bas ; pas de différence sur le score global ni sur la qualité de vie (PMID 27417338) | [B, ECR unique n = 87] |\n| Seigle, constipation | recommandation de la British Dietetic Association : 2 énoncés sur le pain de seigle ; niveau de preuve et sens non extraits (PMID 41081381) | [?] |\n| Seigle, mortalité, cardiovasculaire, diabète | non recherchés | [?] |\n| Orge perlé vs mondé, bière, malt | non recherchés | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Orge** : environ 6,5-6,9 g/j de β-glucane dans les essais (PMID 27273067). Les produits d'orge du commerce (orge perlé, mondé, flocons, farine) ont des teneurs en β-glucane différentes : à lire sur l'étiquette, non sourcé ici [?]. Le perlage retire du son ; l'effet du perlage sur les β-glucanes n'est pas dans les sources lues [?].\n- **Seigle** : doses des essais de satiété de 5 ou 8 g de fibres par petit-déjeuner (PMID 19709412). Le « pain de seigle » vendu contient souvent beaucoup de farine de blé : proportion de seigle à vérifier sur l'étiquette [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Aliments (pain de seigle, pain noir, crackers, flocons, orge perlé, malt). Orge et β-glucane : allégation de santé autorisée dans l'UE, sur le cholestérol, avec la même exigence que l'avoine (3 g/j de β-glucane) (règlement (UE) n° 432/2012, EUR-Lex, consulté le 2026-10-18). Avis EFSA sur le β-glucane d'orge : titres seuls lus dans PubMed (PMID 42016010, 42016012), contenu non extrait.\n- **Gluten** : la mention « sans gluten » exige ≤ 20 mg/kg ; le règlement ne prévoit d'exception de production que pour l'avoine spécialement produite (règlement (UE) n° 828/2014, annexe, EUR-Lex, consulté le 2026-10-18). Seigle et orge sont des céréales à gluten, donc exclues de fait.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Maladie cœliaque** : éviction stricte du seigle et de l'orge, comme du blé ; voir [maladie cœliaque](fiche:maladie-coeliaque-et-intolerances).\n- **Syndrome de l'intestin irritable** : les céréales sont riches en FODMAP et souvent considérées comme des déclencheurs ; la version pauvre en FODMAP du pain de seigle réduit les symptômes de gaz (PMID 27417338).\n- **Ballonnements** : fréquent avec les fibres du seigle ; non chiffré [?].\n- **Allergie à l'orge ou au seigle, ergot de seigle** : non recherchés [?].\n- **Interactions médicamenteuses** : non recherchées [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Le pain de seigle est un pain \"sans gluten\" ou très léger en gluten »** : faux, le seigle contient du gluten (voir TL;DR).\n- **« L'orge fait baisser le cholestérol comme un médicament »** : ordre de grandeur -0,2 à -0,3 mmol/L de LDL, avec une hétérogénéité forte ; sans preuve sur les événements cliniques [A] (PMID 27273067, 20924392). Ce n'est pas comparable à une statine ; voir [lipides et ApoB](fiche:apob-lipides-et-statines).\n- **« Le seigle coupe la faim durablement »** : effets sur la satiété sur quelques heures dans deux petits essais [B] (PMID 19709412) ; pas d'effet démontré sur le poids sur le long terme [?].\n\nVoir aussi : [avoine et β-glucanes](fiche:avoine-et-beta-glucanes) · [céréales complètes et raffinées](fiche:cereales-completes-et-raffinees) · [blé, gluten, épeautre](fiche:ble-gluten-epeautre-et-cereales-anciennes) · [alimentation : synthèse](fiche:alimentation) · [psyllium et fibres solubles](fiche:psyllium-et-fibres-solubles).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 27273067 — Ho et al., *Eur J Clin Nutr* 2016 (β-glucane d'orge, LDL, non-HDL, apoB). doi:10.1038/ejcn.2016.89\n- PMID 20924392 — AbuMweis et al., *Eur J Clin Nutr* 2010 (β-glucane d'orge et lipides). doi:10.1038/ejcn.2010.178\n- PMID 26026211 — Zhu et al., *Nutr Metab Cardiovasc Dis* 2015 (β-glucane, hypercholestérolémie). doi:10.1016/j.numecd.2015.04.008\n- PMID 41651462 — Nematizadeh et al., *Nutr Rev* 2026 (orge et glycémie). doi:10.1093/nutrit/nuaf293\n- PMID 32728756 — Tosh et al., *Nutr Rev* 2020 (avoine, orge, β-glucanes : mécanismes). doi:10.1093/nutrit/nuz085\n- PMID 19709412 — Isaksson et al., *Nutr J* 2009 (pain de seigle, satiété). doi:10.1186/1475-2891-8-39\n- PMID 27417338 — Laatikainen et al., *Aliment Pharmacol Ther* 2016 (pain de seigle pauvre en FODMAP, SII). doi:10.1111/apt.13726\n- PMID 41081381 — Dimidi et al., *Neurogastroenterol Motil* 2025 (recommandations diététiques, constipation ; énoncés sur le pain de seigle non extraits). doi:10.1111/nmo.70173\n- PMID 42016010, 42016012 — EFSA NDA Panel, *EFSA J* 2011 (allégations β-glucane d'orge ; titres seuls).\n- Règlements (UE) n° 432/2012 et n° 828/2014 (EUR-Lex, consultés le 2026-10-18).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Seigle et orge",
+ "type": "actif",
+ "unite": ""
+}

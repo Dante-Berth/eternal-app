@@ -1,0 +1,74 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-18",
+ "famille": "alimentation",
+ "id": "legumes-comparatif-et-tier-list",
+ "intro": "Synthèse des fiches du dépôt. Aucun essai ne compare les légumes entre eux : les paliers reflètent la solidité des preuves disponibles et la densité nutritionnelle mesurée, pas un effet mesuré tête à tête. Presque tout repose sur des cohortes [B].",
+ "liens": [
+  "ail-et-oignon",
+  "alimentation",
+  "antioxydants-alimentaires-et-absorption",
+  "baies-myrtilles-et-anthocyanes",
+  "betterave-et-nitrates",
+  "cereales-comparatif-et-top-3",
+  "champignons-et-ergothioneine",
+  "cruciferes-brocoli-et-sulforaphane",
+  "legumes-verts-a-feuilles",
+  "legumineuses",
+  "pomme-de-terre-et-frites",
+  "tomate-carotte-poivron-et-aliments-colores",
+  "vitamines-aliments-et-absorption"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28338764",
+  "33000670",
+  "40105674",
+  "37997693",
+  "37854351",
+  "17538185",
+  "20155614"
+ ],
+ "preuve_globale": "B",
+ "resume": "La quantité totale compte plus que le palmarès. Par 200 g/j de fruits et légumes : maladie cardiovasculaire RR 0,92, mortalité toutes causes RR 0,90, cancer total RR 0,97 [B, cohortes] (PMID 28338764). Légumes seuls : maladie cardiovasculaire RR 0,94 (0,90-0,97), cardiopathie coronarienne 0,92, A…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **La quantité totale compte plus que le palmarès.** Par 200 g/j de fruits et légumes : maladie cardiovasculaire RR 0,92, mortalité toutes causes RR 0,90, cancer total RR 0,97 [B, cohortes] (PMID 28338764). Légumes seuls : maladie cardiovasculaire RR 0,94 (0,90-0,97), cardiopathie coronarienne 0,92, AVC 0,88 [B] (PMID 33000670). Chez les diabétiques de type 2, mortalité toutes causes HR 0,85 (0,73-0,98) pour la consommation de légumes la plus haute [B] (PMID 40105674).\n- **Aucun légume n'est associé à un effet néfaste en cohortes** ; certaines sources ont un bénéfice plus marqué : alliacés, carottes, crucifères, verts à feuilles (PMID 33000670). Seules les préparations frites de pomme de terre ressortent négativement (voir [pomme de terre et frites](fiche:pomme-de-terre-et-frites)).\n- **Densité nutritionnelle ≠ preuve de bénéfice.** Le brocoli est dense en micronutriments (vitamine C 89 mg, vitamine K 102 µg, folates 63 µg pour 34 kcal aux 100 g, cru) mais pas riche en macronutriments : son intérêt est dans les micronutriments, les fibres et les composés soufrés. L'effet clinique propre n'est pas démontré par des essais [?] (USDA FoodData Central, FDC 170379, consulté le 2026-10-18).\n- **Les fibres de légumes sont elles-mêmes associées à moins de mortalité** : fibres de légumes et mortalité toutes causes et cardiovasculaire en baisse dans deux méta-analyses de cohortes [B] (PMID 37997693, 37854351).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "| Palier | Légumes | Pourquoi | Fiche |\n|---|---|---|---|\n| **S** | Légumes verts à feuilles (épinards, kale, salades) | Certitude la plus haute des sources de légumes dans 81 cohortes ; CVD RR 0,89 ; densité en folates et vitamine K ; essais sur tension nuls [B] | [verts à feuilles](fiche:legumes-verts-a-feuilles) |\n| **S** | Crucifères (brocoli, chou, chou de Bruxelles) | Associés à moins de maladies CV, de mortalité et de cancer ; sulforaphane en gélule décevant en essais [B] | [crucifères](fiche:cruciferes-brocoli-et-sulforaphane) |\n| **S** | Légumineuses (lentilles, pois chiches, haricots) | Seul groupe aussi étayé par des ECR : LDL -0,17 mmol/L [A] ; mortalité totale HR 0,94 en cohortes [B] | [légumineuses](fiche:legumineuses) |\n| **A** | Alliacés (ail, oignon, poireau) | Bénéfice plus marqué en cohortes (PMID 33000670) ; détail dans la fiche | [ail et oignon](fiche:ail-et-oignon) |\n| **A** | Tomate | Cohortes : AVC HR 0,74 ; essais : LDL -0,22 mmol/L, effets sur les autres facteurs discordants [B] | [tomate, carotte, poivron](fiche:tomate-carotte-poivron-et-aliments-colores) |\n| **A** | Carottes et légumes-racines | Mortalité RR 0,76 pour les légumes-racines [B] ; aucun essai propre à la carotte [?] | [tomate, carotte, poivron](fiche:tomate-carotte-poivron-et-aliments-colores) |\n| **B** | Poivron rouge | Plus de vitamine C que l'orange (128 vs 53 mg/100 g) ; aucune donnée clinique spécifique [?] | [tomate, carotte, poivron](fiche:tomate-carotte-poivron-et-aliments-colores) |\n| **B** | Betterave | Nitrates ; essais sur la tension (voir fiche) | [betterave](fiche:betterave-et-nitrates) |\n| **B** | Champignons | Ergothionéine (voir fiche pour le niveau de preuve) | [champignons](fiche:champignons-et-ergothioneine) |\n| **C** | Pomme de terre cuite (four, eau) | Neutre : CVD HR 0,96 (NS), diabète HR 1,01 (NS) [B] | [pomme de terre](fiche:pomme-de-terre-et-frites) |\n| **D** | Frites et pommes de terre frites | Diabète HR 1,20 par 3 portions/semaine ; hypertension +10 % [B] | [pomme de terre](fiche:pomme-de-terre-et-frites) |\n| **?** | Courges, patate douce, aubergine, courgette, poireau, fenouil, asperge, artichaut, concombre | Non recherchés [?] | — |\n\nLes paliers S/A/B ne sont pas des écarts mesurés : les intervalles de confiance se chevauchent largement et l'ordre à l'intérieur d'un palier est arbitraire.",
+   "titre": "Tier list (par solidité des preuves, puis densité nutritionnelle)"
+  },
+  {
+   "markdown": "| Aliment | Vit. C (mg) | Vit. K (µg) | Folates (µg) | Potassium (mg) | Fibres (g) | kcal | FDC |\n|---|---|---|---|---|---|---|---|\n| Brocoli | 89,2 | 102 | 63 | 316 | 2,6 | 34 | 170379 |\n| Kale | 93,4 | 390 | 62 | 348 | 4,1 | 35 | 168421 |\n| Épinards | 28,1 | 483 | 194 | 558 | 2,2 | 23 | 168462 |\n| Poivron rouge | 128 | 4,9 | 46 | 211 | 2,1 | 26 | 170108 |\n| Tomate | 13,7 | 7,9 | 15 | 237 | 1,2 | 18 | 170457 |\n| Orange (fruit, comparaison) | 53,2 | non relevé | non relevé | non relevé | non relevé | non relevé | 169097 |\n\nTeneurs après cuisson, absorption (le fer des épinards, par exemple, avec l'oxalate) et autres légumes : non relevées [?].",
+   "titre": "Composition de quelques légumes crus (USDA FoodData Central, SR Legacy, par 100 g, consulté le 2026-10-18)"
+  },
+  {
+   "markdown": "- **Anticoagulants antivitamine K** : garder une consommation de légumes riches en vitamine K (épinards, kale, brocoli) stable, sans la supprimer ; en parler à l'équipe d'anticoagulation.\n- **Antécédent de calcul d'oxalate de calcium** : épinards en quantité élevée associés à plus de calculs dans des cohortes américaines (PMID 17538185) ; voir [verts à feuilles](fiche:legumes-verts-a-feuilles).\n- **Fumeurs** : éviter les gélules de bêta-carotène (PMID 20155614) ; les légumes entiers ne sont pas concernés.\n- **Intestin irritable** : certains légumes riches en FODMAP peuvent déclencher des symptômes (non sourcé ici) [?].\n- **Diabète** : frites à limiter ; légumes non féculents sans restriction particulière trouvée.",
+   "titre": "Ce qui change le classement selon la personne"
+  },
+  {
+   "markdown": "- Cohortes : les mangeurs de légumes ont un mode de vie différent ; l'effet propre d'un légume n'est pas isolé.\n- Variété (« manger de tout ») : bénéfice d'un régime varié par rapport à un seul légume en grande quantité non testé [?].\n- Mode de cuisson, bio vs conventionnel, légumes surgelés : non évalués [?].\n- Prix et disponibilité : non relevés [?].\n\nVoir aussi : [alimentation : synthèse](fiche:alimentation) · [antioxydants alimentaires et absorption](fiche:antioxydants-alimentaires-et-absorption) · [vitamines : aliments et absorption](fiche:vitamines-aliments-et-absorption) · [céréales : comparatif et top 3](fiche:cereales-comparatif-et-top-3) · [baies et anthocyanes](fiche:baies-myrtilles-et-anthocyanes).",
+   "titre": "Limites de ce classement"
+  },
+  {
+   "markdown": "- PMID 28338764 — Aune et al., *Int J Epidemiol* 2017 (95 études). doi:10.1093/ije/dyw319\n- PMID 33000670 — Zurbau et al., *J Am Heart Assoc* 2020. doi:10.1161/JAHA.120.017728\n- PMID 40105674 — Geravand et al., *Nutr Rev* 2025 (fruits, légumes et mortalité, diabète de type 2). doi:10.1093/nutrit/nuaf013\n- PMID 37997693 — Mirrafiei et al., *Food Funct* 2023 (fibres alimentaires et mortalité). doi:10.1039/d2fo04024g\n- PMID 37854351 — Yao et al., *Front Nutr* 2023 (fibres alimentaires et mortalité). doi:10.3389/fnut.2023.1153165\n- PMID 17538185 — Taylor et Curhan, *J Am Soc Nephrol* 2007. doi:10.1681/ASN.2007020219\n- PMID 20155614 — Goralczyk, *Nutr Cancer* 2009. doi:10.1080/01635580903285155\n- Les autres chiffres sont sourcés dans les fiches liées. USDA FoodData Central, SR Legacy, FDC 170379, 168421, 168462, 170108, 170457, 169097 (consulté le 2026-10-18).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Légumes : tier list et comparatif",
+ "type": "actif",
+ "unite": ""
+}

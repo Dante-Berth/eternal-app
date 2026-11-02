@@ -1,0 +1,78 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-08",
+ "famille": "cosmetique",
+ "id": "romarin",
+ "intro": "",
+ "liens": [
+  "alopecie-androgenetique",
+  "minoxidil-cooper-5-solution",
+  "pranarom-huile-essentielle-romarin"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "22517595",
+  "41051009",
+  "39524109",
+  "25842469",
+  "42512824",
+  "9828867",
+  "40656290",
+  "39917132",
+  "40986632",
+  "27427817",
+  "40176994"
+ ],
+ "preuve_globale": "B",
+ "resume": "La réputation « huile de romarin = minoxidil » repose sur un seul essai iranien de 100 personnes, contre minoxidil 2 % (pas 5 %), en simple aveugle, avec des gains minimes dans les deux groupes [B, ECR unique n=100].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- La réputation « huile de romarin = minoxidil » repose sur un seul essai iranien de 100 personnes, contre minoxidil **2 %** (pas 5 %), en simple aveugle, avec des gains minimes dans les deux groupes [B, ECR unique n=100].\n- Une NMA de 2026 estime le minoxidil 5 % supérieur à l'huile de romarin de 15 cheveux/cm² environ [A, faible certitude].\n- Chez la souris, l'extrait de feuille de romarin améliore la repousse et inhibe la 5α-réductase in vitro [C].\n- Le consensus d'experts canadien classe l'huile de romarin « non recommandée » ; une revue la range parmi les remèdes « naturels » relayés par la désinformation en ligne.\n- Huile essentielle concentrée : irritante et allergisante pure, à diluer ; aucune donnée de sécurité d'usage oral trouvée (non recommandé ici).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Extrait de feuille (2 mg/j/souris) : meilleure repousse chez des souris traitées à la testostérone ; inhibition de la 5α-réductase de 82,4 à 94,6 % à 200-500 µg/ml, composant actif identifié : l'acide 12-méthoxycarnosique [C] (PMID 22517595). Extrait de feuille ≠ huile essentielle (composition différente).\n- Effets antioxydants, anti-inflammatoires et antifongiques avancés par les revues, sans démonstration clinique [D] (PMID 41051009, texte intégral ; PMID 39524109).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| AGA, huile de romarin vs minoxidil 2 %, 6 mois | 50 vs 50 patients : pas de changement à 3 mois ; hausse significative du nombre de cheveux à 6 mois dans les deux groupes, sans différence entre eux ; démangeaisons plus fréquentes sous minoxidil. Gains moyens rapportés dans une NMA : +6,8 ± 31,7 (romarin) et +2,3 ± 24,2 cheveux/cm² (minoxidil 2 %), soit très faibles et très dispersés | [B, ECR unique n=100, simple aveugle] (PMID 25842469 ; chiffres : texte intégral PMID 42512824) |\n| NMA homme, 6 mois | Minoxidil 5 % supérieur à l'huile de romarin : +15,17 cheveux/cm² (IC crédible 2,87–27,39) | [A, faible certitude] (PMID 42512824) |\n| NMA homme, 24 sem. | Romarin inclus parmi les 7 produits sans ordonnance ; rang non lisible dans le texte intégral : non rapporté ici | (PMID 41051009) |\n| Pelade (alopecia areata), mélange thym-romarin-lavande-cèdre en massage vs huile neutre | Amélioration 44 % vs 15 % (p = 0,008), 7 mois ; mélange de 4 huiles, autre maladie | [B, ECR unique n=86] (PMID 9828867) |\n| Essais de produits commerciaux (sérums, huiles mélangées) | Gains spectaculaires rapportés (ex. +32 % de densité vs huile de coco), essais courts, sponsorisés, publiés dans *Cureus* | [B, risque de biais élevé] (PMID 40656290, 39917132) |\n| Recommandation d'experts | « Non recommandée » (consensus canadien) | Avis d'experts (PMID 40986632) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essai Panahi : « huile de romarin » appliquée deux fois par jour ; concentration et dilution non précisées dans le résumé (donnée absente).\n- Vendues : huiles essentielles pures (100 %, chémotypes cinéole, camphre ou verbénone), huiles capillaires « au romarin » diluées sans teneur déclarée, extraits de feuille dans des shampooings. Aucune correspondance démontrée entre ces produits et le produit de l'essai.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Huiles essentielles et huiles capillaires : vendues comme cosmétiques ou produits d'aromathérapie en pharmacie, parapharmacie et magasins bio. Statut CosIng non consulté (pas d'accès à la base ici).\n- BDPM : non consultée ici ; aucun médicament à base de romarin pour la chute de cheveux n'est connu de cette fiche.\n- AMA : sans objet.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Tolérance dans l'essai : démangeaisons accrues vs début, mais moins que sous minoxidil [B] (PMID 25842469).\n- Les huiles essentielles de romarin contiennent 450 à 500 composés (terpènes : 1,8-cinéole, camphre, α-pinène…), dont des allergènes de contact connus [D] (PMID 27427817). Ne jamais appliquer pure sur le cuir chevelu ; test au pli du coude.\n- Grossesse, allaitement, enfants, épilepsie : aucune donnée de sécurité du romarin capillaire trouvée sur PubMed ; en l'absence de données, s'abstenir et demander un avis médical.\n- Interaction avec le minoxidil : aucune étude trouvée.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Le romarin marche aussi bien que le minoxidil »** (références chez l'homme : [alopécie androgénétique](fiche:alopecie-androgenetique)) : comparé au minoxidil 2 %, pas au 5 % de référence chez l'homme ; essai unique, simple aveugle, gains faibles des deux côtés [B] ; le 5 % le dépasse en NMA [A, faible certitude] (PMID 42512824).\n- **« Naturel donc sans effet indésirable »** : allergènes de contact et irritation possibles [D] (PMID 27427817).\n- **Viralité** : une revue qualitative de la désinformation en ligne sur l'alopécie classe l'huile de romarin parmi les remèdes « naturels » présentés sans fondement [B] (PMID 40176994).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Top 3 (preuve de l'actif, concentration, prix, tolérance) :\n1. [Huile essentielle de romarin à cinéole Pranarôm](fiche:pranarom-huile-essentielle-romarin) : composition simple et traçable, très bon marché ; actif [B] au mieux, à diluer.\n2. Huiles capillaires « au romarin » prêtes à l'emploi : teneur non déclarée, prix souvent bien supérieur, aucun essai propre identifié ; pas de fiche.\n3. Pas de troisième choix justifiable : à prix comparable, le [minoxidil 5 %](fiche:minoxidil-cooper-5-solution) a une preuve [A].",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 25842469 — Panahi Y. et al., *Skinmed* 2015.\n- PMID 42512824 — Gupta A.K. et al., *Medicina* 2026, NMA (texte intégral PMC13414076). doi:10.3390/medicina62071282\n- PMID 41051009 — Gupta A.K. et al., *J Cosmet Dermatol* 2025, NMA (texte intégral). doi:10.1111/jocd.70483\n- PMID 22517595 — Murata K. et al., *Phytother Res* 2013, souris et in vitro. doi:10.1002/ptr.4712\n- PMID 39524109 — Bin Rubaian N.F. et al., *Clin Cosmet Investig Dermatol* 2024, revue. doi:10.2147/CCID.S470989\n- PMID 9828867 — Hay I.C. et al., *Arch Dermatol* 1998, pelade. doi:10.1001/archderm.134.11.1349\n- PMID 40656290 — Patel M.N. et al., *Cureus* 2025. doi:10.7759/cureus.85906\n- PMID 39917132 — Patel M. et al., *Cureus* 2025. doi:10.7759/cureus.77066\n- PMID 40986632 — Landells I. et al., *J Cutan Med Surg* 2025. doi:10.1177/12034754251368849\n- PMID 27427817 — de Groot A.C., Schmidt E., *Dermatitis* 2016, composition des huiles essentielles. doi:10.1097/DER.0000000000000193\n- PMID 40176994 — Finnegan P. et al., *Skin Appendage Disord* 2024, désinformation. doi:10.1159/000541809",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "Romarin (huile essentielle et extraits)",
+ "type": "actif",
+ "unite": ""
+}

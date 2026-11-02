@@ -1,0 +1,80 @@
+{
+ "cibles": [
+  "prevention",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "butyrate-et-tributyrine",
+ "intro": "",
+ "liens": [
+  "aliments-fermentes-kefir-yaourt-kimchi",
+  "legumineuses",
+  "probiotiques",
+  "psyllium-et-fibres-solubles"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "37290429",
+  "39797089",
+  "36469320",
+  "42646603",
+  "37163454",
+  "41271518",
+  "22738315",
+  "40635319",
+  "41974937",
+  "41248397",
+  "36362815"
+ ],
+ "preuve_globale": "B",
+ "resume": "Acide gras à chaîne courte produit par le microbiote à partir des fibres fermentescibles ; vendu en butyrate de sodium ou de calcium (gélules « microencapsulées ») et en tributyrine (précurseur). Les promesses (microbiote, côlon, métabolisme, cerveau) reposent surtout sur des études animales et d…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Acide gras à chaîne courte produit par le microbiote à partir des fibres fermentescibles ; vendu en butyrate de sodium ou de calcium (gélules « microencapsulées ») et en tributyrine (précurseur). Les promesses (microbiote, côlon, métabolisme, cerveau) reposent surtout sur des études animales et des essais humains de petite taille.\n- Aucune méta-analyse portant sur le butyrate oral seul n'a été retrouvée ; la méta-analyse disponible regroupe tous les acides gras à chaîne courte : insuline à jeun SMD −0,15 (IC −0,29 à −0,01) [A, effet faible, interventions hétérogènes] (PMID 37290429).\n- Intestin irritable : un ECR de 120 patients avec un mélange (butyrate microencapsulé + 5 probiotiques + FOS) montre un meilleur soulagement à 4 semaines (64,7 % vs 42,0 %, p = 0,023), mais pas de différence sur le score de gravité ni la qualité de vie ; l'effet du butyrate seul n'est pas isolable [B, ECR unique n=120, association] (PMID 39797089).\n- Obésité de l'enfant : un ECR (n = 54, butyrate de sodium 20 mg/kg/j, 6 mois) ; résultat spectaculaire sur le critère principal (96 % vs 56 % de baisse du z-score d'IMC ≥ 0,25) mais petit échantillon, essai unique, non répliqué trouvé [B, ECR unique n=54] (PMID 36469320).\n- Rectocolite hémorragique : revue systématique de 2026 (10 essais cliniques, 11 études animales) : effets « encourageants » en appoint avec butyrate oral microencapsulé, efficacité des lavements variable [B] (PMID 42646603).\n- Si l'objectif est le butyrate colique, l'alimentation riche en fibres fermentescibles est l'alternative mieux étayée (voir [légumineuses](fiche:legumineuses)). Le psyllium est une fibre peu fermentée : ce n'est pas un levier à butyrate (PMID 37163454).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Le butyrate est la principale source d'énergie des colonocytes et est métabolisé très vite par eux : la forme orale simple donne peu de butyrate dans le sang et au-delà du côlon (rationnel des galéniques microencapsulées et de la tributyrine, un triglycéride qui libère du butyrate) (PMID 41271518). Effets sur la barrière intestinale, l'inflammation et l'épigénétique (inhibition des désacétylases d'histones) : études animales, non relues dans cette fiche [C].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Intestin irritable | 120 adultes, mélange butyrate microencapsulé + probiotiques + scFOS, 12 semaines : soulagement adéquat 64,7 % vs 42,0 % à 4 semaines ; « aggravation » 5,9 % vs 16,0 % à 12 semaines ; IBS-SSS et IBS-QOL sans différence | [B, ECR unique n=120] (PMID 39797089) |\n| Intestin irritable, adultes, butyrate microencapsulé seul en appoint | 66 patients déjà sous traitement, 4 et 12 semaines : baisse significative de la douleur à la défécation (4 sem.) puis de l'urgence et du transit (12 sem.) ; douleur abdominale, ballonnements et transit global non significatifs ; pas d'effet sur la gravité | [B, ECR unique n=66] (PMID 22738315) |\n| Intestin irritable, enfants 4-17 ans, butyrate de calcium 500 mg/j | 51 enfants, 8 semaines : succès (baisse ≥ 50 % de l'EVA) 73 % vs 3,8 % (p < 0,0001) ; écart très grand, essai monocentrique de petite taille, non répliqué retrouvé | [B, ECR unique n=51] (PMID 40635319) |\n| Diabète de type 2 avec intestin irritable, butyrate de sodium microencapsulé 1,5 g/j | 52 patients, 12 semaines : douleur, diarrhée et ballonnements réduits (p ≤ 0,004) ; poids, HbA1c et HOMA-IR en baisse dans le groupe butyrate (comparaison intergroupe non détaillée dans le résumé) ; enregistrement rétrospectif | [B, ECR unique n=52] (PMID 41974937) |\n| Obésité de l'enfant (5-17 ans) | 54 enfants, 20 mg/kg/j de butyrate de sodium en plus des soins standard : baisse d'IMC z-score ≥ 0,25 chez 96 % vs 56 % ; tour de taille −5,07 cm en analyse per protocole (n = 48) | [B, ECR unique n=54] (PMID 36469320) |\n| Rectocolite hémorragique | 22 études (10 essais cliniques, 1 étude observationnelle, 11 études animales) : appoint oral prometteur, lavements variables ; en pédiatrie, résultats incohérents | [B, revue systématique d'études hétérogènes] (PMID 42646603) |\n| Insuline, tous acides gras à chaîne courte | 23 études : insuline à jeun SMD −0,15 (IC −0,29 à −0,01) ; effet meilleur quand l'augmentation d'acides gras à chaîne courte est confirmée | [A, effet faible] (PMID 37290429) |\n| Maladie de Parkinson, tributyrine | 14 patients et 3 témoins, 500 mg trois fois par jour pendant 30 jours : bonne tolérance, engagement de cible en TEP au [11C]butyrate, améliorations motrices et cognitives exploratoires | [B, étude ouverte n=17] (PMID 41271518) |\n| Dépression (tributyrine en appoint) | Protocole d'essai pilote publié, pas de résultat | [?] (PMID 41248397) |\n| Cerveau, longévité, performance | Aucun essai randomisé humain retrouvé | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais : 20 mg/kg/j de butyrate de sodium chez l'enfant (PMID 36469320) ; 500 mg de tributyrine trois fois par jour dans Parkinson (PMID 41271518). Mélange de l'essai intestin irritable adulte : 300 mg de butyrate de sodium microencapsulé à libération colique + 5 souches probiotiques + 64 mg de scFOS (protocole publié, PMID 36362815) ; autres essais : 500 mg/j de butyrate de calcium chez l'enfant (PMID 40635319), 1,5 g/j de butyrate de sodium microencapsulé chez le diabétique (PMID 41974937).\n- Produits vendus : teneur en butyrate, enrobage et libération colique : non relevés [?]. Ces paramètres décident de l'efficacité supposée.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Butyrate de sodium ou de calcium en gélules, tributyrine en capsules, mélanges avec probiotiques et fibres : compléments alimentaires. Réglementaire : le butyrate de sodium ou de calcium ne figure pas dans la liste de l'Union des nouveaux aliments (règlement d'exécution (UE) 2017/2470, version consolidée du 2026-08-10, texte intégral lu : aucune occurrence de « butyrate ») ; la tributyrine n'y apparaît qu'une fois, comme réactif dans la définition d'une matière grasse obtenue par inter-estérification. Ni l'annexe III du règlement (CE) n° 1925/2006 (version 2025-11-26) ni le règlement (UE) n° 432/2012 (version 2025-08-20) ne mentionnent le butyrate. Le statut au catalogue Novel Food (nouvel aliment ou non) n'a pas pu être consulté (site inaccessible), et les plafonds ou allégations applicables en France n'ont pas été retrouvés (recherches web du 2026-10-14) [?].\n- Aucun médicament français à base de butyrate simple dans la BDPM (le fichier de composition ne contient que du phénylbutyrate de sodium, du phénylbutyrate de glycérol et du butyrate d'hydrocortisone, molécules différentes ; consulté le 2026-10-14).\n- AMA : liste 2026 non consultée (PDF inaccessible le 2026-10-14) [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Tolérance annoncée « bonne » dans les essais cités, sans suivi long. L'acide butyrique a une odeur et un goût désagréables, d'où l'usage de sels (PMID 41974937). Effets indésirables chiffrés, interactions médicamenteuses, grossesse, allaitement : aucune donnée de sécurité retrouvée dans PubMed (recherches du 2026-10-14, seules des études animales en gestation) [?].\n- Chez l'enfant obèse, l'essai est court (6 mois) et monocentrique (PMID 36469320).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Nourrit le côlon et le microbiote » : le butyrate est un produit de la fermentation des fibres, et la forme orale simple est métabolisée très vite (PMID 41271518) ; aucun essai lu ne mesure le butyrate colique après une gélule.\n- « Fait maigrir » : un seul ECR pédiatrique de 54 enfants, non répliqué (PMID 36469320).\n- « Protège le cerveau » : une étude ouverte de 30 jours dans Parkinson (PMID 41271518) ne permet aucune conclusion d'efficacité.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour. Voir aussi [probiotiques](fiche:probiotiques), [aliments fermentés](fiche:aliments-fermentes-kefir-yaourt-kimchi), [psyllium et fibres solubles](fiche:psyllium-et-fibres-solubles).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Pham et al. *Nutr Rev* 2024 — PMID 37290429 — [DOI](https://doi.org/10.1093/nutrit/nuad042)\n2. Gąsiorowska et al. *J Clin Med* 2024 — PMID 39797089 — [DOI](https://doi.org/10.3390/jcm14010006)\n3. Coppola et al. *JAMA Netw Open* 2022 — PMID 36469320 — [DOI](https://doi.org/10.1001/jamanetworkopen.2022.44912)\n4. Golea et al. *Med Sci (Basel)* 2026 — PMID 42646603 — [DOI](https://doi.org/10.3390/medsci14040469)\n5. Bohnen et al. *Neurotherapeutics* 2026 — PMID 41271518 — [DOI](https://doi.org/10.1016/j.neurot.2025.e00791)\n6. Korenblik et al. *BMJ Open* 2025 (protocole) — PMID 41248397 — [DOI](https://doi.org/10.1136/bmjopen-2025-108423)\n7. Gibb et al. *J Am Assoc Nurse Pract* 2023 — PMID 37163454 — [DOI](https://doi.org/10.1097/JXX.0000000000000882)\n8. Banasiewicz et al. *Colorectal Dis* 2013 — PMID 22738315 — [DOI](https://doi.org/10.1111/j.1463-1318.2012.03152.x)\n9. Cristofori et al. *J Pediatr Gastroenterol Nutr* 2025 — PMID 40635319 — [DOI](https://doi.org/10.1002/jpn3.70154)\n10. Panufnik et al. *Sci Rep* 2026 — PMID 41974937 — [DOI](https://doi.org/10.1038/s41598-026-47309-9)\n11. Gąsiorowska et al. *J Clin Med* 2022 (protocole) — PMID 36362815 — [DOI](https://doi.org/10.3390/jcm11216587)\n12. Règlement d'exécution (UE) 2017/2470 (02017R2470-20260810), règlements (CE) n° 1925/2006 (02006R1925-20251126) et (UE) n° 432/2012 (02012R0432-20250820) — publications.europa.eu/resource/celex/ — textes intégraux lus le 2026-10-14.\n13. BDPM, fichier CIS_COMPO_bdpm — https://base-donnees-publique.medicaments.gouv.fr — consulté le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Butyrate et tributyrine",
+ "type": "actif",
+ "unite": ""
+}

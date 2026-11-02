@@ -1,0 +1,76 @@
+{
+ "cibles": [
+  "muscle-os",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-28",
+ "famille": "alimentation",
+ "id": "mais-grille-sale-apres-le-sport",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "alimentation-recuperation",
+  "millets-sorgho-teff-fonio-et-mais",
+  "oeufs",
+  "pomme-de-terre-et-frites",
+  "prise-de-masse-surplus-calorique-et-recomposition",
+  "regime-dash",
+  "riz-blanc-complet-et-arsenic"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "33507402",
+  "28919842",
+  "34578811"
+ ],
+ "preuve_globale": "B",
+ "resume": "Aucune étude sur ce produit précis (grains de maïs grillés ou frits, salés) après l'effort [?]. Ce qui suit applique à l'aliment ce que l'on sait des glucides, du sodium et des protéines après l'exercice.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Aucune étude sur ce produit précis** (grains de maïs grillés ou frits, salés) après l'effort [?]. Ce qui suit applique à l'aliment ce que l'on sait des glucides, du sodium et des protéines après l'exercice.\n- **Rôle utile : source de glucides.** Entre deux séances rapprochées (≤ 8 h), manger des glucides accélère la resynthèse du glycogène musculaire par rapport à l'eau : +23,5 mmol/kg de matière sèche/h (IC 95 % 19,0-27,9) pour environ 1 g de glucides/kg/h [A] (29 essais, n = 246, qualité moyenne : Rosendal 61 %) (PMID 33507402).\n- **Si la prochaine séance est dans plus de 8 h**, le timing compte peu : l'apport glucidique total de la journée prime [?]. Position ISSN : la recharge rapide concerne surtout les récupérations < 4 h (PMID 28919842) [A, position d'experts].\n- **Protéines : insuffisant seul.** Le maïs ne couvre pas la réparation musculaire ; ISSN : environ 20-40 g de protéine de qualité après l'effort stimulent au maximum la synthèse protéique (PMID 28919842) [A, position d'experts]. Ajouter des protéines n'accélère pas la resynthèse du glycogène (+0,4 mmol/kg MS/h, IC −2,7 à 3,4, NS) [A] (PMID 33507402).\n- **Sel : utile seulement si grosse transpiration.** Les électrolytes, associés à des glucides, augmentent la rétention d'eau d'une boisson par rapport à l'eau, mais l'essai (n = 19) est mené au repos, non après l'effort [B, ECR croisé unique n=19] (PMID 34578811). Un snack salé n'est pas une boisson de réhydratation.\n- **Verdict : acceptable en collation glucidique et salée, à associer à une source de protéines et à de l'eau.** Pas un aliment de récupération « optimal ». Pas de bénéfice démontré propre au maïs.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Les glucides rechargent le glycogène musculaire vidé par l'effort (PMID 33507402). Le sodium limite l'excrétion urinaire de l'eau bue (PMID 34578811, au repos). Aucun mécanisme spécifique au maïs : l'amidon de maïs est un glucide digestible comme un autre [?]. Effet de la matière grasse de friture sur la vidange gastrique et l'absorption après l'effort : non recherché [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Glucides vs eau, récupération ≤ 8 h | +23,5 mmol/kg MS/h de resynthèse du glycogène (PMID 33507402) | [A] |\n| Glucides + protéines vs glucides seuls (glycogène) | aucune différence (PMID 33507402) | [A] |\n| Protéines après l'effort (synthèse protéique) | 20-40 g de protéine de qualité (PMID 28919842) | [A, position d'experts] |\n| Électrolytes + glucides, rétention d'eau d'une boisson | meilleure que l'eau à partir de 120 min, au repos (PMID 34578811) | [B, ECR croisé unique n=19] |\n| Maïs grillé salé lui-même, tout critère | aucune donnée | [?] |\n| Teneur en sodium nécessaire à remplacer après une séance | non recherchée ; dépend de la sueur, très variable | [?] |",
+   "titre": "Preuves par indication (post-sport)"
+  },
+  {
+   "markdown": "- **Étudié** : environ 1 g de glucides/kg/h (soit 70-80 g/h pour 70-80 kg) pendant la fenêtre ≤ 8 h (PMID 33507402). La recommandation ISSN va jusqu'à 1,2 g/kg/h si la récupération dure moins de 4 h (PMID 28919842).\n- **Vendu** : composition variable selon la marque et le procédé (grillé, frit, aromatisé). À lire sur l'étiquette : ordre de grandeur de glucides, protéines, lipides et sodium non sourcé ici [?]. Une portion de 30-40 g apporte donc nettement moins de glucides que les quantités étudiées : c'est un complément, pas une recharge à lui seul [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Aliment courant (grains de maïs grillés ou frits, nature ou salés). Pas de statut particulier ; les allégations de santé sur l'étiquette relèvent du règlement (CE) n° 1924/2006, non consulté pour ce produit [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Sodium** : si hypertension, insuffisance cardiaque ou rénale, ou régime pauvre en sel, un snack salé n'est pas anodin. Voir [régime DASH](fiche:regime-dash) pour les effets du sodium sur la tension.\n- **Ultra-transformation** : les versions frites et aromatisées sont des produits industriels souvent riches en sel et en graisses de friture. Les associations entre ultra-transformés et santé sont documentées dans [alimentation](fiche:alimentation) ; aucune donnée propre à ce produit [?].\n- **Dents** : les grains durs sont connus dans la pratique pour fêler des dents. Recherche PubMed sans résultat exploitable [?] : le risque est plausible, non quantifié.\n- **Acrylamide, mycotoxines** (maïs) : voir [millets, sorgho, teff, fonio et maïs](fiche:millets-sorgho-teff-fonio-et-mais) ; non recherché pour les grains grillés [?].\n- **Prise de poids** : produit dense en calories et facile à manger en excès ; en sèche, peser la portion. Densité énergétique exacte non sourcée [?].\n- **Allergie, grossesse, enfants** : grains durs = risque d'étouffement chez le jeune enfant (général, non sourcé) [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Le snack protéiné/énergie après le sport »** : le maïs grillé n'apporte que peu de protéines, de qualité moyenne ; ne remplace pas un repas ou une source de 20-40 g de protéines [?].\n- **« Il faut manger tout de suite après l'effort (fenêtre anabolique de 30 min) »** : la position ISSN la nuance (PMID 28919842) ; la priorité est l'apport journalier total de protéines et de glucides, sauf récupération courte [A, position d'experts].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Pour les mêmes glucides avec moins de sel et de gras : riz, pain, pomme de terre cuite, fruit ou fruits secs, avec yaourt grec, œufs ou une portion de volaille. Voir [riz blanc, complet et arsenic](fiche:riz-blanc-complet-et-arsenic), [pomme de terre et frites](fiche:pomme-de-terre-et-frites), [œufs](fiche:oeufs), [alimentation et récupération](fiche:alimentation-recuperation) et [prise de masse](fiche:prise-de-masse-surplus-calorique-et-recomposition).",
+   "titre": "Alternatives"
+  },
+  {
+   "markdown": "- PMID 33507402 — Craven et al., *Sports Med Open* 2021 (glucides avec ou sans protéines et resynthèse du glycogène ; méta-analyse). doi:10.1186/s40798-020-00297-0\n- PMID 28919842 — Kerksick et al., *J Int Soc Sports Nutr* 2017 (position ISSN, timing des nutriments). doi:10.1186/s12970-017-0189-4\n- PMID 34578811 — Millard-Stafford et al., *Nutrients* 2021 (Beverage Hydration Index : électrolytes, glucides, protéines). doi:10.3390/nu13092933",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Maïs grillé ou frit salé (corn nuts) après le sport",
+ "type": "actif",
+ "unite": ""
+}

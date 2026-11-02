@@ -1,0 +1,88 @@
+{
+ "cibles": [
+  "prevention",
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "arthrose-prevention-et-prise-en-charge",
+ "intro": "Focus sur l'arthrose du genou (la mieux étudiée), avec ce qui s'applique à la hanche et aux mains quand les sources le disent. Aucun médicament ne ralentit la maladie dans les sources lues ; les deux leviers solides sont le poids et l'exercice.",
+ "liens": [
+  "alimentation",
+  "boswellia",
+  "collagene-oral",
+  "curcumine",
+  "exercice-physique",
+  "glucosamine-et-chondroitine",
+  "goutte-et-hyperuricemie",
+  "msm",
+  "prevention-chutes-et-fractures",
+  "sarcopenie"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "39625083",
+  "25447976",
+  "24065013",
+  "39476339",
+  "31278997"
+ ],
+ "preuve_globale": "A",
+ "resume": "Exercice : Cochrane 2024, 139 ECR (12 468 participants) : face aux soins usuels, douleur -13,1 points sur 100 (10,4-15,9), certitude faible ; fonction +12,5 points (9,7-15,3), certitude modérée [A, certitude faible à modérée] (PMID 39625083). La plupart des essais ont un risque de biais incertain…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Exercice** : Cochrane 2024, 139 ECR (12 468 participants) : face aux soins usuels, douleur -13,1 points sur 100 (10,4-15,9), certitude faible ; fonction +12,5 points (9,7-15,3), certitude modérée [A, certitude faible à modérée] (PMID 39625083). La plupart des essais ont un risque de biais incertain ou élevé (94 % pour les biais de performance).\n- **Poids** : excès de poids = principal facteur de risque modifiable (surpoids OR 1,98 ; obésité OR 2,66 pour l'apparition de douleur de genou ; 24,6 % des cas attribuables au poids) [A, observationnel] (PMID 25447976). IDEA (n=454) : régime + exercice, perte de poids 11,4 % : douleur 3,6/20 vs 4,8 (régime seul) et 4,7 (exercice seul) [B, ECR unique n=454] (PMID 24065013).\n- **Sémaglutide 2,4 mg** chez obèses avec arthrose du genou : poids -13,7 % vs -3,2 %, douleur WOMAC -41,7 vs -27,5 points, 68 semaines [B, ECR unique n=407] (PMID 39476339) ; statut AMM de cette indication non vérifié [?].\n- **OARSI 2019** : traitements de base du genou = éducation + exercice structuré au sol, avec gestion du poids ; AINS topiques fortement recommandés ; paracétamol conditionnellement non recommandé ; opioïdes fortement déconseillés [B, recommandations] (PMID 31278997).\n- **Compléments** : glucosamine/chondroïtine, MSM, curcumine, boswellia, collagène : effets faibles à très incertains, voir les fiches dédiées.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Dégénérescence du cartilage avec remaniement de l'os sous-chondral et inflammation synoviale de bas grade [?] (non extrait ici). Poids et charge mécanique : dans IDEA, la force de compression du genou était plus basse avec le régime (2 487 N vs 2 687 N sous exercice seul, différence 200 N ; 55-345) et l'IL-6 plus basse (2,7 vs 3,1 pg/mL) (PMID 24065013). Une blessure antérieure du genou multiplie le risque par 2,83 (1,91-4,19) (PMID 25447976).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Levier | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Exercice structuré au sol (renforcement, aérobie, mobilité) | force musculaire, fonction | douleur -13,1/100, fonction +12,5/100 vs soins usuels [A, certitude faible à modérée] (PMID 39625083) | acte (kinésithérapie) remboursé | non recherché |\n| Perte de poids ≥ 10 % (diète + exercice) | baisse de charge, inflammation | IDEA : douleur et fonction meilleures que diète ou exercice seuls [B, ECR unique n=454] (PMID 24065013) | non applicable | variable |\n| Sémaglutide 2,4 mg (obésité + arthrose du genou) | perte de poids | WOMAC douleur -41,7 vs -27,5 [B, ECR unique n=407] (PMID 39476339) | médicament sur ordonnance dans l'obésité ; indication arthrose non vérifiée [?] | non recherché |\n| AINS topiques | anti-inflammatoire local | OARSI niveau 1A pour le genou [B, recommandations] (PMID 31278997) ; ameli : « peuvent être utiles » | médicament | non recherché |\n| AINS oraux | inhibition COX | à éviter si comorbidité cardiovasculaire ou fragilité (OARSI) [B] (PMID 31278997) ; ameli : 5 jours maximum | médicament | non recherché |\n| Paracétamol | antalgique | OARSI : déconseillé sous condition (niveau 4A/4B) [B] (PMID 31278997) ; ameli : première intention | médicament sans ordonnance | non recherché |\n| Corticoïdes intra-articulaires | anti-inflammatoire local | OARSI niveau 1B/2 (genou) [B] (PMID 31278997) ; Cochrane 2015 : non relu [?] | acte médical | non recherché |\n| Glucosamine, chondroïtine | cartilage (supposé) | effet au mieux faible, instable ; voir [glucosamine et chondroïtine](fiche:glucosamine-et-chondroitine) | complément / médicament selon pays | voir fiche |\n| MSM | anti-inflammatoire supposé | petits ECR, signification clinique inconnue ; voir [MSM](fiche:msm) | complément | voir fiche |\n| Curcumine, boswellia, collagène | anti-inflammatoire / matrice | faible certitude ; voir [curcumine](fiche:curcumine), [boswellia](fiche:boswellia), [collagène oral](fiche:collagene-oral) | compléments | voir fiches |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- **Cochrane 2024** : 139 ECR ; 30 contre contrôle d'attention/placebo, 60 contre soins usuels, 49 en ajout à un autre traitement. Versus soins usuels : douleur -13,14 points (certitude faible), fonction +12,53 (amélioration, certitude modérée), qualité de vie +5,37 ; pas de différence d'abandons (RR 1,03) ; événements indésirables possiblement plus fréquents (RR 3,17 ; 1,17-8,57 ; certitude faible). Ajout à un co-traitement : douleur -10,43 (modérée) (PMID 39625083). L'effet contre placebo/attention est « léger » (certitude faible) [A].\n- **IDEA** (454 adultes ≥ 55 ans, IMC 27-41, arthrose du genou radiographique, 18 mois) : perte de poids 10,6 kg (11,4 %) diète + exercice, 8,9 kg (9,5 %) diète, 1,8 kg (2,0 %) exercice ; douleur 3,6 vs 4,8 vs 4,7 ; fonction 14,1 (meilleure) vs diète et exercice seuls [B, ECR unique n=454] (PMID 24065013).\n- **Semaglutide** (IMC moyen 40,3, WOMAC douleur initial 70,9, 407 participants, 81,6 % de femmes) : fonction physique SF-36 +12,0 vs +6,5 ; arrêts pour événements indésirables 6,7 % vs 3,0 %, surtout digestifs [B, ECR unique n=407] (PMID 39476339).\n- **Facteurs de risque (cohortes ≥ 50 ans)** : obésité OR 2,66 (2,15-3,28), femme 1,68 (1,37-2,07), blessure antérieure 2,83 ; le tabac n'est pas un facteur significatif (OR 0,92 ; 0,83-1,01) [A, observationnel] (PMID 25447976).\n- **OARSI 2019** : hanche et arthrose polyarticulaire : éducation et exercice au sol ; AINS topiques fortement recommandés au genou ; corticoïdes intra-articulaires, acide hyaluronique, exercice aquatique en niveau 1B/2 au genou ; le paracétamol est conditionnellement non recommandé [B, recommandations] (PMID 31278997).",
+   "titre": "Ce que montrent les essais"
+  },
+  {
+   "markdown": "- **Débutant** : marche quotidienne adaptée à la douleur, exercices de renforcement du quadriceps guidés ; éviter l'immobilité ; éducation sur la maladie ; voir [exercice physique](fiche:exercice-physique).\n- **Intermédiaire** : programme de kinésithérapie puis autonomie ; si IMC élevé, perte de poids visée ≥ 10 % (diète + exercice), conforme à IDEA ; voir [alimentation](fiche:alimentation).\n- **Avancé** : topique anti-inflammatoire ; infiltration ou prothèse selon avis spécialisé ; pour obésité, discuter avec le médecin des traitements de l'obésité (sémaglutide dans l'essai : STEP 9).",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- S'arrêter de bouger par peur d'user le cartilage : l'exercice améliore douleur et fonction [A, certitude faible à modérée].\n- Compter sur la glucosamine pour régénérer le cartilage : effet au mieux faible sur la douleur (voir fiche).\n- Prendre des AINS oraux au long cours avec une comorbidité cardiovasculaire (OARSI : à éviter).\n- Ne pas traiter le poids alors qu'il pèse davantage que n'importe quel complément (24,6 % des cas de douleur de genou attribuables au surpoids ou à l'obésité).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Reconstruit le cartilage »** (collagène, glucosamine, MSM, hyaluronate oral) [M] : voir les fiches ; aucun essai cité ici ne montre une régénération cartilagineuse [?] (non cherché pour tous les produits).\n- **« Les AINS naturels (curcumine, boswellia) valent les médicaments »** [M] : preuves petites, faible certitude [A, faible] (voir fiches).\n- **« Le paracétamol est le traitement de référence »** : en France, ameli le cite en première intention, alors que l'OARSI 2019 le déconseille sous conditions [B, recommandations] (PMID 31278997) : désaccord entre sources à signaler au médecin.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- L'exercice versus un contrôle d'attention ou un placebo ne donne qu'une amélioration « légère » de la douleur (certitude faible) dans la revue de 2024 . 94 % des essais ont un risque de biais de performance (pas d'aveugle possible pour l'exercice) ; l'effet réel sur la douleur pourrait être plus petit que l'écart avec les soins usuels [?] (interprétation) (PMID 39625083).\n- IDEA : l'ajout de l'exercice à la diète améliore la douleur par rapport à la diète seule (3,6 vs 4,8), et la force de compression du genou est plus basse sous diète que sous exercice seul (PMID 24065013).\n- Ameli (2026-01-22) conseille d'éviter les sports sollicitant les genoux (vélo, ski) : un conseil prudent qui ne repose sur aucun essai cité ici [?] et qui contraste avec les recommandations d'exercice structuré.",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Page ameli « Arthrose du genou (gonarthrose) », traitement médical et chirurgical, mise à jour le 2026-01-22, consultée le 2026-10-15 : paracétamol en première intention, AINS 5 jours maximum, AINS locaux utiles, rééducation guidée par kinésithérapeute, genouillère possible.\n- Sémaglutide, AINS, corticoïdes : médicaments sur ordonnance (ou sans pour paracétamol/ibuprofène à faible dose) ; BDPM non consultée [?]. Glucosamine : statut dans la fiche dédiée.\n- Recommandations HAS sur l'arthrose : non consultées [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Douleur du genou ou de la hanche persistante, gêne à la marche, raideur matinale courte.\n- Gonflement chaud, fièvre, douleur brutale ou blocage : avis rapide (arthrite septique, crise microcristalline).\n- Échec des mesures de base : discussion infiltration ou chirurgie.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 39625083 — Lawford BJ et al., Cochrane 2024, exercice et arthrose du genou (résumé relu).\n- PMID 24065013 — Messier SP et al., *JAMA* 2013, IDEA (résumé relu).\n- PMID 39476339 — Bliddal H et al., *N Engl J Med* 2024, STEP 9 (résumé relu).\n- PMID 31278997 — Bannuru RR et al., *Osteoarthritis Cartilage* 2019, OARSI (résumé relu).\n- PMID 25447976 — Silverwood V et al., *Osteoarthritis Cartilage* 2015 (résumé relu).\n- Web : ameli.fr, arthrose du genou (traitement médical et chirurgical), consulté le 2026-10-15.\n\nVoir aussi : [glucosamine et chondroïtine](fiche:glucosamine-et-chondroitine), [MSM](fiche:msm), [sarcopénie](fiche:sarcopenie), [prévention des chutes et des fractures](fiche:prevention-chutes-et-fractures), [goutte et hyperuricémie](fiche:goutte-et-hyperuricemie).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Arthrose : poids, exercice et ce qui est vendu pour les articulations",
+ "type": "condition",
+ "unite": ""
+}

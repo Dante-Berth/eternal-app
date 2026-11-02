@@ -1,0 +1,110 @@
+{
+ "cibles": [
+  "prevention",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "prevention-avc-et-infarctus",
+ "intro": "Fiche de synthèse : elle dit **comment décider** (score de risque, qui traiter, quoi ne pas prendre). Le détail de chaque levier est dans les fiches voisines : [tension artérielle](fiche:tension-arterielle), [ApoB, lipides et statines](fiche:apob-lipides-et-statines), [glycémie et prédiabète](fiche:glycemie-et-prediabete), [tabac et alcool](fiche:tabac-et-alcool), [statines](fiche:statines).",
+ "liens": [
+  "alimentation",
+  "apob-lipides-et-statines",
+  "bilans-biologiques",
+  "exercice-physique",
+  "glycemie-et-prediabete",
+  "omega-3",
+  "prevention-diabete-type-2",
+  "prevention-maladie-renale-chronique",
+  "statines",
+  "tabac-et-alcool",
+  "tension-arterielle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 14,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "34120177",
+  "30667501",
+  "30221597",
+  "30221595",
+  "33186492",
+  "31448738",
+  "34469764",
+  "34469766",
+  "37247330",
+  "34458905",
+  "40902616",
+  "30221596",
+  "35471505",
+  "39210723"
+ ],
+ "preuve_globale": "A",
+ "resume": "Le risque se pilote par le risque global (âge, sexe, tabac, tension, cholestérol, diabète), pas facteur par facteur : SCORE2 estime le risque à 10 ans chez les 40-69 ans sans maladie CV ni diabète en Europe [B, modèle dérivé de 45 cohortes] (PMID 34120177).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Le risque se pilote par le **risque global** (âge, sexe, tabac, tension, cholestérol, diabète), pas facteur par facteur : SCORE2 estime le risque à 10 ans chez les 40-69 ans sans maladie CV ni diabète en Europe [B, modèle dérivé de 45 cohortes] (PMID 34120177).\n- **Aspirine en prévention primaire : en général non.** Méta-analyse de 13 essais : -11 % d'événements CV (HR 0,89) mais +43 % d'hémorragies majeures (HR 1,43) ; NNT 265, NNH 210 [A] (PMID 30667501). ASPREE (≥ 70 ans) : pas de bénéfice CV, plus d'hémorragies, mortalité plus haute [B, ECR unique n=19 114] (PMID 30221597, 30221595).\n- Polypilule (statine + antihypertenseurs ± aspirine) : bénéfice dans deux essais de prévention primaire, mais en pays à revenu faible/intermédiaire et sans équivalent commercialisé testé en France [B] (PMID 33186492, 31448738).\n- Fibrillation atriale : le dépistage systématique à 75 ans donne un bénéfice net minime, le dépistage par moniteur implanté n'a pas réduit l'AVC [B] (PMID 34469764, 34469766).\n- Ce qui compte vraiment : tension, LDL/ApoB, tabac, glycémie, activité, poids.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "L'infarctus et l'AVC ischémique partagent un terrain (athérosclérose, thrombose) et des facteurs de risque (tension, LDL, tabac, diabète). L'AVC emboligène de la fibrillation atriale (FA) est un mécanisme distinct (caillot cardiaque), d'où une prévention par anticoagulant et non par aspirine. L'AVC hémorragique est favorisé par la tension élevée et aggravé par les antithrombotiques : c'est ce qui rend l'aspirine ambiguë en prévention primaire [?] (lien mécanistique général, non sourcé ici ; le surrisque hémorragique est, lui, mesuré ci-dessous).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "- **SCORE2** (Europe, 40-69 ans, sans maladie CV ni diabète) : modèle sexe-spécifique à 5 variables (âge, tabac, tension systolique, cholestérol total et HDL), calibré par région de risque. Exemple de l'abstract : fumeur de 50 ans, TAS 140, CT 5,5, HDL 1,3 mmol/L : 5,9 % (hommes, pays à bas risque) à 14,0 % (pays à très haut risque). C-indices en validation externe de 0,67 à 0,81 [B, modèle de prédiction] (PMID 34120177). Les extensions SCORE2-OP (≥ 70 ans) et SCORE2-Diabetes existent (PMID 37247330 pour le diabète, résumé non relu en détail [?]).\n- La mise à jour 2025 des recommandations ESC/EAS sur les lipides retient SCORE2/SCORE2-OP et ajoute calcium coronaire et Lp(a) comme modificateurs : voir [ApoB, lipides et statines](fiche:apob-lipides-et-statines).\n- Les recommandations ESC 2021 de prévention cardiovasculaire (PMID 34458905) sont le cadre européen ; leur texte intégral n'a pas pu être lu ici (aucun résumé sur PubMed, texte non accessible) : les seuils de traitement par score ne sont **pas** repris dans cette fiche [?].\n- Ameli (Assurance Maladie) : le médecin traitant estime le risque cardiovasculaire global à partir de l'âge, de la tension, du cholestérol, des antécédents familiaux et du tabac, puis conseille d'abord le mode de vie, éventuellement un traitement (diabète, cholestérol, tension, rythme) (ameli.fr, « Prévenir l'AVC », page du 18 juin 2026, consulté le 2026-10-15).",
+   "titre": "Estimer son risque"
+  },
+  {
+   "markdown": "| Levier | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Baisser une tension élevée | réduit la charge sur les artères | voir la fiche tension : cible intensive vs standard HR 0,76 [A, analyse post hoc] (PMID 40902616) | médicament sur ordonnance | non recherché |\n| Baisser le LDL (statine) | réduit le LDL | statines en prévention primaire : voir [statines](fiche:statines) [A] | médicament sur ordonnance | non recherché |\n| Arrêt du tabac, activité, alimentation | multiples | voir [tabac et alcool](fiche:tabac-et-alcool) et [exercice physique](fiche:exercice-physique) | non applicable | 0 |\n| Aspirine faible dose, prévention primaire | antiagrégant | [A] léger gain CV, surrisque hémorragique du même ordre (PMID 30667501) | voir « Statut réglementaire » | non recherché |\n| Polypilule | combine statine, antihypertenseurs ± aspirine | [B] (PMID 33186492, 31448738) | pas de polypilule de prévention primaire repérée [?] | — |\n| Anticoagulant si FA | prévient l'embol cardiaque | hors périmètre de cette fiche, non recherché [?] | médicament sur ordonnance | — |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- **Méta-analyse de 13 ECR** (164 225 participants, âge médian 62 ans, risque CV de base médian 9,2 %) : critère composite CV HR 0,89 (0,84-0,95), réduction absolue 0,38 % (0,20-0,55), NNT 265 ; hémorragie majeure HR 1,43 (1,30-1,56), augmentation absolue 0,47 % (0,34-0,62), NNH 210 [A] (PMID 30667501). Le gain évité et le dommage ajouté sont du même ordre : c'est une décision individuelle, pas un réflexe. Les 13 essais sont hétérogènes sur la définition de l'hémorragie et sur l'époque (essais anciens, avant les statines et les traitements actuels de la tension) [?] (limite de lecture, non quantifiée ici).\n- **ASPREE** (aspirine 100 mg vs placebo, ≥ 70 ans, ou ≥ 65 ans pour certains groupes aux États-Unis, sans maladie CV, démence ni handicap ; 19 114 personnes ; suivi médian 4,7 ans) : événements CV 10,7 vs 11,3 pour 1000 personnes-années (HR 0,95 ; 0,83-1,08) ; hémorragie majeure 8,6 vs 6,2 (HR 1,38 ; 1,18-1,62) [B, ECR unique n=19 114] (PMID 30221597). Survie sans handicap : pas de différence [B] (PMID 30221596). Mortalité toutes causes 12,7 vs 11,1 pour 1000 personnes-années (HR 1,14 ; 1,01-1,29), surtout liée à des décès par cancer (HR 1,31 ; 1,10-1,56), résultat que les auteurs jugent « inattendu » et à interpréter avec prudence [B, analyse exploratoire] (PMID 30221595). Financement : National Institute on Aging et autres.\n- **USPSTF 2022** : bénéfice net petit pour la prise d'aspirine entre 40 et 59 ans avec un risque CV à 10 ans ≥ 10 % (décision individuelle) ; **pas de bénéfice net** à initier l'aspirine à 60 ans ou plus (PMID 35471505). Recommandation américaine, appliquée à des personnes sans risque hémorragique accru.\n- **Ce qui ne change pas** : l'aspirine reste indiquée en prévention **secondaire** (après infarctus ou AVC ischémique) : hors périmètre de cette fiche, ne pas l'arrêter sans avis médical.",
+   "titre": "Aspirine en prévention primaire"
+  },
+  {
+   "markdown": "- **TIPS-3** (5 713 personnes sans maladie CV, risque intermédiaire, suivi moyen 4,6 ans ; polypilule : simvastatine 40, aténolol 100, hydrochlorothiazide 25, ramipril 10 mg) : polypilule seule HR 0,79 (0,63-1,00), aspirine seule HR 0,86 (0,67-1,10), polypilule + aspirine HR 0,69 (0,50-0,97) vs double placebo ; LDL -19 mg/dL, TAS -5,8 mmHg ; hypotension/étourdissement plus fréquents sous polypilule [B, ECR unique n=5 713] (PMID 33186492).\n- **PolyIran** (6 838 personnes, essai en grappes, villages iraniens, 4 composants dont aspirine 81 mg) : événements CV majeurs 5,9 % vs 8,8 % (HR 0,66 ; 0,55-0,80), adhérence médiane 80,5 % [B, essai en grappes] (PMID 31448738).\n- Les compositions testées ne sont pas celles du marché français ; transfert à la France et supériorité sur les mêmes médicaments pris séparément : non établis dans ces sources [?].",
+   "titre": "Polypilule"
+  },
+  {
+   "markdown": "- **STROKESTOP** (Suède, 28 768 personnes de 75-76 ans, invitation à un dépistage ECG intermittent sur 14 jours, 51,3 % de participation) : critère composite (AVC, embolie, saignement hospitalisé, décès) 5,45 vs 5,68 événements pour 100 ans, HR 0,96 (0,92-1,00 ; p = 0,045), suivi médian 6,9 ans. Les auteurs concluent à un petit bénéfice net [B, ECR unique n=28 768] (PMID 34469764).\n- **LOOP** (Danemark, 6 004 personnes de 70-90 ans avec ≥ 1 facteur de risque d'AVC, moniteur cardiaque implantable vs soins usuels) : FA diagnostiquée 31,8 % vs 12,2 %, anticoagulation 29,7 % vs 13,1 %, mais AVC ou embolie 4,5 % vs 5,6 % (HR 0,80 ; 0,61-1,05 ; p = 0,11) ; hémorragie majeure 4,3 % vs 3,5 % (HR 1,26 ; 0,95-1,69). Les auteurs suggèrent que toute FA ne mérite pas d'être dépistée ni anticoagulée [B, ECR unique n=6 004]. Financeurs publics, fondations et Medtronic (PMID 34469766).\n- Ce que ces deux essais **ne disent pas** : l'intérêt d'un dépistage par prise de pouls ou montre connectée chez les moins de 65 ans (non recherché). Les recommandations ESC 2024 sur la FA (PMID 39210723) existent mais leur contenu sur le dépistage n'a pas pu être lu ici [?].",
+   "titre": "Fibrillation atriale : dépister ou non"
+  },
+  {
+   "markdown": "- **Débutant** : connaître sa tension, son bilan lipidique et sa glycémie ; ne pas fumer ; bouger (voir [exercice physique](fiche:exercice-physique)) ; alimentation équilibrée (voir [alimentation](fiche:alimentation)).\n- **Intermédiaire** : faire estimer son risque global par un médecin (SCORE2) ; traiter la tension et le LDL selon le risque, pas seulement selon un chiffre isolé.\n- **Avancé** : discuter avec un médecin des modificateurs de risque (Lp(a), calcium coronaire, antécédents familiaux précoces) ; Lp(a) et calcium coronaire sont traités dans la fiche [ApoB, lipides et statines](fiche:apob-lipides-et-statines).",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Prendre de l'aspirine « par prudence » après 60 ans sans antécédent CV : pas de bénéfice net selon l'USPSTF, surrisque hémorragique dans ASPREE.\n- Raisonner sur un seul chiffre (cholestérol total) au lieu du risque global.\n- Arrêter seul une aspirine prescrite après un infarctus ou un AVC.\n- Croire qu'un dépistage plus intensif de la FA est toujours meilleur : LOOP a trouvé trois fois plus de FA sans réduction significative de l'AVC.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Une aspirine par jour protège le cœur de tout le monde »** [M] : le gain est de l'ordre de 4 événements évités pour 1 000 personnes sur la durée des essais, pour environ 5 hémorragies majeures supplémentaires (PMID 30667501) [A].\n- **« Une montre connectée détecte la FA et évite l'AVC »** [M] : les essais de dépistage lus ont utilisé un ECG intermittent ou un moniteur implanté, pas une montre ; l'effet sur l'AVC est marginal (PMID 34469764) ou non significatif (PMID 34469766) [B].\n- **« Oméga-3, vitamines antioxydantes ou compléments préviennent l'infarctus »** : voir [oméga-3](fiche:omega-3) ; non rouvert ici.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Dans ASPREE, l'excès de décès par cancer sous aspirine (HR 1,31) contredit l'idée d'une aspirine « anticancer » chez les personnes âgées ; l'analyse est exploratoire, et d'autres essais pourraient la nuancer (PMID 30221595) [B].\n- Le niveau de risque absolu fixe le bénéfice absolu : dans la méta-analyse, le risque CV de base médian était de 9,2 % sur la durée de suivi (PMID 30667501).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Aspirine faible dose : statut BDPM et indications exactes (prévention secondaire) non consultés dans cette session [?].\n- Polypilule de prévention primaire : aucune spécialité repérée en France, sans consultation de la BDPM [?].\n- Dépistage et estimation du risque : pas de dépistage organisé du risque CV ni de la FA en France repéré ; ameli oriente vers le médecin traitant (consulté le 2026-10-15).",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Tension élevée mesurée à plusieurs reprises, LDL très élevé, diabète, antécédent familial d'événement CV précoce.\n- Palpitations, pouls irrégulier, essoufflement inhabituel.\n- Symptômes d'AVC (visage qui tombe, bras faible, parole troublée) : urgence, appeler le 15.\n- Avant de commencer ou d'arrêter une aspirine.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 30667501 — Zheng SL, Roddick AJ, *JAMA* 2019, méta-analyse aspirine en prévention primaire. doi:10.1001/jama.2018.19797 (résumé relu).\n- PMID 30221597 — McNeil JJ et al., ASPREE, événements CV et hémorragies, *N Engl J Med* 2018 (résumé relu).\n- PMID 30221596 — McNeil JJ et al., ASPREE, survie sans handicap, *N Engl J Med* 2018 (résumé relu).\n- PMID 30221595 — McNeil JJ et al., ASPREE, mortalité toutes causes, *N Engl J Med* 2018 (résumé relu).\n- PMID 35471505 — USPSTF (Davidson KW et al.), *JAMA* 2022 (résumé relu).\n- PMID 33186492 — Yusuf S et al., TIPS-3, *N Engl J Med* 2021 (résumé relu).\n- PMID 31448738 — Roshandel G et al., PolyIran, *Lancet* 2019 (résumé relu).\n- PMID 34469764 — Svennberg E et al., STROKESTOP, *Lancet* 2021 (résumé relu).\n- PMID 34469766 — Svendsen JH et al., LOOP, *Lancet* 2021 (résumé relu).\n- PMID 34120177 — SCORE2 working group, *Eur Heart J* 2021 (résumé relu).\n- PMID 37247330 — SCORE2-Diabetes, *Eur Heart J* 2023 (titre vérifié, résumé non relu).\n- PMID 34458905 — Visseren FLJ et al., ESC 2021 prévention CV, *Eur Heart J* (titre vérifié, texte non lu).\n- PMID 39210723 — Van Gelder IC et al., ESC/EACTS 2024 FA, *Eur Heart J* (titre vérifié, texte non lu).\n- PMID 40902616 — voir [tension artérielle](fiche:tension-arterielle).\n- Web : ameli.fr, « Prévenir l'AVC » (accident-vasculaire-cerebral-avc/prevenir-accident-vasculaire-cerebral), consulté le 2026-10-15.\n\nVoir aussi : [prévention du diabète de type 2](fiche:prevention-diabete-type-2), [prévention de la maladie rénale chronique](fiche:prevention-maladie-renale-chronique), [bilans biologiques](fiche:bilans-biologiques).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Prévention de l'AVC et de l'infarctus",
+ "type": "condition",
+ "unite": ""
+}

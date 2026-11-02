@@ -1,0 +1,76 @@
+{
+ "cibles": [
+  "hormones-sexualite"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "fadogia-agrestis",
+ "intro": "",
+ "liens": [
+  "boosters-de-testosterone",
+  "testosterone",
+  "tongkat-ali"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "16281088",
+  "19755438",
+  "18023305",
+  "30170324",
+  "35969364"
+ ],
+ "preuve_globale": "C",
+ "resume": "Tige d'une plante d'Afrique de l'Ouest, popularisée en « booster de testostérone » (souvent couplée au tongkat ali). Aucun essai humain trouvé dans PubMed ; toutes les données sont des rats, avec des signaux de toxicité sur le foie, le rein et le testicule [C] (PMID 16281088, 19755438, 18023305).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Tige d'une plante d'Afrique de l'Ouest, popularisée en « booster de testostérone » (souvent couplée au [tongkat ali](fiche:tongkat-ali)). **Aucun essai humain trouvé** dans PubMed ; toutes les données sont des rats, avec des signaux de toxicité sur le foie, le rein et le testicule [C] (PMID 16281088, 19755438, 18023305).\n- L'étude « aphrodisiaque » rapporte plus de montes et de testostérone chez le rat sur 5 jours ; l'étude de toxicité de 28 jours aux mêmes doses montre des atteintes du foie, du rein et des modifications testiculaires défavorables [C].\n- Pour l'humain : preuve [?], sécurité [?]. Pas d'extrapolation possible.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Non établi. Les extraits contiennent des alcaloïdes et des saponines (criblage phytochimique chez le rat) [D] (PMID 16281088). Dosage des composés phénoliques dans la plante et des compléments : méthode analytique, sans lien avec l'efficacité (PMID 30170324). Un modèle de rat traité à la paroxétine montre une restauration de marqueurs testiculaires et péniens [C] (PMID 35969364).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Comportement sexuel et testostérone (rat) | extrait aqueux de tige, 18, 50 et 100 mg/kg/j pendant 5 jours : montes et intromissions plus fréquentes, latence d'éjaculation allongée, testostérone sérique en hausse (PMID 16281088) | [C] |\n| Fonction testiculaire (rat) | 28 jours aux mêmes doses : poids testiculaire/corporel en hausse, cholestérol testiculaire en hausse, baisse de plusieurs enzymes (phosphatase alcaline, glutamate déshydrogénase) ; les auteurs concluent à des **effets défavorables** sur la fonction testiculaire, avec récupération partielle à 18 mg/kg après 10 jours d'arrêt (PMID 18023305) | [C] |\n| Humain : testostérone, libido, érection, muscle | aucun essai trouvé : PubMed « Fadogia agrestis » (10 résultats au 2026-10-14, tous phytochimie, enquête de marché ou rat) ; ClinicalTrials.gov, recherche de l'intervention (2026-10-14) : aucun essai dédié à *Fadogia* | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Rat : 18-100 mg/kg/j d'extrait aqueux de tige. Conversion en dose humaine : non faite ici (aucune étude de correspondance trouvée).\n- Vendu : gélules d'extrait ou de poudre ; doses d'étiquette non relevées. Contrôle qualité : sur 17 compléments testés par chromatographie, 12 contenaient des composés phénoliques de la plante (0,3 à 2,7 mg/j) et 5 aucun composé détectable, ce qui ne prouve pas l'absence de la plante mais montre une teneur très variable (PMID 30170324). Aucune dose humaine n'est étayée par un essai : toute posologie annoncée est une allégation sans étude [M].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Compléments alimentaires vendus en ligne (gélules, poudres). Pas de forme médicamenteuse.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- France, plantes : *Fadogia agrestis* est absente de l'arrêté du 24 juin 2014 (annexe I, liste des plantes autorisées dans les compléments ; Légifrance, version en vigueur, recherche par mot-clé « Fadogia », consulté le 2026-10-14). Sa commercialisation en France dépend donc d'une autre voie (reconnaissance mutuelle ou déclaration) dont le détail n'a pas pu être vérifié [?].\n- UE, nouvel aliment : absente de la liste de l'Union (règlement d'exécution (UE) 2017/2470, consolidé 2026-08-10, recherche « Fadogia » : aucune occurrence). Catalogue Novel Food en ligne inaccessible (application JavaScript) : statut « usage avant 1997 » non établi [?].\n- Allégations : aucune allégation autorisée sur la testostérone pour une plante.\n- AMA : *Fadogia* non citée dans la Liste des interdictions 2026 (PDF officiel, parcouru par mots-clés, consulté le 2026-10-14).",
+   "titre": "Réglementaire"
+  },
+  {
+   "markdown": "- Rat, 28 jours, 18-100 mg/kg/j : hausse des enzymes hépatiques et rénales dans le sérum avec baisse dans les tissus, et hausse de la malondialdéhyde sérique, interprétées comme une atteinte des membranes cellulaires du foie et du rein [C] (PMID 19755438).\n- Rat : atteinte de la fonction testiculaire, récupération partielle à la dose « traditionnelle » de 18 mg/kg [C] (PMID 18023305).\n- Humain : aucun cas rapporté trouvé dans PubMed (recherche du 2026-10-14), ce qui reflète l'absence d'étude, pas la sécurité [?]. Grossesse et allaitement : aucune donnée, à éviter. Éviter en cas de maladie du foie ou du rein, de projet de paternité (effets testiculaires défavorables chez le rat) ou d'association à d'autres produits hépatotoxiques. Interactions : aucune donnée.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Booste la testostérone de façon prouvée »** : aucune donnée humaine ; le signal vient de 5 jours chez le rat [C], et la même équipe a montré des effets testiculaires défavorables à 28 jours.\n- **« Plante traditionnelle donc sûre »** : les données de toxicité chez le rat existent et sont défavorables [C].\n- **« Synergie avec le tongkat ali »** : aucun essai de l'association trouvé [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit dans ce dépôt. Voir [boosters de testostérone](fiche:boosters-de-testosterone) pour les ingrédients mieux étudiés, et [testostérone](fiche:testosterone) pour l'hypogonadisme avéré.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 16281088, Yakubu et al., « Aphrodisiac potentials of the aqueous extract of *Fadogia agrestis* stem in male albino rats », Asian J Androl 2005 (résumé relu).\n- PMID 18023305, Yakubu et al., « Effects of oral administration of aqueous extract of *Fadogia agrestis* stem on some testicular function indices of male rats », J Ethnopharmacol 2008 (résumé relu).\n- PMID 19755438, Yakubu et al., « Mode of cellular toxicity of aqueous extract of *Fadogia agrestis* stem in male rat liver and kidney », Hum Exp Toxicol 2009 (résumé relu).\n- PMID 35969364, Ogunro et al., *Fadogia agrestis* chez des rats traités à la paroxétine, Reprod Sci 2023 (résumé relu : rats traités à la paroxétine, 18/50/100 mg/kg, restauration de NO/GMPc et d'enzymes antioxydantes comparable au sildénafil).\n- PMID 30170324, Avula et al., quantification des composés phénoliques, Planta Med 2019 (résumé relu).\n- Réglementaire : arrêté du 24 juin 2014 (Légifrance) ; règlement (UE) 2017/2470 consolidé 2026-08-10 ; Liste AMA 2026 ; consultés le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Fadogia agrestis",
+ "type": "actif",
+ "unite": ""
+}

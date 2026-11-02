@@ -1,0 +1,64 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "cosmetique",
+ "id": "geek-gorgeous-c-glow",
+ "intro": "",
+ "liens": [
+  "skinceuticals-c-e-ferulic",
+  "vitamine-c"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "18603326",
+  "11207686"
+ ],
+ "preuve_globale": "B",
+ "resume": "Le même trio d'actifs que la formule testée (15 % acide L-ascorbique, vitamine E, acide férulique, pH bas) pour un dixième du prix ; seule réserve : les doses de vitamine E et de férulique ne sont pas déclarées.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Le même trio d'actifs que la formule testée (15 % acide L-ascorbique, vitamine E, acide férulique, pH bas) pour un dixième du prix ; seule réserve : les doses de vitamine E et de férulique ne sont pas déclarées.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- INCI : Aqua, (L-)Ascorbic Acid, Dimethyl Isosorbide, Butylene Glycol, PEG/PPG/Polybutylene Glycol-8/5/3 Glycerin, Ferulic Acid, Tocopherol, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide (site de la marque, consulté le 2026-10-03).\n- Acide L-ascorbique 15 %, pH 3–3,4 (déclarés) : dans la zone de pénétration (pH < 3,5, plateau à 20 %) [C]. Acide férulique « en quantité élevée », tocophérol « en plus petite quantité » : pourcentages non déclarés.\n- Preuves de l'association : photoprotection humaine de la formule 15 % / 1 % / 0,5 % [B] ; anti-rides de la vitamine C : petits essais [B]. Détail : [vitamine C](fiche:vitamine-c).",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Cosmétique (règlement (CE) n° 1223/2009). Marque hors de France (vente en ligne avec livraison en France, et revendeurs français).",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- « Réduit les taches, éclat immédiat » : éclaircissement des taches par la vitamine C documenté dans de petits essais [B] ; « éclat immédiat » [M].\n- Aucun essai clinique propre au produit [?].",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Quelques gouttes le matin après nettoyage, avant l'écran solaire (consigne de la marque). Durée après ouverture : 3 mois ; conservation au réfrigérateur conseillée par la marque pour limiter l'oxydation.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix relevés (30 ml) : 12,50 € (site de la marque, livraison France), 13,00 € (Skincafeine), 14,99 € (Mifarma) (relevés du 2026-10-03).\n- Un flacon à utiliser en 3 mois (durée après ouverture) → environ 4 à 5 €/mois.\n- Alternative plus chère à formule déclarée complète : [SkinCeuticals C E Ferulic](fiche:skinceuticals-c-e-ferulic) (32–45 €/mois).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non recherchés [?]. Texture « aqueuse » selon les revendeurs.",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Composition, pH, durée après ouverture, prix : [Geek & Gorgeous](https://www.geekandgorgeous.com/products/c-glow), [Skincafeine](https://skincafeine.com/products/geek-gorgeous-c-glow-serum), [Mifarma](https://www.mifarma.fr/geek-gorgeous-c-glow-30ml) (consultés le 2026-10-03)\n- Preuves : voir [vitamine C](fiche:vitamine-c) (PMID 18603326, 11207686)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "true",
+ "statut_fr": "cosmetique",
+ "titre": "Geek & Gorgeous C-Glow (30 ml)",
+ "type": "produit",
+ "unite": ""
+}

@@ -1,0 +1,78 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "comportement",
+ "id": "rameur-aviron",
+ "intro": "« Excellent exercice pour la longévité » : **non démontré en tant que tel**. Le rameur est un exercice d'endurance et de force-endurance à large masse musculaire, donc plausiblement utile, mais la recherche PubMed menée pour cette fiche n'a trouvé aucun ECR de rameur chez sédentaires, seniors ou patients sur tension, glycémie, composition corporelle ou densité osseuse. La preuve disponible porte surtout sur des rameurs de compétition (physiologie, blessures). Voir aussi [zone-2-et-endurance.md](fiche:zone-2-et-endurance), [hiit-et-zone-5-vo2max.md](fiche:hiit-et-zone-5-vo2max), [types-de-sports.md](fiche:types-de-sports).",
+ "liens": [
+  "entrainement-en-resistance",
+  "hiit-et-zone-5-vo2max",
+  "types-de-sports",
+  "zone-2-et-endurance"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 13,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "25402483",
+  "38804050",
+  "39851349",
+  "39275598",
+  "42596793",
+  "40010366",
+  "42033064",
+  "40827333",
+  "42663176",
+  "40794496",
+  "42590692",
+  "41834720",
+  "39161556"
+ ],
+ "preuve_globale": "B",
+ "resume": "Mortalité : les olympiens français masculins (n=203) ont une mortalité globale inférieure de 42 % à la population générale (SMR 0,58 ; IC95 % 0,43-0,78), cardiovasculaire SMR 0,41 [B, cohorte rétrospective]. Biais de sélection massif (élite, survie, 52 sur 255 écartés faute de statut vital vérifi…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Mortalité** : les olympiens français masculins (n=203) ont une mortalité globale inférieure de 42 % à la population générale (SMR 0,58 ; IC95 % 0,43-0,78), cardiovasculaire SMR 0,41 [B, cohorte rétrospective]. Biais de sélection massif (élite, survie, 52 sur 255 écartés faute de statut vital vérifiable) : cela ne dit rien sur un adulte qui s'achète un rameur (PMID 25402483).\n- **Bénéfice du rameur chez le sédentaire, le senior, le patient** : [?]. Aucun ECR trouvé (hors lésion médullaire, hors sujet ici).\n- **Supériorité sur vélo, course, marche, musculation** : [?]. Aucune comparaison trouvée sur des critères de santé.\n- **Intensités** : données uniquement chez rameurs entraînés ; pas de recommandation « zone 2 rameur » sourcée pour la population générale.\n- **Sécurité** : le rameur est un sport à blessures de surcharge, surtout lombaires ; chez les rameurs adolescents, une incidence de 4,25 blessures/1000 h d'entraînement a été mesurée (PMID 38804050). Technique et contre-indications comptent.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Mouvement cyclique poussée jambes, bascule du tronc, tirage des bras ; mobilise jambes, tronc, dos et bras. La charge est surtout cardio-respiratoire et musculaire en endurance ; elle n'est pas portée (position assise), donc l'impact osseux direct est faible. Les forces au pied mesurées sur ergomètre adapté valent 0,22 à 0,45 poids du corps chez des sujets valides (PMID 39851349, mesure biomécanique, 20 sujets, pas un effet osseux) [B].\n- Comparaison machines : Concept2 (linéaire) et Biorower (angulaire) donnent des VO2 similaires chez 16 rameurs expérimentés (ex. 58,14 vs 60,36 mL/min/kg à intensité sévère), mais une cinématique différente (PMID 39275598) [B].\n- Force et rameur : méta-analyse de corrélations (11 études) : force maximale squat/presse r = -0,72 et tirage banc r = -0,71 avec le temps sur ergomètre (PMID 42596793) [B, corrélationnel, rameurs de performance]. Chez 17 rameuses d'élite, squat, soulevé de terre et power clean sont corrélés (r = 0,56-0,86) à la puissance sur 2000 m (PMID 40010366) [B]. Ces corrélations disent que la force aide à ramer vite, pas que ramer fait gagner de la force à un sédentaire.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Mortalité, santé cardio-métabolique des pratiquants\n- Olympiens français 1912-2012 : voir TL;DR (PMID 25402483, DOI 10.1371/journal.pone.0113362) [B, cohorte]. Les auteurs eux-mêmes concluent qu'il faut des études analytiques plus larges pour comprendre cette réduction. Élite = sélection génétique, mode de vie, suivi : non transférable.\n- Cohorte de rameurs amateurs : [?], rien trouvé.\n\n### VO2max et intensités sur ergomètre\n- Rameurs entraînés (VO2max 53,0 ± 6,3 mL/kg/min, n=12) : au maximal lactate steady state, 185 ± 24 W, lactate 3,07 mmol/L, FC 166 bpm ; 5 % au-dessus, lactate 5,02 mmol/L, état non soutenable (PMID 42033064) [B]. Illustre que le seuil se situe à des puissances précises et individuelles ; les chiffres ne se transposent pas.\n- Entraînement amateur en ultra-endurance : trois rameurs amateurs (48 ± 12 ans) ont amélioré leur seuil lactique (+28 W) mais leur VO2 pic a baissé (-0,30 L/min) avant une traversée de l'Atlantique ; étude de cas, pas un modèle de santé (PMID 40827333) [B, n=3].\n- Zone 2 vs intervalles sur rameur chez sédentaires : [?]. Pour la physiologie générale voir les fiches liées.\n\n### ECR chez sédentaires, seniors, patients (composition corporelle, force, tension, glycémie)\n- Sédentaires, seniors, obèses, hypertendus, diabétiques : [?]. Recherches PubMed effectuées (rowing ergometer older adults ; rowing training sedentary RCT blood pressure ; titre rowing + population) : aucun ECR pertinent retrouvé.\n- Lésion médullaire (hors population générale) : méta-analyse Cochrane, 17 études (505 participants), exercices variés dont le rameur : VO2/capacité cardio-respiratoire améliorée, SMD 0,48 (IC95 % 0,18-0,77), preuve de faible certitude, 96 % des études à risque de biais élevé (PMID 42663176) [A, faible certitude] ; non spécifique au rameur. ECR rameur membres supérieurs, 12 semaines (n=17) : pas d'effet sur variabilité du rythme cardiaque ni sur la pression artérielle lors du test d'orthostatisme ; diamètre de l'artère brachiale augmenté (PMID 40794496) [B].\n\n### Masse, force, densité osseuse\n- Recrutement « jambes + dos + bras » : plausible biomécaniquement, mais pas d'EMG/essai lu ici qui le quantifie pour la santé ; les données EMG trouvées concernent la reproductibilité chez rameurs de 14 à 22 ans (PMID 42590692) [B].\n- Gain de masse ou de force chez des non-rameurs : [?].\n- Densité osseuse chez rameurs ou pratiquants : [?] (rien de vérifié) ; la charge est sans impact au sol (voir mécanisme), donc ne pas supposer un effet type course ou musculation.\n\n### Vs vélo, course, marche, musculation\n- Aucune comparaison de critères de santé retrouvée [?]. Ne pas déduire une supériorité de « recrute plus de muscles ». La musculation à charges élevées reste l'outil de référence pour la force (voir [entrainement-en-resistance.md](fiche:entrainement-en-resistance)).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **« Exercice complet : 86 % des muscles »** (et variantes 84 %, 85 %) : origine non retrouvée dans PubMed ; chiffre non sourcé [M]. Je n'ai trouvé aucune étude qui mesure un pourcentage de muscles sollicités. Sollicitation large oui, chiffre précis non [?].\n- **« Excellent pour la longévité »** : seule donnée = cohorte d'olympiens, biaisée (PMID 25402483). Pour un pratiquant ordinaire [?].\n- **« Faible impact, donc sans risque »** : faux pour le dos (voir sécurité).\n- **« Le rameur fait perdre du poids/graisse mieux que les autres machines »** : [?] ; aucune comparaison trouvée.\n- **Constat de contexte** : les performances sur ergomètre sont liées à la force maximale (corrélations ci-dessus), ce qui plaide pour associer le rameur à de la musculation, non pour le substituer (PMID 42596793) [B].",
+   "titre": "Vendu vs démontré : Mythes marketing démontés"
+  },
+  {
+   "markdown": "Chaîne : jambes, puis dos, puis bras au tirage ; inverse au retour. Source d'étude spécifique de la technique chez débutants : [?]. Les différences de cinématique entre machines (tronc, rythme) existent (PMID 39275598) ; une technique de tronc en fin de poussée mal contrôlée est la zone de risque lombaire classique, mais l'ECR retrouvé porte sur des rameurs de haut niveau, pas sur l'enseignement du geste.",
+   "titre": "Technique"
+  },
+  {
+   "markdown": "- **Lombalgie** : fréquente chez les rameurs, objet d'ECR de rééducation chez adolescents d'élite (60 sujets : exercices ischio-jambiers plus efficaces que le kinesiotaping sur la douleur, PMID 41834720) [B]. Prévalence en population générale : [?].\n- **Blessures** : 4,25 blessures/1000 h chez 60 rameurs adolescents coréens (PMID 38804050) [B] ; en beach sprint, sites les plus cités : avant-bras 11,86 %, lombaire 10,17 %, genou 8,47 %, mains/doigts 6,78 % (PMID 39161556) [B] ; épreuve proche mais pas identique à l'ergomètre. Côtes (fracture de stress) et ampoules aux mains : [?] non vérifiés ici.\n- **Surcharge extrême** : 100 % d'atteintes musculo-squelettiques et dermatologiques chez 3 rameurs en course transatlantique de 38 jours, ~12 h/j (PMID 40827333) [B, n=3] ; contexte non transposable.\n- **Contre-indications** (hernie discale, ostéoporose sévère avec risque de fracture vertébrale, hypertension non contrôlée) : aucune donnée spécifique rameur retrouvée pour les quantifier [?]. Prudence de bon sens : flexion lombaire répétée sous charge à éviter en cas de hernie discale ou d'ostéoporose vertébrale ; le pic de pression lors d'efforts maximaux demande un contrôle tensionnel. Avis médical avant de commencer.",
+   "titre": "Sécurité, contre-indications"
+  },
+  {
+   "markdown": "Douleur lombaire irradiante ou persistante, antécédent de hernie discale ou de fracture vertébrale, ostéoporose connue, hypertension non contrôlée, maladie cardiaque, sédentarité ancienne avec âge moyen ou plus : avis médical avant. Test d'effort si effort intense prévu.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "Résumés lus via PubMed MCP.\n- PMID 25402483 : Antero-Jacquemin J et al. Row for your life: a century of mortality follow-up of French olympic rowers. PLoS One 2014. DOI 10.1371/journal.pone.0113362.\n- PMID 42596793 : Jacobs MW et al. Neuromuscular determinants of rowing performance, systematic review and meta-analysis. J Sports Sci 2026. DOI 10.1080/02640414.2026.2718553.\n- PMID 40010366 : Behm S et al. Does maximum strength predict rowing performance in elite female rowers? Int J Sports Physiol Perform 2025. DOI 10.1123/ijspp.2024-0313.\n- PMID 42033064 : Trevisol L et al. Responses at and above maximal lactate steady state in trained male rowers. Physiol Rep 2026. DOI 10.14814/phy2.70872.\n- PMID 39275598 : Cardoso R et al. Angular and linear rowing ergometers at different intensities. Sensors 2024. DOI 10.3390/s24175686.\n- PMID 40827333 : Willmott AGB et al. Amateur rowers to transatlantic trio race winners (étude de cas). Eur J Sport Sci 2025. DOI 10.1002/ejsc.70040.\n- PMID 42663176 : Ilha J et al. Physical exercise training to increase cardiorespiratory fitness in people with spinal cord injury (Cochrane). DOI 10.1002/14651858.CD014476.pub2.\n- PMID 40794496 : Hansen RK et al. 12 weeks of upper-body rowing exercise in spinal cord-injured humans. Exp Physiol 2025. DOI 10.1113/EP092667.\n- PMID 39851349 : Fang Y, Troy KL. Adapted ergometer setup and rowing speed on lower extremity loading. Bioengineering 2025. DOI 10.3390/bioengineering12010075.\n- PMID 42590692 : Kresevic S et al. Temporal EMG parameters in rowing, test-retest reliability. Sensors 2026. DOI 10.3390/s26154914.\n- PMID 38804050 : Park KJ. What are the risk factors of injury for a rowing athlete? J Sports Med Phys Fitness 2024. DOI 10.23736/S0022-4707.24.15776-3.\n- PMID 39161556 : DeLeo JM et al. Beach sprints rowing: injury and illness prevalence at the 2022 World Championships. BMJ Open Sport Exerc Med 2024. DOI 10.1136/bmjsem-2024-001940.\n- PMID 41834720 : Sekibağ OA, Hantal S. Hamstring-targeted physiotherapy on low back pain in elite adolescent rowers (ECR). J Back Musculoskelet Rehabil 2026. DOI 10.1177/10538127261432694.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Rameur / aviron (ergomètre Concept2)",
+ "type": "actif",
+ "unite": ""
+}

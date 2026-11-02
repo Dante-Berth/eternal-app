@@ -1,0 +1,90 @@
+{
+ "cibles": [
+  "prevention",
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "vitamine-b12-et-folates",
+ "intro": "",
+ "liens": [
+  "biomarqueur-vitamine-b12-folates",
+  "effluvium-telogene",
+  "fer-et-ferritine",
+  "legumineuses",
+  "metformine",
+  "psyllium-et-fibres-solubles",
+  "vitamines-aliments-et-absorption",
+  "zinc"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 17,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "29543316",
+  "41487531",
+  "26662928",
+  "28816346",
+  "38824900",
+  "33809274",
+  "42109795",
+  "20937919",
+  "39373282",
+  "26900641",
+  "34432056",
+  "29878267",
+  "42716224",
+  "41971363",
+  "34871525",
+  "41544303",
+  "37965303"
+ ],
+ "preuve_globale": "A",
+ "resume": "Deux vitamines à traiter en cas de carence prouvée et à ne pas utiliser « pour l'énergie, la mémoire ou l'homocystéine » chez quelqu'un qui n'en manque pas.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Deux vitamines à traiter en cas de carence prouvée et à ne pas utiliser « pour l'énergie, la mémoire ou l'homocystéine » chez quelqu'un qui n'en manque pas.\n- B12 : la carence est fréquente chez les végans non supplémentés, les personnes âgées, les patients sous metformine ou inhibiteurs de la pompe à protons. La voie orale (y compris sublinguale) élève la B12 sanguine aussi bien que l'injection : Cochrane 2018 (3 ECR, 153 participants, certitude faible) ; méta-analyse de 16 études (6 098 participants) : pas de différence entre voies orale, sublinguale et intramusculaire, B12 sanguine +402,6 pg/mL, homocystéine −4,83 µmol/L toutes voies confondues [A, faible certitude] (PMID 29543316, 41487531).\n- Folates : l'acide folique prévient les anomalies du tube neural (risque relatif 0,31 ; IC 0,17-0,58 ; qualité élevée), indication d'autorisation en France [A] (PMID 26662928).\n- Baisser l'homocystéine avec des vitamines B ne réduit ni l'infarctus ni la mortalité (Cochrane 2017 : 15 ECR, 71 422 participants, infarctus RR 1,02, décès RR 1,01) ; l'AVC baisse de 10 % (RR 0,90 ; IC 0,82-0,99), surtout là où les céréales ne sont pas enrichies (PMID 28816346, 38824900).\n- Chez les personnes sans carence, la B12 n'améliore ni la cognition ni l'humeur (16 ECR, 6 276 participants) [A] (PMID 33809274).\n- Piège : un excès d'acide folique peut masquer la carence en B12 et laisser progresser les atteintes neurologiques (point critique de la limite supérieure EFSA 2023).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Cofacteurs du cycle des folates et de la méthionine : la B12 (méthylcobalamine) et les folates remettent l'homocystéine en méthionine. Un déficit élève l'homocystéine et l'acide méthylmalonique (MMA) ; ces marqueurs, avec la holotranscobalamine, servent à définir un statut B12 adéquat (avis EFSA 2015, PMID 42109795).\n- L'homocystéine élevée est un marqueur de risque associé aux maladies cardiovasculaires, mais l'abaisser par supplémentation ne réduit pas les événements (PMID 20937919, 28816346) : association, pas causalité.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Carence en B12 : orale vs injectable | 3 ECR, 153 participants, 3-4 mois : 1 000 µg/j par voie orale sans différence cliniquement pertinente de la B12 sanguine vs IM ; critères cliniques non rapportés | [A, faible certitude] (PMID 29543316) |\n| Carence en B12 : voies orale/sublinguale/IM | 16 études (ECR et observationnelles), 6 098 participants : pas de différence entre voies (p = 0,270 pour la B12, p = 0,485 pour l'homocystéine) | [A, faible certitude] (PMID 41487531) |\n| Végans | Méta-analyse de 17 études : B12 sérique plus basse (p = 0,01) et homocystéine plus haute (+0,57 µmol/L ; IC 0,26-0,89) que les omnivores ; MMA plus élevée et holoTC plus basse sans significativité (p = 0,06 ; p = 0,09) | [A, observationnel] (PMID 39373282) |\n| Metformine | ECR DPP/DPPOS : B12 basse (≤ 203 pg/mL) 4,3 % sous metformine vs 2,3 % sous placebo à 5 ans (p = 0,02) ; taux borderline inclus (≤ 298) 19,1 % vs 9,5 % ; risque de carence × 1,13 par année de metformine (IC 1,06-1,20) | [B, analyse secondaire d'ECR] (PMID 26900641) |\n| Cognition, dépression, fatigue sans carence | 16 ECR, 6 276 participants : aucun effet de la B12 seule ni du complexe B sur la cognition ni la dépression | [A] (PMID 33809274) |\n| Déclin cognitif, vitamines B | 25 ECR : MMSE +0,14 point (IC 0,04-0,23) ; effet minime, non significatif sur les études de moins d'un an | [A, effet minime] (PMID 34432056) |\n| Événements cardiovasculaires, abaissement de l'homocystéine | 8 ECR, 37 485 participants : événements vasculaires majeurs RR 1,01 (0,97-1,05), AVC 0,96 (0,87-1,06), cancer 1,05 (0,98-1,13), mortalité 1,02 (0,97-1,08) | [A] (PMID 20937919) |\n| Idem, Cochrane 2017 | 15 ECR, 71 422 participants : infarctus RR 1,02 (0,95-1,10) ; décès RR 1,01 (0,96-1,06) ; AVC RR 0,90 (0,82-0,99), qualité élevée | [A] (PMID 28816346) |\n| AVC, acide folique | 21 ECR, 115 559 participants : RR 0,90 (0,83-0,98) ; RR 0,83 (0,75-0,93) hors pays à céréales enrichies, 1,04 en pays à enrichissement total | [A, effet dépendant du contexte] (PMID 38824900) |\n| Anomalies du tube neural | 5 essais, 6 708 naissances avec données : acide folique seul ou associé RR 0,31 (0,17-0,58), preuves de qualité élevée | [A] (PMID 26662928) |\n| 5-MTHF vs acide folique, statut en folates (biodisponibilité, doses équimolaires) | Trois ECR de 12 à 24 semaines, résultats discordants : à 12 semaines chez 142 Malaisiennes, RBC folate plus haut sous L-5-MTHF que sous acide folique (1 951 ± 496 vs 1 498 ± 580 nmol/L ; p = 0,003) (PMID 29878267) ; chez 96 femmes enceintes, hausse de l'RBC folate équivalente (+244,5 vs +262 ng/mL ; p = 0,714) (PMID 42716224) ; chez 62 femmes enceintes ayant terminé l'essai, folate total maternel et cordon sans différence, mais folate non métabolisé (UMFA) détectable chez 7 % vs 31 % (PMID 41971363). Critères cliniques (anomalies du tube neural, fausse couche) : aucun essai comparatif retrouvé | [B, ECR sur marqueurs biologiques, résultats discordants] (PMID 29878267, 42716224, 41971363) ; critères cliniques [?] |\n| Formes de B12 : méthylcobalamine vs cyanocobalamine | Aucun ECR adulte comparatif retrouvé ; une étude rétrospective de 158 enfants de 0-3 ans carencés (méthylcobalamine sublinguale vs cyanocobalamine orale ou IM) : B12 > 300 ng/L dans les trois groupes | [B, rétrospectif, enfants] (PMID 34871525) ; adultes [?] |\n| Test MTHFR pour choisir la forme de folate | Seul essai trouvé : faisabilité (22 couples avec fausses couches répétées), sans critère clinique ; l'échantillon de 5-MTHF s'est dégradé à la conservation | [B, essai de faisabilité] (PMID 41544303) ; bénéfice clinique du choix selon le génotype [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- B12 orale : 1 000 µg/j dans les essais de la Cochrane (un essai à 2 000 µg/j) ; l'apport adéquat EFSA pour l'adulte est de 4 µg/j (PMID 29543316, 42109795). Les compléments vendus contiennent souvent plusieurs centaines à plusieurs milliers de µg (teneurs non relevées ici, aucun relevé de produits fait) ; la dose de 1 000 µg/j correspond à celle des essais, très au-dessus de l'AI.\n- Folates : prévention des anomalies du tube neural : 1 comprimé de 0,4 mg/j à commencer 4 semaines avant la conception et poursuivre 8 semaines après, d'après le RCP de l'acide folique CCD 0,4 mg (BDPM, consulté le 2026-10-14). Les comprimés à 5 mg (remboursés à 65 %) sont indiqués dans le « traitement des troubles dus à un manque prouvé en acide folique (anémies, mauvaise absorption, apport insuffisant, grossesse) » ; posologie 5 à 15 mg/j soit 1 à 3 comprimés (RCP Acide folique CCD 5 mg, BDPM, consulté le 2026-10-14).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Médicaments (BDPM, consultée le 2026-10-14) : vitamine B12 Gerda 250 µg comprimé (cyanocobalamine ; indication « anémie par carence d'apport alimentaire chez les végétaliens stricts depuis plus de 4 ans » ; non remboursé ; sans ordonnance) ; vitamine B12 injectable 1 000 µg (Delagrange, Gerda) remboursée à 65 % ; acide folique 0,4 mg (CCD, Biogaran, Spéciafoldine, Fertifol) et 5 mg (Arrow, CCD, Viatris, Spéciafoldine) remboursés à 65 % ; Acide folique CCD 0,4 mg : « prévention primaire des anomalies du tube neural chez la femme sans antécédent particulier qui envisage une grossesse » et carence en folates, SMR important.\n- Compléments alimentaires : cyanocobalamine, méthylcobalamine, adénosylcobalamine, hydroxocobalamine ; acide folique, 5-méthyltétrahydrofolate. Formes admises par l'arrêté du 9 mai 2006 (annexe II, version en vigueur depuis le 17 novembre 2006) : acide ptéroylmonoglutamique et L-méthylfolate de calcium pour les folates ; cyanocobalamine et hydroxocobalamine pour la B12. La méthylcobalamine et l'adénosylcobalamine n'y figurent pas (elles relèvent de la clause des substances autorisées dans un autre État membre, annexe II-C) (Légifrance, consulté le 2026-10-14). Comparaison clinique des formes de B12 : voir tableau.\n- Limites de sécurité : l'EFSA (2023) retient une limite supérieure de 1 000 µg/jour d'acide folique pour les adultes, y compris femmes enceintes et allaitantes (PMID 37965303). Pour la B12, le SCF (2000, repris par l'EFSA en 2006) n'a pas pu fixer de limite supérieure : aucun effet indésirable défini, et pas de signal sous 1 000 µg/j par voie orale pendant de longues périodes chez des patients malabsorbeurs (document EFSA « Tolerable Upper Intake Levels for Vitamins and Minerals », 2006, texte intégral lu le 2026-10-14).\n- Plafonds français des compléments (arrêté du 9 mai 2006, annexe III, Légifrance consulté le 2026-10-14) : folates 200 µg/jour ; B12 3 µg/jour, valeur annulée par le Conseil d'État (décision n° 295235 du 27 avril 2011, vitamines K, B1, B2, B5, B8 et B12), faute de limite supérieure validée. Le projet d'actualisation (avis ANSES du 31 juillet 2024, saisine 2023-SA-0165) ne propose pas de plafond de sécurité pour la B12 (DJM « quantum satis », avec une limite P95 des consommations à 14 µg évoquée par le comité) et approuve pour l'acide folique une DJM adulte de 500 µg (800 µg pour les produits destinés aux femmes enceintes ou désireuses de l'être, avis médical requis). Ces valeurs ne sont pas en vigueur : réponse ministérielle de février 2025 selon laquelle les doses de 2006 n'ont pas été modifiées (via recherche web, non relue).\n- AMA : non concerné.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Masquage : l'acide folique peut corriger l'anémie d'une carence en B12 tout en laissant progresser l'atteinte neurologique ; c'est l'effet critique retenu par l'EFSA pour fixer la limite à 1 000 µg/j (PMID 37965303). Doser la B12 avant de prescrire des doses élevées de folates chez les personnes âgées ou végans.\n- Cancer : l'EFSA juge les données insuffisantes pour conclure à un lien causal entre folates et cancer colorectal ou de la prostate, ou déclin cognitif (PMID 37965303) ; la méta-analyse d'ECR ne montre pas de hausse significative du cancer (RR 1,05 ; 0,98-1,13) (PMID 20937919).\n- Médicaments qui abaissent la B12 : metformine (PMID 26900641) ; antihistaminiques H2 et inhibiteurs de la pompe à protons pris sur de longues périodes (RCP vitamine B12 Gerda, BDPM) ; le psyllium retarde l'absorption de la vitamine B12 prise en même temps (RCP Spagulax, BDPM) — voir [psyllium](fiche:psyllium-et-fibres-solubles).\n- Acide folique : peut abaisser les concentrations de phénobarbital, phénytoïne et primidone (RCP, BDPM) ; surveillance clinique.\n- Allergie connue aux cobalamines : contre-indication (RCP).\n- Maladie de Biermer (pernicieuse), malabsorption : traitement et voie à décider par un médecin ; hors périmètre de cette fiche (les revues Cochrane citées ne portent que sur des carences d'apport ou mixtes).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « B12 pour l'énergie, la mémoire, l'humeur » : pas d'effet chez les personnes sans carence (16 ECR) [A] (PMID 33809274).\n- « Baisser l'homocystéine protège le cœur » : l'abaissement par vitamines B ne réduit ni infarctus ni mortalité [A] (PMID 20937919, 28816346). Le signal est un moindre risque d'AVC, mesuré surtout dans des populations sans enrichissement des céréales.\n- « Il faut la forme méthylée (MTHFR) » : les ECR comparatifs trouvés ne mesurent que des marqueurs sanguins (le 5-MTHF élève le folate aussi bien, voire mieux, que l'acide folique, et réduit l'acide folique non métabolisé) ; aucun essai sur un critère clinique ni sur le test MTHFR pour guider le choix [B, marqueurs biologiques] ; critères cliniques [?] (PMID 29878267, 42716224, 41971363, 41544303). Rien ne montre que l'acide folique est inefficace chez les porteurs de variants MTHFR : cette affirmation n'est pas démontrée.\n- « Injection = plus fort » : pas de différence démontrée avec l'orale à dose suffisante [A, faible certitude].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour. Voir aussi [métformine](fiche:metformine), [vitamines, aliments et absorption](fiche:vitamines-aliments-et-absorption), [fer et ferritine](fiche:fer-et-ferritine), [zinc](fiche:zinc), [effluvium télogène](fiche:effluvium-telogene), [légumineuses](fiche:legumineuses).\n\nFiches « examen » liées : [dosages B12 et folates (seuils)](fiche:biomarqueur-vitamine-b12-folates)",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Wang et al. *Cochrane Database Syst Rev* 2018 — PMID 29543316 — [DOI](https://doi.org/10.1002/14651858.CD004655.pub3)\n2. Mazur et al. *Front Pharmacol* 2025 — PMID 41487531 — [DOI](https://doi.org/10.3389/fphar.2025.1602976)\n3. Niklewicz et al. *Nutr Bull* 2024 — PMID 39373282 — [DOI](https://doi.org/10.1111/nbu.12712)\n4. Aroda et al. *J Clin Endocrinol Metab* 2016 — PMID 26900641 — [DOI](https://doi.org/10.1210/jc.2015-3754)\n5. Markun et al. *Nutrients* 2021 — PMID 33809274 — [DOI](https://doi.org/10.3390/nu13030923)\n6. Wang et al. *Nutr Rev* 2022 — PMID 34432056 — [DOI](https://doi.org/10.1093/nutrit/nuab057)\n7. Clarke et al. *Arch Intern Med* 2010 — PMID 20937919 — [DOI](https://doi.org/10.1001/archinternmed.2010.348)\n8. Martí-Carvajal et al. *Cochrane Database Syst Rev* 2017 — PMID 28816346 — [DOI](https://doi.org/10.1002/14651858.CD006612.pub5)\n9. Zhang et al. *Clin Nutr* 2024 — PMID 38824900 — [DOI](https://doi.org/10.1016/j.clnu.2024.05.034)\n10. De-Regil et al. *Cochrane Database Syst Rev* 2015 — PMID 26662928 — [DOI](https://doi.org/10.1002/14651858.CD007950.pub3)\n11. EFSA NDA Panel, tolerable upper intake level for folate, *EFSA J* 2023 — PMID 37965303 — [DOI](https://doi.org/10.2903/j.efsa.2023.8353)\n12. EFSA NDA Panel, dietary reference values for cobalamin, *EFSA J* 2015 — PMID 42109795 — [DOI](https://doi.org/10.2903/j.efsa.2015.4150)\n13. Arrêté du 9 mai 2006 (annexes II et III, version en vigueur) — https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000637294 — consulté le 2026-10-14.\n14. ANSES, avis relatif à la mise à jour de l'arrêté du 9 mai 2006, saisine 2023-SA-0165, 31 juillet 2024 — https://www.anses.fr/fr/system/files/NUT2023SA0165.pdf — texte lu le 2026-10-14.\n15. SCF/EFSA, Tolerable Upper Intake Levels for Vitamins and Minerals, 2006 (section vitamine B12) — https://www.efsa.europa.eu/sites/default/files/efsa_rep/blobserver_assets/ndatolerableuil.pdf — lu le 2026-10-14.\n16. Henderson et al. *J Nutr* 2018 — PMID 29878267 — [DOI](https://doi.org/10.1093/jn/nxy057)\n17. Ernawati et al. *Clin Nutr ESPEN* 2026 — PMID 42716224 — [DOI](https://doi.org/10.1016/j.clnesp.2026.105107)\n18. Draicchio et al. *Front Nutr* 2026 — PMID 41971363 — [DOI](https://doi.org/10.3389/fnut.2026.1679067)\n19. Ledowsky et al. *Nutr Res* 2025 — PMID 41544303 — [DOI](https://doi.org/10.1016/j.nutres.2025.12.008)\n20. Orhan Kiliç et al. *Hematology* 2021 — PMID 34871525 — [DOI](https://doi.org/10.1080/16078454.2021.2010877)\n21. BDPM, fichiers CIS_bdpm, CIS_COMPO_bdpm, CIS_CIP_bdpm et pages « extrait » de Vitamine B12 Gerda 250 µg (CIS 61247741) et Acide folique CCD 0,4 mg (CIS 68502917) ; page Spagulax (CIS 61467730) — https://base-donnees-publique.medicaments.gouv.fr — consultés le 2026-10-14 ; RCP Acide folique CCD 5 mg (CIS 69448600).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Vitamine B12 et folates (B9)",
+ "type": "actif",
+ "unite": ""
+}

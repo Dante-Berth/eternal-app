@@ -1,0 +1,110 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-tension-arterielle",
+ "intro": "Fiche « mesure ». Traitements, cibles thérapeutiques, essais SPRINT/ESPRIT, compléments « tension » : [Hypertension artérielle](fiche:tension-arterielle), qui n'est pas répétée ici. Cette fiche dit comment mesurer, quels seuils s'appliquent à quelle méthode et ce qui fausse le chiffre.",
+ "liens": [
+  "apnee-du-sommeil",
+  "biomarqueur-frequence-cardiaque-repos-hrv",
+  "biomarqueur-nt-probnp-troponine",
+  "biomarqueur-poids-imc-tour-de-taille",
+  "biomarqueur-reins-creatinine-cystatine-albuminurie",
+  "cafeine",
+  "magnesium",
+  "stress-chronique-et-cortisol",
+  "tension-arterielle"
+ ],
+ "marqueurs": [
+  "pa-cabinet",
+  "pa-domicile",
+  "mapa-24h",
+  "mapa-jour",
+  "mapa-nuit"
+ ],
+ "mesure": "fonctionnel",
+ "nb_pmid": 13,
+ "nb_seuils": 18,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "12493255",
+  "38164947",
+  "39210715",
+  "33342236",
+  "24420553",
+  "20847724",
+  "29379316",
+  "12975389",
+  "23525435",
+  "29253389",
+  "39401854",
+  "37345492",
+  "38914505"
+ ],
+ "preuve_globale": "A",
+ "resume": "Un chiffre isolé au cabinet ne suffit pas : la HAS (2016) demande de confirmer l'hypertension hors cabinet, par automesure ou par MAPA, avant tout traitement médicamenteux sauf urgence. Seuils hors cabinet : 135/85 (automesure, moyenne de jour), plus bas que le 140/90 du cabinet.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Un chiffre isolé au cabinet ne suffit pas : la HAS (2016) demande de confirmer l'hypertension hors cabinet, par automesure ou par MAPA, avant tout traitement médicamenteux sauf urgence. Seuils hors cabinet : 135/85 (automesure, moyenne de jour), plus bas que le 140/90 du cabinet.\n- Les seuils changent selon la méthode (ESC 2024) : 140/90 cabinet, 135/85 domicile et moyenne de jour, 130/80 sur 24 h, 120/70 la nuit.\n- Le risque est continu : à âge égal, 20 mmHg de systolique en plus doublent la mortalité vasculaire, sans seuil net jusqu'à 115 de systolique [B, méta-analyse de données individuelles, 61 cohortes, 1 million d'adultes] (PMID 12493255).\n- Automesure et MAPA prédisent les événements de façon comparable (HR par 10 mmHg de systolique 1,36 et 1,38) et mieux que le cabinet [A, méta-analyse de 5 études, n=4 439] (PMID 38164947).\n- Les erreurs de technique dominent : les valeurs de routine, sans méthode standardisée, peuvent dépasser de 5 à 10 mmHg les valeurs standardisées (ESC 2024).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Pression exercée par le sang sur la paroi artérielle : systolique (contraction) / diastolique (relâchement). Unité : mmHg. Équivalence en cmHg, courante en France (« 14/9 ») : 140 mmHg = 14 cmHg.\n- **Au cabinet** : mesure ponctuelle par un soignant, manuelle ou par appareil automatique.\n- **Automesure** (AMT) : le patient mesure chez lui avec un appareil au bras, plusieurs jours.\n- **MAPA** (mesure ambulatoire sur 24 h, « holter tensionnel ») : brassard automatique portant sur 24 h, avec valeurs de jour, de nuit et dipping nocturne.\n- Marqueurs associés : fréquence cardiaque (voir [fréquence cardiaque de repos et HRV](fiche:biomarqueur-frequence-cardiaque-repos-hrv)) et hypotension orthostatique.",
+   "titre": "Ce que mesure l'examen"
+  },
+  {
+   "markdown": "Conversion : 10 mmHg = 1 cmHg ; 1 mmHg = 0,133 kPa. Seuils officiels consultés le 2026-11-01.\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| PA cabinet | mmHg | < 120/70 | pression « non élevée » | adulte | ESC 2024 (McEvoy, Eur Heart J 2024, PMID 39210715), tableau 5, texte intégral consulté le 2026-11-01 |\n| PA cabinet | mmHg | 120/70 à < 140/90 | pression « élevée » (catégorie nouvelle en 2024) | adulte | ESC 2024, tableau 5, consulté le 2026-11-01 |\n| PA cabinet | mmHg | ≥ 140/90 | hypertension (diagnostic, si confirmé) | adulte | ESC 2024 ; HAS/SFHTA fiche mémo (sept. 2016) : « PA ≥ 140/90 mesurée en consultation et persistant dans le temps », consultées le 2026-11-01 |\n| PA domicile (automesure) | mmHg | < 120/70 | non élevée | adulte | ESC 2024, consulté le 2026-11-01 |\n| PA domicile | mmHg | 120/70 à < 135/85 | élevée | adulte | ESC 2024, consulté le 2026-11-01 |\n| PA domicile (moyenne) | mmHg | ≥ 135/85 | hypertension | adulte | ESC 2024 ; HAS 2016 : « PAS ≥ 135 ou PAD ≥ 85 » en automesure ou MAPA diurne, consultées le 2026-11-01 |\n| MAPA, moyenne de jour | mmHg | ≥ 135/85 | hypertension | adulte | ESC 2024 ; HAS 2016, consultées le 2026-11-01 |\n| MAPA, moyenne de 24 h | mmHg | ≥ 130/80 | hypertension | adulte | ESC 2024, consulté le 2026-11-01 (seuil 24 h non relu dans le texte HAS directement [?]) |\n| MAPA, moyenne de 24 h | mmHg | < 115/65 | non élevée | adulte | ESC 2024, consulté le 2026-11-01 |\n| MAPA, moyenne de nuit | mmHg | ≥ 120/70 | hypertension nocturne | adulte | ESC 2024, consulté le 2026-11-01 |\n| MAPA, moyenne de nuit | mmHg | < 110/60 | non élevée | adulte | ESC 2024, consulté le 2026-11-01 |\n| HTA « blouse blanche » | mmHg | cabinet ≥ 140/90 et moyenne de jour < 135/85 (ou 24 h < 130/80) | hypertension du cabinet seule | adulte | ESC 2024 ; HAS 2016 (jour < 135/85), consultées le 2026-11-01 |\n| HTA « masquée » | mmHg | cabinet < 140/90 et moyenne de jour ≥ 135/85 (ou 24 h ≥ 130/80) | hypertension hors cabinet seule | adulte | ESC 2024, consulté le 2026-11-01 |\n| Cible à 6 mois, traité | mmHg | systolique 130–139 et diastolique < 90 au cabinet, confirmée au domicile < 135/85 | cible HAS | adulte traité | HAS/SFHTA 2016, consulté le 2026-11-01 |\n| Cible à 6 mois, traité | mmHg | systolique < 150 (domicile < 145) sans hypotension orthostatique | cible HAS | 80 ans et plus | HAS/SFHTA 2016, consulté le 2026-11-01 |\n| Différence entre les deux bras | mmHg | > 20 | rechercher une sténose de l'artère sous-clavière | adulte | HAS/SFHTA 2016, note de bas de page, consulté le 2026-11-01 |\n| Différence entre les deux bras | mmHg | ≥ 10 | limite supérieure de la normale proposée ; mortalité toutes causes croissante dès 5 mmHg (HR 1,07) | adulte | [A, méta-analyse de données individuelles, 24 études, n=53 827] (PMID 33342236) |\n| Hypotension orthostatique | mmHg | baisse de systolique ≥ 20 ou de diastolique ≥ 10 dans les 3 min après passage debout | définition | adulte | HAS/SFHTA 2016, note de bas de page (SFHTA 2014), consulté le 2026-11-01 |\n\nLecture : le seuil de 140/90 s'applique à la mesure standardisée du cabinet. Au domicile, 140/90 correspond à une pression déjà nettement élevée.",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Risque vasculaire selon la pression | à 40–69 ans, 20 mmHg de systolique (ou 10 de diastolique) de plus : mortalité par AVC multipliée par plus de 2 ; mortalité coronaire multipliée par 2 ; relation maintenue au moins jusqu'à 115/75 de pression (en dessous, peu de données) ; l'excès relatif est deux fois moindre à 80–89 ans mais l'excès absolu plus grand | [B, méta-analyse de données individuelles, 61 études, 1 million d'adultes] (PMID 12493255) |\n| Domicile vs 24 h vs cabinet | HR 1,36 (1,23–1,50) par 10 mmHg de systolique au domicile, 1,38 (1,22–1,57) en MAPA, différence non significative | [A, méta-analyse de 5 études, n=4 439] (PMID 38164947) |\n| HTA blouse blanche (domicile) | non traités : HR 1,42 (1,06–1,91) pour un événement cardiovasculaire vs normotendus ; traités : pas de sur-risque (HR 1,16, 0,79–1,72) | [A, base IDHOCO, 6 458 personnes, 5 cohortes] (PMID 24420553) |\n| HTA masquée | non traités : HR 1,55 (1,12–2,14) ; traités avec pression masquée : 1,76 | [A, même base] (PMID 24420553) |\n| HTA masquée (MAPA) | HR 2,09 (1,55–2,81) vs normotension ; blouse blanche HR 0,96 (0,65–1,42) ; 8 études, 7 961 sujets | [A, méta-analyse] (PMID 20847724) |\n| Idem, 9 études, 14 729 participants | masquée : plus d'événements cardiovasculaires et de décès que les normotendus | [A, méta-analyse] (PMID 29379316) |\n| Différence entre les bras | HR de mortalité 1,05 par 5 mmHg de différence de systolique ; mesure des deux bras recommandée | [A, méta-analyse de données individuelles] (PMID 33342236) |\n| Traiter le chiffre : effet des antihypertenseurs, cibles | voir la fiche [Hypertension artérielle](fiche:tension-arterielle) | [A] |\n\nLe blouse blanche est donc discuté : risque un peu plus élevé chez le non traité dans IDHOCO (PMID 24420553), non dans la méta-analyse sur MAPA (PMID 20847724). Les deux méthodes de définition ne sont pas identiques.",
+   "titre": "Ce que dit la preuve (valeur prédictive, utilité clinique)"
+  },
+  {
+   "markdown": "- **Technique, cabinet** (ESC 2024, texte intégral lu) : 5 minutes de repos assis, pas d'effort ni de caféine ou de tabac dans les 30 minutes précédentes, vessie vide, dos et bras soutenus, jambes non croisées, brassard sur le bras nu à hauteur du cœur, largeur et longueur adaptées à la circonférence du bras (vessie de 75 à 100 % de la longueur et 35 à 50 % de la largeur), pas de parole. Manuel : 3 mesures espacées de 1 à 2 minutes, moyenne des 2 dernières. Appareil automatique : 3 ou 6 mesures à 1 minute d'intervalle.\n- **Technique, HAS 2016** : appareil au bras, électronique et validé ; au moins 2 mesures avec un brassard adapté ; première fois aux deux bras (retenir le bras le plus haut) ; position assise ou allongée, repos de 3 à 5 minutes, sans parler ; recherche d'hypotension orthostatique à 1 et 3 minutes debout.\n- **Technique, automesure HAS** : « règle des 3 » : 3 mesures le matin avant le petit déjeuner et les médicaments, 3 mesures avant le coucher, 3 jours de suite, avant-bras posé sur la table, valeurs notées par écrit. **ESC 2024** : 3 à 7 jours, deux mesures par séance à 1–2 minutes, matin et soir ; prolonger 7 jours si la moyenne de 3 jours est proche du seuil. Les deux protocoles ne sont pas identiques : suivre celui du médecin.\n- **MAPA (ESC 2024)** : une mesure toutes les 15–30 minutes le jour, toutes les 30–60 minutes la nuit ; session valide si au moins 70 % de mesures utilisables, typiquement ≥ 27 sur 24 h.\n- **Appareil** : au bras, oscillométrique, validé ; ESC 2024 note que les appareils de plus de 4 ans peuvent être inexacts. La HAS renvoie à la liste de l'ANSM des autotensiomètres, non consultée directement ici [?]. Les poignets et les montres : pas de validation lue [?].\n- **Leviers sur la valeur mesurée** (détail dans [la fiche condition](fiche:tension-arterielle)) : perte de poids (≈ −1 mmHg par kg perdu, 25 ECR) [A] (PMID 12975389) ; exercice d'endurance chez l'hypertendu −8,3/−5,2 mmHg [A] (PMID 23525435) ; moins de sel ; alcool au-delà de 2 verres/jour [A] (PMID 29253389) ; magnésium (voir [magnésium](fiche:magnesium)), ail, hibiscus : effets de 2 à 4 mmHg, certitude faible.\n- **Substances qui font monter la pression** : la caféine aiguë l'augmente [A, revue parapluie] (voir [caféine](fiche:cafeine)). Autres médicaments (AINS, décongestionnants, réglisse, œstroprogestatifs) : non recherchés pour cette fiche [?].\n- **Sommeil** : apnée du sommeil et pression : voir [apnée du sommeil](fiche:apnee-du-sommeil) (la PPC baisse la pression de consultation seulement si elle est non contrôlée au départ, −2,6 mmHg [A], PMID 39401854).\n- **Stress** : cortisol de cheveu associé à la pression (r = 0,19 pour la systolique, transversal), voir [stress chronique et cortisol](fiche:stress-chronique-et-cortisol).",
+   "titre": "Ce qui fait varier le résultat (leviers, médicaments, compléments, conditions de prélèvement)"
+  },
+  {
+   "markdown": "- Cabinet ≥ 140/90 : confirmer par automesure ou MAPA avant de conclure (HAS 2016 ; ESC 2024 admet aussi au moins une mesure de contrôle à une visite ultérieure). Pour un chiffre initial de 160–179/100–109, confirmer rapidement, dans le mois ; pour 140–159/90–99, confirmer hors cabinet (ESC 2024).\n- Moyenne d'automesure ≥ 135/85 : en parler à un médecin ; ne pas se traiter seul. Le bilan et le traitement sont dans [Hypertension artérielle](fiche:tension-arterielle).\n- Pression « élevée » (120/70 à 139/89) : catégorie ESC 2024 à surveiller avec des mesures de mode de vie ; conduite détaillée de l'ESC pour cette catégorie non relue [?].\n- HTA blouse blanche (cabinet ≥ 140/90, domicile < 135/85) : surveillance annuelle et mesures de mode de vie (HAS 2016), car le risque de passage à une HTA permanente est élevé (HAS).\n- Valeur très haute avec maux de tête, douleur thoracique, déficit neurologique : urgence (la HAS prévoit l'urgence hypertensive comme exception à la confirmation préalable).",
+   "titre": "Que faire d'un résultat anormal"
+  },
+  {
+   "markdown": "- HAS : confirmer le diagnostic avant de traiter ; l'automesure est plus adaptée aux soins primaires ; la MAPA apporte des informations en cas de variabilité importante, de suspicion d'absence de baisse nocturne ou de dysautonomie (HAS 2016). Fréquence de dépistage chez l'adulte sain : non précisée dans les sources lues [?].\n- Remboursement de la MAPA et de l'automesure (tensiomètre) en France : non consultés [?].",
+   "titre": "Qui, quand, comment (fréquence, remboursement)"
+  },
+  {
+   "markdown": "- Tensiomètres : dispositifs médicaux ; la HAS renvoie à la liste ANSM des autotensiomètres validés (citée par la fiche mémo HAS de sept. 2016, liste non consultée directement [?]).\n- Mesure au cabinet, MAPA : actes médicaux. Cotation et remboursement non consultés [?].\n- Recommandations : HAS/SFHTA 2016, ESC 2024, ESH 2023 (PMID 37345492) et ESH 2024 (PMID 38914505) : les deux dernières sans résumé PubMed, non utilisées pour un chiffre.\n- Une version HAS postérieure à 2016 existe peut-être : non vérifié [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Mesurer juste après avoir marché, parlé ou bu un café, jambes croisées, bras non soutenu : les conditions de la technique standardisée sont rappelées plus haut (ESC 2024).\n- Brassard trop petit pour l'obésité ou trop grand pour un bras fin : ESC 2024 indique les proportions ; l'ampleur de l'erreur n'a pas été recherchée dans PubMed [?].\n- Comparer des chiffres de méthodes différentes : les seuils de diagnostic sont 135/85 au domicile et 140/90 au cabinet (ESC 2024, HAS 2016), donc ils ne se lisent pas sur la même échelle.\n- Ne mesurer qu'un bras : la HAS recommande de mesurer les deux bras la première fois et d'utiliser le plus haut ; la différence entre bras est un marqueur de risque (PMID 33342236).\n- Prendre un seul relevé élevé pour un diagnostic, ou un seul relevé normal pour une garantie (hypertension masquée).\n- Interpréter la moyenne sans la noter par écrit (HAS : noter les valeurs et la fréquence cardiaque).\n- Arrêter son traitement parce que la tension est « bonne » : cette fiche ne couvre pas le traitement.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Le tensiomètre de poignet ou la montre mesurent comme un brassard » : aucune validation lue pour ce cycle [?] ; la HAS demande un appareil au bras électronique et validé.\n- « 12/8, c'est la tension idéale » : le risque vasculaire diminue avec la pression au moins jusqu'à 115/75 (PMID 12493255) ; la cible thérapeutique HAS est 130–139/< 90 pour un patient traité. Un « idéal » universel n'est pas démontré.\n- « Un chiffre élevé au cabinet est toujours dû au stress » : l'hypertension blouse blanche existe mais la masquée aussi, et elle est plus à risque (HR 2,09, PMID 20847724).\n- « Les infusions et compléments remplacent un traitement » : voir la fiche condition (aucun essai sur les événements) [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Les seuils d'automesure (135/85) sont plus bas que ceux du cabinet (140/90) : une moyenne de 138/88 à la maison est déjà de l'hypertension (HAS 2016, ESC 2024).\n- Les valeurs hors cabinet l'emportent sur le cabinet pour prédire le risque (PMID 38164947) [A].\n- Une différence de pression entre les deux bras est associée à la mortalité, même sans maladie connue (PMID 33342236) [A].\n- Le risque lié à la pression est proportionnellement deux fois plus faible à 80–89 ans qu'à 40–49 ans, mais le risque absolu est plus élevé (PMID 12493255) [B].",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Moyenne d'automesure ≥ 135/85 ou deux mesures de cabinet ≥ 140/90.\n- Malaise ou chute en se levant (hypotension orthostatique : baisse de ≥ 20/10 dans les 3 minutes), surtout sous traitement.\n- Valeur très haute avec symptômes neurologiques ou thoraciques : urgence.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 39210715, McEvoy et al., Eur Heart J 2024 (ESC 2024) ; pas de résumé PubMed ; texte intégral (academic.oup.com/eurheartj/article/45/38/3912/7741010) consulté le 2026-11-01 pour les tableaux et protocoles, seule une partie du texte a été lue (jusqu'à 200 000 caractères sur 265 000).\n- HAS/SFHTA, fiche mémo « Prise en charge de l'hypertension artérielle de l'adulte », septembre 2016 (texte PDF lu, consulté le 2026-11-01).\n- PMID 12493255, Lewington et al., Lancet 2002 (résumé relu).\n- PMID 38164947, Kollias et al., J Hypertens 2024 (résumé relu).\n- PMID 24420553, Stergiou et al., Hypertension 2014 (résumé relu).\n- PMID 20847724, Pierdomenico et al., Am J Hypertens 2011 (résumé relu).\n- PMID 29379316, Palla et al., Integr Blood Press Control 2018 (résumé relu).\n- PMID 33342236, Clark et al., Hypertension 2021 (résumé relu).\n- PMID 12975389, PMID 23525435, PMID 29253389, PMID 39401854 : repris de [la fiche condition](fiche:tension-arterielle) et de [apnée du sommeil](fiche:apnee-du-sommeil), non relus dans ce cycle.\n- PMID 37345492 (ESH 2023) et PMID 38914505 (ESH 2024) : référencés, sans résumé, non utilisés pour un chiffre.\n- Fiches liées : [Hypertension artérielle](fiche:tension-arterielle), [Poids, IMC, tour de taille](fiche:biomarqueur-poids-imc-tour-de-taille), [Fréquence cardiaque de repos et HRV](fiche:biomarqueur-frequence-cardiaque-repos-hrv), [Reins](fiche:biomarqueur-reins-creatinine-cystatine-albuminurie), [NT-proBNP et troponine](fiche:biomarqueur-nt-probnp-troponine).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : tension artérielle (cabinet, automesure, MAPA)",
+ "type": "biomarqueur",
+ "unite": "mmHg"
+}

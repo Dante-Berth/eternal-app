@@ -1,0 +1,76 @@
+{
+ "cibles": [
+  "hormones-sexualite"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "baisse-libido-homme-et-testosterone",
+ "intro": "",
+ "liens": [
+  "ashwagandha",
+  "biomarqueur-testosterone-shbg",
+  "depistage-cancer-prostate-psa",
+  "semaglutide-et-glp1",
+  "tabac-et-alcool"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42044038",
+  "32724267",
+  "30063407",
+  "30212398",
+  "42435198",
+  "42704281",
+  "42836912"
+ ],
+ "preuve_globale": "A",
+ "resume": "Une testostérone basse n'explique pas toute baisse de libido : le traitement n'a de sens que si un hypogonadisme est confirmé par un médecin [?] (critères diagnostiques non vérifiés ici).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Une testostérone basse n'explique pas toute baisse de libido : le traitement n'a de sens que si un hypogonadisme est confirmé par un médecin [?] (critères diagnostiques non vérifiés ici).\n- Chez l'homme obèse avec hypogonadisme fonctionnel, testostérone + programme de mode de vie : gain minime sur l'IIEF (différence moyenne 1,29, IC 0,07–2,50) [A, faible certitude] ; confiance faible ou très faible dans la plupart des comparaisons.\n- Testostérone : hausse de l'hématocrite [A] ; signal d'arythmie (OR 1,58, IC 1,21–2,05) dans une méta-analyse de 31 essais [A], signification clinique incertaine.\n- Stress, déficit énergétique et sommeil dégradé peuvent freiner l'axe hypothalamo-hypophysaire (GnRH/LH) et baisser la testostérone de façon centrale et réversible, sans défaillance testiculaire : revue narrative 2026 [B] (PMID 42044038). Un bilan avec LH et SHBG permet de distinguer ce cas d'un hypogonadisme testiculaire ; voir [testostérone, SHBG](fiche:biomarqueur-testosterone-shbg).\n- Clomifène vs testostérone : testostérone sérique comparable avec le gel, mais libido (ADAM) moindre sous clomifène [A, faible certitude].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Suppression centrale liée au stress : déficit énergétique sévère, perturbation du sommeil et stress psychogène incontrôlable réduisent la pulsatilité de GnRH et de LH, donc la production testiculaire, et augmentent souvent la SHBG, ce qui abaisse la testostérone libre ; des tests de stimulation par hCG montrent des cellules de Leydig qui répondent encore. Le facteur déterminant est l'énergie disponible, pas le type d'exercice : la musculation avec apport suffisant ne baisse pas la testostérone de base [B, revue narrative, résumé lu uniquement] (PMID 42044038).\n- « Exercise-Hypogonadal Male Condition » : testostérone basale basse sans élévation de LH chez des hommes pratiquant l'endurance de longue durée ; décrite comme peu fréquente ; prise en charge proposée : ajustement de l'entraînement et de l'alimentation [B, revues courtes] (PMID 32724267, PMID 30063407). Un cas rapporté (adolescent coureur, malnutrition, libido basse, pas d'érections matinales) s'est résolu sans traitement hormonal [B, cas unique] (PMID 30212398). Applicabilité à un homme en surplus calorique et surtout en musculation : non établie [?].\n- Autres mécanismes (obésité, prolactine, thyroïde, apnée du sommeil, médicaments, causes psychogènes) : non extraits [?].",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Testostérone (substitution) | apport exogène | [A, faible certitude] fonction érectile, obèses ; libido meilleure que clomifène | médicament sur ordonnance (liste I) : AndroGel, Testavan, Nebido, Testostérone Besins/Desma ; prescription initiale réservée à certains spécialistes (endocrinologie, urologie, diabétologie, gynécologie, nutrition, andrologie) ; injectables Besins et Desma remboursés 65 %, gels et Nebido sans taux renseigné (BDPM, consulté le 2026-10-08) ; dopage : liste AMA 2026 non ouverte à la source, non vérifié | non relevé |\n| Clomifène | SERM, stimule la production endogène | [A, faible certitude] ; hors AMM pour cet usage | Clomid 50 mg : liste I, remboursé 65 % ; l'avis HAS 2019 cite des indications d'induction de l'ovulation, de stérilité par anovulation et d'aménorrhée, aucune indication masculine (BDPM, HAS, consulté le 2026-10-08) ; AMA non vérifié | non relevé |\n| Mode de vie structuré (poids, exercice) | — | [A, faible certitude] dans la NMA, seul ou combiné | libre | 0 € |\n| Agonistes GLP-1 | perte de poids | inclus dans la NMA, résultat sexuel non extrait [?] | voir [GLP-1](fiche:semaglutide-et-glp1) | — |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Non rédigés : ni dosage ni schéma de substitution (médicament prescrit).",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Se doser ou se traiter sans bilan : [?].\n- Utiliser des « boosters de testostérone » vendus en complément : non évalué ici [?].\n- Ignorer fertilité : la testostérone exogène supprime la spermatogenèse (résumé de PMID 42435198).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "À compléter (tribulus, fenugrec, ashwagandha pour la libido) : non recherché. Voir [ashwagandha](fiche:ashwagandha) pour la sécurité.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Le classement de la NMA n'est pas définitif : ses auteurs concluent qu'aucune stratégie n'est supérieure sur tous les critères (PMID 42704281).\n- La testostérone a diminué cholestérol total, LDL et triglycérides dans la méta-analyse cardiovasculaire, mais la durée des essais va de 40 jours à 36 mois [A] (PMID 42836912).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Baisse de désir persistante, avec fatigue, perte de masse musculaire ou troubles de l'érection : bilan médical ; aussi si un antidépresseur, le finastéride ou un opiacé est en cours.\n\nVoir aussi : [Dépistage du cancer de la prostate (PSA)](fiche:depistage-cancer-prostate-psa) · [Tabac et alcool](fiche:tabac-et-alcool).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 42704281 — Yang et al., J Sex Med 2026 (NMA, 23 essais, n=1899, hypogonadisme fonctionnel de l'obèse).\n- PMID 42836912 — Qin et al., Endocrine 2026 (31 essais, n=9437, sécurité cardiovasculaire).\n- PMID 42044038 — Friedl & Nindl, J Clin Endocrinol Metab 2026 (revue : suppression de la testostérone associée au stress, adaptation centrale ou hypogonadisme).\n- PMID 32724267 — Lane, Magallanes et al., Arch Med Deporte 2019 (Exercise-Hypogonadal Male Condition).\n- PMID 30063407 — Hooper, Tenforde et al., Phys Sportsmed 2018 (traitement de la testostérone basse associée à l'exercice).\n- PMID 30212398 — cas rapporté, Med Sci Sports Exerc 2019 (malnutrition relative et EHMC).\n- PMID 42435198 — Constantinou et al., Eur J Clin Pharmacol 2026 (clomifène vs testostérone, 11 études, n=1512).\n- - BDPM (fichiers de téléchargement), https://base-donnees-publique.medicaments.gouv.fr/telechargement — consulté le 2026-10-08 : testostérone (Besins, Desma, AndroGel, Testavan, Nebido) et Clomid ; avis de la Commission de la transparence (testostérone Besins, 2023-12-06 : SMR important dans le traitement substitutif des hypogonadismes masculins confirmés cliniquement et biologiquement ; Clomid, 2019-05-22).\n- Non vérifiés : liste AMA 2026 (accès au site refusé le 2026-10-08) ; critères diagnostiques de l'hypogonadisme.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Baisse de désir chez l'homme et testostérone",
+ "type": "condition",
+ "unite": ""
+}

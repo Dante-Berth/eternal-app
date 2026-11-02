@@ -1,0 +1,62 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "peptide",
+ "id": "nooance-serum-jeunesse-peptides-cuivre",
+ "intro": "",
+ "liens": [
+  "ghk-cu",
+  "rides-et-sillons-nasogeniens",
+  "the-ordinary-multi-peptide-copper-peptides-1"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 0,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [],
+ "preuve_globale": "B",
+ "resume": "Formule française plus concentrée en cuivre que The Ordinary, mais 2 % d'un actif sans preuve clinique reste sans preuve, pour un prix 2 à 4 fois supérieur au ml.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Formule française plus concentrée en cuivre que The Ordinary, mais 2 % d'un actif sans preuve clinique reste sans preuve, pour un prix 2 à 4 fois supérieur au ml.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "INCI (Oh My Cream, consulté le 2026-10-06 ; liste inchangée depuis le relevé du 2026-10-03) : Aqua, Pentylene Glycol, Methylpropanediol, Glycerin, Copper Tripeptide-1, Butylene Glycol, 1,2-Hexanediol, Panthenol, Alpha-Glucan Oligosaccharide, Sodium Hyaluronate, Tripeptide-2, Palmitoyl Tripeptide-1, Tripeptide-1, Palmitoyl Tetrapeptide-7, Citric Acid, Carbomer, Hydrolyzed Beta-Glucan, Sodium Lactate, Sodium Carboxymethyl Beta-Glucan, Polysorbate 20, Sodium Hydroxide, Sodium Benzoate, Potassium Sorbate, Dextran.\n\nAttention : une autre liste (contenant Bis(Tripeptide-1) Copper Acetate, Myristoyl Nonapeptide-3, Acetyl Tetrapeptide-2) circule chez d'autres revendeurs ; la formule a peut-être changé. Vérifier l'étiquette du flacon acheté.\n\n| Actif | Concentration | Preuve |\n|---|---|---|\n| [GHK-Cu](fiche:ghk-cu) | « 2 % » de peptides de cuivre, « en 3 formes » selon la marque ; total peptides annoncé de 9 % (Oh My Cream, 2026-10-06) ou 23 % (Skin Cafeine, 2026-10-03, non revérifié) selon le revendeur | [B, ECR unique n=13 négatif sur critères objectifs] |\n| Palmitoyl tripeptide-1 + palmitoyl tetrapeptide-7, tripeptides | non déclarées | [?] non évalués ici |\n| Panthénol, hyaluronate de sodium, bêta-glucanes | non déclarées | [?] non évalués ici |",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Cosmétique fabriqué en France (allégation de la marque relayée par Skin Cafeine). Pas de restriction connue ; fiche CosIng du Copper Tripeptide-1 non consultable depuis cette session (2026-10-06) (voir [fiche GHK-Cu](fiche:ghk-cu)).",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| Allégation | Études |\n|---|---|\n| « Rides profondes −12 % » (21 volontaires, étude GREDECO D125.9.25, évaluation instrumentale, 2026, citée par Oh My Cream) | Étude commanditée, non publiée, sans groupe témoin mentionné [M] |\n| « 90 % constatent une diminution des signes de l'âge » | Auto-évaluation [M] |\n| « Lisse, raffermit, illumine » | Aucune étude publiée du produit [?] ; actif principal sans effet objectif dans le seul ECR [B] |\n| Déconseillé pendant la grossesse, car concentrations « trop stimulantes » selon la marque (Oh My Cream, 2026-10-06) | Précaution de la marque ; aucune donnée [?] |",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Selon le revendeur : 2–3 gouttes matin et/ou soir après nettoyage, avant la crème (Skin Cafeine, consulté le 2026-10-03).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix : 78 € les 20 ml (Oh My Cream, consulté le 2026-10-06 ; Skin Cafeine, consulté le 2026-10-03).\n- Par mois (estimation) : 2–3 gouttes ≈ 0,1–0,15 ml par application ; 1 application/j → environ 5 mois (≈ 15 €/mois), 2 applications/j → environ 2,7 mois (≈ 29 €/mois). **15–30 €/mois**.\n- Alternative moins chère à preuve équivalente : [The Ordinary Multi-Peptide + Copper Peptides 1 %](fiche:the-ordinary-multi-peptide-copper-peptides-1) (12–18 €/mois). Preuve supérieure pour les rides : rétinoïdes ([rides](fiche:rides-et-sillons-nasogeniens)).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Texture aqueuse, sans parfum ajouté ni huile essentielle (description revendeur). Pas d'agrégat d'avis de tolérance consulté [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Oh My Cream (INCI, concentration, allégations, précaution grossesse) — https://www.ohmycream.com/products/nooance-serum-jeunesse-peptides-cuivre (consultée le 2026-10-06)\n- Skin Cafeine (prix, mode d'emploi, description) — https://skincafeine.com/products/nooance-serum-peptides-cuivre (consultée le 2026-10-03)\n- Preuves de l'actif : [fiche GHK-Cu](fiche:ghk-cu).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "Nooance Sérum Jeunesse 2 % Peptides de Cuivre",
+ "type": "produit",
+ "unite": ""
+}

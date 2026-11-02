@@ -1,0 +1,84 @@
+{
+ "cibles": [
+  "hormones-sexualite",
+  "muscle-os",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "medicament",
+ "id": "testosterone",
+ "intro": "",
+ "liens": [
+  "baisse-libido-homme-et-testosterone",
+  "bilans-biologiques",
+  "biomarqueur-psa",
+  "biomarqueur-testosterone-shbg",
+  "dhea",
+  "dysfonction-erectile",
+  "tadalafil"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "37326322",
+  "38150256",
+  "37589949",
+  "37804846",
+  "26886521",
+  "42435198",
+  "39248210",
+  "38205962",
+  "38315466",
+  "42141303",
+  "41947034"
+ ],
+ "preuve_globale": "A",
+ "resume": "Médicament sur ordonnance, indiqué en cas d'hypogonadisme confirmé (symptômes + dosages bas répétés), vendu et vanté en ligne comme traitement de « l'andropause », de l'énergie et du muscle. Non anodin : suppression de la fertilité, hématocrite, surveillance.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Médicament sur ordonnance, indiqué en cas **d'hypogonadisme confirmé** (symptômes + dosages bas répétés), vendu et vanté en ligne comme traitement de « l'andropause », de l'énergie et du muscle. Non anodin : suppression de la fertilité, hématocrite, surveillance.\n- **Sécurité cardiovasculaire (essai TRAVERSE, 5 246 hommes de 45 à 80 ans)** : événements cardiaques majeurs 7,0 % sous testostérone contre 7,3 % sous placebo (HR 0,96 ; IC 95 % 0,78-1,17), non-infériorité atteinte ; mais plus de fibrillation auriculaire, de lésion rénale aiguë et d'embolie pulmonaire [A] (PMID 37326322).\n- **Prostate (TRAVERSE, 5 204 hommes)** : cancer de haut grade 0,19 % vs 0,12 % (HR 1,62 ; 0,39-6,77), non significatif ; PSA plus élevée sous testostérone ; population sélectionnée pour exclure les hommes à haut risque de cancer de la prostate [A] (PMID 38150256).\n- **Efficacité** : amélioration de la fonction sexuelle chez les hommes hypogonadiques à libido basse (activité sexuelle +0,49 acte/jour à 6 mois, désir, symptômes), **mais pas de la fonction érectile** dans TRAVERSE (PMID 37589949) ; la méta-analyse de données individuelles (35 études, 5 601 hommes) trouve en revanche une amélioration de l'IIEF-15 de +5,52 points (IC 3,95-7,10) (PMID 37804846) [A].\n- Chez l'homme âgé symptomatique (T-Trials) : gain modéré sur la sexualité et l'humeur, **aucun gain de vitalité ni de distance de marche** (PMID 26886521) [A].\n- Pour un homme sans hypogonadisme confirmé (« testostérone limite », fatigue, muscle, longévité) : bénéfice non démontré dans les sources lues [?].\n\nDosage (matin, à jeun, SHBG, testostérone libre) : [biomarqueur testostérone et SHBG](fiche:biomarqueur-testosterone-shbg).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Remplacement hormonal exogène ; il freine l'axe hypothalamo-hypophysaire et la production de spermatozoïdes (voir [baisse de libido et testostérone](fiche:baisse-libido-homme-et-testosterone), d'après un résumé de PMID 42435198).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Événements cardiovasculaires (hypogonadisme + risque CV) | TRAVERSE : MACE HR 0,96 ; plus de FA, d'IRA, d'embolie pulmonaire | [A] (PMID 37326322) |\n| Sécurité prostatique | TRAVERSE : cancer de haut grade HR 1,62 (n.s.), PSA plus haute ; population triée | [A] (PMID 38150256) |\n| Revue systématique (TestES) | 35 essais, 5 601 hommes : pas de différence d'événements CV/cérébrovasculaires (OR 1,07 ; 0,81-1,42) à court-moyen terme ; qualité de vie et fonction sexuelle améliorées ; cholestérol, triglycérides, hémoglobine et hématocrite plus bas sous traitement ; données de mortalité insuffisantes | [A] (PMID 39248210) |\n| Fonction sexuelle (hypogonadisme, libido basse) | TRAVERSE : activité, désir, symptômes améliorés ; érection non améliorée | [A] (PMID 37589949) |\n| Fonction érectile (données individuelles) | IIEF-15 +5,52, sous-score érection +2,14 vs placebo, indépendant de l'âge, de l'obésité, du diabète | [A] (PMID 37804846) |\n| Homme âgé symptomatique | Sexualité et humeur modestement améliorées ; pas de bénéfice sur la vitalité ni la marche | [A] (PMID 26886521) |\n| Obèse hypogonadique (mode de vie + TRT) | Voir [baisse de libido et testostérone](fiche:baisse-libido-homme-et-testosterone) : gain minime à confiance faible | [A, faible certitude] |\n| Dépression chez l'hypogonadique, prédiabète vers diabète, os | Sous-études TRAVERSE et revues (PMID 38205962, PMID 38315466, PMID 42141303, PMID 41947034) : titres vérifiés, résumés non relus | [?] |\n| Muscle, performance, longévité chez l'homme sans hypogonadisme | Non retrouvé dans les sources lues | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet pour une fiche non posologique : prescription individuelle, adaptée par dosage. Les produits vendus hors circuit médical (« booster », stéroïdes) : teneur et pureté inconnues [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Médicaments sur ordonnance (liste I) : gels, injectables, undecanoate ; prescription initiale réservée à certaines spécialités (endocrinologie, urologie, diabétologie, gynécologie, nutrition, andrologie) ; injectables Besins et Desma remboursés à 65 %, gels et Nebido sans taux renseigné (BDPM, consulté le 2026-10-08, repris de [baisse de libido et testostérone](fiche:baisse-libido-homme-et-testosterone)).\n- **AMA** : statut dopage de la testostérone mentionné dans la fiche condition ; liste 2026 non revérifiée pour cette fiche [?].\n- Usage détourné (musculation, « anti-âge ») sans indication : hors AMM ; risques ci-dessous. Pas de conseil de dose.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Fertilité** : la testostérone exogène supprime la spermatogenèse ; à discuter avant tout traitement chez un homme qui souhaite un enfant (résumé de PMID 42435198 via la fiche condition).\n- **Cardiovasculaire** : pas de surrisque de MACE dans TRAVERSE ; plus de FA, d'IRA et d'embolie pulmonaire (PMID 37326322). Population : hommes de 45 à 80 ans avec hypogonadisme et risque cardiovasculaire (PMID 37326322).\n- **Prostate** : PSA en hausse, surveillance ; cancer de la prostate connu ou suspecté : contre-indication de principe, à confirmer avec un urologue [?] (PMID 38150256).\n- **Hématocrite** : l'épaississement du sang est un risque connu du traitement ; la revue TestES rapporte pourtant une hémoglobine/hématocrite « plus bas » sous traitement, ce qui contredit l'idée reçue et reste à interpréter avec prudence (PMID 39248210) [?].\n- Sommeil (apnée), grossesse de la partenaire, interactions : non détaillés ici [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Booster de testostérone = énergie, muscle, jeunesse » : chez l'homme âgé symptomatique, aucun gain de vitalité (PMID 26886521).\n- « La testostérone donne le cancer de la prostate » : TRAVERSE ne trouve pas de différence significative sur une durée moyenne de 21 mois, dans une population sélectionnée (PMID 38150256) ; la réponse à long terme reste ouverte.\n- « La testostérone protège le cœur » ou « détruit le cœur » : ni l'un ni l'autre dans TRAVERSE (HR 0,96) (PMID 37326322).\n- « Un taux sanguin bas suffit à traiter » : un seuil biologique sans symptômes n'est pas une indication ; le diagnostic suppose symptômes et dosages répétés (critères non vérifiés ici [?]).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit.\n\nVoir aussi : [baisse de libido et testostérone](fiche:baisse-libido-homme-et-testosterone), [tadalafil](fiche:tadalafil), [dysfonction érectile](fiche:dysfonction-erectile), [DHEA](fiche:dhea), [bilans biologiques](fiche:bilans-biologiques).\n\nFiches « examen » liées : [PSA](fiche:biomarqueur-psa)",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Lincoff AM et al. *N Engl J Med* 2023 — PMID 37326322 — [DOI](https://doi.org/10.1056/NEJMoa2215025)\n2. Bhasin S et al. *JAMA Netw Open* 2023 — PMID 38150256 — [DOI](https://doi.org/10.1001/jamanetworkopen.2023.48692)\n3. Pencina KM et al. *J Clin Endocrinol Metab* 2024 — PMID 37589949 — [DOI](https://doi.org/10.1210/clinem/dgad484)\n4. Hudson J et al. *Lancet Healthy Longev* 2023 — PMID 37804846 — [DOI](https://doi.org/10.1016/S2666-7568(23)00169-1)\n5. Cruickshank M et al. *Health Technol Assess* 2024 — PMID 39248210 — [DOI](https://doi.org/10.3310/JRYT3981)\n6. Snyder PJ et al. *N Engl J Med* 2016 — PMID 26886521 — [DOI](https://doi.org/10.1056/NEJMoa1506119)\n7. PMID 38205962, PMID 38315466, PMID 42141303, PMID 41947034 : titres vérifiés (dépression, prédiabète, os), résumés non relus.\n8. Fiche [baisse de libido et testostérone](fiche:baisse-libido-homme-et-testosterone) : statuts BDPM et PMID 42435198.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Testostérone (traitement substitutif, « TRT »)",
+ "type": "actif",
+ "unite": ""
+}

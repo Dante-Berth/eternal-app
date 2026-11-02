@@ -1,0 +1,99 @@
+{
+ "cibles": [
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-07",
+ "famille": "",
+ "id": "telomeres",
+ "intro": "",
+ "liens": [
+  "epitalon",
+  "exercice-physique",
+  "omega-3",
+  "sommeil",
+  "vitamine-d"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 22,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28593741",
+  "28459963",
+  "28241208",
+  "41668119",
+  "34083495",
+  "36210421",
+  "40642293",
+  "38194261",
+  "39846264",
+  "41739222",
+  "40409468",
+  "26950204",
+  "29546832",
+  "37086366",
+  "26869760",
+  "41286474",
+  "34020720",
+  "41305752",
+  "40107013",
+  "35011817",
+  "38487628",
+  "41556533"
+ ],
+ "preuve_globale": "B",
+ "resume": "La longueur des télomères leucocytaires (LTL) baisse avec l'âge et prédit faiblement la mortalité en cohorte (HR 1,23 pour le quintile le plus court vs le plus long) [B] ; ce n'est pas un test individuel utile.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- La longueur des télomères leucocytaires (LTL) baisse avec l'âge et prédit faiblement la mortalité en cohorte (HR 1,23 pour le quintile le plus court vs le plus long) [B] ; ce n'est pas un test individuel utile.\n- Randomisation mendélienne : télomères génétiquement plus longs = **plus** de cancers (gliome, poumon, mélanome…), moins de maladie coronaire [B] : « allonger ses télomères » n'est pas un objectif sans risque.\n- Leviers humains : exercice (effet inconstant, très hétérogène), vitamine D 2000 UI/j (+140 pb sur 4 ans, ECR unique) ; oméga-3, méditation, alimentation : non démontré.\n- TA-65 : quelques petits ECR, souvent liés au fabricant, résultats incohérents (la faible dose allonge, la forte dose non) ; aucun gain fonctionnel démontré [B] ; kits grand public : aucune étude de validité retrouvée [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Les télomères sont des séquences répétées protégeant les extrémités des chromosomes ; ils raccourcissent à chaque division cellulaire. Quand ils deviennent critiques, la cellule entre en sénescence ou en apoptose. La télomérase (sous-unité catalytique TERT) les rallonge ; elle est active dans les cellules souches et réactivée dans la plupart des cancers. Ces notions de biologie générale ne sont pas re-sourcées ici (pas de référence PubMed lue pour ce paragraphe) [?].\n- Vitesse de raccourcissement selon la méthode : 31 pb/an (qPCR) à 64 pb/an (Southern) dans une cohorte de 154 sujets sains de 0 à 81 ans [B] (PMID 28593741).\n- Les télomères sont aussi un effet : stress oxydant, inflammation et division cellulaire (donc l'âge des cellules immunitaires) les modifient ; la causalité « télomère court → maladie » n'est pas établie pour la plupart des maladies (voir MR ci-dessous).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Question | Donnée | Tag |\n|---|---|---|\n| Prédit la mortalité ? | Méta-analyse de données individuelles de 2 cohortes (12 199 adultes, 2 882 décès, qPCR) : HR du quintile le plus court vs le plus long 1,23 (IC95 1,04-1,46) toutes causes ; 1,29 (0,83-2,00) cardiovasculaire et 1,10 (0,88-1,37) cancer, non significatifs (PMID 28459963) | [B, cohortes observationnelles] |\n| Causal pour les maladies ? | Randomisation mendélienne sur 35 cancers et 48 maladies non néoplasiques : télomères génétiquement plus longs (par écart-type) associés à plus de cancers (gliome OR 5,27 ; adénocarcinome pulmonaire 3,19 ; mélanome 1,87) et à moins de maladie coronaire (OR 0,78), d'anévrisme aortique abdominal (0,63) (PMID 28241208) | [B, génétique ; limites ci-dessous] |\n| Idem chez l'enfant | Gliome pédiatrique : OR 2,12 par écart-type de LTL génétiquement prédit (IC95 1,32-3,39) (PMID 41668119) | [B] |\n\nLimites de la randomisation mendélienne : les instruments génétiques (variants dans TERT, POT1…) reflètent la longueur à vie et dans le sang, pas dans le tissu cible ; la pléiotropie reste possible ; et le résultat dit qu'une prédisposition génétique à des télomères longs accompagne plus de cancers, pas qu'un allongement obtenu à 60 ans par un complément ferait de même [?]. Le MR renforce néanmoins l'idée que « plus long » n'est pas « mieux ».",
+   "titre": "Un bon marqueur de vieillissement ou de risque ?"
+  },
+  {
+   "markdown": "- Méthodes : Southern (TRF), qPCR, T/C-FISH, flow-FISH. Comparaison sur 154 sujets : accord acceptable entre méthodes, flow-FISH la plus précise et reproductible, et l'expertise du laboratoire pèse sur le résultat [B] (PMID 28593741). La méthode qPCR (la plus utilisée en épidémiologie et en commerce) exprime un ratio T/S relatif, pas des paires de bases.\n- Un estimateur par méthylation de l'ADN (DNAmTL) n'est que modérément corrélé au qPCR (r = 0,41, N = 635) et au flow-FISH (r = 0,56, N = 144), avec de larges limites d'accord [B] (PMID 34083495).\n- Sang vs salive/joue : corrélation de 0,877 sur 52 sujets en qPCR [B, petit effectif] (PMID 36210421) ; ne dit rien de la fiabilité intra-individuelle dans le temps.\n- Variabilité intra-individuelle, coefficients de variation des kits commerciaux, comparaison avec flow-FISH sur kits grand public : non retrouvés dans PubMed [?].",
+   "titre": "Mesure : méthodes et variabilité"
+  },
+  {
+   "markdown": "| Levier | Résultat sur la longueur des télomères | Preuve | Statut FR |\n|---|---|---|---|\n| Exercice (méta-analyses d'ECR) | SMD 0,59 (IC95 0,14-1,06), I² = 92 %, activité télomérase SMD 0,35 ; ≥ 16 semaines nécessaires (PMID 40642293). Autre méta-analyse de 9 ECR : **pas d'effet global** (différence moyenne 0,0058, IC95 -0,05 à 0,06), HIIT en sous-groupe +0,15 (0,03-0,26), 56 % des études à haut risque de biais, certitude faible à très faible (PMID 38194261). Revue parapluie : effet global 0,28 (0,118-0,439), plus marqué pour le HIIT (PMID 39846264) | [A, contradictoire, faible certitude] | non_applicable |\n| Exercice extrême ou épuisant | raccourcissement (g = -0,44, IC95 -0,83 à -0,03), avec hausse de 8-OHdG et d'IL-6 (31 études) (PMID 41739222) | [A, hétérogène] | non_applicable |\n| Vitamine D3 2000 UI/j | ECR VITAL Telomere (1 031 participants, 4 ans, qPCR) : attrition réduite de 0,14 kb (IC95 0,007-0,27 ; p = 0,039) (PMID 40409468) ; voir [vitamine D](fiche:vitamine-d) | [B, ECR unique n=1 031] | complément alimentaire |\n| Oméga-3 marins 1 g/j | **aucun effet significatif** sur la LTL à 2 ou 4 ans dans le même essai (PMID 40409468) ; voir [oméga-3](fiche:omega-3) | [B, ECR unique n=1 031] | complément alimentaire |\n| TA-65 (activateur de télomérase, dérivé d'astragale) | **ECR indexés dans PubMed** (recherche du 2026-10-07) : 4 essais, ~285 participants. (1) 117 sujets de 53-87 ans, 12 mois : la **faible** dose allonge la LTL (+530 ± 180 pb vs −290 pb sous placebo), la **forte** dose non significative ; auteurs liés au fabricant T.A. Sciences (PMID 26950204). (2) Syndrome métabolique, croisé n = 40, 12 semaines : HDL plus haut, TNF-α plus bas ; LTL non rapportée dans le résumé (PMID 29546832). (3) Post-infarctus > 65 ans, n = 90, 12 mois : **critère principal négatif** (lymphocytes CD8+ TEMRA inchangés) ; lymphocytes totaux et hsCRP (−62 %) améliorés en critères secondaires (PMID 37086366). (4) DMLA débutante, n = 38, pilote : sensibilité maculaire +0,97 dB (PMID 26869760). La méta-analyse de 2025 annonce **8 ECR et 750 participants** (SMD 0,47 sur la LTL, aucun gain de fragilité ni d'inflammation, effet plus fort dans les essais industriels) (PMID 41286474) : effectif non retrouvé dans les essais indexés, essais inclus non identifiables dans le résumé ; à considérer avec prudence | [B, petits ECR, conflits d'intérêts, dose-réponse inversée] | statut non vérifié [?] |\n| Méditation | revue systématique : 2 ECR et 3 cas-témoins, résultats positifs mais non tous significatifs, « effet incertain » (PMID 34020720) | [B] | non_applicable |\n| Alimentation méditerranéenne | aucun ECR sur la LTL retenu. Randomisation mendélienne de 38 phénotypes alimentaires : vin (blanc/champagne, rouge) associé à des télomères plus courts, noix à des télomères plus longs, rien d'autre (PMID 41305752) | [B, génétique ; un seul article, revue par les pairs de qualité inconnue] | non_applicable |\n| Aliments ultra-transformés | aucune donnée retenue | [?] | non_applicable |\n| Sommeil | méta-analyse de 19 études, 400 212 participants (observationnelles) : mauvais sommeil (PSQI global, OR 1,24 ; IC95 1,03-1,50) associé à une attrition plus rapide ; association, pas ECR (PMID 40107013) | [B] | non_applicable |\n| Tabac, activité physique, sommeil | revue qualitative de 83 études : non-fumeurs et personnes actives associés à moins de raccourcissement, avec des problèmes méthodologiques importants (PMID 35011817) | [B] | non_applicable |\n| Obésité | méta-analyse « Obesity accelerates leukocyte telomere length shortening » **rétractée** par la revue (PMID 38487628) ; aucune autre méta-analyse chez l'adulte retenue | [?] | non_applicable |\n| Gène / thérapie génique (TERT) | aucune donnée humaine lue ; risque oncologique théorique (voir MR) | [?] | non_autorisé (non vérifié) |\n| Épitalon | voir [épitalon](fiche:epitalon) ; aucun ECR humain sur la longueur des télomères validé dans cette fiche | [?] | non_autorisé |\n\nStress psychologique, ultra-transformés, thérapie génique (hTERT) et obésité : PubMed n'a pas livré de source utilisable ici ; aucune affirmation d'efficacité n'est faite.",
+   "titre": "Traitements et leviers classés par niveau de preuve"
+  },
+  {
+   "markdown": "Pas de protocole « télomères » : aucun levier n'a de bénéfice clinique démontré via la LTL. Les mêmes habitudes (activité régulière, sommeil, arrêt du tabac) sont justifiées par leurs propres bénéfices, voir [exercice physique](fiche:exercice-physique) et [sommeil](fiche:sommeil).",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Traiter la LTL comme un « âge biologique » individuel : l'association avec la mortalité est faible (HR 1,23 entre extrêmes) et la mesure est bruitée.\n- Chercher à **allonger** les télomères : le MR suggère plus de cancers à télomères longs ; un gain de 140 pb sous vitamine D3 n'a pas de traduction clinique démontrée.\n- Confondre télomérase (activité enzymatique) et longueur des télomères.\n- Surinterpréter des essais d'exercice très hétérogènes (I² = 92 %) et mêler volumes modérés et extrêmes.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Kit de mesure des télomères = âge biologique »** : la mesure varie selon la méthode et le laboratoire (PMID 28593741, 34083495) ; prédiction individuelle de santé non validée [?]. Prix et marques de kits non relevés pour cette fiche.\n- **« TA-65 rajeunit »** : l'essai pivot sur les télomères (n = 117) trouve un allongement avec la faible dose mais pas avec la forte, ce qui ne ressemble pas à un effet pharmacologique robuste (PMID 26950204) ; l'essai post-infarctus manque son critère principal (PMID 37086366) ; la méta-analyse de 2025 ne trouve aucun bénéfice fonctionnel (PMID 41286474) [B].\n- **« Télomères longs = longévité »** : le MR associe télomères longs à plus de cancers (PMID 28241208, 41668119).\n- **« Le vin rouge protège les télomères »** : c'est l'inverse dans une étude de randomisation mendélienne (PMID 41305752) [B].\n- **« Exercice intense = télomères plus longs »** : l'exercice épuisant est associé à un raccourcissement (PMID 41739222).\n- **Épitalon « active la télomérase »** : voir la fiche dédiée ; preuve humaine non retrouvée [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Le MR montre un compromis : télomères longs protégeraient du coronaire (OR 0,78) mais augmenteraient plusieurs cancers (PMID 28241208) [B].\n- L'âge parental au moment de la conception est associé positivement à la LTL de l'enfant dans les études humaines (biais de publication suspecté) (PMID 41556533) [B].",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Anémie inexpliquée, fibrose pulmonaire, cirrhose précoce ou antécédents familiaux : des télomèropathies existent (mutations de TERT, etc.) et se diagnostiquent par flow-FISH en centre spécialisé (PMID 28593741, usage hématologique) ; pas via un kit grand public.\n- Avant toute prise de TA-65 ou de produit « activateur de télomérase » avec antécédent de cancer.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 40642293, Sun L et al., exercice, télomères et télomérase, méta-analyse d'ECR, Front Physiol 2025, doi:10.3389/fphys.2025.1627292 (résumé relu).\n- PMID 38194261, Sánchez-González JL et al., JMIR Public Health Surveill 2024, doi:10.2196/46019 (résumé relu).\n- PMID 39846264, Sánchez-González JL et al., revue parapluie, JMIR Aging 2025, doi:10.2196/64539 (résumé relu).\n- PMID 41739222, Bao Z et al., exercice épuisant et biomarqueurs du vieillissement, Biogerontology 2026, doi:10.1007/s10522-026-10411-6 (résumé relu).\n- PMID 41286474, Su X et al., TA-65, Cell Biol Toxicol 2025, doi:10.1007/s10565-025-10115-6 (résumé relu ; effectif total incohérent avec les ECR indexés, voir tableau).\n- PMID 26950204, Salvador L et al., TA-65 et télomères, Rejuvenation Res 2016, doi:10.1089/rej.2015.1793 (résumé relu).\n- PMID 29546832, Fernandez ML et al., TA-65 et syndrome métabolique, Curr Pharm Des 2018, doi:10.2174/1381612824666180316114832 (résumé relu).\n- PMID 37086366, Bawamia B et al., TA-65 après infarctus, Geroscience 2023, doi:10.1007/s11357-023-00794-6 (résumé relu).\n- PMID 26869760, Dow CT, Harley CB, TA-65 et DMLA, Clin Ophthalmol 2016, doi:10.2147/OPTH.S100042 (résumé relu).\n- PMID 40409468, Zhu H et al., VITAL Telomere, Am J Clin Nutr 2025, doi:10.1016/j.ajcnut.2025.05.003 (résumé relu).\n- PMID 28459963, Mons U et al., LTL et mortalité, Am J Epidemiol 2017, doi:10.1093/aje/kww210 (résumé relu).\n- PMID 28241208, Haycock PC et al., MR télomères et cancers, JAMA Oncol 2017, doi:10.1001/jamaoncol.2016.5945 (résumé relu).\n- PMID 41668119, Zhou N et al., gliome pédiatrique, Acta Neuropathol Commun 2026, doi:10.1186/s40478-025-02199-2 (résumé relu).\n- PMID 28593741, Behrens YL et al., comparaison de méthodes, Genes Chromosomes Cancer 2017, doi:10.1002/gcc.22475 (résumé relu).\n- PMID 34083495, Pearce EE et al., DNAmTL, Aging 2021, doi:10.18632/aging.203126 (résumé relu).\n- PMID 36210421, Xu L et al., joue vs sang, Bull Exp Biol Med 2022, doi:10.1007/s10517-022-05612-1 (résumé relu).\n- PMID 34020720, Dasanayaka NN et al., méditation, Syst Rev 2021, doi:10.1186/s13643-021-01699-1 (résumé relu).\n- PMID 41305752, Wang B et al., MR alimentation, Medicine 2025, doi:10.1097/MD.0000000000045825 (résumé relu).\n- PMID 40107013, Fostitsch AJ et al., sommeil, Sleep Med Rev 2025, doi:10.1016/j.smrv.2025.102073 (résumé relu).\n- PMID 35011817, Barragán R et al., J Clin Med 2021, doi:10.3390/jcm11010076 (résumé relu).\n- PMID 38487628, Frontiers in Nutrition, avis de rétraction, doi:10.3389/fnut.2024.1390502 (résumé relu).\n- PMID 41556533, Vlasova M et al., âge parental, Mol Ecol 2026, doi:10.1111/mec.70215 (résumé relu).\n- Épitalon : [fiche du repo](fiche:epitalon).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Télomères",
+ "type": "condition",
+ "unite": ""
+}

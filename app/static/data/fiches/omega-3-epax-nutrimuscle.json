@@ -1,0 +1,67 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "omega-3-epax-nutrimuscle",
+ "intro": "",
+ "liens": [
+  "nutri-and-co-omega-3-epax",
+  "omacor-1000-mg",
+  "omega-3"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "36103100",
+  "32114706",
+  "34612056"
+ ],
+ "preuve_globale": "A",
+ "resume": "Bon prix au gramme d'EPA+DHA (≈ 0,45 €/g) et ratio EPA:DHA de 2:1, plus proche des essais cardiovasculaires que l'Epax Nutri&Co (1:5), mais la dose de l'étiquette (2 à 4 capsules = 1,1 à 2,3 g/j) franchit le seuil de 1 g/j où le risque de fibrillation atriale grimpe, sans bénéfice prouvé chez le…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Bon prix au gramme d'EPA+DHA (≈ 0,45 €/g) et ratio EPA:DHA de 2:1, plus proche des essais cardiovasculaires que l'Epax Nutri&Co (1:5), mais la dose de l'étiquette (2 à 4 capsules = 1,1 à 2,3 g/j) franchit le seuil de 1 g/j où le risque de fibrillation atriale grimpe, sans bénéfice prouvé chez le sujet sain.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur déclarée | Preuve |\n|---|---|---|\n| EPA | 380 mg/capsule (1 520 mg/4) | Bénéfice cardiovasculaire des méta-analyses surtout porté par l'EPA éthyl-ester sur prescription [A] (PMID 36103100) ; complément en prévention : effet quasi nul sur les événements cardiovasculaires (RR 0,96) [A] (PMID 32114706) |\n| DHA | 190 mg/capsule (760 mg/4) | Triglycérides −15 % environ, dose-dépendant, avec les oméga-3 à longue chaîne [A] (PMID 32114706) |\n| Huile de poisson sauvage Epax | 1 000 mg/capsule | Forme chimique (triglycéride ou ester) non lue sur les pages consultées [?] |\n\nComposition et TOTOX < 3 : site de la marque (nutrimuscle.com, consulté le 2026-10-06) ; fabrication partagée Pérou, Norvège, Allemagne, Belgique selon la même page. Aucune analyse indépendante trouvée [?].",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Complément alimentaire (déclaration DGCCRF, décret n° 2006-352 ; consulté le 2026-10-06 via recherche web). Allégations UE autorisées (cœur, cerveau, vision) : voir [Nutri&Co Epax](fiche:nutri-and-co-omega-3-epax) pour les seuils (règlement (UE) n° 432/2012). Marque : Friend of the Sea, Sport Protect, conformité AMA (nutrimuscle.com et dravelnutrition.fr, consultés le 2026-10-06) ; oméga-3 non concernés par l'AMA.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque dit | Les études |\n|---|---|\n| « Ratio optimal d'EPA/DHA », cœur, cerveau, articulations | Prévention cardiovasculaire par complément : RR événements 0,96 (IC 0,92-1,01), 86 ECR, n=162 796 [A] (PMID 32114706). Articulations : [?] non recherché |\n| TOTOX < 3, « bien au-delà du marché » | Donnée fabricant [M] ; pas de certificat indépendant consulté |\n| 2 à 4 capsules/j | Au-delà de 1 g/j : HR fibrillation atriale 1,49 (IC 1,04-2,15) vs 1,12 à ≤ 1 g/j [A] (PMID 34612056) |",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Selon la marque : 2 à 4 capsules/j aux repas gras (nutrimuscle.com, consulté le 2026-10-06). À 2 capsules : ≈ 1,14 g EPA+DHA ; à 4 : 2,28 g. Pour rester ≤ 1 g, 1 capsule (570 mg) à 1,5 (855 mg) ; décision à discuter avec un médecin si anticoagulants, avant chirurgie, ou troubles du rythme.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- 120 capsules : 30,95 € (marque) ; 29,95 € (toutelanutrition.com, en rupture au relevé) ; 60 capsules 17,95 € (marque) ; une page de revendeur (dravelnutrition.fr) affiche 19,90 € sans format lisible [?] (consultés le 2026-10-06).\n- 120 × 570 mg = 68,4 g d'EPA+DHA : **0,45 €/g** (30,95 €) ; 0,44 €/g à 29,95 € ; 60 capsules : 0,52 €/g.\n- Par mois : 15,5 € à 2 capsules/j ; 31 € à 4 capsules/j.\n- Comparaison par gramme d'EPA+DHA : [Nutri&Co Epax](fiche:nutri-and-co-omega-3-epax) 0,55-0,64 €/g (EPA:DHA 1:5) ; [Omacor](fiche:omacor-1000-mg) 0,58-1,11 €/g (médicament, ester éthylique). Le Nutrimuscle est le moins cher au gramme des trois, avec le ratio le plus riche en EPA. Alternative sans produit : deux portions de poisson gras par semaine (voir [oméga-3](fiche:omega-3)).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Note de 4,5/5 sur dravelnutrition.fr, avec « pas de goût de poisson » rapporté (consulté le 2026-10-06) ; avis non analysés en détail [?]. Conservation au frais après ouverture conseillée par la marque (toutelanutrition.com).",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 32114706 — Abdelhamid AS et al., *Cochrane Database Syst Rev* 2020. doi:10.1002/14651858.CD003177.pub5\n- PMID 36103100 — Yan J et al., *Cardiovasc Drugs Ther* 2022. doi:10.1007/s10557-022-07379-z\n- PMID 34612056 — Gencer B et al., *Circulation* 2021. doi:10.1161/CIRCULATIONAHA.121.055654\n- Nutrimuscle, page « Oméga 3 Epax » ; Toutelanutrition ; Dravel Nutrition ; consultées le 2026-10-06.\n- Règlement (UE) n° 432/2012 (voir fiche Nutri&Co Epax), consulté le 2026-10-03.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Oméga 3 Epax — Nutrimuscle",
+ "type": "produit",
+ "unite": ""
+}

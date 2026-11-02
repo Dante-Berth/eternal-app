@@ -1,0 +1,86 @@
+{
+ "cibles": [
+  "muscle-os",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-22",
+ "famille": "complement",
+ "id": "vitamine-d",
+ "intro": "",
+ "liens": [
+  "auto-experimentation",
+  "biomarqueur-vitamine-d-25-oh",
+  "dents-et-parodontite",
+  "depression",
+  "osteoporose-et-densite-osseuse",
+  "telomeres",
+  "uvedose-100000-ui",
+  "vitamine-d3-nutri-and-co-lanoline",
+  "zymad-vitamine-d3"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 12,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "30293909",
+  "30415629",
+  "33798465",
+  "30675873",
+  "24768505",
+  "32749491",
+  "35082139",
+  "38272846",
+  "39385006",
+  "42712362",
+  "39861407",
+  "34969941"
+ ],
+ "preuve_globale": "A",
+ "resume": "Chez l'adulte de la population générale, la supplémentation n'évite ni fractures, ni chutes, ni perte de densité osseuse cliniquement utile : 81 ECR, 53 537 participants, RR fractures 1,00, chutes 0,97 [A] (PMID 30293909). Pas de différence entre fortes et faibles doses.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Chez l'adulte de la population générale, la supplémentation n'évite ni fractures, ni chutes, ni perte de densité osseuse cliniquement utile : 81 ECR, 53 537 participants, RR fractures 1,00, chutes 0,97 [A] (PMID 30293909). Pas de différence entre fortes et faibles doses.\n- Pas de réduction du cancer ni des événements cardiovasculaires à 2000 UI/j pendant 5,3 ans (VITAL, n=25 871) [B, ECR unique n=25871] (PMID 30415629). Pas d'excès d'hypercalcémie dans cet essai.\n- **Infections respiratoires aiguës** : léger effet protecteur dans les méta-analyses (OR 0,92 ; 37 essais) ; le bénéfice est surtout net chez les très carencés (25-OH-D < 25 nmol/L) et en prise quotidienne, pas en dose bolus [A, effet faible] (PMID 33798465, PMID 30675873).\n- Ces essais portent surtout sur des sujets non carencés. Ils ne disent rien sur la correction d'une carence documentée (dosage sanguin et avis médical) [?].\n- Les effets « extra-osseux » vantés viennent surtout de cohortes observationnelles : causalité non démontrée [?].\n\nDosage sanguin, méthodes et indications : [biomarqueur vitamine D (25-OH-D)](fiche:biomarqueur-vitamine-d-25-oh).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Hormone stéroïde dérivée du cholestérol ; son rôle dans l'absorption du calcium est établi, mais les résultats des ECR ci-dessous montrent que la supplémentation systématique ne se traduit pas par un bénéfice clinique chez le sujet non carencé. Détail du mécanisme non revérifié dans cette fiche [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Preuve |\n|---|---|\n| Fractures, chutes, densité osseuse (adultes) | [A] aucun effet : fracture totale RR 1,00 (IC 0,93-1,07), hanche RR 1,11 (0,97-1,26), chutes RR 0,97 (0,93-1,02) (PMID 30293909) |\n| Chutes (analyse antérieure) | [A] 20 ECR, n=29 535 : pas de réduction ≥ 15 % (PMID 24768505) |\n| Cancer invasif | [B, ECR unique n=25871] HR 0,96 (IC 0,88-1,06) ; mortalité par cancer HR 0,83 (0,67-1,02), non significatif (PMID 30415629) |\n| Événements cardiovasculaires majeurs | [B, ECR unique n=25871] HR 0,97 (0,85-1,12) ; mortalité toutes causes HR 0,99 (0,87-1,12) (PMID 30415629) |\n| Dépression (ancillaire VITAL-DEP, 2000 UI/j, 18 353 sujets ≥ 50 ans, 5,3 ans) | dépression ou symptômes cliniquement pertinents HR 0,97 (0,87-1,09) ; score PHQ-8 inchangé ; ne soutient pas la prévention de la dépression [B, ECR unique n=18353] (PMID 32749491) |\n| Infections respiratoires aiguës | 25 ECR, 11 321 sujets (données individuelles) : aOR 0,88 (0,81-0,96) ; en prise quotidienne ou hebdomadaire aOR 0,81, absent avec bolus ; baseline 25-OH-D < 25 nmol/L aOR 0,30 (0,17-0,53) contre 0,75 (0,60-0,95) au-dessus ; effets indésirables graves inchangés [A] (PMID 30675873). Mise à jour en données agrégées : 37 essais, OR 0,92 (0,86-0,99), hétérogénéité notable ; effet protecteur surtout à 400-1000 UI/j (OR 0,70) et chez 1-15 ans (OR 0,71), pas de sous-groupe par taux de base significatif [A, effet faible] (PMID 33798465) |\n| Maladies auto-immunes (VITAL, critère secondaire) | HR 0,78 (0,61-0,99 ; P=0,05) à 5,3 ans [B, ECR unique n=25871] (PMID 35082139) ; après 2 ans sans traitement (7 ans), HR 0,98 (0,83-1,17) : l'effet n'a pas persisté (PMID 38272846) [B] |\n| Forme de la vitamine : cholécalciférol vs calcifédiol | méta-analyse de 17 études (1 575 sujets, essais randomisés et non randomisés mélangés) : calcifédiol élève plus le 25-OH-D que le cholécalciférol ; mesure du taux sanguin, pas un critère clinique [B] (PMID 39385006) |\n| Force musculaire, sarcopénie | La méta-analyse en réseau 2026 mentionne des combinaisons whey/acides aminés + vitamine D, mais ne permet pas d'isoler la vitamine D (très faible certitude) (PMID 42712362) [?] |\n| Prévention de maladies via un taux sanguin > 30 ng/mL | [?] revue narrative fondée sur des cohortes, qui reconnaît que les ECR « montrent rarement des bénéfices » (PMID 39861407) ; association, pas preuve causale |\n| Correction d'une carence | non couverte par les sources lues ; avis médical [?] |\n\nLecture : l'effet respiratoire est réel mais petit. L'analyse en données individuelles le concentre chez les très carencés ; la mise à jour en données agrégées ne retrouve pas de différence significative selon le taux de base. Il ne justifie pas à lui seul une supplémentation chez le sujet non carencé.\n\nLimite : VITAL a testé 2000 UI/j sur 5,3 ans chez des sujets ≥ 50 ans (hommes) ou ≥ 55 ans (femmes) ; la méta-analyse de 2018 n'a pas trouvé de bénéfice même au-delà de 800 UI/j. Les auteurs de la revue narrative (PMID 39861407) invoquent des taux de base élevés et des doses modestes pour expliquer l'absence d'effet dans les ECR : argument non testé.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Étudiée : 2000 UI/j (VITAL), soit 50 µg (1 µg = 40 UI, conversion standard).\n- Repères réglementaires : valeur nutritionnelle de référence de l'étiquetage 5 µg (200 UI) (règlement (UE) n° 1169/2011, annexe XIII, relevé via recherche web, texte officiel non rouvert [?]) ; limite supérieure de sécurité 100 µg/j (4000 UI) chez l'adulte ; dose journalière maximale proposée dans les compléments en France : 50 µg/j (adulte), 25 µg/j (≤ 10 ans) (ANSES, avis saisine n° 2023-SA-0165 du 2024-07-31, projet d'arrêté, consulté le 2026-10-06 ; non confirmé que l'arrêté du 9 mai 2006 ait été modifié [?]).\n- Vendues : ampoules et compléments de 1000 à plusieurs milliers d'UI : gamme de marché non relevée dans cette fiche [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Complément alimentaire** (gouttes, capsules, sprays) : cholécalciférol (D3) ou ergocalciférol (D2) ; statut : voir ci-dessus.\n- **Médicament** : des spécialités à base de vitamine D existent (ampoules, flacons), sur prescription ou non selon la présentation ; liste, statut et remboursement non vérifiés sur la BDPM [?].\n- Comparaison D2 vs D3, formes en spray : non étudiée ici [?]. Calcifédiol vs D3 : voir tableau (PMID 39385006) ; statut du calcifédiol en France non vérifié [?].\n- Topique, injectable : sans objet dans cette fiche.\n- Dopage : statut AMA non vérifié (wada-ama.org inaccessible, 2026-10-06) [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Surdosage** : toxicité définie dans des recommandations pédiatriques indiennes par une 25(OH)D > 100 ng/mL avec hypercalcémie et/ou hypercalciurie (PMID 34969941, population pédiatrique, avis de comité) [?]. VITAL (2000 UI/j, 5,3 ans) : aucun excès d'hypercalcémie ni d'autres événements indésirables [B, ECR unique n=25871] (PMID 30415629). Au-dessus de la limite de 100 µg/j : pas de bénéfice démontré, risque non quantifié ici [?].\n- **Interactions médicamenteuses** (diurétiques thiazidiques, digitaliques, corticoïdes, anticonvulsivants, orlistat, etc.) : non retrouvées dans des sources vérifiées pour cette fiche [?] ; à vérifier dans le RCP (BDPM) ou avec un pharmacien.\n- **Populations à risque** : sarcoïdose, hyperparathyroïdie, hypercalcémie, lithiase calcique, insuffisance rénale : non documentées ici [?] ; avis médical avant toute dose supérieure à l'apport usuel.\n- **Association calcium** : les compléments de calcium n'ont pas été étudiés ici [?].\n- Grossesse, enfants, nourrissons : recommandations spécifiques (prescrites) non couvertes ici ; ne pas extrapoler les doses adultes.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Prévient les fractures et les chutes »** : [A] faux chez l'adulte en population générale (PMID 30293909).\n- **« Protège du cancer et du cœur »** : [B, ECR unique n=25871] non démontré (PMID 30415629).\n- **« 4000-6000 UI/j pour un taux 40-70 ng/mL »** : proposition d'une revue narrative d'auteurs plaidant pour des seuils élevés (PMID 39861407) ; aucun ECR de ce travail ne démontre un bénéfice clinique à ces doses [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- [Uvedose 100 000 UI](fiche:uvedose-100000-ui) : médicament sur ordonnance, remboursé à 65 %, ≈ 0,8 €/mois.\n- [Vitamine D3 Nutri&Co (gouttes)](fiche:vitamine-d3-nutri-and-co-lanoline) : complément, 1 000 UI par goutte, ≈ 1 €/mois.\n- [Zymad 10 000 UI/ml (gouttes)](fiche:zymad-vitamine-d3) : médicament remboursé à 65 %, 300 UI par goutte, ≈ 0,8 €/mois.\n\nVoir aussi : [ostéoporose et densité osseuse](fiche:osteoporose-et-densite-osseuse), [télomères](fiche:telomeres) (essai VITAL Telomere), [auto-expérimentation](fiche:auto-experimentation) (variation biologique du dosage de 25-OH vitamine D).\n\nÀ voir aussi : [Dépression](fiche:depression) · [Dents et parodontite](fiche:dents-et-parodontite).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 30293909 — Bolland MJ, Grey A, Avenell A, *Lancet Diabetes Endocrinol* 2018. doi:10.1016/S2213-8587(18)30265-1\n- PMID 24768505 — Bolland MJ et al., *Lancet Diabetes Endocrinol* 2014. doi:10.1016/S2213-8587(14)70068-3\n- PMID 30415629 — Manson JE et al., *N Engl J Med* 2019 (VITAL). doi:10.1056/NEJMoa1809944\n- PMID 39861407 — Grant WB et al., *Nutrients* 2025 (revue narrative). doi:10.3390/nu17020277\n- PMID 34969941 — Gupta P et al., *Indian Pediatr* 2021 (recommandations pédiatriques, seuil de toxicité). Pas de DOI dans PubMed.\n- PMID 32749491 — Okereke OI et al., *JAMA* 2020 (VITAL-DEP). doi:10.1001/jama.2020.10224\n- PMID 30675873 — Martineau et al., *Health Technol Assess* 2019 (données individuelles). doi:10.3310/hta23020\n- PMID 33798465 — Jolliffe et al., *Lancet Diabetes Endocrinol* 2021. doi:10.1016/S2213-8587(21)00051-6\n- PMID 35082139 — Hahn et al., *BMJ* 2022 (VITAL, auto-immunité). doi:10.1136/bmj-2021-066452\n- PMID 38272846 — Costenbader et al., *Arthritis Rheumatol* 2024. doi:10.1002/art.42811\n- PMID 39385006 — Bouden et al., *Eur J Clin Nutr* 2024. doi:10.1038/s41430-024-01520-x\n- PMID 42712362 — Yang B et al., *Front Nutr* 2026. doi:10.3389/fnut.2026.1892302\n- ANSES, avis saisine n° 2023-SA-0165, 2024-07-31 (doses journalières maximales proposées, LSS), consulté le 2026-10-06.\n- Règlement (UE) n° 1169/2011, annexe XIII (VNR), relevé indirectement, consulté le 2026-10-06.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Vitamine D",
+ "type": "actif",
+ "unite": ""
+}

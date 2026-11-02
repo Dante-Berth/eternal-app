@@ -1,0 +1,84 @@
+{
+ "cibles": [
+  "hormones-sexualite",
+  "coeur-metabolisme",
+  "sante-mentale"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "inositol",
+ "intro": "",
+ "liens": [
+  "anxiete",
+  "berberine",
+  "depression",
+  "glycemie-et-prediabete",
+  "magnesium",
+  "metformine",
+  "spironolactone"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "38163998",
+  "35477841",
+  "37148410",
+  "36790138",
+  "24424706",
+  "36703143",
+  "38147023",
+  "39698034",
+  "40190407",
+  "30570133",
+  "39702393"
+ ],
+ "preuve_globale": "A",
+ "resume": "Sucre-alcool vendu pour le syndrome des ovaires polykystiques (SOPK), la prévention du diabète gestationnel, et plus rarement l'anxiété et la dépression. Preuve : faible partout.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Sucre-alcool vendu pour le **syndrome des ovaires polykystiques (SOPK)**, la prévention du **diabète gestationnel**, et plus rarement l'anxiété et la dépression. Preuve : faible partout.\n- **SOPK** : méta-analyse pour la mise à jour 2023 des recommandations internationales (30 essais, n=2 230) : bénéfices possibles sur certaines mesures métaboliques, bénéfice potentiel du D-chiro-inositol sur l'ovulation, « aucun effet » sur le reste ; les auteurs concluent que la preuve est « limitée et non concluante » [A, faible certitude] (PMID 38163998). Autre méta-analyse (17 ECR, n=1 083) : pas d'amélioration cliniquement significative de l'IMC, de l'insuline à jeun, de l'HOMA, de la testostérone totale [A, forte hétérogénéité] (PMID 35477841).\n- **Face à la metformine** (8 ECR, n=1 088) : pas de différence significative sur IMC, insuline, glycémie, HOMA, LH/FSH [A] (PMID 37148410). L'absence de différence n'est pas une preuve d'équivalence ; la metformine pourrait mieux améliorer l'hirsutisme et le rapport taille/hanches selon la méta-analyse de 2023 (PMID 38163998). Moins de troubles digestifs sous myo-inositol (PMID 38163998).\n- **Diabète gestationnel** : Cochrane 2023 (7 ECR, n=1 319, 6 en Italie) : risque de diabète gestationnel RR 0,53 (0,31–0,90), hypertension gravidique RR 0,34 (0,19–0,61) ; certitude « faible à très faible » [A, faible certitude] (PMID 36790138).\n- **Dépression, anxiété** : méta-analyse de 11 ECR (n=312) : aucun effet significatif sur les symptômes [A, petits essais] (PMID 24424706).\n- **Allégations UE** : « contribue à la fonction cognitive » non autorisée (registre, édition ancienne).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Messager intracellulaire du signal de l'insuline : l'hypothèse est une amélioration de la sensibilité à l'insuline (PMID 36790138, justification de la Cochrane). Les essais de SOPK trouvent surtout des variations métaboliques modestes, donc l'effet clinique sur l'ovulation ou les hormones androgéniques n'est pas confirmé (PMID 35477841, 38163998).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| SOPK, tous critères | 30 essais (n=2 230), 19 regroupés : bénéfice possible sur des mesures métaboliques, D-chiro-inositol potentiellement utile pour l'ovulation, pas d'effet sur d'autres critères ; metformine pouvant mieux améliorer hirsutisme et rapport taille/hanches, sans différence probable sur la reproduction (PMID 38163998) | [A, faible certitude] |\n| SOPK, critères métaboliques et hormonaux | 17 ECR (n=1 083) : pas d'amélioration significative de IMC, rapport taille-hanches, insuline, glycémie, HOMA, LH, FSH, œstradiol, SHBG, DHEA, testostérone totale ; seuls androstènedione et prolactine bougent ; hétérogénéité élevée (PMID 35477841) | [A, forte hétérogénéité] |\n| SOPK, vs metformine | 8 ECR (n=1 088) : IMC SMD 0,16 (−0,11 à 0,43), insuline 0,00 (−0,26 à 0,27), glycémie 0,11 (−0,31 à 0,53), HOMA 0,09 (−0,20 à 0,39), LH/FSH 0,20 (−0,24 à 0,64) ; différences non significatives (PMID 37148410) | [A] |\n| Prévention du diabète gestationnel | 7 ECR (n=1 319 ; 10 à 24 semaines de grossesse) : GDM RR 0,53 (0,31–0,90, 6 études, 1 140 femmes), hypertension gravidique RR 0,34 (0,19–0,61), accouchement avant terme RR 0,35 (0,17–0,70) ; « bénéfice et nocivité » possibles pour le risque de nouveau-né grand pour l'âge gestationnel (RR 1,40 ; 0,65–3,02) ; hypoglycémie néonatale RR 3,07 (0,90–10,52), très faible certitude (PMID 36790138) | [A, faible à très faible certitude] |\n| Dépression et anxiété | 7 ECR de dépression (n=242), 4 d'anxiété (n=70) : pas d'effet significatif ; marginalement plus de répondeurs dans la dépression (p=0,06), tendance dans le trouble dysphorique prémenstruel (p=0,07) (PMID 24424706) | [A, petits essais] |\n| SOPK, régularité du cycle | 26 ECR (n=1 691) : cycle régulier RR 1,79 (1,13–2,85) contre placebo ; non-infériorité face à la metformine sur ce critère ; IMC −0,45, testostérone libre −0,41, testostérone totale −20,39, androstènedione −0,69 contre placebo ; les auteurs concluent « efficace et sûr », sans évaluer la certitude (PMID 36703143) | [A, certitude non évaluée] |\n| Thyroïdite auto-immune (sélénium + myo-inositol) | Méta-analyse (nombre limité d'études) : TSH diminue (p=0,001), T4 augmente (p=0,04), T3 et anticorps anti-TPO inchangés (p=0,070), « études limitées » (PMID 38147023). Réseau sur la thyroïdite de Hashimoto : myo-inositol seul, ou avec sélénium, **ne réduit pas** significativement les anticorps anti-TPO (SMD −1,94 ; −6,75 à 2,87) ni anti-TG ; seul le sélénium seul les réduit (PMID 39698034) | [A, faible certitude] |\n| FIV : ovocytes et fécondation | 11 études (n=981) : ovocytes en métaphase II OR 1,55 (1,04–2,31), fécondation OR 1,62 (1,21–2,16) ; effet surtout chez les femmes avec SOPK, pas chez les mauvaises répondeuses ; grossesse clinique non rapportée dans le résumé (PMID 40190407) | [A, faible certitude] |\n| FIV / SOPK : naissances vivantes, grossesses | Cochrane 2018 : 13 ECR (n=1 472), preuve de qualité « faible à très faible » ; naissance vivante incertaine (OR 2,42 ; 0,75–7,83 ; 2 ECR, 84 femmes), fausse couche OR 0,40 (0,19–0,86) due à un seul essai (disparaît sans lui) (PMID 30570133). Réseau 2024 (20 ECR, n=1 827) : aucune différence significative sur la grossesse ; myo-inositol associé à moins de syndrome d'hyperstimulation ovarienne et à des durées de gonadotrophines plus courtes (PMID 39702393) | [A, très faible certitude] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Étudié** : dans les essais de SOPK (textes intégraux PMC11099481, PMC9878965) : myo-inositol 1 à 4 g/j, le plus souvent 2 g 2 fois par jour ou 4 g/j avec 200 à 400 µg d'acide folique, 12 à 24 semaines ; associations myo-inositol 1 100 mg + D-chiro-inositol 27,6 à 300 mg ; avant FIV : 4 g/j (PMID 38163998, 36703143, 40190407). Cochrane gestationnel : « toute dose » (PMID 36790138) ; doses des essais gestationnels et psychiatriques : [?] absentes des résumés, textes non libres. Le D-chiro-inositol et le myo-inositol sont des molécules différentes ; certaines synthèses les regroupent (PMID 38163998).\n- **Vendu** : poudres et gélules, parfois mélangées avec acide folique, mélatonine ou D-chiro-inositol à des rapports variables ; teneurs et rapports du marché français : [?] non relevés (aucun produit dans le dépôt). Les essais utilisent des grammes par jour, bien au-delà de ce qu'une gélule de quelques centaines de mg apporte.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Poudre, gélules, sachets.\n- **Allégations de santé UE** : dans l'édition du registre générée le 14/02/2013 (fichier relu le 2026-10-14), deux allégations Art. 13(1) sur l'inositol (« contribue à la fonction cognitive, à la performance et à la concentration mentales » ; « important pour la fonction du système nerveux ») sont **non autorisées** (avis EFSA 2009;7(9):1304 et 2011;9(6):2228). État actuel du registre en ligne : [?] inaccessible depuis cet environnement.\n- **France** : aucune spécialité contenant de l'inositol ou du myo-inositol dans la base de composition de la BDPM, donc pas d'AMM (BDPM, consulté le 2026-10-14). Statut comme complément (catalogue Novel Food, DGCCRF) : [?] catalogue Novel Food inaccessible depuis cet environnement ; aucune alerte retrouvée. L'inositol est un nutriment naturellement présent dans l'alimentation ; l'absence de classement Novel Food n'est pas vérifiée.\n- **AMA** : non nommé dans la Liste des interdictions 2026 (recherche par nom, fichier du 2026-10-13).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Digestif** : tendance à plus de troubles digestifs que le placebo en psychiatrie (p=0,06) (PMID 24424706) ; moins de troubles digestifs que sous metformine dans le SOPK, en général légers et transitoires (PMID 38163998).\n- **Grossesse** : la Cochrane note que l'effet sur le nouveau-né grand pour l'âge gestationnel est incertain (bénéfice et nocivité possibles) et que les événements néonatals sont très mal documentés ; à discuter avec l'équipe obstétricale avant toute prise (PMID 36790138).\n- Interactions médicamenteuses, insuffisance rénale, trouble bipolaire : [?] recherchés dans PubMed (« inositol adverse / safety », « inositol + lithium + bipolar ») ; seules des revues mécanistes sur la « déplétion en inositol » par le lithium, aucune étude clinique d'interaction ni RCP. Dans le SOPK, les auteurs concluent à une bonne tolérance et à moins de troubles digestifs que la metformine (PMID 36703143, 38163998).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Aucune fiche produit.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Aussi efficace que la metformine pour le SOPK »** : pas de différence significative sur 8 ECR, mais l'absence de différence n'est pas une preuve d'équivalence, et la metformine pourrait mieux traiter l'hirsutisme (PMID 37148410, 38163998) [A, faible certitude]. Voir [metformine](fiche:metformine).\n- **« Régule les hormones et les cycles »** : pas d'amélioration significative de LH, FSH, SHBG, testostérone totale sur 17 ECR (PMID 35477841) [A, forte hétérogénéité].\n- **« Prévient le diabète de grossesse »** : RR 0,53 mais certitude faible à très faible, essais surtout italiens (PMID 36790138) [A, faible certitude].\n- **« Anxiolytique naturel »** : aucun effet significatif (PMID 24424706) [A, petits essais].\n\nÀ voir aussi : [Glycémie et prédiabète](fiche:glycemie-et-prediabete) · [Anxiété](fiche:anxiete) · [Dépression](fiche:depression) · [berbérine](fiche:berberine) · [magnésium](fiche:magnesium) · [spironolactone](fiche:spironolactone).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 38163998 — Fitz V et al., *J Clin Endocrinol Metab* 2024. doi:10.1210/clinem/dgad762 (résumé relu).\n- PMID 35477841 — Jethaliya H et al., *Reprod Sci* 2022. doi:10.1007/s43032-022-00933-y (résumé relu).\n- PMID 37148410 — Fatima K et al., *Ir J Med Sci* 2023. doi:10.1007/s11845-023-03388-5 (résumé relu).\n- PMID 36790138 — Motuhifonua SK et al., *Cochrane Database Syst Rev* 2023. doi:10.1002/14651858.CD011507.pub3 (résumé relu).\n- PMID 36703143 — Greff D et al., *Reprod Biol Endocrinol* 2023. doi:10.1186/s12958-023-01055-z (résumé relu).\n- PMID 38147023 — Yavari M et al., *Expert Rev Endocrinol Metab* 2024. doi:10.1080/17446651.2023.2295487 (résumé relu).\n- PMID 39698034 — Peng B et al., *Front Endocrinol* 2024. doi:10.3389/fendo.2024.1445878 (résumé relu).\n- PMID 40190407 — Zhang J et al., *Front Endocrinol* 2025. doi:10.3389/fendo.2025.1520362 (résumé relu).\n- PMID 30570133 — Showell MG et al., *Cochrane Database Syst Rev* 2018. doi:10.1002/14651858.CD012378.pub2 (résumé relu).\n- PMID 39702393 — Lin L et al., *J Ovarian Res* 2024. doi:10.1186/s13048-024-01576-0 (résumé relu).\n- PMID 24424706 — Mukai T et al., *Hum Psychopharmacol* 2014. doi:10.1002/hup.2369 (résumé relu).\n- Registre de l'UE des allégations nutritionnelles et de santé, édition générée le 14/02/2013 (fichier du 2026-10-13, relu le 2026-10-14) : entrées Art. 13(1) inositol (EFSA 2009;7(9):1304 et 2011;9(6):2228), statut « Non-authorised ».\n- Liste des interdictions AMA 2026, recherche par nom, fichier du 2026-10-13.\n- BDPM, fichier de composition des spécialités (CIS_COMPO_bdpm.txt, base-donnees-publique.medicaments.gouv.fr/download/file/CIS_COMPO_bdpm.txt), recherche par nom de substance (inositol), consulté le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Inositol (myo-inositol, D-chiro-inositol)",
+ "type": "actif",
+ "unite": ""
+}

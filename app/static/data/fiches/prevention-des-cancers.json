@@ -1,0 +1,78 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "prevention-des-cancers",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "depistage-cancer-colorectal",
+  "depistage-cancer-prostate-psa",
+  "exercice-physique",
+  "prevention-demence-alzheimer",
+  "protection-solaire",
+  "tabac-et-alcool",
+  "tumeurs-cerebrales"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "38990124",
+  "29567982",
+  "8602180",
+  "29160902",
+  "8127329",
+  "22419320"
+ ],
+ "preuve_globale": "B",
+ "resume": "Aux États-Unis en 2019, 40,0 % des cancers incidents et 44,0 % des décès par cancer (adultes ≥ 30 ans) étaient attribuables à des facteurs modifiables [B] (PMID 38990124) ; 37,7 % au Royaume-Uni en 2015 [B] (PMID 29567982). Ce sont des fractions modélisées, pas des essais.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Aux États-Unis en 2019, 40,0 % des cancers incidents et 44,0 % des décès par cancer (adultes ≥ 30 ans) étaient attribuables à des facteurs modifiables [B] (PMID 38990124) ; 37,7 % au Royaume-Uni en 2015 [B] (PMID 29567982). Ce sont des fractions modélisées, pas des essais.\n- Le tabac pèse le plus (19,3 % des cas, 28,5 % des décès aux États-Unis), puis l'excès de poids (7,6 %) et l'alcool (5,4 %) [B] (PMID 38990124).\n- Les antioxydants à haute dose ne préviennent pas le cancer : bêta-carotène + rétinol chez fumeurs et travailleurs de l'amiante, RR de cancer du poumon 1,28 [A, ECR unique n=18 314] (PMID 8602180).\n- Dépister n'est pas prévenir : voir [colorectal](fiche:depistage-cancer-colorectal) et [prostate](fiche:depistage-cancer-prostate-psa).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Non développés ici : la fiche porte sur les fractions attribuables et les essais d'intervention, pas sur la biologie de chaque facteur [?].",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "Facteurs modifiables, part des cancers attribuable (États-Unis 2019, adultes ≥ 30 ans) :\n\n| Facteur | Part des cas / des décès | Preuve | Levier |\n|---|---|---|---|\n| Tabac | 19,3 % / 28,5 % | [B] (PMID 38990124) | [arrêt](fiche:tabac-et-alcool) |\n| Excès de poids | 7,6 % / 7,3 % | [B] (PMID 38990124) | [alimentation](fiche:alimentation) (lien ci-dessous) |\n| Alcool | 5,4 % / 4,1 % | [B] (PMID 38990124) | [réduire](fiche:tabac-et-alcool) |\n| Autres évalués | viande rouge/transformée, peu de fruits, légumes, fibres, calcium, inactivité, UV, 7 infections cancérogènes | [B] (PMID 38990124) | détail par facteur : [?] non extrait ici |\n\n- Le total (40,0 %) est une **estimation de fractions attribuables** : elle suppose causalité, et les auteurs notent que l'impact des facteurs non établis n'est pas quantifié (PMID 29160902, version 2014 : 42,0 % des cas). Les chiffres changent d'un pays à l'autre : 37,7 % au Royaume-Uni en 2015, 41,5 % en Écosse [B] (PMID 29567982). Fraction pour la France : non recherchée [?].\n- Le reste (environ 60 % des cas) n'est pas « inévitable » ni « génétique » : c'est la part non expliquée par les facteurs évalués, dont âge, hasard biologique, génétique et facteurs non quantifiés.\n- Activité physique, UV et infections (HPV, hépatites) : inclus dans le modèle ci-dessus mais détail non extrait [?]. Voir [protection solaire](fiche:protection-solaire) pour les UV.",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Débutant : ne pas fumer (ou arrêter, avec aides validées : voir [tabac et alcool](fiche:tabac-et-alcool)) ; réduire l'alcool.\n- Intermédiaire : poids stable, activité physique régulière ([exercice](fiche:exercice-physique)), protection solaire.\n- Avancé : dépistages organisés selon l'âge ([colorectal](fiche:depistage-cancer-colorectal)) ; sein, col, poumon : fiches non écrites.\n- Les recommandations officielles (INCa, HAS) ne sont pas citées ici : non consultées [?].",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Remplacer l'arrêt du tabac par des compléments.\n- Croire qu'un dépistage « prévient » : il détecte plus tôt, avec surdiagnostic possible (voir [PSA](fiche:depistage-cancer-prostate-psa)).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Les antioxydants protègent du cancer »** : à haute dose chez les fumeurs, l'inverse.\n  - ATBC : 29 133 fumeurs finlandais, bêta-carotène 20 mg/j : incidence du cancer du poumon +18 % (IC 95 % 3 à 36 %) ; alpha-tocophérol 50 mg/j : -2 % (IC -14 à 12 %), sans effet [A, ECR unique n=29 133] (PMID 8127329).\n  - CARET : bêta-carotène 30 mg + rétinol 25 000 UI, RR cancer du poumon 1,28 (1,04 à 1,57), mortalité toutes causes RR 1,17 ; essai arrêté 21 mois avant terme [A, ECR unique n=18 314] (PMID 8602180).\n  - Cochrane 2012 (78 essais, 296 707 participants) : mortalité RR 1,02 (0,98 à 1,05) en modèle aléatoire ; sur les essais à faible risque de biais, RR 1,04 (1,01 à 1,07), et bêta-carotène RR 1,05 (1,01 à 1,09) [A] (PMID 22419320).\n- Les compléments « anti-cancer » vendus sur ces ingrédients : allégation [M], contredite par ces essais.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Dans ATBC et CARET, la population était à très haut risque (fumeurs, amiante) : on ne peut pas extrapoler à des non-fumeurs sans données, dans un sens ou l'autre [?].\n- ATBC rapporte moins de cas de cancer de la prostate sous alpha-tocophérol (effet non chiffré dans le résumé lu, résultat secondaire) [B] (PMID 8127329).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Dépistage selon l'âge et les antécédents familiaux ; saignement anormal, grosseur, toux persistante chez un fumeur, grain de beauté qui change. Voir les fiches de dépistage.\n\nÀ voir aussi : [Tumeurs cérébrales](fiche:tumeurs-cerebrales) · [Prévention de la démence](fiche:prevention-demence-alzheimer) · [Tabac et alcool](fiche:tabac-et-alcool)",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 38990124 — Islami F et al., *CA Cancer J Clin* 2024 (États-Unis 2019).\n- PMID 29160902 — Islami F et al., *CA Cancer J Clin* 2018 (États-Unis 2014).\n- PMID 29567982 — Brown KF et al., *Br J Cancer* 2018 (Royaume-Uni 2015).\n- PMID 8127329 — ATBC Study Group, *N Engl J Med* 1994.\n- PMID 8602180 — Omenn GS et al., *N Engl J Med* 1996 (CARET).\n- PMID 22419320 — Bjelakovic G et al., *Cochrane Database Syst Rev* 2012.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Prévention des cancers : facteurs modifiables",
+ "type": "condition",
+ "unite": ""
+}

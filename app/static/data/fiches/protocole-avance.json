@@ -1,0 +1,37 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "",
+ "id": "protocole-avance",
+ "intro": "Pour échec ou intolérance du [protocole intermédiaire](fiche:protocole-intermediaire), ou perte avancée. Tout ce qui suit est **à évaluer par un médecin** ; aucune posologie hors RCP n'est donnée ici.\n\n1. Réévaluation spécialisée (dermatologue) : stade, zone donneuse, attentes, risques psychiatriques et sexuels déjà observés.\n2. Minoxidil oral à faible dose : hors AMM, à évaluer par un médecin (contre-indications cardiovasculaires, hypertrichose) [B] ([minoxidil oral](fiche:minoxidil-oral)).\n3. Dutastéride : hors AMM pour les cheveux en France ; probablement un peu plus efficace que le finastéride mais mêmes risques et élimination lente, à évaluer par un médecin [A] ([dutastéride](fiche:dutasteride)).\n4. Actes : [PRP](fiche:prp) (preuves hétérogènes, coût par séance) ; [greffe capillaire](fiche:greffe-capillaire) pour redensifier une zone stable, idéalement après stabilisation médicale ; [exosomes et mésothérapie](fiche:exosomes-et-mesotherapie) : à ne pas payer sans preuve solide.\n5. Un traitement médical d'entretien reste nécessaire après une greffe : les cheveux non greffés continuent de s'éclaircir [B] (voir la fiche greffe).\n6. Signaux d'alerte : tourisme médical, praticien non médecin, injections de produits non autorisés.",
+ "liens": [
+  "dutasteride",
+  "exosomes-et-mesotherapie",
+  "greffe-capillaire",
+  "minoxidil-oral",
+  "protocole-intermediaire",
+  "prp"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 0,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [],
+ "preuve_globale": "B",
+ "resume": "Pour échec ou intolérance du protocole intermédiaire, ou perte avancée. Tout ce qui suit est à évaluer par un médecin ; aucune posologie hors RCP n'est donnée ici.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Chaque étape renvoie à sa fiche sourcée.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Protocole avancé — alopécie androgénétique",
+ "type": "protocole",
+ "unite": ""
+}

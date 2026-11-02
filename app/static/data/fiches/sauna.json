@@ -1,0 +1,70 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-16",
+ "famille": "comportement",
+ "id": "sauna",
+ "intro": "",
+ "liens": [
+  "surentrainement-et-inflammation-de-bas-grade"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "30486813",
+  "32814462",
+  "30239008",
+  "38577299",
+  "30077204",
+  "37270272",
+  "36255556"
+ ],
+ "preuve_globale": "B",
+ "resume": "Cohorte finlandaise (1 688 personnes, 15 ans) : 4–7 séances/semaine vs 1 → HR mortalité cardiovasculaire 0,23 (0,08–0,65) après ajustement ; 2–3 séances : 0,75 (0,52–1,08), non significatif [B, cohorte observationnelle] (PMID 30486813). Association, pas causalité : biais de mode de vie et de sant…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Cohorte finlandaise (1 688 personnes, 15 ans) : 4–7 séances/semaine vs 1 → HR mortalité cardiovasculaire 0,23 (0,08–0,65) après ajustement ; 2–3 séances : 0,75 (0,52–1,08), non significatif [B, cohorte observationnelle] (PMID 30486813). Association, pas causalité : biais de mode de vie et de santé possibles.\n- Méta-analyse d'essais courts : tension artérielle ↓ (≈ −5 mmHg systolique), dilatation flux-dépendante (+1,71 %) et fraction d'éjection ↑ à 2–4 semaines ; échantillons petits, souvent patients cardiaques [A, hétérogène] (PMID 32814462).\n- Insuffisance cardiaque : bénéfice à court terme **avec sauna infrarouge uniquement** (aucune étude finlandaise éligible) ; BNP et fraction d'éjection améliorés, tension non significative ; preuve « modérée à insuffisante » [A, faible qualité] (PMID 30239008).\n- Auteurs principaux des revues (Laukkanen, Kunutsor) également auteurs des cohortes : les revues à effet large sont écrites par la même équipe [lecture critique] (PMID 38577299, 30077204).\n- Aucun ECR de long terme sur mortalité ou démence trouvé ici [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Stress thermique → vasodilatation, ↑ fréquence cardiaque (+18 bpm en moyenne en aigu) et ↓ pression artérielle après la séance (PMID 32814462). Anti-inflammatoire, antioxydant et cytoprotecteur : mécanismes postulés par les revues [C, hypothèse de revue] (PMID 37270272) ; non démontré comme médiateur chez l'humain.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Mortalité cardiovasculaire (cohorte) | HR 0,23 pour 4–7×/sem vs 1× | [B] (PMID 30486813) |\n| Mortalité toutes causes avec CRP haute | Sauna fréquent : HR 1,06 (0,81–1,40) vs 1,28 chez sauna rare | [B] (PMID 36255556) |\n| Tension et fonction vasculaire | Systolique ≈ −5 mmHg à 2–4 sem | [A, hétérogène] (PMID 32814462) |\n| Insuffisance cardiaque | BNP ↓, FEVG ↑ (infrarouge 60 °C) | [A, faible qualité] (PMID 30239008) |\n| Démence, dépression, sommeil | Cités par les revues ; non relus en détail | [?] |\n| Gain musculaire ou récupération après musculation | Non recherché | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Étudié en cardiologie : infrarouge 60 °C, 15 min, suivi de 30 min de repos au chaud, 5×/semaine, 2–4 semaines (PMID 30239008). Finnish sauna : 80–100 °C, humidité 10–20 % (PMID 38577299).\n- Fréquence « idéale » grand public : non fixée par un essai randomisé [?]. Les allégations d'appareils domestiques (« détox », « brûle les graisses ») : [M] sans preuve sourcée ici.",
+   "titre": "Concentrations/protocoles étudiés vs vendus"
+  },
+  {
+   "markdown": "Pratique libre en France ; réglementation des équipements non recherchée [?].",
+   "titre": "Statut"
+  },
+  {
+   "markdown": "Non revérifiée par source officielle [?]. Prudence médicale élémentaire : hypotension, cardiopathie instable, grossesse, alcool, déshydratation : avis médical ; ne pas ajouter à une période de surcharge d'entraînement sans marge de récupération (voir [surentraînement](fiche:surentrainement-et-inflammation-de-bas-grade)).",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "Aucun traité.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 30486813 — Laukkanen T et al., sauna et mortalité CV hommes/femmes. *BMC Med* 2018. doi:10.1186/s12916-018-1198-0\n- PMID 36255556 — Kunutsor SK et al., inflammation, sauna et mortalité. *Eur J Epidemiol* 2022. doi:10.1007/s10654-022-00926-w\n- PMID 32814462 — Li Z et al., sauna et fonction cardiovasculaire, méta-analyse. *Eur J Cardiovasc Nurs* 2020. doi:10.1177/1474515120944584\n- PMID 30239008 — Källström M et al., sauna et insuffisance cardiaque. *Clin Cardiol* 2018. doi:10.1002/clc.23077\n- PMID 38577299 — Laukkanen JA, Kunutsor SK, revue sur la chaleur passive. *Temperature* 2024. doi:10.1080/23328940.2023.2300623\n- PMID 30077204 — Laukkanen JA et al., revue des bénéfices du sauna. *Mayo Clin Proc* 2018. doi:10.1016/j.mayocp.2018.04.008\n- PMID 37270272 — Kunutsor SK, Laukkanen JA, sauna et autres facteurs de mode de vie. *Mayo Clin Proc* 2023. doi:10.1016/j.mayocp.2023.01.008",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Sauna (finlandais et infrarouge)",
+ "type": "actif",
+ "unite": ""
+}

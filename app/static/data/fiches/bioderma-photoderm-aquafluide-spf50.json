@@ -1,0 +1,65 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "cosmetique",
+ "id": "bioderma-photoderm-aquafluide-spf50",
+ "intro": "",
+ "liens": [
+  "avene-intense-protect-spf50",
+  "protection-solaire"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "23732711",
+  "20644036",
+  "24628344"
+ ],
+ "preuve_globale": "B",
+ "resume": "Écran SPF 50+ correct mais le plus cher au millilitre des trois comparés, et il contient de l'octocrylène : à éviter en cas d'antécédent de photoallergie au kétoprofène.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Écran SPF 50+ correct mais le plus cher au millilitre des trois comparés, et il contient de l'octocrylène : à éviter en cas d'antécédent de photoallergie au kétoprofène.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- Filtres (INCI, concentrations non déclarées) : octocrylene, methylene bis-benzotriazolyl tetramethylbutylphenol [nano], butyl methoxydibenzoylmethane, bis-ethylhexyloxyphenol methoxyphenyl triazine. Contient aussi de l'ectoïne et des tocophérols ; pas de parfum dans l'INCI relevée (site de pharmacie, consulté le 2026-10-03).\n- Écran large spectre quotidien : vieillissement cutané −24 % sur 4,5 ans [B, ECR unique n=903] ; voir [protection solaire](fiche:protection-solaire).\n- Octocrylène : autorisé jusqu'à 10 % (règlement (UE) 2022/1176) ; photoallergène surtout après photoallergie au kétoprofène [B].",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Cosmétique (règlement (CE) n° 1223/2009) ; filtre nano étiqueté « [nano] » conformément à l'INCI ; SPF 50+ = « très haute protection » (Recommandation 2006/647/CE, EUR-Lex, consulté le 2026-10-03).",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- « Cellular Bioprotection », bénéfices anti-âge : aucun essai clinique propre au produit trouvé [M] ; le bénéfice anti-âge démontré est celui de tout écran large spectre utilisé quotidiennement [B].",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Le matin, visage et cou, en couche généreuse (2 mg/cm² [B]).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix relevés (40 ml) : 10,99 € (Parapromos) à 15,67 € (Pharmazon) ; 12,79 € (IllicoPharma), 15,19 € (Pharmashopi) (relevés du 2026-10-03).\n- À environ 30 ml par mois (estimation personnelle), un tube dure environ 1,3 mois → 8 à 12 €/mois.\n- Alternative moins chère sans octocrylène : [Avène Intense Protect 50+](fiche:avene-intense-protect-spf50) (≈ 3 €/mois).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non recherchés [?]. « Ultra-légère, non collante » selon le revendeur (allégation, pas un avis).",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Composition et prix : [Pharmashopi](https://www.pharmashopi.com/photoderm-aquafluide-spf50-bioderma-tube-de-40-ml-xml-25277_25285_25323-147642.html), [IllicoPharma](https://www.illicopharma.com/protection-solaire/31639-photoderm-aquafluide-spf50-40ml-bioderma-3701129807385.html), [Parapromos](https://www.parapromos.com/bioderma-photoderm-aquafluide-spf50-non-teinte-40-ml.htm), [Pharmazon](https://www.pharmazon.fr/aquafluide-spf50-non-teinte-40ml-photoderm.html) (consultés le 2026-10-03)\n- Preuves et réglementation : voir [protection solaire](fiche:protection-solaire) (PMID 23732711, 20644036, 24628344)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "true",
+ "statut_fr": "cosmetique",
+ "titre": "Bioderma Photoderm Aquafluide SPF50+ (40 ml)",
+ "type": "produit",
+ "unite": ""
+}

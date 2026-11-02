@@ -1,0 +1,72 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-23",
+ "famille": "alimentation",
+ "id": "regime-vegetarien-vegetalien",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "fer-et-ferritine",
+  "legumineuses",
+  "omega-3",
+  "regime-mediterraneen",
+  "vitamine-b12-et-folates",
+  "vitamine-d"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "35672940",
+  "40037300",
+  "36030329",
+  "26853923",
+  "33222682",
+  "39373282",
+  "35010904"
+ ],
+ "preuve_globale": "A",
+ "resume": "Marqueurs cardiométaboliques : en essais, un régime vegan fait perdre ~4 kg, baisse l'HbA1c et le LDL chez des personnes en surpoids ou diabétiques de type 2, en partie parce que l'apport calorique et les macronutriments diffèrent du témoin [A] (PMID 35672940, 40037300).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Marqueurs cardiométaboliques** : en essais, un régime vegan fait perdre ~4 kg, baisse l'HbA1c et le LDL chez des personnes en surpoids ou diabétiques de type 2, en partie parce que l'apport calorique et les macronutriments diffèrent du témoin [A] (PMID 35672940, 40037300).\n- **Cohortes** : les végétariens ont moins de maladie coronarienne (RR 0,79) mais pas moins d'AVC ni de mortalité toute cause [B] (PMID 36030329, 26853923).\n- **Os** : risque de fracture de hanche plus élevé chez les végans (HR 2,31) et un peu plus chez les végétariens (HR 1,25) [B, cohorte unique] (PMID 33222682).\n- **Vitamine B12 : supplémentation indispensable chez les végans** ; sans elle, déficit fonctionnel [A] (PMID 39373282).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Quatre groupes dans la cohorte EPIC-Oxford** : mangeurs de viande, mangeurs de poisson, végétariens, végans ; 29 380, 8 037, 15 499 et 1 982 personnes au départ (PMID 33222682). Le groupe « poisson » (pescétariens) n'est ni végétarien ni végan : à ne pas confondre.\n- **Végétarien** : sans viande. Le traitement des œufs, laitages et poisson varie selon les études et n'est pas détaillé dans les résumés lus [?].\n- **Végan (végétalien)** : régime sans produit animal. Les végans ont les apports les plus bas en B12, calcium et iode (PMID 35010904).\n- **Régime « à base de plantes » (plant-based)**, flexitarien, végétarisme partiel : définitions non uniformes, non couverts par les résumés lus [?].\n- **Essais** : les régimes végans testés durent ≥ 12 semaines et n'ont pas les mêmes calories ni macronutriments que le témoin ; l'effet peut venir de la composition, pas du seul retrait des produits animaux (PMID 35672940).\n- **Qualité des aliments végétaux** (complets ou raffinés, transformés ou non) : non isolée dans les résumés lus [?].",
+   "titre": "Variantes et contenu"
+  },
+  {
+   "markdown": "Non revérifié [?]. Les revues décrivent des différences d'apport (plus de fibres, folates, vitamine C, magnésium ; moins de B12, EPA/DHA, iode, calcium) sans prouver quel facteur explique l'effet (PMID 35010904).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Poids, glycémie, lipides (essais)\n| Source | Résultat | Preuve |\n|---|---|---|\n| 11 ECR, 796 pers. en surpoids ou DT2, ≥ 12 sem. | poids −4,1 kg (IC −5,9 à −2,4), HbA1c −0,18 point, LDL −0,24 mmol/L ; pas d'effet sur tension, HDL, triglycérides ; part de l'effet due aux différences de macronutriments et de calories (PMID 35672940) | [A] |\n| 9 ECR, 681 pers. DT2, végétarien ou vegan | HbA1c −0,36 %, LDL −0,16 mmol/L, IMC −0,94 ; pas d'effet sur tension systolique ni glycémie à jeun ; vegan > végétarien (PMID 40037300) | [A] |\n\n### Maladies cardiovasculaires et cancer (cohortes)\n| Source | Résultat | Preuve |\n|---|---|---|\n| 13 cohortes, 844 175 pers. | végétariens vs non : CVD RR 0,85 (0,79-0,92), maladie coronarienne 0,79 (0,71-0,88), AVC 0,90 (0,77-1,05, non significatif) ; végans : coronarien 0,82 (0,68-1,00) ; biais modéré à sérieux (PMID 36030329) | [B] |\n| 86 études transversales + 10 cohortes | coronarien RR 0,75 (0,68-0,82), cancers totaux 0,92 (0,87-0,98) ; pas de différence pour la mortalité toute cause ni la mortalité par cancer (PMID 26853923) | [B] |\n\nBiais : les végétariens des cohortes ont souvent d'autres comportements sains (tabac, alcool, activité) ; le HR n'est pas l'effet du régime seul [B].\n\n### Os\nEPIC-Oxford (≈ 17,6 ans de suivi) : vs mangeurs de viande, fracture de hanche HR 1,26 (mangeurs de poisson), 1,25 (végétariens), 2,31 (végans, IC 1,66-3,22), soit 14,9 cas de plus pour 1 000 vegans sur 10 ans ; fractures totales HR 1,43 chez les vegans ; ajustement sur calcium et protéines atténue sans annuler [B, cohorte unique] (PMID 33222682).\n\n### Nutriments\nRevue de 141 études : B12, vitamine D, fer, zinc, iode, calcium et marqueurs osseux généralement plus bas en régime végétal ; végans au plus bas pour B12, calcium, iode et densité osseuse ; des carences existent aussi chez les mangeurs de viande (fibres, folates, vitamine D, magnésium). Auteurs affiliés à Unilever (conflit d'intérêts potentiel pour les recommandations de fortification) [B] (PMID 35010904).\nB12 chez les vegans : B12 sérique plus basse, homocystéine plus haute que chez les omnivores ; la supplémentation corrige tous les biomarqueurs [A] (PMID 39373282).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « Le vegan est forcément plus sain » : végétarien ≈ vegan sur la plupart des marqueurs ; les vegans ont plus de fractures et de carence en B12 sans suivi [B] (PMID 33222682, 39373282).\n- « Les protéines végétales suffisent sans y penser » : l'apport en protéines est plus bas mais dans les repères ; effet sur la masse musculaire non relu ici [?] (PMID 35010904).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Supplémentation B12 obligatoire chez les végans ([vitamine B12](fiche:vitamine-b12-et-folates)) ; surveiller vitamine D, fer ([fer et ferritine](fiche:fer-et-ferritine)), zinc, iode, calcium. Grossesse, enfants, personnes âgées : populations non couvertes par les résumés lus, suivi diététique et médical [?]. Oméga-3 (EPA/DHA) plus bas : voir [oméga-3](fiche:omega-3).\n\nStatut réglementaire : sans objet (pattern alimentaire).\n\nVoir aussi : [légumineuses](fiche:legumineuses) · [régime méditerranéen](fiche:regime-mediterraneen) · [synthèse alimentation](fiche:alimentation) · [vitamine D](fiche:vitamine-d).",
+   "titre": "Sécurité, populations à risque"
+  },
+  {
+   "markdown": "- PMID 35672940 — Termannsen A.-D. et al., *Obes Rev* 2022. doi:10.1111/obr.13462\n- PMID 40037300 — Lv M. et al., *Nutr Rev* 2025. doi:10.1093/nutrit/nuaf011\n- PMID 36030329 — Dybvik J.S., Svendsen M., Aune D., *Eur J Nutr* 2023. doi:10.1007/s00394-022-02942-8\n- PMID 26853923 — Dinu M. et al., *Crit Rev Food Sci Nutr* 2017. doi:10.1080/10408398.2016.1138447\n- PMID 33222682 — Tong T.Y.N. et al., *BMC Med* 2020. doi:10.1186/s12916-020-01815-3\n- PMID 35010904 — Neufingerl N., Eilander A., *Nutrients* 2022. doi:10.3390/nu14010029\n- PMID 39373282 — Niklewicz A. et al., *Nutr Bull* 2024. doi:10.1111/nbu.12712",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Régimes végétarien et végétalien (vegan)",
+ "type": "actif",
+ "unite": ""
+}

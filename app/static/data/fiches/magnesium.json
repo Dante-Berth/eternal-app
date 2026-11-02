@@ -1,0 +1,76 @@
+{
+ "cibles": [
+  "sante-mentale",
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "magnesium",
+ "intro": "",
+ "liens": [
+  "anxiete",
+  "audition-et-perte-auditive",
+  "biomarqueur-ionogramme-calcium-magnesium",
+  "magnesium-nutri-and-co-bisglycinate-malate-liposome",
+  "stress-chronique-et-cortisol",
+  "tension-arterielle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "32956536",
+  "41812583",
+  "41000008",
+  "33865376",
+  "38970118"
+ ],
+ "preuve_globale": "A",
+ "resume": "Crampes : aucun bénéfice cliniquement utile chez l'adulte âgé à crampes idiopathiques (Cochrane, 11 ECR, 735 participants ; −0,18 crampe/semaine, IC −0,84 à 0,49) [A] (PMID 32956536). Grossesse : résultats contradictoires dans la Cochrane [A, contradictoire], plus favorable dans une méta-analyse…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Crampes : aucun bénéfice cliniquement utile chez l'adulte âgé à crampes idiopathiques (Cochrane, 11 ECR, 735 participants ; −0,18 crampe/semaine, IC −0,84 à 0,49) [A] (PMID 32956536). Grossesse : résultats contradictoires dans la Cochrane [A, contradictoire], plus favorable dans une méta-analyse récente [A] (PMID 41812583).\n- Tension artérielle : −2,8/−2,1 mmHg en moyenne (38 ECR), surtout chez les hypertendus traités et les hypomagnésiémiques, non significatif chez les normotendus [A, hétérogène] (PMID 41000008).\n- Sommeil : petit signal chez l'âgé insomniaque (−17 min de latence d'endormissement, 3 ECR, 151 participants) [A, très faible certitude] (PMID 33865376).\n- Courbatures : 4 études seulement [B] (PMID 38970118).\n- Effet indésirable principal : digestif (diarrhée) [A] (PMID 32956536).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Cofacteur d'enzymes impliquées dans l'énergie, la contraction musculaire et l'excitabilité neuronale (rappel général cité dans PMID 38970118). Effet clinique d'une supplémentation chez un sujet non carencé : non démontré pour la plupart des indications ci-dessous.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Preuve |\n|---|---|\n| Crampes idiopathiques (adulte âgé) | [A] aucun effet : % de crampes −9,59 % (IC −23,14 à 3,97) ; RR ≥ 25 % de réduction 1,04 (0,84-1,29), certitude élevée (PMID 32956536) |\n| Crampes de grossesse | [A, contradictoire] 5 essais à haut risque de biais (Cochrane, PMID 32956536) ; méta-analyse 2026 : réduction de fréquence, RR 1,35 (IC 1,05-1,74), 4 essais, n≈364 (PMID 41812583) |\n| Crampes liées à l'exercice | aucun ECR trouvé par la Cochrane [?] (PMID 32956536) |\n| Tension artérielle | [A] PAS −2,81 mmHg (IC −4,32 à −1,29) ; PAD −2,05 (−3,23 à −0,88) ; dose médiane 365 mg/j, 12 semaines ; pas de relation dose-réponse ; forte hétérogénéité (PMID 41000008) |\n| Insomnie de l'âgé | [A, très faible certitude] 3 ECR, risque de biais modéré à élevé ; durée totale de sommeil +16 min, non significatif (PMID 33865376) |\n| Courbatures, récupération, performance | [B] revue de 4 études, magnésium seul, effets favorables décrits, très peu d'études (PMID 38970118) |\n| Stress, fatigue, humeur, migraine | non étudiés dans les sources lues [?] |\n| Prévention de la carence chez le sportif | recommandation « besoins +10-20 % » avancée par les auteurs de PMID 38970118 à partir de 4 études [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- BP : 82-637 mg/j de magnésium élémentaire, médiane 365 mg/j (PMID 41000008).\n- Insomnie : < 1 g de sel de magnésium, jusqu'à 3 fois par jour, selon les auteurs de PMID 33865376 (teneur en magnésium élémentaire non précisée dans le résumé) [?].\n- Repères officiels : valeur nutritionnelle de référence (étiquetage) 375 mg/j (règlement (UE) n° 1169/2011, annexe XIII, relevé indirectement, texte non rouvert [?]) ; limite supérieure de sécurité 250 mg/j de magnésium apporté par des compléments ou l'enrichissement, pas par l'alimentation (ANSES, avis saisine n° 2023-SA-0165 du 2024-07-31, consulté le 2026-10-06) ; dose journalière maximale proposée dans les compléments pour l'adulte : 360 mg (projet d'arrêté, même avis), au-dessus de la limite de 250 mg, avec une comparaison jugée impossible faute de données par l'ANSES. Lecture : les doses des ECR (médiane 365 mg) dépassent la limite de sécurité de 250 mg qui concerne les sels dissociables (chiffre ANSES).\n- Vendues : dosages et formes (bisglycinate, citrate, oxyde, marin, thréonate) : comparaison de biodisponibilité non vérifiée ici [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Complément alimentaire** oral : statut ci-dessus ; la composition et les formes autorisées en France n'ont pas été revérifiées (arrêté du 9 mai 2006) [?].\n- **Médicament** (spécialités à base de magnésium) : non vérifié sur la BDPM [?].\n- Injectable (hospitalier), topique (« huile de magnésium ») : non étudiés ici [?].\n- AMA : statut non vérifié (wada-ama.org inaccessible, 2026-10-06) [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Effets digestifs** : diarrhée chez 11 % (10 % sous placebo) à 37 % (14 % sous placebo) selon les essais ; plus d'effets mineurs sous magnésium (RR 1,51, IC 0,98-2,33, faible certitude) (PMID 32956536). Effets majeurs non différents du placebo.\n- **Insuffisance rénale** : risque d'accumulation plausible ; non documenté dans les sources lues [?], avis médical.\n- **Interactions médicamenteuses** (antibiotiques de type tétracyclines/quinolones, bisphosphonates, lévothyroxine, diurétiques, inhibiteurs de la pompe à protons) : non vérifiées dans des sources de ce dépôt [?] ; lire le RCP ou demander au pharmacien (espacer les prises est la pratique courante, non sourcée ici).\n- Grossesse : les essais de crampes l'incluent ; sécurité au-delà du résumé non vérifiée [?].\n- Dépassement de la limite de 250 mg : risque de troubles digestifs surtout ; le fondement de la limite est un effet laxatif, selon la littérature secondaire (EFSA/SCF, résumé web, consulté le 2026-10-06) [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Contre les crampes »** : [A] aucun effet net chez l'adulte âgé (PMID 32956536) ; seul résultat positif possible en grossesse, contradictoire.\n- **« Pour mieux dormir »** : [A, très faible certitude] petit signal chez l'âgé insomniaque, aucun chez le jeune adulte sain étudié dans ces sources [?] (PMID 33865376).\n- **« Meilleure absorption de la forme X »** : non démontrée ici [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- [Magnésium bisglycinate, malate et liposomé — Nutri&Co](fiche:magnesium-nutri-and-co-bisglycinate-malate-liposome) : mélange de trois formes, 300 mg pour 3 gélules, ≈ 10-15 €/mois ; comparaison avec un citrate dans la fiche.\n\nVoir aussi : [Tension artérielle](fiche:tension-arterielle).\n\nÀ voir aussi : [Stress chronique et cortisol](fiche:stress-chronique-et-cortisol) · [Anxiété](fiche:anxiete) · [Audition et perte auditive](fiche:audition-et-perte-auditive).\n\nFiches « examen » liées : [magnésémie et ionogramme](fiche:biomarqueur-ionogramme-calcium-magnesium)",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 32956536 — Garrison SR et al., *Cochrane Database Syst Rev* 2020. doi:10.1002/14651858.CD009402.pub3\n- PMID 41812583 — Patil S et al., *Int Dent J* 2026. doi:10.1016/j.identj.2026.109488\n- PMID 41000008 — Argeros Z et al., *Hypertension* 2025. doi:10.1161/HYPERTENSIONAHA.125.25129\n- PMID 33865376 — Mah J, Pitre T, *BMC Complement Med Ther* 2021. doi:10.1186/s12906-021-03297-z\n- PMID 38970118 — Tarsitano MG et al., *J Transl Med* 2024. doi:10.1186/s12967-024-05434-x\n- ANSES, avis saisine n° 2023-SA-0165, 2024-07-31 (LSS, doses journalières maximales proposées), consulté le 2026-10-06.\n- Règlement (UE) n° 1169/2011, annexe XIII (VNR), relevé indirectement, consulté le 2026-10-06.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Magnésium",
+ "type": "actif",
+ "unite": ""
+}

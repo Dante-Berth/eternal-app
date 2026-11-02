@@ -1,0 +1,82 @@
+{
+ "cibles": [
+  "hormones-sexualite",
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "tongkat-ali",
+ "intro": "",
+ "liens": [
+  "ashwagandha",
+  "boosters-de-testosterone",
+  "fadogia-agrestis",
+  "tadalafil",
+  "testosterone"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "36013514",
+  "26365449",
+  "34987621",
+  "23705671",
+  "37697053",
+  "33445146",
+  "33541567",
+  "30574050"
+ ],
+ "preuve_globale": "A",
+ "resume": "Racine d'Asie du Sud-Est vendue comme « booster de testostérone naturel ». La meilleure méta-analyse (5 ECR) trouve une hausse de la testostérone totale (SMD 1,35 ; IC 0,57-2,14), mais un SMD aussi élevé pour un complément suggère des essais petits et hétérogènes (lecture du dépôt ; texte intégra…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Racine d'Asie du Sud-Est vendue comme « booster de testostérone naturel ». La meilleure méta-analyse (5 ECR) trouve une hausse de la testostérone totale (SMD 1,35 ; IC 0,57-2,14), mais un SMD aussi élevé pour un complément suggère des essais petits et hétérogènes (lecture du dépôt ; texte intégral non consulté) [A, faible certitude] (PMID 36013514).\n- **Aucun gain démontré sur ce qui compte** : muscle, performance, libido. Érection : méta-analyse de 2 ECR (139 participants) **non significative** sur l'IIEF-5, avec un effet seulement chez les hommes à faible score de départ [A, 2 ECR] (PMID 26365449).\n- **Sécurité : l'EFSA a conclu en 2021 que la sécurité d'un extrait aqueux standardisé « n'est établie dans aucune condition d'usage »** (génotoxicité : test d'aberrations chromosomiques positif in vitro, test des comètes positif in vivo à 2 000 mg/kg dans l'estomac et le duodénum) (PMID 34987621). Fait peu connu des vendeurs.\n- Comparé aux autres boosters, il a le signal le plus net sur la testostérone totale, mais sur peu d'essais, souvent avec des extraits de marque.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Proposé : baisse de la liaison de la testostérone à la SHBG et stimulation de la production testiculaire. Preuve : modèles animaux [C] et in vitro [D] ; les sources lues pour cette fiche ne donnent pas de mécanisme démontré chez l'humain [?].\n- Dans l'essai de Talbott (63 sujets stressés), la hausse de testostérone salivaire (+37 %) et la baisse du cortisol (−16 %) vont dans le même sens que le discours commercial, mais cet essai dure 4 semaines (PMID 23705671).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Testostérone totale (homme sain ou hypogonadique) | revue systématique de 9 études, méta-analyse de 5 ECR : SMD 1,352 (IC 95 % 0,565 à 2,138), confirmé dans le sous-groupe hypogonadique ; les auteurs concluent « prometteur, plus de recherche requise » (PMID 36013514). Une revue systématique de 52 études sur 27 boosters juge *Eurycoma* (3 études) « possiblement efficace » chez l'homme sain et chez l'hypogonadique tardif, avec l'ashwagandha (PMID 37697053, voir [boosters de testostérone](fiche:boosters-de-testosterone)) | [A, faible certitude] |\n| Érection (dysfonction légère) | 2 ECR, 139 participants : différence IIEF-5 à 12 semaines +0,91 (IC −1,50 à 3,33, I² 89,5 %), non significative ; sous-groupe à faible score de départ : +2,15 (IC 1,03-3,27) (PMID 26365449). Pas comparé au tadalafil ([tadalafil](fiche:tadalafil)) | [A, 2 ECR] |\n| « Andropause » (ADAM), 45 hommes de 47 ans, 200 mg/j, 6 mois, avec ou sans entraînement | érection et testostérone améliorées surtout dans le groupe combiné entraînement + tongkat ; quatre groupes (témoin n = 12, tongkat n = 11, entraînement n = 11, entraînement + tongkat n = 11) : le couple de force des extenseurs du genou augmente de 14 % (entraînement) et 17 % (entraînement + tongkat), **pas dans le groupe tongkat seul** ; la flexion du genou ne progresse que dans le groupe combiné (PMID 33445146). Les groupes de 11-12 sujets limitent la puissance (PMID 33541567, 33445146) | [B, ECR unique n=45, 4 groupes] |\n| Stress et humeur | 63 sujets, 4 semaines : tension −11 %, colère −12 %, confusion −15 %, cortisol salivaire −16 %, testostérone salivaire +37 % (PMID 23705671) ; 93 sujets, 24 semaines, extrait + multivitamines : **aucune différence entre groupes** sur qualité de vie et humeur (critères principaux) (PMID 30574050) | [B] ; essais d'extraits de marque (Physta) |\n| Muscle, masse maigre, libido, fertilité | aucune donnée solide trouvée dans les sources lues | [?] |\n\nLimite : la méta-analyse porte sur un biomarqueur (testostérone totale), pas sur un résultat clinique. Dans la fiche [boosters de testostérone](fiche:boosters-de-testosterone), même une hausse de testostérone ne se traduit pas par du muscle dans les essais lus.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais : 200 mg/j d'extrait aqueux standardisé (PMID 33541567) ; l'EFSA a évalué un extrait aqueux à 200 mg/j maximum, titré en glycosaponines (40-65 %) et eurycomanone (0,8-1,5 %) (PMID 34987621).\n- Vendu : poudres de racine, extraits « 100:1 » ou « 200:1 », mélanges avec fadogia, ashwagandha. Les titrages en eurycomanone ne sont pas contrôlés par une autorité ; la comparabilité avec l'extrait des essais n'est pas garantie [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Compléments alimentaires vendus en ligne (gélules, poudres, extraits). Aucune forme médicamenteuse.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Nouvel aliment (UE)** : l'EFSA a émis en 2021 un avis défavorable sur la sécurité de l'extrait aqueux de racine de tongkat ali, dossier de l'industrie, usage prévu 200 mg/j adultes hors femmes enceintes et allaitantes ; elle indique que le produit est présent sur des marchés internationaux depuis 2009 (EFSA Journal 2021, abstract lu via PubMed PMID 34987621, consulté le 2026-10-14). Sans avis positif, aucune autorisation d'ajout à la liste de l'Union n'a pu être accordée sur cette base ; vérification directe : *Eurycoma longifolia* n'apparaît pas dans la liste de l'Union des nouveaux aliments (règlement d'exécution (UE) 2017/2470, version consolidée du 2026-08-10, texte intégral FR, recherches « Eurycoma » et « Tongkat » : aucune occurrence ; EUR-Lex/Office des publications, consulté le 2026-10-14). Elle n'est donc pas autorisée comme nouvel aliment à cette date. Le catalogue Novel Food en ligne (statut éventuel « usage avant 1997 ») est inaccessible (application JavaScript) [?]. Un article de presse professionnelle de 2016 la décrivait déjà comme « non autorisée » dans l'UE (NutraIngredients, 2016-09-06, résultat de recherche, source secondaire).\n- France : *Eurycoma longifolia* est absente de l'arrêté du 24 juin 2014 (annexe I, liste des plantes autorisées en compléments ; Légifrance, version en vigueur, recherche « Eurycoma », « longifolia », consulté le 2026-10-14). Position DGCCRF/ANSES propre à cette plante : non trouvée [?]. Aucune allégation de santé « testostérone » autorisée trouvée pour cette plante dans le registre UE (recherche non exhaustive).\n- AMA : la plante n'est pas citée dans la Liste des interdictions 2026 (PDF officiel, parcouru par mots-clés, consulté le 2026-10-14) ; le risque tient à d'éventuels produits contaminés (voir sécurité), non quantifié [?].",
+   "titre": "Réglementaire"
+  },
+  {
+   "markdown": "- **Génotoxicité** (voir TL;DR) : concerne l'estomac et le duodénum à 2 000 mg/kg chez l'animal, soit très au-dessus de la dose humaine ; l'EFSA n'a pas pu en déduire un seuil sûr. Pertinence clinique chez l'humain : inconnue [C].\n- Effets indésirables dans les ECR : non rapportés dans les résumés relus (PMID 23705671, 33541567, 33445146, 30574050) ; recherche PubMed « Eurycoma longifolia toxicity » (33 résultats, 10 premiers relus) : phytochimie, in vitro et animal, aucune étude de sécurité humaine [?].\n- Contamination (métaux lourds) : recherche PubMed ciblée sans résultat utilisable [?].\n- Grossesse, allaitement, cancers hormono-dépendants, prise d'anticoagulants ou d'antidiabétiques : aucune donnée trouvée [?]. Éviter par prudence (absence de données).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Booste la testostérone de 40 % »** : la hausse poolée est exprimée en SMD, pas en pourcentage ; les chiffres de % viennent d'un essai salivaire de 4 semaines (+37 %, PMID 23705671) et ne se généralisent pas [B].\n- **« Fait gagner du muscle »** : aucun essai en monothérapie ne le montre dans les sources lues [?] (PMID 33445146).\n- **« Sans danger, usage traditionnel »** : l'EFSA ne peut pas conclure à la sécurité de l'extrait standardisé (PMID 34987621).\n- **« Améliore l'érection »** : méta-analyse non significative globalement (PMID 26365449).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit dans ce dépôt. Voir [fadogia agrestis](fiche:fadogia-agrestis) (souvent associée), [ashwagandha](fiche:ashwagandha), [testostérone](fiche:testosterone) (traitement des vrais hypogonadismes).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 36013514, Leisegang et al., « Eurycoma longifolia (Jack) Improves Serum Total Testosterone in Men: A Systematic Review and Meta-Analysis of Clinical Trials », Medicina 2022 (résumé relu).\n- PMID 26365449, Kotirum et al., « Efficacy of Tongkat Ali (Eurycoma longifolia) on erectile function improvement: systematic review and meta-analysis of randomized controlled trials », Complement Ther Med 2015 (résumé relu).\n- PMID 33541567, Leitão et al., ECR de 6 mois chez des hommes ADAM, Maturitas 2021 (résumé relu).\n- PMID 33445146, Leitão et al., exercice et *Eurycoma*, Complement Ther Clin Pract 2021 (résumé relu).\n- Réglementaire : règlement (UE) 2017/2470 consolidé 2026-08-10 ; arrêté du 24 juin 2014 (Légifrance) ; Liste AMA 2026 ; consultés le 2026-10-14.\n- PMID 23705671, Talbott et al., « Effect of Tongkat Ali on stress hormones and psychological mood state in moderately stressed subjects », J Int Soc Sports Nutr 2013 (résumé relu).\n- PMID 30574050, George et al., Physta + multivitamines, Food Nutr Res 2018 (résumé relu ; extrait + multivitamines, pas la plante seule).\n- PMID 34987621, Turck et al. (EFSA NDA Panel), « Safety of Eurycoma longifolia (Tongkat Ali) root extract as a novel food pursuant to Regulation (EU) 2015/2283 », EFSA J 2021 (résumé relu).\n- PMID 37697053, Morgado et al., « Do \"testosterone boosters\" really increase serum total testosterone? A systematic review », Int J Impot Res 2024 (résumé relu).\n- NutraIngredients, « Popular but illegal: Legal certainty on the horizon for Tongkat ali extract? », 2016-09-06, consulté le 2026-10-14 (extrait de recherche, source secondaire).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "Tongkat ali (Eurycoma longifolia)",
+ "type": "actif",
+ "unite": ""
+}

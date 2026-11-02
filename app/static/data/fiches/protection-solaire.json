@@ -1,0 +1,88 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "cosmetique",
+ "id": "protection-solaire",
+ "intro": "",
+ "liens": [
+  "alimentation-peau",
+  "avene-intense-protect-spf50",
+  "bioderma-photoderm-aquafluide-spf50",
+  "depistage-cancer-peau-melanome",
+  "garnier-ambre-solaire-super-uv-aqua-fluide-invisible",
+  "la-roche-posay-anthelios-uvmune-400-fluide",
+  "nivea-sun-protect-hydrate-spf50",
+  "retinoides"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 16,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "23732711",
+  "17493070",
+  "25351668",
+  "24313385",
+  "27749441",
+  "10475183",
+  "17132769",
+  "21135266",
+  "8377777",
+  "34698024",
+  "31961417",
+  "31058986",
+  "20644036",
+  "24628344",
+  "31069788",
+  "9990414"
+ ],
+ "preuve_globale": "B",
+ "resume": "Seule intervention anti-âge testée en prévention dans un essai randomisé de long terme : écran large spectre quotidien vs usage à la demande, 903 adultes de moins de 55 ans, 4,5 ans : vieillissement cutané 24 % moindre (odds relatif 0,76 ; IC 0,59–0,98), aucune aggravation détectable dans le grou…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Seule intervention anti-âge testée en prévention dans un essai randomisé de long terme** : écran large spectre quotidien vs usage à la demande, 903 adultes de moins de 55 ans, 4,5 ans : vieillissement cutané 24 % moindre (odds relatif 0,76 ; IC 0,59–0,98), aucune aggravation détectable dans le groupe quotidien [B, ECR unique n=903] (PMID 23732711).\n- Le même essai de Nambour (1 621 personnes) montre aussi moins de carcinomes épidermoïdes (−39 % en nombre de tumeurs), un effet maintenu 8 ans après, et moins de mélanomes invasifs au suivi à 10 ans [B, ECR unique] ; moins de kératoses actiniques dans un autre essai [B, ECR unique n=588].\n- **La quantité compte plus que le chiffre du SPF** : le SPF est mesuré à 2 mg/cm², les gens en mettent environ un quart, et la protection chute de façon exponentielle (à 0,5 mg/cm², un SPF tombe à sa racine quatrième) [B] (PMID 17493070).\n- Sécurité : les filtres organiques passent dans le sang au-dessus du seuil de la FDA, sans effet nocif démontré [B] ; l'octocrylène est un photoallergène, surtout après une photoallergie au kétoprofène [B]. L'UE a limité benzophénone-3 et octocrylène (2022) et interdit le 4-MBC (2025-2026).\n- Vitamine D : l'usage quotidien d'un écran ne compromet pas le statut en vitamine D chez les personnes en bonne santé (consensus d'experts) [B].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Filtres organiques (absorption) et minéraux (oxyde de zinc, dioxyde de titane : absorption et diffusion) qui réduisent la dose d'UV reçue par la peau. Les UV entraînent le photovieillissement (rides, taches, élastose) ; la prévention est plus efficace que la réparation, selon une revue systématique [B] (PMID 25351668). Les pigments d'oxyde de fer des écrans teintés ajoutent une protection contre la lumière visible [B] (PMID 24313385).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Vieillissement cutané (microtopographie du dos de la main), 4,5 ans | 903 adultes < 55 ans : −24 % de vieillissement (OR relatif 0,76 ; IC 0,59–0,98) avec écran quotidien vs usage à la demande ; bêta-carotène 30 mg sans effet global. Limites : données manquantes, puissance modeste (Hughes 2013, PMID 23732711) | [B, ECR unique n=903] |\n| Photovieillissement visible du visage, 1 an | 32 sujets, SPF 30 quotidien : texture, clarté, taches améliorées de 40 à 52 % vs départ. Ouvert, sans groupe témoin, essai d'industriel (Randhawa 2016, PMID 27749441) | [B] |\n| Carcinome épidermoïde | Nambour, 4,5 ans : nombre de tumeurs 1 115 vs 1 832 pour 100 000 (RR 0,61 ; IC 0,46–0,81) ; pas d'effet sur le nombre de personnes atteintes ni sur le carcinome basocellulaire (Green 1999, PMID 10475183). Suivi 8 ans de plus : RR 0,62 (IC 0,38–0,99) (van der Pols 2006, PMID 17132769) | [B, ECR unique n=1621] |\n| Mélanome | Suivi à 10 ans : 11 vs 22 mélanomes (HR 0,50 ; IC 0,24–1,02 ; non significatif) ; invasifs 3 vs 11 (HR 0,27 ; IC 0,08–0,97) (Green 2011, PMID 21135266). Petits effectifs d'événements | [B, ECR unique n=1621] |\n| Kératoses actiniques | 588 adultes ≥ 40 ans, un été, SPF 17 vs crème de base : nouvelles lésions RR 0,62 (IC 0,54–0,71) ; effet dose-réponse avec la quantité utilisée (Thompson 1993, PMID 8377777) | [B, ECR unique n=588] |\n| Synthèse | 5 essais contrôlés : bénéfice sur kératoses actiniques, carcinome épidermoïde et photovieillissement ; pas sur le basocellulaire ; « preuves limitées » (Rönsch 2021, PMID 34698024) | [A, faible certitude] |\n| Mélasma (taches hormonales), avec hydroquinone 4 % | 68 patients, 8 sem. : écran SPF ≥ 50 teinté à l'oxyde de fer (UV + lumière visible) vs écran UV seul : MASI 15 % et colorimétrie 28 % meilleurs (Castanedo-Cazares 2014, PMID 24313385) | [B, ECR unique n=68] |\n| Taches solaires (lentigos) en prévention | Aucun essai trouvé | [?] |\n| Rides déjà installées (réparation) | Seulement l'essai ouvert ci-dessus ; pas d'essai contre excipient trouvé | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essai de Nambour : SPF 15+ large spectre (PMID 10475183) ; kératoses : SPF 17 (PMID 8377777). Les écrans SPF 50+ actuels n'ont pas d'essai clinique de prévention du vieillissement [?] ; leur intérêt repose sur la compensation de la sous-application.\n- **Quantité** : le SPF étiqueté suppose 2 mg/cm², soit environ 36 g (6 cuillères à café) pour le corps d'un adulte ; réduire de moitié la quantité peut réduire des deux tiers la protection (Recommandation 2006/647/CE, considérant 18, consulté le 2026-10-03). In vivo, la relation est exponentielle : 1 mg/cm² donne la racine carrée du SPF, 0,5 mg/cm² la racine quatrième [B, n=20, SPF 4 testé] (PMID 17493070).\n- Calcul : par définition, un SPF 50 laisse passer 1/50 (2 %) de la dose érythémale UVB et un SPF 30 1/30 (3,3 %) ; l'écart réel en usage dépend surtout de la quantité appliquée.\n- Visage : pas de quantité officielle trouvée ; estimation personnelle ≈ 1 g par jour (2 mg/cm² sur environ 500 cm² visage + cou), soit ≈ 30 ml par mois, base des prix par mois des fiches produits.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Statut** : produit cosmétique (règlement (CE) n° 1223/2009) ; seuls les filtres de l'annexe VI sont autorisés.\n- **Étiquetage UE** : catégories « faible » (6–10), « moyenne » (15–25), « haute » (30–50), « très haute » (50+, SPF mesuré ≥ 60) ; protection UVA d'au moins 1/3 du SPF étiqueté et longueur d'onde critique de 370 nm ; allégations interdites : « écran total », « protection totale » (Recommandation 2006/647/CE de la Commission du 22 septembre 2006, EUR-Lex, consulté le 2026-10-03).\n- **Restrictions récentes de filtres** : benzophénone-3 limitée à 6 % (visage, mains, lèvres hors sprays), 2,2 % (corps, sprays) et 0,5 % (autres produits) ; octocrylène limité à 9 % (aérosols) et 10 % (autres) (règlement (UE) 2022/1176 du 7 juillet 2022, EUR-Lex, consulté le 2026-10-03). 4-méthylbenzylidène camphre (4-MBC) interdit : plus de mise sur le marché depuis le 1er mai 2025, plus de mise à disposition depuis le 1er mai 2026 (règlement (UE) 2024/996, EUR-Lex, consulté le 2026-10-03).\n- **Oral** (« gélules solaires », bêta-carotène) : le bêta-carotène 30 mg/j n'a eu aucun effet global sur le vieillissement cutané dans l'essai de Nambour [B, ECR unique n=903] (PMID 23732711) ; ne remplace pas un écran. Lycopène : voir [alimentation](fiche:alimentation-peau).\n- AMA : sans objet (cosmétique topique).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Absorption systémique** : avec 2 mg/cm² sur 75 % du corps plusieurs fois par jour, avobenzone, oxybenzone, octocrylène, homosalate, octisalate et octinoxate dépassent le seuil FDA de 0,5 ng/mL dès le 1er jour (oxybenzone jusqu'à 258 ng/mL) [B, ECR n=48] (PMID 31961417, 31058986). Les auteurs précisent que cela ne signifie pas que ces filtres sont dangereux ; c'est un seuil déclenchant des études toxicologiques. Usage visage seul = exposition bien moindre (non mesuré) [?].\n- **Allergie** : l'octocrylène est un photoallergène émergent, surtout chez l'adulte avec antécédent de photoallergie au kétoprofène (50 cas, série française) [B] (PMID 20644036, 24628344). Antécédent de réaction au kétoprofène en gel → choisir un écran sans octocrylène ni benzophénone-3.\n- **Vitamine D** : consensus d'experts : un écran large spectre en usage quotidien ne compromet pas la synthèse de vitamine D chez les personnes en bonne santé ; dépistage réservé aux personnes à risque [B] (PMID 31069788). La revue systématique de 2021 ne trouve pas d'effet sur la vitamine D, la densité osseuse ni la mortalité [A, faible certitude] (PMID 34698024).\n- **Effets indésirables courants** : irritation cutanée et oculaire, aussi avec l'excipient [A, faible certitude] (PMID 34698024).\n- **Associations** : aucune incompatibilité documentée avec rétinoïdes, vitamine C ou niacinamide [?]. L'écran le matin est la consigne habituelle sous rétinoïde (la trétinoïne est photodégradable [D], PMID 9990414 ; voir [rétinoïdes](fiche:retinoides)).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« SPF 50+ = protection totale »** : allégation interdite dans l'UE (2006/647/CE) ; appliqué en couche fine, un SPF 50 protège bien moins que l'étiquette [B] (PMID 17493070).\n- **« Le maquillage ou la crème de jour SPF suffit »** : protection proportionnée à la quantité ; personne n'applique 2 mg/cm² de fond de teint [?] (pas d'étude trouvée sur l'usage réel du maquillage SPF).\n- **« Protection anti-lumière bleue / anti-infrarouge / anti-pollution »** : seul un bénéfice de la lumière visible avec oxyde de fer teinté chez des patients atteints de mélasma est documenté [B, ECR unique n=68] ; les autres allégations n'ont pas d'essai clinique trouvé [M].\n- **« Les gélules solaires remplacent la crème »** [M] : bêta-carotène sans effet sur le vieillissement cutané [B, ECR unique n=903] (PMID 23732711).\n- **« La crème solaire donne une carence en vitamine D »** : non chez les personnes en bonne santé [B] (PMID 31069788).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Top 3 (critères : preuve de l'actif, concentration efficace, prix, tolérance). Les trois sont SPF 50+ ; la preuve de l'actif (écran large spectre [B]) est la même, le classement se joue sur le prix au millilitre et la tolérance :\n1. [Avène Intense Protect 50+](fiche:avene-intense-protect-spf50) : le moins cher au millilitre (150 ml, ≈ 3 €/mois), sans octocrylène ni parfum déclaré.\n2. [La Roche-Posay Anthelios UVMune 400 fluide invisible](fiche:la-roche-posay-anthelios-uvmune-400-fluide) : sans octocrylène, filtre UVA long, ≈ 6–8 €/mois ; contient de l'alcool (texture sèche, possible inconfort sur peau sensible).\n3. [Bioderma Photoderm Aquafluide SPF50+](fiche:bioderma-photoderm-aquafluide-spf50) : texture légère mais le plus cher (≈ 8–12 €/mois) et contient de l'octocrylène (à éviter après photoallergie au kétoprofène).\n- Hors classement : [Garnier Ambre Solaire Super UV Aqua Fluide Invisible SPF50](fiche:garnier-ambre-solaire-super-uv-aqua-fluide-invisible) : SPF 50 (pas 50+), texture sans fini blanc, ≈ 10–13 €/mois.\n- Hors classement : [Nivea Sun Protect & Hydrate SPF 50+](fiche:nivea-sun-protect-hydrate-spf50) : spray de supermarché, 2-3 €/mois, filtres modernes, parfumé.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Hughes MC et al., Ann Intern Med 2013 — PMID 23732711 — [DOI](https://doi.org/10.7326/0003-4819-158-11-201306040-00002)\n2. Green A et al., Lancet 1999 — PMID 10475183 — [DOI](https://doi.org/10.1016/S0140-6736(98)12168-2)\n3. van der Pols JC et al., Cancer Epidemiol Biomarkers Prev 2006 — PMID 17132769 — [DOI](https://doi.org/10.1158/1055-9965.EPI-06-0352)\n4. Green AC et al., J Clin Oncol 2011 — PMID 21135266 — [DOI](https://doi.org/10.1200/JCO.2010.28.7078)\n5. Thompson SC et al., N Engl J Med 1993 — PMID 8377777 — [DOI](https://doi.org/10.1056/NEJM199310143291602)\n6. Rönsch H, Bauer A, Curr Probl Dermatol 2021 — PMID 34698024 — [DOI](https://doi.org/10.1159/000517641)\n7. Randhawa M et al., Dermatol Surg 2016 — PMID 27749441 — [DOI](https://doi.org/10.1097/DSS.0000000000000879)\n8. Castanedo-Cazares JP et al., Photodermatol Photoimmunol Photomed 2014 — PMID 24313385 — [DOI](https://doi.org/10.1111/phpp.12086)\n9. Faurschou A, Wulf HC, Br J Dermatol 2007 — PMID 17493070 — [DOI](https://doi.org/10.1111/j.1365-2133.2006.07684.x)\n10. Matta MK et al., JAMA 2019 — PMID 31058986 — [DOI](https://doi.org/10.1001/jama.2019.5586)\n11. Matta MK et al., JAMA 2020 — PMID 31961417 — [DOI](https://doi.org/10.1001/jama.2019.20747)\n12. Avenel-Audran M et al., Arch Dermatol 2010 — PMID 20644036 — [DOI](https://doi.org/10.1001/archdermatol.2010.132)\n13. de Groot AC, Roberts DW, Contact Dermatitis 2014 — PMID 24628344 — [DOI](https://doi.org/10.1111/cod.12205)\n14. Passeron T et al., Br J Dermatol 2019 — PMID 31069788 — [DOI](https://doi.org/10.1111/bjd.17992)\n15. Poon F et al., Photodermatol Photoimmunol Photomed 2015 — PMID 25351668 — [DOI](https://doi.org/10.1111/phpp.12145)\n16. Martin B et al., Br J Dermatol 1998 — PMID 9990414 — [DOI](https://doi.org/10.1046/j.1365-2133.1998.1390s2008.x)\n17. Recommandation 2006/647/CE de la Commission du 22 septembre 2006, JO L 265 du 26.9.2006 — [EUR-Lex](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32006H0647) (consulté le 2026-10-03)\n18. Règlement (UE) 2022/1176 de la Commission du 7 juillet 2022 — [EUR-Lex](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R1176) (consulté le 2026-10-03)\n19. Règlement (UE) 2024/996 de la Commission du 3 avril 2024 — [EUR-Lex](https://eur-lex.europa.eu/eli/reg/2024/996/oj) (consulté le 2026-10-03)\n\nVoir aussi : [Dépistage du mélanome et des cancers de la peau](fiche:depistage-cancer-peau-melanome).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "Protection solaire (écrans UVA/UVB)",
+ "type": "actif",
+ "unite": ""
+}

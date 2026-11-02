@@ -1,0 +1,718 @@
+{
+ "_doc": "Identifiants stables des marqueurs. `fiche` = fiche principale du marqueur (id = nom de fichier sans .md) ; d'autres fiches peuvent le lister dans `marqueurs:`. `unite` = unité usuelle (celle des résultats de laboratoire en France) ; `conversions[]` : valeur dans l'unité usuelle = valeur × facteur + decalage (défaut 0). Un marqueur sans conversion fiable n'en déclare pas. `forme: \"paire\"` : la mesure est un couple [systolique, diastolique] ; absent = une valeur. Valider avec scripts/verifier.py.",
+ "marqueurs": [
+  {
+   "conversions": [
+    {
+     "facteur": 59.48,
+     "unite": "mg/dL"
+    }
+   ],
+   "fiche": "biomarqueur-acide-urique",
+   "id": "uricemie",
+   "nom": "Uricémie",
+   "unite": "µmol/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 0.01,
+     "unite": "mg/dL"
+    }
+   ],
+   "fiche": "biomarqueur-apoa1",
+   "id": "apoa1",
+   "nom": "Apolipoprotéine A-I",
+   "unite": "g/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 0.01,
+     "unite": "mg/dL"
+    }
+   ],
+   "fiche": "biomarqueur-apob",
+   "id": "apob",
+   "nom": "Apolipoprotéine B",
+   "unite": "g/L"
+  },
+  {
+   "fiche": "biomarqueur-bilan-hormonal-femme",
+   "id": "fsh",
+   "nom": "FSH",
+   "unite": "UI/L"
+  },
+  {
+   "fiche": "biomarqueur-bilan-hormonal-femme",
+   "id": "lh",
+   "nom": "LH",
+   "unite": "UI/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 3.671,
+     "unite": "pg/mL"
+    }
+   ],
+   "fiche": "biomarqueur-bilan-hormonal-femme",
+   "id": "oestradiol",
+   "nom": "Œstradiol",
+   "unite": "pmol/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 0.3145,
+     "unite": "nmol/L"
+    }
+   ],
+   "fiche": "biomarqueur-bilan-hormonal-femme",
+   "id": "progesterone",
+   "nom": "Progestérone",
+   "unite": "ng/mL"
+  },
+  {
+   "fiche": "biomarqueur-bilan-hormonal-femme",
+   "id": "prolactine",
+   "nom": "Prolactine",
+   "unite": "ng/mL"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 0.14,
+     "unite": "pmol/L"
+    }
+   ],
+   "fiche": "biomarqueur-bilan-hormonal-femme",
+   "id": "amh",
+   "nom": "Hormone anti-müllérienne (AMH)",
+   "unite": "ng/mL"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 27.59,
+     "unite": "µg/dL"
+    },
+    {
+     "facteur": 2.759,
+     "unite": "µg/L"
+    }
+   ],
+   "fiche": "biomarqueur-cortisol",
+   "id": "cortisol",
+   "nom": "Cortisol sérique du matin",
+   "unite": "nmol/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 1,
+     "unite": "ng/mL"
+    }
+   ],
+   "fiche": "biomarqueur-fer-ferritine-transferrine",
+   "id": "ferritine",
+   "nom": "Ferritine",
+   "unite": "µg/L"
+  },
+  {
+   "fiche": "biomarqueur-fer-ferritine-transferrine",
+   "id": "cst",
+   "nom": "Coefficient de saturation de la transferrine (CST)",
+   "unite": "%"
+  },
+  {
+   "fiche": "biomarqueur-fer-ferritine-transferrine",
+   "id": "fer-serique",
+   "nom": "Fer sérique",
+   "unite": "µmol/L"
+  },
+  {
+   "fiche": "biomarqueur-fer-ferritine-transferrine",
+   "id": "transferrine",
+   "nom": "Transferrine",
+   "unite": "g/L"
+  },
+  {
+   "fiche": "biomarqueur-fibrinogene-et-vs",
+   "id": "fibrinogene",
+   "nom": "Fibrinogène",
+   "unite": "g/L"
+  },
+  {
+   "fiche": "biomarqueur-fibrinogene-et-vs",
+   "id": "vs",
+   "nom": "Vitesse de sédimentation (VS)",
+   "unite": "mm/h"
+  },
+  {
+   "fiche": "biomarqueur-foie-alat-ggt-fib4-fibroscan",
+   "id": "alat",
+   "nom": "ALAT",
+   "unite": "UI/L"
+  },
+  {
+   "fiche": "biomarqueur-foie-alat-ggt-fib4-fibroscan",
+   "id": "asat",
+   "nom": "ASAT",
+   "unite": "UI/L"
+  },
+  {
+   "fiche": "biomarqueur-foie-alat-ggt-fib4-fibroscan",
+   "id": "ggt",
+   "nom": "GGT",
+   "unite": "UI/L"
+  },
+  {
+   "fiche": "biomarqueur-foie-alat-ggt-fib4-fibroscan",
+   "id": "pal",
+   "nom": "Phosphatases alcalines",
+   "unite": "UI/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 17.1,
+     "unite": "mg/dL"
+    }
+   ],
+   "fiche": "biomarqueur-foie-alat-ggt-fib4-fibroscan",
+   "id": "bilirubine",
+   "nom": "Bilirubine totale",
+   "unite": "µmol/L"
+  },
+  {
+   "fiche": "biomarqueur-foie-alat-ggt-fib4-fibroscan",
+   "id": "fib4",
+   "nom": "Score FIB-4",
+   "unite": "sans unité"
+  },
+  {
+   "fiche": "biomarqueur-foie-alat-ggt-fib4-fibroscan",
+   "id": "elastometrie",
+   "nom": "Élastométrie hépatique (VCTE)",
+   "unite": "kPa"
+  },
+  {
+   "fiche": "biomarqueur-frequence-cardiaque-repos-hrv",
+   "id": "fc-repos",
+   "nom": "Fréquence cardiaque de repos",
+   "unite": "bpm"
+  },
+  {
+   "fiche": "biomarqueur-frequence-cardiaque-repos-hrv",
+   "id": "sdnn",
+   "nom": "Variabilité cardiaque (SDNN)",
+   "unite": "ms"
+  },
+  {
+   "fiche": "biomarqueur-frequence-cardiaque-repos-hrv",
+   "id": "rmssd",
+   "nom": "Variabilité cardiaque (RMSSD)",
+   "unite": "ms"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 0.1802,
+     "unite": "mmol/L"
+    },
+    {
+     "facteur": 0.01,
+     "unite": "mg/dL"
+    }
+   ],
+   "fiche": "biomarqueur-glycemie-a-jeun-hgpo",
+   "id": "glycemie-jeun",
+   "nom": "Glycémie à jeun",
+   "unite": "g/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 0.1802,
+     "unite": "mmol/L"
+    },
+    {
+     "facteur": 0.01,
+     "unite": "mg/dL"
+    }
+   ],
+   "fiche": "biomarqueur-glycemie-a-jeun-hgpo",
+   "id": "glycemie-hgpo-2h",
+   "nom": "Glycémie à 2 h d'une HGPO 75 g",
+   "unite": "g/L"
+  },
+  {
+   "conversions": [
+    {
+     "decalage": 2.15,
+     "facteur": 0.0915,
+     "unite": "mmol/mol"
+    }
+   ],
+   "fiche": "biomarqueur-hba1c",
+   "id": "hba1c",
+   "nom": "HbA1c",
+   "note": "mmol/mol → % : équation maîtresse IFCC → NGSP (% = 0,0915 × mmol/mol + 2,15).",
+   "unite": "%"
+  },
+  {
+   "fiche": "biomarqueur-homocysteine",
+   "id": "homocysteine",
+   "nom": "Homocystéine",
+   "unite": "µmol/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 7.649,
+     "unite": "nmol/L"
+    }
+   ],
+   "fiche": "biomarqueur-igf1-dhea-s",
+   "id": "igf1",
+   "nom": "IGF-1",
+   "unite": "ng/mL"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 0.02714,
+     "unite": "µg/dL"
+    }
+   ],
+   "fiche": "biomarqueur-igf1-dhea-s",
+   "id": "dhea-s",
+   "nom": "DHEA-S",
+   "unite": "µmol/L"
+  },
+  {
+   "fiche": "biomarqueur-il6-interleukine-6",
+   "id": "il6",
+   "nom": "Interleukine-6",
+   "unite": "pg/mL"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 0.1667,
+     "unite": "pmol/L"
+    }
+   ],
+   "fiche": "biomarqueur-insuline-homa-ir-cgm",
+   "id": "insuline",
+   "nom": "Insuline à jeun",
+   "unite": "µUI/mL"
+  },
+  {
+   "fiche": "biomarqueur-insuline-homa-ir-cgm",
+   "id": "homa-ir",
+   "nom": "HOMA-IR",
+   "unite": "sans unité"
+  },
+  {
+   "fiche": "biomarqueur-ionogramme-calcium-magnesium",
+   "id": "sodium",
+   "nom": "Sodium",
+   "unite": "mmol/L"
+  },
+  {
+   "fiche": "biomarqueur-ionogramme-calcium-magnesium",
+   "id": "potassium",
+   "nom": "Potassium",
+   "unite": "mmol/L"
+  },
+  {
+   "fiche": "biomarqueur-ionogramme-calcium-magnesium",
+   "id": "chlore",
+   "nom": "Chlore",
+   "unite": "mmol/L"
+  },
+  {
+   "fiche": "biomarqueur-ionogramme-calcium-magnesium",
+   "id": "bicarbonates",
+   "nom": "Bicarbonates",
+   "unite": "mmol/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 0.2495,
+     "unite": "mg/dL"
+    }
+   ],
+   "fiche": "biomarqueur-ionogramme-calcium-magnesium",
+   "id": "calcium",
+   "nom": "Calcium total",
+   "unite": "mmol/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 0.4114,
+     "unite": "mg/dL"
+    }
+   ],
+   "fiche": "biomarqueur-ionogramme-calcium-magnesium",
+   "id": "magnesium",
+   "nom": "Magnésium",
+   "unite": "mmol/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 0.3867,
+     "unite": "mmol/L"
+    },
+    {
+     "facteur": 0.01,
+     "unite": "mg/dL"
+    }
+   ],
+   "fiche": "biomarqueur-ldl-cholesterol-total-hdl",
+   "id": "ldl-c",
+   "nom": "LDL-cholestérol",
+   "unite": "g/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 0.3867,
+     "unite": "mmol/L"
+    },
+    {
+     "facteur": 0.01,
+     "unite": "mg/dL"
+    }
+   ],
+   "fiche": "biomarqueur-ldl-cholesterol-total-hdl",
+   "id": "hdl-c",
+   "nom": "HDL-cholestérol",
+   "unite": "g/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 0.3867,
+     "unite": "mmol/L"
+    },
+    {
+     "facteur": 0.01,
+     "unite": "mg/dL"
+    }
+   ],
+   "fiche": "biomarqueur-ldl-cholesterol-total-hdl",
+   "id": "cholesterol-total",
+   "nom": "Cholestérol total",
+   "unite": "g/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 0.8857,
+     "unite": "mmol/L"
+    },
+    {
+     "facteur": 0.01,
+     "unite": "mg/dL"
+    }
+   ],
+   "fiche": "biomarqueur-triglycerides-non-hdl-remnants",
+   "id": "triglycerides",
+   "nom": "Triglycérides",
+   "unite": "g/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 0.3867,
+     "unite": "mmol/L"
+    },
+    {
+     "facteur": 0.01,
+     "unite": "mg/dL"
+    }
+   ],
+   "fiche": "biomarqueur-triglycerides-non-hdl-remnants",
+   "id": "non-hdl-c",
+   "nom": "Cholestérol non-HDL",
+   "unite": "g/L"
+  },
+  {
+   "fiche": "biomarqueur-lipoproteine-a",
+   "id": "lpa",
+   "nom": "Lipoprotéine(a)",
+   "note": "Pas de conversion fiable mg/dL ↔ nmol/L (dépend de la taille de l'isoforme) : le moteur refuse la conversion.",
+   "unite": "nmol/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 10,
+     "unite": "g/dL"
+    }
+   ],
+   "fiche": "biomarqueur-nfs-hemoglobine-anemie",
+   "id": "hemoglobine",
+   "nom": "Hémoglobine",
+   "unite": "g/L"
+  },
+  {
+   "fiche": "biomarqueur-nfs-hemoglobine-anemie",
+   "id": "vgm",
+   "nom": "Volume globulaire moyen (VGM)",
+   "unite": "fL"
+  },
+  {
+   "fiche": "biomarqueur-nfs-hemoglobine-anemie",
+   "id": "neutrophiles",
+   "nom": "Polynucléaires neutrophiles",
+   "unite": "G/L"
+  },
+  {
+   "fiche": "biomarqueur-nfs-hemoglobine-anemie",
+   "id": "plaquettes",
+   "nom": "Plaquettes",
+   "unite": "G/L"
+  },
+  {
+   "fiche": "biomarqueur-nfs-hemoglobine-anemie",
+   "id": "leucocytes",
+   "nom": "Leucocytes totaux",
+   "unite": "G/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 1,
+     "unite": "pg/mL"
+    }
+   ],
+   "fiche": "biomarqueur-nt-probnp-troponine",
+   "id": "nt-probnp",
+   "nom": "NT-proBNP",
+   "unite": "ng/L"
+  },
+  {
+   "fiche": "biomarqueur-nt-probnp-troponine",
+   "id": "troponine-us",
+   "nom": "Troponine ultra-sensible",
+   "unite": "ng/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 10,
+     "unite": "mg/dL"
+    }
+   ],
+   "fiche": "biomarqueur-crp-hscrp",
+   "id": "crp-us",
+   "nom": "CRP ultra-sensible (hs-CRP)",
+   "unite": "mg/L"
+  },
+  {
+   "fiche": "biomarqueur-poids-imc-tour-de-taille",
+   "id": "imc",
+   "nom": "Indice de masse corporelle (IMC)",
+   "unite": "kg/m²"
+  },
+  {
+   "fiche": "biomarqueur-poids-imc-tour-de-taille",
+   "id": "tour-de-taille",
+   "nom": "Tour de taille",
+   "unite": "cm"
+  },
+  {
+   "fiche": "biomarqueur-poids-imc-tour-de-taille",
+   "id": "whtr",
+   "nom": "Rapport tour de taille / taille (WHtR)",
+   "unite": "sans unité"
+  },
+  {
+   "fiche": "biomarqueur-poids-imc-tour-de-taille",
+   "id": "rapport-taille-hanches",
+   "nom": "Rapport tour de taille / hanches",
+   "unite": "sans unité"
+  },
+  {
+   "fiche": "biomarqueur-psa",
+   "id": "psa",
+   "nom": "PSA total",
+   "unite": "ng/mL"
+  },
+  {
+   "fiche": "biomarqueur-psa",
+   "id": "psa-densite",
+   "nom": "Densité de PSA",
+   "unite": "ng/mL/mL"
+  },
+  {
+   "fiche": "biomarqueur-reins-creatinine-cystatine-albuminurie",
+   "id": "egfr",
+   "nom": "Débit de filtration glomérulaire estimé (eGFR)",
+   "unite": "mL/min/1,73 m²"
+  },
+  {
+   "fiche": "biomarqueur-reins-creatinine-cystatine-albuminurie",
+   "id": "rac",
+   "nom": "Rapport albumine/créatinine urinaire (RAC)",
+   "unite": "mg/g"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 88.4,
+     "unite": "mg/dL"
+    }
+   ],
+   "fiche": "biomarqueur-reins-creatinine-cystatine-albuminurie",
+   "id": "creatinine",
+   "nom": "Créatinine sérique",
+   "unite": "µmol/L"
+  },
+  {
+   "fiche": "biomarqueur-reins-creatinine-cystatine-albuminurie",
+   "id": "cystatine-c",
+   "nom": "Cystatine C",
+   "unite": "mg/L"
+  },
+  {
+   "fiche": "biomarqueur-rdw-hemogramme",
+   "id": "rdw",
+   "nom": "RDW",
+   "unite": "%"
+  },
+  {
+   "fiche": "biomarqueur-tension-arterielle",
+   "forme": "paire",
+   "id": "pa-cabinet",
+   "nom": "Pression artérielle au cabinet",
+   "unite": "mmHg"
+  },
+  {
+   "fiche": "biomarqueur-tension-arterielle",
+   "forme": "paire",
+   "id": "pa-domicile",
+   "nom": "Pression artérielle à domicile (automesure)",
+   "unite": "mmHg"
+  },
+  {
+   "fiche": "biomarqueur-tension-arterielle",
+   "forme": "paire",
+   "id": "mapa-24h",
+   "nom": "MAPA, moyenne de 24 h",
+   "unite": "mmHg"
+  },
+  {
+   "fiche": "biomarqueur-tension-arterielle",
+   "forme": "paire",
+   "id": "mapa-jour",
+   "nom": "MAPA, moyenne de jour",
+   "unite": "mmHg"
+  },
+  {
+   "fiche": "biomarqueur-tension-arterielle",
+   "forme": "paire",
+   "id": "mapa-nuit",
+   "nom": "MAPA, moyenne de nuit",
+   "unite": "mmHg"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 0.03467,
+     "unite": "ng/dL"
+    }
+   ],
+   "fiche": "biomarqueur-testosterone-shbg",
+   "id": "testosterone",
+   "nom": "Testostérone totale",
+   "unite": "nmol/L"
+  },
+  {
+   "fiche": "biomarqueur-testosterone-shbg",
+   "id": "shbg",
+   "nom": "SHBG",
+   "unite": "nmol/L"
+  },
+  {
+   "fiche": "biomarqueur-thyroide-tsh-t4-anti-tpo",
+   "id": "tsh",
+   "nom": "TSH",
+   "unite": "mUI/L"
+  },
+  {
+   "fiche": "biomarqueur-thyroide-tsh-t4-anti-tpo",
+   "id": "t4-libre",
+   "nom": "T4 libre",
+   "unite": "pmol/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 0.7378,
+     "unite": "pg/mL"
+    }
+   ],
+   "fiche": "biomarqueur-vitamine-b12-folates",
+   "id": "b12",
+   "nom": "Vitamine B12 sérique",
+   "unite": "pmol/L"
+  },
+  {
+   "fiche": "biomarqueur-vitamine-b12-folates",
+   "id": "holotranscobalamine",
+   "nom": "Holotranscobalamine",
+   "unite": "pmol/L"
+  },
+  {
+   "fiche": "biomarqueur-vitamine-b12-folates",
+   "id": "acide-methylmalonique",
+   "nom": "Acide méthylmalonique",
+   "unite": "nmol/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 2.266,
+     "unite": "ng/mL"
+    }
+   ],
+   "fiche": "biomarqueur-vitamine-b12-folates",
+   "id": "folates",
+   "nom": "Folates sériques",
+   "unite": "nmol/L"
+  },
+  {
+   "conversions": [
+    {
+     "facteur": 2.496,
+     "unite": "ng/mL"
+    }
+   ],
+   "fiche": "biomarqueur-vitamine-d-25-oh",
+   "id": "vitamine-d-25-oh",
+   "nom": "Vitamine D (25-OH-D)",
+   "unite": "nmol/L"
+  },
+  {
+   "fiche": "vo2max-et-aptitude-cardio-respiratoire",
+   "id": "vo2max",
+   "nom": "VO2max",
+   "unite": "ml/kg/min"
+  },
+  {
+   "fiche": "biomarqueurs-inflammation-ratio-neutrophiles-lymphocytes-nlr",
+   "id": "nlr",
+   "nom": "Ratio neutrophiles/lymphocytes (NLR)",
+   "unite": "sans unité"
+  }
+ ],
+ "schema_version": 1
+}

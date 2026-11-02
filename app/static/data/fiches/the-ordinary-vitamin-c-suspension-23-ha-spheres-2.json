@@ -1,0 +1,66 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "cosmetique",
+ "id": "the-ordinary-vitamin-c-suspension-23-ha-spheres-2",
+ "intro": "",
+ "liens": [
+  "geek-gorgeous-c-glow",
+  "niacinamide",
+  "vitamine-c"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "37128827",
+  "11207686",
+  "18603326"
+ ],
+ "preuve_globale": "B",
+ "resume": "Acide L-ascorbique à 23 % pour moins de 10 € les 30 ml, mais en suspension anhydre dans l'huile : les données de pénétration (pH < 3,5, plateau à 20 %) concernent des solutions aqueuses, donc on ignore si cette formule délivre bien la vitamine C ; le sérum aqueux Geek & Gorgeous C-Glow reste mieu…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Acide L-ascorbique à 23 % pour moins de 10 € les 30 ml, mais en suspension anhydre dans l'huile : les données de pénétration (pH < 3,5, plateau à 20 %) concernent des solutions aqueuses, donc on ignore si cette formule délivre bien la vitamine C ; le sérum aqueux [Geek & Gorgeous C-Glow](fiche:geek-gorgeous-c-glow) reste mieux étayé à prix voisin.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- INCI (Redcare Pharmacie et Pharmacie Cayeux, consultés le 2026-10-06) : Ascorbic Acid, Squalane, Isodecyl Neopentanoate, Isononyl Isononanoate, Coconut Alkanes, Ethylene/Propylene/Styrene Copolymer, Ethylhexyl Palmitate, Silica Dimethyl Silylate, Sodium Hyaluronate, Glucomannan, Coco-Caprylate/Caprate, Butylene/Ethylene/Styrene Copolymer, Acrylates/Ethylhexyl Acrylate Crosspolymer, Trihydroxystearin, BHT. Sans eau, sans conservateur ajouté ; BHT comme antioxydant.\n- Acide ascorbique 23 % (déclaré par la marque) : essais cliniques sur d'autres formules aqueuses de 5 à 15 % : peau plus lisse, rides fines moindres [B] (revue systématique de 7 publications, 139 volontaires : Correia 2023, PMID 37128827) ; la revue note que la concentration idéale reste inconnue.\n- Pénétration (peau de porc, formules aqueuses) : l'acide L-ascorbique n'entre dans la peau qu'à pH < 3,5, optimum à 20 % (Pinnell 2001, PMID 11207686) [C]. Une suspension sans eau n'a pas de pH : l'extrapolation de cette étude à ce produit n'est pas permise [?]. Aucune étude trouvée sur cette formule ni sur les suspensions anhydres [?].\n- Photoprotection : démontrée chez l'humain pour la formule 15 % acide L-ascorbique + 1 % α-tocophérol + 0,5 % acide férulique (Murray 2008, PMID 18603326) [B], pas pour ce produit (sans vitamine E ni férulique) [?]. Détail : [vitamine C](fiche:vitamine-c).",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Cosmétique (règlement (CE) n° 1223/2009) ; l'acide ascorbique ne figure pas dans les restrictions des règlements 2022/1176 et 2024/996 (EUR-Lex, consulté le 2026-10-03, voir [vitamine C](fiche:vitamine-c)) ; statut CosIng non consulté [?]. AMA : sans objet.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- « 23 % d'acide L-ascorbique pur, formule stable car sans eau » : concentration déclarée ; stabilité en flacon plausible sans eau mais aucune donnée publiée consultée [M].\n- « Éclat, teint uniforme, signes de l'âge » : éclaircissement par la vitamine C documenté sur d'autres formules [B] (PMID 37128827) ; pas de preuve pour cette suspension [?].\n- **Contradiction avec les autres fiches** : la marque déconseille de l'associer à niacinamide, rétinoïdes, peptides et acides directs (page marque, consultée le 2026-10-06) ; cette incompatibilité est une consigne de formulation de la marque, non étayée par un essai clinique [M] (voir [niacinamide](fiche:niacinamide)).\n- Plus de vitamine C n'est pas mieux : au-delà de 20 %, pas de gain de pénétration en solution aqueuse [C] (PMID 11207686).",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Petite quantité sur peau propre, une fois par jour, de préférence le soir selon la marque ; picotements possibles ; test préalable ; éviter le contour des yeux ; protection solaire le jour (The Ordinary, Redcare, consultés le 2026-10-06). Les autres fiches de ce dépôt placent la vitamine C le matin sous l'écran, par convention, non démontrée [?]. Texture légèrement granuleuse (poudre en suspension) : normale selon la marque.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix relevés (30 ml) : 9,79 € (Redcare Pharmacie), 9,90 € (Pharmacie Cayeux, promotion, 11,50 € hors promotion) ; 8,90 à 9,30 € annoncés par des résultats de recherche pour Notino, LookFantastic, Marionnaud, non lus (relevés du 2026-10-06).\n- Durée d'un tube non indiquée ; usage quotidien d'une petite quantité, estimation personnelle 2 à 3 mois → environ 3 à 5 €/mois. Durée après ouverture non trouvée [?].\n- Alternative à preuve supérieure : [Geek & Gorgeous C-Glow](fiche:geek-gorgeous-c-glow) (15 % en solution acide pH 3–3,4, avec vitamine E et férulique, ≈ 4-5 €/mois) : même trio d'actifs que la formule testée sur l'humain.",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Picotements annoncés par la marque elle-même ; texture huileuse et granuleuse. Pas d'avis consommateurs systématisés [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Composition, prix, consignes : [Redcare Pharmacie](https://www.redcare-pharmacie.fr/beaute/BE04657987/the-ordinary-suspension-de-vitamine-c-23-spheres-de-ha-2.htm), [Pharmacie Cayeux](https://www.pharmacie-cayeux.fr/produit/vitamin-c-suspension-23-ha-spheres-2-30ml), [The Ordinary](https://theordinary.com/en-us/vitamin-c-suspension-23-ha-spheres-2-vitamin-c-100451.html) (consultés le 2026-10-06) ; Sephora France illisible (HTTP 403)\n- Correia G, Magina S, J Cosmet Dermatol 2023 — PMID 37128827 — [DOI](https://doi.org/10.1111/jocd.15748)\n- Pinnell SR et al., Dermatol Surg 2001 — PMID 11207686 — [DOI](https://doi.org/10.1046/j.1524-4725.2001.00264.x)\n- Murray JC et al., J Am Acad Dermatol 2008 — PMID 18603326 — [DOI](https://doi.org/10.1016/j.jaad.2008.05.004)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "The Ordinary Vitamin C Suspension 23% + HA Spheres 2% (30 ml)",
+ "type": "produit",
+ "unite": ""
+}

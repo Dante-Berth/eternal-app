@@ -1,0 +1,96 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "",
+ "id": "alopecie-androgenetique",
+ "intro": "",
+ "liens": [
+  "dutasteride",
+  "exosomes-et-mesotherapie",
+  "finasteride",
+  "greffe-capillaire",
+  "laser-basse-intensite",
+  "melatonine",
+  "minoxidil",
+  "minoxidil-oral",
+  "mode-de-vie-et-cheveux",
+  "protocole-debutant-cheveux",
+  "prp"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 17,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "40986632",
+  "41714473",
+  "41367323",
+  "42396141",
+  "42512824",
+  "41041440",
+  "42168420",
+  "41051009",
+  "42339398",
+  "40826200",
+  "40944844",
+  "42190753",
+  "42057730",
+  "41561175",
+  "42377704",
+  "23437345",
+  "29267793"
+ ],
+ "preuve_globale": "A",
+ "resume": "Maladie progressive : sans traitement d'entretien, le gain disparaît à l'arrêt [?] (non vérifié ici, cohérent avec la nature chronique ; à sourcer).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Maladie progressive : sans traitement d'entretien, le gain disparaît à l'arrêt [?] (non vérifié ici, cohérent avec la nature chronique ; à sourcer).\n- Meilleur rapport preuve/praticité : minoxidil topique 5 % [A] ; chez l'homme, + finastéride [A] (classement SUCRA, prudence).\n- Un consensus d'experts canadien (Delphi, 11 médecins) recommande dutastéride oral, finastéride oral et topique, minoxidil topique et oral, PRP et microneedling (PMID 40986632). C'est une recommandation d'experts, pas un niveau de preuve.\n- Les compléments alimentaires et « actifs naturels » ont des preuves faibles à hétérogènes [A, faible qualité].\n- Les classements en réseau reposent sur peu d'essais : ce sont des hypothèses, pas des certitudes.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Les androgènes, via la DHT (issue de la testostérone par la 5α-réductase), miniaturisent progressivement le follicule en raccourcissant la phase anagène (PMID 41714473, 41367323). L'efficacité des inhibiteurs de la 5α-réductase en essais randomisés appuie ce mécanisme [A] (PMID 42396141 ; voir [finastéride](fiche:finasteride), [dutastéride](fiche:dutasteride)).\n- Les autres voies (inflammation, microenvironnement folliculaire) sont des arguments marketing fréquents, preuve variable selon l'actif.",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| [Minoxidil topique 5 %](fiche:minoxidil) | Vasodilatateur/prolongation anagène (mécanisme exact incertain) | [A] classé 1er des monothérapies comparées chez l'homme (densité à 6 mois, 23 études ; PMID 42512824) | Dépend de la formulation (non vérifié) | à vérifier |\n| Minoxidil + finastéride | Association | [A] meilleure association dans le sous-groupe hommes d'une NMA (SUCRA 80 % ; PMID 41041440) | Médicaments | à vérifier |\n| Minoxidil + spironolactone / flutamide | Antiandrogènes systémiques | [A, peu d'études] classés en tête pour l'efficacité globale, mais **aucune différence significative de densité** entre les traitements du réseau (PMID 42168420) | Hors AMM | — |\n| [Finastéride](fiche:finasteride) oral 1 mg | Inhibiteur 5α-réductase II | [A] efficacité confirmée en NMA (PMID 41051009) | Sur ordonnance | à vérifier |\n| [Dutastéride](fiche:dutasteride) oral | Inhibiteur 5α-réductase I+II | [A] efficacité confirmée en NMA (PMID 41051009) ; en nombre de cheveux, classé derrière PRP + facteurs de croissance ± minoxidil (PMID 42168420) | Hors AMM pour l'AGA (non vérifié) | — |\n| Dutastéride intralésionnel | Local | [B] revue systématique : densité et épaisseur améliorées, mais études hétérogènes, sans grand essai de qualité (PMID 41367323) | Non autorisé (non vérifié) | — |\n| Minoxidil oral faible dose | Systémique | [A] efficacité confirmée en NMA chez l'homme (PMID 41051009) ; recommandé par le consensus canadien (PMID 40986632) | Hors AMM | — |\n| [LLLT (laser basse intensité)](fiche:laser-basse-intensite) | Photobiomodulation | [A] +18,56 poils/cm² et +10,62 µm vs appareil factice (PMID 42339398) ; ajouté au minoxidil : +6,62 (7 ECR, PMID 40826200) à +11,75 poils/cm² (PMID 42339398) vs minoxidil seul | Dispositif médical/cosmétique | variable |\n| Lasers fractionnés (± minoxidil/PRP) | Microlésions | [A, prudence] +102 poils/cm² en monothérapie selon une méta-analyse de 37 études : effet inhabituellement grand, designs non détaillés dans le résumé (PMID 42339398) | Actes médicaux | — |\n| [PRP](fiche:prp) | Facteurs de croissance autologues | [A] 43 ECR, 1877 participants : densité ↑ (PRP activé), pas d'effet significatif sur l'épaisseur ; le PRP non activé donne plus d'effets indésirables (PMID 40944844) | Acte médical | — |\n| Microneedling + minoxidil | Microperforation | [B, contradictoire] ECR ouvert monocentrique de 245 femmes : aucun bénéfice ajouté au minoxidil 2 % à 24 sem. (PMID 42190753), alors qu'une NMA classait l'association 1re chez la femme (SUCRA 87 %, PMID 41041440) | Dispositif | — |\n| Polyphénols (oral/topique) | Antioxydants, anti-inflammatoires | [A, forte hétérogénéité] 32 ECR, 2183 participants, toutes alopécies non cicatricielles (pas seulement l'AGA) : densité SMD 0,90 ; pas de différence vs minoxidil en nombre de cheveux (PMID 42057730) | Compléments/cosmétiques | — |\n| Compléments alimentaires (réseau) | Variés | [A, essais petits et hétérogènes] NMA de 19 ECR (1658 patients), 16 compléments : Nutrafol, extrait de pomme, tocotriénols, huile de pépins de courge et MK-R7 améliorent la densité vs placebo ; certitude GRADE non donnée dans le résumé ; « essais de qualité nécessaires » (PMID 41561175) | Compléments | — |\n| [Mélatonine](fiche:melatonine), DAP 1 %, procyanidine 1 %, palmier nain, cétirizine 1 % (topiques) | Divers | [B] « bénéfice clinique potentiel » selon une NMA chez l'homme, à confirmer par des essais comparatifs (PMID 42512824) | Cosmétiques / non autorisés | — |\n\nPrix et statuts non vérifiés : à compléter via sources officielles (ANSM, base publique des médicaments).",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Pas de protocole détaillé de dosage ici. Orientation :\n- **Débutant** : minoxidil topique + shampooing kétoconazole [?] (preuve non vérifiée dans cette session ; le consensus canadien le place « quasi-consensus »).\n- **Intermédiaire** : consultation dermato pour ajouter un 5-ARI (hommes) ; LLLT en complément [A].\n- **Avancé** : discussion médicale sur dutastéride, [minoxidil oral](fiche:minoxidil-oral), [PRP](fiche:prp), [greffe](fiche:greffe-capillaire). Voir [protocole-debutant](fiche:protocole-debutant-cheveux).",
+   "titre": "Protocoles"
+  },
+  {
+   "markdown": "- Arrêter à 2-3 mois : les mesures des études sont à ≥ 6 mois [A].\n- Empiler des produits cosmétiques sans actif prouvé.\n- Acheter sur le marché gris des molécules injectables ou « exosomes » : voir Mythes.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **Microneedling « booste » le minoxidil** : un RCT récent (245 femmes) ne trouve aucun gain additionnel à 24 semaines [B].\n- **PRP épaissit le cheveu** : la méta-analyse trouve un effet sur la densité, pas sur l'épaisseur [A].\n- **Exosomes** (voir [exosomes et mésothérapie](fiche:exosomes-et-mesotherapie)) : revue systématique de 39 études (2019-2025) : mécanismes démontrés surtout en préclinique [C] ; études cliniques précoces rapportant +8 à 20 % de densité, mais petits effectifs, designs rétrospectifs, sans groupe témoin [B] ; fabrication non standardisée et cadre réglementaire manquant selon les auteurs (PMID 42377704).\n- **Caféine, huile de romarin, céramides, formules à base de plantes, shampooings et lotions « anti-chute »** : classés « non recommandés » par le consensus canadien (PMID 40986632). Divergence à connaître : ce consensus rejette aussi la cétirizine topique, qu'une NMA classe parmi les options à bénéfice potentiel (PMID 42512824).\n- **Gingembre « anti-chute »** : des shampooings au gingembre sont vendus « anti-chute » sans preuve. Le 6-gingérol, principal composé du gingembre, freine l'allongement de la tige sur follicules humains en culture [D] et la pousse du poil chez la souris [C] (PMID 23437345, 29267793). Aucun essai humain : cela ne prouve pas qu'un shampooing fasse tomber les cheveux, mais l'allégation inverse n'a aucune base.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Effets sexuels du finastéride 1 mg en RCT : 1,9–6,7 % vs 0,9–3,9 % sous placebo, surtout réversibles à l'arrêt ; le finastéride topique 0,25 % en provoque moins (2,8 % contre 4,8 % sous oral) [B, nombre d'essais sur le topique non précisé dans le résumé]. Dutastéride 0,5 mg : 4,1 à 12,0 % contre 4,0 à 5,0 % sous placebo (revue systématique, PMID 42396141).\n- Les mesures de « densité » et de « nombre de cheveux » ne donnent pas les mêmes classements : dans une NMA, aucune différence de densité entre traitements, mais des rangs différents en nombre de cheveux [A] (PMID 42168420).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Voir [mode-de-vie-et-cheveux.md](fiche:mode-de-vie-et-cheveux) : aucune preuve forte hair-spécifique.",
+   "titre": "Sport, sommeil, quotidien"
+  },
+  {
+   "markdown": "Perte rapide ou diffuse, plaques, démangeaisons/inflammation, cheveux perdus chez une femme avec signes d'hyperandrogénie, ou avant tout traitement systémique.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 42168420 — Bai Y. et al., *Aesthetic Plast Surg*, NMA combinaisons minoxidil (27 articles, n=3012). doi:10.1007/s00266-026-05872-6\n- PMID 41041440 — Xia Y. et al., *Front Med*, NMA minoxidil combiné. doi:10.3389/fmed.2025.1638496\n- PMID 42512824 — Gupta A.K. et al., *Medicina*, NMA off-label hommes. doi:10.3390/medicina62071282\n- PMID 42396141 — Złotowska A. et al., *Front Med*, dysfonction sexuelle 5-ARI. doi:10.3389/fmed.2026.1787706\n- PMID 40986632 — Landells I. et al., *J Cutan Med Surg*, consensus canadien. doi:10.1177/12034754251368849\n- PMID 40944844 — Anitua E. et al., *Dermatol Ther*, PRP. doi:10.1007/s13555-025-01542-8\n- PMID 42339398 — Alahmadi M. et al., *Skin Appendage Disord*, lasers/EBD. doi:10.1159/000551411\n- PMID 40826200 — Mawu F.O. et al., *Lasers Med Sci*, LLLT + minoxidil. doi:10.1007/s10103-025-04593-7\n- PMID 42190753 — Liu Y. et al., *JAAD*, microneedling + minoxidil 2 %. doi:10.1016/j.jaad.2026.03.123\n- PMID 42057730 — El Ammari C. et al., *J Dermatolog Treat*, polyphénols. doi:10.1080/09546634.2026.2654112\n- PMID 41367323 — Almeziny A. et al., *J Cosmet Dermatol*, dutastéride intralésionnel. doi:10.1111/jocd.70560\n- PMID 41561175 — Zhou L. et al., *Front Nutr*, compléments (NMA). doi:10.3389/fnut.2025.1719711\n- PMID 41051009 — Gupta A.K. et al., *J Cosmet Dermatol* 2025, NMA monothérapies classiques vs produits sans ordonnance (homme). doi:10.1111/jocd.70483\n- PMID 41714473 — Kearney et al., *Am J Clin Dermatol* 2026, revue narrative AGA féminine (physiopathologie). doi:10.1007/s40257-026-01009-2\n- PMID 42377704 — Malih et al., *Mol Biol Rep* 2026, exosomes (revue systématique). doi:10.1007/s11033-026-12255-2\n- PMID 23437345 — Miao Y. et al., *PLoS One* 2013, 6-gingérol (follicules humains en culture, souris). doi:10.1371/journal.pone.0057226\n- PMID 29267793 — Hou C. et al., *An Acad Bras Cienc* 2017, 6-gingérol (souris). doi:10.1590/0001-3765201720170354",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Alopécie androgénétique",
+ "type": "condition",
+ "unite": ""
+}

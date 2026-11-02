@@ -1,0 +1,66 @@
+{
+ "cibles": [
+  "peau",
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "complement",
+ "id": "collagene-peptan-nutrimuscle",
+ "intro": "",
+ "liens": [
+  "retinoides",
+  "whey-native-nutrimuscle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "40324552",
+  "26362110",
+  "29018060"
+ ],
+ "preuve_globale": "A",
+ "resume": "Un peptide de marque réellement testé (Peptan), pur et bon marché au kilo, mais pour une peau dont le bénéfice disparaît dans les essais indépendants : achat optionnel, pas prioritaire.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Un peptide de marque réellement testé (Peptan), pur et bon marché au kilo, mais pour une peau dont le bénéfice disparaît dans les essais indépendants : achat optionnel, pas prioritaire.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur déclarée | Preuve |\n|---|---|---|\n| Hydrolysat de collagène bovin de type I, Peptan ~2 000 Da (peau de bœuf d'Europe, Rousselot) | 10 g par jour conseillés ; > 90 % de protéines | Peau : [A, contradictoire], effet nul dans les essais non industriels (PMID 40324552) ; essais Peptan cosignés par Rousselot [B] (PMID 26362110). Articulations : [A, faible certitude] (PMID 29018060) |\n\nComposition, origine et dose : nutrimuscle.com, consulté le 2026-10-03. Fabrication à Angoulême et contrôle « Sport Protect » déclarés par la marque. Version neutre sans additif ; versions aromatisées non analysées ici.",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Complément alimentaire. Aucune allégation de santé autorisée dans l'UE pour le collagène (allégations articulaires refusées : registre UE des allégations, consulté le 2026-10-03). Les mentions « santé osseuse, articulaire et tendineuse » affichées par la marque (nutrimuscle.com, consulté le 2026-10-03) ne correspondent à aucune allégation autorisée pour le collagène.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque dit | Les études |\n|---|---|\n| Santé articulaire et tendineuse | [A, faible certitude] douleur d'arthrose à court terme seulement (PMID 29018060) ; allégation refusée dans l'UE |\n| Santé osseuse | Non évalué dans les sources lues [?] |\n| Récupération fonctionnelle | [?] aucune donnée lue sur ce point pour le collagène |\n| (Peau, souvent mise en avant pour le collagène) | [A, contradictoire] (PMID 40324552) |",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "10 g/j dans une boisson ou un aliment selon la marque (nutrimuscle.com) ; 5 à 10 g/j selon un revendeur, qui le déconseille aux enfants, adolescents et femmes enceintes ou allaitantes (fitnessboutique.fr, consultés le 2026-10-03). Allergie : origine bovine.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Nutrimuscle : 500 g à 36,95 €, 1,2 kg à 59,95 € ; FitnessBoutique : 500 g à 38,95 € (en magasin) (consultés le 2026-10-03).\n- À 10 g/j (300 g/mois) : **15 €/mois** (format 1,2 kg) à **23 €/mois** (500 g).\n- Alternative : à 5 g/j, le coût est divisé par deux, sans preuve que 10 g fassent mieux que 5 g pour la peau [?]. Pour le muscle, une protéine complète comme la [whey](fiche:whey-native-nutrimuscle) a une meilleure preuve par euro. Pour la peau, la protection solaire et les rétinoïdes topiques sont mieux étayés : voir [rétinoïdes](fiche:retinoides).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non relevés de façon systématique [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 40324552 — Myung SK, Park Y, *Am J Med* 2025. doi:10.1016/j.amjmed.2025.04.034\n- PMID 26362110 — Asserin J et al., *J Cosmet Dermatol* 2015. doi:10.1111/jocd.12174\n- PMID 29018060 — Liu X et al., *Br J Sports Med* 2018. doi:10.1136/bjsports-2016-097333\n- Nutrimuscle, page « Collagène Peptides Peptan en poudre » (composition, dose, prix), consultée le 2026-10-03.\n- FitnessBoutique, page « Collagen Peptides Peptan Nutrimuscle 500 g » (prix, mentions), consultée le 2026-10-03.\n- Registre UE des allégations nutritionnelles et de santé (export officiel), consulté le 2026-10-03.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Collagène Peptides Peptan en poudre — Nutrimuscle",
+ "type": "produit",
+ "unite": ""
+}

@@ -1,0 +1,86 @@
+{
+ "cibles": [
+  "cerveau",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "choline",
+ "intro": "",
+ "liens": [
+  "alpha-gpc",
+  "citicoline",
+  "declin-cognitif-et-neurodegenerescence",
+  "omega-3",
+  "phosphatidylserine",
+  "vitamine-b12-et-folates"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 15,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "40077755",
+  "29217669",
+  "34962672",
+  "28686188",
+  "37502017",
+  "23134891",
+  "33978188",
+  "36678257",
+  "38966137",
+  "42125365",
+  "40838115",
+  "12502178",
+  "34287673",
+  "20301282",
+  "26447156"
+ ],
+ "preuve_globale": "B",
+ "resume": "Nutriment essentiel (membranes, acétylcholine, métabolisme des lipides et du foie). Les apports alimentaires dépassent rarement l'apport adéquat ; la carence vraie est rare hors grossesse, nutrition parentérale ou régimes très pauvres en œufs, viande et poisson.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Nutriment essentiel (membranes, acétylcholine, métabolisme des lipides et du foie). Les apports alimentaires dépassent rarement l'apport adéquat ; la carence vraie est rare hors grossesse, nutrition parentérale ou régimes très pauvres en œufs, viande et poisson.\n- Valeurs de référence EFSA (2016) : apport adéquat de 400 mg/j pour les adultes, 480 mg/j pour la grossesse et 520 mg/j pour l'allaitement (communiqué EFSA lu directement le 2026-10-14 ; enfants de 1 à 14 ans : 140 à 340 mg/j selon l'âge).\n- Grossesse : la revue systématique de 2025 conclut que les données de supplémentation sont insuffisantes pour confirmer ou infirmer un bénéfice neurodéveloppemental ; 4 ECR dont la plupart des critères sont nuls [B] (PMID 40077755). Deux petits essais d'alimentation contrôlée (n = 26 puis suivi de 20 enfants) rapportent un bénéfice à 930 mg/j vs 480 mg/j [B, ECR unique n=26] (PMID 29217669, 34962672).\n- Choline alimentaire et maladies cardiovasculaires : pas d'association (RR 1,00 ; IC 0,98-1,02) [A, observationnel] (PMID 28686188).\n- Les formes de marque (citicoline, alpha-GPC) ne sont pas de la choline « mieux absorbée » : leurs preuves se jugent séparément (voir [citicoline](fiche:citicoline), [alpha-GPC](fiche:alpha-gpc)).\n- À fortes doses : baisse de la tension et odeur de poisson (triméthylaminurie).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Précurseur de la phosphatidylcholine (membranes) et de l'acétylcholine ; donneur de groupes méthyle (bétaïne) pour l'homocystéine. L'organisme en synthétise un peu, de façon insuffisante : les études de déplétion-réplétion montrent qu'un apport bas provoque un dysfonctionnement hépatique et des lésions musculaires, corrigés par un apport alimentaire de choline (PMID 37502017) [B].\n- Un métabolite de la choline et de la bétaïne, le TMAO, a été impliqué dans les maladies cardiovasculaires ; la méta-analyse de cohortes ne trouve pas de lien entre l'apport alimentaire de choline et les événements (PMID 28686188).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Grossesse et neurodéveloppement de l'enfant | 4 ECR et 5 études observationnelles (20 publications) : la plupart des critères ne montrent pas de bénéfice ; limites majeures ; données « insuffisantes pour soutenir ou réfuter » l'hypothèse | [B, insuffisant] (PMID 40077755) |\n| Grossesse, alimentation contrôlée | 26 femmes (13 + 13), 930 vs 480 mg/j au 3e trimestre : temps de réaction des nourrissons plus rapide à 4-13 mois ; suivi à 7 ans (20 enfants) : meilleure attention soutenue | [B, ECR unique n=26] (PMID 29217669, 34962672) |\n| Grossesse, phosphatidylcholine 750 mg/j | 140 femmes dès la 18e semaine, apports alimentaires ~360 mg/j : aucune différence sur le développement des nourrissons à 10 et 12 mois | [B, ECR unique n=140] (PMID 23134891) |\n| Foie du fœtus et du nourrisson allaité | EFSA 2023 : relation de cause à effet établie entre l'apport en choline des femmes enceintes et allaitantes et la contribution à une fonction hépatique normale du fœtus et de l'enfant allaité ; requérant : Procter & Gamble BV ; aucune étude humaine n'a examiné cet effet précis, l'avis s'appuie sur les études de déplétion-réplétion | [B, avis d'autorité sur allégation] (PMID 37502017) |\n| Maladies cardiovasculaires | 6 études prospectives, 184 010 participants : pas d'association entre choline (RR 1,00) ou bétaïne (RR 0,99) alimentaires et événements CV ; mortalité CV : RR 1,09 (0,89-1,35), hétérogénéité 84 % | [A, observationnel] (PMID 28686188) |\n| Mémoire et cognition chez l'adulte | Pas d'ECR de choline simple retenu ici ; pour la citicoline (500 mg/j, 12 semaines, 100 adultes avec plainte mnésique) : mémoire épisodique améliorée sur un critère secondaire | [B, ECR unique n=100] (PMID 33978188) |\n| Citicoline et démence (méta-analyse) | 7 études, 6 incluses : effets positifs (SMD de 0,56 à 1,57) mais « qualité globale médiocre », biais en faveur de l'intervention | [A, qualité médiocre] (PMID 36678257) |\n| Citicoline et mémoire, allégation EFSA | Relation de cause à effet non établie (un seul ECR positif à 500 mg/j, non reproduit à 1 g/j) | [B, avis négatif] (PMID 38966137) |\n| Développement cérébral du jeune enfant | EFSA 2014 : effet revendiqué « non suffisamment défini pour évaluation scientifique » | [B, avis négatif] (PMID 42125365) |\n| Stéatose hépatique (NAFLD) | 79 patients, phosphatidylcholine 2 400 mg/j + soins courants vs soins courants seuls, 12 semaines, simple aveugle, sans placebo : paramètre d'atténuation contrôlé 304 vs 332 dB/m, fibrose 5,3 vs 6,8 kPa, ASAT/ALAT et triglycérides en baisse ; forme phosphatidylcholine, dose élevée, essai monocentrique | [B, ECR unique n=79, simple aveugle] (PMID 40838115) |\n| Performance physique | 13 hommes, 50 mg/kg de choline, crossover après effort exhaustif : aucun effet sur les performances physiques ou cognitives | [B, ECR croisé n=13] (PMID 12502178) |\n| Perte de poids | Aucun essai de choline retrouvé (PubMed, 2026-10-14) | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Grossesse : 480 mg/j (contrôle) vs 930 mg/j (intervention), alimentation contrôlée (PMID 29217669) ; phosphatidylcholine 750 mg/j (PMID 23134891).\n- Compléments : bitartrate de choline, chlorure de choline, alpha-GPC, citicoline, lécithine ; les teneurs en choline élémentaire varient d'une forme à l'autre et ne figurent pas dans les essais lus [?]. Chez 6 volontaires, 550 mg de choline sous forme de chlorure, bitartrate, alpha-GPC ou phosphatidylcholine d'œuf donnent la même hausse de choline plasmatique ; les formes hydrosolubles font monter rapidement le TMAO, pas la phosphatidylcholine d'œuf (PMID 34287673) [B, crossover n=6].\n- Aliments : œufs, foie, viande, poisson, soja, crucifères et noix sont les contributeurs usuels ; teneurs chiffrées par aliment : non relevées dans cette fiche [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Complément alimentaire ou ingrédient d'aliments ; aucune spécialité française à base de choline simple dans la BDPM (le fichier de composition ne contient que des esters de choline à usage hospitalier : méthacholine, fluorocholine, acétylcholine, salicylate de choline ; consulté le 2026-10-14).\n- Allégations de santé : avis EFSA sur la choline (2011, article 13(1) ; 2014, article 14 ; 2023, article 14) ; le règlement (UE) n° 432/2012 (version consolidée du 2025-08-20, texte intégral lu) autorise trois allégations pour les aliments contenant au moins 82,5 mg de choline pour 100 g, 100 ml ou par portion : « contribue au métabolisme normal de l'homocystéine », « au métabolisme normal des lipides » et « au maintien d'une fonction hépatique normale ». L'allégation de 2023 (fonction hépatique du fœtus et de l'enfant allaité) n'y figure pas à cette date. Aucune entrée choline à l'annexe III du règlement (CE) n° 1925/2006 (version 2025-11-26) ; la choline simple ne figure pas dans la liste de l'Union des nouveaux aliments (règlement d'exécution (UE) 2017/2470, version 2026-08-10 : seuls des composés distincts, citicoline et phosphatidylsérine, y figurent).\n- AMA : non concerné.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Limite supérieure américaine (National Academies, adultes) : 3,5 g/j de choline ; effet critique : hypotension ; autres effets : sueurs, diarrhée, odeur corporelle de poisson (rapport de l'Institute of Medicine de 1998, chapitre sur la choline, texte lu directement le 2026-10-14 : 3,5 g/j aussi pour la grossesse et l'allaitement chez l'adulte, 3 g/j de 14 à 18 ans ; l'hépatotoxicité rapportée à très forte dose est attribuée au salicylate de choline plutôt qu'à la choline). Le communiqué EFSA de 2016 ne mentionne pas de limite supérieure ; l'avis complet n'a pas pu être lu (accès refusé) [?].\n- Triméthylaminurie primaire (déficit en FMO3) : odeur de poisson par excès de triméthylamine dans l'urine, la sueur et l'haleine (PMID 20301282, GeneReviews) ; l'effet d'une supplémentation en choline sur ces patients n'a pas été retrouvé dans les essais [?].\n- Odeur corporelle de poisson : seul effet indésirable lié à la choline dans un ECR pédiatrique (500 mg/j pendant 9 mois, 60 enfants atteints de troubles liés à l'alcoolisation fœtale, bien toléré) (PMID 26447156) [B, ECR unique n=60].\n- Interactions médicamenteuses, grossesse au-delà de l'apport adéquat (hors essais d'alimentation contrôlée à 930 mg/j, PMID 29217669) et risque cardiovasculaire à long terme de la supplémentation : aucune étude de sécurité retrouvée (PubMed, 2026-10-14) [?]. La hausse du TMAO après des formes hydrosolubles est une mesure biologique, sans lien clinique démontré (PMID 34287673, 28686188).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Booster le cerveau, la mémoire, la concentration » : pas d'ECR de choline chez l'adulte sain retrouvé ; la citicoline n'a pas obtenu d'allégation « mémoire » de l'EFSA (PMID 38966137).\n- « Choline = bébé plus intelligent » : seules deux petites études d'alimentation contrôlée sont positives (n = 26 puis 20 enfants) ; la revue 2025 juge les preuves insuffisantes (PMID 40077755).\n- « Mauvaise pour le cœur à cause du TMAO » : pas d'association entre choline alimentaire et événements cardiovasculaires dans la méta-analyse de cohortes (PMID 28686188).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour. Voir aussi [citicoline](fiche:citicoline), [alpha-GPC](fiche:alpha-gpc), [phosphatidylsérine](fiche:phosphatidylserine), [oméga-3](fiche:omega-3), [vitamine B12 et folates](fiche:vitamine-b12-et-folates), [déclin cognitif](fiche:declin-cognitif-et-neurodegenerescence).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Gould et al. *Nutrients* 2025 — PMID 40077755 — [DOI](https://doi.org/10.3390/nu17050886)\n2. Caudill et al. *FASEB J* 2018 — PMID 29217669 — [DOI](https://doi.org/10.1096/fj.201700692RR)\n3. Bahnfleth et al. *FASEB J* 2022 — PMID 34962672 — [DOI](https://doi.org/10.1096/fj.202101217R)\n4. Cheatham et al. *Am J Clin Nutr* 2012 — PMID 23134891 — [DOI](https://doi.org/10.3945/ajcn.112.037184)\n5. EFSA NDA Panel, choline and liver function of the foetus, *EFSA J* 2023 — PMID 37502017 — [DOI](https://doi.org/10.2903/j.efsa.2023.8115)\n6. Meyer et al. *Nutrients* 2017 — PMID 28686188 — [DOI](https://doi.org/10.3390/nu9070711)\n7. Nakazaki et al. *J Nutr* 2021 — PMID 33978188 — [DOI](https://doi.org/10.1093/jn/nxab119)\n8. Bonvicini et al. *Nutrients* 2023 — PMID 36678257 — [DOI](https://doi.org/10.3390/nu15020386)\n9. EFSA NDA Panel, citicoline and memory, *EFSA J* 2024 — PMID 38966137 — [DOI](https://doi.org/10.2903/j.efsa.2024.8861)\n10. EFSA NDA Panel, choline and development of brain, *EFSA J* 2014 — PMID 42125365 — [DOI](https://doi.org/10.2903/j.efsa.2014.3651)\n11. EFSA, communiqué « Dietary reference values: EFSA publishes advice on choline », 2016 — https://www.efsa.europa.eu/en/press/news/160817 — lu le 2026-10-14.\n12. National Academies, Dietary Reference Intakes for thiamin, riboflavin, niacin, vitamin B6, folate, vitamin B12, pantothenic acid, biotin, and choline — https://www.nationalacademies.org/read/6015/chapter/14 — lu le 2026-10-14 (rapport IOM 1998, chapitre « Choline »).\n13. Wozniak et al. *Am J Clin Nutr* 2015 — PMID 26447156 — [DOI](https://doi.org/10.3945/ajcn.114.099168)\n14. Sedhom et al. *Ther Adv Chronic Dis* 2025 — PMID 40838115 — [DOI](https://doi.org/10.1177/20406223251358659)\n15. Deuster et al. *Mil Med* 2002 — PMID 12502178\n16. Böckmann et al. *Eur J Nutr* 2022 — PMID 34287673 — [DOI](https://doi.org/10.1007/s00394-021-02637-6)\n17. Phillips, Shephard, Primary Trimethylaminuria, *GeneReviews* — PMID 20301282\n18. Règlements (UE) n° 432/2012 (02012R0432-20250820), (CE) n° 1925/2006 (02006R1925-20251126), d'exécution (UE) 2017/2470 (02017R2470-20260810) — publications.europa.eu/resource/celex/ — textes intégraux lus le 2026-10-14.\n19. BDPM, fichier CIS_COMPO_bdpm — https://base-donnees-publique.medicaments.gouv.fr — consulté le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Choline",
+ "type": "actif",
+ "unite": ""
+}

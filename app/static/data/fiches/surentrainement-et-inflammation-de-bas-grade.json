@@ -1,0 +1,83 @@
+{
+ "cibles": [
+  "muscle-os",
+  "longevite",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-16",
+ "famille": "",
+ "id": "surentrainement-et-inflammation-de-bas-grade",
+ "intro": "",
+ "liens": [
+  "entrainement-concurrent-et-periodisation",
+  "jeune-intermittent-et-restriction-calorique",
+  "myokines",
+  "sauna",
+  "sommeil"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 12,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "35320774",
+  "42670046",
+  "42654194",
+  "39740358",
+  "42816732",
+  "41746199",
+  "32031985",
+  "24492839",
+  "38618318",
+  "42765120",
+  "42667675",
+  "36255556"
+ ],
+ "preuve_globale": "C",
+ "resume": "Le surentraînement (OTS) est mal défini : une revue systématique n'a trouvé aucune étude documentant chez l'humain le passage de « sain » à OTS avec performance abaissée > 4 semaines et symptômes psychologiques [A, revue systématique, absence de preuve] (PMID 35320774). Tout ce qui suit sur ses m…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Le surentraînement (OTS) est mal défini : une revue systématique n'a trouvé **aucune étude** documentant chez l'humain le passage de « sain » à OTS avec performance abaissée > 4 semaines et symptômes psychologiques [A, revue systématique, absence de preuve] (PMID 35320774). Tout ce qui suit sur ses mécanismes est donc provisoire.\n- L'inflammation « du surentraînement » (TNF-α musculaire et hippocampique ↑) n'est montrée que chez la souris, avec de très petits effectifs [C] (PMID 42670046, 42654194).\n- Le levier le mieux étayé contre l'inflammation de bas grade n'est pas un stress : c'est l'entraînement régulier et progressif, qui baisse la CRP chez les ≥ 60 ans [A] (PMID 39740358, voir [myokines](fiche:myokines)).\n- Sauna : association solide en cohorte avec moins de mortalité cardiovasculaire, mais observationnelle (Finlande) [B] ; pas d'ECR sur la mortalité. Voir [sauna](fiche:sauna).\n- Froid : utile pour le confort à court terme, **à éviter après la musculation si le but est la masse/force** [A, certitude faible] (PMID 42816732).\n- L'idée « il faut des pics d'inflammation » est vraie pour le signal d'adaptation (IL-6 transitoire, stress oxydant d'effort) mais l'inférer vers un bénéfice santé humain par hormèse reste une hypothèse [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Surentraînement** : déséquilibre prolongé charge/récupération ; revue de mécanismes proposés : fatigue neurale, dérèglement endocrinien, bioénergétique mitochondriale, stress oxydant, inflammation systémique [C, revue narrative] (PMID 41746199). Les auteurs eux-mêmes notent qu'on ne peut pas reproduire le tableau clinique complet chez l'humain pour l'étudier.\n- **Inflammation transitoire vs chronique** : un pic d'IL-6 après l'effort n'est pas l'inflammation de bas grade (voir [myokines](fiche:myokines)). Le but est des pics brefs suivis de récupération, pas un bruit de fond élevé.\n- **Hormèse** : dose faible/brève de stress → réponse adaptative ; dose forte/répétée sans récupération → dégâts. Chez l'humain, les applications documentées dans le dépôt : exercice, sauna, restriction calorique (voir [jeûne intermittent](fiche:jeune-intermittent-et-restriction-calorique)). Une méta-analyse sur *C. elegans* conclut à un effet anti-âge de l'hormèse [C] (PMID 32031985) : ne pas extrapoler à l'humain.",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Levier | Ce que disent les données | Preuve | Statut FR |\n|---|---|---|---|\n| Entraînement en résistance régulier (≥ 60 ans) | CRP ↓ ; IL-6 et TNF-α non significatifs | [A] | Libre |\n| Sauna finlandais régulier | Moins de décès cardiovasculaires en cohorte (voir [fiche](fiche:sauna)) ; tension et fonction cardiaque améliorées à court terme dans une méta-analyse | [B] cohorte ; [A, hétérogène] intermédiaire | Libre (non recherché) |\n| Immersion froide post-effort | Courbatures ↓ ; **freine hypertrophie et force** si répétée après musculation ; pas d'effet sur CRP/IL-6 à 72 h | [A, certitude faible à très faible] | Libre |\n| Jeûne / restriction | Voir [fiche dédiée](fiche:jeune-intermittent-et-restriction-calorique) | selon la fiche | Libre |\n| Antioxydants forts doses autour de l'entraînement (vit. C + E) | Freinent des adaptations mitochondriales | [B] (PMID 24492839) | Complément |\n| AINS préventifs avant l'effort pour « éviter l'inflammation » | Effet sur les adaptations : non recherché ici | [?] | Médicament (non vérifié) |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Pas de protocole chiffré validé : le surentraînement n'a pas de seuil de charge établi [?]. Ce qui reste raisonnable et sourcé :\n- **Débutant** : progression graduelle, au moins un jour de repos complet par semaine, sommeil suffisant (voir [sommeil](fiche:sommeil)). Le sommeil insuffisant est associé à l'OTS dans une revue de littérature [B, revue narrative] (PMID 38618318, non relue en détail [?]).\n- **Intermédiaire** : alterner semaines chargées et semaines allégées ([périodisation](fiche:entrainement-concurrent-et-periodisation)) ; sauna 2–3×/semaine en dehors des séances de force si on l'ajoute (pas d'ECR pour fixer la fréquence) [?].\n- **Avancé** : suivi (fréquence cardiaque de repos, VFC, humeur, performance) ; les bilans biologiques d'athlètes sont recommandés en individualisé, prélèvement ≥ 48 h après un effort intense (PMID 42765120, revue en français) ; aucun marqueur unique ne diagnostique l'OTS [?].\n- **Timing des stress** : froid pas dans les heures qui suivent la musculation en phase de prise de muscle ; froid utile entre deux compétitions rapprochées (revue narrative, PMID 42667675) [B, avis d'auteurs].",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Lire une CRP élevée juste après un gros entraînement : attendre ≥ 48 h avant de prélever (PMID 42765120).\n- Empiler froid + sauna + jeûne + volume d'entraînement élevé : chaque stress est supportable seul, l'effet cumulé n'a pas été testé [?].\n- Prendre froid ou anti-inflammatoires systématiquement après chaque séance de force « pour récupérer ».\n- Confondre fatigue d'une semaine chargée (réversible en quelques jours) et OTS (baisse > plusieurs semaines malgré le repos).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Réduire toute inflammation après l'effort »** : l'inflammation aiguë fait partie du signal d'adaptation ; le bain froid répété après musculation est associé à moins de gains de force et d'hypertrophie [A, certitude faible] (PMID 42816732).\n- **« Le sauna réduit l'inflammation »** : une cohorte (2 575 hommes) trouve que le sauna fréquent semble neutraliser le sur-risque de mortalité lié à une hsCRP > 3 mg/L ; c'est une association (HR 1,06 [0,81–1,40] vs 1,28 sans sauna), pas une démonstration de baisse de la CRP [B] (PMID 36255556).\n- **« L'hormèse prouve que tout stress est bon pour la longévité »** : les preuves d'une hormèse « anti-âge » viennent surtout d'organismes modèles [C].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Aucune étude humaine n'a documenté proprement l'OTS (PMID 35320774) : le diagnostic reste d'exclusion [A, absence de preuve].\n- Les revues sur le froid concluent à une approche « périodisée » plutôt qu'à une application systématique (PMID 42816732).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Fatigue et baisse de performance > 2–3 semaines malgré le repos, perte de poids, troubles du sommeil ou de l'humeur, aménorrhée, infections à répétition, tachycardie de repos inhabituelle : médecin du sport, éliminer anémie, carence en fer, thyroïde, dépression, déficit énergétique. Cardiopathie ou hypotension : avis médical avant le sauna.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 35320774 — Weakley J et al., OTS symptoms and diagnosis: where is the research? *Int J Sports Physiol Perform* 2022. doi:10.1123/ijspp.2021-0448\n- PMID 41746199 — Shorter E et al., Intramuscular pathways of maladaptation in OTS. *J Physiol* 2026. doi:10.1113/JP287708\n- PMID 42670046 — Hwang E et al., Overtraining and anxiety-like behaviour in mice. *Brain Behav* 2026 (n final = 4 dans le groupe OT). doi:10.1002/brb3.71709\n- PMID 42654194 — Harris AM et al., EAA in an animal model of overtraining. *Nutrients* 2026. doi:10.3390/nu18162614\n- PMID 42765120 — Dupont A, Place du laboratoire dans le suivi des sportifs. *Ann Biol Clin* 2026. doi:10.1684/abc.2026.2053\n- PMID 42816732 — Berjisian E et al., umbrella review of 15 SRMA on post-exercise CWI. *Sports Med Open* 2026. doi:10.1186/s40798-026-01116-8\n- PMID 42667675 — Tornero-Aguilera JF et al., CWI recovery-adaptation paradox (revue narrative). *Exp Physiol* 2026. doi:10.1113/EP094042\n- PMID 36255556 — Kunutsor SK et al., Inflammation, sauna bathing and all-cause mortality. *Eur J Epidemiol* 2022. doi:10.1007/s10654-022-00926-w\n- PMID 39740358 — Nejatian Hoseinpour A et al., résistance, marqueurs inflammatoires, sujets âgés. *Arch Gerontol Geriatr* 2025.\n- PMID 24492839 — Paulsen G et al., vitamine C et E et adaptation à l'endurance. *J Physiol* 2014.\n- PMID 32031985 — Sun T et al., hormèse et *C. elegans*. *Aging* 2020.\n- PMID 38618318 — Patel H et al., sommeil inadéquat et OTS, revue. *Cureus* 2024.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Surentraînement, inflammation de bas grade et stress hormétiques",
+ "type": "condition",
+ "unite": ""
+}

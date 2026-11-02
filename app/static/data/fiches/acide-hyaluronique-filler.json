@@ -1,0 +1,77 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "",
+ "id": "acide-hyaluronique-filler",
+ "intro": "",
+ "liens": [
+  "lasers-fractionnes",
+  "microneedling",
+  "peelings",
+  "retinoides",
+  "rides-et-sillons-nasogeniens",
+  "toxine-botulique"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "39014236",
+  "37261136",
+  "40358958",
+  "38630871",
+  "26356847",
+  "22835509",
+  "30327185"
+ ],
+ "preuve_globale": "A",
+ "resume": "Seule option avec méta-analyses d'essais randomisés pour combler le sillon nasogénien [A], au prix d'effets bénins fréquents et d'un risque vasculaire rare mais grave (nécrose, cécité) qui impose un médecin formé et un produit traçable.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Seule option avec méta-analyses d'essais randomisés pour combler le sillon nasogénien [A], au prix d'effets bénins fréquents et d'un risque vasculaire rare mais grave (nécrose, cécité) qui impose un médecin formé et un produit traçable.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- **Corrige** : la perte de volume du pli nasogénien, mesurée par des échelles de sévérité dans les ECR [A] (PMID 39014236, 37261136).\n- **Ne corrige pas** : le relâchement cutané important et la ptose des tissus du tiers moyen (relèvent plutôt du lifting (chirurgie, fiche non écrite)) ; les rides dynamiques du front et de la glabelle (relèvent de la [toxine botulique](fiche:toxine-botulique)) ; la qualité de peau (voir [lasers fractionnés](fiche:lasers-fractionnes), [peelings](fiche:peelings)).\n- Pas de protocole d'injection ici (règle 7).",
+   "titre": "Ce que ça corrige / ne corrige pas"
+  },
+  {
+   "markdown": "- **Avec vs sans lidocaïne** (méta-analyse d'ECR) : sévérité du pli identique (MD 0,08 ; IC95 −0,09 à 0,24), douleur nettement réduite (SMD −2,47 ; IC95 −4,15 à −0,79), pas de différence d'événements indésirables (RR 0,97) [A] (PMID 39014236). Les auteurs notent un nombre limité d'études.\n- **Revue systématique de 19 ECR** : événements indésirables fréquents (gonflement, douleur, érythème, ecchymoses, nodules, induration…), surtout bénins ; gonflement, nodules et induration plus fréquents au sillon nasogénien qu'aux autres zones [A] (PMID 37261136).\n- **Durabilité** : aucune méta-analyse ni ECR de durée vérifié dans cette session (recherches PubMed « longevity », « duration », « 18 months » infructueuses) [?]. La durée dépend du produit ; ne pas se fier aux durées annoncées par les fabricants [M].",
+   "titre": "Preuves (efficacité, durabilité) avec tags"
+  },
+  {
+   "markdown": "- **Bénignes, fréquentes** : gonflement, douleur, rougeur, bleus, nodules [A] (PMID 37261136).\n- **Graves, rares** : 0,0041 % (12 sur 290 307 injections ; 2 infections, 10 occlusions vasculaires dont 8 au front) dans un réseau de cliniques japonais, étude rétrospective [B] (PMID 40358958). Les complications prises en charge ailleurs ont pu échapper au comptage (limite du design rétrospectif).\n- **Cécité** : revue mondiale de 365 nouveaux cas (2018-2023) ; acide hyaluronique en cause dans 79,6 % ; zones les plus à risque nez (40,6 %), front (27,7 %), glabelle (19 %) ; signes d'AVC dans 19,2 % ; **68,2 % sans récupération visuelle**, aucun traitement significativement associé à une amélioration [B, revue de cas] (PMID 38630871). Dans la revue de 2015 (98 cas), le sillon nasogénien représentait 13,3 % des cas [B] (PMID 26356847).\n- Série coréenne d'occlusions de l'artère rétinienne : sites glabelle (7) et sillon nasogénien (4) ; pronostic visuel pire avec la graisse autologue [B, série de 12 cas] (PMID 22835509).\n- **Anatomie à risque** : anastomoses de l'artère infraorbitaire avec les artères angulaire, dorsale du nez et supratrochléaire, permettant une embolie rétrograde [B, étude anatomique sur 18 cadavres] (PMID 30327185).",
+   "titre": "Complications et fréquences"
+  },
+  {
+   "markdown": "- **Statut du produit** : les produits de comblement injectés sont des dispositifs médicaux, y compris sans finalité médicale (règlement (UE) 2017/745, annexe XVI, point 3 ; ANSM, « Quels sont les dispositifs sans finalité médicale couverts par le règlement 2017/745 ? », consulté le 2026-10-03). L'ANSM conseille de vérifier le marquage CE suivi du numéro à 4 chiffres de l'organisme notifié (ANSM, actualité du 19 mars 2021, consultée le 2026-10-03).\n- **Qui injecte** : les injections à visée esthétique ne sont autorisées qu'aux médecins (et aux chirurgiens-dentistes dans leur cadre thérapeutique) ; leur réalisation par d'autres est illégale ; un projet de décret visant à restreindre l'accès aux produits injectables aux seuls professionnels autorisés était en consultation (réponse ministérielle à la question écrite AN n° 7585, JO du 23 mai 2023, p. 4712, consulté le 2026-10-03). Je n'ai pas vérifié si ce décret a été publié depuis [?].\n- **Stylos sans aiguille** : par décision du 9 février 2021, l'ANSM a suspendu l'importation, la mise sur le marché, la distribution, la publicité et l'utilisation des stylos injecteurs sans aiguille Hyaluropen (fabriqués par Guangzhou Linuo Beauty Elect), faute de certificat de conformité (ANSM, décision du 9 février 2021, consultée via la base de recherche ANSM le 2026-10-03). Risque mis en avant : pas de contrôle de la profondeur, du plan ni de la quantité injectée.\n- **Marché illégal** : signalements d'injections illégales (acide hyaluronique et toxine) au Conseil national de l'Ordre des médecins : 16 en 2020, 55 en 2022, 104 en 2023, chiffres cités dans la question écrite AN n° 16805 (JO du 2 avril 2024, restée sans réponse ministérielle, consultée le 2026-10-03).\n- AMA : non concerné (dispositif médical, pas une substance dopante) [?] (liste AMA non consultée).",
+   "titre": "Qui peut le pratiquer en France (réglementation)"
+  },
+  {
+   "markdown": "- 250 à 350 € la seringue d'environ 1 ml (AFME, tarifs moyens mis à jour le 20 novembre 2022, consulté le 2026-10-03) ; à partir de 450 € (Dr Mayeux, Paris 16, consulté le 2026-10-03) ; à partir de 400 € la seringue (Dr Dlimi, Lyon, consulté le 2026-10-03). Fourchette retenue : 250-500 € par seringue. Sources de praticiens : fait de prix uniquement.\n- Coût annuel : dépend de la durée réelle du produit, non établie ici [?].",
+   "titre": "Coût et durabilité"
+  },
+  {
+   "markdown": "- Aucune alternative topique ne comble un sillon : seules les données d'injection existent [A] (voir [rides et sillons](fiche:rides-et-sillons-nasogeniens)).\n- Pour la qualité de peau : [rétinoïdes](fiche:retinoides), [microneedling](fiche:microneedling) [B], [lasers fractionnés](fiche:lasers-fractionnes).\n- Pour un relâchement important : avis chirurgical (lifting (chirurgie, fiche non écrite)).",
+   "titre": "Alternatives moins invasives"
+  },
+  {
+   "markdown": "- Injecteur non médecin, injection en institut, à domicile, lors de « soirées » ; produit acheté en ligne ou sans boîte, sans étiquette de traçabilité ; stylo sans aiguille (interdit, ANSM 2021).\n- **Urgence immédiate** après injection : douleur intense, blanchiment ou marbrure de la peau, troubles visuels, douleur oculaire, signes neurologiques. La perte de vision récupère rarement [B] (PMID 38630871).\n- Demander : nom du produit, numéro de lot, organisme notifié du marquage CE, conduite prévue en cas d'occlusion vasculaire (le praticien doit pouvoir dissoudre l'acide hyaluronique ; aucune efficacité prouvée sur la cécité une fois installée [B] (PMID 38630871)).",
+   "titre": "Signaux d'alerte (praticien, tourisme médical, produits)"
+  },
+  {
+   "markdown": "1. Liu H et al., *Aesthetic Plast Surg* 2024 — PMID 39014236 — [DOI](https://doi.org/10.1007/s00266-024-04233-5)\n2. Colon J et al., *Cureus* 2023 — PMID 37261136 — [DOI](https://doi.org/10.7759/cureus.38286)\n3. Tamura T et al., *Ann Plast Surg* 2025 — PMID 40358958 — [DOI](https://doi.org/10.1097/SAP.0000000000004327)\n4. Park SW et al., *Am J Ophthalmol* 2012 — PMID 22835509 — [DOI](https://doi.org/10.1016/j.ajo.2012.04.019)\n5. Hufschmidt K et al., *JPRAS* 2018 — PMID 30327185 — [DOI](https://doi.org/10.1016/j.bjps.2018.09.010)\n6. Doyon VC et al., *Aesthet Surg J* 2024 — PMID 38630871 — [DOI](https://doi.org/10.1093/asj/sjae091)\n7. Beleznay K et al., *Dermatol Surg* 2015 — PMID 26356847 — [DOI](https://doi.org/10.1097/DSS.0000000000000486)\n- Réglementation : [ANSM, dispositifs sans finalité médicale (annexe XVI)](https://ansm.sante.fr/documents/reference/quels-sont-les-dispositifs-sans-finalite-medicale-couverts-par-le-reglement-2017-745) ; [ANSM, produits injectables falsifiés (2021)](https://ansm.sante.fr/actualites/produits-injectables-utilises-en-esthetique-pour-le-traitement-des-rides-attention-aux-marchandises-falsifiees) ; décision ANSM du 9 février 2021 (Hyaluropen) ; [question écrite AN n° 7585](https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE7585) ; [question écrite AN n° 16805](https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE16805) (consultés le 2026-10-03).\n- Prix : [AFME](https://www.afme.org/prix-soins-tarifs-medecine-esthetique/), [Dr Mayeux](https://www.paris-medecine-esthetique.fr/tarifs/), [Dr Dlimi](https://www.chirurgieesthetiquelyon.com/tarifs-de-la-chirurgie-et-medecine-esthetique-2026) (consultés le 2026-10-03 ; fait de prix uniquement).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "dispositif_medical",
+ "titre": "Acide hyaluronique injectable (filler) — sillon nasogénien",
+ "type": "acte",
+ "unite": ""
+}

@@ -1,0 +1,78 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "cerveau",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "alimentation",
+ "id": "poissons-gras-omega-3-et-mercure",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "alimentation-cerveau",
+  "apob-lipides-et-statines",
+  "huile-olive-vierge-extra",
+  "omega-3"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "35108375",
+  "29317009",
+  "32114706",
+  "39162889",
+  "17047219",
+  "37318499",
+  "40137702"
+ ],
+ "preuve_globale": "B",
+ "resume": "Cohortes : c'est le poisson gras qui porte l'association, pas le poisson maigre. 19 rapports prospectifs : poisson gras, maladie coronarienne RR 0,92 (0,86-0,97), mortalité coronarienne RR 0,83 (0,70-0,98), mortalité totale RR 0,97 (0,94-0,99) ; rien de significatif pour le poisson maigre [B, coh…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Cohortes : c'est le poisson gras qui porte l'association, pas le poisson maigre.** 19 rapports prospectifs : poisson gras, maladie coronarienne RR 0,92 (0,86-0,97), mortalité coronarienne RR 0,83 (0,70-0,98), mortalité totale RR 0,97 (0,94-0,99) ; **rien de significatif pour le poisson maigre** [B, cohortes] (PMID 35108375). Autre méta-analyse (14 cohortes, 911 348 personnes) : par 20 g/j de poisson, mortalité CV RR 0,96 (0,94-0,98), mortalité totale RR 0,98 (0,97-1,00, limite) avec forte hétérogénéité (I² 82 %) ; association significative seulement dans les études asiatiques, courbe presque en U avec un creux vers 20 g/j dans les études occidentales [B] (PMID 29317009).\n- **Les gélules d'oméga-3 n'imitent pas le poisson.** Cochrane (86 ECR, 162 796 personnes) : pas ou peu d'effet des oméga-3 à longue chaîne sur la mortalité toutes causes (RR 0,97, 0,93-1,01, certitude élevée) ni sur les événements CV (RR 0,96) ; mortalité CV RR 0,92 (0,86-0,99, certitude modérée) [A] (PMID 32114706). Détail et risques (fibrillation atriale) : [oméga-3](fiche:omega-3).\n- **Cognition (cohortes)** : plus de poisson, troubles cognitifs RR 0,82 (0,75-0,90), démence RR 0,82 (0,73-0,93), Alzheimer RR 0,80 (0,67-0,96) ; à 150 g/j, troubles cognitifs RR 0,70 (0,52-0,95) [B, 35 études observationnelles] (PMID 39162889).\n- **Mercure : le risque est surtout lié aux gros poissons prédateurs et à la grossesse.** Voir Sécurité.\n- Recommandation française (population générale) : poisson 2 fois par semaine, dont un poisson gras (sardines, maquereau, hareng, saumon) ; une portion = environ 100 g ; varier les espèces car certains poissons contiennent des polluants (Manger Bouger / Santé publique France, consulté le 2026-10-14). L'ANSES recommande aussi 2 fois par semaine en moyenne et note qu'une grande majorité de la population n'en consomme pas assez (fiche ANSES « Poissons et produits de la pêche, conseils de consommation », document daté de 2010, consulté le 2026-10-14).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Hypothèse standard : EPA et DHA ; non démontrée comme cause du bénéfice des cohortes, puisque les essais de gélules sont largement nuls [A] (PMID 32114706). Le poisson remplace aussi d'autres aliments dans l'assiette (viande rouge, charcuterie) : effet de substitution non isolé dans les sources lues [?]. Une revue de 2006 estime que 250 mg/j d'EPA+DHA suffisent pour la prévention primaire (PMID 17047219, revue ancienne).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Maladie coronarienne et mortalité (poisson gras vs maigre) | gras : incidence coronarienne 0,92, mortalité coronarienne 0,83, mortalité totale 0,97 ; maigre : rien de significatif ; incidence et mortalité CV globales non significatives pour les deux (PMID 35108375) | [B] |\n| Mortalité par dose | par 20 g/j : mortalité CV RR 0,96, totale 0,98 ; effet seulement chez les Asiatiques ; creux vers 20 g/j chez les Occidentaux (PMID 29317009) | [B, hétérogène] |\n| Consommation modeste et risques | revue 2006 : 1-2 portions/semaine, surtout de poissons riches en EPA/DHA, mort coronarienne -36 % (20-50 %), mortalité totale -17 % (0-32 %) ; polluants (dioxines, PCB) dont les risques sont jugés inférieurs au bénéfice (PMID 17047219) | [B, revue de 2006] |\n| Gélules d'oméga-3 vs prévention CV | 86 ECR : mortalité totale RR 0,97, CV 0,92, événements CV 0,96 (PMID 32114706) | [A] |\n| Cognition, démence | RR 0,82 pour troubles cognitifs et démence ; 150 g/j : 0,70 (PMID 39162889) | [B] |\n| Diabète de type 2, cancer, dépression, peau | non recherchés dans cette fiche [?] | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Quantités des études** : 1-2 portions par semaine (PMID 17047219) ; 20 g/j (soit environ 140 g/semaine) dans l'analyse dose-réponse (PMID 29317009) ; jusqu'à 150 g/j dans l'analyse cognitive (PMID 39162889).\n- **Teneur en EPA/DHA par espèce** : non extraite des sources lues [?]. Les poissons gras cités par les autorités sont la sardine, le maquereau, le hareng, le saumon (Manger Bouger, consulté le 2026-10-14).\n- **Poisson d'élevage vs sauvage, fumé, en conserve** : écarts d'oméga-3 et de contaminants non recherchés [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Aliment. Les poissons sont l'un des 14 allergènes à déclaration obligatoire (règlement (UE) n° 1169/2011, annexe II, EUR-Lex, consulté le 2026-10-14).\n- **Teneurs maximales en mercure (règlement (UE) 2023/915, annexe)** : 0,50 mg/kg pour la chair de poisson en général ; **1,0 mg/kg** pour des espèces dont le thon, l'espadon, le requin (toutes espèces), le marlin, le flétan de l'Atlantique et le brochet (EUR-Lex, consulté le 2026-10-14).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Grossesse et allaitement (conseil officiel français)** : limiter anguille, lotte, bar, dorade, raie, thon y compris en conserve ; **éviter** espadon, marlin, siki (saumonette), requin, lamproie ; préférer colin/merlu/lieu, cabillaud, saumon, sardine, maquereau, hareng, truite, merlan, anchois, sole, poissons d'élevage, bien cuits et non fumés ; éviter poisson cru, fumé ou mariné (risque de listériose, la congélation ne l'élimine pas) (Manger Bouger, consulté le 2026-10-14).\n- **Mercure chez l'adulte** : les effets d'un faible niveau de méthylmercure ne sont pas clairement établis ; il pourrait réduire modestement le bénéfice cardiovasculaire du poisson ; au-dessus de 5 portions/semaine, limiter les espèces les plus contaminées [B, revue 2006] (PMID 17047219).\n- **Dioxines et PCB** : niveaux faibles dans le poisson, risque jugé moindre que le bénéfice (revue 2006), sauf poissons d'eau douce pêchés localement pour les femmes en âge de procréer (PMID 17047219).\n- **Parasites (anisakis) et poisson cru** : les larves d'Anisakis sont présentes dans des poissons de mer consommés crus ou peu cuits (sushi, sashimi, poisson mariné) ; congélation, cuisson et éviscération sont les mesures de prévention citées, la sous-déclaration étant probable [B, revues narratives] (PMID 37318499, 40137702). Conseil ANSES : cuire à cœur, ou pour le poisson cru le vider rapidement et le congeler 7 jours en congélateur domestique ; pas de poisson cru pour les enfants jusqu'à 6 ans (ANSES, Manger Bouger, consultés le 2026-10-14). Allergie à Anisakis : non recherchée [?].\n- Anticoagulants et fortes doses d'oméga-3 : voir [oméga-3](fiche:omega-3).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Tout poisson est bon pour le cœur »** : le signal est porté par le poisson gras ; maigre : rien de significatif [B] (PMID 35108375).\n- **« Les gélules d'huile de poisson valent deux portions de poisson »** : 86 ECR : pas ou peu d'effet sur la mortalité totale [A] (PMID 32114706).\n- **« Le thon en boîte, c'est comme le saumon »** : le thon est limité en grossesse par les autorités et plafonné à 1,0 mg/kg de mercure (règlement 2023/915) ; teneur en oméga-3 du thon en conserve : cherchée dans PubMed, non retrouvée dans les sources lues [?].\n- **« Plus de poisson, toujours mieux »** : courbe presque en U dans les études occidentales, creux vers 20 g/j [B] (PMID 29317009).\n\nVoir aussi : [oméga-3 (EPA/DHA)](fiche:omega-3) · [alimentation : synthèse](fiche:alimentation) · [alimentation et cerveau](fiche:alimentation-cerveau) · [lipides et ApoB](fiche:apob-lipides-et-statines) · [huile d'olive vierge extra](fiche:huile-olive-vierge-extra).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 35108375 — Giosuè et al., *Adv Nutr* 2022 (poisson gras vs maigre). doi:10.1093/advances/nmac006\n- PMID 29317009 — Jayedi et al., *Public Health Nutr* 2018 (dose-réponse). doi:10.1017/S1368980017003834\n- PMID 32114706 — Abdelhamid et al., *Cochrane Database Syst Rev* 2020 (oméga-3, 86 ECR). doi:10.1002/14651858.CD003177.pub5\n- PMID 39162889 — Godos et al., *Aging Clin Exp Res* 2024 (cognition). doi:10.1007/s40520-024-02823-6\n- PMID 17047219 — Mozaffarian et al., *JAMA* 2006 (bénéfices et risques). doi:10.1001/jama.296.15.1885\n- Règlement (UE) 2023/915, annexe (EUR-Lex, consulté le 2026-10-14) ; règlement (UE) n° 1169/2011, annexe II (EUR-Lex, consulté le 2026-10-14).\n- Manger Bouger (Santé publique France), « Quels aliments éviter et quelles précautions prendre quand on est enceinte ? » (consulté le 2026-10-14).\n- PMID 37318499 — Della-Morte et al., *Eur Rev Med Pharmacol Sci* 2023 (inactivation des larves d'Anisakis). doi:10.26355/eurrev_202306_32643\n- PMID 40137702 — Nonković et al., *Pathogens* 2025 (anisakidose, santé publique). doi:10.3390/pathogens14030217",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Poissons gras : oméga-3 alimentaires, mercure et polluants",
+ "type": "actif",
+ "unite": ""
+}

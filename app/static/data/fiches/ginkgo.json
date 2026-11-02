@@ -1,0 +1,78 @@
+{
+ "cibles": [
+  "cerveau",
+  "sens-bouche"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "ginkgo",
+ "intro": "",
+ "liens": [
+  "audition-et-perte-auditive",
+  "bacopa",
+  "citicoline",
+  "declin-cognitif-et-neurodegenerescence",
+  "huperzine-a",
+  "tension-arterielle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "19017911",
+  "23001963",
+  "41641880",
+  "25114079",
+  "36383762",
+  "41678913",
+  "40198642"
+ ],
+ "preuve_globale": "A",
+ "resume": "Prévention de la démence : échec. L'essai GEM (3 069 personnes de ≥ 75 ans, 120 mg × 2/j, suivi médian de 6,1 ans) ne réduit ni la démence (HR 1,12 ; 0,94–1,33) ni la maladie d'Alzheimer (HR 1,16 ; 0,97–1,39), ni la progression du MCI (HR 1,13 ; 0,85–1,50) [B, ECR unique n=3069] (PMID 19017911).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Prévention de la démence : échec.** L'essai GEM (3 069 personnes de ≥ 75 ans, 120 mg × 2/j, suivi médian de 6,1 ans) ne réduit ni la démence (HR 1,12 ; 0,94–1,33) ni la maladie d'Alzheimer (HR 1,16 ; 0,97–1,39), ni la progression du MCI (HR 1,13 ; 0,85–1,50) [B, ECR unique n=3069] (PMID 19017911).\n- **Adulte sain : zéro.** Méta-analyse : effets proches de zéro sur la mémoire (d = −0,04 ; −0,17 à 0,07), l'exécutif (−0,05) et l'attention (−0,08) [A] (PMID 23001963).\n- **MCI : probablement aucun effet.** Cochrane 2026 (82 études, 10 613 participants) : à 6 mois, CDR (MD −0,03 ; −0,06 à 0,01) et ADAS-Cog (MD −0,07 ; −0,67 à 0,51), certitude modérée ; événements indésirables graves RR 0,95 (0,82–1,09), certitude élevée [A] (PMID 41641880).\n- **Démence : bénéfices petits à modérés, certitude faible** : test cognitif SKT MD −1,86 (−3,48 à −0,24), I² 96 %, 9 études [A, faible certitude] (PMID 41641880). Une méta-analyse de l'extrait EGb 761 à 240 mg/j trouve des bénéfices plus nets (cognition WMD −2,86 ; −3,18 à −2,54) sur 9 essais de 22–26 semaines [A, extrait unique, durée courte] (PMID 25114079).\n- **Acouphènes** : Cochrane, aucun effet mesurable (voir [audition](fiche:audition-et-perte-auditive)) [A, très faible certitude] (PMID 36383762).\n- **Sécurité** : contre-indiqué pendant la grossesse, accroît la tendance au saignement (RCP du médicament Tanakan, BDPM consulté le 2026-10-14).\n- **France** : à la fois médicament à base de plantes (non remboursé, jugé à service médical rendu insuffisant par la HAS en 2011) et plante autorisée en complément.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Extrait de feuilles (flavonoïdes, lactones terpéniques) ; hypothèses : circulation cérébrale, antioxydant, neuroprotection : [?] mécanisme chez l'humain non établi par les sources lues. L'essai de prévention le plus grand est négatif, ce qui affaiblit l'argument « neuroprotecteur » (PMID 19017911).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Prévention de la démence (≥ 75 ans, cognition normale ou MCI) | GEM : 523 démences (277 ginkgo, 246 placebo) ; taux 3,3 vs 2,9 pour 100 personnes-années ; HR 1,12 (0,94–1,33) toutes démences, 1,16 (0,97–1,39) Alzheimer ; effets indésirables comparables (PMID 19017911) | [B, ECR unique n=3069] |\n| Adulte sain, cognition | Mémoire d = −0,04 (13 ECR, n=1 132), fonctions exécutives −0,05 (7 ECR, n=534), attention −0,08 (8 ECR, n=910) ; effets non liés à l'âge, à la dose ni à la durée (PMID 23001963) | [A] |\n| Plaintes subjectives de mémoire | 3 études, 597 participants : effet incertain sur l'état clinique global, certitude très faible ; risque d'effets indésirables possiblement plus élevé à 3 mois (PMID 41641880) | [A, très faible certitude] |\n| MCI | 12 études, 1 913 participants : peu ou pas d'effet à 6 mois sur CDR, ADAS-Cog et activités de la vie quotidienne, certitude modérée (PMID 41641880) | [A, certitude modérée] |\n| Démence | 13 études, 3 288 participants : cognition SKT MD −1,86 (I² 96 %), ADL MD −0,19 (I² 91 %) ; « peuvent » être meilleurs, certitude faible, forte hétérogénéité (PMID 41641880) | [A, faible certitude] |\n| EGb 761, 240 mg/j, démence | 9 essais, 2 561 patients, 22–26 semaines : cognition WMD −2,86 (−3,18 à −2,54) ; ADL SMD −0,36 ; impression clinique OR 1,88 (1,54–2,29) ; peu d'inquiétudes de sécurité (PMID 25114079) | [A, extrait unique] |\n| Acouphènes | 12 ECR, 1 915 participants : indice THI −1,35 (−8,26 à 5,55) sur 2 études (85 participants) ; pas de différence de saignement ni de convulsions sur 4 études (PMID 36383762) | [A, très faible certitude] |\n| Comparaison avec le [bacopa](fiche:bacopa) | NMA sur 29 ECR (n=2 107) : la bacopa à haute dose surpasse le ginkgo et le placebo sur la mémoire de travail ; dans le résumé, le ginkgo (60 à < 240 mg/j comme ≥ 240 mg/j) est écarté du placebo par la même marge que la bacopa forte dose (SMD 1,94 et 2,04 vs ginkgo ; 2,03 vs placebo), donc aucun avantage visible du ginkgo sur le placebo ; l'écart ginkgo–placebo lui-même n'est pas chiffré dans le résumé ; pas de comparaison directe (PMID 41678913) | [A, faible certitude] |\n\nPoints d'attention : la Cochrane (effets petits, hétérogènes, certitude faible dans la démence) et la méta-analyse d'EGb 761 seul (effet net) ne concordent pas ; l'explication (critères, essais inclus, extrait) n'est pas établie ici [?]. Les deux portent sur 6 mois au plus.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Étudié** : 120 mg × 2/j d'extrait dans GEM (PMID 19017911) ; 240 mg/j d'EGb 761 en démence (PMID 25114079) ; monographie EMA/HMPC : extrait sec raffiné et quantifié, 120–240 mg par prise et 240 mg/j (usage « bien établi », démence légère, au moins 8 semaines, réévaluation à 3 mois) ; poudre de feuille 250–360 mg par prise, 750 mg/j (usage traditionnel, circulation) (EMA/HMPC/321097/2012, adoptée en janvier 2015, consultée le 2026-10-14) ; la NMA bacopa/ginkgo sépare 60 à < 240 mg/j et ≥ 240 mg/j (PMID 41678913).\n- **Vendu** : médicament Tanakan 40 mg/ml, solution buvable (BDPM) ; teneurs des compléments du marché français : [?] non relevées (aucun produit dans le dépôt ; spécialités à AMM en BDPM : Tanakan 40 mg/ml et comprimés 40 mg, Ginkgo Arrow/EG/Zentiva 40 mg, Vitalogink 40 mg, Ginkor Fort, Ginkogink, base de composition BDPM consultée le 2026-10-14). Un extrait standardisé et un broyat de feuille ne sont pas équivalents.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Médicament à base de plantes, France** : TANAKAN 40 mg/ml solution buvable, indiqué dans « le traitement symptomatique des troubles cognitifs du sujet âgé », à l'exception de la démence confirmée, de la maladie de Parkinson, des troubles cognitifs iatrogènes ou secondaires à une dépression ou à des désordres métaboliques ; délivré sans prescription, prix libre, **non remboursable** (BDPM, consulté le 2026-10-14).\n- **HAS** : la Commission de la transparence a jugé le service médical rendu de Tanakan, Tramisal et Ginkogink **insuffisant** dans les indications de l'AMM (avis du 7 décembre 2011, HAS, consulté le 2026-10-14).\n- **Complément alimentaire** : *Ginkgo biloba* L. (feuille, graine grillée) figure à l'annexe I de l'arrêté du 24 juin 2014 ; l'étiquetage des compléments à base de feuille doit comporter la mise en garde « Consultez votre médecin en cas de prise simultanée d'anticoagulants » (annexe I relue sur Légifrance, texte « en vigueur au 14 octobre 2026 » sans texte modificatif listé, consulté le 2026-10-14).\n- **AMA** : non nommé dans la Liste des interdictions 2026 (recherche par nom, fichier du 2026-10-13).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **RCP Tanakan (BDPM, consulté le 2026-10-14)** : contre-indiqué en cas d'hypersensibilité et **pendant la grossesse** ; allaitement déconseillé ; prédisposition au saignement augmentée ; arrêt 3 à 4 jours avant une intervention chirurgicale ; risque de crises supplémentaires chez l'épileptique ; association à l'efavirenz déconseillée ; surveillance avec warfarine et phenprocoumone ; précautions avec les antiplaquettaires et le dabigatran ; dangereux chez les sujets alcooliques ; effets indésirables : douleurs abdominales, diarrhée, vertiges, céphalées, nausées, prurit.\n- **Étude observationnelle hospitalière** (Vietnam, 2 647 prescriptions) : 12,94 % des prescriptions comportent une interaction, surtout avec clopidogrel, aspirine et anti-inflammatoires ; saignement clinique chez 4,15 % de 747 patients analysés ; l'interaction avec les anticoagulants n'est pas significative dans cette étude [B, observationnelle] (PMID 40198642).\n- **Monographie EMA/HMPC (adoptée janvier 2015, consultée le 2026-10-14)** : usage « bien établi » contre-indiqué pendant la grossesse (effet possible sur l'agrégation plaquettaire) ; allaitement non recommandé faute de données ; précaution en cas de diathèse hémorragique, d'anticoagulants ou d'antiplaquettaires (clopidogrel, aspirine, AINS) ; arrêt 3 à 4 jours avant une chirurgie ; crises d'épilepsie non exclues ; association à l'efavirenz déconseillée (baisse des concentrations par induction du CYP3A4) ; inhibition possible de la P-gp intestinale (prudence avec le dabigatran) ; hausse du Cmax de la nifédipine, jusqu'à +100 % chez certains (vertiges, bouffées de chaleur) ; études avec la warfarine sans interaction nette, mais suivi conseillé au début, à l'arrêt et au changement de produit.\n- Pas de signal de saignement ni de convulsions dans les 4 études de la Cochrane acouphènes (PMID 36383762) [A, faible certitude]. Ces résultats ne remplacent pas les précautions du RCP.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Aucune fiche produit.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Protège contre Alzheimer »** : GEM, 3 069 personnes, HR 1,16 pour Alzheimer sous ginkgo (PMID 19017911) [B, ECR unique n=3069].\n- **« Booster de mémoire »** : méta-analyse d'adultes sains, d = −0,04 (PMID 23001963) [A].\n- **« Anti-acouphènes »** : Cochrane, aucun effet mesurable (PMID 36383762) [A, très faible certitude].\n- **« Médicament remboursé »** : service médical rendu jugé insuffisant par la HAS (2011) ; non remboursable (BDPM).\n- **« Naturel donc sans interaction »** : RCP Tanakan et mise en garde réglementaire sur les anticoagulants (voir ci-dessus).\n\nÀ voir aussi : [Déclin cognitif et neurodégénérescence](fiche:declin-cognitif-et-neurodegenerescence) · [bacopa](fiche:bacopa) · [huperzine A](fiche:huperzine-a) · [citicoline](fiche:citicoline) · [Audition et perte auditive](fiche:audition-et-perte-auditive) · [Tension artérielle](fiche:tension-arterielle).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 19017911 — DeKosky ST et al., GEM, *JAMA* 2008. doi:10.1001/jama.2008.683 (résumé relu).\n- PMID 23001963 — Laws KR et al., *Hum Psychopharmacol* 2012. doi:10.1002/hup.2259 (résumé relu).\n- PMID 41641880 — Wieland LS et al., *Cochrane Database Syst Rev* 2026. doi:10.1002/14651858.CD013661.pub2 (résumé relu).\n- PMID 25114079 — Tan MS et al., *J Alzheimers Dis* 2015. doi:10.3233/JAD-140837 (résumé relu).\n- PMID 36383762 — Sereda M et al., *Cochrane Database Syst Rev* 2022. doi:10.1002/14651858.CD013514.pub2 (résumé relu).\n- PMID 41678913 — Tiemtad P et al., *Phytomedicine* 2026. doi:10.1016/j.phymed.2026.157915 (résumé relu).\n- PMID 40198642 — Mai NTQ et al., *PLoS One* 2025. doi:10.1371/journal.pone.0321804 (résumé relu).\n- BDPM, TANAKAN 40 mg/ml solution buvable (page extrait, indications, RCP 4.3-4.8), base-donnees-publique.medicaments.gouv.fr/medicament/66029390/extrait, consulté le 2026-10-14.\n- HAS, Commission de la transparence, avis du 7 décembre 2011 (Tanakan, Tramisal, Ginkogink : SMR insuffisant), has-sante.fr/jcms/c_1172470, consulté le 2026-10-14.\n- Arrêté du 24 juin 2014 établissant la liste des plantes, autres que les champignons, autorisées dans les compléments alimentaires, annexe I (NOR ERNC1406332A), Légifrance, legifrance.gouv.fr/loda/id/JORFTEXT000029254516, texte affiché « en vigueur au 14 octobre 2026 » sans texte modificatif listé ; entrée Ginkgo biloba (feuille, graine grillée) relue par nom de plante, consulté le 2026-10-14.\n- EMA, HMPC, European Union herbal monograph on Ginkgo biloba L., folium (EMA/HMPC/321097/2012), adoptée le 28 janvier 2015, ema.europa.eu/en/medicines/herbal/ginkgo-folium, consultée le 2026-10-14 ; une consultation de révision périodique (février–mai 2022) est mentionnée sur la page, sans résultat publié lu.\n- BDPM, fichier de composition des spécialités (CIS_COMPO_bdpm.txt, base-donnees-publique.medicaments.gouv.fr/download/file/CIS_COMPO_bdpm.txt), recherche par nom de substance (ginkgo), consulté le 2026-10-14.\n- Liste des interdictions AMA 2026, recherche par nom, fichier du 2026-10-13.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Ginkgo biloba",
+ "type": "actif",
+ "unite": ""
+}

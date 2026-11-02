@@ -1,0 +1,67 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "complement",
+ "id": "omacor-1000-mg",
+ "intro": "",
+ "liens": [
+  "nutri-and-co-omega-3-epax",
+  "omega-3"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "32114706",
+  "36103100",
+  "34612056",
+  "38742535"
+ ],
+ "preuve_globale": "A",
+ "resume": "Le seul oméga-3 à teneur garantie par un statut de médicament, utile quand un médecin vise les triglycérides ; pour un usage « bien-être », sa dose d'étiquette (2 à 4 capsules) dépasse 1 g/j, zone où le risque de fibrillation atriale augmente sans bénéfice prouvé chez le sujet sain.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Le seul oméga-3 à teneur garantie par un statut de médicament, utile quand un médecin vise les triglycérides ; pour un usage « bien-être », sa dose d'étiquette (2 à 4 capsules) dépasse 1 g/j, zone où le risque de fibrillation atriale augmente sans bénéfice prouvé chez le sujet sain.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur | Preuve |\n|---|---|---|\n| EPA (ester éthylique) | 460 mg/capsule | Triglycérides −15 % environ avec les oméga-3 à longue chaîne [A] (PMID 32114706) |\n| DHA (ester éthylique) | 380 mg/capsule | Idem ; cognition : effet minime [A] (voir [oméga-3](fiche:omega-3)) |\n\nComposition, fabricant (BASF AS, Norvège) et exploitant (Pierre Fabre Médicament) : BDPM, consulté le 2026-10-03. Excipient : contient du soja (contre-indication en cas d'allergie) (BDPM, consulté le 2026-10-03).",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Médicament **non soumis à prescription médicale**, **non remboursable**, prix libre. Indication : hypertriglycéridémies endogènes en complément d'un régime insuffisant seul (type IV en monothérapie ; types IIb/III avec une statine) (BDPM, consulté le 2026-10-03). Non concerné par l'AMA.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| Le RCP dit | Les études |\n|---|---|\n| Baisse des triglycérides | [A] confirmé, environ −15 %, dose-dépendant (PMID 32114706) |\n| Pas d'indication en prévention cardiovasculaire | Cohérent avec la revue Cochrane : pas d'effet sur la mortalité ni les événements cardiovasculaires [A] (PMID 32114706) ; le bénéfice cardiovasculaire des essais vient surtout de l'EPA purifié sur prescription, pas des esters EPA+DHA [A] (PMID 36103100) |\n| Risque de fibrillation atriale dose-dépendant chez le patient cardiaque | [A] HR 1,49 au-delà de 1 g/j dans les grands essais (PMID 34612056) |\n| Allongement modéré du temps de saignement à 4 capsules/j | [A] pas d'excès global de saignement avec les oméga-3, excès seulement avec l'EPA purifié à forte dose (PMID 38742535) |\n\nCes lignes « Le RCP dit » résument la BDPM (consultée le 2026-10-03).",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Selon le RCP : 2 capsules par jour au départ, jusqu'à 4 si la réponse est insuffisante, au cours des repas pour limiter les troubles digestifs (BDPM, consulté le 2026-10-03). Effets indésirables fréquents : troubles digestifs, troubles du rythme. Sous anticoagulant : surveillance. Médicament : à utiliser sur avis médical pour son indication, même sans ordonnance.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Boîte de 28 capsules : 13,60 € (Pharmacie Randanne), 13,89 € (MaPharma), 14,95 € (Pharmacie-en-ligne.com), 15,29 € (IllicoPharma), 15,90 € (Pharmacie Veau), jusqu'à 25,99 € (Pharmacie du Littoral) (prix libres, relevés via recherche web le 2026-10-03).\n- 28 × 840 mg = 23,5 g d'EPA+DHA : **0,58 à 1,11 € par gramme d'EPA+DHA**.\n- Par mois : 14 à 28 € à 1 capsule/j (hors posologie du RCP) ; 29 à 56 € à 2 capsules/j (posologie de départ).\n- Alternative : pour un simple apport nutritionnel (250 mg/j), un complément en triglycérides comme [Nutri&Co Oméga 3 EPAX](fiche:nutri-and-co-omega-3-epax) (0,55–0,64 €/g) ou le poisson gras suffisent ; pour une hypertriglycéridémie, c'est au médecin de choisir (régime, statine, oméga-3).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non relevés [?]. Le RCP signale des troubles digestifs fréquents (nausées, diarrhée, constipation) (BDPM, consulté le 2026-10-03).",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 32114706 — Abdelhamid AS et al., *Cochrane Database Syst Rev* 2020. doi:10.1002/14651858.CD003177.pub5\n- PMID 36103100 — Yan J et al., *Cardiovasc Drugs Ther* 2022. doi:10.1007/s10557-022-07379-z\n- PMID 34612056 — Gencer B et al., *Circulation* 2021. doi:10.1161/CIRCULATIONAHA.121.055654\n- PMID 38742535 — Javaid M et al., *J Am Heart Assoc* 2024. doi:10.1161/JAHA.123.032390\n- BDPM, OMACOR 1000 mg capsule molle (code CIS 69248521 : composition, statut, RCP), consulté le 2026-10-03.\n- Prix : Pharmacie Randanne, MaPharma, Pharmacie-en-ligne.com, IllicoPharma, Pharmacie Veau, Pharmacie du Littoral (via recherche web), relevés le 2026-10-03.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_sans_ordonnance",
+ "titre": "Omacor 1000 mg (oméga-3 esters éthyliques)",
+ "type": "produit",
+ "unite": ""
+}

@@ -1,0 +1,85 @@
+{
+ "cibles": [
+  "cerveau",
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "carnosine-et-anserine",
+ "intro": "",
+ "liens": [
+  "beta-alanine",
+  "beta-alanine-carnosyn-nutrimuscle-poudre",
+  "carnosine-topique",
+  "coenzyme-q10",
+  "ergothioneine",
+  "glycemie-et-prediabete",
+  "taurine"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42123986",
+  "26682691",
+  "29088099",
+  "32594145",
+  "40999397",
+  "28245346",
+  "33914660",
+  "31319510"
+ ],
+ "preuve_globale": "A",
+ "resume": "Dipeptides à base d'histidine, présents dans la viande et le poisson, vendus pour « l'anti-glycation », la cognition et le vieillissement. Les preuves humaines existent mais sont petites, à faible certitude, et souvent d'une seule équipe.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Dipeptides à base d'histidine, présents dans la viande et le poisson, vendus pour « l'anti-glycation », la cognition et le vieillissement. Les preuves humaines existent mais sont **petites, à faible certitude, et souvent d'une seule équipe**.\n- **Cognition** : l'association ansérine/carnosine (1 g/j, 3 mois) préserve la mémoire verbale logique chez des personnes âgées dans plusieurs ECR de la **même équipe japonaise** ; la méta-analyse de ces 3 ECR trouve +1,70 point au WMS-LM2 (IC 0,19-3,2 ; I² 58 %), pas sur LM1 ; la revue de 2026 conclut à une **faible force de preuve** [A, faible certitude, équipe unique] (PMID 42123986, 26682691, 29088099).\n- **Lipides, glycémie** : carnosine et dipeptides à histidine : triglycérides −0,14 mmol/L et cholestérol total −0,32 mmol/L (études à faible risque de biais, n = 401), LDL et HDL inchangés [A, petits essais] (PMID 32594145). Prédiabète/diabète de type 2 : glycémie à jeun SMD −0,53 ; HbA1c SMD −0,36 (8 ECR, 377 participants, carnosine ou bêta-alanine) [A] (PMID 40999397).\n- **Cataracte** : les collyres d'N-acétylcarnosine **n'ont pas de preuve convaincante** d'inverser ou d'empêcher la cataracte (Cochrane) [A] (PMID 28245346).\n- Chez le sportif, voir [bêta-alanine](fiche:beta-alanine) : la carnosine musculaire monte surtout via la bêta-alanine.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Tampon de pH, piège de radicaux, chélateur de métaux, anti-glycation : propriétés de laboratoire et d'animal [D] en laboratoire, [C] chez l'animal ; rôle clinique chez l'humain non démontré [?]. Les mécanismes dans l'essai chez le sujet âgé sont mesurés par des marqueurs (chimiokines CCL2, IL-8, CCL24, débit cérébral par IRM) [B] (PMID 26682691, 29088099).\n- Questions ouvertes : l'ingestion orale de carnosine atteint-elle le cerveau ou le muscle sous forme intacte ? La carnosine ingérée est rapidement dégradée dans le plasma humain par la carnosinase-1 ; l'ansérine y résiste mieux, et l'association carnosine + ansérine multiplie par 2,5 l'aire sous la courbe plasmatique de l'ansérine (5 sujets) [B] (PMID 33914660). Atteinte du cerveau sous forme intacte : aucune donnée trouvée [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Mémoire, personnes âgées saines | 39 sujets de 60-78 ans, 1 g/j d'ansérine/carnosine (3:1), 3 mois : rappel différé du WMS-LM préservé (p = 0,0128), cytokines inflammatoires (CCL-2, IL-8) en baisse, déclin du débit sanguin du cortex cingulaire postérieur freiné (IRM) (PMID 26682691) ; 60 sujets, mêmes doses : CCL24 réduit, mémoire verbale préservée surtout dans les tranches 60 et 70 ans (PMID 29088099) | [B, ECR n=39 et n=60, même équipe] |\n| Troubles cognitifs légers (MCI) | 54 sujets, 750 mg d'ansérine + 250 mg de carnosine, 12 semaines : score CDR global amélioré (p = 0,023), pas d'effet sur MMSE, mémoire de Wechsler, ADAS ; chez les APOE4 positifs : MMSE (p = 0,025) et CDR (p = 0,026) en amélioration (PMID 31319510) | [B, ECR n=54] ; analyse en sous-groupes |\n| Cognition/humeur, revue 2026 | 13 études (12 ECR), pas de bénéfice net de la L-carnosine seule sur les mesures cognitives vs placebo ; méta-analyse de 3 ECR d'une seule équipe : WMS-LM2 +1,70 (IC 0,19-3,2) ; MMSE +0,62 (IC 0,23-1,01) avec ansérine ou antioxydants ; humeur et qualité de vie : peu d'effet ; « faible force de preuve » (PMID 42123986) | [A, faible certitude] |\n| Lipides | 21 études (18 poolées, n = 913) : dans les 6 ECR à faible risque de biais (n = 401), cholestérol total −0,32 mmol/L (IC −0,57 à −0,07), triglycérides −0,14 mmol/L (IC −0,20 à −0,08) ; pas d'effet sur LDL, HDL, tension (PMID 32594145) | [A, petits essais] |\n| Prédiabète et diabète de type 2 | 8 ECR, 377 participants : glycémie à jeun SMD −0,53 (IC −0,75 à −0,31) ; HbA1c SMD −0,36 (IC −0,59 à −0,12) ; cholestérol total plus bas ; HOMA-β amélioré ; HOMA-IR non significatif ; mélange carnosine et bêta-alanine (PMID 40999397) | [A, hétérogène] |\n| Cataracte (N-acétylcarnosine, collyre) | pas de preuve convaincante d'inversion ni de prévention de la progression (PMID 28245346) | [A] négatif |\n| Performance sportive | via la bêta-alanine, voir [bêta-alanine](fiche:beta-alanine) ; la carnosine orale directe : non recherchée ici | [?] |\n| Longévité, anti-glycation clinique, peau, foie | aucune donnée humaine retenue | [?] |\n\nLimites : essais cognitifs financés ou co-signés par une équipe unique ; sujets sains ou MCI ; 12 semaines ; compléments de marque ; pas de critère clinique dur (démence, événements CV).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Cognition : 1 g/j (ansérine 750 mg + carnosine 250 mg) pendant 3 mois (PMID 26682691, 31319510). Lipides, glycémie : doses et durées hétérogènes dans les méta-analyses et non précisées dans les résumés (texte intégral non consulté).\n- Vendu : L-carnosine 500 mg, zinc-carnosine (usage gastrique, hors périmètre ici), extraits de poulet ou de poisson riches en ansérine ; teneur réelle non vérifiée [?]. La L-carnosine seule n'a pas montré de bénéfice cognitif net dans la revue de 2026 (PMID 42123986).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Compléments alimentaires (L-carnosine, extraits d'ansérine) ; collyres à l'N-acétylcarnosine (non évalués comme médicament ici). Pas de médicament.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Carnosine : absente de la liste de l'Union des nouveaux aliments (règlement d'exécution (UE) 2017/2470, version consolidée 2026-08-10, recherche par mot-clé, EUR-Lex/Office des publications, consulté le 2026-10-14), ce qui ne tranche pas son statut (un ingrédient peut être non nouveau s'il était consommé significativement avant 1997) ; catalogue Novel Food en ligne inaccessible (application JavaScript) [?]. Allégation « carnosine/bêta-alanine » : voir la fiche [bêta-alanine](fiche:beta-alanine), qui cite le registre UE de 2013 (allégations bêta-alanine non autorisées).\n- France, substances à but nutritionnel ou physiologique : arrêté du 26 septembre 2016 (Légifrance, version en vigueur, consulté le 2026-10-14) : hors caféine, carnitine, créatine et lycopène (doses plafonnées), ces substances sont autorisées dans les compléments « sous réserve qu'elles ne soient pas considérées comme des nouveaux ingrédients » ; la DGCCRF tient un registre non consulté ici (non public à ma connaissance).\n- N-acétylcarnosine collyre : aucun médicament à base de N-acétylcarnosine dans la BDPM (fichiers CIS_bdpm et CIS_COMPO téléchargés le 2026-10-14, recherche « carnosine »/« acétylcarnosine ») ; statut des collyres vendus (dispositif médical ou autre) non établi [?].\n- AMA : carnosine et ansérine non citées dans la Liste des interdictions 2026 (PDF officiel, parcouru par mots-clés, consulté le 2026-10-14).",
+   "titre": "Réglementaire"
+  },
+  {
+   "markdown": "- Essais lus (3 à 12 semaines) : pas d'événement grave rapporté dans les résumés ; sécurité non évaluée en objectif principal [B].\n- La carnosine contient de l'histidine ; grossesse, allaitement, insuffisance rénale, interactions médicamenteuses : aucune donnée trouvée dans les résumés relus [?]. Par défaut, éviter pendant la grossesse et l'allaitement (absence de données).\n- Les effets sur la glycémie (SMD −0,53) imposent de prévenir un médecin en cas de traitement antidiabétique [A] (PMID 40999397).\n- Collyre N-acétylcarnosine : retarder une chirurgie de la cataracte indiquée sur un collyre sans preuve est le risque principal ; la Cochrane note l'absence de preuve convaincante (PMID 28245346).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Anti-âge, anti-glycation prouvé »** : propriétés de laboratoire [D] ou [C] ; essais humains sur des marqueurs ou des scores cognitifs, souvent d'une équipe, faible certitude [A] (PMID 42123986).\n- **« Efface la cataracte »** : la Cochrane ne trouve aucune preuve convaincante (PMID 28245346).\n- **« La carnosine seule améliore la mémoire »** : la revue 2026 ne trouve pas de différence nette pour la L-carnosine seule ; les effets viennent d'associations avec l'ansérine ou des antioxydants (PMID 42123986).\n- **« Baisse le cholestérol LDL »** : triglycérides et cholestérol total, pas le LDL (PMID 32594145).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Voir [carnosine topique](fiche:carnosine-topique) (voie cutanée, autre question), [bêta-alanine](fiche:beta-alanine) et [Bêta-Alanine Carnosyn en poudre Nutrimuscle](fiche:beta-alanine-carnosyn-nutrimuscle-poudre) pour la voie sportive. Autres : [taurine](fiche:taurine), [ergothionéine](fiche:ergothioneine), [coenzyme Q10](fiche:coenzyme-q10) (autres « antioxydants longévité » aux preuves comparables), [glycémie et prédiabète](fiche:glycemie-et-prediabete).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 26682691, Hisatsune et al., « Effect of Anserine/Carnosine Supplementation on Verbal Episodic Memory in Elderly People », J Alzheimers Dis 2016 (résumé relu).\n- PMID 29088099, Katakura et al., « Anserine/Carnosine Supplementation Suppresses the Expression of the Inflammatory Chemokine CCL24 in Peripheral Blood Mononuclear Cells from Elderly People », Nutrients 2017 (résumé relu).\n- PMID 31319510, Masuoka et al., « Effects of Anserine/Carnosine Supplementation on Mild Cognitive Impairment with APOE4 », Nutrients 2019 (résumé relu).\n- PMID 42123986, Hsiao et al., « The Effects of Carnosine on Cognitive Function and Mental Health – A Systematic Review and Meta-Analysis », Nutrients 2026 (résumé relu).\n- PMID 32594145, Menon et al., « Carnosine and histidine-containing dipeptides improve dyslipidemia », Nutr Rev 2020 (résumé relu).\n- PMID 40999397, Li et al., carnosine ou bêta-alanine dans le prédiabète et le diabète de type 2, BMC Endocr Disord 2025 (résumé relu).\n- PMID 33914660, Blancquaert et al., « Acute preexercise supplementation of combined carnosine and anserine enhances initial maximal power of Wingate tests in humans », J Appl Physiol 2021 (résumé relu).\n- Réglementaire : règlement (UE) 2017/2470 consolidé 2026-08-10 ; BDPM ; Liste AMA 2026 ; consultés le 2026-10-14.\n- PMID 28245346, Dubois et al., « N-acetylcarnosine (NAC) drops for age-related cataract », Cochrane Database Syst Rev 2017 (résumé relu).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Carnosine et ansérine",
+ "type": "actif",
+ "unite": ""
+}

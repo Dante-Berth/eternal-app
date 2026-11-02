@@ -1,0 +1,41 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "",
+ "id": "protocole-debutant-recuperation",
+ "intro": "Pas de dosage détaillé : doses, températures et timings ne sont pas établis par les sources lues [?].\n\n1. **Sommeil** en premier : allonger la nuit ou faire une sieste est l'intervention la mieux étayée chez les sportifs [B] ([sommeil](fiche:sommeil)).\n2. **Alimentation** : glucides rapides si séances rapprochées ; pas de gain à y ajouter des protéines pour le glycogène [A] ([alimentation](fiche:alimentation-recuperation)).\n3. **Base** : apport protéique suffisant autour de l'effort ([protéines](fiche:proteines)) : force préservée, CK↓ [A].\n4. **Si courbatures gênantes** : eau froide ou chaude [A, qualité limitée] ; effet court terme seulement ([immersion](fiche:immersion-froide)).\n5. **Optionnel à bénéfice modeste/incertain** : [oméga-3](fiche:omega-3), [cerise acide](fiche:cerise-acide).\n6. **Inutile ou non démontré pour la récupération** : vitamine E [A], [créatine](fiche:creatine) dans ce but [A, contradictoire].\n7. **À éviter** : peptides injectables du marché gris ([BPC-157](fiche:bpc-157)).\n8. Suivre soi-même : douleur et performance à 48 h, pas les CK.\n\nAu quotidien : voir [récupération au quotidien](fiche:recuperation-quotidien) (sommeil d'abord ; matériel de récupération sans bénéfice démontré sur la performance [A]).\n\nVoir [condition](fiche:recuperation-musculaire).",
+ "liens": [
+  "alimentation-recuperation",
+  "bpc-157",
+  "cerise-acide",
+  "creatine",
+  "immersion-froide",
+  "omega-3",
+  "proteines",
+  "recuperation-musculaire",
+  "recuperation-quotidien",
+  "sommeil"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 0,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [],
+ "preuve_globale": "A",
+ "resume": "Pas de dosage détaillé : doses, températures et timings ne sont pas établis par les sources lues [?].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Chaque étape renvoie à sa fiche sourcée.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Protocole débutant — récupération musculaire",
+ "type": "protocole",
+ "unite": ""
+}

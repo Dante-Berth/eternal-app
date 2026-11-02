@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "maladie-coeliaque-et-intolerances",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "cancer-estomac-helicobacter-pylori",
+  "fer-et-ferritine"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28814219",
+  "31568151"
+ ],
+ "preuve_globale": "B",
+ "resume": "Prévalence australienne estimée : 1,2 % chez l'homme adulte, 1,9 % chez la femme ; le diagnostic précoce vise à éviter carences et cancers digestifs ; la recherche active (« case finding ») est jugée appropriée dans les groupes à haut risque [B] (PMID 28814219).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Prévalence australienne estimée : 1,2 % chez l'homme adulte, 1,9 % chez la femme ; le diagnostic précoce vise à éviter carences et cancers digestifs ; la recherche active (« case finding ») est jugée appropriée dans les groupes à haut risque [B] (PMID 28814219).\n- Dépistage : IgA totales + anticorps anti-transglutaminase (TGA-IgA) ; diagnostic sans biopsie chez l'enfant si TGA-IgA ≥ 10 × la limite supérieure et EMA positifs [B, recommandation ESPGHAN 2020] (PMID 31568151). Chez l'adulte, biopsie duodénale sous régime contenant du gluten (PMID 28814219).\n- Ne pas démarrer un régime sans gluten avant le test : le diagnostic exige une exposition au gluten (PMID 28814219).\n- Le typage HLA DQ2/DQ8 ne fait qu'exclure la maladie (haplotypes présents chez 56 % de la population australienne) (PMID 28814219).\n- Dépistage de masse de la population générale : non retrouvé ici [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Maladie immunitaire déclenchée par le gluten, entéropathie de l'intestin grêle (PMID 28814219).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Levier | Résultat | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Régime sans gluten strict | Cicatrisation duodénale, symptômes améliorés (PMID 28814219) | [B] | Non applicable | non recherché |\n| Sérologie TGA-IgA + IgA totales | Meilleure association de tests (PMID 31568151) | [B] | Remboursement : non consulté [?] | non recherché |\n| Anticorps anti-gliadine déamidée (initial) | Déconseillé en première intention chez l'enfant (PMID 31568151) | [B] | - | - |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Qui tester : symptômes digestifs ou extra-digestifs persistants (anémie ferriprive, voir [fer et ferritine](fiche:fer-et-ferritine)) et groupes à risque ; liste exacte (diabète de type 1, apparentés au 1er degré, etc.) : non vérifiée dans les sources lues [?].\n- Intermédiaire : sérologie avant tout régime sans gluten.\n- Avancé : biopsies par gastroentérologue ; suivi annuel de l'observance (PMID 28814219).",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "Supprimer le gluten avant le test (faux négatifs) ; confondre sensibilité au gluten non cœliaque et maladie cœliaque.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "« Sans gluten = plus sain » pour la population générale : non étudié dans les sources lues [?]. La sensibilité au gluten non cœliaque est un syndrome défini par des symptômes sans cœliaquie ni allergie au blé diagnostiquées (PMID 28814219) ; pas de test biologique validé cité.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Un dosage IgA normal ne suffit pas si l'IgA totale est basse : un test IgG est alors indiqué (PMID 31568151).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Non recherchées : [?]. À traiter dans une fiche dédiée si besoin.",
+   "titre": "Intolérances : lactose, FODMAP, etc."
+  },
+  {
+   "markdown": "Diarrhée chronique, ballonnements, perte de poids, anémie, ostéoporose précoce, aphtes, dermatite herpétiforme, apparenté du 1er degré atteint.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "Recommandations HAS/SNFGE et remboursement des produits sans gluten : non consultés [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "[Fer et ferritine](fiche:fer-et-ferritine), [alimentation](fiche:alimentation), [cancers digestifs : estomac](fiche:cancer-estomac-helicobacter-pylori).",
+   "titre": "Voir aussi"
+  },
+  {
+   "markdown": "- PMID 28814219 — Walker MM et al., *Med J Aust* 2017\n- PMID 31568151 — Husby S et al., *J Pediatr Gastroenterol Nutr* 2020 (ESPGHAN, pédiatrique)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Maladie cœliaque et intolérances : quand dépister",
+ "type": "condition",
+ "unite": ""
+}

@@ -1,0 +1,72 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "peptide",
+ "id": "the-ordinary-matrixyl-10-ha",
+ "intro": "",
+ "liens": [
+  "acide-hyaluronique-filler",
+  "aha-bha",
+  "differine-adapalene-0-1",
+  "palmitoyl-pentapeptide-4",
+  "protection-solaire",
+  "retinoides"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "39963574",
+  "38932444"
+ ],
+ "preuve_globale": "D",
+ "resume": "Sérum peu cher (≈ 12,5 € les 30 ml) qui empile trois peptides de marque (« deux générations de Matrixyl ») et de l'acide hyaluronique, mais aucun essai humain contrôlé sur ces peptides isolés n'a été trouvé ; un produit d'hydratation et de confort à tester, pas un anti-rides prouvé, et loin des r…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Sérum peu cher (≈ 12,5 € les 30 ml) qui empile trois peptides de marque (« deux générations de Matrixyl ») et de l'acide hyaluronique, mais **aucun essai humain contrôlé sur ces peptides isolés n'a été trouvé** ; un produit d'hydratation et de confort à tester, pas un anti-rides prouvé, et loin des rétinoïdes sur le plan des preuves.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "INCI complet (page The Ordinary, version Slovaquie, consultée le 2026-10-12) : Aqua, Glycerin, Butylene Glycol, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-38, Sodium Hyaluronate, Hydroxypropyl Cyclodextrin, PPG-26-Buteth-26, PEG-40 Hydrogenated Castor Oil, Polyacrylate Crosspolymer-6, Trisodium Ethylenediamine Disuccinate, Carbomer, Polysorbate 20, Ethoxydiglycol, Phenoxyethanol, Chlorphenesin. La page précise que la liste peut varier selon la région et la date d'achat.\n\n| Actif | Concentration | Preuve |\n|---|---|---|\n| Palmitoyl tripeptide-1 (Pal-GHK) + palmitoyl tetrapeptide-7 (« Matrixyl 3000 ») | non déclarée (le « 10 % » du nom ne détaille pas) | Revue 2025 : cellules : effet anti-rides plausible, mais « absence surprenante d'études cliniques » du Pal-GHK ; aucun essai contrôlé isolant le Pal-GHK ou le tétrapeptide-7 [D] (PMID 39963574). Crème contour des yeux multi-actifs (avec filtrat de fermentation de levure/riz et acide N-acétylneuraminique) : hydratation +28 %, élasticité +19 %, collagène +55 % en 12 semaines, sans groupe contrôle décrit dans le résumé [B, multi-actifs] (PMID 38932444) |\n| Palmitoyl tripeptide-38 (Matrixyl Synthe'6) | non déclarée | Aucune étude à ce nom trouvée dans PubMed (recherche du 2026-10-12) [?] |\n| [Hyaluronate de sodium](fiche:acide-hyaluronique-filler) | non déclarée | Hydratation de surface ; l'effet anti-rides durable d'un sérum d'acide hyaluronique : non recherché ici [?] |\n\nPas d'analyse indépendante du produit trouvée [?]. Les pourcentages de peptides actifs ne sont pas communiqués par la marque.",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Cosmétique (INCI, vente libre). CosIng non consulté pour ces ingrédients [?]. Matrixyl est une marque de Sederma ; la page indique que DECIEM/The Ordinary n'est pas affilié à Sederma (consulté le 2026-10-12).",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque dit | Les études |\n|---|---|\n| « Sérum raffermissant qui cible les ridules » ; « peau plus ferme et plus rebondie » | Aucune étude du produit ni de la combinaison trouvée ; un essai d'une crème multi-actifs avec les mêmes deux peptides rapporte de meilleurs paramètres de peau en 12 semaines, sans isoler les peptides [B] (PMID 38932444) |\n| « Deux générations de Matrixyl » | Argument de fournisseur d'ingrédient ; ses études internes ne sont pas retrouvées dans PubMed [?] |\n| Convient à tous les types de peau | Tolérance : non étudiée spécifiquement ; la marque conseille un test sur une petite zone |",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Marque : quelques gouttes sur le visage matin et soir, sur peau non lésée, test préalable conseillé ; à ne pas associer, selon la marque, aux acides directs, à la vitamine C directe, au resvératrol-acide férulique, à l'acide salicylique ni au « Multi-Antioxidant Radiance Serum » (page The Ordinary, 2026-10-12).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- 30 ml : 12,50 € sur le site The Ordinary (version Slovaquie) ; 12,95 € chez un revendeur allemand (relevés du 2026-10-12, via recherche web) ; prix en France non relevé [?].\n- Durée d'un flacon selon l'usage (quelques gouttes matin et soir) : non mesurée ; colonne prix mensuel fondée sur l'hypothèse d'un flacon pour 1 à 2 mois [?].\n- Alternative à preuve supérieure : les rétinoïdes ([adapalène 0,1 %](fiche:differine-adapalene-0-1), [rétinol](fiche:retinoides)) et la [protection solaire](fiche:protection-solaire) ; pour un peptide de contraste, le [palmitoyl pentapeptide-4](fiche:palmitoyl-pentapeptide-4) a au moins un essai humain contrôlé de taille correcte.",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non consultés [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Sans acide ni alcool dénaturé ; contient du phénoxyéthanol et de la chlorphénésine (conservateurs). Allergies : test préalable (marque).\n- Associations avec acides forts : voir [AHA et BHA](fiche:aha-bha) ; la marque déconseille certaines associations.",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "1. The Ordinary, Matrixyl 10% + HA — https://theordinary.com/en-sk/matrixyl-10-ha-serum-100431.html (consulté le 2026-10-12)\n2. Mortazavi SM et al. *Bioimpacts* 2025 — PMID 39963574 — [DOI](https://doi.org/10.34172/bi.30071) (revue sur le Pal-GHK)\n3. Yang F et al. *Skin Res Technol* 2024 — PMID 38932444 — [DOI](https://doi.org/10.1111/srt.13790) (crème contour des yeux multi-actifs)\n4. Prix revendeur allemand : résultat de recherche du 2026-10-12, page non lue.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "The Ordinary Matrixyl 10% + HA",
+ "type": "produit",
+ "unite": ""
+}

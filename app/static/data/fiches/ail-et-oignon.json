@@ -1,0 +1,80 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "alimentation",
+ "id": "ail-et-oignon",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "apob-lipides-et-statines",
+  "depistage-cancer-colorectal",
+  "quercetine",
+  "tension-arterielle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 10,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "40580481",
+  "26764326",
+  "41393949",
+  "40628369",
+  "39437887",
+  "25215621",
+  "24976533",
+  "25386977",
+  "17918162",
+  "11144706"
+ ],
+ "preuve_globale": "A",
+ "resume": "Les essais randomisés portent sur des préparations d'ail (poudre, ail vieilli, extraits), pas sur l'ail cru du repas. Méta-analyse de 108 ECR (7 137 adultes) : cholestérol total -10,21 mg/dL, LDL -5,90 mg/dL, triglycérides -5,82 mg/dL, HDL +2,18 mg/dL, tension systolique -3,71 mmHg, diastolique -…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Les essais randomisés portent sur des préparations d'ail (poudre, ail vieilli, extraits), pas sur l'ail cru du repas.** Méta-analyse de 108 ECR (7 137 adultes) : cholestérol total -10,21 mg/dL, LDL -5,90 mg/dL, triglycérides -5,82 mg/dL, HDL +2,18 mg/dL, tension systolique -3,71 mmHg, diastolique -1,97 mmHg, glycémie à jeun -2,77 mg/dL [A, effets petits, hétérogènes] (PMID 40580481).\n- **Chez l'hypertendu l'effet est plus net.** 20 essais, 970 participants : systolique -5,1 mmHg, diastolique -2,5 mmHg ; chez les hypertendus (≥ 140/90) systolique -8,7 et diastolique -6,1 mmHg [A] (PMID 26764326) ; 10 ECR chez des hypertendus : systolique -4,21 mmHg (-5,74 à -2,69), diastolique -3,13 [A] (PMID 41393949). Ail vieilli seul (19 essais) : systolique -2,49 mmHg, LDL -4,41 mg/dL [A, faible effet] (PMID 40628369). Une autre méta-analyse sur l'ail vieilli et la tension (PMID 39437887) est classée « rétractée » dans PubMed : à ne pas utiliser.\n- **Ordre de grandeur** : quelques mmHg et quelques mg/dL, bien en dessous d'un médicament ; voir [tension artérielle](fiche:tension-arterielle) et [lipides](fiche:apob-lipides-et-statines).\n- **Cancer : surtout des études cas-témoins, pas de signal net dans les cohortes.** Estomac : allium RR 0,78 (0,67-0,91), ail RR 0,60, oignon RR 0,55 (études cas-témoins) ; quatre cohortes RR 1,02 (0,88-1,18) [B, cas-témoins] (PMID 25215621). Colorectal : ail RR 0,85 (0,72-1,00), oignon RR 0,85 (0,70-1,04) ; cohortes ail 0,99, oignon 1,04 [B] (PMID 24976533).\n- **Rhume** : Cochrane (1 seul essai retenu, 146 participants, 180 mg d'allicine/j pendant 12 semaines) : 24 rhumes sous ail vs 65 sous placebo ; conclusions limitées par l'essai unique et les épisodes auto-déclarés [B, ECR unique n=146] (PMID 25386977).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Non extrait des résumés lus comme explication démontrée [?]. L'ail contient des composés soufrés (dont l'allicine, citée dans l'essai du rhume) ; leur part dans l'effet sur la tension et les lipides : non évaluée dans les sources lues [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Lipides, tension, glycémie (108 ECR) | LDL -5,90 mg/dL, TG -5,82, HDL +2,18, SBP -3,71, DBP -1,97, HOMA-IR -0,37 (PMID 40580481) | [A, hétérogène] |\n| Tension, population générale | 20 ECR, n=970 : SBP -5,1, DBP -2,5 mmHg ; hypertendus SBP -8,7, DBP -6,1 (PMID 26764326) | [A] |\n| Tension, hypertendus uniquement | 10 ECR : SBP -4,21, DBP -3,13 mmHg ; HDL augmenté, TNF-α diminué (PMID 41393949) | [A] |\n| Ail vieilli | 19 essais : SBP -2,49 mmHg, LDL -4,41 mg/dL ; DBP, HDL non modifiés (PMID 40628369) | [A, faible effet] |\n| Cholestérol, revue incluse | 39 ECR antérieurs, 2 300 adultes : cholestérol total et LDL -10 % si ≥ 2 mois chez des sujets au cholestérol légèrement élevé (> 200 mg/dL) (cité dans PMID 26764326) | [A, ancien] |\n| Cancer de l'estomac | allium RR 0,78 (0,67-0,91) ; ail 0,60 (0,47-0,76) ; oignon 0,55 (0,41-0,73) ; cohortes seules RR 1,02 (PMID 25215621) | [B, cas-témoins] |\n| Cancer colorectal, polypes | ail 0,85 (0,72-1,00) ; total allium 0,78 (0,56-1,08, NS) ; polypes adénomateux 0,88 (0,80-0,98) (PMID 24976533) | [B] |\n| Rhume | un seul ECR : 24 vs 65 rhumes sur 12 semaines (PMID 25386977) | [B, ECR unique n=146] |\n| Oignon seul (quercétine), extraits de pelure | essais sur la tension : non lus [?] | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Doses des essais** : formes variées (poudre, extrait vieilli, huile, aliment) ; dose par essai non extraite des résumés de méta-analyses [?]. Dans l'essai du rhume : 180 mg d'allicine par jour (PMID 25386977).\n- **Vendu** : gélules « ail » et « ail noir » : teneur en allicine ou S-allylcystéine souvent non standardisée ; non vérifiée sur les produits français [?].\n- **Ail cuisiné** : l'effet d'une gousse crue par jour vs ail cuit n'est pas testé dans les méta-analyses lues [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Aliment (ail, oignon, échalote, poireau). Gélules et extraits : compléments alimentaires ; statut exact et allégations autorisées non consultés [?]. Statut AMA : non concerné (non vérifié).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Anticoagulants et saignements** : une revue des effets indésirables décrit, à partir de cas, une possible altération de la fonction plaquettaire et de la coagulation (risque hémorragique) et un renforcement possible de warfarine et fluindione ; elle rapporte aussi une baisse d'efficacité du saquinavir (antiviral) [B, revue de cas] (PMID 17918162). **La preuve d'une interaction avec la warfarine est faible** : revue des preuves de 2000, interaction « non démontrée » avec l'ail ; trois cas d'hémorragie sous ail chez des patients qui ne prenaient pas de warfarine (PMID 11144706). Prudence avec les compléments en cas d'antivitamine K, d'antiagrégants ou avant une chirurgie ; avis médical (conduite de précaution).\n- **Allergie et peau** : urticaire, dermatite de contact, brûlures par application sur la peau sous pansement occlusif décrites (PMID 17918162). Odeur d'haleine et du corps : effet le plus fréquent (PMID 17918162).\n- **Allaitement** : l'ail consommé par les mères modifie le comportement du nourrisson (PMID 17918162).\n- Grossesse, effets digestifs, interaction avec d'autres médicaments : non recherchés plus loin [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« L'ail remplace un traitement antihypertenseur ou une statine »** : -4 à -5 mmHg de systolique et -6 mg/dL de LDL en moyenne au mieux [A] (PMID 40580481, 41393949) ; l'ail vieilli seul : -2,5 mmHg et -4,4 mg/dL [A] (PMID 40628369).\n- **« L'ail prévient le cancer »** : signal dans les cas-témoins, absent dans les cohortes d'estomac et de côlon [B] (PMID 25215621, 24976533).\n- **« L'ail guérit le rhume »** : un seul essai (146 personnes), épisodes auto-déclarés [B] (PMID 25386977).\n- **« Ail et warfarine : danger certain »** : preuve de cas isolés, interaction non démontrée en 2000 [B] (PMID 11144706) ; précaution justifiée pour les compléments.\n\nVoir aussi : [alimentation : synthèse](fiche:alimentation) · [tension artérielle](fiche:tension-arterielle) · [lipides et ApoB](fiche:apob-lipides-et-statines) · [quercétine](fiche:quercetine) · [dépistage du cancer colorectal](fiche:depistage-cancer-colorectal).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 40580481 — Behrouz et al., *Nutr Rev* 2026 (108 ECR, ail). doi:10.1093/nutrit/nuaf090\n- PMID 26764326 — Ried et al., *J Nutr* 2016 (tension, cholestérol, immunité). doi:10.3945/jn.114.202192\n- PMID 41393949 — Tang et al., *Front Nutr* 2025 (hypertendus). doi:10.3389/fnut.2025.1656809\n- PMID 40628369 — Bashiri et al., *Phytother Res* 2025 (ail vieilli). doi:10.1002/ptr.70032\n- PMID 39437887 — Saadh et al., *Prostaglandins Other Lipid Mediat* 2024 (ail vieilli et tension ; rétractée, non utilisée). doi:10.1016/j.prostaglandins.2024.106914\n- PMID 25215621 — Turati et al., *Mol Nutr Food Res* 2015 (estomac). doi:10.1002/mnfr.201400496\n- PMID 24976533 — Turati et al., *Mol Nutr Food Res* 2014 (colorectal). doi:10.1002/mnfr.201400169\n- PMID 25386977 — Lissiman et al., *Cochrane Database Syst Rev* 2014 (rhume). doi:10.1002/14651858.CD006206.pub4\n- PMID 17918162 — Borrelli et al., *Mol Nutr Food Res* 2007 (effets indésirables, interactions). doi:10.1002/mnfr.200700072\n- PMID 11144706 — Vaes et al., *Ann Pharmacother* 2000 (warfarine, ail, gingembre, ginkgo, ginseng). doi:10.1345/aph.10031",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Ail et oignon (Allium)",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,62 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "medicament",
+ "id": "vaccin-pneumocoque",
+ "intro": "",
+ "liens": [
+  "tabac-et-alcool",
+  "vaccin-zona-shingrix",
+  "vaccins-dtcap-et-hpv-adulte",
+  "vaccins-respiratoires-grippe-covid-vrs"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "25785969",
+  "42477963"
+ ],
+ "preuve_globale": "A",
+ "resume": "Le seul grand ECR de référence chez les 65 ans et plus concerne le PCV13 (CAPiTA, n = 84 496) : efficacité 45,6 % (21,8-62,5) sur la pneumonie communautaire due aux sérotypes vaccinaux et 75,0 % (41,4-90,8) sur la maladie invasive [B, ECR unique n=84 496].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Le seul grand ECR de référence chez les 65 ans et plus concerne le PCV13 (CAPiTA, n = 84 496) : efficacité 45,6 % (21,8-62,5) sur la pneumonie communautaire due aux sérotypes vaccinaux et 75,0 % (41,4-90,8) sur la maladie invasive [B, ECR unique n=84 496].\n- Sur la pneumonie toute cause (analyse en intention de traiter modifiée) : efficacité 5,1 % (IC -5,1 à 14,2), non significative. Gain d'ensemble sur la pneumonie, l'hospitalisation toutes causes et la mortalité : non démontré par cet essai.\n- Financé par Pfizer. Les vaccins actuels recommandés en France (Prevenar 20, Capvaxive 21-valent) n'ont, dans ce que j'ai trouvé, que des données d'immunogénicité et non d'efficacité clinique en ECR [?].\n- France : recommandé à tous dès 65 ans depuis avril 2025, 1 dose, remboursé à 65 % (SPF, consulté le 2026-10-15).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Vaccin conjugué : polyoside capsulaire lié à une protéine porteuse, induisant mémoire immunitaire T-dépendante (contrairement au Pneumovax 23, polyosidique pur). Protège uniquement contre les sérotypes inclus ; l'épidémiologie de la maladie évolue avec la vaccination des enfants.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Résultat (CAPiTA, PCV13, 65 ans et plus, suivi moyen 3,97 ans) | Chiffre | Tag |\n|---|---|---|\n| Premier épisode de pneumonie à sérotype vaccinal (per protocole) | 49 vs 90 cas ; efficacité 45,6 % (21,8-62,5) | [B, ECR unique n=84 496] |\n| Pneumonie non bactériémique et non invasive à sérotype vaccinal | 45,0 % (14,2-65,3) | [B, ECR unique n=84 496] |\n| Maladie invasive à sérotype vaccinal | 7 vs 28 cas ; 75,0 % (41,4-90,8) | [B, ECR unique n=84 496] |\n| Pneumonie communautaire toute cause (mITT) | 5,1 % (-5,1 à 14,2) | [B, ECR unique n=84 496] |\n| Événements graves et décès | comparables entre groupes | [B, ECR unique n=84 496] |\nSource : PMID 25785969. Effets du PCV20 ou du PCV21 sur la pneumonie, l'hospitalisation ou la mortalité : pas d'ECR retrouvé ; une méta-analyse en réseau 2026 ne compare que l'immunogénicité PCV20 vs PCV15 (PMID 42477963, résumé non relu pour les chiffres) [?].\n\nDistinguer : infection invasive à sérotype vaccinal (forte efficacité) ≠ pneumonie toute cause (non démontrée) ≠ mortalité (non retrouvée) [?].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "(Santé publique France, vaccination-info-service.fr, mise à jour du 2026-01-01, consulté le 2026-10-15 ; HAS non consultée directement, à vérifier.)\n- Depuis avril 2025 : tous les adultes de 65 ans et plus.\n- Moins de 65 ans avec facteur de risque (immunodépression, syndrome néphrotique, insuffisance cardiaque, maladie respiratoire chronique, asthme sévère, mucoviscidose, maladie rénale ou hépatique chronique, diabète, drépanocytose, implant cochléaire).\n- 1 dose ; rappel non démontré nécessaire.\n- Vaccins : Prevenar 20 (adultes à risque dès 18 ans et tous les 65 ans et plus), Capvaxive (21-valent, dès 18 ans), Pneumovax (23-valent).\n- Remboursement 65 % (reste souvent par la complémentaire).",
+   "titre": "Recommandations françaises"
+  },
+  {
+   "markdown": "- Très fréquents : réactions au site d'injection ; fréquents : fièvre, douleurs musculaires ou articulaires ; allergie grave très rare (SPF).\n- CAPiTA : plus de réactions locales avec le vaccin, événements graves et décès similaires (PMID 25785969).\n- Contre-indications : allergie aux composants, report en cas de fièvre aiguë.",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- « Vaccin contre la pneumonie » : l'ECR montre un effet sur la pneumonie due aux sérotypes du vaccin, pas sur l'ensemble des pneumonies.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 25785969 — Bonten MJ et al., *N Engl J Med* 2015 (CAPiTA, Pfizer)\n- PMID 42477963 — Valentini et al., *Hum Vaccin Immunother* 2026 (immunogénicité PCV20 vs PCV15, résumé non relu)\n- Web, consulté le 2026-10-15 : vaccination-info-service.fr (Santé publique France), page Pneumocoque.\n\nVoir aussi : [vaccins respiratoires](fiche:vaccins-respiratoires-grippe-covid-vrs), [zona](fiche:vaccin-zona-shingrix), [dTcaP et HPV](fiche:vaccins-dtcap-et-hpv-adulte), [tabac et alcool](fiche:tabac-et-alcool).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Vaccin pneumococcique de l'adulte",
+ "type": "actif",
+ "unite": ""
+}

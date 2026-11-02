@@ -1,0 +1,72 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "peptide",
+ "id": "the-ordinary-argireline-solution-10",
+ "intro": "",
+ "liens": [
+  "acetyl-hexapeptide-8",
+  "protection-solaire",
+  "retinoides",
+  "toxine-botulique"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "36909866",
+  "28150423",
+  "41668671",
+  "42675285"
+ ],
+ "preuve_globale": "B",
+ "resume": "Un seul actif (acétyl hexapeptide-8) à environ 8-10 € les 30 ml, simple à lire, mais la preuve humaine de l'AH-8 est faible (petits essais, effet sur rides superficielles) et n'a rien d'un « botox en flacon » ; à tester si on veut un peptide bon marché, avec des attentes modestes.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Un seul actif (acétyl hexapeptide-8) à environ 8-10 € les 30 ml, simple à lire, mais la preuve humaine de l'AH-8 est faible (petits essais, effet sur rides superficielles) et **n'a rien d'un « botox en flacon »** ; à tester si on veut un peptide bon marché, avec des attentes modestes.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "INCI (page Cult Beauty, consultée le 2026-10-12) : Aqua, Propanediol, Acetyl Hexapeptide-8, Trisodium Ethylenediamine Disuccinate, Gellan Gum, Sodium Chloride, Isoceteth-20, Ethoxydiglycol, Potassium Sorbate, Phenoxyethanol, Chlorphenesin.\n\n| Actif | Concentration | Preuve |\n|---|---|---|\n| [Acétyl hexapeptide-8](fiche:acetyl-hexapeptide-8) | « 10 % » du nom de solution ; teneur en peptide pur non déclarée (le produit est une solution de matière première Argireline) | Rides, microtopographie : petits essais randomisés (n=24, n=21), pentapeptide-4 souvent meilleur que l'AH-8 ; sérum combiné de L'Oréal sans contrôle de l'actif ; pas d'effet sur le collagène chez le rat [B] (voir la fiche de l'actif) |\n| Excipients (propanediol, gomme gellane, conservateurs) | non déclarés | Sans objet |\n\nPas d'analyse indépendante du produit trouvée [?].",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Cosmétique (INCI, vente libre). CosIng non consulté [?]. Argireline est un nom de marque d'ingrédient (fournisseur non vérifié ici).",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque dit | Les études |\n|---|---|\n| « Réduit l'aspect des rides du front et des plis d'expression » ; « aide à relâcher l'aspect des rides » | Effets modestes sur les rides en petits essais ; aucune comparaison avec la toxine botulique ; la marque formule en « aspect » prudent [B] (voir [Argireline](fiche:acetyl-hexapeptide-8)) |\n| Cible surtout le contour des yeux et le front | Un essai asiatique de 21 femmes sur le contour de l'œil a trouvé des améliorations chez certains sujets sous AH-8, moins nettes que sous pentapeptide-4 (PMID 36909866, via la fiche de l'actif) [B, ECR unique n=21] |\n| « Plumping and hydrating peptide compound » | Hydratation : non étudiée ici [?] |",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Marque : quelques gouttes sur le front et autour des yeux, deux fois par jour, avant les soins plus riches (Cult Beauty, 2026-10-12). Pas de consigne de dose de laboratoire.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- 30 ml : 9,20 £ de prix conseillé, 7,36 £ en promotion chez Cult Beauty (UK, 2026-10-12) ; 8,46 € (prix conseillé 10,58 €) chez Lookfantastic Allemagne (2026-10-12) ; prix en France non relevé [?].\n- Flacon pour environ 1 à 2 mois (hypothèse d'usage) : colonne prix mensuel indicative [?].\n- Alternatives à preuve supérieure : [rétinoïdes](fiche:retinoides) (adapalène, rétinol) ; [protection solaire](fiche:protection-solaire). Pour les rides d'expression marquées, la [toxine botulique](fiche:toxine-botulique) a un effet démontré par essais, contrairement à l'AH-8.",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non consultés [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Cosmétique sans acide ; conservateurs (phénoxyéthanol, chlorphénésine, sorbate de potassium). Aucun avertissement spécifique sur la page lue ; tester sur une petite zone, éviter l'application sur peau lésée (précaution générale, non issue de la page) [?].",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "1. Cult Beauty (UK), The Ordinary 10% Argireline Solution 30ml — https://www.cultbeauty.co.uk/p/the-ordinary-10-argireline-solution-30ml/11416769/ (consulté le 2026-10-12)\n2. Lookfantastic (DE), même produit — https://www.lookfantastic.de/the-ordinary-10-argireline-solution-30ml/11416769.html (prix issu d'un résultat de recherche du 2026-10-12, page non lue)\n3. Fiche [acétyl hexapeptide-8 (Argireline)](fiche:acetyl-hexapeptide-8) : PMID 28150423, PMID 36909866, PMID 41668671, PMID 42675285 (résumés relus lors de sa rédaction).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "The Ordinary Argireline Solution 10%",
+ "type": "produit",
+ "unite": ""
+}

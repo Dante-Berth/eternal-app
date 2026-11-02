@@ -1,0 +1,82 @@
+{
+ "cibles": [
+  "sante-mentale"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "5-htp",
+ "intro": "",
+ "liens": [
+  "anxiete",
+  "ashwagandha",
+  "depression",
+  "insomnie",
+  "l-theanine",
+  "melatonine",
+  "rhodiola"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "11869656",
+  "31504850",
+  "35940251",
+  "38309227",
+  "40944161",
+  "33375373",
+  "16023217",
+  "37309284",
+  "25978918",
+  "15068828",
+  "6997735"
+ ],
+ "preuve_globale": "B",
+ "resume": "Précurseur direct de la sérotonine, extrait des graines de *Griffonia simplicifolia*, vendu pour l'humeur, le sommeil et l'appétit. La preuve de dépression est ancienne, de très faible qualité, et le principal essai récent contre placebo est négatif.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Précurseur direct de la sérotonine, extrait des graines de *Griffonia simplicifolia*, vendu pour l'humeur, le sommeil et l'appétit. **La preuve de dépression est ancienne, de très faible qualité**, et le principal essai récent contre placebo est négatif.\n- **Dépression** : la Cochrane (2002) a retrouvé 108 études, dont **2 seulement** de qualité suffisante (64 patients, 5-HTP ou tryptophane) : Peto OR 4,10 (1,28–13,15), NNT 2,78, mais preuve « de qualité insuffisante pour être concluante » [A, très faible certitude] (PMID 11869656). Une méta-analyse de 2020 (13 études, 7 dans l'analyse) calcule une rémission de 0,65 (0,55–0,78) et un g de Hedges de 1,11 (0,53–1,69), avec I² 76 % et « peu d'études avec groupe placebo » [A, très faible certitude] (PMID 31504850). Les chiffres sont gonflés par des études sans contrôle.\n- **Fatigue de la maladie inflammatoire de l'intestin** : ECR croisé contre placebo, 166 patients, 2 × 100 mg/j pendant 8 semaines : 35,6 % de répondeurs sous 5-HTP vs 37,6 % sous placebo (p=0,830), malgré une hausse mesurée de la sérotonine sanguine [B, ECR unique n=166] (PMID 35940251).\n- **Sommeil et cognition du sujet âgé** : deux publications qui semblent issues du même essai (30 personnes, 100 mg/j, 12 semaines, **simple aveugle, sans placebo**) : sommeil subjectif meilleur chez les « mauvais dormeurs » seulement, score MoCA 26,6 → 27,6 [B, ECR n=30] (PMID 38309227, 40944161).\n- **Sécurité** : syndrome sérotoninergique avec les médicaments sérotoninergiques (mécanisme) ; histoire du syndrome éosinophilie-myalgie lié à du L-tryptophane contaminé en 1989, sans cas équivalent démontré pour le 5-HTP.\n- **France** : l'oxitriptan (5-HTP) existe **comme médicament** : LEVOTONINE 100 mg gélule (AMM du 20/02/1981), indiquée dans le myoclonus post-anoxique (syndrome de Lance et Adams), non dans la dépression (BDPM). *Griffonia* est absente de l'annexe I de l'arrêté plantes (version en vigueur au 2026-10-14) ; statut des compléments de 5-HTP : [?] (voir « Formes disponibles et statut »).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Le 5-HTP est converti en sérotonine par une décarboxylase puis en mélatonine ; l'étape limitante de la synthèse est la tryptophane hydroxylase, donc le 5-HTP la contourne (PMID 33375373, 16023217). Une partie de la conversion se fait en périphérie, où un inhibiteur de la décarboxylase (carbidopa) peut la bloquer (PMID 16023217). Effet du 5-HTP oral sur la sérotonine **cérébrale** à dose de complément : [?] ; le sang périphérique, lui, s'enrichit en sérotonine (PMID 35940251).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Dépression (unipolaire, dysthymie) | Cochrane 2002 : 108 études, 2 incluses (n=64) ; Peto OR 4,10 (1,28–13,15) ; NNT 2,78 ; preuve insuffisante pour conclure (PMID 11869656) | [A, très faible certitude] |\n| Dépression, méta-analyse de 2020 | 13 études ; rémission 0,65 (0,55–0,78, k=13) ; g 1,11 (0,53–1,69) ; I² 76 % ; peu d'études avec placebo ; grille OHAT : études « relativement faibles » dans l'ensemble (PMID 31504850) | [A, très faible certitude] |\n| Fatigue, MICI en rémission | ECR croisé, 166 patients, 100 mg × 2/j : réduction ≥ 20 % de la fatigue 35,6 % vs 37,6 % (p=0,830) ; fVAS −0,18 (−0,81 à 0,46) ; pas de différence sur dépression, anxiété, stress (PMID 35940251) | [B, ECR unique n=166] |\n| Sommeil, sujets âgés | 30 sujets (66 ± 3 ans), 100 mg/j vs aucun supplément, 12 semaines, **simple aveugle** : score global de sommeil subjectif amélioré chez les « poor sleepers » (ΔSL −2,80 ± 1,10 min, p=0,005, unité telle que rapportée dans le résumé) ; sérotonine sanguine ↑ ; pas d'amélioration chez les bons dormeurs (PMID 38309227) | [B, ECR n=30 sans placebo] |\n| Cognition et humeur, sujets âgés | Même design, 30 sujets : MoCA 26,6 → 27,6 (p < 0,05) dans le groupe 5-HTP ; GDS 1,2 → 0,7 à la semaine 8 ; pas d'effet sur l'anxiété (GAI) ; auteurs : à interpréter prudemment (PMID 40944161) | [B, ECR n=30 sans placebo] |\n| Myoclonus post-anoxique (médicament) | Indication de l'AMM française de Levotonine (1981) ; aucun essai contrôlé dans les sources lues (PubMed « oxitriptan / 5-HTP myoclonus » ne renvoie que des articles anciens (1967–1998), sans essai contrôlé exploitable) | [?] |\n| Anxiété, fibromyalgie, migraine, obésité | [?] non recherchés au-delà d'une revue générale (PMID 33375373) | [?] |\n\nLes deux publications portent sur 30 sujets âgés de 66 ± 3 ans, 100 mg/j, 12 semaines, même design sans placebo : probablement le même essai (non précisé), donc pas deux confirmations indépendantes (PMID 38309227, 40944161).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Étudié** : 100 mg/j (sujets âgés) ; 100 mg × 2/j (MICI). Doses des essais de dépression : [?] absentes des résumés de la Cochrane (PMID 11869656) et de la méta-analyse de 2020 (PMID 31504850), textes intégraux non libres. **Médicament (RCP Levotonine)** : adulte 700 mg à 1 g/j, augmenté progressivement sur 2 à 4 semaines.\n- **Vendu** : gélules d'extrait de Griffonia titré en 5-HTP (extraits « standardisés à 30 % » vus chez des revendeurs français, source de fait uniquement) ; teneurs et dosages du marché français : [?] non relevés. Des vendeurs invoquent une dose maximale « ANSES » de 50 à 100 mg/j : **aucun avis ANSES sur le 5-HTP ou le Griffonia retrouvé** (recherche web), donc chiffre non sourcé.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Gélules d'extrait de graines de *Griffonia simplicifolia* ; 5-HTP « pur ».\n- **France, plante** : *Griffonia simplicifolia* n'apparaît pas dans l'annexe I de l'arrêté du 24 juin 2014, (recherche par nom du texte, Légifrance, consulté le 2026-10-14). Annexe I relue dans la version en vigueur au 2026-10-14 (aucun texte modificatif listé) : l'entrée « Griffonia » est toujours absente (la liste passe de Grindelia à Haematococcus). **Médicament** : LEVOTONINE 100 mg gélule (oxitriptan), AMM du 20/02/1981, procédure nationale, autorisation active, indication « myoclonus post-anoxique (Lance et Adams) » ; le RCP précise qu'il n'est pas un médicament des états dépressifs (BDPM, consulté le 2026-10-14). Statut du 5-HTP isolé ou titré en complément alimentaire (Novel Food, DGCCRF) : [?] catalogue Novel Food inaccessible depuis cet environnement, aucun avis ANSES/DGCCRF retrouvé ; une commission belge a émis en 2004 un avis défavorable sur l'usage de *Griffonia* en complément (source secondaire, non relue ici).\n- **Allégations de santé UE** : dans l'édition du registre générée le 14/02/2013 (fichier relu le 2026-10-14), les allégations « aide à se concentrer », « peut réduire l'agitation » et « aide à promouvoir un taux sain de sérotonine qui peut améliorer l'humeur » sont **non autorisées** (avis EFSA 2009;7(9):1273). État actuel du registre en ligne : [?] inaccessible depuis cet environnement.\n- **AMA** : non nommé dans la Liste des interdictions 2026 (recherche par nom, fichier du 2026-10-13).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Syndrome sérotoninergique** : une revue de 2023 le décrit comme une surstimulation des récepteurs sérotoninergiques, pouvant survenir avec un seul produit ou par interaction entre deux produits sérotoninergiques (PMID 37309284) ; les revues du 5-HTP en traitent comme risque majeur (PMID 16023217, 33375373). Liste officielle pour l'oxitriptan (RCP de Levotonine, BDPM, mis à jour par l'ANSM le 22/06/2026, consulté le 2026-10-14) : **contre-indiqué** avec les IMAO non sélectifs (délai d'au moins 2 semaines après leur arrêt, au moins 1 semaine après l'arrêt de l'oxitriptan avant un IMAO) ; **déconseillé** avec les IMAO-A sélectifs et le linézolide (syndrome sérotoninergique) et avec les sympathomimétiques alpha et bêta par voie parentérale (hypertension paroxystique) ; précaution avec l'adrénaline orale ou sous-cutanée (troubles du rythme ventriculaire) ; les inhibiteurs périphériques de la décarboxylase (bensérazide, carbidopa) augmentent les taux plasmatiques d'oxitriptan. Contre-indiqué aussi en cas d'insuffisance rénale sévère et de tumeur carcinoïde de l'intestin grêle. Le RCP ne détaille pas les ISRS ; l'association ISRS/IRSNA/triptans reste à éviter sans avis médical par analogie avec le mécanisme [?]. Un cas espagnol de syndrome sérotoninergique par interaction linézolide + 5-HTP est publié (titre seul, pas de résumé dans PubMed) [B, cas] (PMID 25978918).\n- **Syndrome éosinophilie-myalgie (SEM)** : le L-tryptophane a été retiré du marché en 1989 après une épidémie liée à un lot contaminé d'un fabricant ; pour le 5-HTP, une revue de 2004 ne retrouve aucun cas de toxicité définitif en 20 ans d'usage et aucune impureté comparable, et juge le pic chromatographique « X » peu crédible [B, revue] (PMID 15068828). La revue date de 2004 et son périmètre ne couvre pas les produits actuels du marché : contrôle qualité des lots non garanti [?].\n- **Carbidopa** : un syndrome sclérodermiforme a été décrit avec 5-HTP + carbidopa chez un patient traité pour un myoclonus d'intention, avec kynurénine plasmatique élevée [B, cas] (PMID 6997735).\n- Effets indésirables, grossesse, allaitement : le RCP de Levotonine (médicament, 700 mg à 1 g/j, montée progressive sur 2 à 4 semaines) est la seule source officielle ; ses rubriques grossesse et effets indésirables n'ont pas été lues en détail, [?]. Les étiquettes de compléments américains que la recherche a fait remonter (NIH DSLD) déconseillent la grossesse et l'allaitement, mais ce sont des étiquettes de marque, non retenues. Dans l'ECR de MICI, aucun résultat de tolérance n'est dans le résumé (PMID 35940251).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Aucune fiche produit.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Booster de sérotonine donc d'humeur »** : la sérotonine sanguine monte, mais la fatigue de la MICI n'améliore pas mieux que sous placebo (PMID 35940251) [B, ECR unique n=166].\n- **« Aussi efficace qu'un antidépresseur »** : la preuve repose sur 2 essais (n=64) classés insuffisants par la Cochrane (PMID 11869656) [A, très faible certitude].\n- **« Somnifère naturel »** : un petit essai simple aveugle sans placebo, effet limité aux mauvais dormeurs (PMID 38309227) [B]. Voir [mélatonine](fiche:melatonine) et [insomnie](fiche:insomnie).\n- **« Sans danger, c'est naturel »** : l'oxitriptan est un médicament à AMM dont le RCP contre-indique les IMAO non sélectifs et déconseille linézolide et IMAO-A (BDPM) ; le contrôle qualité des compléments n'est pas garanti [?].\n\nÀ voir aussi : [Dépression](fiche:depression) · [Anxiété](fiche:anxiete) · [Insomnie chronique](fiche:insomnie) · [L-théanine](fiche:l-theanine) · [mélatonine](fiche:melatonine) · [rhodiola](fiche:rhodiola) · [ashwagandha](fiche:ashwagandha).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 11869656 — Shaw K et al., *Cochrane Database Syst Rev* 2002. doi:10.1002/14651858.CD003198 (résumé relu).\n- PMID 31504850 — Javelle F et al., *Nutr Rev* 2020. doi:10.1093/nutrit/nuz039 (résumé relu).\n- PMID 35940251 — Truyens M et al., *Gastroenterology* 2022. doi:10.1053/j.gastro.2022.07.052 (résumé relu).\n- PMID 38309227 — Sutanto CN et al., *Clin Nutr* 2024. doi:10.1016/j.clnu.2024.01.010 (résumé relu).\n- PMID 40944161 — Li S et al., *Nutrients* 2025. doi:10.3390/nu17172773 (résumé relu).\n- PMID 37309284 — Mikkelsen N et al., *Basic Clin Pharmacol Toxicol* 2023. doi:10.1111/bcpt.13912 (résumé relu).\n- PMID 25978918 — Ostabal Artigas MI et al., *Med Clin (Barc)* 2015. doi:10.1016/j.medcli.2015.03.010 (titre seul lu ; pas de résumé dans PubMed).\n- PMID 15068828 — Das YT et al., *Toxicol Lett* 2004. doi:10.1016/j.toxlet.2003.12.070 (résumé relu).\n- PMID 16023217 — Turner EH et al., *Pharmacol Ther* 2006. doi:10.1016/j.pharmthera.2005.06.004 (résumé relu).\n- PMID 33375373 — Maffei ME, *Int J Mol Sci* 2020. doi:10.3390/ijms22010181 (résumé relu).\n- PMID 6997735 — Sternberg EM et al., *N Engl J Med* 1980 (résumé relu).\n- Arrêté du 24 juin 2014 établissant la liste des plantes, autres que les champignons, autorisées dans les compléments alimentaires, annexe I (NOR ERNC1406332A), Légifrance, legifrance.gouv.fr/loda/id/JORFTEXT000029254516, texte affiché « en vigueur au 14 octobre 2026 » sans texte modificatif listé ; entrée Griffonia simplicifolia (absente) relue par nom de plante, consulté le 2026-10-14.\n- BDPM, LEVOTONINE 100 mg gélule (oxitriptan), RCP 4.1-4.5 (mis à jour par l'ANSM le 22/06/2026 ; rubrique 10 datée de 2016), base-donnees-publique.medicaments.gouv.fr/medicament/62469022/extrait, consulté le 2026-10-14.\n- Registre de l'UE des allégations nutritionnelles et de santé, édition générée le 14/02/2013 (fichier du 2026-10-13, relu le 2026-10-14) : entrées Art. 13(1) 5-hydroxytryptophane (EFSA 2009;7(9):1273), statut « Non-authorised ».\n- Liste des interdictions AMA 2026, recherche par nom, fichier du 2026-10-13.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "5-HTP (5-hydroxytryptophane, Griffonia)",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,89 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "complement",
+ "id": "hmb",
+ "intro": "",
+ "liens": [
+  "boosters-de-testosterone",
+  "creatine",
+  "entrainement-en-resistance",
+  "leucine-eaa-et-bcaa",
+  "proteines",
+  "sarcopenie"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 15,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "32456217",
+  "29249685",
+  "41934514",
+  "41305674",
+  "39699070",
+  "23286834",
+  "30588860",
+  "40901287",
+  "31484462",
+  "42700006",
+  "41540398",
+  "35301826",
+  "36171789",
+  "37697053",
+  "27934654"
+ ],
+ "preuve_globale": "A",
+ "resume": "Prise de muscle chez l'adulte jeune qui s'entraîne : pas de bénéfice démontré. Méta-analyse de 11 études (302 participants, 18-45 ans) : un petit gain de poids total, mais ni masse maigre, ni masse grasse, ni force n'augmentent plus qu'avec le placebo [A] (PMID 32456217). Chez des athlètes entraî…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Prise de muscle chez l'adulte jeune qui s'entraîne : pas de bénéfice démontré.** Méta-analyse de 11 études (302 participants, 18-45 ans) : un petit gain de poids total, mais ni masse maigre, ni masse grasse, ni force n'augmentent plus qu'avec le placebo [A] (PMID 32456217). Chez des athlètes entraînés (6 ECR, n=193) : tailles d'effet quasi nulles (masse maigre ES 0,16, non significatif) [A] (PMID 29249685).\n- **Après 50 ans, avec musculation** : masse musculaire SMD 0,05 (IC −0,10 à 0,20), force SMD 0,04, 13 ECR, 561 participants ; les auteurs ne recommandent pas le HMB en routine [A] (PMID 41934514). Une autre méta-analyse (10 ECR, n=596) trouve un gain limite de la force de préhension (SMD 0,24, IC 0,00-0,48) et de la SPPB (SMD 0,54), sans effet sur la masse maigre appendiculaire, avec la moitié des essais à haut risque de biais [A, faible certitude] (PMID 41305674).\n- **La seule position favorable** est celle de l'ISSN (société savante de nutrition sportive) : « peut améliorer la composition corporelle » avec ~38 mg/kg/j, surtout avec un entraînement et un régime très contrôlés (PMID 39699070). C'est une prise de position d'experts, que les méta-analyses ci-dessus ne confirment pas ; les liens d'intérêts des auteurs n'ont pas été analysés ici [?].\n- **Récupération (CK, inflammation)** : petits essais positifs en aigu chez des hommes entraînés [B, petits ECR] (PMID 23286834), sans traduction démontrée en masse musculaire.\n- **Sécurité** : aucun signal d'effet grave dans les données lues (ISSN : sûr jusqu'à au moins un an) [B]. Cher pour un bénéfice non démontré : à placer loin derrière [protéines](fiche:proteines) et [créatine](fiche:creatine).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Métabolite de la leucine produit naturellement par l'organisme. Mécanisme proposé (revue ISSN) : stimulation de la synthèse protéique musculaire (voie mTORC1, indépendante du capteur de leucine) et freinage de la dégradation (PMID 39699070). Ce sont des mécanismes déduits d'études aiguës ; rien ne montre qu'ils produisent un gain de masse supplémentaire chez quelqu'un qui s'entraîne et mange assez de protéines [?]. Deux formes : sel de calcium (HMB-Ca) et acide libre (HMB-FA), la seconde augmentant davantage la concentration sanguine d'HMB, résultats mixtes (même source).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Masse maigre et force, adulte jeune avec musculation | 11 études analysées (14 éligibles), 302 participants : effet significatif seulement sur le poids total ; masse maigre, masse grasse, 1RM : nuls ; « ne soutient pas l'usage du HMB » (PMID 32456217) | [A] |\n| Athlètes entraînés/compétiteurs | 6 ECR, n=193 : développé couché ES 0,00, presse ES 0,09, masse maigre ES 0,16, masse grasse ES −0,20, tous non significatifs, hétérogénéité nulle (PMID 29249685) | [A] |\n| Essai pragmatique, produits du commerce | 40 hommes, 8 semaines de musculation : HMB-FA, HMB-Ca et α-HICA ne font pas mieux que le placebo sur la composition corporelle (PMID 30588860) | [B, ECR n=40] |\n| Comparaison entre compléments, sujets âgés sains (réseau, 19 ECR) | HMB : force SMD −0,22 (IC −0,57 à 0,12), masse MD 0,05 (IC −0,33 à 0,44) ; créatine : masse MD 2,18 (IC 0,92-3,44) ; protéines : force SMD 0,45 (PMID 40901287) | [A, réseau, preuve indirecte] |\n| Adultes ≥ 50 ans, musculation | 13 ECR, 561 participants : masse grasse SMD 0,24 (IC −0,01 à 0,49), masse musculaire SMD 0,05, force SMD 0,04 ; pas de biais de publication détecté (PMID 41934514) | [A] |\n| Adultes ≥ 50 ans, musculation (autre méta-analyse) | 10 ECR, n=596 : préhension SMD 0,24 (IC 0,00-0,48, p=0,05), SPPB SMD 0,54 (IC 0,12-0,95) ; vitesse de marche, masse maigre appendiculaire, masse grasse : nuls ; 5 essais sur 10 à haut risque de biais (PMID 41305674) | [A, faible certitude] |\n| Adultes ≥ 50 ans (méta-analyse plus ancienne) | 10 ECR, n=384 : effet « nul ou faible » sur composition, force, performance (PMID 31484462) | [A] |\n| Sarcopénie, musculation + whey ou HMB | 7 ECR, n=472 : masse maigre ES 0,39 et préhension ES 1,38 sur l'ensemble des suppléments ; dans le sous-groupe HMB + musculation, pas d'amélioration significative de la préhension, contrairement à la whey (ES 0,49) ; preuve jugée « prometteuse, pas définitive » (PMID 42700006) | [A, faible certitude] |\n| Sarcopénie, supplément d'acides aminés (dont HMB) + musculation | 9 ECR, n=496 : préhension SMD 0,69, vitesse de marche, SPPB améliorés ; masse musculaire sans effet ; certitude faible à très faible (PMID 41540398) | [A, très faible certitude] |\n| Cancer (cachexie) | 15 études dont 6 ECR, HMB souvent avec acides aminés (3 g/j de Ca-HMB) : bénéfice sur la masse musculaire dans 4 études de meilleure qualité sur 4 (comptage de votes, sans méta-analyse) ; pas de bénéfice sur la qualité de vie (PMID 35301826) | [B, revue systématique sans méta-analyse] |\n| Testostérone et cortisol, athlètes | 7 articles : pas d'effet global sur testostérone ou cortisol ; en sous-groupes, cortisol −3,30 (IC −5,50 à −1,10) avec la musculation, testostérone +1,56 avec sports mixtes aérobie/anaérobie, post-hoc (PMID 36171789) | [A, sous-groupes exploratoires] |\n| Dommage musculaire après séance intense | 20 hommes entraînés, 3 g/j HMB-FA : CK +104 % contre +329 % sous placebo à 48 h ; récupération perçue meilleure (PMID 23286834) | [B, ECR n=20] |\n| Atrophie de désuétude (immobilisation, alitement) | ISSN : effet « possible » (point 11) ; essais non relus ici (PMID 39699070) | [?] |\n\nUne revue systématique sur les « boosters de testostérone » classe le HMB parmi les rares produits « efficaces » pour augmenter la testostérone chez l'athlète (PMID 37697053) : cela contredit la méta-analyse dédiée (PMID 36171789), qui ne trouve pas d'effet global. Voir [boosters de testostérone](fiche:boosters-de-testosterone).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Dose de référence ISSN : 38 mg/kg/j, soit environ 3 g/j pour un adulte de 80 kg (PMID 39699070) ; 3 g/j dans l'essai de récupération (PMID 23286834) et dans 80 % des essais en cancérologie (PMID 35301826). Durée de l'essai pragmatique cité : 8 semaines (PMID 30588860).\n- Vendu en France : teneurs, formes (HMB-Ca vs HMB-FA) et prix par mois non relevés pour cette fiche [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **France/UE** : vendu comme complément alimentaire. Statut précis de la substance (liste des substances à but nutritionnel ou physiologique, arrêté du 26 septembre 2016) et allégations de santé autorisées : non vérifiés ; EUR-Lex et Légifrance inaccessibles depuis cet environnement (tentatives du 2026-10-13) [?]. Existence d'une allégation de santé UE autorisée pour le HMB : à confirmer dans le registre UE des allégations [?].\n- **AMA/antidopage** : le HMB n'est pas listé comme substance interdite à notre connaissance ; liste 2026 non consultée (wada-ama.org inaccessible, 2026-10-13) [?]. Le risque principal reste la contamination des produits non certifiés : voir [boosters de testostérone](fiche:boosters-de-testosterone), section contamination.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- ISSN : la consommation chronique de HMB-Ca et HMB-FA semble sûre jusqu'à au moins un an chez l'humain, sans effet négatif sur la tolérance au glucose ni sur l'insulinosensibilité (PMID 39699070) [B, position de société savante, essais non relus]. Une revue de 2016 notait qu'aucune étude de toxicité chez l'humain n'avait testé le HMB (PMID 27934654) : la position ISSN de 2025 cite des données plus récentes, non relues ici.\n- Cancer : aucun effet indésirable grave directement lié à l'intervention rapporté (PMID 35301826) [B].\n- Reins, foie : pas de signal dans les sources lues ; population insuffisante rénale, hépatique, grossesse, allaitement, enfants : non étudiée dans les sources lues [?].\n- Interactions médicamenteuses : aucune documentée dans les sources lues [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Anti-catabolique, protège le muscle et fait gagner de la masse »** : pas de gain de masse maigre chez l'adulte jeune (PMID 32456217, 29249685) ni chez le sujet de plus de 50 ans (PMID 41934514) [A]. Les effets favorables concernent des marqueurs de récupération en aigu [B] (PMID 23286834).\n- **« Booster de testostérone »** : pas d'effet global sur la testostérone dans la méta-analyse dédiée [A] (PMID 36171789) ; voir [boosters de testostérone](fiche:boosters-de-testosterone).\n- **« Efficace chez les débutants seulement »** : l'argument circule, y compris dans la position ISSN ; l'essai pragmatique chez 40 hommes et la méta-analyse chez l'adulte jeune ne le montrent pas [A] (PMID 32456217, 30588860).\n- **« Mieux que la créatine ou les protéines »** : dans la comparaison en réseau chez l'âgé, c'est la créatine qui domine pour la masse et les protéines pour la force, pas le HMB [A, preuve indirecte] (PMID 40901287). Voir [créatine](fiche:creatine), [protéines](fiche:proteines).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Patient cancéreux avec perte musculaire : données encourageantes mais de qualité variable [B] (PMID 35301826) ; immobilisation ou alitement : [?] (position ISSN seule). Ce sont des indications cliniques à discuter avec un médecin ou un diététicien. Pas une aide pour gagner du muscle chez une personne en bonne santé qui s'entraîne : priorités documentées dans [entraînement en résistance](fiche:entrainement-en-resistance), [protéines](fiche:proteines) (apport total ~1,6 g/kg/j), [créatine](fiche:creatine). Voir aussi [leucine, EAA et BCAA](fiche:leucine-eaa-et-bcaa) et [sarcopénie](fiche:sarcopenie).",
+   "titre": "Où le HMB peut avoir un sens"
+  },
+  {
+   "markdown": "Aucune fiche produit HMB dans le dépôt.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 32456217 — Jakubowski JS et al., *Nutrients* 2020. doi:10.3390/nu12051523\n- PMID 29249685 — Sanchez-Martinez J et al., *J Sci Med Sport* 2018. doi:10.1016/j.jsams.2017.11.003\n- PMID 30588860 — Teixeira FJ et al., *Eur J Sport Sci* 2019. doi:10.1080/17461391.2018.1552723\n- PMID 40901287 — Ma Y et al., *Front Nutr* 2025. doi:10.3389/fnut.2025.1640858\n- PMID 41934514 — Wang G et al., *Age Ageing* 2026. doi:10.1093/ageing/afag073\n- PMID 41305674 — García-Alonso A et al., *Nutrients* 2025. doi:10.3390/nu17223624\n- PMID 31484462 — Courel-Ibáñez J et al., *Nutrients* 2019. doi:10.3390/nu11092082\n- PMID 42700006 — Hernandez-Martinez J et al., *Medicine (Baltimore)* 2026. doi:10.1097/MD.0000000000050477\n- PMID 41540398 — Xie C et al., *BMC Musculoskelet Disord* 2026. doi:10.1186/s12891-025-09436-8\n- PMID 35301826 — Prado CM et al., *J Cachexia Sarcopenia Muscle* 2022. doi:10.1002/jcsm.12952\n- PMID 36171789 — Zhao L, Mohammad M, *Food Sci Nutr* 2022. doi:10.1002/fsn3.2887\n- PMID 23286834 — Wilson JM et al., *Br J Nutr* 2013. doi:10.1017/S0007114512005387\n- PMID 39699070 — Rathmacher JA et al., *J Int Soc Sports Nutr* 2025 (position ISSN). doi:10.1080/15502783.2024.2434734\n- PMID 27934654 — Borack MS, Volpi E, *J Nutr* 2016. doi:10.3945/jn.116.230771\n- PMID 37697053 — Morgado et al., *Int J Impot Res* 2024. doi:10.1038/s41443-023-00763-9",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "HMB (β-hydroxy-β-méthylbutyrate)",
+ "type": "actif",
+ "unite": ""
+}

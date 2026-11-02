@@ -1,0 +1,80 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "cancer-pancreas",
+ "intro": "",
+ "liens": [
+  "cancer-estomac-helicobacter-pylori",
+  "cancer-foie-carcinome-hepatocellulaire",
+  "depistage-cancer-colorectal",
+  "prevention-des-cancers",
+  "tabac-et-alcool",
+  "test-multi-cancers-galleri-mced"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "31386141",
+  "38959011"
+ ],
+ "preuve_globale": "B",
+ "resume": "Le USPSTF ne trouve aucune preuve que le dépistage chez l'adulte asymptomatique améliore la morbi-mortalité ; bénéfices « au plus petits », risques « au moins modérés » : recommandation contre [A] (PMID 31386141).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Le USPSTF ne trouve aucune preuve que le dépistage chez l'adulte asymptomatique améliore la morbi-mortalité ; bénéfices « au plus petits », risques « au moins modérés » : recommandation contre [A] (PMID 31386141).\n- Seul contexte étudié : personnes à très haut risque familial ou génétique. Dans le programme CAPS, 26 cancers détectés par surveillance (échoendoscopie ou IRM annuelles) : stade I 38,5 % vs 10,3 % ; survie à 5 ans 50 % vs 9 % (SEER) [B, cohorte comparative, biais d'avance au diagnostic ajusté en analyse de sensibilité] (PMID 38959011).\n- Facteurs de risque modifiables : détail chiffré non extrait dans ce travail (tabac, obésité, diabète) [?] ; voir [prévention des cancers](fiche:prevention-des-cancers) et [tabac](fiche:tabac-et-alcool).\n- Les tests sanguins grand public « détection précoce » : aucune validation retrouvée [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Non développés [?].",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Levier | Résultat | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Dépistage population générale | Aucun bénéfice démontré (PMID 31386141) | [A] | Non recommandé aux États-Unis ; France : non consulté [?] | non applicable |\n| Surveillance de sujets à très haut risque | Stades plus précoces et survie plus longue vs SEER (PMID 38959011) | [B] | Réseau spécialisé : non consulté [?] | non recherché |\n| Arrêt du tabac | Facteur modifiable ; ampleur ici non extraite | [?] | - | - |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Débutant : pas de tabac, poids contrôlé.\n- Avancé : antécédent familial (au moins 2 parents du 1er degré) ou mutation connue : consultation d'oncogénétique avant toute imagerie ; seuils précis non vérifiés [?].",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "Demander un scanner « de dépistage » sans indication : non recommandé et sans bénéfice démontré (PMID 31386141).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "Tests sanguins multi-cancers : voir [Galleri / MCED](fiche:test-multi-cancers-galleri-mced) et [dépistage colorectal](fiche:depistage-cancer-colorectal), pas de preuve de bénéfice de mortalité retrouvée [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "La survie améliorée chez les surveillés vient d'un très petit effectif (26 cas) comparé à SEER : les auteurs le décrivent comme suggestif (PMID 38959011).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Jaunisse, amaigrissement inexpliqué, douleurs dorsales/épigastriques persistantes, diabète récent après 50 ans avec perte de poids (lien non sourcé ici [?]).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "Pas de dépistage organisé en France à ma connaissance ; source officielle (HAS/INCa) non consultée [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "[Foie](fiche:cancer-foie-carcinome-hepatocellulaire), [estomac](fiche:cancer-estomac-helicobacter-pylori), [tabac et alcool](fiche:tabac-et-alcool).",
+   "titre": "Voir aussi"
+  },
+  {
+   "markdown": "- PMID 31386141 — USPSTF, *JAMA* 2019 (recommandation réaffirmée).\n- PMID 38959011 — Blackford AL et al., *JAMA Oncol* 2024.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Cancer du pancréas : facteurs de risque et absence de dépistage",
+ "type": "condition",
+ "unite": ""
+}

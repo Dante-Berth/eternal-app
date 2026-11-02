@@ -1,0 +1,62 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "cosmetique",
+ "id": "cerave-baume-hydratant-454g",
+ "intro": "",
+ "liens": [],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "32947459",
+  "40408261",
+  "32293193"
+ ],
+ "preuve_globale": "B",
+ "resume": "Un bon émollient bon marché dont l'intérêt réel est l'hydratation ; l'argument « céramides = barrière réparée » repose sur des essais de formules apparentées, et le seul essai nommant CeraVe n'a pas montré de gain de barrière significatif.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Un bon émollient bon marché dont l'intérêt réel est l'hydratation ; l'argument « céramides = barrière réparée » repose sur des essais de formules apparentées, et le seul essai nommant CeraVe n'a pas montré de gain de barrière significatif.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- INCI relevé (Parapharmacie Lafayette, consulté le 2026-10-06) : Water, Glycerin, Cetearyl Alcohol, Caprylic/Capric Triglyceride, Cetyl Alcohol, Ceteareth-20, Petrolatum, Dimethicone, Phenoxyethanol, Behentrimonium Methosulfate, Potassium Phosphate, Ethylhexylglycerin, Sodium Lauroyl Lactylate, Disodium EDTA, Dipotassium Phosphate, Ceramide NP, Ceramide AP, Phytosphingosine, Cholesterol, Xanthan Gum, Carbomer, Sodium Hyaluronate, Tocopherol, Ceramide EOP. Sans parfum selon la marque. Un autre vendeur (Ma Pharma) cite aussi la niacinamide, absente de l'INCI lu : formulation susceptible de varier selon les lots ou versions [?].\n- Concentration en céramides non déclarée [?].\n- **Produit nommé** : 20 patients atteints de dermatite atopique (peau non atteinte), CeraVe Moisturizing Cream vs aucun produit sur l'avant-bras, 4 semaines : perte insensible en eau (TEWL) non significativement différente, capacitance (hydratation) améliorée ; étude sous-dimensionnée (Leshem 2020, PMID 32947459) [B]. La formule américaine « Moisturizing Cream » n'est pas démontrée identique au pot français [?].\n- **Formule à céramides apparentée** : 58 adultes à prédisposition atopique, émulsion multivésiculaire à lipides physiologiques et glycérine vs émulsion à glycérine seule, 28 jours : TEWL après 20 tape-strippings 38,0 → 29,8 g/m²/h (p < 0,001) contre aucun effet pour le comparateur ; céramides NP et AP du stratum corneum +24 % et +19 % (Andrew 2025, PMID 40408261) [B]. Le résumé ne nomme pas le produit : lien avec CeraVe non établi [?].\n- Anti-âge (rides, élasticité) : aucun essai trouvé [?]. Une crème hydratante améliore l'apparence de la peau sèche, pas la structure dermique.",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Cosmétique (règlement (CE) n° 1223/2009). Marque L'Oréal (Active Cosmetics) vendue en pharmacie et en grande surface. AMA : sans objet. Aucun statut de dispositif médical ni de médicament.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- « Restaure la barrière cutanée avec 3 céramides essentiels » : amélioration de la barrière avec une formule à lipides physiologiques apparentée [B] (PMID 40408261) ; sur le produit nommé, TEWL non significatif [B] (PMID 32947459).\n- « Hydratation 48 h, technologie MVE brevetée » : allégation de la marque ; l'étude Andrew 2025 porte sur une émulsion multivésiculaire mais son lien avec ce produit n'est pas établi par le résumé [?]. Sans essai publié nommé sur 48 h [M].\n- « Non comédogène, hypoallergénique » : allégations non vérifiables ici [M].",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Visage et corps, matin et/ou soir, sur peau propre, éviter le contour des yeux (consigne de la marque, Lafayette consulté le 2026-10-06). Après un rétinoïde, appliquer en couche mince par-dessus ou avant selon la tolérance (convention, non testée [?]).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix relevés (pot 454 g) : 13,60 € (e-parapharmacie), 13,90 € (Ma Pharma), 14,03 € (Parapharmacie Lafayette) (relevés du 2026-10-06).\n- Usage visage seul à environ 2 g par jour (estimation personnelle) : un pot dure plusieurs mois → 2 à 3 €/mois ; usage corps inclus : jusqu'à 5 €/mois.\n- Alternative : un émollient simple (vaseline, glycérine) à quelques euros. L'essai PMID 32947459 testait 4 produits courants (dont la vaseline) et rapporte une amélioration de la capacitance pour les produits regroupés, sans comparaison entre produits dans le résumé [B] : aucun avantage démontré des céramides sur un émollient simple [?].",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Texture « non grasse, non collante, absorption rapide » (marque et Lafayette). Une analyse des ingrédients (pas un essai clinique) recense 9 allergènes potentiels pour CeraVe, majoritairement rares (Cohen 2020, PMID 32293193). Pas d'avis consommateurs systématisés [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Composition, prix, allégations : [Parapharmacie Lafayette](https://www.parapharmacielafayette.com/fr/p/cerave-baume-hydratant-peaux-seches-a-tres-seches-454-ml-F36039.html), [e-parapharmacie](https://www.e-parapharmacie.fr/m/cerave/), [Ma Pharma](https://mapharma.fr/produit/cerave-baume-hydratant-pot-454ml/) (consultés le 2026-10-06) ; site de la marque, Easypara et Nocibé illisibles (HTTP 403/404)\n- Leshem YA et al., Dermatitis 2020 — PMID 32947459 — [DOI](https://doi.org/10.1097/DER.0000000000000623)\n- Andrew PV et al., Br J Dermatol 2025 — PMID 40408261 — [DOI](https://doi.org/10.1093/bjd/ljaf200)\n- Cohen SR et al., J Cutan Med Surg 2020 — PMID 32293193 — [DOI](https://doi.org/10.1177/1203475420919396)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "CeraVe Baume Hydratant (peaux sèches à très sèches, pot 454 g)",
+ "type": "produit",
+ "unite": ""
+}

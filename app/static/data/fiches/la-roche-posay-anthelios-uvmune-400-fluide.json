@@ -1,0 +1,64 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "cosmetique",
+ "id": "la-roche-posay-anthelios-uvmune-400-fluide",
+ "intro": "",
+ "liens": [
+  "avene-intense-protect-spf50",
+  "protection-solaire"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "23732711",
+  "17493070"
+ ],
+ "preuve_globale": "B",
+ "resume": "Bon écran visage SPF 50+ sans octocrylène, plus cher au millilitre qu'un grand format corps-visage ; l'argument « UVA ultra-longs » est réel en laboratoire mais sans bénéfice clinique démontré.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Bon écran visage SPF 50+ sans octocrylène, plus cher au millilitre qu'un grand format corps-visage ; l'argument « UVA ultra-longs » est réel en laboratoire mais sans bénéfice clinique démontré.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- Filtres (INCI, concentrations non déclarées) : ethylhexyl salicylate, ethylhexyl triazone, bis-ethylhexyloxyphenol methoxyphenyl triazine, butyl methoxydibenzoylmethane (avobenzone), drometrizole trisiloxane, terephthalylidene dicamphorsulfonic acid. Pas d'octocrylène. **Alcohol denat. en 2e position.** Version « sans parfum » (site de pharmacie, consulté le 2026-10-03).\n- Écran large spectre quotidien : vieillissement cutané −24 % sur 4,5 ans [B, ECR unique n=903] ; voir [protection solaire](fiche:protection-solaire).\n- La liste INCI relevée ne fait pas apparaître de « Mexoryl 400 » sous un nom INCI distinct ; la correspondance avec le filtre annoncé n'a pas été établie [?].",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Cosmétique (règlement (CE) n° 1223/2009) ; SPF 50+ = « très haute protection » (Recommandation 2006/647/CE, EUR-Lex, consulté le 2026-10-03).",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- « Protège des UVA ultra-longs jusqu'à 400 nm » : protection spectrale mesurable ; aucun essai clinique trouvé montrant un bénéfice sur le vieillissement ou les taches par rapport à un autre SPF 50+ [M].\n- « Résistant à l'eau et au sable » : test du fabricant [M].",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Le matin, visage et cou, en couche généreuse (2 mg/cm² pour atteindre le SPF affiché [B]).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix relevés (50 ml) : 10,03 € (Pharmacie du Polygone, promotion) à 12,99 € (Grande Pharmacie de Wazemmes) ; 12,53 € (Pharmacie des Drakkars) (relevés du 2026-10-03).\n- À environ 30 ml par mois (estimation personnelle), un flacon dure environ 1,7 mois → 6 à 8 €/mois.\n- Alternative moins chère à preuve équivalente : [Avène Intense Protect 50+](fiche:avene-intense-protect-spf50) (≈ 3 €/mois, sans octocrylène).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non recherchés [?]. La présence d'alcool en 2e ingrédient peut piquer sur peau sèche ou irritée par un rétinoïde (attente plausible, non documentée) [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Composition et prix : [Pharmacie du Polygone](https://www.pharmaciepolygone.com/fr/products/la-roche-posay-anthelios-uvmune-400-spf50-creme-solaire-fluide-invisible-50ml-), [Grande Pharmacie de Wazemmes](https://grandepharmaciedewazemmes.pharmabest.com/produits/parapharmacie-visage-corps-cheveux-solaire-cremes-solaires-la-roche-posay-anthelios-fluide-invisible-uvmune-400-sans-parfum-spf50-50ml/1d2b7724-6aff-4ed0-9148-3caeca27b724), [Pharmacie des Drakkars](https://www.pharmaciedesdrakkars.com/anthelios-uvmune-400-fluide-solaire-invisible-spf-50) (consultés le 2026-10-03)\n- Preuves et réglementation : voir [protection solaire](fiche:protection-solaire) (PMID 23732711, 17493070)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "true",
+ "statut_fr": "cosmetique",
+ "titre": "La Roche-Posay Anthelios UVMune 400 Fluide invisible SPF50+ (50 ml)",
+ "type": "produit",
+ "unite": ""
+}

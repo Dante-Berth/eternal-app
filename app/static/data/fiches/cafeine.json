@@ -1,0 +1,70 @@
+{
+ "cibles": [
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "alimentation",
+ "id": "cafeine",
+ "intro": "",
+ "liens": [
+  "anxiete",
+  "declin-cognitif-et-neurodegenerescence",
+  "l-theanine"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 0,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [],
+ "preuve_globale": "A",
+ "resume": "Performance sportive : ergogène sur l'endurance aérobie, la force, l'endurance musculaire, la puissance et la vitesse ; qualité des preuves surtout « modérée », effet plus marqué en aérobie qu'en anaérobie, études surtout chez de jeunes hommes [A] (doi:10.1136/bjsports-2018-100278). Chez la femme…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Performance sportive** : ergogène sur l'endurance aérobie, la force, l'endurance musculaire, la puissance et la vitesse ; qualité des preuves surtout « modérée », effet plus marqué en aérobie qu'en anaérobie, études surtout chez de jeunes hommes [A] (doi:10.1136/bjsports-2018-100278). Chez la femme en résistance : force maximale g = 0,17, certitude faible [A, faible certitude] (doi:10.3389/fphys.2026.1892370).\n- **Sommeil** : le coût est réel. 24 études : −45 min de sommeil total, −7 % d'efficacité, +9 min de latence ; pour ne pas perdre de sommeil, ~9 h avant le coucher pour un café (107 mg/250 mL) et ~13 h pour un pré-workout (217,5 mg) [A] (doi:10.1016/j.smrv.2023.101764).\n- **Théine = caféine** : même molécule (voir plus bas ; source PubMed directe non trouvée [?]).\n- **Limite sûre UE (EFSA 2015)** : 400 mg/j adulte, 200 mg/j femme enceinte ou allaitante, 200 mg en une prise (relevé par recherche web, page EFSA non consultable : à confirmer, [?]).\n- **Café et mortalité, diabète, Parkinson** : associations favorables en cohortes ; causalité non établie [B].\n- **Cognition** : l'essentiel de l'effet démontré concerne la restauration après privation de sommeil (voir [déclin cognitif](fiche:declin-cognitif-et-neurodegenerescence) pour le long terme) ; chez le sujet reposé, [?] pas de méta-analyse trouvée.\n- **AMA** : retirée de la liste d'interdiction le 1er janvier 2004, mise sous programme de surveillance (recherche web, source officielle non chargée [?]).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Antagoniste des récepteurs de l'adénosine, d'où l'éveil ; effets aussi sur la dopamine et le glutamate d'après une revue narrative [B] (doi:10.3390/ijerph22081171). Au niveau EEG, la baisse de puissance alpha est un signe fréquent mais non universel, sans « signature » reproductible ; un changement EEG n'équivaut pas à une meilleure performance cognitive [B] (doi:10.3390/nu18172898).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "- **Théine** est un ancien nom de la caféine. Cette identité chimique est de connaissance générale ; la recherche PubMed n'a ramené aucune source dédiée [?].\n- **Thé + théanine** : la théanine ajoutée à la caféine améliore l'alerte et la précision d'attention, et la méta-analyse de 2014 note un effet plus lié à la dose de caféine qu'à celle de théanine [A] (doi:10.1111/nure.12120) ; détail dans [L-théanine](fiche:l-theanine). Un essai croisé (théanine 250 mg, caféine 150 mg) donne un profil différent de la caféine seule [B, ECR unique] (doi:10.1016/j.biopsycho.2007.09.008).\n- **Vitesse d'absorption thé vs café, « montée plus douce »** : [?] aucune source trouvée. Le ressenti dépend aussi de la dose par tasse : [?] non sourcé ici.",
+   "titre": "« Théine » du thé et ressenti thé vs café"
+  },
+  {
+   "markdown": "### Performance sportive\n| Indication | Résultat | Preuve |\n|---|---|---|\n| Revue parapluie (11 revues, 21 méta-analyses) | endurance aérobie, force, endurance musculaire, puissance, saut, vitesse améliorés ; intervalles de prédiction parfois non concluants | [A] (doi:10.1136/bjsports-2018-100278) |\n| Femmes, résistance (24 études) | force max g = 0,17 (IC 0,06–0,29) ; endurance musculaire g = 0,54 mais faible reproductibilité | [A, faible certitude] (doi:10.3389/fphys.2026.1892370) |\n| Chewing-gum (25 études, n=390) | SMD 0,195 : effet « trivial » ; dose-réponse significative, timing sans effet | [A, faible certitude] (doi:10.1186/s40798-026-01104-y) |\n| Lutteurs d'élite, 3 mg/kg caféine ± 3 mg/kg théanine | force, endurance et vitesse cognitive meilleures avec l'association ; anxiété et tachycardie réduites vs caféine seule | [B, ECR unique] (doi:10.1080/15502783.2025.2564238) |\n\nDoses : les essais cités utilisent 3 mg/kg ; 3–6 mg/kg dans les études sur le sommeil (doi:10.3390/sports13090317). La dose optimale et le timing optimal, les méta-régressions des revues citées ne les tranchent pas pour la force (doi:10.3389/fphys.2026.1892370) ; la position ISSN n'a pas été récupérée [?].\n\n### Cognition, attention\n- Revue systématique ERP (63 études) : latence P3 raccourcie, effet dépendant du contexte (fatigue, privation de sommeil, charge de travail) ; amplitude souvent inchangée chez le sujet reposé [B] (doi:10.3390/nu18101489).\n- Vigilance après privation de sommeil : l'ancienne version citait une méta-analyse (SMD 0,73) non revérifiée, retirée [?].\n- Effet chez le sujet reposé, bénéfice net : [?].\n\n### Sommeil\n- Méta-analyse de 24 études : sommeil total −45 min, efficacité −7 %, latence +9 min, éveils +12 min, sommeil profond −11,4 min [A] (doi:10.1016/j.smrv.2023.101764).\n- Athlètes, caféine en fin de journée (10 études, n=128) : efficacité −4,87 % (non robuste), temps total −32 min non significatif, mais troubles subjectifs marqués [A, faible certitude] (doi:10.3390/sports13090317).\n- Demi-vie : la caféine est surtout métabolisée par le CYP1A2 hépatique, avec une grande variabilité interindividuelle (tabac, contraceptifs oraux, médicaments) [A] (doi:10.3389/fphar.2022.752826 ; revue systématique de 141 publications). Valeur chiffrée de demi-vie : non extraite [?] ; elle est prolongée chez le sujet âgé [B] (doi:10.3390/ijerph22081171).\n- Effet de la caféine prise 6 h avant le coucher : l'étude fondatrice n'a pas été retrouvée dans PubMed ; la méta-analyse de 24 études ci-dessus conclut à une marge de ~9 h.\n\n### Tension, rythme cardiaque\n- Revue parapluie : la caféine aiguë est associée à une hausse de la tension artérielle (méta-analyses d'ECR) [A] (doi:10.1146/annurev-nutr-071816-064941).\n- Café après infarctus : mortalité cardiovasculaire plus basse (HR 0,70) sans surrisque de MACE, 6 cohortes [B] (doi:10.1016/j.numecd.2020.07.016).\n- Arythmies, fibrillation atriale : [?] aucune méta-analyse récupérée.\n\n### Café et maladies chroniques (cohortes, pas de causalité)\n- Revue parapluie : café associé à une baisse probable du risque de maladies cardiovasculaires, mortalité, Parkinson et diabète de type 2 ; pour la caféine : Parkinson et diabète aussi, mais **perte de grossesse en hausse** [B] (doi:10.1146/annurev-nutr-071816-064941).\n- Diabétiques de type 2, 4 tasses/j : mortalité toutes causes HR 0,79 (10 cohortes) [B] (doi:10.1016/j.numecd.2021.05.014).\n- Parkinson : consommation régulière de caféine, HR 0,797 (IC 0,748–0,849) [B] (doi:10.3390/nu12061860) ; une synthèse de 46 revues juge 84,7 % d'entre elles de qualité méthodologique très faible (doi:10.3233/JPD-202521).\n- Démence et troubles cognitifs : OR/RR 0,82 (IC 0,67–1,01), non significatif ; cohortes seules 0,90 (0,59–1,36) [B] (doi:10.1159/000371710).\n- Biais possibles : survivant, tabac, causalité inverse (non évalués ici) [?].\n\n### Tolérance, sevrage\nRevue narrative : adaptation (baisse des récepteurs de l'adénosine), tolérance, puis sevrage (maux de tête, irritabilité, fatigue) [B] (doi:10.3390/ijerph22081171). Durée et fréquence du sevrage : [?].\n\n### Variabilité génétique\n- Revue systématique (26 études, 1,85 million de sujets) : CYP1A2, ADORA2A, AHR et autres gènes associés à la consommation habituelle (écarts de 3 à 32 % de tasses/j par allèle) [B] (doi:10.1186/s12967-024-05737-z).\n- ECR de 18 sujets, 3 mg/kg : l'atteinte des cellules intestinales à l'effort augmente davantage chez les porteurs ADORA2A TT, pas selon CYP1A2 [B, ECR n=18] (doi:10.14814/phy2.70673).\n- Interactions gène × consommation sur la cognition (cohorte) [B] (doi:10.1177/02698811241303601).\n- Tests génétiques grand public pour « doser sa caféine » : aucune validation clinique trouvée [?].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Étudié : 3 mg/kg (≈ 210 mg pour 70 kg) en sport ; 3–6 mg/kg pour les études sommeil.\n- Café 250 mL ≈ 107 mg ; pré-workout standard ≈ 217,5 mg (valeurs retenues dans la méta-analyse, doi:10.1016/j.smrv.2023.101764).\n- **Vendu en France (compléments)** : la portion journalière recommandée ne doit pas dépasser **200 mg** (arrêté du 26 septembre 2016, annexe I, Légifrance, consulté le 2026-10-06).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Aliment (café, thé, cacao, boissons) ; complément alimentaire plafonné à 200 mg/j (voir ci-dessus) ; chewing-gum sportif.\n- **Limites EFSA** : 400 mg/j adulte non enceinte, 200 mg/j grossesse, 200 mg/j allaitement, 200 mg en dose unique (EFSA NDA Panel, EFSA J 2015;13(5):4102, doi:10.2903/j.efsa.2015.4102 ; chiffres relevés via résultats de recherche web le 2026-10-06, la page EFSA renvoyait HTTP 403 : confirmer sur le texte officiel). L'OMS : [?] non vérifié.\n- **AMA** : retirée de la liste des interdictions au 1er janvier 2004, en programme de surveillance (relevé web 2026-10-06 ; la page AMA n'a pas pu être chargée : confirmer sur la liste et le programme de surveillance en vigueur).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Grossesse** : méta-analyse dose-réponse de 60 publications : +14 % d'avortement spontané, +19 % de mort-née, +7 % de faible poids, +10 % de PAG pour un incrément de 100 [mg] de caféine (l'abrégé écrit « 100 g », coquille probable) ; pas de seuil sans association ; associations modestes, possible biais [B] (doi:10.1007/s10654-014-9944-x).\n- **Anxiété, tachycardie** : fréquentes chez les sujets sensibles (tachycardie de 92 % avec caféine seule dans l'ECR des lutteurs) [B] (doi:10.1080/15502783.2025.2564238).\n- **Sujet âgé** : demi-vie prolongée, sensibilité accrue [B] (doi:10.3390/ijerph22081171).\n- **Interactions** : la revue de pharmacocinétique analyse l'effet du tabac et des contraceptifs oraux sur la clairance de la caféine (doi:10.3389/fphar.2022.752826) ; sens et ampleur par médicament non extraits [?]. Fluvoxamine, ciprofloxacine, lithium : [?] non vérifiés par PubMed dans cette fiche ; demander au pharmacien.\n- **Restless legs, démence frontotemporale** : effet délétère possible [B, revue narrative] (doi:10.3390/ijerph22081171).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "—",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« La caféine du thé est différente et plus douce »** : même molécule ; la différence de ressenti n'est pas établie [?].\n- **« Le café déshydrate »** : [?] non traité ici.\n- **« Le café est bon pour la santé »** : associations de cohortes, causalité non démontrée ; la caféine augmente la tension et dégrade le sommeil [A] (doi:10.1146/annurev-nutr-071816-064941, doi:10.1016/j.smrv.2023.101764).\n- **« Booster cognitif »** : surtout une compensation de fatigue (voir cognition).\n- **« Pré-workout = énergie »** : doses ≈ 217 mg, à ≥ 13 h du coucher pour préserver le sommeil [A].\n\nVoir aussi : [Anxiété](fiche:anxiete).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- doi:10.1136/bjsports-2018-100278 — Grgic J et al., *Br J Sports Med* 2019 (parapluie, 21 méta-analyses). PubMed 30926628.\n- doi:10.1016/j.smrv.2023.101764 — Gardiner C et al., *Sleep Med Rev* 2023. PubMed 36870101.\n- doi:10.3390/sports13090317 — Kocak A et al., *Sports* 2025. PubMed 41003623.\n- doi:10.3389/fphys.2026.1892370 — Liang L et al., *Front Physiol* 2026. PubMed 42591203.\n- doi:10.1186/s40798-026-01104-y — Miraftabi H et al., *Sports Med Open* 2026. PubMed 42714767.\n- doi:10.1080/15502783.2025.2564238 — Razazan et al., *JISSN* 2025. PubMed 40977612.\n- doi:10.1146/annurev-nutr-071816-064941 — Grosso G et al., *Annu Rev Nutr* 2017. PubMed 28826374.\n- doi:10.1016/j.numecd.2021.05.014 — Shahinfar H et al., *NMCD* 2021. PubMed 34112583.\n- doi:10.1016/j.numecd.2020.07.016 — Ribeiro E et al., *NMCD* 2020. PubMed 33158718.\n- doi:10.3390/nu12061860 — Hong CT et al., *Nutrients* 2020. PubMed 32580456.\n- doi:10.3233/JPD-202521 — Chen et al., *J Parkinsons Dis* 2021. PubMed 33814465.\n- doi:10.1159/000371710 — Kim YS et al., *Neuroepidemiology* 2015. PubMed 25721193.\n- doi:10.1007/s10654-014-9944-x — Greenwood DC et al., *Eur J Epidemiol* 2014. PubMed 25179792.\n- doi:10.3389/fphar.2022.752826 — Grzegorzewski J et al., *Front Pharmacol* 2022. PubMed 35280254.\n- doi:10.1186/s12967-024-05737-z — Low JJ et al., *J Transl Med* 2024. PubMed 39438936.\n- doi:10.14814/phy2.70673 — Davison G et al., *Physiol Rep* 2025. PubMed 41261949.\n- doi:10.1177/02698811241303601 — Kapellou A et al., *J Psychopharmacol* 2024. PubMed 39648354.\n- doi:10.3390/ijerph22081171 — Carbone MG et al., *IJERPH* 2025. PubMed 40869757.\n- doi:10.3390/nu18101489 ; doi:10.3390/nu18172898 — Chmiel J et al., *Nutrients* 2026 (ERP, EEG). PubMed 42196950, 42739069.\n- doi:10.1111/nure.12120 — Camfield DA et al., *Nutr Rev* 2014. PubMed 24946991.\n- doi:10.1016/j.biopsycho.2007.09.008 — Haskell CF et al., *Biol Psychol* 2008. PubMed 18006208.\n- Arrêté du 26 septembre 2016, annexe I, Légifrance (JORFTEXT000033197580), consulté le 2026-10-06.\n- EFSA NDA Panel, *EFSA J* 2015;13(5):4102, doi:10.2903/j.efsa.2015.4102 (chiffres via recherche web, non vérifiés sur le texte).\n- AMA : relevé via recherche web, non vérifié sur source officielle.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Caféine",
+ "type": "actif",
+ "unite": ""
+}

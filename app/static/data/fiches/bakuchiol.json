@@ -1,0 +1,80 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "cosmetique",
+ "id": "bakuchiol",
+ "intro": "",
+ "liens": [
+  "aroma-zone-serum-bakuchiol",
+  "niacinamide",
+  "protection-solaire",
+  "retinoides",
+  "vitamine-c"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "36176207",
+  "29947134",
+  "38564402",
+  "38758222",
+  "24471735",
+  "42332430",
+  "30644106",
+  "31423588",
+  "42014129",
+  "35674758",
+  "30610961"
+ ],
+ "preuve_globale": "B",
+ "resume": "Phénol d'origine végétale (*Psoralea corylifolia*) vendu comme « rétinol naturel » sans irritation. Il n'a pas de ressemblance structurelle avec les rétinoïdes mais module des gènes de façon comparable (PMID 36176207).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Phénol d'origine végétale (*Psoralea corylifolia*) vendu comme « rétinol naturel » sans irritation. Il n'a pas de ressemblance structurelle avec les rétinoïdes mais module des gènes de façon comparable (PMID 36176207).\n- **Un seul essai comparatif direct** : 44 patients, 12 semaines, bakuchiol 0,5 % deux fois par jour contre rétinol 0,5 % une fois par jour ; baisse comparable de la surface des rides et de l'hyperpigmentation, sans différence significative ; plus de desquamation et de picotements sous rétinol [B] (PMID 29947134). Petite taille, et un rétinol à 0,5 % une fois par jour n'est pas une référence de force.\n- Revue systématique de 15 essais : 12 sans insu ni groupe contrôle, 10 avec des formules combinées, 4 sans concentration indiquée ; **risque de biais élevé**, méta-analyse impossible [B, faible rigueur] (PMID 38564402). Une autre revue de cosmécétiques lui donne un grade de recommandation C, alors que rétinol et vitamine C obtiennent A (PMID 38758222).\n- Aucune comparaison avec la trétinoïne ou l'adapalène (médicaments) trouvée [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Régulation de gènes proche de celle du rétinol malgré une structure différente, d'après une revue (PMID 36176207).\n- Modèle de peau reconstruite et fibroblastes : profils d'expression génique très proches de ceux du rétinol, avec hausse des collagènes I, III et IV [D] (PMID 24471735). Étude de l'équipe du fournisseur de la matière première (Sytheon) : conflit d'intérêts, à lire avec prudence.\n- Une revue narrative de 2026, rédigée par le même auteur industriel, décrit aussi des voies distinctes du rétinol (Nrf2, enzymes antioxydantes dont NQO1, signalisation endocannabinoïde, hausse de LRAT) sans activation directe des récepteurs rétinoïdes [D, revue d'auteur industriel] (PMID 42332430). Mécanisme chez l'humain non établi.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Photovieillissement vs rétinol 0,5 % | Rides et pigmentation en baisse dans les deux groupes, sans différence ; moins d'irritation sous bakuchiol | [B] (PMID 29947134) |\n| Ensemble des essais humains | 15 essais, surtout ouverts, sans contrôle, formules combinées | [B, risque de biais élevé] (PMID 38564402) |\n| Grade global (revue de cosmécétiques anti-âge) | Grade C, contre A pour rétinol et vitamine C | [B] (PMID 38758222) |\n| Acné, hyperpigmentation post-inflammatoire | Évoquées dans les revues, issues d'essais combinés ; non relues individuellement | [?] |\n| Bakuchiol vs trétinoïne ou adapalène | Aucun essai trouvé | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essai comparatif : 0,5 % deux fois par jour (PMID 29947134). Quatre essais sur quinze ne précisent pas la teneur (PMID 38564402). Les produits du commerce déclarent souvent peu ou pas le pourcentage [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Ingrédient cosmétique (sérums, crèmes) en vente libre. Aucun médicament. Médicament : aucun repéré dans la littérature lue ; BDPM non interrogée pour cette substance [?].\n- UE : nom INCI BAKUCHIOL, CAS 10309-37-2, fonctions antimicrobien, antioxydant, soin de la peau et émollient ; aucune annexe (interdiction, restriction) liée, d'après un miroir tiers de CosIng (inventaire n° 32053, données du 13/02/2019, consulté le 2026-10-13). Ce miroir n'est pas la base officielle, dont la page n'a pas pu être lue : statut officiel (annexes II à VI du règlement (CE) 1223/2009, avis du CSSC) non vérifié [?]. Aucun avis du CSSC (comité scientifique européen pour la sécurité des consommateurs) sur le bakuchiol retrouvé dans une recherche web.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Mieux toléré que le rétinol dans l'essai de 44 patients (PMID 29947134). Un cas de dermatite de contact rapporté dans la littérature (PMID 36176207) [B].\n- Allergie de contact : au moins trois publications de cas dans *Contact Dermatitis*, dont « Bakuchiol, a new allergen in cosmetics » (2019), un cas dans une crème cosmétique (2019) et un cas lié à un produit de prévention du photovieillissement (2026) [B, cas rapportés] (PMID 30644106, PMID 31423588, PMID 42014129). Titres seuls, résumés indisponibles, fréquence non estimable.\n- Une revue de dermatologie de 2022 affirme que le bakuchiol ne provoque pas la brûlure et la desquamation des rétinoïdes topiques [B, revue narrative] (PMID 35674758) ; ce n'est pas une preuve d'absence d'allergie (voir ci-dessus).\n- Grossesse : aucune donnée humaine trouvée [?]. Une revue de pharmacologie (travaux animaux et cellulaires) rapporte des effets de type œstrogène du bakuchiol, avec protection contre la perte osseuse [C] (PMID 30610961) : raison supplémentaire de ne pas le présumer anodin pendant la grossesse. « Alternative au rétinol » n'est pas une preuve d'innocuité, demander un avis médical.\n- Sécurité à long terme, allaitement, photosensibilité : non documentés dans les sources lues [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Aussi efficace que le rétinol, sans effets » : un seul petit essai le montre, à une dose de rétinol faible (PMID 29947134) ; le reste de la littérature est ouvert et combiné (PMID 38564402).\n- « Naturel donc sûr » : un cas de dermatite de contact existe (PMID 36176207), et le bakuchiol est décrit comme un allergène cosmétique dans plusieurs cas rapportés (PMID 30644106, PMID 31423588, PMID 42014129).\n- « Remplace la trétinoïne » : non comparé [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- [Sérum concentré Bakuchiol (Aroma-Zone)](fiche:aroma-zone-serum-bakuchiol) : 1 % déclaré, 7,95 € les 30 ml, preuve [B] sur l'actif (pas sur le produit).\n\nVoir aussi : [rétinoïdes](fiche:retinoides), [vitamine C](fiche:vitamine-c), [niacinamide](fiche:niacinamide), [protection solaire](fiche:protection-solaire).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Dhaliwal S et al. *Br J Dermatol* 2019 — PMID 29947134 — [DOI](https://doi.org/10.1111/bjd.16918)\n2. Fanning JE et al. *J Drugs Dermatol* 2024 — PMID 38564402 — [DOI](https://doi.org/10.36849/JDD.7763)\n3. Puyana C et al. *J Cosmet Dermatol* 2022 — PMID 36176207 — [DOI](https://doi.org/10.1111/jocd.15420)\n4. Lau M et al. *Arch Dermatol Res* 2024 — PMID 38758222 — [DOI](https://doi.org/10.1007/s00403-024-02908-2)\n5. Chaudhuri RK, Bojanowski K. *Int J Cosmet Sci* 2014 — PMID 24471735 — [DOI](https://doi.org/10.1111/ics.12117)\n6. Chaudhuri RK. *Int J Cosmet Sci* 2026 — PMID 42332430 — [DOI](https://doi.org/10.1111/ics.70116)\n7. Malinauskiene L et al. *Contact Dermatitis* 2019 — PMID 30644106 — [DOI](https://doi.org/10.1111/cod.13211) (titre seul)\n8. Raison-Peyron N, Dereure O. *Contact Dermatitis* 2019 — PMID 31423588 — [DOI](https://doi.org/10.1111/cod.13387) (titre seul)\n9. Sánchez-Arjona M et al. *Contact Dermatitis* 2026 — PMID 42014129 — [DOI](https://doi.org/10.1111/cod.70169) (titre seul)\n10. Greenzaid J et al. *J Drugs Dermatol* 2022 — PMID 35674758 — [DOI](https://doi.org/10.36849/JDD.6740)\n11. Xin Z et al. *Pharmacol Res* 2019 — PMID 30610961 — [DOI](https://doi.org/10.1016/j.phrs.2019.01.001)\n12. CosIng Checker (miroir tiers de CosIng), « 32053 bakuchiol » — https://cosingchecker.com/ingredients/32053-bakuchiol (consulté le 2026-10-13)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "Bakuchiol",
+ "type": "actif",
+ "unite": ""
+}

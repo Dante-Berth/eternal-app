@@ -1,0 +1,68 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "medicament",
+ "id": "epiduo-adapalene-peroxyde-0-1-2-5",
+ "intro": "",
+ "liens": [
+  "cutacnyl-peroxyde-de-benzoyle-5",
+  "differine-adapalene-0-1",
+  "peroxyde-de-benzoyle",
+  "retinoides"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "33825196",
+  "38943431",
+  "42592775",
+  "9990414"
+ ],
+ "preuve_globale": "A",
+ "resume": "L'association la mieux classée contre l'acné dans les réseaux d'essais [A, faible certitude], mais non remboursée, au prix libre non vérifié, et qui n'apporte pas de gain officiel face aux deux actifs utilisés séparément ; contre-indiquée pendant la grossesse.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "L'association la mieux classée contre l'acné dans les réseaux d'essais [A, faible certitude], mais non remboursée, au prix libre non vérifié, et qui n'apporte pas de gain officiel face aux deux actifs utilisés séparément ; contre-indiquée pendant la grossesse.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- Pour 1 g de gel : adapalène 1 mg (0,1 %), peroxyde de benzoyle anhydre 25 mg (2,5 %, sous forme hydratée). Excipients : édétate disodique, docusate sodique, glycérol, poloxamère, propylèneglycol (4 %), Simulgel 600 PHA (dont polysorbate 80), eau purifiée (BDPM/RCP du 21/10/2024, consulté le 2026-10-13).\n- Association adapalène-peroxyde : 54 % d'amélioration ressentie contre 35 % sous véhicule, plus de retraits pour effets indésirables (2,5 %) [A, faible certitude] (PMID 33825196) ; en tête des traitements pour les lésions inflammatoires et non inflammatoires [A] (PMID 38943431). Détail : [peroxyde de benzoyle](fiche:peroxyde-de-benzoyle).\n- Adapalène seul dans l'acné : preuves non relues dans ce dépôt [?] ; ses preuves anti-âge sont de niveau [B] ([rétinoïdes](fiche:retinoides)). Irritation accrue de l'association adapalène-peroxyde [B, hétérogène] (PMID 42592775).\n- Stabilité : l'adapalène reste stable en présence de peroxyde de benzoyle, contrairement à la trétinoïne [D] (PMID 9990414, voir [rétinoïdes](fiche:retinoides)).",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Médicament, liste I, sur ordonnance uniquement, titulaire Galderma International ; AMM du 23/01/2008, valide, procédure décentralisée. Indication : acné vulgaire avec comédons, papules et pustules, adultes, adolescents et enfants dès 9 ans. Présentations de 30 g et de 45 g, **prix libre, non remboursable**. SMR modéré et **ASMR V** par rapport à l'association libre de ses deux actifs (Commission de la transparence, avis du 18/01/2012). **Contre-indiqué pendant la grossesse et chez la femme qui planifie une grossesse** (BDPM, consulté le 2026-10-13). Pas de statut AMA pertinent.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "Pas d'allégation anti-âge : médicament de l'acné, un usage anti-âge serait hors AMM et sans essai cité ici [?]. L'avis de 2012 est le seul jugement officiel de valeur ajoutée : pas d'amélioration face à l'association libre des deux principes actifs. Le RCP indique des premiers signes d'amélioration en 1 à 4 semaines.",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "RCP : une fois par jour le soir, en fine couche sur l'ensemble de la zone atteinte, peau nettoyée et séchée, en évitant yeux et lèvres. En cas d'irritation : hydratant non comédogène, espacer (tous les 2 jours), suspendre ou arrêter. Ne pas combiner avec d'autres rétinoïdes ou du peroxyde de benzoyle. Éviter le soleil et les lampes UV ; décolore cheveux et tissus teints ; pas sur peau lésée, eczémateuse ou brûlée par le soleil. Effets fréquents : sécheresse, dermite irritante de contact, irritation, brûlure, érythème, desquamation, avec un pic la première semaine ; dermite allergique de contact, brûlures sévères (certaines au deuxième degré), réaction anaphylactique et dépigmentation de fréquence indéterminée (RCP, consulté le 2026-10-13). Allaitement : utilisable, sans application sur la poitrine.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "Prix libre : aucun tarif vérifié [?] (une indication de 2022 d'un site tiers de téléconsultation, non relue, évoquait environ 28 € pour 30 g et 36 € pour 45 g ; à ne pas retenir sans contrôle en officine). Alternative remboursée : [Différine 0,1 %](fiche:differine-adapalene-0-1) (4,82 €, remboursé à 30 %) plus [Cutacnyl 5 %](fiche:cutacnyl-peroxyde-de-benzoyle-5) (3,16 €, remboursé à 30 %), soit environ 8 € de tubes (durées d'usage différentes). Cette association libre est jugée équivalente par la HAS (ASMR V) ; son bénéfice pratique éventuel (une application au lieu de deux produits) n'est pas démontré dans les sources lues [?]. Comment associer les deux : avis médical.",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non recherchés pour ce produit [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- BDPM, Epiduo 0,1 %/2,5 %, gel — [fiche](https://base-donnees-publique.medicaments.gouv.fr/medicament/60972530/extrait) (RCP du 21/10/2024 ; consultée le 2026-10-13)\n- Références cliniques (PMID 33825196, 38943431, 42592775) : voir [peroxyde de benzoyle](fiche:peroxyde-de-benzoyle) ; (PMID 9990414) : voir [rétinoïdes](fiche:retinoides)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Epiduo 0,1 %/2,5 % gel (adapalène + peroxyde de benzoyle)",
+ "type": "produit",
+ "unite": ""
+}

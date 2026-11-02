@@ -1,0 +1,65 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "alimentation",
+ "id": "alimentation-peau",
+ "intro": "",
+ "liens": [
+  "collagene-oral",
+  "rides-et-sillons-nasogeniens"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "36606553",
+  "19735513",
+  "24970388",
+  "42523776",
+  "42589469",
+  "42145807",
+  "23732711"
+ ],
+ "preuve_globale": "A",
+ "resume": "Le seul résultat solide est la tomate/lycopène, et il concerne la photoprotection (érythème, épaisseur/densité de peau), pas directement les rides [A].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Le seul résultat solide est la tomate/lycopène**, et il concerne la **photoprotection** (érythème, épaisseur/densité de peau), pas directement les rides [A].\n- Chocolat « riche en flavanols » : deux petits RCT qui se contredisent → ne pas en faire un conseil [B].\n- Oméga-3, polyphénols, probiotiques : plausibles mais aucune preuve vérifiée sur les rides ; les revues disent elles-mêmes « études hétérogènes » [?].\n- Aucun aliment ne comble un sillon nasogénien. Lien : [condition](fiche:rides-et-sillons-nasogeniens).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Réduction du stress oxydatif / de la sensibilité aux UV. Pour le lycopène : baisse de MMP-1 (enzyme de dégradation du collagène) mesurée dans les essais, un marqueur et non un résultat clinique « ride » [A].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Aliment / nutriment | Résultat | Preuve |\n|---|---|---|\n| Tomate, lycopène (21 essais) | ↓ érythème, MMP-1, pigmentation ; ↑ dose érythémale minimale, épaisseur et densité de la peau (Zhang 2023, PMID 36606553). Effet sur les rides mesuré : non rapporté dans le résumé lu | [A] (photoprotection) ; rides [?] |\n| Chocolat riche en flavanols, 12 sem | RCT n=30 : MED plus que doublée (Williams 2009, PMID 19735513). RCT n=74 : **pas de différence significative** de MED vs chocolat pauvre en flavanols ; élasticité +0,06 mm (IC 0,01–0,12) (Mogollon 2014, PMID 24970388) | [B], contradictoire |\n| Oméga-3 | Revue narrative sur les AGE (produits de glycation) chez le sujet âgé : surtout préclinique/biomarqueurs, peu d'essais sur la glycation cutanée (PMID 42523776). Rides : aucune donnée trouvée | [?] |\n| Polyphénols, probiotiques (axe intestin-cerveau-peau) | Revue : « études hétérogènes, évaluations intégrées limitées » (PMID 42589469) | [?] |\n| Régime végétal / antioxydant | Moins de rides et meilleure hydratation (observationnel, revue narrative PMID 42145807) | [B] |\n| Collagène hydrolysé | Voir [fiche](fiche:collagene-oral) | [A] hydratation/élasticité |",
+   "titre": "Preuves par aliment"
+  },
+  {
+   "markdown": "- **« Mangez du chocolat pour protéger du soleil »** : un petit essai positif (n=30), un essai plus grand négatif (n=74) — le chocolat du commerce n'a de toute façon pas la teneur en flavanols testée (Williams 2009 dit que la fabrication courante détruit les flavanols) [B]. À ne pas utiliser comme photoprotection.\n- **« La tomate remplace la crème solaire »** : la méta-analyse parle de « photoprotection endogène » mesurée sur des marqueurs (érythème, dose érythémale minimale), sans aucune comparaison avec un écran solaire ; ampleur en SPF équivalent non rapportée [?]. L'écran solaire, lui, a réduit le vieillissement cutané dans un essai randomisé de 903 adultes [B, ECR unique n=903] (PMID 23732711).\n- **« Les caroténoïdes en complément protègent du vieillissement »** : dans ce même essai, 30 mg/j de bêta-carotène (un autre caroténoïde que le lycopène) n'a eu aucun effet global sur le vieillissement cutané en 4,5 ans [B, ECR unique n=903] (PMID 23732711).\n- **« Évitez le sucre, il glyque votre visage »** : preuve de dégâts par le sucre en préclinique seulement [C] ; humain [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Si vous voulez agir sans risque : régime riche en végétaux variés dont **tomates cuites** (source de lycopène — biodisponibilité accrue par la cuisson/un peu de gras : connaissance générale, [?] non vérifiée ici), et poisson/oméga-3 pour la santé globale, pas pour les rides. Pas de dose cutanée validée.",
+   "titre": "Conseil pratique (honnête)"
+  },
+  {
+   "markdown": "Lycopène en complément : doses des essais non extraites [?]. Chocolat : calories/sucre. Complément ≠ aliment : statut France = complément alimentaire (à vérifier). AMA : non concerné.",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- Zhang X et al., Crit Rev Food Sci Nutr 2023 — PMID 36606553 — [DOI](https://doi.org/10.1080/10408398.2022.2164557)\n- Mogollon JA et al., Nutr J 2014 — PMID 24970388 — [DOI](https://doi.org/10.1186/1475-2891-13-66)\n- Williams S et al., J Cosmet Dermatol 2009 — PMID 19735513 — [DOI](https://doi.org/10.1111/j.1473-2165.2009.00448.x)\n- Cortesi A et al., Front Aging 2026 — PMID 42523776 — [DOI](https://doi.org/10.3389/fragi.2026.1872170)\n- Kim Y, Lee SJ, Int J Mol Sci 2026 — PMID 42589469 — [DOI](https://doi.org/10.3390/ijms27156814)\n- Nwaopara A, Woolery-Lloyd H, Am J Lifestyle Med 2026 — PMID 42145807\n- Hughes MC et al., Ann Intern Med 2013 — PMID 23732711 — [DOI](https://doi.org/10.7326/0003-4819-158-11-201306040-00002)",
+   "titre": "Sources (PubMed)"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Alimentation et rides : quels aliments ?",
+ "type": "actif",
+ "unite": ""
+}

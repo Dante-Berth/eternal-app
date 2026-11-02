@@ -1,0 +1,83 @@
+{
+ "cibles": [
+  "sens-bouche",
+  "coeur-metabolisme",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "retinopathie-diabetique",
+ "intro": "",
+ "liens": [
+  "glaucome",
+  "glycemie-et-prediabete",
+  "prevention-diabete-type-2",
+  "vue-dmla-et-cataracte"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "33940045",
+  "20587587",
+  "37383397",
+  "29091343",
+  "22709833"
+ ],
+ "preuve_globale": "B",
+ "resume": "Touche 22,3 % des diabétiques dans le monde (IC 19,7-25,0), dont 6,2 % avec forme menaçant la vue [A, observationnel] (PMID 33940045).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Touche 22,3 % des diabétiques dans le monde (IC 19,7-25,0), dont 6,2 % avec forme menaçant la vue [A, observationnel] (PMID 33940045).\n- Silencieuse : seul le fond d'œil régulier la détecte avant la perte de vue.\n- Contrôle glycémique intensif : progression à 4 ans 7,3 % vs 10,4 % (OR 0,67) ; fénofibrate ajouté à simvastatine 6,5 % vs 10,2 % (OR 0,60) ; tension intensive sans effet [B, ECR unique n=2 856] (PMID 20587587).\n- Dépistage par rétinographe : l'IA atteint sensibilité 0,88 et spécificité 0,91 [A, hétérogène] (PMID 37383397).\n- Le traitement des formes avancées (anti-VEGF, laser) relève de l'ophtalmologue.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Atteinte des petits vaisseaux de la rétine par l'hyperglycémie chronique ; mécanisme détaillé : non relu ici [?]. Effet « mémoire métabolique » d'un bon contrôle précoce : décrit après DCCT/EDIC (PMID 29091343, revue narrative).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "- HAS (recommandations 2011 sur la lecture différée de photographies du fond d'œil, et parcours de soins du diabète de type 2 2025 ; vues par résumé de recherche, non lues dans le texte, consultées le 2026-10-15) : examen annuel du fond d'œil, ou tous les 2 ans pour un diabétique non insulinotraité, équilibré (HbA1c et tension) et sans rétinopathie au premier examen ; rétinographe lu à distance possible pour les moins de 70 ans sans rétinopathie connue, par orthoptiste ou infirmier sous protocole. À vérifier sur le texte [?]. Source secondaire : ameli (médecins, dépistage de la rétinopathie diabétique), consulté le 2026-10-15.\n- IA : 21 études prospectives, sensibilité 0,880, spécificité 0,912 ; hétérogénéité selon source des patients et qualité d'image [A, hétérogène] (PMID 37383397). Statut réglementaire des dispositifs : non consulté [?].",
+   "titre": "Dépistage"
+  },
+  {
+   "markdown": "| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Contrôle glycémique intensif | réduit la glycémie | OR 0,67 (0,51-0,87) de progression à 4 ans, mais cible HbA1c < 6 % dans une population à haut risque cardiovasculaire [B, ECR unique n=2 856] (PMID 20587587) | — | — |\n| Fénofibrate (+ statine) | non lipidique supposé | ACCORD Eye : 6,5 % vs 10,2 % (OR 0,60, IC 0,42-0,87) [B, ECR unique n=2 856] (PMID 20587587). FIELD + ACCORD : première photocoagulation -31 % ; progression -5,0 points sur 5 ans (FIELD), -3,7 points sur 4 ans (ACCORD) [A, rétinopathie critère secondaire] (PMID 22709833, revue) | médicament sur ordonnance (fénofibrate commercialisé, BDPM 2026-10-15) ; indication rétinopathie dans le RCP : non vérifiée [?] | non relevé |\n| Pression artérielle intensive | — | pas d'effet sur la rétinopathie : 10,4 % vs 8,8 %, OR 1,23 (0,84-1,79) [B, ECR unique n=2 856] (PMID 20587587) | — | — |\n| Anti-VEGF, laser | — | non relus dans cette fiche [?] ; spécialités présentes à la BDPM (Eylea, Byooviz...), consultée le 2026-10-15 | médicament hospitalier | — |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Débutant : fond d'œil dès le diagnostic de diabète puis à la fréquence fixée par le médecin ; glycémie et tension contrôlées (voir [prédiabète](fiche:glycemie-et-prediabete), [prévention du diabète de type 2](fiche:prevention-diabete-type-2)).\n- Intermédiaire : discuter fénofibrate avec le diabétologue si dyslipidémie.\n- Avancé : suivi ophtalmologique et traitement des formes proliférantes ou de l'œdème maculaire (non détaillés).",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Attendre une gêne visuelle : la rétinopathie est asymptomatique avant les stades tardifs (voir aussi la fiche [vue](fiche:vue-dmla-et-cataracte)).\n- Chercher à tout prix l'HbA1c < 6 % : dans ACCORD, la stratégie intensive est celle qui protège la rétine, mais les risques généraux de cette stratégie ne sont pas traités ici [?].",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Compléments (myrtille, lutéine) pour la rétine diabétique » : aucune étude relue ici [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- La pression artérielle intensive n'a pas ralenti la rétinopathie dans ACCORD Eye, contrairement à la glycémie et au fénofibrate (PMID 20587587).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Diabète sans fond d'œil récent, baisse de vue, mouches volantes soudaines : ophtalmologue sans délai.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "[Vue : DMLA et cataracte](fiche:vue-dmla-et-cataracte) · [Glaucome](fiche:glaucome)",
+   "titre": "Voir aussi"
+  },
+  {
+   "markdown": "- PMID 33940045 — Teo ZL et al., *Ophthalmology* 2021 (résumé relu).\n- PMID 20587587 — Chew EY et al., ACCORD Eye, *N Engl J Med* 2010 (résumé relu).\n- PMID 22709833 — Wong TY, Simó R, Mitchell P, *Am J Ophthalmol* 2012 (revue, résumé relu).\n- PMID 37383397 — Wang et al., *Front Endocrinol* 2023 (résumé relu).\n- PMID 29091343 — Misra et al., *J Diabetes* 2018 (résumé relu).\n- HAS, [dépistage de la rétinopathie diabétique](https://www.has-sante.fr/jcms/c_1028305/fr/depistage-de-la-retinopathie-diabetique-par-lecture-differee-de-photographies-du-fond-d-oeil), parcours de soins DT2 2025 ; ameli ; BDPM (consultés le 2026-10-15).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Rétinopathie diabétique et dépistage",
+ "type": "condition",
+ "unite": ""
+}

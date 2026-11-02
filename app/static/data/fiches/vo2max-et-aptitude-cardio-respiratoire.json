@@ -1,0 +1,89 @@
+{
+ "cibles": [
+  "longevite",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "vo2max-et-aptitude-cardio-respiratoire",
+ "intro": "",
+ "liens": [
+  "exercice-physique",
+  "hiit-et-zone-5-vo2max",
+  "mitochondries",
+  "sarcopenie",
+  "zone-2-et-endurance"
+ ],
+ "marqueurs": [
+  "vo2max"
+ ],
+ "mesure": "fonctionnel",
+ "nb_pmid": 13,
+ "nb_seuils": 13,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "26455884",
+  "31883698",
+  "27938891",
+  "34809986",
+  "19454641",
+  "30646252",
+  "22144631",
+  "27881567",
+  "32458761",
+  "35072942",
+  "39083800",
+  "34242652",
+  "29472009"
+ ],
+ "preuve_globale": "B",
+ "resume": "Association inverse forte et sans plafond observé entre aptitude cardio-respiratoire (CRF) et mortalité toutes causes [B, cohortes et méta-analyse de cohortes] ; reste observationnelle.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Association inverse forte et sans plafond observé entre aptitude cardio-respiratoire (CRF) et mortalité toutes causes [B, cohortes et méta-analyse de cohortes] ; reste observationnelle.\n- Le gain de CRF dans le temps est associé à moins de décès [B, cohorte], mais aucun ECR ne montre qu'augmenter le VO2max réduit la mortalité [?].\n- Les montres et tracker estiment le VO2max avec une erreur individuelle large : erreur absolue moyenne 15,8 % pour l'Apple Watch Series 7 sur 19 sujets [B, petite étude] ; les montres à algorithme basé sur l'effort sont plus justes que celles basées sur le repos [A, méta-analyse de 14 études].\n- Pour un suivi, utiliser la même méthode à chaque fois.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- CRF = capacité du système cardio-respiratoire et musculaire à fournir et utiliser l'oxygène à l'effort maximal. Le mécanisme causal de la protection n'a pas été recherché ici [?].\n- Biais plausible : une bonne CRF reflète aussi l'absence de maladie préexistante (causalité inverse) ; les cohortes ajustent mais ne l'éliminent pas.",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "Conversion : 1 MET = 3,5 ml O2/kg/min (convention). Les valeurs ci-dessous sont des **références de population** (médiane du 50e percentile de personnes apparemment en bonne santé, mesure directe sur tapis ou vélo avec analyse des gaz), pas des seuils diagnostiques : il n'existe pas de recommandation officielle (HAS, ESC, OMS) qui définisse un VO2max « normal » ou « pathologique » que j'aie retrouvée [?]. Les valeurs par décennie intermédiaire (30–69 ans) et les autres percentiles figurent dans des tableaux des articles FRIEND que je n'ai pas pu lire (texte intégral sans les tableaux) : non retrouvés [?]. Ne pas comparer une valeur de montre à ces références (voir plus bas).\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| VO2max | ml/kg/min | 48,0 | médiane (50e percentile) à 20–29 ans, tapis | hommes sans maladie cardiovasculaire, États-Unis | FRIEND, Kaminsky et al., Mayo Clin Proc 2015 (PMID 26455884), résumé relu |\n| VO2max | ml/kg/min | 24,4 | médiane à 70–79 ans, tapis | hommes, États-Unis | PMID 26455884 |\n| VO2max | ml/kg/min | 37,6 | médiane à 20–29 ans, tapis | femmes, États-Unis | PMID 26455884 |\n| VO2max | ml/kg/min | 18,3 | médiane à 70–79 ans, tapis | femmes, États-Unis | PMID 26455884 |\n| VO2max | ml/kg/min | 49,5 | médiane à 20–29 ans, tapis | hommes, base internationale FRIEND-I (3 pays) | Peterman et al., Mayo Clin Proc 2020 (PMID 31883698), résumé relu |\n| VO2max | ml/kg/min | 30,8 | médiane à 70–79 ans, tapis | hommes, FRIEND-I | PMID 31883698 |\n| VO2max | ml/kg/min | 40,6 | médiane à 20–29 ans, tapis | femmes, FRIEND-I | PMID 31883698 |\n| VO2max | ml/kg/min | 25,0 | médiane à 70–79 ans, tapis | femmes, FRIEND-I | PMID 31883698 |\n| VO2max | ml/kg/min | 41,9 puis 19,5 | médianes à 20–29 puis 70–79 ans, vélo | hommes, États-Unis | Kaminsky et al., Mayo Clin Proc 2017 (PMID 27938891), résumé relu |\n| VO2max | ml/kg/min | 31,0 puis 14,8 | médianes à 20–29 puis 70–79 ans, vélo | femmes, États-Unis | PMID 27938891 |\n| VO2max | % par décennie | ≈ 10 % (FRIEND 2015) ; 9 % (FRIEND-I) ; 13,5 % ou 4,0 ml/kg/min (mise à jour 2022, tapis) | déclin moyen par décennie | adultes apparemment en bonne santé | PMID 26455884 ; PMID 31883698 ; Kaminsky et al., Mayo Clin Proc 2022 (PMID 34809986) |\n| Capacité d'effort | METs | 7,9 (≈ 27,7 ml/kg/min) | seuil entre aptitude « faible » et « intermédiaire » dans la méta-analyse ; RR de mortalité 1,40 pour faible vs intermédiaire | adultes (hommes et femmes, études de cohortes) | [B, méta-analyse de cohortes] (PMID 19454641) |\n| Variation de CRF | METs | +1 | mortalité toutes causes : RR 0,87 par MET en plus (association) | adultes | [B, méta-analyse de cohortes] (PMID 19454641) |\n\nNotes :\n- Les médianes diffèrent selon le pays (les auteurs de FRIEND citent des valeurs norvégiennes plus élevées que les américaines) et selon le mode d'exercice (vélo plus bas que tapis) : se comparer à la référence qui correspond à son test (PMID 26455884, 34809986, 27938891).\n- La mise à jour 2022 (22 379 tests, 20–89 ans) donne des références de tapis de 1,5 à 4,6 ml/kg/min plus basses que celles de 2015 ; ses tableaux ne sont pas repris ici (PMID 34809986).\n- Un autre jeu de seuils (classes « faible, correct, bon, excellent » par âge et sexe, issues du Cooper Institute) est largement diffusé ; il repose sur des valeurs estimées par la charge sur tapis, et la source primaire n'a pas été lue : non repris [?]. FRIEND note que ces valeurs estimées surestiment le VO2 à haute intensité (PMID 26455884).",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "Le tableau classe les affirmations sur le marqueur, pas des traitements.\n\n| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| CRF et mortalité toutes causes | association | [B, méta-analyse de cohortes] : RR 0,87 par MET en plus (IC 0,84-0,90) ; faible vs intermédiaire CRF RR 1,40 ; seuil 7,9 METs (PMID 19454641) | non applicable | non applicable |\n| Pas de plafond de bénéfice | association | [B, cohorte rétrospective, n=122 007] : élite vs faible HR ajusté 0,20 (IC 0,16-0,24) ; faible CRF vs élite HR 5,04 ; risque comparable ou supérieur à coronaropathie, tabac, diabète (PMID 30646252) | non applicable | non applicable |\n| Évolution de la CRF | association | [B, cohorte hommes] : gain de fitness HR 0,61 vs perte (mortalité toutes causes), 1 MET de mieux = 15 % de risque en moins (PMID 22144631) | non applicable | non applicable |\n| CRF comme signe vital clinique | recommandation | [B] : déclaration AHA, la CRF pourrait prédire mieux que tabac, HTA, cholestérol, diabète, et améliore la reclassification du risque (PMID 27881567) | non applicable | non applicable |\n| Estimation sans test d'effort (équations) | modèle | [B] : sur 27 équations, la variation estimée est liée à la variation mesurée mais 56 % de bonne classification directionnelle (médiane) ; utilité clinique limitée selon les auteurs (PMID 32458761) | non applicable | non applicable |\n| Estimation par montre (méta-analyse) | algorithme | [A, méta-analyse de 14 études] : algorithme « repos » surestime (biais 2,17 ml/kg/min, limites d'accord -13,07 à 17,41) ; algorithme « effort » biais -0,09, limites -9,92 à 9,74 (PMID 35072942) | appareils grand public | coût de la montre, non consulté |\n| Apple Watch Series 7 | algorithme | [B, n=19] : sous-estime (41,4 contre 45,9 ml/kg/min mesurés), ICC 0,47, erreur absolue moyenne 15,79 %, RMSE 8,85 (PMID 39083800) | grand public | non consulté |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Débutant : se situer sans matériel. Pas de test de terrain vérifié ici (Cooper, 6 minutes, Rockport : non recherché [?]).\n- Intermédiaire : test d'effort supervisé avec analyse des gaz (la référence : le test en laboratoire avec analyseur d'échanges gazeux est présenté comme l'étalon par l'étude PMID 39083800). Remboursement et accès en France : non consultés [?].\n- Avancé : suivre la tendance avec la même méthode ; une montre sert à une tendance grossière, pas à une valeur absolue (PMID 35072942, 39083800).\n- Comment l'améliorer : voir [hiit et zone 5](fiche:hiit-et-zone-5-vo2max), [zone 2](fiche:zone-2-et-endurance), [exercice physique](fiche:exercice-physique).",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Prendre la valeur d'une montre pour une mesure. Les limites d'accord de -9 à +10 ml/kg/min sont plus larges que la plupart des gains attendus d'un entraînement (PMID 35072942).\n- Comparer entre marques : les algorithmes diffèrent (repos vs effort, PMID 35072942).\n- Confondre METs d'un tapis roulant, estimation par équation et VO2 mesuré : le résumé de Mandsager utilise des METs estimés (PMID 30646252).\n- Conclure qu'un entraînement qui monte le VO2max « fait vivre plus longtemps » : association, pas essai randomisé [?].",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Ma montre me donne mon VO2max » : l'Apple Watch Series 7 sous-estimait en moyenne de 4,5 ml/kg/min dans une étude de 19 personnes ; l'exactitude était meilleure chez les sujets en bonne forme (résumé tronqué, détail non relu) (PMID 39083800). Les validations indépendantes de montres hors Apple (Garmin, Fitbit, Whoop) ne sont pas dépouillées ici [?].\n- « Plus de VO2max = X années de vie » : les chiffres circulants viennent de cohortes ; je n'ai pas vérifié de calcul en années.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Dans la cohorte de Cleveland, l'avantage de l'élite sur le haut niveau persistait chez les 70 ans et plus (HR 0,71, IC 0,52-0,98) (PMID 30646252) [B].\n- Le VO2 pic reste un meilleur pronostic que le pouls d'O2 de pic dans une cohorte d'adultes sains, qui n'apportait rien de complémentaire (PMID 34242652) [B].\n- Voir aussi le déclin avec l'âge : chez 481 hommes, VO2max baissé de 5,4 ml/kg/min en 11 ans en moyenne, et chaque ml/kg/min de variation en plus est associé à un risque d'insuffisance cardiaque réduit de 10 % (HR 0,90) (PMID 29472009) [B].",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Test d'effort médical avant un effort maximal si facteurs de risque cardiovasculaire, âge avancé ou symptômes (douleur thoracique, essoufflement inhabituel).\n- Une CRF basse est un signal à discuter avec un médecin, pas un diagnostic.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 19454641, Kodama S et al., JAMA 2009, doi:10.1001/jama.2009.681 (résumé relu).\n- PMID 30646252, Mandsager K et al., JAMA Netw Open 2018, doi:10.1001/jamanetworkopen.2018.3605 (résumé relu).\n- PMID 22144631, Lee DC et al., Circulation 2012, doi:10.1161/CIRCULATIONAHA.111.038422 (résumé relu).\n- PMID 27881567, Ross R et al., Circulation 2016, doi:10.1161/CIR.0000000000000461 (résumé relu).\n- PMID 32458761, Peterman JE et al., J Am Heart Assoc 2020, doi:10.1161/JAHA.119.015117 (résumé relu).\n- PMID 35072942, Molina-Garcia P et al., Sports Med 2022, doi:10.1007/s40279-021-01639-y (résumé relu).\n- PMID 39083800, Caserman P et al., JMIR Biomed Eng 2024, doi:10.2196/59459 (résumé relu ; symbole VO2max altéré dans l'extrait, détail du sous-groupe non relu).\n- PMID 34242652, Peterman JE et al., Prog Cardiovasc Dis 2021, doi:10.1016/j.pcad.2021.07.001 (résumé relu).\n- PMID 26455884, Kaminsky et al., Mayo Clin Proc 2015, doi:10.1016/j.mayocp.2015.07.026 (résumé et texte intégral relus ; tableaux de percentiles illisibles).\n- PMID 31883698, Peterman et al., Mayo Clin Proc 2020 (résumé relu).\n- PMID 27938891, Kaminsky et al., Mayo Clin Proc 2017 (résumé relu).\n- PMID 34809986, Kaminsky et al., Mayo Clin Proc 2022 (résumé relu).\n- PMID 29472009, Khan H et al., Am J Cardiol 2018, doi:10.1016/j.amjcard.2018.01.003 (résumé relu).\n- Fiches liées : [Exercice physique](fiche:exercice-physique), [Sarcopénie](fiche:sarcopenie), [Mitochondries](fiche:mitochondries).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "VO2max et aptitude cardio-respiratoire (prédicteur de mortalité, mesure, montres)",
+ "type": "biomarqueur",
+ "unite": "ml/kg/min"
+}

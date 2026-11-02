@@ -1,0 +1,98 @@
+{
+ "cibles": [
+  "longevite",
+  "prevention"
+ ],
+ "derniere_maj": "2026-11-02",
+ "famille": "",
+ "id": "horloges-epigenetiques-et-age-biologique",
+ "intro": "",
+ "liens": [
+  "bilans-biologiques",
+  "biomarqueur-crp-hscrp",
+  "biomarqueur-il6-interleukine-6",
+  "biomarqueur-insuline-homa-ir-cgm",
+  "biomarqueur-rdw-hemogramme",
+  "biomarqueur-reins-creatinine-cystatine-albuminurie",
+  "biomarqueurs-fonctionnels-force-marche-composition-corporelle",
+  "exercice-physique",
+  "jeune-intermittent-et-restriction-calorique",
+  "mitochondries",
+  "prevention-demence-alzheimer",
+  "sommeil",
+  "telomeres",
+  "vo2max-et-aptitude-cardio-respiratoire"
+ ],
+ "marqueurs": [],
+ "mesure": "sang",
+ "nb_pmid": 11,
+ "nb_seuils": 3,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "30669119",
+  "35029144",
+  "31767039",
+  "33677984",
+  "36277076",
+  "37118425",
+  "42792116",
+  "26265730",
+  "38657874",
+  "40145291",
+  "37161091"
+ ],
+ "preuve_globale": "B",
+ "resume": "Les horloges (GrimAge, DunedinPACE) prédisent mortalité et morbidité à l'échelle d'une cohorte [B, cohortes] ; cela ne dit pas qu'elles guident une décision individuelle.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Les horloges (GrimAge, DunedinPACE) prédisent mortalité et morbidité à l'échelle d'une cohorte [B, cohortes] ; cela ne dit pas qu'elles guident une décision individuelle.\n- La fiabilité test-retest était le point faible : des écarts jusqu'à 9 ans entre réplicats pour six horloges classiques [B]. DunedinPACE a été conçue pour être plus fiable, et des versions « composantes principales » corrigent le bruit.\n- Aucune étude vérifiée ne montre qu'agir sur le résultat d'un test améliore un critère clinique [?]. Le seul ECR sur une horloge (CALERIE, restriction calorique) : effet petit, sur DunedinPACE seulement [B, ECR post hoc].\n- Tests grand public (type TruAge) : aucune validation indépendante vérifiée ici [?] ; allégations de marque [M].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Principe : le niveau de méthylation de sites CpG du sang varie avec l'âge ; un modèle (régression) le convertit en « âge » ou en vitesse.\n- GrimAge : combine sept substituts méthylation de protéines plasmatiques (dont PAI-1 et GDF-15) et un estimateur de paquets-années de tabac. Les auteurs rapportent une prédiction de la mortalité supérieure aux autres horloges testées (Cox P=2,0E-75), et des liens avec coronaropathie et cancer [B, cohortes] (PMID 30669119). Conséquence : une part du signal est du tabac et de l'inflammation, pas un « âge » au sens large.\n- DunedinPACE : vitesse de vieillissement, entraînée sur le déclin longitudinal de 19 indicateurs d'organes sur deux décennies (cohorte Dunedin), avec exclusion des sondes peu reproductibles. Les auteurs rapportent une fiabilité test-retest élevée, des associations avec morbidité, invalidité et mortalité, des effets comparables à GrimAge et une prédiction incrémentale au-delà de GrimAge [B, cohortes ; financement NIA/MRC] (PMID 35029144).\n- Limites générales d'interprétation (mécanismes mal compris, biais de populations sous-représentées, usage éthique) : revue de Bell et al. [B, revue] (PMID 31767039). Dans une cohorte de 120 hommes noirs sud-africains âgés, les horloges sous-estimaient l'âge des plus vieux et chacune portait une fraction différente de l'information [B, petite cohorte] (PMID 33677984).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "Ces mesures n'ont pas de valeur de référence clinique. La seule borne lue est une limite de fiabilité.\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| Horloges épigénétiques (GrimAge, DunedinPACE, PhenoAge) | années, ou vitesse de vieillissement | aucun seuil clinique validé trouvé | pas de valeur « normale » ni de borne qui déclenche une décision ; un résultat se compare à une cohorte | adultes | non retrouvé : aucune source lue ne propose de seuil ; allégations des tests grand public [M] [?] |\n| Horloges classiques, erreur technique entre réplicats | années | jusqu'à 9 ans d'écart entre réplicats d'un même échantillon (six horloges) | limite de lecture : un écart plus petit que le bruit de la puce n'est pas interprétable seul | échantillons répliqués | [B, étude de fiabilité] Higgins-Chen 2022, PMID 36277076 |\n| Âge perçu du visage | années | seuil : non retrouvé | marqueur d'âge apparent sans borne clinique lue | jumeaux danois de 70 ans et plus | non retrouvé : aucun seuil sourcé ici [?] |",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "Il n'y a pas de traitement : le tableau classe le mesurable et l'intervenable.\n\n| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Prédiction de mortalité par GrimAge | substituts protéiques + tabac | [B, cohortes] (PMID 30669119) | non applicable | non applicable |\n| Prédiction de morbidité/mortalité par DunedinPACE | vitesse de déclin multi-organes | [B, cohortes] (PMID 35029144) | non applicable | non applicable |\n| Fiabilité test-retest des horloges classiques | bruit technique de la puce | [B] : jusqu'à 9 ans d'écart entre réplicats, 1,5 an pour la plupart des réplicats après correction par composantes principales (PMID 36277076) | non applicable | non applicable |\n| Modifiabilité par intervention (restriction calorique 25 %, 2 ans) | non établi | [B, ECR post hoc, n=220] ralentit DunedinPACE, pas PhenoAge ni GrimAge, effets petits (PMID 37118425) | non applicable | non applicable |\n| Antioxydants naturels et horloges | non établi | [B] : revue systématique, pas d'effet anti-âge uniforme, réponses spécifiques à l'horloge, petites études non contrôlées = hypothèses (PMID 42792116) | non applicable | non applicable |\n| Test grand public (TruAge et équivalents) | non vérifié | [?] validité clinique ; allégations [M] | non consulté | non consulté |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Débutant : ne pas acheter de test pour décider d'un traitement. Les leviers à preuve clinique sont ailleurs : [exercice](fiche:exercice-physique), [sommeil](fiche:sommeil), [bilans biologiques](fiche:bilans-biologiques).\n- Intermédiaire : si un test est fait, le considérer comme une mesure bruitée. Un seul résultat ne vaut pas une tendance ; pas de comparaison entre laboratoires ou entre versions d'algorithme (aucune donnée de concordance inter-laboratoires trouvée [?]).\n- Avancé : exiger la version « composantes principales » ou des réplicats ; noter que l'amplitude d'un changement doit dépasser le bruit de mesure. Aucune valeur de changement minimal cliniquement pertinent n'est établie [?].",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- **Âge perçu du visage** : chez 374 jumeaux danois de 70 ans et plus, l'âge perçu par des infirmières prédit la survie à 7 ans (HR 1,17 ; 1,10-1,25) et à 7-12 ans (HR 1,06 ; 1,00-1,12), à âge réel et sexe égaux ; le visage, pas les cheveux ni les vêtements, porte le lien [B, cohorte de jumeaux] (PMID 26265730). Étude chez des 70+ ; ne s'applique pas à un adulte jeune à faible masse grasse [?].\n- **Listes de marqueurs de jeunesse (textes générés par IA, vérification du 2026-10-31)** : les marqueurs fonctionnels (VO2max, force de préhension, vitesse de marche) sont des prédicteurs de mortalité en cohortes : voir [VO2max](fiche:vo2max-et-aptitude-cardio-respiratoire) et [biomarqueurs fonctionnels](fiche:biomarqueurs-fonctionnels-force-marche-composition-corporelle). Les marqueurs sanguins (hs-CRP, IL-6, RDW, insuline/HOMA-IR, cystatine C) sont chacun une fiche : [CRP](fiche:biomarqueur-crp-hscrp), [IL-6](fiche:biomarqueur-il6-interleukine-6), [RDW](fiche:biomarqueur-rdw-hemogramme), [insuline](fiche:biomarqueur-insuline-homa-ir-cgm), [reins](fiche:biomarqueur-reins-creatinine-cystatine-albuminurie). Dire qu'un visage jeune « implique » ces valeurs est faux : il faut les mesurer.\n- **Non vérifié ici** [?] : seuils chiffrés « jeune » de VFC, de vitesse de l'onde de pouls, charge en cellules sénescentes (pas de test grand public validé trouvé), densité mitochondriale.\n- **SuperAgers** : voir [prévention de la démence](fiche:prevention-demence-alzheimer). Les revues trouvées sur les SuperAgers (PMID 38657874, 40145291) décrivent des facteurs associés (activité physique, alimentation, tabac, éducation, génétique) sans quantifier d'effet ni tester d'intervention [B, revues narratives].",
+   "titre": "Âge apparent et listes « signes de jeunesse biologique »"
+  },
+  {
+   "markdown": "- Lire « âge biologique = 38 ans » comme un diagnostic. Les modèles sont validés pour prédire des événements en groupe, pas pour classer un individu.\n- Traiter une baisse d'horloge après un complément comme preuve d'efficacité : sans contrôle randomisé et sans réplicats, la variation peut être du bruit (PMID 36277076).\n- Croire que toutes les horloges mesurent la même chose : GrimAge intègre le tabac, DunedinPACE une vitesse (PMID 30669119, 35029144).\n- Les horloges ne sont pas des télomères : voir [Télomères](fiche:telomeres) pour une autre mesure, également limitée.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Inverser son âge biologique » : le seul ECR vérifié (CALERIE) montre un ralentissement modeste de DunedinPACE, aucun changement des horloges d'âge (PhenoAge, GrimAge) ; les auteurs notent qu'un test de l'hypothèse de géroscience exige des critères cliniques à long terme (PMID 37118425). Pas d'inversion démontrée [B].\n- « Le test vous dit si vos suppléments marchent » : la revue sur les antioxydants conclut à des signaux dépendants de l'horloge et du sous-groupe, sans effet uniforme (PMID 42792116). La fiabilité de mesure est un préalable non rempli pour beaucoup d'horloges (PMID 36277076).\n- Test grand public type TruAge : allégations fabricant [M] non vérifiées ici ; je n'ai pas consulté le site ni le prix [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Les erreurs techniques atteignent 9 ans entre réplicats pour six horloges prominentes ; avec les composantes principales, la plupart des réplicats s'accordent à 1,5 an près (PMID 36277076) [B].\n- DunedinPACE a été construite en retirant les sondes peu reproductibles, ce que les horloges de première génération ne faisaient pas (PMID 35029144) [B].\n- Statut réglementaire en France/UE des tests grand public (marquage CE, interdiction éventuelle de tests génétiques sans prescription) : non consulté [?].",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Un test « d'âge biologique » ne remplace pas un bilan médical. Pour le risque cardio-métabolique, voir [bilans biologiques](fiche:bilans-biologiques) et les fiches biomarqueurs (ApoB, Lp(a), HbA1c).\n- Un résultat « mauvais » ne justifie aucun traitement ; en parler à un médecin si anxiété ou décision de supplément.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 30669119, Lu AT et al., GrimAge, Aging (Albany NY) 2019, doi:10.18632/aging.101684 (résumé relu).\n- PMID 26265730, Gunn DA et al., J Gerontol A 2015, doi:10.1093/gerona/glv090 (résumé relu)\n- PMID 38657874, Islam MA et al., Mech Ageing Dev 2024, doi:10.1016/j.mad.2024.111936 ; PMID 40145291, Quiroz YT et al., Alzheimers Dement 2025, doi:10.1002/alz.70037 (résumés relus)\n- PMID 35029144, Belsky DW et al., DunedinPACE, eLife 2022, doi:10.7554/eLife.73420 (résumé relu).\n- PMID 36277076, Higgins-Chen AT et al., fiabilité des horloges, Nat Aging 2022, doi:10.1038/s43587-022-00248-2 (résumé relu).\n- PMID 37118425, Waziry R et al., CALERIE et méthylation, Nat Aging 2023, doi:10.1038/s43587-022-00357-y (résumé relu). Une correction d'auteur existe (PMID 37161091, sans résumé disponible).\n- PMID 31767039, Bell CG et al., DNA methylation aging clocks: challenges and recommendations, Genome Biol 2019, doi:10.1186/s13059-019-1824-y (résumé relu).\n- PMID 33677984, Cronjé HT et al., Epigenomics 2021, doi:10.2217/epi-2020-0333 (résumé relu).\n- PMID 42792116, Taktaz F et al., Antioxidants (Basel) 2026, doi:10.3390/antiox15091075 (résumé relu).\n- Fiches liées : [Télomères](fiche:telomeres), [Mitochondries](fiche:mitochondries), [jeûne et restriction calorique](fiche:jeune-intermittent-et-restriction-calorique).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Horloges épigénétiques et âge biologique (GrimAge, DunedinPACE, tests grand public)",
+ "type": "biomarqueur",
+ "unite": ""
+}

@@ -1,0 +1,74 @@
+{
+ "cibles": [
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "urolithine-a",
+ "intro": "",
+ "liens": [
+  "exercice-physique",
+  "grenade",
+  "mitochondries"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "35584623",
+  "35050355",
+  "32694802",
+  "39487653",
+  "38415449",
+  "39002645",
+  "33095939"
+ ],
+ "preuve_globale": "B",
+ "resume": "Métabolite produit par le microbiote à partir des ellagitannins (grenade, noix, fruits rouges). Vendue en complément (marque phare : Mitopure, Amazentis) comme « activateur de mitophagie ».",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Métabolite produit par le microbiote à partir des ellagitannins (grenade, noix, fruits rouges). Vendue en complément (marque phare : Mitopure, Amazentis) comme « activateur de mitophagie ».\n- Chez l'humain : quelques ECR courts (4 mois maximum), petits, **tous ou presque financés ou co-signés par le fabricant** pour les plus gros. Gain d'endurance musculaire et de force sur des critères secondaires ; **les critères principaux ont été manqués** dans les deux essais pivots [B] (PMID 35584623, 35050355).\n- Les « marqueurs de santé mitochondriale » (acylcarnitines, expression génique) sont des **biomarqueurs de substitution** : aucun essai n'a mesuré un résultat clinique (chutes, mobilité durable, mortalité, maladie) [?].\n- Statut UE : **non autorisé comme nouvel aliment à ma connaissance** (dossier en cours d'instruction). Ne pas confondre avec manger de la grenade ou des noix.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Proposé : induction de la mitophagie (recyclage des mitochondries abîmées) et baisse de l'inflammation, démontrées chez le vers et le rongeur [C] ; non démontrées comme mécanisme chez l'humain, seulement des signatures de biomarqueurs [B] (PMID 32694802).\n- La production endogène dépend du microbiote : seule une partie de la population convertit efficacement les ellagitannins en urolithine A ; c'est l'argument commercial du supplément. Aucune donnée comparant « producteurs » et « non-producteurs » sur des critères cliniques n'a été retenue ici [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "Légende : **S** = biomarqueur de substitution ; **C** = critère clinique ou fonctionnel.\n\n| Essai | Population, dose, durée | Critère principal | Résultat | Remarques |\n|---|---|---|---|---|\n| Andreux 2019 (PMID 32694802) | sujets âgés sédentaires, 4 semaines, 500 et 1000 mg | sécurité | bonne tolérance ; modulation des acylcarnitines plasmatiques et de l'expression de gènes mitochondriaux musculaires (secondaires, **S**) | première administration chez l'humain [B] ; fabricant co-auteur |\n| Liu 2022 (PMID 35050355) | 66 adultes de 65 à 90 ans, 1000 mg/j, 4 mois | distance au test de marche de 6 min et production maximale d'ATP musculaire | **aucun des deux critères principaux significatif** (marche : +60,8 m vs +42,5 m) ; endurance musculaire (main, jambe) à 2 mois significativement meilleure, secondaire | [B, ECR unique n=66] ; fabricant co-auteur |\n| Singh 2022 (PMID 35584623) | adultes d'âge moyen, 4 mois, deux doses | pic de puissance | **critère principal non atteint** ; force musculaire environ +12 % (secondaire), amélioration jugée « cliniquement significative » par les auteurs pour VO2 pic et marche de 6 min ; baisse des acylcarnitines et de la CRP (**S**) | [B] ; fabricant auteur |\n| Zhao 2024 (PMID 39487653) | 20 hommes entraînés en force, 1 g/j, 8 semaines | endurance, force | 1RM développé couché et squat non significatifs ; contraction isométrique maximale et répétitions à l'échec améliorées ; CRP « diminuée vs placebo » mais **augmentée vs baseline** dans le même résumé | [B, n=20] ; pas de lien entre ces tests et la performance sportive réelle |\n| Jamialahmadi 2024 (PMID 38415449) | 10 patients insuffisants cardiaques à FE réduite, 1 g/j, 4 semaines (croisé) | échocardiographie | **aucun effet** sur FEVG ni proBNP ; HDL +6,5 mg/dL | [B, n=10] ; échec sur la pathologie visée |\n\n- Revue systématique (5 études, 250 individus sains, 10 à 1000 mg/j, 28 jours à 4 mois) : effet anti-inflammatoire dose-dépendant et gènes mitochondriaux ou d'autophagie régulés, **mais pas d'effet sur la production maximale d'ATP, l'anthropométrie, les critères cardiovasculaires ni la fonction physique** ; forces et endurance musculaires améliorées [B] (PMID 39002645). C'est une synthèse qualitative, pas une méta-analyse chiffrée : ce n'est donc pas un [A].\n- Durée de vie, âge biologique, maladies : aucune donnée humaine [?]. Les effets sur la longévité du modèle animal restent [C].\n- Lien avec l'alimentation : la grenade fait augmenter l'urolithine A urinaire (détectée plus souvent sous extrait de grenade que sous placebo, PMID 33095939) mais l'extrait de grenade n'a pas modifié les critères de cancer prostatique testés dans cet essai ; ne pas en tirer d'argument pour la supplémentation [B].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais cités : de 500 à 1000 mg/j (jusqu'à 4 mois).\n- Étiquettes : à relever dans les produits distribués en France ; non relevé pour cette fiche [?]. Ne pas supposer que la dose de l'étiquette est celle des essais.\n- Aucune donnée de sécurité au-delà de 4 mois [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Poudre/capsule d'urolithine A pure** : marché de compléments (vente en ligne), statut UE ci-dessous.\n- **Aliments sources de précurseurs** (grenade, noix, framboises) : aliments ordinaires ; la conversion en urolithine A varie selon l'individu.\n- **Statut réglementaire** (consulté le 2026-10-06) :\n  - Nouvel aliment : un dossier Amazentis figure parmi les demandes en cours listées par la Commission européenne (« ongoing applications », fiche 2018-0538, document PDF non lisible automatiquement). Presse spécialisée : avis EFSA positif et autorisation « en cours » (NutraIngredients, 2026-02-02, source secondaire) ; **l'avis EFSA et un règlement d'exécution n'ont pas pu être retrouvés dans une source officielle** [?]. Tant qu'aucun acte d'autorisation n'est publié au catalogue Novel Food UE, la commercialisation comme complément en UE n'est pas couverte (`non_autorise`). Vérifier le catalogue avant toute mise à jour.\n  - Page « Union list of novel foods » de la Commission relue le 2026-10-06 : elle ne mentionne pas l'urolithine A (elle renvoie au règlement 2017/2470 consolidé, non lisible ici) ; absence d'autorisation non confirmée dans la liste elle-même [?].\n  - France : DGCCRF, ANSES non consultés ; liste AMA 2026 inaccessible (wada-ama.org, 2026-10-06) [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Tolérance : pas de différence significative d'événements indésirables vs placebo dans les ECR cités (PMID 35050355, 32694802) [B] ; durée maximale 4 mois, populations souvent < 100 participants.\n- Interactions médicamenteuses, grossesse, allaitement, insuffisance rénale ou hépatique : aucune donnée trouvée [?]. À éviter par prudence dans ces situations (absence de données, pas preuve de danger).\n- Qualité des produits : pureté et dose réelle non contrôlées par une autorité pour un produit non autorisé.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Active la mitophagie chez l'humain »** : la mitophagie n'a pas été mesurée directement dans les ECR ; on a des acylcarnitines et de l'expression génique (biomarqueurs) [B] (PMID 32694802, 35584623).\n- **« Cliniquement prouvé »** : les deux essais pivots ont manqué leurs critères principaux (PMID 35584623, 35050355), et les gains sont sur des critères secondaires.\n- **« Rajeunit les muscles »** : +12 % de force sur 4 mois en secondaire [B] ; pas d'effet sur l'ATP maximal ni sur la fonction physique globale dans la revue (PMID 39002645). L'exercice de résistance fait beaucoup mieux, voir [exercice physique](fiche:exercice-physique).\n- **« Meilleur que la grenade »** : aucune comparaison directe.\n- **Insuffisance cardiaque** : aucun bénéfice dans le seul essai (PMID 38415449).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit dans ce repo à ce jour.\n\nVoir aussi : [mitochondries et vieillissement](fiche:mitochondries).\n\nVoir aussi : [grenade](fiche:grenade) (source d'ellagitanins, production d'urolithines variable selon le microbiote).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 32694802, Andreux PA et al., « The mitophagy activator urolithin A is safe and induces a molecular signature of improved mitochondrial and cellular health in humans », 2019 (résumé relu).\n- PMID 35050355, Liu S et al., « Effect of Urolithin A Supplementation on Muscle Endurance and Mitochondrial Health in Older Adults », JAMA Netw Open 2022 (résumé relu).\n- PMID 35584623, Singh A et al., « Urolithin A improves muscle strength, exercise performance, and biomarkers of mitochondrial health in a randomized trial in middle-aged adults », Cell Rep Med 2022 (résumé relu).\n- PMID 39487653, Zhao H et al., essai de 8 semaines chez des athlètes en musculation, J Int Soc Sports Nutr 2024 (résumé relu).\n- PMID 38415449, Jamialahmadi T et al., urolithine A dans l'insuffisance cardiaque à FE réduite, Rev Recent Clin Trials 2024 (résumé relu).\n- PMID 39002645, Kuerec AH et al., « Targeting aging with urolithin A in humans: A systematic review », 2024 (résumé relu).\n- PMID 33095939, Jarrard D et al., extrait de grenade en surveillance active du cancer de la prostate, Prostate 2020 (résumé relu ; cité seulement pour la détection de l'urolithine A).\n- Commission européenne, Novel Food, demandes en cours (fiche Amazentis 2018-0538), food.ec.europa.eu, consulté le 2026-10-06 (contenu du PDF non extrait).\n- NutraIngredients, « Longevity ingredients under the EU regulatory spotlight », 2026-02-02, consulté le 2026-10-06 (source secondaire).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "Urolithine A",
+ "type": "actif",
+ "unite": ""
+}

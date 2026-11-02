@@ -1,0 +1,102 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-11-02",
+ "famille": "",
+ "id": "biomarqueur-lipoproteine-a",
+ "intro": "Fiche « examen ». Le traitement du LDL-C et les médicaments ciblant la Lp(a) en développement sont dans [ApoB, lipides et statines](fiche:apob-lipides-et-statines) (section Lipoprotéine(a)).",
+ "liens": [
+  "apob-lipides-et-statines",
+  "auto-experimentation",
+  "biomarqueur-apob"
+ ],
+ "marqueurs": [
+  "lpa"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 15,
+ "nb_seuils": 4,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "37188555",
+  "42838767",
+  "42460806",
+  "41544761",
+  "37128734",
+  "39492722",
+  "42880684",
+  "42886494",
+  "36036785",
+  "39219855",
+  "42739533",
+  "12964817",
+  "40618457",
+  "26754058",
+  "27733255"
+ ],
+ "preuve_globale": "A",
+ "resume": "La Lp(a) est surtout déterminée par les gènes et associée de façon indépendante aux maladies coronaires et à la sténose aortique [A] (PMID 37188555, 42838767). Elle est le facteur de risque lipidique qu'on ne peut pas beaucoup modifier, et le dosage sert à ajuster le risque global, pas à guider u…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- La Lp(a) est surtout déterminée par les gènes et associée de façon indépendante aux maladies coronaires et à la sténose aortique [A] (PMID 37188555, 42838767). Elle est le facteur de risque lipidique **qu'on ne peut pas beaucoup modifier**, et le dosage sert à ajuster le risque global, pas à guider un traitement spécifique.\n- Mesure : une fois dans la vie chez l'adulte est la position de l'EAS (consensus 2022), de l'ACC/AHA 2026 (avec dépistage en cascade dans les familles à haut risque, PMID 42460806) et d'un cadre canadien 2026 (PMID 41544761), ainsi que de l'ESC/EAS 2025 (« should be considered at least once in every adult's lifetime », doi 10.1093/eurheartj/ehaf190, lu le 2026-10-13) [B, consensus d'experts] (PMID 37128734, 37188555).\n- Seuil de risque : > 50 mg/dL (≈ 125 nmol/L selon la méta-analyse ci-dessous ; l'ESC 2025 cite > 105 nmol/L, voir [fiche liée](fiche:apob-lipides-et-statines)). Ces conversions mg/dL ↔ nmol/L dépendent du dosage : toujours raisonner dans l'unité rendue par le laboratoire (PMID 37128734, qui insiste sur l'unité molaire).\n- Un LDL-C bas ne neutralise pas le risque : sous statine, Lp(a) > 50 mg/dL reste associée à plus d'événements même dans le quartile de LDL-C le plus bas (HR 1,38 ; 1,06–1,79) [A, méta-analyse individuelle de 6 essais, n = 27 658, co-auteurs employés par Novartis] (PMID 39492722).\n- **Aucun médicament ne baisse la Lp(a) avec un bénéfice clinique démontré.** Le premier essai d'événements d'un traitement ciblé (pelacarsen, Lp(a)HORIZON) a baissé la Lp(a) **sans réduire le critère cardiovasculaire principal** chez des patients à maladie établie (résultats préliminaires annoncés en septembre 2026, données complètes attendues) [B, résultat préliminaire d'un essai] (PMID 42880684, 42886494 ; communiqué du fabricant dans la [fiche liée](fiche:apob-lipides-et-statines)). Les auteurs d'une analyse évoquent un traitement trop tardif après une longue exposition, une maladie déjà avancée ou une baisse insuffisante, sans trancher.\n- Variabilité entre deux dosages : plus grande qu'on ne le croit, surtout dans la « zone grise » (voir plus bas).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Particule de type LDL liée à l'apolipoprotéine(a). Elle contient une ApoB (donc compte dans l'[ApoB](fiche:biomarqueur-apob)). Mécanismes proposés : athérogène, pro-thrombotique et pro-inflammatoire : [C, hypothèse de revue] non détaillés ici [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "Pas de conversion fiable mg/dL ↔ nmol/L (dépend du dosage et de la taille de l'isoforme) : la méta-analyse citée écrit 50 mg/dL ≈ 125 nmol/L. Raisonner dans l'unité rendue par le laboratoire.\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| Lp(a) | mg/dL | 5 | valeur de comparaison ; au-delà, risque d'événements athéroscléreux croissant de façon log-linéaire | patients de 6 essais de statine | [A] Bhatia 2024, PMID 39492722 |\n| Lp(a) | mg/dL (nmol/L) | > 50 (≈ 125) | risque accru à tous les niveaux de LDL-C atteints sous statine ; HR 1,38 (1,06–1,79) dans le quartile de LDL-C le plus bas, HR 1,90 (1,46–2,48) avec LDL-C du 4e quartile | patients de 6 essais de statine | [A, co-auteurs employés par Novartis] Bhatia 2024, PMID 39492722 |\n| Lp(a) | nmol/L | > 105 | seuil de risque cité par l'ESC/EAS 2025 | adulte | [B, consensus] doi 10.1093/eurheartj/ehaf190, lu le 2026-10-13 via la [fiche liée](fiche:apob-lipides-et-statines), non relu ici |\n| Lp(a) | mg/dL (nmol/L) | — | zone intermédiaire « grey zone » de l'EAS 2022 (à re-mesurer) | adulte | bornes non retrouvées dans les résumés lus (PMID 36036785, 39219855) [?] |",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Niveau | Lecture | Preuve |\n|---|---|---|\n| ≈ 5 mg/dL | référence de comparaison dans la méta-analyse | PMID 39492722 |\n| Augmentation continue | risque d'ASCVD **log-linéaire** avec la Lp(a), chez traités par statine et placebo | [A] (PMID 39492722) |\n| > 50 mg/dL | risque accru à tous niveaux de LDL-C atteints ; risque maximal quand Lp(a) > 50 et LDL-C élevé (HR 1,90 ; 1,46–2,48) | [A] (PMID 39492722) |\n| Zone intermédiaire de l'EAS | à re-mesurer (voir ci-dessous) | [B] (PMID 39219855) |\n\nLe chiffre seul ne dicte aucun traitement : il modifie l'estimation du risque et l'intensité de la prise en charge des autres facteurs ([ApoB et LDL-C](fiche:apob-lipides-et-statines), tension, glycémie, tabac).",
+   "titre": "Interprétation du résultat"
+  },
+  {
+   "markdown": "| Étude | Résultat | Preuve |\n|---|---|---|\n| 609 personnes, même méthode (Nashville) | Écart ≥ 10 mg/dL chez 38,1 % ; > 25 % de changement chez 40,5 % ; **53 % de la zone intermédiaire de l'EAS migrent** (20 % vers bas risque, 33 % vers haut risque) ; plus de variabilité chez les femmes et chez les Noirs américains ; les valeurs basses et hautes ne changent pas de catégorie | [B, cohorte rétrospective] (PMID 39219855) |\n| 13 914 adultes, 3 hôpitaux sud-coréens, 2 dosages à ≥ 90 jours | Corrélation de rang 0,92 ; forte variabilité (> 10 mg/dL et > 25 %) chez 15,5 % ; MACE 6,8 % vs 4,2 % ; HR 1,46 (1,18–1,80) ; gain de discrimination **modeste** (ΔC 0,006) ; hypothèse à valider | [B, cohorte rétrospective] (PMID 42739533) |\n| 70 diabétiques, 4 prélèvements espacés de 3 mois | CV intra-individuel 31,7 % ; un prélèvement unique classe mal 20 % des patients autour du seuil | [B] (PMID 12964817, repris de [auto-expérimentation](fiche:auto-experimentation)) |\n\nLecture : un dosage suffit si le résultat est très bas ou très haut ; en zone intermédiaire, un second dosage (même laboratoire, même méthode) peut changer la catégorie. La mesure répétée n'est pas encore une recommandation et son utilité prognostique reste à valider (PMID 42739533).",
+   "titre": "Variabilité et répétition du dosage"
+  },
+  {
+   "markdown": "Méta-analyse de 147 ECR (145 314 sujets) [A, effet sur le marqueur seulement] (PMID 40618457) :\n| Traitement | Effet sur la Lp(a) |\n|---|---|\n| Statines, acide bempédoïque, ézétimibe, oméga-3, fibrates | pas d'effet significatif |\n| Anticorps anti-PCSK9 | −6,37 mg/dL (−29 %) |\n| Inclisiran | −4,76 mg/dL (−22 %) |\n| Inhibiteurs de CETP | −6,77 mg/dL (−46 %) |\n| Niacine | −7,06 mg/dL (−37 %) |\n\nLes auteurs demandent de savoir si cette baisse se traduit par un bénéfice clinique. Aucune de ces réductions n'est démontrée comme réduisant les événements pour la Lp(a). Mode de vie : la Lp(a) est stable dans le temps et peu influencée par le mode de vie [B, revue narrative] (PMID 42460806) ; aucun effet chiffré d'une intervention retrouvé. Traitements ciblés en phase 3 : voir [fiche liée](fiche:apob-lipides-et-statines).",
+   "titre": "Ce qui baisse (ou non) la Lp(a)"
+  },
+  {
+   "markdown": "- Position de l'EAS et de l'ESC/EAS 2025 : au moins une fois chez l'adulte (voir TL;DR) [B, consensus].\n- Priorité raisonnable (non chiffrée par les sources relues) : antécédents familiaux d'infarctus ou d'AVC précoce, sténose aortique, maladie cardiovasculaire sans facteur de risque évident, LDL-C très élevé malgré traitement [?].\n- Dépistage en cascade dans les familles à haut risque : recommandé par l'ACC/AHA 2026, d'après une revue (PMID 42460806) ; modalités (qui, à quel âge, quel seuil) non lues [?].",
+   "titre": "Qui doit se faire doser"
+  },
+  {
+   "markdown": "Examen de biologie médicale prescrit. Prise en charge par l'Assurance maladie, cotation NABM et prix : sources contradictoires (un article grand public dit non remboursé, un document américain suggère le contraire), aucune source officielle retrouvée (recherche web du 2026-10-16) [?]. À demander au laboratoire et à l'assurance complémentaire.",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Refaire un dosage tous les ans : la valeur est stable à l'échelle de la vie, et la variabilité entre dosages relève en grande partie du bruit de mesure ; sauf zone grise, un seul dosage suffit (consensus EAS).\n- Comparer mg/dL et nmol/L avec un facteur de conversion universel : il dépend du dosage (PMID 37128734).\n- Acheter niacine ou L-carnitine « pour la Lp(a) » : la niacine est un médicament, et l'effet sur la Lp(a) n'est pas lié à une baisse des événements (voir [fiche liée](fiche:apob-lipides-et-statines)).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Baissez votre Lp(a) naturellement avec ce complément »** : les rares effets mesurés (L-carnitine orale −9,0 mg/dL ; niacine −22,9 %) sont des effets sur un marqueur, sans essai d'événements [A, marqueur seulement] (PMID 26754058, 27733255, repris de la fiche liée).\n- **« Un bon LDL-C vous protège entièrement »** : faux pour la Lp(a) > 50 mg/dL (PMID 39492722).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Même une « grande stabilité génétique » n'empêche pas des variations de ≥ 10 mg/dL chez plus d'un tiers des individus (PMID 39219855).\n- Les valeurs de la zone grise sont celles qui changent de catégorie ; les valeurs très basses ou très hautes restent stables.",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Résultat > 50 mg/dL (≈ 125 nmol/L), ou antécédent familial d'événement cardiovasculaire précoce : discuter du risque global avec un médecin ou un cardiologue ; l'hypertension, le diabète et le tabac se traitent plus strictement dans ce cas (principe de l'EAS, non chiffré ici).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 42880684 — Sabouret P et al., Pelacarsen and Lp(a)HORIZON: Interpreting the Disconnect Between Lp(a) Lowering and Cardiovascular Outcomes. *Am J Med* 2026. doi:10.1016/j.amjmed.2026.10.005\n- PMID 42886494 — Abbasi J, Lp(a)-Reducing Agent Pelacarsen Misses the Mark in Phase 3. *JAMA* (Medical News) 2026. doi:10.1001/jama.2026.20002\n- PMID 42460806 — McGinnis T, Saxon DR, Approach to the patient with elevated lipoprotein(a). *J Clin Endocrinol Metab* 2026. doi:10.1210/clinem/dgag286\n- PMID 41544761 — Thanassoulis G et al., Clinical Care for Patients With Elevated Lp(a) Level in Canada. *Can J Cardiol* 2026. doi:10.1016/j.cjca.2025.12.060\n- PMID 37188555 — Kronenberg F et al., Frequent questions on the 2022 EAS Lp(a) consensus statement. *Atherosclerosis* 2023.\n- PMID 37128734 — Diederiks NM et al., SI-traceable Lp(a) reference measurement system. *Crit Rev Clin Lab Sci* 2023.\n- PMID 39492722 — Bhatia HS et al., Independence of Lp(a) and LDL-C-mediated CV risk: participant-level meta-analysis. *Circulation* 2024. doi:10.1161/CIRCULATIONAHA.124.069556\n- PMID 39219855 — Harb T et al., Intra-individual variability in Lp(a). *Eur Heart J Open* 2024. doi:10.1093/ehjopen/oeae064\n- PMID 42739533 — Kim MN et al., Substantial change between repeated Lp(a) measurements. *J Clin Med* 2026. doi:10.3390/jcm15176527\n- PMID 40618457 — Xie S et al., Effect of lipid-lowering therapies on Lp(a): meta-analysis of RCTs. *Atherosclerosis* 2025. doi:10.1016/j.atherosclerosis.2025.120420\n- PMID 42838767 — Alebna PL et al., Targeted Lp(a)-lowering therapies: systematic review. *J Clin Lipidol* 2026.\n- PMID 12964817 — variabilité intra-individuelle de la Lp(a) chez 70 diabétiques (repris de [auto-expérimentation](fiche:auto-experimentation), titre non relu ici).\n- PMID 26754058, 27733255 — L-carnitine et niacine sur la Lp(a) (repris de la fiche liée).\n- ESC/EAS 2025 : doi 10.1093/eurheartj/ehaf190 (consulté le 2026-10-13, via la fiche liée).\n- PMID 36036785 — Kronenberg F et al., Lipoprotein(a) in ASCVD and aortic stenosis: an EAS consensus statement. *Eur Heart J* 2022. doi:10.1093/eurheartj/ehac361 (résumé lu ; bornes de risque non lues).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : lipoprotéine(a), Lp(a)",
+ "type": "biomarqueur",
+ "unite": ""
+}

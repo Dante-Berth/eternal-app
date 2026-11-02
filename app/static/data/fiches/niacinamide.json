@@ -1,0 +1,85 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "cosmetique",
+ "id": "niacinamide",
+ "intro": "",
+ "liens": [
+  "la-roche-posay-retinol-b3-serum",
+  "microneedling",
+  "nicotinamide-orale",
+  "peelings",
+  "protocole-debutant-peau",
+  "retinoides",
+  "the-ordinary-niacinamide-10-zinc-1",
+  "vitamine-c"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 13,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "19958429",
+  "17121065",
+  "16029679",
+  "18047609",
+  "41315336",
+  "31741361",
+  "35642229",
+  "32356369",
+  "38725769",
+  "17642812",
+  "33103316",
+  "16596767",
+  "42087526"
+ ],
+ "preuve_globale": "B",
+ "resume": "Preuve réelle mais mince et surtout industrielle : à 4-5 %, quelques ECR hémi-visage de 12 semaines (n=50 et n=52) montrent moins de rides fines, de taches et de rougeurs [B]. Aucune méta-analyse de la niacinamide seule en vieillissement cutané trouvée [?].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Preuve **réelle mais mince et surtout industrielle** : à 4-5 %, quelques ECR hémi-visage de 12 semaines (n=50 et n=52) montrent moins de rides fines, de taches et de rougeurs [B]. Aucune méta-analyse de la niacinamide seule en vieillissement cutané trouvée [?].\n- Les essais portent sur **4-5 %**. Le 10 % en vogue n'a pas de supériorité démontrée sur 5 % dans les études retrouvées [?] ; la tolérance est le seul argument pour ne pas monter la dose.\n- Acné : la revue Cochrane (49 essais) ne trouve aucun critère d'amélioration globale mesuré pour la nicotinamide, seulement des comparaisons à la clindamycine ou l'érythromycine, à qualité faible [A, faible certitude]. Ce n'est pas un traitement de l'acné.\n- Taches/mélasma : adjuvant, pas un traitement de référence ; l'hydroquinone et la triple association restent la référence [A, faible certitude].\n- Bien tolérée, peu chère (à partir de 6 € les 30 ml à 10 %) : le meilleur rapport preuve/prix du rayon sérums, mais l'effet attendu est modeste.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Mécanisme exact non établi chez l'humain. L'inhibition du transfert des mélanosomes aux kératinocytes en culture est le mécanisme proposé pour l'effet sur les taches (observé en culture cellulaire, cité dans l'introduction d'un essai de Procter & Gamble) [D] (PMID 19958429, cité dans l'introduction de l'essai). Amélioration de la barrière cutanée avancée dans une étude associant niacinamide, panthénol et acétate de tocophéryle à un hydratant avant trétinoïne (mécanisme non isolé : mélange de vitamines) [B] (PMID 17121065).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Photovieillissement du visage | 50 femmes, 5 % vs excipient, hémi-visage, 12 sem. : réduction des rides fines, taches pigmentaires, rougeurs, jaunissement ; élasticité améliorée au cutomètre ; chiffres non donnés dans le résumé ; auteurs affiliés à Procter & Gamble (Bissett 2005, PMID 16029679) | [B, ECR n=50] |\n| Vieillissement, peau asiatique | 52 Taïwanais, hémi-visage, 12 sem. : niacinamide 4 % seule, réduction du nombre de pores et d'irrégularités à 8 sem., des rides à 12 sem. ; kinétine 0,03 % + niacinamide 4 % fait mieux (Chiu 2007, PMID 18047609) | [B, ECR n=52] |\n| Mélasma vs hydroquinone | 99 patients, 3 mois : crème acide tranexamique 5 % + niacinamide 4 % aussi efficace que l'hydroquinone 4 % sur mMASI et indice mélanique, avec moins d'effets indésirables et de rechutes ; l'effet de la niacinamide seule n'est pas isolable (Ghasemiyeh 2025, PMID 41315336) | [B, ECR n=99, association] |\n| Mélasma, synthèse | Revue systématique de 35 ECR : niacinamide parmi les agents testés ; fortes recommandations pour cystéamine, triple association et acide tranexamique, **pas** pour la niacinamide (Austin 2019, PMID 31741361) | [A, faible certitude] |\n| Mélasma, adjuvant | Revue de 80 articles : triple association = référence ; niacinamide, acides ascorbique, azélaïque, glycolique, kojique et salicylique jugés efficaces en adjuvant avec effets indésirables minimes (González-Molina 2022, PMID 35642229) | [B, revue narrative] |\n| Acné | Revue Cochrane, 49 essais, 3 880 participants : quatre essais comparent la nicotinamide à la clindamycine ou à l'érythromycine, aucun ne mesure l'amélioration globale ; abandons et effets mineurs sans différence, qualité faible (Liu 2020, PMID 32356369) | [A, faible certitude] |\n| Acné, sébum | Un ECR de 41 participants cité par une revue systématique de 2024 : baisse de la production de sébum (revue de qualité modeste, essai primaire non relu) (Althwanay 2024, PMID 38725769) | [B] |\n| Acné, nicotinamide 4 % + clindamycine 1 % | 80 patients : pas d'avantage de l'association sur la clindamycine seule ; résumé sans détails de méthode (Dos 2007, PMID 17642812) | [B] |\n| Pores, teint, « barrière », anti-pollution | Allégations de marque sans essai dédié retrouvé | [M] |\n| Association avec rétinoïdes | Conseillée par les marques pour la tolérance ; ECR spécifique niacinamide + rétinoïde non retrouvé (le seul essai lu associe un mélange de vitamines) | [?] |\n\nLimite générale : les deux essais majeurs durent 12 semaines, sans suivi après arrêt ; l'un est signé par des employés du fabricant (Procter & Gamble). On ignore combien de temps l'effet persiste à l'arrêt [?].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Étudié** : 4 % (PMID 18047609, 41315336) et 5 % (PMID 16029679, 19958429), 2 % en post-laser (PMID 33103316).\n- **Vendu** : 10 % pour les sérums grand public (The Ordinary, La Roche-Posay), jusqu'à 12 % (Typology Sérum Unifiant, 18,50 €, consulté le 2026-10-06).\n- Aucun essai lu ne compare 5 % et 10 % directement [?]. Payer plus pour « plus de pourcentage » n'est pas fondé sur les données retrouvées.\n- Le rapport CIR 2005 (PMID 16596767) indique des concentrations d'usage en cosmétique allant jusqu'à 3 % dans les produits corps, et des tests cliniques sans picotements jusqu'à 10 % et sans irritation jusqu'à 5 % ; il date de 2005, avant l'essor des sérums à 10 %.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Topique** : cosmétique. Statut_fr : cosmétique (règlement (CE) n° 1223/2009). Entrée CosIng (Commission européenne) non consultée directement (base inaccessible à la lecture automatique le 2026-10-06) ; restrictions éventuelles en annexes II à VI non vérifiées [?]. Le rapport CIR 2005 indique que la niacinamide est acceptée en cosmétique dans l'UE et au Japon (PMID 16596767).\n- **Oral** : nicotinamide orale (prévention des cancers cutanés chez les patients à haut risque, supplément alimentaire) : voir [nicotinamide orale](fiche:nicotinamide-orale). Hors périmètre de cette fiche.\n- **AMA** : non concerné.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Tolérance** : le rapport CIR (2005) conclut que la niacinamide n'est pas un irritant, sensibilisant ni photosensibilisant significatif aux concentrations testées (picotements nuls jusqu'à 10 %, irritation nulle jusqu'à 5 % sur 21 jours) ; sensibilisation négative chez le cobaye à 5 % (induction) et 20 % (provocation) [C] (PMID 16596767). Les essais de 12 semaines à 4-5 % ne rapportent pas de signal de sécurité dans leurs résumés [B] (PMID 16029679, 18047609).\n- **Rougeurs/picotements** : décrits par des utilisateurs à 10 % et plus ; pas de donnée contrôlée trouvée à ces concentrations [?].\n- **Avec la vitamine C** : l'idée qu'elles « s'annulent » ou forment de l'acide nicotinique irritant n'a pas d'étude clinique trouvée [?] ; voir [vitamine C](fiche:vitamine-c). L'interdiction affichée par certaines marques est une précaution de formulation [M].\n- **Avec rétinol/trétinoïne** : aucune incompatibilité documentée trouvée [?] ; voir [rétinoïdes](fiche:retinoides).\n- **Autour d'un acte** : un consensus Delphi de 14 experts (2026) juge la niacinamide appropriée avant, pendant et après tous les types de procédures, contrairement aux rétinoïdes et acides à éviter le jour du soin [B, consensus d'experts dont deux auteurs affiliés à SkinCeuticals] (PMID 42087526). Voir [microneedling](fiche:microneedling), [peelings](fiche:peelings).\n- **Grossesse / allaitement** : pas de donnée topique spécifique lue ; absence de signal dans le rapport CIR, mais données animales à fortes doses uniquement [C] (PMID 16596767). Avis médical conseillé [?].\n- **Autres** : données de cancérogenèse animale à très fortes doses orales ou combinées à des cancérogènes, jugées non pertinentes aux doses cosmétiques par le panel CIR [C] (PMID 16596767).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- [The Ordinary Niacinamide 10% + Zinc 1%](fiche:the-ordinary-niacinamide-10-zinc-1) : 5,59 à 6,00 € les 30 ml à 10 %, la formule la moins chère relevée ; aucun sérum à 4-5 % comparé ici.\n- Contexte routine : [protocole débutant](fiche:protocole-debutant-peau) ; produit associé au rétinol : [La Roche-Posay Rétinol B3 sérum](fiche:la-roche-posay-retinol-b3-serum) (niacinamide + rétinol, doses non déclarées).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- « 10 % = plus efficace » : aucune donnée comparative lue ; les essais sont à 4-5 % [?].\n- « Resserre les pores » : un essai taïwanais montre un nombre de pores réduit à 4 % en association ou seul à 8 semaines [B] (PMID 18047609) ; « resserrer » ne se mesure pas, la taille des pores dépend en partie de la génétique et du sébum [?].\n- « Traite l'acné » : la revue Cochrane ne mesure pas de bénéfice global contre placebo [A, faible certitude] (PMID 32356369).\n- « Incompatible avec la vitamine C » : voir plus haut [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Bissett DL et al., *Dermatol Surg* 2005 — PMID 16029679 — [DOI](https://doi.org/10.1111/j.1524-4725.2005.31732)\n- Chiu PC et al., *J Cosmet Dermatol* 2007 — PMID 18047609\n- Bissett DL et al., *J Cosmet Dermatol* 2010 — PMID 19958429 (introduction seule lue)\n- Draelos ZD et al., *Cutis* 2006 — PMID 17121065 (résumé tronqué)\n- Ghasemiyeh P et al., *Sci Rep* 2025 — PMID 41315336 — [DOI](https://doi.org/10.1038/s41598-025-26693-8)\n- Austin E et al., *J Drugs Dermatol* 2019 — PMID 31741361\n- González-Molina V et al., *J Clin Aesthet Dermatol* 2022 — PMID 35642229\n- Liu H et al., *Cochrane Database Syst Rev* 2020 — PMID 32356369 — [DOI](https://doi.org/10.1002/14651858.CD011368.pub2)\n- Althwanay A et al., *Cureus* 2024 — PMID 38725769 — [DOI](https://doi.org/10.7759/cureus.57909)\n- Dos S et al., *Indian J Dermatol Venereol Leprol* 2007 — PMID 17642812\n- Lee J et al., *J Cosmet Dermatol* 2020 — PMID 33103316\n- Bjerring P et al., *J Cosmet Dermatol* 2026 — PMID 42087526 — [DOI](https://doi.org/10.1111/jocd.70880)\n- CIR Expert Panel, *Int J Toxicol* 2005 — PMID 16596767 — [DOI](https://doi.org/10.1080/10915810500434183)\n- Prix Typology : [Typology](https://www.typology.com/collections/soins-a-la-niacinamide) (consulté le 2026-10-06 ; fait de prix uniquement).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "Niacinamide topique (nicotinamide, vitamine B3)",
+ "type": "actif",
+ "unite": ""
+}

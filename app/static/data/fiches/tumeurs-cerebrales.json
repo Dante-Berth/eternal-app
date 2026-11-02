@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "prevention",
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "tumeurs-cerebrales",
+ "intro": "",
+ "liens": [
+  "declin-cognitif-et-neurodegenerescence",
+  "prevention-des-cancers",
+  "telomeres",
+  "the-et-sante"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "17925535",
+  "39241333",
+  "26908595",
+  "21710191",
+  "39178989",
+  "28241208",
+  "40184229",
+  "36638155"
+ ],
+ "preuve_globale": "B",
+ "resume": "Peu de causes établies : le rayonnement ionisant (surtout dans l'enfance) est le facteur environnemental le mieux étayé ; le reste est mal connu [B].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Peu de causes établies : le rayonnement ionisant (surtout dans l'enfance) est le facteur environnemental le mieux étayé ; le reste est mal connu [B].\n- Allergies/atopie : associées à un risque de gliome plus bas (RR 0,61 pour l'allergie) [A, faible certitude] (PMID 17925535). Association observationnelle, causalité non démontrée.\n- Téléphone mobile : pas d'association avec le gliome (mRR 1,01 ; IC 0,89-1,13) dans une revue systématique de 63 articles [A] (PMID 39241333).\n- Aucune de ces associations ne donne un levier de prévention actionnable. Seul levier clair : éviter les expositions ionisantes inutiles.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Hypothèse « immunosurveillance » pour l'effet inverse des allergies : proposée par les auteurs, non démontrée [?] (PMID 26908595 conclut que l'association est « peu susceptible d'être fortuite », sans établir le mécanisme).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "Il n'y a pas de traitement préventif. Associations, classées :\n\n| Facteur | Tumeur | Résultat | Preuve | Statut |\n|---|---|---|---|---|\n| Allergie (histoire) | gliome | RR 0,61 (0,55-0,67) ; asthme 0,68 ; eczéma 0,69 | [A, faible certitude] (PMID 17925535) | corrélé négativement |\n| Allergies respiratoires | gliome | mOR 0,72 (0,58-0,90), 4 533 cas / 4 171 témoins | [B] (PMID 26908595) | corrélé négativement |\n| Eczéma | méningiome | OR 0,75 (0,65-0,87) ; allergie globale OR 0,91 (0,79-1,04), non significatif | [A, faible certitude] (PMID 21710191) | corrélé négativement |\n| Thé | gliome | RR 0,84 (0,79-0,89) | [B] (PMID 39178989, voir [thé](fiche:the-et-sante)) | corrélé négativement |\n| Télomères génétiquement longs | gliome | OR 5,27 (3,15-8,81) par DS de longueur | [B, randomisation mendélienne] (PMID 28241208, voir [télomères](fiche:telomeres)) | corrélé positivement |\n| Scanner crânien/cervical dans l'enfance | tumeurs cérébrales | Finlande : OR 2,84 (1,12-7,19), 9 cas exposés ; excès OR 5,50 par 100 mGy (0,31-10,95) ; non significatif pour les gliomes seuls | [B] (PMID 40184229) | corrélé positivement |\n| Scanners, Australie 0-19 ans | cancer du cerveau | excès de risque relatif 0,8 par 100 mGy (0,57-1,06) ; 3,7 % des cancers cérébraux attribuables aux scanners | [B] (PMID 36638155) | corrélé positivement |\n| Téléphone mobile | gliome, méningiome, neurinome | mRR 1,01 / 0,92 / 1,03, tous non significatifs ; pas de tendance avec la durée ou le temps d'appel | [A] (PMID 39241333) | pas d'association |\n\n- Les associations inverses allergie/gliome sont régulières entre études (méta-analyse 2007, cohorte GICC 2016), ce qui n'exclut ni biais de rappel ni causalité inverse (la tumeur pourrait elle-même modifier l'immunité) [?].\n- Le thé est une corrélation alimentaire : pas de recommandation de boire du thé pour prévenir un gliome [B].\n- Le lien télomères longs → gliome vient de la génétique (randomisation mendélienne), pas d'un test à faire : voir la fiche télomères.",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Aucun protocole de prévention des tumeurs cérébrales n'est justifié par les données ici. Pour le rayonnement : un scanner doit avoir une indication médicale ; la discussion bénéfice-risque revient au médecin prescripteur.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Déduire d'une association inverse qu'il faut « stimuler » l'allergie ou prendre des antihistaminiques : aucune donnée ici [?].\n- Craindre le téléphone mobile à la place des facteurs établis : voir ci-dessous.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Le téléphone portable donne le cancer du cerveau »** : la revue systématique de l'OMS (Karipidis 2024) ne trouve pas d'augmentation du risque de gliome, méningiome ou neurinome ; la certitude (GRADE) et le détail par sous-groupes ne sont pas extraits ici [A] (PMID 39241333).\n- **« Les bracelets/protections anti-ondes réduisent le risque »** : [M], aucune donnée recherchée.\n- Le gain apparent du thé ou des allergies n'autorise pas de supplémentation : [M] pour toute allégation commerciale associée.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Dans l'étude australienne, seuls 237 des 4 472 cancers cérébraux avaient été précédés d'un scanner : l'effet est réel mais la part attribuable reste faible (3,7 %) là où les scanners pédiatriques sont rares ; elle serait plus grande ailleurs [B] (PMID 36638155).\n- Les études sur les scanners sont exposées à la causalité inverse (un scanner prescrit pour des symptômes d'une tumeur non encore diagnostiquée) ; Finlande et Australie appliquent un décalage de 5 ans et de 2 ans [B] (PMID 40184229, PMID 36638155).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Maux de tête nouveaux et progressifs, crise d'épilepsie inaugurale, déficit neurologique, troubles de la vision ou du comportement : consultation rapide.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "Non recherché (pas de produit concerné) [?].\n\nÀ voir aussi : [Prévention des cancers](fiche:prevention-des-cancers) · [Déclin cognitif](fiche:declin-cognitif-et-neurodegenerescence)",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- PMID 17925535 — Linos E et al., *J Natl Cancer Inst* 2007.\n- PMID 26908595 — Amirian ES et al., *Cancer Epidemiol Biomarkers Prev* 2016.\n- PMID 21710191 — Wang M et al., *Cancer Causes Control* 2011.\n- PMID 39178989 — Abbasi et al., *Clin Nutr ESPEN* 2024.\n- PMID 28241208 — Telomeres Mendelian Randomization Collaboration, *JAMA Oncol* 2017.\n- PMID 40184229 — Abuhamed J et al., *Int J Cancer* 2025.\n- PMID 36638155 — Smoll NR et al., *Neuro Oncol* 2023.\n- PMID 39241333 — Karipidis K et al., *Environ Int* 2024.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Tumeurs cérébrales : facteurs de risque et associations",
+ "type": "condition",
+ "unite": ""
+}

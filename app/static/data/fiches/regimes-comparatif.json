@@ -1,0 +1,75 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-23",
+ "famille": "alimentation",
+ "id": "regimes-comparatif",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "glycemie-et-prediabete",
+  "jeune-intermittent-et-restriction-calorique",
+  "prise-de-masse-surplus-calorique-et-recomposition",
+  "regime-anti-inflammatoire",
+  "regime-carnivore",
+  "regime-cetogene-et-pauvre-en-glucides",
+  "regime-dash",
+  "regime-faible-index-glycemique",
+  "regime-hyperproteine",
+  "regime-japonais",
+  "regime-low-fodmap",
+  "regime-mediterraneen",
+  "regime-mind",
+  "regime-nordique",
+  "regime-paleo",
+  "regime-pauvre-en-graisses",
+  "regime-portfolio",
+  "regime-vegetarien-vegetalien"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "32059053",
+  "39599660"
+ ],
+ "preuve_globale": "A",
+ "resume": "Aucun régime ne l'emporte sur tout : deux revues parapluie récentes ne classent pas le même vainqueur. Dinu (80 articles, 495 méta-analyses) place le méditerranéen en tête avec la preuve la plus constante ; Chatzi (25 méta-analyses, adultes avec ≥ 1 facteur de risque CV) trouve la preuve la plus…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Aucun régime ne l'emporte sur tout** : deux revues parapluie récentes ne classent pas le même vainqueur. Dinu (80 articles, 495 méta-analyses) place le méditerranéen en tête avec la preuve la plus constante ; Chatzi (25 méta-analyses, adultes avec ≥ 1 facteur de risque CV) trouve la preuve la plus forte pour le régime pauvre en glucides sur poids, tension systolique, triglycérides et insuline [A, faible certitude] (PMID 32059053, 39599660).\n- **Qualité des preuves médiocre** : 81 % des articles de la revue de Dinu sont de qualité « basse ou très basse » ; les définitions des régimes et des témoins varient fortement [A] (PMID 32059053).\n- **Ce qui revient** : tous les régimes qui font perdre du poids améliorent les marqueurs ; la question du maintien à long terme et des événements cliniques reste ouverte [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "| Régime | Meilleure preuve en une ligne | Preuve | Fiche |\n|---|---|---|---|\n| Méditerranéen | PREDIMED et cohortes, événements CV | [B] | [fiche](fiche:regime-mediterraneen) |\n| DASH | tension −3,2/−2,5 mmHg, pas supérieur aux autres régimes structurés | [A] | [fiche](fiche:regime-dash) |\n| MIND | essai randomisé nul sur la cognition | [B] | [fiche](fiche:regime-mind) |\n| Nordique | cohortes (mortalité −22 %), petits essais sur LDL et tension | [B] | [fiche](fiche:regime-nordique) |\n| Japonais | cohortes japonaises, mortalité CV −17 % | [B] | [fiche](fiche:regime-japonais) |\n| Végétarien / végan | marqueurs améliorés ; fractures et B12 | [A] | [fiche](fiche:regime-vegetarien-vegetalien) |\n| Cétogène / low-carb | poids −1 kg vs low-fat à ≥ 1 an, LDL en hausse | [A] | [fiche](fiche:regime-cetogene-et-pauvre-en-glucides) |\n| Pauvre en graisses | à intensité égale, pas supérieur | [A] | [fiche](fiche:regime-pauvre-en-graisses) |\n| Faible IG | HbA1c −0,31 chez les diabétiques | [A] | [fiche](fiche:regime-faible-index-glycemique) |\n| Portfolio | LDL −17 % (marqueur) | [A] | [fiche](fiche:regime-portfolio) |\n| Paléo | marqueurs améliorés, petits essais | [A, faible certitude] | [fiche](fiche:regime-paleo) |\n| Anti-inflammatoire (DII) | cohortes, +1 point = +4 % de mortalité | [B] | [fiche](fiche:regime-anti-inflammatoire) |\n| Low-FODMAP | symptômes du SII | [A] | [fiche](fiche:regime-low-fodmap) |\n| Hyperprotéiné | muscle : plafond ~1,6 g/kg/j ; reins sains : pas de lésion sur courte durée | [A] | [fiche](fiche:regime-hyperproteine) |\n| Carnivore | enquête autodéclarée uniquement | [B] | [fiche](fiche:regime-carnivore) |",
+   "titre": "Tableau"
+  },
+  {
+   "markdown": "| Source | Résultat | Preuve |\n|---|---|---|\n| Revue parapluie, 80 articles, 495 méta-analyses, 11 régimes (Dinu) | méditerranéen : preuve « suggestive » d'amélioration du poids, IMC, cholestérol total, glycémie, tension ; DASH : poids et tension ; low-carb, hyperprotéiné, low-fat, faible IG : poids et IMC, preuves contrastées sur lipides, glycémie, tension, avec risque d'effets défavorables possibles ; paléo, jeûne intermittent, nordique, végétarien, Portfolio : preuve faible (PMID 32059053) | [A, faible certitude] |\n| Revue parapluie, 25 méta-analyses, 329 associations, adultes avec ≥ 1 facteur de risque CV (Chatzi) | régime pauvre en glucides : poids −4,79 kg (−5,85 à −3,72), PAS −6,38 mmHg, TG −5,81 mg/dL, insuline à jeun −15,35 pmol/L (preuve forte) ; faible IG : poids SMD −0,66 ; DASH, Portfolio, nordique : effets bénéfiques suggérés (PMID 39599660) | [A, faible certitude] |\n\nLes deux revues portent sur des marqueurs (poids, tension, lipides), pas sur des événements. Les populations et la méthode de classement diffèrent, ce qui explique en partie les conclusions divergentes.",
+   "titre": "Preuves"
+  },
+  {
+   "markdown": "- « Le meilleur régime existe » : les deux revues les plus récentes lues ne s'accordent pas, et la qualité des preuves est basse [A, faible certitude] (PMID 32059053, 39599660).\n- « Le régime X est prouvé par la science » : demander toujours ce qui a été mesuré (marqueur ou événement), sur qui, face à quel témoin.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Je n'ai pas lu les articles sources de ces deux revues. Atkins, Weight Watchers et régimes commerciaux : non recherchés. Le jeûne est dans [jeûne intermittent](fiche:jeune-intermittent-et-restriction-calorique) ; l'hyperprotéiné dans sa [fiche](fiche:regime-hyperproteine) [?].\n\nStatut réglementaire : sans objet.\n\nVoir aussi : [synthèse alimentation](fiche:alimentation) · [prise de masse et déficit](fiche:prise-de-masse-surplus-calorique-et-recomposition) · [glycémie et prédiabète](fiche:glycemie-et-prediabete).",
+   "titre": "Limites"
+  },
+  {
+   "markdown": "- PMID 32059053 — Dinu M. et al., *Adv Nutr* 2020. doi:10.1093/advances/nmaa006\n- PMID 39599660 — Chatzi et al., *Nutrients* 2024. doi:10.3390/nu16223873",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Régimes : comparatif et classement des preuves",
+ "type": "actif",
+ "unite": ""
+}

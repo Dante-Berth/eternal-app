@@ -1,0 +1,77 @@
+{
+ "cibles": [
+  "prevention",
+  "sante-mentale"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "complement",
+ "id": "n-acetylcysteine",
+ "intro": "",
+ "liens": [
+  "audition-et-perte-auditive",
+  "depression",
+  "glycine",
+  "taurine"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "38555190",
+  "39413571",
+  "39504621",
+  "39376972",
+  "32900213",
+  "24214100",
+  "25620313",
+  "33326056"
+ ],
+ "preuve_globale": "A",
+ "resume": "Précurseur de la cystéine, donc du glutathion ; médicament mucolytique de longue date (statut exact en France non consulté [?]) et complément vendu comme « antioxydant », « détox » ou « longévité ». Les preuves cliniques existent surtout pour la BPCO et la bronchite chronique, pas pour la longévité.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Précurseur de la cystéine, donc du glutathion ; **médicament mucolytique** de longue date (statut exact en France non consulté [?]) et complément vendu comme « antioxydant », « détox » ou « longévité ». Les preuves cliniques existent surtout pour la BPCO et la bronchite chronique, pas pour la longévité.\n- BPCO / bronchite chronique : moins d'exacerbations sous NAC que sous placebo (BPCO IRR 0,76 ; IC 95 % 0,59-0,99 ; bronchite chronique/pré-BPCO IRR 0,81 ; 0,69-0,95) [A] (PMID 38555190). Une autre méta-analyse sur l'ensemble des mucolytiques (23 rapports) : moins d'exacerbations et d'hospitalisations, pas d'effet sur la mortalité ni le VEMS (PMID 39413571).\n- Psychiatrie : effets **modestes** en appoint. Dépression : SMD −0,24 (IC −0,44 à −0,05) sur 12 essais, 904 patients, IC large (PMID 39504621) ; TOC en appoint d'un ISRS : résultat limite (p = 0,05) sur 6 essais, 195 patients (PMID 39376972) [A, faible].\n- Aucune donnée humaine de longévité ou de santé cutanée/capillaire trouvée dans cette recherche [?].\n- Sécurité orale correcte aux doses étudiées (digestif surtout), mais l'effet « antioxydant » en prévention chez le sujet sain n'est pas démontré.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Apporte de la cystéine, étape limitante de la synthèse du glutathion ; propriété mucolytique (rupture de ponts disulfure du mucus) et antioxydante (PMID 38555190). Pour l'autisme et la psychiatrie, l'hypothèse avancée est une modulation de la transmission glutamatergique (PMID 32900213) : mécanisme proposé par les auteurs.\n- Avec la glycine, la NAC forme l'association « GlyNAC » étudiée dans le vieillissement : voir [glycine](fiche:glycine).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| BPCO, bronchite chronique | 20 études : exacerbations réduites (BPCO IRR 0,76 ; bronchite chronique/pré-BPCO IRR 0,81) ; symptômes/qualité de vie améliorés dans la bronchite chronique (OR 3,47 ; 1,92-6,26) ; auteurs liés à des laboratoires respiratoires | [A] (PMID 38555190) |\n| BPCO stable (mucolytiques en général) | 23 rapports : moins d'exacerbations et d'hospitalisations ; mortalité, VEMS, score SGRQ inchangés | [A] (PMID 39413571) |\n| Dépression (appoint) | 12 ECR, 904 patients, 1 000-3 000 mg/j, 8-24 semaines : SMD −0,24 ; plus marqué dans le trouble bipolaire selon les auteurs ; grands essais nécessaires | [A, effet modeste] (PMID 39504621) |\n| TOC (appoint d'un ISRS) | 6 ECR, 195 patients : amélioration du Y-BOCS entre 5 et 8 semaines (p = 0,05) ; pas de différence sur les sous-scores obsessions/compulsions, ni avant 5 ou après 12 semaines | [A, faible] (PMID 39376972) |\n| Autisme (irritabilité, hyperactivité) | 5 ECR : ABC total MD 1,31 (0,42-2,20) sur 4 essais après 8-12 semaines ; effet petit, essais peu nombreux | [A, faible] (PMID 32900213) |\n| Trichotillomanie | Revue Cochrane 2013 : 8 études, 204 participants, essais petits et à risque de biais ; l'étude sur la NAC rapporte un effet significatif, sans méta-analyse possible | [B, ECR unique] (PMID 24214100) |\n| Perte auditive due au bruit | ECR de 566 militaires : critère principal non atteint ; voir [audition](fiche:audition-et-perte-auditive) | [B] (PMID 25620313) |\n| Longévité, peau, cheveux | Aucune donnée humaine trouvée | [?] |\n\nIntoxication au paracétamol : antidote médical hospitalier, hors périmètre de cette fiche ; ne se traite pas par complément.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Psychiatrie : 1 000 à 3 000 mg/jour dans les essais de dépression (PMID 39504621). Dose maximale licenciée en usage chronique en respiratoire : 600 mg/jour ; des essais ont testé jusqu'à 3 000 mg/jour (PMID 33326056). Ce sont des doses d'essai, pas une consigne.\n- Teneurs des compléments du commerce : non relevées [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Sachets/comprimés effervescents mucolytiques (médicament), gélules de complément, forme injectable hospitalière. Statut en France par forme (BDPM, plafonds du complément) : non consulté [?]. AMA : non recherché [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Revue de 41 articles sur la NAC à 600-3 000 mg/jour, surtout orale : profil de sécurité similaire aux doses élevées et standard ; symptômes digestifs pas plus fréquents que chez les témoins. **Revue financée par un fabricant, auteurs en conflit d'intérêts déclaré** (PMID 33326056) [B].\n- Essais TOC et BPCO : pas de différence d'événements indésirables avec le placebo (PMID 39376972, PMID 39413571).\n- Interactions médicamenteuses, grossesse, asthme (bronchospasme possible avec les formes inhalées), voie intraveineuse (réactions anaphylactoïdes) : non recherchées dans cette fiche [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Détox du foie / des métaux » : aucune source relue ici ; l'usage hépatique validé est l'antidote du paracétamol, en milieu hospitalier.\n- « Booster de glutathion = anti-âge » : l'hypothèse GlyNAC repose sur un ECR de 24 sujets (voir [glycine](fiche:glycine)) ; aucune donnée de survie humaine [?].\n- « Antidépresseur naturel » : effet standardisé de −0,24 en appoint, loin d'un traitement de fond ; voir [dépression](fiche:depression).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour.\n\nVoir aussi : [glycine](fiche:glycine), [taurine](fiche:taurine), [audition et perte auditive](fiche:audition-et-perte-auditive).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Papi A et al. *Arch Bronconeumol* 2024 — PMID 38555190 — [DOI](https://doi.org/10.1016/j.arbres.2024.03.010)\n2. Ohnishi H et al. *Respir Investig* 2024 — PMID 39413571 — [DOI](https://doi.org/10.1016/j.resinv.2024.10.004)\n3. Peng TR et al. *Gen Hosp Psychiatry* 2024 — PMID 39504621 — [DOI](https://doi.org/10.1016/j.genhosppsych.2024.10.018)\n4. Eghdami S et al. *Front Psychiatry* 2024 — PMID 39376972 — [DOI](https://doi.org/10.3389/fpsyt.2024.1421150)\n5. Lee TM et al. *Aust N Z J Psychiatry* 2021 — PMID 32900213 — [DOI](https://doi.org/10.1177/0004867420952540)\n6. Rothbart R et al. *Cochrane Database Syst Rev* 2013 — PMID 24214100 — [DOI](https://doi.org/10.1002/14651858.CD007662.pub2)\n7. Calverley P et al. *Drug Saf* 2021 — PMID 33326056 — [DOI](https://doi.org/10.1007/s40264-020-01026-y)\n8. PMID 25620313 : étude citée dans la fiche audition (résumé relu à cette occasion).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "N-acétylcystéine (NAC)",
+ "type": "actif",
+ "unite": ""
+}

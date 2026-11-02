@@ -1,0 +1,88 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "depistage-cancer-sein",
+ "intro": "",
+ "liens": [
+  "depistage-cancer-col-uterus",
+  "depistage-cancer-colorectal",
+  "tabac-et-alcool"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "23117178",
+  "23737396",
+  "42330711",
+  "42595635",
+  "39222505"
+ ],
+ "preuve_globale": "A",
+ "resume": "Programme organisé français : femmes de 50 à 74 ans, invitation tous les 2 ans, mammographie avec examen clinique, prise en charge à 100 %. Détails d'âge et de fréquence lus sur des sources secondaires (voir Statut réglementaire).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Programme organisé français : femmes de 50 à 74 ans, invitation tous les 2 ans, mammographie avec examen clinique, prise en charge à 100 %. Détails d'âge et de fréquence lus sur des sources secondaires (voir Statut réglementaire).\n- Le dépistage réduit la mortalité par cancer du sein : RR 0,80 (IC 95 % 0,73-0,89) pour les femmes invitées, méta-analyse de 11 essais randomisés (revue indépendante britannique) [A]. La Cochrane 2013 trouve RR 0,90 (0,79-1,02), non significatif, dans les 3 essais à randomisation adéquate [A, contradictoire].\n- Surdiagnostic : excès d'incidence de 11 % (9-12) des cancers diagnostiqués chez les invitées à long terme [A]. Estimation du panel britannique : pour 10 000 femmes invitées pendant 20 ans à partir de 50 ans, 43 décès par cancer du sein évités pour 129 cancers surdiagnostiqués [A, estimation très incertaine].\n- Avant 50 ans : RR 0,89 (0,79-1,01) sur 10 essais (femmes de 39-49 ans), non significatif [A].\n- Mortalité toutes causes : pas de différence dans les essais à randomisation adéquate (RR 0,99, 0,95-1,03) [A].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "La mammographie détecte des cancers avant les symptômes, y compris des carcinomes in situ et des tumeurs lentes qui ne seraient jamais devenues symptomatiques (surdiagnostic). Le gain attendu vient des cancers agressifs détectés plus tôt. Ces deux populations sont indiscernables au moment du diagnostic, donc traitées de la même façon.",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "Ce n'est pas un traitement : tableau des stratégies.\n\n| Méthode | Ce qui est prouvé | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Mammographie 50-74 ans, tous les 2 ans | Mortalité : RR 0,80 (0,73-0,89), 11 ECR (PMID 23117178) ; RR 0,90 (0,79-1,02) en randomisation adéquate (PMID 23737396) | [A, contradictoire] | Programme organisé, 100 % | non applicable |\n| Mammographie avant 50 ans | RR 0,89 (0,79-1,01), 10 ECR (PMID 42330711) | [A] | Hors programme, sur prescription | non applicable |\n| Mammographie après 74 ans | Non recherché dans cette fiche [?] | [?] | Décision individualisée (source secondaire) | non applicable |\n| Tomosynthèse, IRM, échographie systématique | Non recherché ici ; une méta-analyse récente compare les caractéristiques des cancers détectés par tomosynthèse (PMID 42595635, résumé non relu en détail) [?] | [?] | Non vérifié | non applicable |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Non applicable : le dépistage se décide avec un médecin.\n- **Risque moyen** : 50-74 ans, mammographie tous les 2 ans via l'invitation. \n- **Symptôme** (masse, écoulement, rétraction cutanée) : pas un dépistage, consultation et imagerie diagnostique.\n- **Risque élevé** (mutation BRCA, antécédent familial marqué, irradiation thoracique) : suivi spécialisé distinct ; les modalités relèvent des recommandations HAS/INCa, non relues ici [?].",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "### Bénéfice\n- Revue indépendante (Lancet 2012, Royaume-Uni, femmes invitées 50-70 ans tous les 3 ans) : RR 0,80 (0,73-0,89) ; les auteurs jugent 20 % raisonnable malgré les biais, et rappellent que les essais sont anciens (PMID 23117178) [A].\n- Cochrane 2013 (Gøtzsche) : 3 essais à randomisation adéquate, RR 0,90 (0,79-1,02) à 13 ans ; 4 essais à randomisation douteuse, RR 0,75 (0,67-0,83) ; ensemble RR 0,81 (0,74-0,87). Les auteurs jugent la mortalité par cancer du sein biaisée en faveur du dépistage (erreurs de classement de la cause du décès) ; cancer total RR 1,02 (0,95-1,10), toutes causes RR 0,99 (0,95-1,03) (PMID 23737396) [A, contradictoire]. Les auteurs de cette revue critiquent depuis longtemps le dépistage ; lire avec la revue précédente.\n- Les deux revues datent d'essais anciens ; les traitements et la sensibilisation ont progressé, donc le bénéfice absolu actuel est probablement plus faible (avis des auteurs Cochrane) [?].\n\n### Surdiagnostic, surtraitement, faux positifs\n- Panel britannique : surdiagnostic = 11 % (9-12) des cancers diagnostiqués chez les invitées sur le long terme, 19 % (15-23) pendant la période de dépistage ; environ 1 décès évité pour 3 cancers surdiagnostiqués (PMID 23117178) [A].\n- Cochrane : tumorectomies et mastectomies RR 1,31 (1,22-1,42) ; mastectomies seules RR 1,20 (1,08-1,32) chez les dépistées. Avec l'hypothèse de 15 % de baisse de mortalité et 30 % de surdiagnostic : pour 2000 femmes invitées pendant 10 ans, 1 décès évité et 10 femmes traitées inutilement ; plus de 200 femmes en détresse psychologique après faux positif (hypothèses des auteurs, pas une mesure) (PMID 23737396) [A].\n- Faux positifs : après un faux positif avec biopsie ou suivi rapproché, les femmes reviennent moins au dépistage (retour inférieur de 10,0 points après biopsie, 15,9 points après contrôle à court terme ; cohorte de 3,5 millions de mammographies, États-Unis) (PMID 39222505) [B].\n\n### Avant 50 ans\nMéta-analyse de 10 essais (femmes de 39-49 ans) : RR 0,89 (0,79-1,01) ; en excluant l'essai canadien CNBSS, RR 0,85 (0,76-0,95). Les auteurs invitent à lire les essais historiques avec prudence (PMID 42330711) [A].",
+   "titre": "Ce que montrent les essais : bénéfice absolu, limites, risques"
+  },
+  {
+   "markdown": "- Irradiation : dose faible par examen ; risque de cancer radio-induit non recherché dans cette fiche [?].\n- Compression douloureuse, anxiété du rappel : non chiffrés ici.\n- Contre-indication relative : grossesse (prévenir le radiologue) ; non sourcé [?].\n- Densité mammaire élevée : sensibilité moindre de la mammographie, non recherché [?].",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "France : 47,5 % en 2025 parmi les femmes invitées d'après un site secondaire citant Santé publique France (consulté le 2026-10-15) ; bulletin SpF non lu [?].",
+   "titre": "Participation"
+  },
+  {
+   "markdown": "- Croire qu'une mammographie normale dispense de consulter devant un symptôme.\n- Ignorer la lettre de l'organisme de dépistage sans en parler au médecin quand on a un risque élevé.\n- Penser qu'un dépistage « plus tôt et plus souvent » est mieux : avant 50 ans, bénéfice non significatif et faux positifs plus nombreux [A].\n- Ne pas avoir lu l'information sur le surdiagnostic avant de décider.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Le dépistage évite 100 % des décès » : un décès évité pour environ 3 cancers surdiagnostiqués dans l'estimation britannique (PMID 23117178) [A, incertain].\n- « La mammographie est inutile » : la méta-analyse indépendante conclut à une baisse de la mortalité (RR 0,80) ; la Cochrane la conteste en randomisation adéquate, donc débat réel (PMID 23117178, 23737396) [A, contradictoire].\n- « La thermographie ou un test sanguin remplace la mammographie » : non recherché dans cette fiche [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Aucun essai à randomisation adéquate ne montre de baisse de la mortalité toutes causes (RR 0,99, 0,95-1,03) (PMID 23737396) [A].\n- Les estimations de surdiagnostic varient selon la méthode : 11 % ou 19 % des cancers dans le même panel selon le dénominateur (PMID 23117178) [A].",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Masse ou épaississement du sein, écoulement mamelonnaire sanglant, rétraction de la peau ou du mamelon, ganglion axillaire ; parente au premier degré atteinte jeune ou mutation familiale (consultation d'oncogénétique) ; invitation reçue et doutes sur l'intérêt.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- Programme national de dépistage organisé du cancer du sein : existence confirmée par Santé publique France (page « Cancer du sein », mise à jour du 6 juillet 2026, consultée le 2026-10-15). Âge 50-74 ans, intervalle de 2 ans, double lecture, prise en charge à 100 % : relevés sur des sites secondaires (recherche web du 2026-10-15), cancer.gouv.fr/ameli non ouverts par l'outil ; à confirmer.\n- Pas de statut AMA applicable.",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- PMID 23117178 — Independent UK Panel on Breast Cancer Screening, *Lancet* 2012. doi:10.1016/S0140-6736(12)61611-0\n- PMID 23737396 — Gøtzsche PC, Jørgensen KJ, *Cochrane Database Syst Rev* 2013, CD001877. doi:10.1002/14651858.CD001877.pub5\n- PMID 42330711 — Reis et al., *Cancer Epidemiol* 2026. doi:10.1016/j.canep.2026.103145\n- PMID 39222505 — Miglioretti DL et al., *Ann Intern Med* 2024. doi:10.7326/M24-0123\n- PMID 42595635 — Ferre et al., *Acad Radiol* 2026. doi:10.1016/j.acra.2026.07.048\n- Web, consulté le 2026-10-15 : Santé publique France (page cancer du sein, programme national) ; sources secondaires pour l'âge, l'intervalle, la participation.\n\nVoir aussi : [dépistage colorectal](fiche:depistage-cancer-colorectal), [col de l'utérus](fiche:depistage-cancer-col-uterus), [tabac et alcool](fiche:tabac-et-alcool).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Dépistage du cancer du sein",
+ "type": "condition",
+ "unite": ""
+}

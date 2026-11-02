@@ -1,0 +1,74 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-18",
+ "famille": "alimentation",
+ "id": "pomme-de-terre-et-frites",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "cereales-completes-et-raffinees",
+  "glycemie-et-prediabete",
+  "legumes-comparatif-et-tier-list"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "40769531",
+  "34130021",
+  "33153277",
+  "39940309",
+  "35028521"
+ ],
+ "preuve_globale": "B",
+ "resume": "Le problème vient des frites, pas de la pomme de terre cuite à l'eau ou au four. Trois cohortes américaines (205 107 personnes, 22 299 diabètes de type 2) : par 3 portions par semaine, pomme de terre totale HR 1,05 (1,02-1,08), frites HR 1,20 (1,12-1,28), pomme de terre au four, bouillie ou en pu…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Le problème vient des frites, pas de la pomme de terre cuite à l'eau ou au four.** Trois cohortes américaines (205 107 personnes, 22 299 diabètes de type 2) : par 3 portions par semaine, pomme de terre totale HR 1,05 (1,02-1,08), frites HR 1,20 (1,12-1,28), pomme de terre au four, bouillie ou en purée HR 1,01 (0,98-1,05, non significatif) [B, cohortes] (PMID 40769531).\n- **Remplacer 3 portions par semaine de pomme de terre par des céréales complètes** est estimé abaisser le risque de diabète de type 2 de 8 % (modélisation de substitution sur cohortes) [B] (PMID 40769531).\n- **Méta-analyses concordantes** : dans les populations occidentales, pomme de terre totale RR 1,19 (1,06-1,34), préparations non frites RR 1,08 (1,00-1,16, limite), frites RR 1,33 (1,03-1,70) ; par 80 g/j : +10 % (total), +2 % (non frit), +34 % (frit) [B] (PMID 34130021). Autre méta-analyse (9 cohortes) : par 100 g/j, +5 % (total) et +10 % pour les frites [B] (PMID 33153277).\n- **Maladie cardiovasculaire et hypertension** : 7 cohortes harmonisées (110 063 personnes), 5 portions ou plus par semaine vs aucune : CVD HR 0,96 (0,89-1,04), hypertension HR 1,04 (0,99-1,08) ; les pommes de terre frites sont associées à +10 % d'hypertension (HR 1,10 ; 1,04-1,17) pour 1 portion ou plus par semaine [B] (PMID 39940309).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Charge glycémique élevée de l'amidon de pomme de terre et ajout de graisses et de sel dans les frites : hypothèses, non testées dans les résumés lus [?]. Effet du refroidissement de la pomme de terre cuite (amidon résistant) : non recherché [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Diabète de type 2, frites | HR 1,20 par 3 portions/semaine (PMID 40769531) ; RR 1,33 (PMID 34130021) | [B] |\n| Diabète de type 2, pomme de terre non frite | HR 1,01 (NS) (PMID 40769531) ; RR 1,08 (1,00-1,16) (PMID 34130021) | [B, résultats un peu discordants] |\n| Maladie cardiovasculaire | HR 0,96 (NS) (PMID 39940309) | [B] |\n| Hypertension, frites | HR 1,10 (1,04-1,17) (PMID 39940309) | [B] |\n| Diabète gestationnel | non conclu dans le résumé lu (PMID 34130021) | [?] |\n| Patate douce | non recherchée | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Portion** : taille de portion de référence des cohortes non relevée [?]. Chips, produits surgelés précuits, purée industrielle : non distingués dans les résumés lus [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Aliment. Acrylamide dans les produits frits : non recherché ici [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Diabète, prédiabète** : voir [glycémie et prédiabète](fiche:glycemie-et-prediabete).\n- **Pomme de terre verte ou germée** (solanine) : non recherchée [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« La pomme de terre est un poison pour la glycémie »** : les préparations non frites ne sont pas associées au diabète dans la plus grande cohorte (HR 1,01), le signal vient des frites [B] (PMID 40769531).\n- **« Les frites maison, c'est pareil que les surgelées »** : non comparé dans les sources lues [?].\n- **« La pomme de terre est un légume comme un autre »** : c'est un féculent ; elle ne remplace pas les légumes dans les analyses sur les fruits et légumes, où elle est traitée à part (PMID 35028521, qui trouve une association positive avec le diabète de type 2 pour la pomme de terre, sur peu d'études).\n\nVoir aussi : [légumes : tier list](fiche:legumes-comparatif-et-tier-list) · [céréales complètes vs raffinées](fiche:cereales-completes-et-raffinees) · [alimentation : synthèse](fiche:alimentation).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 40769531 — Mousavi et al., *BMJ* 2025 (pomme de terre et diabète de type 2, 3 cohortes et méta-analyse de substitution).\n- PMID 39940309 — Djoussé et al., *Nutrients* 2025 (pomme de terre, maladie cardiovasculaire et hypertension).\n- PMID 34130021 — Guo et al., *Clin Nutr* 2021 (pomme de terre, diabète de type 2 et gestationnel).\n- PMID 33153277 — Quan et al., *Crit Rev Food Sci Nutr* 2020 (pommes de terre transformées et diabète de type 2).\n- PMID 35028521 — Halvorsen et al., *BMJ Nutr Prev Health* 2021 (fruits, légumes et diabète de type 2).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Pomme de terre et frites",
+ "type": "actif",
+ "unite": ""
+}

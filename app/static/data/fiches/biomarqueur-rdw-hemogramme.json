@@ -1,0 +1,90 @@
+{
+ "cibles": [
+  "longevite",
+  "coeur-metabolisme",
+  "prevention"
+ ],
+ "derniere_maj": "2026-11-02",
+ "famille": "",
+ "id": "biomarqueur-rdw-hemogramme",
+ "intro": "Fiche « examen ». Le RDW est déjà sur la numération formule sanguine (NFS) : il ne coûte pas un dosage supplémentaire. Autres indices de la NFS : [ratio neutrophiles/lymphocytes](fiche:biomarqueurs-inflammation-ratio-neutrophiles-lymphocytes-nlr). Causes fréquentes d'un RDW élevé : [fer et ferritine](fiche:fer-et-ferritine), [vitamine B12 et folates](fiche:vitamine-b12-et-folates).",
+ "liens": [
+  "biomarqueur-nfs-hemoglobine-anemie",
+  "biomarqueurs-inflammation-ratio-neutrophiles-lymphocytes-nlr",
+  "fer-et-ferritine",
+  "vitamine-b12-et-folates"
+ ],
+ "marqueurs": [
+  "rdw"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 6,
+ "nb_seuils": 5,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "38481148",
+  "35229542",
+  "42558361",
+  "38805227",
+  "3358371",
+  "31790569"
+ ],
+ "preuve_globale": "B",
+ "resume": "Un RDW élevé est associé à la mortalité, mais c'est un marqueur de maladie en cours, pas un levier : je n'ai trouvé aucun essai montrant qu'abaisser le RDW change la mortalité (recherche PubMed du 2026-10-17). Le seul essai randomisé retrouvé (140 opérés des valves cardiaques, rééducation par pal…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Un RDW élevé est associé à la mortalité, mais c'est un **marqueur de maladie en cours, pas un levier** : je n'ai trouvé aucun essai montrant qu'abaisser le RDW change la mortalité (recherche PubMed du 2026-10-17). Le seul essai randomisé retrouvé (140 opérés des valves cardiaques, rééducation par paliers) a mesuré le RDW comme critère : il baisse à J14 et J28 avec la rééducation, sans effet démontré sur les événements [B, ECR unique n=140] (PMID 38481148).\n- En population générale (NHANES III, 8 884 sujets > 40 ans, exposition RDW > 14 vs < 13) : mortalité cardiovasculaire HR 2,79 en risque ASCVD faible, 2,02 en risque intermédiaire, 1,18 en risque élevé ; mortalité cardiovasculaire à 20 ans 4 % vs 1,3 % (faible), 17,7 % vs 7,7 % (intermédiaire), 28,1 % vs 24,6 % (élevé) [B, cohorte] (PMID 35229542). L'association s'estompe quand le risque cardiovasculaire de base est déjà élevé.\n- Chez des patients traités par angioplastie coronaire (PCI) (24 études, ≈ 83 000 patients) : RDW élevé → mortalité toutes causes HR 1,46 (1,31–1,63) ; MACE HR 1,24 (1,06–1,45), **instable** à l'analyse de sensibilité [A, méta-analyse d'études d'observation, patients coronariens] (PMID 42558361).\n- Le **RDW combiné à l'albumine (RAR)** prédit la mortalité en population générale (NHANES 50 622 sujets et UK Biobank 418 950 : HR mortalité toutes causes 1,83 et 2,08) mais cet effet est celui d'un ratio composite, pas du RDW seul [B, cohortes] (PMID 38805227).\n- Prix et remboursement : inclus dans la NFS ; cotation non relevée [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Le RDW mesure la variabilité de taille des globules rouges (anisocytose). Il monte quand l'érythropoïèse est perturbée. Exemple documenté : dans l'anémie de Biermer non traitée (26 patients), le RDW moyen est de 21,7 % contre 13,2 % chez les témoins, mais **31 % des patients avaient un RDW normal** : un RDW normal n'exclut donc pas une carence en B12 [B, série de cas] (PMID 3358371). Autres causes (fer, folates, inflammation, foie, reins) : non sourcées dans les résumés relus [?]. Il ne dit pas laquelle.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "Aucun seuil officiel de risque : la plage de référence dépend de l'analyseur et du laboratoire. Les bornes ci-dessous sont celles des études citées.\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| RDW | % | 12,5–14,5 | plage de référence citée dans l'étude | adultes > 40 ans, NHANES III | [B, cohorte] Katamreddy 2022, PMID 35229542 |\n| RDW | % | < 13 | catégorie de référence ; mortalité cardiovasculaire à 20 ans 1,3 % (risque ASCVD faible), 7,7 % (intermédiaire), 24,6 % (élevé) | adultes > 40 ans, NHANES III | [B, cohorte] Katamreddy 2022, PMID 35229542 |\n| RDW | % | > 14 | mortalité cardiovasculaire HR ajusté 2,79 (faible), 2,02 (intermédiaire), 1,18 (élevé) contre < 13 | adultes > 40 ans, NHANES III | [B, cohorte] Katamreddy 2022, PMID 35229542 |\n| RDW | % | 13,2 ± 1,1 | valeur moyenne des témoins ; moyenne 21,7 ± 9,1 dans l'anémie de Biermer non traitée, 31 % des patients avec RDW normal | 26 patients et témoins | [B, série de cas] Saxena 1988, PMID 3358371 |\n| RDW | % | seuil de risque pour la mortalité toutes causes | non retrouvé : aucune borne lue dans les résumés relus [?] | adulte | non retrouvé [?] |",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Mortalité cardiovasculaire, population générale > 40 ans | HR 2,79 / 2,02 / 1,18 selon le risque ASCVD (RDW > 14 vs < 13) | [B, cohorte NHANES III] (PMID 35229542) |\n| Après PCI : mortalité toutes causes | HR 1,46 (1,31–1,63) ; CV HR 1,66 (1,33–2,07) | [A, méta-analyse, patients coronariens] (PMID 42558361) |\n| RDW + lymphopénie + CRP | Association additive avec la mortalité ; profil immuno-hématologique à haut risque HR 3,2 (2,6–4,0) | [B, cohorte NHANES] (PMID 31790569) |\n| RAR (RDW/albumine), population générale | HR toutes causes 1,83 (NHANES) et 2,08 (UK Biobank) | [B, cohortes] (PMID 38805227) |\n| RDW améliore-t-il un score de risque en pratique ? | Non évalué dans les résumés relus ; la cohorte NHANES III suggère une utilité dans le risque **intermédiaire** | [B, hypothèse] (PMID 35229542) |",
+   "titre": "Ce que dit la preuve"
+  },
+  {
+   "markdown": "- Le RDW dépend de l'analyseur (valeurs de référence propres à chaque laboratoire ; l'étude NHANES III cite 12,5–14,5 %) (PMID 35229542).\n- Variabilité intra-individuelle, effet de l'âge, du sexe et de l'origine : non recherchés [?].\n- Un RDW isolé sans anémie ni symptôme n'a pas de prise en charge propre : l'étape utile est de chercher la cause (ferritine, B12, folates, fonction hépatique/rénale, inflammation) avec un médecin.",
+   "titre": "Variabilité et interprétation"
+  },
+  {
+   "markdown": "- Contrôler le reste de la NFS (hémoglobine, VGM), la ferritine, la B12/folates et la CRP.\n- Traiter la cause si elle est identifiée ; sinon surveillance par le médecin. Pas de complément à prendre « pour le RDW » : aucun essai relu [?].\n- Ne pas utiliser le RDW pour dire si on « vieillit mal » : c'est un indicateur global, non spécifique.",
+   "titre": "Que faire d'un RDW élevé"
+  },
+  {
+   "markdown": "Paramètre de la NFS, examen de biologie médicale. Cotation et remboursement : non relevés [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Interpréter un RDW légèrement au-dessus de la norme comme une maladie.\n- Confondre le RDW (variabilité de taille) et le VGM (taille moyenne).\n- Acheter du fer, de la B12 ou des « antioxydants » pour le faire baisser sans bilan : risque de surcharge (voir [fer et ferritine](fiche:fer-et-ferritine)).\n- Croire que le RDW « prédit la mort » chez un sujet sain : les HR viennent surtout de cohortes et de patients malades.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Le RDW est le meilleur marqueur d'âge biologique »** : aucun essai ne montre qu'il fait mieux que les facteurs de risque classiques ; il est associé à la mortalité comme marqueur de maladie en cours (PMID 35229542, 42558361).\n- **« Faire baisser son RDW allonge la vie »** : aucune étude d'intervention retrouvée [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Chez les sujets déjà à risque cardiovasculaire élevé, l'association RDW–mortalité devient faible (HR 1,18 contre 2,79 en risque faible), ce qui suggère que le RDW est surtout un marqueur de ce qui n'est pas déjà capté par le risque classique (PMID 35229542).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "RDW élevé avec anémie, fatigue, essoufflement ou perte de poids ; ou résultat persistant à plusieurs contrôles.\n\nFiches « examen » liées : [NFS et anémie](fiche:biomarqueur-nfs-hemoglobine-anemie)",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 38481148 — Xing B, Liu P, Staged rehabilitation training, inflammatory factors and RDW after cardiac valve replacement. *BMC Cardiovasc Disord* 2024. doi:10.1186/s12872-024-03743-z\n- PMID 3358371 — Saxena S et al., Red blood cell distribution width in untreated pernicious anemia. *Am J Clin Pathol* 1988. doi:10.1093/ajcp/89.5.660\n- PMID 35229542 — Katamreddy A et al., Elevated RDW and cardiovascular mortality in ASCVD risk cohorts (NHANES III). *Rev Cardiovasc Med* 2022. doi:10.31083/j.rcm2302051\n- PMID 42558361 — Peng W et al., Prognostic value of RDW in patients undergoing PCI. *Front Cardiovasc Med* 2026. doi:10.3389/fcvm.2026.1787857\n- PMID 38805227 — Hao M et al., Ratio of RDW to albumin level and risk of mortality. *JAMA Netw Open* 2024. doi:10.1001/jamanetworkopen.2024.13213\n- PMID 31790569 — Zidar DA et al., Lymphopenia and mortality in the US general population. *JAMA Netw Open* 2019. doi:10.1001/jamanetworkopen.2019.16526",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : RDW (largeur de distribution des globules rouges)",
+ "type": "biomarqueur",
+ "unite": ""
+}

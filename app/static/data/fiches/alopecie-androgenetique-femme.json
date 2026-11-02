@@ -1,0 +1,75 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "",
+ "id": "alopecie-androgenetique-femme",
+ "intro": "",
+ "liens": [
+  "alopecie-androgenetique",
+  "epaississement-et-diametre-du-cheveu",
+  "minoxidil",
+  "spironolactone"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "41714473",
+  "27225981",
+  "42190753",
+  "41041440",
+  "42168420",
+  "40944844",
+  "42682108"
+ ],
+ "preuve_globale": "B",
+ "resume": "Touche près de 50 % des femmes au cours de leur vie et reste sous-diagnostiquée [B] (revue narrative, PMID 41714473).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Touche près de 50 % des femmes au cours de leur vie et reste sous-diagnostiquée [B] (revue narrative, PMID 41714473).\n- **Minoxidil topique** : seul traitement à l'efficacité établie chez la femme. Revue Cochrane (47 ECR, 5290 participantes) : repousse modérée à marquée RR 1,93 vs placebo (qualité modérée), +13,18 cheveux/cm² (qualité faible) ; **2 % et 5 % font jeu égal** [A] (PMID 27225981).\n- **Finastéride 1 mg : pas plus efficace que le placebo chez la femme** (3 essais) [A, faible qualité] (PMID 27225981). Spironolactone, dutastéride, cyprotérone : essais randomisés réclamés par la revue Cochrane.\n- Peu d'essais incluent des femmes, et seuls 5 des 47 essais Cochrane sont à faible risque de biais (PMID 27225981, 41714473).\n- Les finastéride/dutastéride ne sont pas des options à prendre à la légère sans médecin (grossesse, âge) : voir sécurité.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Miniaturisation folliculaire par raccourcissement de l'anagène ; androgènes, génétique, facteurs environnementaux (stress oxydatif, pollution) ; les œstrogènes seraient protecteurs [B] (PMID 41714473).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Minoxidil topique | Voir [minoxidil](fiche:minoxidil) | [A] Cochrane : RR 1,93 vs placebo (qualité modérée) ; 2 % = 5 % (PMID 27225981) ; seul traitement approuvé par la FDA pour la FPHL (PMID 41714473) | voir fiche minoxidil | — |\n| Minoxidil + microneedling | Microperforation | [B, contradictoire] ECR ouvert de 245 femmes (minoxidil 2 %) : aucun bénéfice ajouté à 24 sem. (PMID 42190753) ; une NMA antérieure classait l'association 1re chez la femme (SUCRA 87 %, PMID 41041440) | Dispositif | — |\n| Minoxidil oral faible dose | Systémique | [?] essais chez la femme non vérifiés ici ; option hors AMM citée par la revue (PMID 41714473) | Hors AMM | — |\n| [Spironolactone](fiche:spironolactone) | Antiandrogène | [B, peu d'études] associée au minoxidil, classée en tête d'une NMA (hommes et femmes), sans différence de densité entre traitements (PMID 42168420) ; ECR réclamés par Cochrane (PMID 27225981) | Hors AMM | — |\n| Finastéride / dutastéride | 5-ARI | Finastéride 1 mg : pas mieux que le placebo [A, faible qualité] (3 ECR, PMID 27225981) ; dutastéride : pas d'ECR dans la revue Cochrane [?] | Hors AMM | — |\n| LLLT | Photobiomodulation | [A, faible qualité] peigne laser vs appareil factice : pas mieux selon les patientes, mais +17 cheveux/cm² au comptage (2 ECR, PMID 27225981) | Dispositif | — |\n| PRP | Facteurs de croissance | [A] densité ↑, épaisseur sans effet significatif (43 ECR hommes et femmes, PMID 40944844) | Acte médical | — |\n| Greffe | Chirurgie | option citée par la revue (PMID 41714473), preuves non revues ici [?] | Acte | — |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Débutant : bilan (ferritine, TSH, hormones si signes d'hyperandrogénie), puis minoxidil topique.\n- Intermédiaire/avancé : décisions médicales (antiandrogènes, oral). Voir [AGA générale](fiche:alopecie-androgenetique).",
+   "titre": "Protocoles"
+  },
+  {
+   "markdown": "- Ne pas distinguer FPHL, effluvium télogène chronique et alopécie areata diffuse ; la trichoscopie et le pull test servent à ça (PMID 41714473).\n- Penser que les compléments « font épaissir » : voir [épaississement](fiche:epaississement-et-diametre-du-cheveu).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **Microneedling + minoxidil = meilleur combo féminin** : classement NMA contredit par un ECR ouvert monocentrique de 245 femmes, sans gain à 24 semaines [B] (PMID 42190753).\n- **« Minoxidil 5 %, plus fort donc meilleur »** : chez la femme, pas de différence avec le 2 % (4 essais, 1006 participantes) [A, qualité modérée à faible] (PMID 27225981).\n- **Finastéride « comme chez l'homme »** : à 1 mg, pas mieux que le placebo chez la femme [A, faible qualité] (PMID 27225981).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PRP non activé (3 séances) : densité +31,4 % et épaisseur +26,8 % à 12 mois **par rapport à l'état initial**, encore +11,2 % à 120 mois chez les patients en entretien ; les femmes conservent mieux le diamètre. 234 patients (135 hommes, 99 femmes) ; le titre annonce un essai randomisé en aveugle évaluateur, mais aucun groupe témoin n'est décrit dans le résumé [B] (PMID 42682108).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Grossesse envisagée avant tout traitement systémique ; chute brutale ; signes d'hyperandrogénie ; absence d'amélioration à 6 mois.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 27225981 — van Zuuren E.J. et al., *Cochrane Database Syst Rev* 2016, interventions pour l'AGA féminine. doi:10.1002/14651858.CD007628.pub4\n- PMID 41714473 — Kearney et al., *Am J Clin Dermatol* 2026, revue narrative. doi:10.1007/s40257-026-01009-2\n- PMID 40944844 — Anitua E. et al., *Dermatol Ther (Heidelb)* 2025, PRP (méta-analyse). doi:10.1007/s13555-025-01542-8\n- PMID 42168420 — Bai Y. et al., *Aesthetic Plast Surg* 2026, NMA associations au minoxidil. doi:10.1007/s00266-026-05872-6\n- PMID 42190753 — Liu Y. et al., *JAAD*. doi:10.1016/j.jaad.2026.03.123\n- PMID 41041440 — Xia Y. et al., *Front Med*. doi:10.3389/fmed.2025.1638496\n- PMID 42682108 — Gentile et al., *Aesthet Surg J* 2026, PRP non activé, suivi 10 ans. doi:10.1093/asj/sjag181",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Alopécie androgénétique chez la femme (FPHL)",
+ "type": "condition",
+ "unite": ""
+}

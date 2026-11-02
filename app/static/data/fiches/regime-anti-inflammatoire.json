@@ -1,0 +1,67 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-23",
+ "famille": "alimentation",
+ "id": "regime-anti-inflammatoire",
+ "intro": "",
+ "liens": [
+  "biomarqueur-crp-hscrp",
+  "maladies-auto-immunes-facteurs-modifiables",
+  "regime-mediterraneen",
+  "regime-nordique",
+  "regimes-comparatif"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "35524691",
+  "33873204",
+  "34176394",
+  "41094311"
+ ],
+ "preuve_globale": "B",
+ "resume": "« Anti-inflammatoire » n'est pas un régime défini : la littérature utilise le *Dietary Inflammatory Index* (DII), un score qui classe les aliments et nutriments selon leur potentiel pro- ou anti-inflammatoire ; les études mesurent donc un score, pas l'effet d'un régime prescrit [B].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **« Anti-inflammatoire » n'est pas un régime défini** : la littérature utilise le *Dietary Inflammatory Index* (DII), un score qui classe les aliments et nutriments selon leur potentiel pro- ou anti-inflammatoire ; les études mesurent donc un score, pas l'effet d'un régime prescrit [B].\n- **Cohortes** : +1 point de DII est associé à +4 % de mortalité toute cause (RR 1,04 ; IC 1,03-1,05) et cardiovasculaire (RR 1,04), +2 % de mortalité par cancer, dose-réponse linéaire [B] (PMID 35524691).\n- **Force de la preuve** : sur 38 critères, un seul de preuve « convaincante » (infarctus du myocarde) ; mortalité toute cause et cancers « très suggestifs » ; la majorité en preuve faible [B] (PMID 33873204).\n- **Aucun essai randomisé** dans les résultats lus qui montre qu'abaisser le DII diminue les événements [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Ce n'est pas un régime unique** : le DII (*Dietary Inflammatory Index*) est un score du potentiel inflammatoire de l'alimentation ; un score élevé = alimentation « pro-inflammatoire » (PMID 35524691, 33873204).\n- **Aliments et nutriments scorés** : liste exacte et pondérations non extraites des résumés lus [?].\n- **Version « diète à faire »** (méditerranéen, riche en végétaux, poisson, huile d'olive ; peu de sucres, ultra-transformés, alcool) : description courante ; les essais randomisés d'un tel régime sur des marqueurs inflammatoires ne sont pas relus ici [?]. Voir [méditerranéen](fiche:regime-mediterraneen).\n- **Études** : cohortes et cas-témoins, pas d'essai ; les cas-témoins fournissent une preuve plus faible (PMID 34176394).",
+   "titre": "Variantes et contenu"
+  },
+  {
+   "markdown": "Non revérifié [?]. Le DII est construit à partir d'effets de nutriments sur des marqueurs inflammatoires dans la littérature ; la validité de ce mécanisme et son lien avec les événements cliniques ne sont pas démontrés par les résumés lus [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Source | Résultat | Preuve |\n|---|---|---|\n| Méta-analyse dose-réponse, 17 cohortes, 397 641 pers. | par unité de DII : mortalité toute cause RR 1,04 (1,03-1,05, I² = 52 %), cancer 1,02 (1,00-1,04), CVD 1,04 (1,02-1,06, I² = 86 %) ; associations linéaires (PMID 35524691) | [B] |\n| Revue parapluie, 15 méta-analyses, 38 critères, > 4,3 M de sujets (Marx) | association positive pour 27/38 critères ; preuve convaincante : infarctus ; très suggestive : mortalité toute cause, cancer total, cancers colorectal, pancréatique, respiratoire, buccal ; 31 critères en preuve suggestive ou plus faible (PMID 33873204) | [B] |\n| Revue parapluie, 11 méta-analyses (Farazi) | certitude modérée : maladie CV, mortalité toute cause, cancer colorectal ; les autres cancers en cas-témoins, certitude basse ou très basse (PMID 34176394) | [B] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « Éliminer les aliments inflammatoires fait baisser l'inflammation » : le score est observationnel ; les essais de pattern anti-inflammatoire sur la CRP sont non relus ici, et le régime nordique n'a pas diminué la CRP dans les essais regroupés [A] (PMID 41094311).\n- « Tel aliment ou épice est anti-inflammatoire » : le DII est calculé sur l'ensemble de l'alimentation ; ces études n'isolent pas l'effet d'un aliment [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Pas de risque propre à un score. Un régime « anti-inflammatoire » pratique recouvre des patterns déjà documentés (méditerranéen, végétal) ; voir leurs fiches pour la sécurité. Maladies auto-immunes : voir [facteurs modifiables des maladies auto-immunes](fiche:maladies-auto-immunes-facteurs-modifiables).\n\nStatut réglementaire : sans objet.\n\nVoir aussi : [régime méditerranéen](fiche:regime-mediterraneen) · [régime nordique](fiche:regime-nordique) · [CRP / hs-CRP](fiche:biomarqueur-crp-hscrp) · [comparatif des régimes](fiche:regimes-comparatif).",
+   "titre": "Sécurité, populations à risque"
+  },
+  {
+   "markdown": "- PMID 35524691 — Zhang et al., *Adv Nutr* 2022. doi:10.1093/advances/nmac049\n- PMID 33873204 — Marx W. et al., *Adv Nutr* 2021. doi:10.1093/advances/nmab037\n- PMID 34176394 — Farazi M. et al., *Crit Rev Food Sci Nutr* 2022. doi:10.1080/10408398.2021.1943646\n- PMID 41094311 — Bakhshimoghaddam F. et al., *Eur J Nutr* 2025. doi:10.1007/s00394-025-03820-9",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Régime anti-inflammatoire et indice inflammatoire alimentaire (DII)",
+ "type": "actif",
+ "unite": ""
+}

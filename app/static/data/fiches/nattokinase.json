@@ -1,0 +1,76 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "nattokinase",
+ "intro": "",
+ "liens": [
+  "omega-3",
+  "tension-arterielle",
+  "vitamine-k2"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "33843667",
+  "39076715",
+  "18310985",
+  "19117402",
+  "23821590",
+  "37263404",
+  "34199189",
+  "38812930"
+ ],
+ "preuve_globale": "A",
+ "resume": "Enzyme fibrinolytique extraite du natto (soja fermenté par *Bacillus subtilis* var. natto), vendue comme « fluidifiant du sang », « anti-caillot » et « anti-athérosclérose ». Les promesses vont bien au-delà des essais.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Enzyme fibrinolytique extraite du natto (soja fermenté par *Bacillus subtilis* var. natto), vendue comme « fluidifiant du sang », « anti-caillot » et « anti-athérosclérose ». Les promesses vont bien au-delà des essais.\n- Le plus long essai (3 ans, 265 personnes d'âge médian 65,3 ans, sans maladie cardiovasculaire) est nul : progression de l'épaisseur intima-média carotidienne, rigidité artérielle, tension et marqueurs de coagulation inchangés [B, ECR unique n=265] (PMID 33843667).\n- Une méta-analyse de 6 petits ECR (546 personnes) trouve une baisse de tension (systolique −3,45 mmHg, diastolique −2,32 mmHg) mais des lipides moins bons sous nattokinase (cholestérol total, LDL-C plus élevés, HDL plus bas) ; effet sur les événements cliniques : aucun essai [A, 6 petits essais] (PMID 39076715).\n- Risque : action fibrinolytique ; un cas d'hémorragie cérébelleuse associant nattokinase et aspirine chez un patient aux microsaignements cérébraux (PMID 18310985). Éviter avec anticoagulants et antiplaquettaires sans avis médical.\n- Statut UE : extrait de soja fermenté autorisé comme nouvel aliment (décision (UE) 2017/115), compléments en gélule, comprimé ou poudre, 100 mg/j maximum, adultes hors femmes enceintes ou allaitantes ; mention obligatoire de surveillance médicale pour les personnes sous médicaments.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Protéase à sérine in vitro capable de dégrader la fibrine ; rôle fibrinolytique chez l'humain après prise orale non démontré par l'avis EFSA (« absorption de nattokinase active non établie ») [D].\n- Dégradation de l'amyloïde-β : in vitro (PMID 19117402) [D] et chez le rongeur (PMID 23821590, 37263404) [C] ; aucune étude humaine retrouvée dans la maladie d'Alzheimer [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Athérosclérose sous-clinique (prévention primaire) | 2 000 unités fibrinolytiques (FU) par jour, durée médiane 3 ans, 265 personnes : pas de différence d'évolution du CIMT et de la rigidité carotidienne ; aucun effet sur tension et biologie | [B, ECR unique n=265] (PMID 33843667) |\n| Tension artérielle | 6 études, n = 546 : systolique −3,45 mmHg (IC −4,37 à −2,18), diastolique −2,32 mmHg (IC −2,72 à −1,92) ; auteurs : « traitement adjuvant efficace » ; effets cliniques non mesurés | [A, petits essais] (PMID 39076715) |\n| Lipides | Même méta-analyse : à faible dose totale, cholestérol total (+5,27), LDL-C (+6,49) et HDL-C (−2,76) défavorables ; à dose plus élevée, cholestérol total plus élevé, HDL et LDL sans différence ; triglycérides inchangés (p = 0,71) | [A, résultat défavorable, petits essais] (PMID 39076715) |\n| Glycémie | Légère hausse (+0,40) dans la même méta-analyse | [A, petits essais] (PMID 39076715) |\n| Événements cardiovasculaires, thromboses, mortalité | Aucun essai randomisé retrouvé | [?] |\n| Maladie d'Alzheimer | Études in vitro et chez le rongeur seulement | [C] (PMID 23821590, 37263404) ; [D] (PMID 19117402) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais : 2 000 FU/j dans l'essai de 3 ans (PMID 33843667) ; 100 mg/j dans la série de patients vasculaires (PMID 34199189). Doses des 6 essais de la méta-analyse : non extraites ; les auteurs notent un effet lipidique différent selon la dose totale (PMID 39076715).\n- Correspondance FU/mg pour l'extrait autorisé : la spécification de la décision (UE) 2017/115 fixe une activité de 20 000 à 28 000 FU/g de poudre (30 % d'extrait de soja fermenté, 70 % de dextrine résistante), donc 100 mg/j correspondent à 2 000-2 800 FU/j : la dose de l'essai de 3 ans est de l'ordre du plafond UE (texte lu le 2026-10-14). Que le produit de l'essai soit le NSK-SD : non précisé dans le résumé [?].\n- Produits vendus : l'activité (FU) et la source varient selon les fabricants ; aucun relevé de produits fait ici.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Complément alimentaire. Aucun médicament à base de nattokinase dans la BDPM (recherche dans le fichier de composition, consultée le 2026-10-14).\n- Nouvel aliment (décision d'exécution (UE) 2017/115 du 20 janvier 2017, JO L 18 du 24.1.2017, texte intégral lu le 2026-10-14) : l'extrait de soja fermenté peut être mis sur le marché comme ingrédient de compléments alimentaires en gélule, comprimé ou poudre, pour la population adulte hors femmes enceintes et allaitantes, à 100 mg/j au maximum. Le demandeur, destinataire de la décision, est Japan Bio Science Laboratory. Étiquetage : dénomination « fermented soybean extract » et mention que les personnes sous médicaments ne devraient le consommer que sous surveillance médicale (le texte relève que l'extrait contient de la nattokinase, fibrinolytique in vitro et thrombolytique chez l'animal par voie parentérale). L'EFSA (avis du 28 juin 2016, *EFSA J* 14(7):4541, cité par la décision) a conclu à la sécurité à 100 mg/j pour les adultes ; le seuil « plus de 35 ans » cité ailleurs ne figure pas dans la décision lue : non confirmé. Le texte ne tranche pas l'absorption de nattokinase active ; la mention « absorption non établie » de cette fiche vient de l'avis EFSA relayé par recherche web, non relu [?]. Autres sources de nattokinase ou doses hors de ce cadre : situation de chaque produit non vérifiée (catalogue Novel Food non consulté pour ces cas) [?].\n- AMA : non concerné.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Hémorragie cérébelleuse chez un patient prenant nattokinase et aspirine, avec microsaignements cérébraux connus [B, cas clinique] (PMID 18310985).\n- Des objections motivées d'autres États membres ont conduit la Commission à saisir l'EFSA (considérants 4-5 de la décision (UE) 2017/115) ; leur contenu n'est pas détaillé dans le texte lu.\n- Anticoagulants (AVK, anticoagulants oraux directs), antiagrégants, AINS, chirurgie programmée, troubles de l'hémostase : prudence ; aucune étude d'interaction pharmacologique dédiée trouvée dans PubMed. Données d'observation rassurantes mais non probantes : 153 patients vasculaires sous 100 mg/j de nattokinase associée à fondaparinux ou énoxaparine, sans effet indésirable ni interaction rapportés (pas de groupe contrôle comparable) [B, essai ouvert] (PMID 34199189) ; 178 coronariens sous multiples médicaments, nattokinase seule ou avec levure de riz rouge, 90 jours, sans effet indésirable ; essai financé en partie par un industriel [B, ECR unique n=178] (PMID 38812930). Ces effectifs ne permettent pas d'exclure un risque hémorragique rare, comme le cas de PMID 18310985.\n- Allergie au soja : la décision (UE) 2017/115 retient que le risque allergique est comparable à celui des autres produits dérivés du soja, soumis à l'étiquetage des allergènes (règlement (UE) n° 1169/2011). Contenu en vitamine K2 des produits : voir [vitamine K2](fiche:vitamine-k2) ; effets sur l'INR sous antivitamine K non recherchés [?].\n- Grossesse et allaitement : exclus de l'autorisation européenne ; aucune donnée de sécurité trouvée [?].\n- Pas de signal d'effet indésirable notable dans les essais de la méta-analyse (PMID 39076715) [A, courte durée].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Fluidifie le sang et prévient les caillots » : aucun essai sur les événements thrombotiques ; l'essai de 3 ans ne montre aucun effet sur les marqueurs de coagulation ni d'athérosclérose (PMID 33843667).\n- « Fait baisser le cholestérol » : les données poolées vont dans le mauvais sens à faible dose (PMID 39076715).\n- « Protège de l'Alzheimer » : modèles animaux et in vitro seulement [C, D].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour. Voir aussi [tension artérielle](fiche:tension-arterielle), [oméga-3](fiche:omega-3), [vitamine K2](fiche:vitamine-k2).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Hodis et al. *Clin Hemorheol Microcirc* 2021 — PMID 33843667 — [DOI](https://doi.org/10.3233/CH-211147)\n2. Li et al. *Rev Cardiovasc Med* 2023 — PMID 39076715 — [DOI](https://doi.org/10.31083/j.rcm2408234)\n3. Chang et al. *Intern Med* 2008 — PMID 18310985 — [DOI](https://doi.org/10.2169/internalmedicine.47.0620)\n4. Hsu et al. *J Agric Food Chem* 2009 — PMID 19117402 — [DOI](https://doi.org/10.1021/jf803072r)\n5. Fadl et al. *Hum Exp Toxicol* 2013 — PMID 23821590 — [DOI](https://doi.org/10.1177/0960327112467040)\n6. Naik et al. *Eur J Pharmacol* 2023 — PMID 37263404 — [DOI](https://doi.org/10.1016/j.ejphar.2023.175821)\n7. EFSA NDA Panel, Safety of fermented soybean extract NSK-SD® as a novel food, *EFSA J* 2016;14(7):4541 — cité par la décision (UE) 2017/115 ; texte de l'avis non relu.\n8. Décision d'exécution (UE) 2017/115 — https://eur-lex.europa.eu/eli/dec_impl/2017/115/oj — texte intégral lu le 2026-10-14 (version publiée au JO L 18 du 24.1.2017).\n9. BDPM, fichier CIS_COMPO_bdpm — https://base-donnees-publique.medicaments.gouv.fr — consulté le 2026-10-14.\n10. Gallelli et al. *Nutrients* 2021 — PMID 34199189 — [DOI](https://doi.org/10.3390/nu13062031)\n11. Liu et al. *Front Nutr* 2024 — PMID 38812930 — [DOI](https://doi.org/10.3389/fnut.2024.1380727)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Nattokinase",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,79 @@
+{
+ "cibles": [
+  "longevite",
+  "hormones-sexualite"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "medicament",
+ "id": "dhea",
+ "intro": "",
+ "liens": [
+  "baisse-libido-homme-et-testosterone",
+  "bilans-biologiques",
+  "biomarqueur-igf1-dhea-s",
+  "desir-sexuel-hypoactif-femme",
+  "osteoporose-et-densite-osseuse",
+  "stress-chronique-et-cortisol"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "33045358",
+  "33220453",
+  "31237150",
+  "32675010",
+  "34342920",
+  "11405958",
+  "39332623",
+  "17636627"
+ ],
+ "preuve_globale": "B",
+ "resume": "Stéroïde surrénalien précurseur des androgènes et des œstrogènes ; son taux baisse avec l'âge, d'où sa réputation d'« hormone de jouvence ». Oral : effet hormonal réel (la testostérone monte), bénéfice clinique « anti-âge » non démontré, statut français flou et hors AMM.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Stéroïde surrénalien précurseur des androgènes et des œstrogènes ; son taux baisse avec l'âge, d'où sa réputation d'« hormone de jouvence ». **Oral : effet hormonal réel (la testostérone monte), bénéfice clinique « anti-âge » non démontré, statut français flou et hors AMM.**\n- Testostérone : méta-analyse de 42 publications : hausse après DHEA, plus marquée chez la femme (+30,98 ng/dL) que chez l'homme (+21,36 ng/dL), à > 50 mg/j (+57,96 ng/dL) qu'à ≤ 50 mg/j (+19,43), sur ≤ 12 semaines qu'au-delà ; chez les femmes âgées +17,52 ng/dL et IMC −0,39 kg/m² [A, effet hormonal] (PMID 33045358, PMID 33220453). Le critère est un dosage, pas une amélioration de santé.\n- Os : hanche et trochanter améliorés chez la femme (SMD hanche −0,5 ; −0,95 à −0,04 selon la convention de l'analyse), **rien chez l'homme** ; les auteurs disent que des essais supplémentaires sont nécessaires [A, faible] (PMID 31237150).\n- Lipides : pas d'effet sur le cholestérol total, le LDL et les triglycérides, **baisse du HDL (−3,1 mg/dL ; −4,9 à −1,3)** [A, 23 articles] (PMID 32675010) : effet défavorable potentiel, sans événements cardiaques mesurés.\n- Cortisol : baisse (−53,6 nmol/L), sans effet sur leptine, adiponectine ni enzymes hépatiques [A, marqueurs] (PMID 34342920).\n- Cognition : revue Cochrane ancienne (4 études) : effets rares et contradictoires, aucune étude chez des personnes démentes [A, ancien, négatif] (PMID 11405958).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Précurseur converti en testostérone et œstradiol dans les tissus périphériques : la hausse de testostérone documentée (PMID 33045358) en est le reflet. L'hypothèse « le déclin de la DHEA cause le vieillissement » n'est pas testée par ces essais [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Testostérone circulante | 42 publications (55 bras) : hausse chez l'homme et la femme, plus nette à > 50 mg/j et sur courte durée ; femmes âgées : +17,52 ng/dL (9 bras, 793 sujets) | [A, marqueur] (PMID 33045358, PMID 33220453) |\n| Densité osseuse du sujet sain âgé | Hanche et trochanter améliorés chez la femme, pas chez l'homme ; IGF-1 en hausse chez la femme | [A, faible] (PMID 31237150) |\n| Profil lipidique | CT, LDL, TG inchangés ; HDL −3,1 mg/dL (surtout chez la femme) | [A] (PMID 32675010) |\n| Cortisol, leptine, adiponectine, foie | Cortisol −53,6 nmol/L (10 bras) ; autres marqueurs inchangés | [A, marqueurs] (PMID 34342920) |\n| Cognition | 4 études, 3 chez des personnes âgées normales : résultats isolés et contradictoires (mémoire visuelle améliorée chez la femme dans une étude, altérée dans une autre après stress) | [B, ancien] (PMID 11405958) |\n| Réserve ovarienne diminuée (FIV) | Revue de 2025 : testostérone et DHEA augmentent le nombre d'ovocytes recueillis (DHEA : +0,60 ovocyte, 4 études, 418 patientes) ; testostérone associée à plus de naissances vivantes (OR 2,19) ; fertilité sous DHEA : sous avis de spécialiste | [A, faible, auteurs avec liens avec l'industrie de la fertilité] (PMID 39332623) |\n| Atrophie vulvo-vaginale (prastérone vaginale) | Intrarosa listé comme médicament en BDPM (via la fiche désir sexuel) ; indication et données non relues ici | [?] |\n| Longévité, survie, « anti-âge » | Aucun essai de survie ni de vieillissement relu | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Les méta-analyses regroupent des doses variées, avec un effet hormonal plus fort au-dessus de 50 mg/j (PMID 33045358) : ce sont des effets de dosage hormonal, pas des doses recommandées. Doses des essais osseux, lipidiques et cognitifs : non extraites ici [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **DHEA orale en complément** : selon des réponses ministérielles anciennes, la DHEA répond à la définition du médicament et exigerait une AMM, aucune n'ayant été accordée ni demandée à l'époque ; état actuel de cette qualification en France non vérifié sur Légifrance/ANSM (sources de plus de vingt ans) [?]. Le complément vendu librement aux États-Unis n'est pas le même cadre.\n- **Prastérone vaginale** (Intrarosa) : médicament sur liste I selon la BDPM citée dans la fiche [désir sexuel hypoactif de la femme](fiche:desir-sexuel-hypoactif-femme), indication non vérifiée ici [?].\n- **AMA** : la DHEA est un stéroïde anabolisant androgène sur la liste des substances interdites en permanence, d'après une source secondaire non officielle ; liste 2026 non consultée [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Perturbation hormonale : une hausse de testostérone et d'autres androgènes est documentée (PMID 33045358) ; acné, séborrhée, pilosité chez la femme, effets sur l'axe prostatique ou mammaire : non relevés dans les résumés lus [?]. Cancers hormonodépendants (sein, prostate) : contre-indication de principe, à confirmer avec un médecin [?].\n- HDL en baisse (PMID 32675010) : critère de risque cardiovasculaire, événements non mesurés.\n- Aucun signal hépatique dans les marqueurs étudiés (PMID 34342920) [A, marqueurs].\n- Grossesse, adolescents, interactions : non recherchées [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Hormone de jouvence » : aucune donnée de survie ; effets mesurés sur des dosages et de petits critères osseux (PMID 31237150, PMID 33045358).\n- « Booster de testostérone chez l'homme » : hausse de laboratoire ; effet clinique (libido, muscle) non démontré dans les sources lues [?], voir [baisse de libido et testostérone](fiche:baisse-libido-homme-et-testosterone).\n- « Protège la mémoire » : Cochrane sans bénéfice cohérent (PMID 11405958).\n- « Naturelle donc sans danger » : c'est un stéroïde hormonal ; HDL en baisse.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucun (statut incertain en France, dopage possible).\n\nVoir aussi : [bilans biologiques](fiche:bilans-biologiques), [ostéoporose et densité osseuse](fiche:osteoporose-et-densite-osseuse), [stress chronique et cortisol](fiche:stress-chronique-et-cortisol).\n\nFiches « examen » liées : [dosage du DHEA-S](fiche:biomarqueur-igf1-dhea-s)",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Li Y et al. *Exp Gerontol* 2020 — PMID 33045358 — [DOI](https://doi.org/10.1016/j.exger.2020.111110)\n2. Hu Y et al. *Complement Ther Med* 2021 — PMID 33220453 — [DOI](https://doi.org/10.1016/j.ctim.2020.102620)\n3. Lin H et al. *Gynecol Endocrinol* 2019 — PMID 31237150 — [DOI](https://doi.org/10.1080/09513590.2019.1616175)\n4. Qin Y et al. *Nutr Metab Cardiovasc Dis* 2020 — PMID 32675010 — [DOI](https://doi.org/10.1016/j.numecd.2020.05.015)\n5. Chen H et al. *Int J Clin Pract* 2021 — PMID 34342920 — [DOI](https://doi.org/10.1111/ijcp.14698)\n6. Huppert FA et al. *Cochrane Database Syst Rev* 2001 — PMID 11405958 (révision ultérieure retirée, voir PMID 17636627)\n7. Conforti A et al. *Fertil Steril* 2025 — PMID 39332623 — [DOI](https://doi.org/10.1016/j.fertnstert.2024.09.038)\n8. Statut français : réponses ministérielles à l'Assemblée nationale (anciennes, résultat de recherche du 2026-10-12, textes non relus en entier).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "DHEA (déhydroépiandrostérone, prastérone)",
+ "type": "actif",
+ "unite": ""
+}

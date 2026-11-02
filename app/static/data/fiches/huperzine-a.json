@@ -1,0 +1,75 @@
+{
+ "cibles": [
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "huperzine-a",
+ "intro": "",
+ "liens": [
+  "alpha-gpc",
+  "citicoline",
+  "declin-cognitif-et-neurodegenerescence",
+  "ginkgo"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "21502597",
+  "18425924",
+  "24086396",
+  "23235666",
+  "10678121",
+  "37603263",
+  "29058298"
+ ],
+ "preuve_globale": "A",
+ "resume": "Alcaloïde de *Huperzia serrata*, inhibiteur réversible de l'acétylcholinestérase, c'est-à-dire la même cible que le donépézil, vendu en complément « mémoire ». Le seul essai de phase II multicentrique (n=210) ne valide pas son critère principal.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Alcaloïde de *Huperzia serrata*, **inhibiteur réversible de l'acétylcholinestérase**, c'est-à-dire la même cible que le donépézil, vendu en complément « mémoire ». Le seul essai de phase II multicentrique (n=210) ne valide pas son critère principal.\n- **Essai de phase II multicentrique, financé par les NIH (Alzheimer léger à modéré)** : à 200 µg × 2/j, aucun effet sur l'ADAS-Cog à 16 semaines (critère principal) ; à 400 µg × 2/j, amélioration de 2,27 points à 11 semaines (p=0,001) mais non significative à 16 semaines (1,92 vs 0,34 points chez le placebo, p=0,07) ; aucun effet sur l'impression clinique, les activités quotidiennes ni les symptômes neuropsychiatriques [B, ECR unique n=210] (PMID 21502597).\n- **Cochrane 2008** (6 essais, 454 patients Alzheimer, qualité méthodologique « pas élevée ») : MMSE WMD 2,81 (1,87–3,76) ; ADAS-Cog 1,91 à 6 semaines [A, faible certitude] (PMID 18425924). **Méta-analyse 2013** : 20 ECR, 1 823 participants, essais à risque de biais élevé [A, faible certitude] (PMID 24086396).\n- **Troubles cognitifs légers (MCI)** : la Cochrane 2012 ne trouve **aucun** ECR éligible ; l'usage préventif n'a donc pas de preuve [A, aucun essai] (PMID 23235666).\n- **Sujet sain** : un seul petit essai, ancien, chez des collégiens se plaignant de manquer de mémoire (34 paires, 100 µg × 2/j, 4 semaines, quotient de mémoire 115 vs 104) ; qualité méthodologique non évaluable depuis le résumé, jamais répliqué dans ce que j'ai trouvé [B, ECR unique n=68] (PMID 10678121).\n- **France** : la partie aérienne de *Huperzia serrata* figure à l'annexe I de l'arrêté plantes ; aucune spécialité à base de huperzine dans la BDPM ; statut de la huperzine A isolée en complément : [?] (voir « Formes disponibles et statut »).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Inhibiteur réversible de l'acétylcholinestérase, à effets décrits comme protecteurs sur les cellules en laboratoire (peroxyde d'hydrogène, bêta-amyloïde, glutamate) [D] (PMID 18425924, introduction de la revue Cochrane). Mécanisme chez l'humain par voie orale : surtout l'augmentation de l'acétylcholine, comme les médicaments anticholinestérasiques.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Alzheimer léger à modéré, phase II | 210 patients, 16 semaines : 200 µg × 2/j sans effet sur l'ADAS-Cog ; 400 µg × 2/j −2,27 points à 11 semaines mais 1,92 vs 0,34 à 16 semaines (p=0,07) ; critères secondaires non significatifs ; les auteurs classent l'effet à 200 µg × 2/j « classe III, aucun effet cognitif démontrable » (PMID 21502597) | [B, ECR unique n=210] |\n| Alzheimer, Cochrane | Cochrane 2008 : MMSE WMD 2,81 (1,87–3,76), ADAS-Cog 1,91 (1,27–2,55) à 6 semaines et 2,51 (1,74–3,28) à 12 semaines, ADL WMD −7,17 (−9,13 à −5,22) ; échelles de Hasegawa et de mémoire de Wechsler non significatives (PMID 18425924) | [A, faible certitude] |\n| Alzheimer, 20 ECR | MMSE meilleur à 8, 12 et 16 semaines ; la plupart des essais à risque de biais élevé ; deux critères standards (ADAS-Cog, ADCS-ADL) non significatifs dans l'unique essai qui les mesure (PMID 24086396) | [A, faible certitude] |\n| MCI | aucun ECR éligible, aucune méta-analyse possible (PMID 23235666) | [A, aucun essai] |\n| Adolescents avec plaintes de mémoire (sujets sains) | 34 paires appariées, 2 gélules de 50 µg 2 fois par jour, 4 semaines : quotient de mémoire 115 ± 6 vs 104 ± 9 (p < 0,01) ; notes de chinois en hausse ; résumé de 1999, sans DOI (PMID 10678121) | [B, ECR unique n=68] |\n| Mémoire de l'adulte sain | [?] | [?] |\n| Panorama « suppléments pour la mémoire » | Résultats « mitigés » pour la huperzine A (PMID 37603263) | [B, revue narrative] |\n\nLes synthèses « positives » reposent sur des essais courts (6 à 16 semaines) de qualité méthodologique limitée (PMID 18425924, 24086396). L'essai multicentrique de phase II ne valide pas son critère principal à la dose étudiée.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Étudié** : 200 µg et 400 µg deux fois par jour dans l'essai de phase II (PMID 21502597) ; dans les 20 ECR de la méta-analyse de 2013 : 0,2 à 0,8 mg/j (moyenne environ 0,37 mg/j), 8 à 36 semaines (moyenne 14,7 semaines), et un essai rapporte une bonne tolérance jusqu'à 0,4 mg 2 fois par jour pendant 24 semaines (PMID 24086396, texte intégral PMC3781107) ; 100 µg 2 fois par jour chez des collégiens (PMID 10678121).\n- **Vendu** : teneur et pureté des gélules « huperzine A » ou « extrait de Huperzia » du marché français : [?] aucune fiche produit consultée, aucune source officielle de contrôle retrouvée.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Gélules, souvent associées à d'autres « nootropes ».\n- **France, plante** : *Huperzia serrata* (Thunb.) Rothm., « parties aériennes », substance d'intérêt « alcaloïdes », figure à l'annexe I de l'arrêté du 24 juin 2014, annexe I relue sur Légifrance, texte « en vigueur au 14 octobre 2026 » sans texte modificatif listé (consulté le 2026-10-14).\n- **Huperzine A isolée** : aucune spécialité contenant de la huperzine dans la base de composition de la BDPM (donc ni AMM, ni médicament à base de plantes), consulté le 2026-10-14. Statut en complément (Novel Food, DGCCRF) : [?] catalogue Novel Food inaccessible ici ; aucune alerte ANSM, DGCCRF ou ANSES sur la huperzine retrouvée par recherche web.\n- **AMA** : non nommée dans la Liste des interdictions 2026 (recherche par nom, fichier du 2026-10-13).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Les méta-analyses rapportent des effets indésirables « légers » sans différence significative avec les groupes contrôle ; aucun essai inclus n'a rapporté d'effet indésirable grave (PMID 24086396). Les essais de qualité faible ne permettent pas d'exclure un risque rare.\n- **Interactions possibles, par analogie de classe** : aucune étude d'interaction avec la huperzine A n'a été retrouvée. Le RCP du donépézil (Aricept, BDPM, mis à jour par l'ANSM le 27/12/2022, consulté le 2026-10-14) indique pour les anticholinestérasiques : effets vagotoniques (bradycardie, syncopes), potentialisation par les agonistes cholinergiques, les curares (succinylcholine) et les bêtabloquants agissant sur la conduction cardiaque, activité modifiée des anticholinergiques, allongement du QT avec certains antiarythmiques, antidépresseurs, antipsychotiques et antibiotiques. La huperzine A étant du même type d'inhibiteur, ces précautions sont transposées par analogie, non démontrées pour elle.\n- Grossesse, allaitement, épilepsie, asthme, ulcère, bradycardie : [?] recherchés dans PubMed (huperzine + grossesse/épilepsie/pharmacocinétique) ; aucune donnée humaine retrouvée. Pharmacocinétique chez 12 volontaires chinois sains : demi-vie d'environ 12 h, aucun événement indésirable sur une dose unique, sans précision de dose dans le résumé (PMID 29058298). Ne pas associer à un traitement de la maladie d'Alzheimer sans avis médical.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Aucune fiche produit.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Équivalent naturel du donépézil, prouvé »** : le critère principal de l'essai de phase II est négatif à 200 µg × 2/j (PMID 21502597) [B, ECR unique n=210] ; les méta-analyses sont à risque de biais élevé (PMID 24086396) [A, faible certitude].\n- **« Prévient la perte de mémoire »** : aucun ECR sur le MCI (PMID 23235666) ; aucune preuve de prévention [A, aucun essai].\n- **« Sans effet secondaire car naturel »** : même cible pharmacologique que les anticholinestérasiques (PMID 18425924), dont le RCP décrit bradycardie et syncopes ; sécurité à long terme de la huperzine A : [?] non documentée.\n\nÀ voir aussi : [Déclin cognitif et neurodégénérescence](fiche:declin-cognitif-et-neurodegenerescence) · [alpha-GPC](fiche:alpha-gpc) · [citicoline](fiche:citicoline) · [ginkgo](fiche:ginkgo).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 21502597 — Rafii MS et al., *Neurology* 2011. doi:10.1212/WNL.0b013e318216eb7b (résumé relu).\n- PMID 18425924 — Li J et al., *Cochrane Database Syst Rev* 2008. doi:10.1002/14651858.CD005592.pub2 (résumé relu).\n- PMID 24086396 — Yang G et al., *PLoS One* 2013. doi:10.1371/journal.pone.0074916 (résumé relu).\n- PMID 23235666 — Yue J et al., *Cochrane Database Syst Rev* 2012. doi:10.1002/14651858.CD008827.pub2 (résumé relu).\n- PMID 10678121 — Sun QQ et al., *Zhongguo Yao Li Xue Bao* 1999 (pas de DOI ; résumé relu).\n- PMID 29058298 — Wu SL et al., *J Huazhong Univ Sci Technolog Med Sci* 2017. doi:10.1007/s11596-017-1807-8 (résumé relu).\n- PMID 37603263 — Hersant H et al., *CNS Drugs* 2023. doi:10.1007/s40263-023-01031-6 (résumé relu).\n- Arrêté du 24 juin 2014 établissant la liste des plantes, autres que les champignons, autorisées dans les compléments alimentaires, annexe I (NOR ERNC1406332A), Légifrance, legifrance.gouv.fr/loda/id/JORFTEXT000029254516, texte affiché « en vigueur au 14 octobre 2026 » sans texte modificatif listé ; entrée Huperzia serrata relue par nom de plante, consulté le 2026-10-14.\n- BDPM, ARICEPT 5 mg comprimé pelliculé (RCP 4.4 et 4.5, mis à jour par l'ANSM le 27/12/2022), base-donnees-publique.medicaments.gouv.fr/medicament/69972923/extrait, consulté le 2026-10-14.\n- BDPM, fichier de composition des spécialités (CIS_COMPO_bdpm.txt, base-donnees-publique.medicaments.gouv.fr/download/file/CIS_COMPO_bdpm.txt), recherche par nom de substance (huperzine), consulté le 2026-10-14.\n- Liste des interdictions AMA 2026, recherche par nom, fichier du 2026-10-13.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Huperzine A",
+ "type": "actif",
+ "unite": ""
+}

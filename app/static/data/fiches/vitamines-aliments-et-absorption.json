@@ -1,0 +1,72 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-08",
+ "famille": "alimentation",
+ "id": "vitamines-aliments-et-absorption",
+ "intro": "",
+ "liens": [
+  "antioxydants-alimentaires-et-absorption",
+  "vitamine-d"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42514388",
+  "41308839",
+  "25441954",
+  "41487531",
+  "42227307",
+  "40832852",
+  "41174501",
+  "38732592",
+  "22419320"
+ ],
+ "preuve_globale": "A",
+ "resume": "Pas de classement « meilleurs aliments par vitamine » sourcé ici : je n'ai pas vérifié de tables de composition (Ciqual, USDA) dans cette session ; toute liste d'aliments serait de mémoire, donc je n'en donne pas [?].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Pas de classement « meilleurs aliments par vitamine » sourcé ici** : je n'ai pas vérifié de tables de composition (Ciqual, USDA) dans cette session ; toute liste d'aliments serait de mémoire, donc je n'en donne pas [?].\n- **Le multivitamine ne réduit pas la mortalité** : revue rapide de 19 méta-analyses, aucun bénéfice sur la mortalité toutes causes ; petits gains cognitifs dans des essais [A, revue rapide, définitions du multivitamine hétérogènes].\n- **Les vitamines antioxydantes en gélules (A, C, E, bêta-carotène, sélénium) ne protègent pas** et certaines augmentent la mortalité [A] → [détail](fiche:antioxydants-alimentaires-et-absorption).\n- **Absorption** : la graisse du repas augmente l'absorption de la vitamine D3 de 32 % (pic à 12 h, ECR ouvert n=50, dose unique de 50 000 UI) [B] ; la vitamine B12 par voie orale ou sublinguale améliore le taux sanguin comme l'injection (méta-analyse à forte hétérogénéité) [A, faible certitude].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Vitamines liposolubles (A, D, E, K) : absorption couplée à celle des graisses du repas (connaissance générale, seule la vitamine D est vérifiée ici). Vitamine C : intervient dans l'absorption du fer non héminique (revue narrative, PMID 42514388) ; l'ampleur de l'effet n'est pas vérifiée [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Multivitamine et mortalité | aucun bénéfice (19 méta-analyses, plus de 5 millions de participants) ; progression de la DMLA plus fréquente signalée (PMID 41308839) | [A, revue rapide] |\n| Multivitamine et cognition | mémoire épisodique et cognition globale améliorées chez des adultes âgés (même revue) | [A, effet petit, population limitée] |\n| Vitamine D3 avec ou sans graisse | pic plasmatique +32 % (IC 11–52 %) avec repas gras ; le rapport MUFA/PUFA ne change rien (PMID 25441954) | [B, ECR unique n=50] |\n| B12 orale/sublinguale vs injection (16 études, n=6098) | pas de différence sur la cobalamine ni l'homocystéine ; I² > 80 %, biais de publication possible (PMID 41487531) | [A, faible certitude] |\n| B12 chez l'enfant < 12 ans | corrige la carence ; pas d'effet net sur croissance ni cognition (PMID 42227307) | [A, faible certitude] |\n| Vitamine D, chutes en maison de retraite | taux de chutes RaR 0,63 (0,46–0,86), population à vitamine D basse (PMID 40832852) | [A, certitude modérée] |\n| Vitamine C, COVID-19 | mortalité non réduite dans une méta-analyse (PMID 41174501), un résultat favorable (RR 0,84) dans une autre, incohérent selon les critères (PMID 38732592) | [A, contradictoire] |\n\nLe dosage biologique avant supplémentation reste la logique de base : voir [vitamine D](fiche:vitamine-d) pour l'adulte non carencé.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Non évalué par produit [?]. L'essai de la vitamine D3 utilisait 50 000 UI en dose unique, très au-dessus d'un usage quotidien : le chiffre de +32 % ne se transpose pas tel quel.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Aliments : libres. Compléments : statut complément alimentaire, doses maximales fixées par arrêté (non consulté) ; formes à fortes doses de certaines vitamines vendues comme médicaments [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Vitamine A à forte dose, bêta-carotène, vitamine E : surmortalité dans les essais (PMID 22419320) [A].\n- Vitamines liposolubles : accumulation possible ; seuils de toxicité non vérifiés ici [?].\n- Grossesse : la vitamine A à forte dose est tératogène (connaissance générale, non sourcée) ; consulter avant toute supplémentation.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Aucune fiche produit.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 25441954 — Dawson-Hughes et al., J Acad Nutr Diet 2015.\n- PMID 41487531 — Mazur et al., Front Pharmacol 2025.\n- PMID 42227307 — Larvie et al., Cochrane 2026 (B12, enfants).\n- PMID 41308839 — Wang et al., Ageing Res Rev 2025 (revue rapide).\n- PMID 22419320 — Bjelakovic et al., Cochrane 2012.\n- PMID 40832852 — Dyer et al., Cochrane 2025 (chutes en institution).\n- PMID 41174501 — Zhou et al., BMC Infect Dis 2025.\n- PMID 38732592 — Sinopoli et al., Nutrients 2024.\n- PMID 42514388 — Yoon et al., Nutrients 2026 (revue narrative, vitamine C).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Vitamines : sources alimentaires et absorption",
+ "type": "actif",
+ "unite": ""
+}

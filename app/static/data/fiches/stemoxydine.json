@@ -1,0 +1,69 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-21",
+ "famille": "cosmetique",
+ "id": "stemoxydine",
+ "intro": "",
+ "liens": [
+  "alopecie-androgenetique",
+  "finasteride",
+  "minoxidil"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "41909969",
+  "42512824"
+ ],
+ "preuve_globale": "B",
+ "resume": "Molécule cosmétique de L'Oréal/Vichy présentée comme un « activateur de cellules souches du follicule ». Un seul essai humain publié trouvé : 35 patients, sans groupe contrôle, 3 mois [B, étude ouverte avant-après n=35] (PMID 41909969). Aucun essai randomisé contre placebo ou contre minoxidil tro…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Molécule cosmétique de L'Oréal/Vichy présentée comme un « activateur de cellules souches du follicule ». Un seul essai humain publié trouvé : **35 patients, sans groupe contrôle, 3 mois** [B, étude ouverte avant-après n=35] (PMID 41909969). Aucun essai randomisé contre placebo ou contre minoxidil trouvé [?].\n- Cet essai rapporte une « amélioration clinique médiane de 80 % » : sans témoin, ce chiffre ne dit pas quelle part vient de l'effet placebo, de la saison ou du biais d'observateur. Il ne se compare pas aux gains de densité (cheveux/cm²) des essais contrôlés.\n- Elle n'a **pas** été classée dans la méta-analyse en réseau 2026 des traitements hors AMM (PMID 42512824) : ne pas la confondre avec le **diaminopyrimidine oxyde** (Kopexil/Aminexil), autre molécule, elle incluse et jugée « potentiellement bénéfique ».\n- Les arguments « n'altère pas l'architecture vasculaire », « sans dépendance » ou « agit comme vecteur pour la L-carnitine » (vus dans une réponse de Gemini) n'ont aucune source trouvée [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Hypothèse des auteurs de l'essai : inhibiteur compétitif de la prolyl-4-hydroxylase, donc activation de la voie HIF-1α (réponse à l'hypoxie), avec raccourcissement de la phase kénogène (intervalle entre la chute du cheveu et la repousse du suivant) [?]. Données mécanistiques indépendantes (in vitro, animal) : non trouvées dans PubMed (recherche « stemoxydine », 2026-10-21, un seul résultat) [?].\n- Le mécanisme reste donc une hypothèse formulée dans l'étude clinique elle-même, pas démontrée.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Donnée | Preuve |\n|---|---|---|\n| Alopécie androgénétique (grades 2 à 4), solution 2 fois par jour pendant 3 mois | 35 patients (23 femmes, 12 hommes, 19-45 ans, Tanta, Égypte), étude prospective avant-après sans bras contrôle ; amélioration clinique médiane 80 % (35-100 %) ; repousse visible en dermoscopie chez 97,1 % à 1,5 mois ; densité et diamètre augmentés (p < 0,001) ; effet plus marqué chez les hommes que chez les femmes (p < 0,001) ; rougeur chez 22,9 % | [B, étude ouverte sans contrôle n=35] (PMID 41909969) |\n| Contre minoxidil ou placebo | Aucune comparaison trouvée | [?] |\n| Prévention chez une chevelure saine | Aucune donnée : l'essai inclut des patients atteints d'alopécie androgénétique | [?] |\n\nLimites lisibles dans le résumé : pas de placebo, effectif très petit, majorité de femmes, 3 mois seulement, critère principal subjectif (pourcentage d'amélioration clinique), et un cheveu qui pousse en 6 semaines chez 97 % des sujets rend le biais d'observation plausible. Les conflits d'intérêts ne sont pas visibles dans le résumé ; texte intégral non lu.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Concentration utilisée dans l'essai : non indiquée dans le résumé [?].\n- Vendue : « Stémoxydine 5 % » dans Vichy Dercos Neogenic, ampoules de 6 ml, composition relevée : Alcohol Denat., Aqua, Diethyllutidinate, Citric Acid, Safflower Glucoside, Parfum (fiche d'une pharmacie polonaise, consultée le 2026-10-21). La même fiche indique que le produit est arrêté ; prix américain relevé à 169,99 $ pour 28 ampoules, rupture de stock (revendeur, consulté le 2026-10-21). Prix français non relevé [?].\n- Allégation du fabricant relayée par un revendeur : « environ 1 700 cheveux en 3 mois » sur 101 sujets [M] ; étude du fabricant non retrouvée dans PubMed.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Cosmétique (ampoules et shampooing Vichy), selon les revendeurs ; statut CosIng, avis du SCCS et notification : non consultés [?].\n- AMA : non recherché [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Essai : rougeur chez 22,9 %, événements « légers et bien tolérés » [B] (PMID 41909969). Sécurité à long terme : aucune donnée [?].\n- Formule alcoolique (Alcohol Denat. en tête de liste) : irritation possible du cuir chevelu sensible, sans donnée spécifique.\n- Interactions et incompatibilités avec le minoxidil, le microneedling ou d'autres actifs : aucune étude trouvée [?]. Ne pas mélanger de poudres actives soi-même dans une préparation cosmétique : stabilité et dose non contrôlées.\n- Grossesse et allaitement : non recherché [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Réveille les cellules souches du follicule » : mécanisme avancé par les auteurs d'une étude sans contrôle, pas une démonstration [?].\n- « Densifie sans dépendance, contrairement au minoxidil » : aucune donnée comparative ni sur l'arrêt du traitement [?]. À l'arrêt de tout traitement qui densifie, l'effet régresse (voir [minoxidil](fiche:minoxidil) pour l'effet suspensif).\n- « 80 % d'amélioration » : médiane d'un score clinique subjectif sans témoin, non comparable à un gain de densité mesuré contre placebo.\n- Confusion fréquente avec le diaminopyrimidine oxyde (Kopexil) : essai randomisé niosomal 1 % contre minoxidil 2 % (PMID 42512824) ; ce n'est pas la stémoxydine.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit : le seul produit identifié (Vichy Dercos Neogenic) est signalé comme arrêté par une source, prix français non relevé. Alternatives avec de meilleures preuves : [minoxidil](fiche:minoxidil) [A], [finastéride](fiche:finasteride) sur ordonnance, voir l'[alopécie androgénétique](fiche:alopecie-androgenetique).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 41909969 — Elattar YA et al., *J Cosmet Dermatol* 2026 (avril) : « Trichoscopic Evaluation of the Effectiveness of Topical Stemoxydine for Hair Restoration in Androgenetic Alopecia: A Prospective Pre-Post Single-Arm Exploratory Study ». doi:10.1111/jocd.70768\n- PMID 42512824 — Gupta AK et al., *Medicina (Kaunas)* 2026 : « Beyond Minoxidil: Off-Label Therapies for Male Androgenetic Alopecia ». doi:10.3390/medicina62071282 (texte intégral lu pour le diaminopyrimidine oxyde).\n- Composition et prix : fiche d'une pharmacie polonaise (apteline.pl) et revendeurs en ligne, consultés le 2026-10-21 (fait de produit, jamais preuve d'efficacité).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "Stémoxydine topique",
+ "type": "actif",
+ "unite": ""
+}

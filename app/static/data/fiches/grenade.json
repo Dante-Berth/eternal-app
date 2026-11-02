@@ -1,0 +1,80 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "alimentation",
+ "id": "grenade",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "antioxydants-alimentaires-et-absorption",
+  "depistage-cancer-prostate-psa",
+  "tension-arterielle",
+  "urolithine-a"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "27888156",
+  "38410857",
+  "24069070",
+  "26169045",
+  "27879044",
+  "24813412",
+  "36903363",
+  "21142260",
+  "29703387"
+ ],
+ "preuve_globale": "A",
+ "resume": "Tension : baisse de quelques mmHg, avec une hétérogénéité énorme. 8 ECR de jus : systolique -4,96 mmHg (-7,67 à -2,25), diastolique -2,01 (-3,71 à -0,31) [A] (PMID 27888156). Mise à jour à 22 ECR (jus, fruit, extraits) : systolique -7,87 mmHg (-10,34 à -5,39), diastolique -3,23 (-5,37 à -1,09), m…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Tension : baisse de quelques mmHg, avec une hétérogénéité énorme.** 8 ECR de jus : systolique -4,96 mmHg (-7,67 à -2,25), diastolique -2,01 (-3,71 à -0,31) [A] (PMID 27888156). Mise à jour à 22 ECR (jus, fruit, extraits) : systolique -7,87 mmHg (-10,34 à -5,39), diastolique -3,23 (-5,37 à -1,09), mais I² ≈ 90 %, effet plus grand si la tension de départ est > 130 mmHg [A, très hétérogène] (PMID 38410857). Avec une telle hétérogénéité, la taille réelle de l'effet est incertaine.\n- **Cancer de la prostate : le fruit n'a pas fait ses preuves.** 102 patients avancés, 500 mL de jus par jour pendant 4 semaines puis 250 mL pendant 4 semaines : aucune différence de PSA ni de douleur vs placebo [B, ECR n=102] (PMID 24069070). 183 hommes avec PSA en hausse après traitement (extrait 2:1 vs placebo, jus en bras exploratoire) : temps de doublement du PSA allongé dans tous les groupes, **dont le placebo** (11,1 → 15,6 mois), sans différence significative entre groupes [B, ECR n=183] (PMID 26169045).\n- **L'effet varie d'une personne à l'autre selon le microbiote.** Dans un essai croisé de 49 adultes en surpoids ou obèses, l'extrait de grenade n'a baissé LDL (-14,9 %), cholestérol total, ApoB et LDL oxydé qu'à la forte dose (640 mg de phénols/jour) et **uniquement chez les personnes de métabotype urolithine B (UM-B)** ; pas chez les autres [B, ECR croisé n=49] (PMID 27879044). Lien avec l'urolithine A : voir [urolithine A](fiche:urolithine-a).\n- **Interaction médicamenteuse : théorique plus que démontrée.** Le jus inhibe le CYP3A4/CYP2C9 en laboratoire, mais les études chez l'humain n'ont pas trouvé d'élévation de l'exposition aux médicaments testés (PMID 24813412) ; les données cliniques de longue durée restent limitées (PMID 36903363). Voir Sécurité.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Fruit riche en ellagitanins (punicalagine), transformés par le microbiote intestinal en urolithines, dont la production dépend du « métabotype » de chaque personne (PMID 27879044, 36903363). Rapport entre urolithines produites et effets cliniques : démontré seulement sur les marqueurs lipidiques dans un essai (PMID 27879044).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Tension, jus (8 ECR) | SBP -4,96 mmHg, DBP -2,01 ; effet systolique stable aux analyses de sensibilité ; -4,36 mmHg si > 12 semaines, -5,83 si < 12 semaines ; -3,62 mmHg à > 240 mL/j, -11,01 à < 240 mL/j (PMID 27888156) | [A] |\n| Tension, fruit et extraits (22 ECR) | SBP -7,87, DBP -3,23 ; I² 90 % et 92 % (PMID 38410857) | [A, très hétérogène] |\n| Lipides selon le métabotype | forte dose d'extrait : LDL -14,9 %, ApoB -12 %, LDL oxydé -24 % chez les UM-B seulement ; 49 participants (PMID 27879044) | [B, ECR croisé n=49, sous-groupe] |\n| PSA, cancer avancé | aucune différence de PSA ni de douleur vs placebo, 102 patients (PMID 24069070) | [B, nul] |\n| PSA, après traitement initial | doublement du PSA : 11,1 → 15,6 mois (placebo), 12,9 → 14,5 (extrait), 12,7 → 20,3 (jus) ; différences entre groupes non significatives (PMID 26169045) | [B, nul] |\n| Longévité, peau, mémoire, érection | non recherchés dans cette fiche [?] | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Jus** : 500 mL puis 250 mL par jour dans l'essai prostate (PMID 24069070) ; effet sur la tension signalé aussi à moins de 240 mL/j, dans une méta-analyse qui n'explique pas l'écart (PMID 27888156).\n- **Extrait** : 160 ou 640 mg de phénols par jour (1 ou 4 gélules) dans l'essai lipidique (PMID 27879044).\n- **Vendus** : jus de grenade (souvent mélangé à d'autres jus ou sucré), gélules d'extrait standardisées en punicalagine ou en acide ellagique, « poudre » : teneur et sucre non vérifiés sur les produits français [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Aliment (fruit, jus). Le sirop de grenadine n'a pas été évalué [?]. Extraits : compléments alimentaires ; statut et allégations non consultés [?]. Statut AMA : non concerné (non vérifié).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Interaction par inhibition du CYP3A4 et du CYP2C9** : inhibition intestinale constante en laboratoire ; les études chez l'humain n'ont pas montré d'élévation de l'exposition aux substrats du CYP2C9 ou 3A4 testés ; les auteurs jugent les données de laboratoire insuffisantes pour des décisions cliniques (PMID 24813412). Une revue plus récente note que des études observationnelles rapportent une prolongation des effets de la warfarine et du sildénafil avec le jus, et que les essais cliniques se limitent à une dose unique de jus [B, revue] (PMID 36903363). Conduite prudente en cas de warfarine, médicaments à marge thérapeutique étroite ou immunosuppresseurs : en parler au médecin ou au pharmacien (déduction de ces revues, pas un résultat d'essai).\n- **Comparaison avec le pamplemousse** : l'interaction du pamplemousse (inhibition intestinale du CYP3A4 par les furanocoumarines) est mieux établie, y compris pour les inhibiteurs calciques et les immunosuppresseurs (PMID 21142260, revue) ; furanocoumarines de la grenade : non retrouvées. Revue (2023) : des observations rapportent un effet prolongé de la warfarine et du sildénafil avec le jus ; chez l'animal, l'administration prolongée augmente la biodisponibilité de plusieurs médicaments (CYP3A4, CYP2C9), les données cliniques se limitent à des prises uniques [C, revue] (PMID 36903363). Une revue d'ECR sur les jus autres que le pamplemousse conclut qu'ils ne précipitent pas d'interaction sévère, hors cas isolés (PMID 29703387). Prudence avec warfarine et inhibiteurs calciques.\n- **Sucre** : le jus apporte du sucre sans les fibres du fruit ; effet sur la glycémie non recherché ici [?].\n- Allergie, grossesse : non recherchées [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« La grenade est le super-fruit anti-cancer de la prostate »** : deux ECR contre placebo sans différence significative sur le PSA [B, nul] (PMID 24069070, 26169045).\n- **« La grenade baisse le cholestérol pour tout le monde »** : seulement chez les métabotypes urolithine B dans un essai croisé de 49 personnes [B] (PMID 27879044).\n- **« Le jus de grenade est un médicament de la tension »** : -5 à -8 mmHg de systolique dans des méta-analyses très hétérogènes [A] (PMID 27888156, 38410857).\n- **« Dangereux comme le pamplemousse avec les médicaments »** : démontré en laboratoire, non confirmé chez l'humain pour les substrats testés [B] (PMID 24813412).\n\nVoir aussi : [urolithine A](fiche:urolithine-a) · [alimentation : synthèse](fiche:alimentation) · [tension artérielle](fiche:tension-arterielle) · [antioxydants alimentaires](fiche:antioxydants-alimentaires-et-absorption) · [dépistage du cancer de la prostate (PSA)](fiche:depistage-cancer-prostate-psa).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 27888156 — Sahebkar et al., *Pharmacol Res* 2017 (jus et tension, 8 ECR). doi:10.1016/j.phrs.2016.11.018\n- PMID 38410857 — Bahari et al., *Phytother Res* 2024 (22 ECR). doi:10.1002/ptr.8170\n- PMID 27879044 — González-Sarrías et al., *Mol Nutr Food Res* 2017 (métabotypes urolithine). doi:10.1002/mnfr.201600830\n- PMID 24069070 — Stenner-Liewen et al., *J Cancer* 2013 (PSA, cancer avancé). doi:10.7150/jca.7123\n- PMID 26169045 — Pantuck et al., *Prostate Cancer Prostatic Dis* 2015 (PSA en hausse). doi:10.1038/pcan.2015.32\n- PMID 24813412 — Andrade et al., *J Clin Psychiatry* 2014 (interactions, grenade). doi:10.4088/JCP.14f09112\n- PMID 36903363 — Mansoor et al., *Molecules* 2023 (revue, CYP3A4 et CYP2C9). doi:10.3390/molecules28052117\n- PMID 21142260 — Seden et al., *Drugs* 2010 (pamplemousse). doi:10.2165/11585250-000000000-00000\n- PMID 36903363 — Mansoor et al., *Molecules* 2023 (jus de grenade, CYP3A4/CYP2C9). doi:10.3390/molecules28052117\n- PMID 29703387 — Chen et al., *J Food Drug Anal* 2018 (jus de fruits et médicaments). doi:10.1016/j.jfda.2018.01.009",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Grenade (jus, fruit, extraits)",
+ "type": "actif",
+ "unite": ""
+}

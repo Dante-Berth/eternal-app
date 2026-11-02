@@ -1,0 +1,84 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-07",
+ "famille": "medicament",
+ "id": "semaglutide-et-glp1",
+ "intro": "",
+ "liens": [
+  "biomarqueur-poids-imc-tour-de-taille",
+  "glycemie-et-prediabete",
+  "retatrutide",
+  "sarcopenie"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "33567185",
+  "35658024",
+  "37952131",
+  "40892610",
+  "41865758",
+  "41877354",
+  "35441470",
+  "38785209",
+  "39719170",
+  "40098249",
+  "40010803"
+ ],
+ "preuve_globale": "A",
+ "resume": "Obésité : sémaglutide 2,4 mg/semaine, −14,9 % de poids à 68 semaines contre −2,4 % sous placebo [B, ECR pivot n=1 961, financé par le fabricant] (PMID 33567185) ; tirzépatide 15 mg, −20,9 % contre −3,1 % à 72 semaines [B, ECR pivot n=2 539] (PMID 35658024).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Obésité** : sémaglutide 2,4 mg/semaine, −14,9 % de poids à 68 semaines contre −2,4 % sous placebo [B, ECR pivot n=1 961, financé par le fabricant] (PMID 33567185) ; tirzépatide 15 mg, −20,9 % contre −3,1 % à 72 semaines [B, ECR pivot n=2 539] (PMID 35658024).\n- **Cœur** : chez des personnes en surpoids **avec maladie cardiovasculaire déjà présente**, sans diabète, le sémaglutide réduit les événements cardiovasculaires majeurs (HR 0,80) [B, ECR unique n=17 604] (PMID 37952131). Toutes molécules confondues, les GLP-1 réduisent la mortalité totale de 12 % chez des patients à haut risque [A, 21 ECR] (PMID 40892610).\n- **Longévité chez la personne mince ou en bonne santé** : aucune donnée [?]. Le sémaglutide oral a **échoué** contre la maladie d'Alzheimer débutante (3 808 patients) [B] (PMID 41865758).\n- **Muscle** : 25 à 39 % du poids perdu est de la masse maigre, une proportion comparable à celle d'un régime ; la musculation limite cette part à environ 17 % [A] (PMID 41877354). Voir [sarcopénie](fiche:sarcopenie).\n- **À l'arrêt**, deux tiers du poids perdu sont repris en un an [B] (PMID 35441470). En France, ces médicaments ne s'obtiennent que sur ordonnance ; l'achat en ligne est illégal et expose à des produits falsifiés (ANSM).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Le GLP-1 est une hormone intestinale : elle stimule l'insuline quand la glycémie monte, ralentit la vidange de l'estomac et réduit l'appétit au niveau du cerveau. Le sémaglutide est un agoniste du récepteur du GLP-1 ; le tirzépatide agit en plus sur le récepteur du GIP. Ces notions de pharmacologie générale ne sont pas re-sourcées ici [?].\n- Une partie des bénéfices cardiovasculaires pourrait ne pas dépendre de la perte de poids : hypothèse non tranchée par les résumés lus ici [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Obésité sans diabète, sémaglutide 2,4 mg (STEP 1) | −14,9 % vs −2,4 % à 68 semaines (−15,3 kg vs −2,6 kg) ; ≥ 15 % de perte chez 50,5 % vs 4,9 % ; arrêts pour troubles digestifs 4,5 % vs 0,8 % (PMID 33567185) | [B, ECR pivot n=1 961] |\n| Obésité sans diabète, tirzépatide (SURMOUNT-1) | −15,0 %, −19,5 % et −20,9 % (5, 10, 15 mg) vs −3,1 % à 72 semaines ; ≥ 20 % de perte chez 57 % à 15 mg (PMID 35658024) | [B, ECR pivot n=2 539] |\n| Événements cardiovasculaires, surpoids + maladie CV, sans diabète (SELECT) | décès CV, infarctus ou AVC non mortel : 6,5 % vs 8,0 % sur 39,8 mois (HR 0,80 ; 0,72-0,90) ; arrêts pour effets indésirables 16,6 % vs 8,2 % (PMID 37952131) | [B, ECR unique n=17 604] |\n| Mortalité, populations à haut risque (diabète, rein, obésité, insuffisance cardiaque) | 21 ECR, 99 599 patients, 2,4 ans : mortalité totale IRR 0,88 (NNT 121), MACE IRR 0,87 (NNT 66) (PMID 40892610) | [A, certitude élevée] |\n| Maladie rénale chronique + diabète de type 2 (FLOW), sémaglutide 1 mg | événements rénaux majeurs (insuffisance rénale, baisse de 50 % du DFG, décès rénal ou CV) : HR 0,76 (0,66-0,88) sur 3,4 ans, essai arrêté tôt pour efficacité (PMID 38785209) | [B, ECR unique n=3 533] |\n| Maladie d'Alzheimer débutante (evoke, evoke+), sémaglutide oral 14 mg | CDR-SB à 104 semaines : différence −0,08 (p = 0,57) et +0,10 (p = 0,46) ; essais arrêtés pour résultat négatif (PMID 41865758) | [B, deux ECR concordants, n=3 808] |\n| Longévité, vieillissement, personne non obèse | aucune donnée humaine | [?] |\n\nLes deux essais d'obésité et l'essai SELECT sont financés par les fabricants (Novo Nordisk, Eli Lilly).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- 20 ECR, 15 782 participants : la masse maigre représente 35,2 % du poids perdu sous sémaglutide, 25,4 % sous tirzépatide, 26,8 % sous liraglutide, contre 26,2 % avec un changement de mode de vie et **17,5 % avec mode de vie + musculation** [A, hétérogénéité modérée] (PMID 41877354).\n- Autre méta-analyse en réseau (22 ECR) : masse maigre −0,86 kg en moyenne, environ 25 % de la perte ; le pourcentage de masse maigre rapporté au poids n'est pas modifié ; sémaglutide et tirzépatide sont parmi les moins bons pour préserver la masse maigre (PMID 39719170) [A].\n- « Masse maigre » (DXA) n'est pas « muscle » : elle comprend l'eau et les organes. Effet sur la force et la fonction chez la personne âgée : non retrouvé dans ces résumés [?].\n- Conséquence pratique : chez la personne âgée ou sarcopénique, une perte de poids rapide sans musculation ni protéines suffisantes est à risque (voir [sarcopénie](fiche:sarcopenie)).",
+   "titre": "Composition du poids perdu (muscle)"
+  },
+  {
+   "markdown": "- Doses des essais : sémaglutide 2,4 mg/semaine en sous-cutané (obésité), 14 mg/jour par voie orale (Alzheimer) ; tirzépatide 5, 10 ou 15 mg/semaine. Ces doses sont celles des essais, pas une posologie à suivre : l'instauration se fait par paliers, sur prescription.\n- Produits du marché parallèle (« sémaglutide » en flacon, patchs, gouttes) : contenu inconnu. Voir [rétatrutide](fiche:retatrutide) pour les risques du marché gris.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Wegovy (sémaglutide) et Mounjaro (tirzépatide), obésité** : remboursables depuis le **15 juin 2026**, uniquement chez l'adulte avec IMC ≥ 40 kg/m², ou ≥ 35 kg/m² avec au moins une comorbidité liée au poids, après échec d'une prise en charge nutritionnelle bien conduite (perte < 5 % à 6 mois). Prescription initiale réservée à certains spécialistes de l'obésité (endocrinologie-diabétologie-nutrition, médecins compétents en nutrition, chirurgiens bariatriques) ; renouvellement possible par le médecin traitant (arrêté du 10 juin 2026, NOR SFHS2614799A, Légifrance ; ameli.fr, « Obésité : de nouveaux médicaments peuvent être pris en charge dans des conditions encadrées », 2026-06-16 ; consultés le 2026-10-07). En dehors de ces critères, la prescription reste possible mais n'est pas remboursée (taux de remboursement non relevé).\n- **Ozempic (sémaglutide)** : indiqué dans le diabète de type 2 ; l'ANSM rappelle qu'il est « à utiliser uniquement dans le traitement du diabète de type 2 » (ANSM, actualité « Ozempic (sémaglutide) : un médicament à utiliser uniquement dans le traitement du diabète de type 2 », date non relevée, consultée le 2026-10-07).\n- **Vente en ligne** : illégale en France pour un médicament sur prescription. L'ANSM a signalé une dizaine de sites, saisi le procureur et analyse des produits vendus en ligne (patchs notamment) ; elle rappelle que ces médicaments « ne doivent pas être utilisés à des fins esthétiques pour perdre du poids en dehors des situations d'obésité » (ANSM, « Lutte contre la vente et la publicité illégale de médicaments aGLP-1 », 2025-09-11, mise à jour 2025-11-18, consultée le 2026-10-07).\n- **Faux stylos** : l'EMA a signalé des stylos Ozempic 1 mg falsifiés chez des grossistes de l'UE et du Royaume-Uni (ANSM, information de sécurité « L'EMA alerte sur la circulation de stylos Ozempic falsifiés », date non relevée, consultée le 2026-10-07).\n- **AMA** : les agonistes du GLP-1 ne figurent pas sur la liste des interdictions à notre connaissance ; liste 2026 non consultée pour cette fiche [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Digestif** : nausées et diarrhées fréquentes, surtout pendant l'augmentation des doses (PMID 33567185, 35658024) [B]. Dans 21 ECR : troubles gastro-intestinaux +63 %, **troubles de la vésicule biliaire +26 %** ; pas de différence pour la pancréatite ni les cancers (PMID 40892610) [A].\n- **Neuropathie optique ischémique antérieure non artéritique (NOIAN)** : cohorte danoise et norvégienne de diabétiques, risque multiplié par 2,81 vs inhibiteurs de SGLT2, mais risque absolu faible (+1,4 cas pour 10 000 années-personnes) [B, cohorte, association] (PMID 40098249). Baisse brutale de la vision d'un œil : urgence ophtalmologique.\n- **Idées suicidaires** : dans une cohorte britannique de diabétiques, l'excès apparent disparaît après ajustement (HR 1,02 et 0,91 selon le comparateur) [B, cohorte] (PMID 40010803).\n- **Muscle** : voir plus haut ; risque particulier chez la personne âgée ou dénutrie.\n- **Reprise de poids à l'arrêt** : STEP 1, 1 an après l'arrêt du traitement et du programme de mode de vie, reprise de 11,6 points sur 17,3 % perdus ; les améliorations cardiométaboliques reviennent vers l'état initial (sous-groupe de 327 participants, analyses exploratoires) [B] (PMID 35441470).\n- Grossesse, allaitement, antécédent de cancer médullaire de la thyroïde ou de pancréatite, interactions (ralentissement de la vidange gastrique et absorption des médicaments oraux) : relèvent du RCP et du médecin ; RCP non relu pour cette fiche [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Le GLP-1, molécule de longévité pour tous »** : les bénéfices démontrés concernent des personnes obèses, diabétiques ou déjà malades du cœur (PMID 37952131, 40892610) ; aucune donnée chez la personne mince ou en bonne santé [?].\n- **« Ça protège le cerveau »** : les deux grands essais Alzheimer sont négatifs (PMID 41865758) [B].\n- **« On perd de la graisse, pas du muscle »** : un quart à un tiers du poids perdu est de la masse maigre (PMID 41877354) [A].\n- **« Une cure suffit »** : deux tiers du poids sont repris un an après l'arrêt (PMID 35441470) [B].\n- **Patchs, gouttes, « GLP-1 naturel »** : l'ANSM rappelle que les produits vendus en ligne peuvent ne pas contenir la substance annoncée (ANSM, 2025) ; aucune preuve d'efficacité pour ces formes [M].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit : médicaments sur ordonnance, à discuter avec un médecin. Pour la version non autorisée vendue en ligne, voir [rétatrutide](fiche:retatrutide).\n\nVoir aussi : [Glycémie et prédiabète](fiche:glycemie-et-prediabete).\n\nFiches « examen » liées : [poids, IMC, tour de taille](fiche:biomarqueur-poids-imc-tour-de-taille)",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 33567185 — Wilding JPH et al., STEP 1, *N Engl J Med* 2021. doi:10.1056/NEJMoa2032183 (résumé relu).\n- PMID 35658024 — Jastreboff AM et al., SURMOUNT-1, *N Engl J Med* 2022. doi:10.1056/NEJMoa2206038 (résumé relu).\n- PMID 37952131 — Lincoff AM et al., SELECT, *N Engl J Med* 2023. doi:10.1056/NEJMoa2307563 (résumé relu).\n- PMID 40892610 — Galli M et al., *J Am Coll Cardiol* 2025. doi:10.1016/j.jacc.2025.08.027 (résumé relu).\n- PMID 38785209 — Perkovic V et al., FLOW, *N Engl J Med* 2024. doi:10.1056/NEJMoa2403347 (résumé relu).\n- PMID 41865758 — Cummings JL et al., evoke et evoke+, *Lancet* 2026. doi:10.1016/S0140-6736(26)00459-9 (résumé relu).\n- PMID 41877354 — Eisa N et al., *Diabetes Obes Metab* 2026. doi:10.1111/dom.70666 (résumé relu).\n- PMID 39719170 — Karakasis P et al., *Metabolism* 2025. doi:10.1016/j.metabol.2024.156113 (résumé relu).\n- PMID 35441470 — Wilding JPH et al., extension STEP 1, *Diabetes Obes Metab* 2022. doi:10.1111/dom.14725 (résumé relu).\n- PMID 40098249 — Simonsen E et al., NOIAN, *Diabetes Obes Metab* 2025. doi:10.1111/dom.16316 (résumé relu).\n- PMID 40010803 — Shapiro SB et al., suicidalité, *BMJ* 2025. doi:10.1136/bmj-2024-080679 (résumé relu).\n- Arrêté du 10 juin 2026 modifiant la liste des spécialités pharmaceutiques remboursables, NOR SFHS2614799A — https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054238151 (consulté le 2026-10-07, via le résumé de la recherche ; texte intégral non relu).\n- ameli.fr, « Obésité : de nouveaux médicaments peuvent être pris en charge dans des conditions encadrées », 2026-06-16 — https://www.ameli.fr/assure/actualites/obesite-de-nouveaux-medicaments-peuvent-etre-pris-en-charge-dans-des-conditions-encadrees (consulté le 2026-10-07).\n- ANSM, « Lutte contre la vente et la publicité illégale de médicaments aGLP-1 : les actions de l'ANSM », 2025-09-11, mis à jour 2025-11-18 — https://ansm.sante.fr/actualites/lutte-contre-la-vente-et-la-publicite-illegale-de-medicaments-aglp-1-les-actions-de-lansm (consulté le 2026-10-07).\n- ANSM, « Ozempic (sémaglutide) : un médicament à utiliser uniquement dans le traitement du diabète de type 2 » — https://ansm.sante.fr/actualites/ozempic-semaglutide-un-medicament-a-utiliser-uniquement-dans-le-traitement-du-diabete-de-type-2 (titre consulté le 2026-10-07).\n- ANSM, « L'EMA alerte sur la circulation de stylos Ozempic falsifiés » — https://ansm.sante.fr/informations-de-securite/lema-alerte-sur-la-circulation-de-stylos-ozempic-falsifies-semaglutide-1mg-solution-injectable-en-europe (consulté le 2026-10-07 via le résumé de recherche).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Sémaglutide, tirzépatide et GLP-1 (usage « longévité »)",
+ "type": "actif",
+ "unite": ""
+}

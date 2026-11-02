@@ -1,0 +1,68 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "complement",
+ "id": "vitavea-biotine-10000-ug-gelule",
+ "intro": "",
+ "liens": [
+  "biotine",
+  "fer-et-ferritine",
+  "minoxidil",
+  "minoxidil-cooper-5-solution",
+  "solgar-biotine-1000-ug-gelule"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28879195",
+  "36889777",
+  "40417451"
+ ],
+ "preuve_globale": "?",
+ "resume": "Dose 200 fois supérieure à l'apport de référence pour une preuve capillaire absente chez le sujet sain, avec un risque documenté de fausser des dosages sanguins (thyroïde notamment) : rapport bénéfice/risque défavorable en dehors d'une carence ou d'un avis médical.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Dose 200 fois supérieure à l'apport de référence pour une preuve capillaire absente chez le sujet sain, avec un risque documenté de fausser des dosages sanguins (thyroïde notamment) : rapport bénéfice/risque défavorable en dehors d'une carence ou d'un avis médical.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Composant | Quantité | Preuve |\n|---|---|---|\n| Biotine (D-biotine, vitamine B8) | 10 000 µg par gélule, soit 10 mg (« 20 000 % VNR » selon la page) | Chute de cheveux chez le sujet sain : aucun essai contrôlé trouvé [?]. Cas de carence ou de pathologie (ongles cassants, cheveux incoiffables) : 18 cas améliorés [B, cas rapportés] (PMID 28879195) |\n| Maltodextrine (agent de charge), gélule d'origine végétale (dérivé de cellulose), sels de magnésium d'acides gras (anti-agglomérant) | — | Excipients, d'après la page marchande ; pas d'étude |\n\nVoir [biotine](fiche:biotine). Le 10 mg correspond à la dose ayant fait varier des dosages thyroïdiens chez des volontaires (voir Sécurité plus bas) [B] (PMID 36889777).",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "- Complément alimentaire, pas un médicament : pas d'AMM, pas de preuve d'efficacité exigée avant la vente. Déclaration/dose maximale autorisée en France pour la biotine : non consultées [?].\n- ANSM : en 2017, des cas d'interférence de la biotine à très forte concentration sur des immunodosages ont été signalés ; sur 573 réactifs utilisant la biotine, 246 montraient une interférence, avec des seuils dès 1 ng/mL pour certains. L'ANSM demande aux patients qui prennent de la biotine, y compris en complément, de le dire au laboratoire avant une prise de sang (ANSM, page publiée le 23/07/2019, mise à jour le 30/07/2026, consultée le 2026-10-13). La page ne donne ni dose seuil ni durée d'arrêt.\n- Les pages marchandes lues (Pharma GDD, Redcare, consultées le 2026-10-13) indiquent « réservé à l'adulte » et « ne pas dépasser la dose journalière recommandée ». **Aucune mention de l'interférence avec les analyses ni de précaution grossesse/allaitement sur ces pages** ; l'étiquette du produit n'a pas été lue [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- La marque : « complément alimentaire hautement dosé » ; la biotine « contribue à la synthèse de la kératine », donnant « force et brillance », et « contribue au maintien de cheveux normaux » (Pharma GDD, Redcare, consultées le 2026-10-13). Statut d'autorisation UE de cette allégation : non vérifié ici [?].\n- Études : la revue systématique de référence ne retrouve de bénéfice que chez des patients avec carence acquise ou héréditaire, et conclut à l'absence de preuve suffisante pour les sujets sains [B, cas cliniques] (PMID 28879195). Aucune donnée dose-réponse lue ; rien n'indique qu'une dose de 10 mg fasse mieux qu'une dose bien plus faible [?].\n- Contradiction à signaler : plus la dose est élevée, plus le risque d'artefact de laboratoire est démontré (FT3, FT4, T3 totale faussement élevées sous 10 mg sur analyseur Beckman, 3 volontaires ; TSH non touchée) [B] (PMID 36889777), alors que le bénéfice capillaire ne l'est pas. Les réactifs récents tolèrent davantage de biotine, mais les seuils varient selon le test et le fabricant [B] (PMID 40417451).",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Selon la page marchande : 1 gélule par jour avec un grand verre d'eau, adultes seulement. Si une prise de sang est prévue, en informer le médecin et le laboratoire ; durée d'arrêt avant le prélèvement : non précisée par l'ANSM et non vérifiée ailleurs [?]. Grossesse, allaitement, traitement en cours : avis d'un professionnel de santé.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- 12,99 € la boîte de 60 gélules (Pharma GDD) et 13,59 € (Redcare Pharmacie, lot de 2 à 26,59 €), relevés le 2026-10-13. À une gélule par jour : **environ 6,50 à 6,80 € par mois de 30 jours**.\n- Preuve capillaire nulle chez le sujet sain [?] : le prix ne se justifie pas par un bénéfice démontré. Alternative à preuve supérieure pour la chute de cheveux masculine ou féminine : [minoxidil topique](fiche:minoxidil-cooper-5-solution) [A] (voir [fiche minoxidil](fiche:minoxidil)). Si la cause est une carence : bilan (ferritine, voir [fer et ferritine](fiche:fer-et-ferritine)) plutôt que supplémentation à l'aveugle.\n- Comparaison à dose plus basse : [Solgar Biotine 1000 µg](fiche:solgar-biotine-1000-ug-gelule), environ 6 €/mois, mais sans preuve de supériorité non plus.",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Un avis sur Redcare rapporte des maux de tête pendant la prise, disparus à l'arrêt, attribués par l'auteur à une dose trop forte ; avis isolé, non vérifiable, aucun lien de causalité établi (Redcare Pharmacie, consulté le 2026-10-13). Pas d'autre source exploitable [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 28879195 — Patel D.P. et al., *Skin Appendage Disord* 2017. doi:10.1159/000462981\n- PMID 36889777 — McBride M., *Ann Clin Lab Sci* 2023, interférence sur analyseur Beckman.\n- PMID 40417451 — Chiu K.C. et al., *Pract Lab Med* 2025. doi:10.1016/j.plabm.2025.e00472\n- ANSM, « Interférence de la biotine sur les immunodosages » (23/07/2019, mise à jour 30/07/2026), consultée le 2026-10-13.\n- Pharma GDD (pharma-gdd.com, Vitavea Biotine 10000 µg gélules : composition, posologie, allégations, prix 12,99 €) ; Redcare Pharmacie (Vitavea Santé Biotine : 13,59 €, lot de 2 : 26,59 €), consultés le 2026-10-13.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Vitavea Biotine 10 000 µg, gélules (complément alimentaire)",
+ "type": "produit",
+ "unite": ""
+}

@@ -1,0 +1,66 @@
+{
+ "cibles": [
+  "muscle-os",
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "complement",
+ "id": "creatine-creapure-nutrimuscle",
+ "intro": "",
+ "liens": [
+  "creatine"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "25946994",
+  "27328852",
+  "20591625",
+  "18373286"
+ ],
+ "preuve_globale": "A",
+ "resume": "Bon produit pour l'actif le mieux prouvé de la nutrition sportive, mais on paie surtout la marque Creapure : un monohydrate générique contient la même molécule pour environ quatre fois moins cher, au prix d'une traçabilité moindre.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Bon produit pour l'actif le mieux prouvé de la nutrition sportive, mais on paie surtout la marque Creapure : un monohydrate générique contient la même molécule pour environ quatre fois moins cher, au prix d'une traçabilité moindre.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur déclarée | Preuve |\n|---|---|---|\n| Créatine monohydrate Creapure (fabriquée en Allemagne par Alzchem) | « Créatine monohydrate Creapure… et c'est tout » ; 3 g/j conseillés | [A] force et masse maigre **avec musculation**, y compris chez l'âgé (voir [créatine](fiche:creatine)) |\n\nComposition, origine et dose relevées sur le site de la marque (nutrimuscle.com, consulté le 2026-10-03). Conditionnement en Belgique selon la même page. Aucune analyse indépendante publiée de ce produit précis trouvée [?].",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "- Complément alimentaire. En France, la créatine est plafonnée à 3 000 mg par portion journalière recommandée (arrêté du 26 septembre 2016, annexe I, Légifrance, consulté le 2026-10-03) : la dose de 3 g/j de l'étiquette correspond à ce plafond, et à la dose des allégations UE (règlement (UE) n° 432/2012 et règlement d'exécution (UE) 2017/672, EUR-Lex, consultés le 2026-10-03).\n- Antidopage : la marque affiche un contrôle « Sport Protect » (nutrimuscle.com, consulté le 2026-10-03). Ce n'est pas la norme française NF V94-001 / NF EN 17444 (AFNOR) ; la page produit d'un revendeur ne mentionne aucune certification (health-center.fr, consulté le 2026-10-03). Pour un sportif contrôlé, vérifier le certificat du lot.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque dit | Les études |\n|---|---|\n| « Force et puissance » | [A] gains de force petits mais réels avec musculation (taille d'effet ~0,24 jambes, ~0,32 bras) (PMID 25946994, 27328852) |\n| « Performance, énergie et endurance » | Performance sur efforts brefs et intenses : allégation UE autorisée à 3 g/j (règlement 432/2012). **Endurance : allégation refusée par l'UE** (registre UE des allégations, consulté le 2026-10-03) [M] |\n| « Résistance à la fatigue » | [B, ECR n=20] meilleure résistance à la fatigue sur des séries répétées avec ~2,3 g/j pendant 6 semaines (PMID 20591625) |\n| Pureté Creapure | [?] aucune étude publiée comparant la pureté de la créatine Creapure aux génériques trouvée dans PubMed |",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Selon l'étiquette : 3 g/j, à répartir aux repas (nutrimuscle.com, consulté le 2026-10-03). Une prise de 10 g en une fois donne plus de diarrhées que 2 × 5 g [B, ECR n=59] (PMID 18373286). Les essais positifs chez le sujet âgé utilisent souvent ≥ 5 g/j ou 0,1 g/kg/j avec musculation (voir [créatine](fiche:creatine)) : toute dose au-delà de l'étiquette est à discuter avec un médecin.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- **Ce produit** : 150 g à 16,95 € (113 €/kg) sur nutrimuscle.com ; 350 g à 34,95 € (100 €/kg) chez health-center.fr (consultés le 2026-10-03 ; plusieurs formats en rupture chez la marque). À 3 g/j (90 g/mois) : **9 à 10 €/mois**.\n- **Autre Creapure** : Nutri&Co, 300 g à 29,90 €, 3,4 g par dosette, liste de Cologne et norme NF EN 17444 déclarées (nutriandco.com, consulté le 2026-10-03) : environ 10 €/mois, avec une certification antidopage plus lisible.\n- **Générique moins cher** : Domyos (Decathlon) créatine monohydrate neutre 500 g, prix relevé à 10 € dans les résultats de recherche Decathlon, page produit inaccessible (erreur 403) le 2026-10-03 ; 3 g de créatine par dose de 3,5 g : environ **2 €/mois**. Même molécule, donc même niveau de preuve [A] ; origine de la matière première et certification antidopage non vérifiées.\n- Conclusion : pour un usage personnel non compétitif, le générique en poudre suffit ; pour un sportif contrôlé, un produit à certification NF EN 17444 ou liste de Cologne vaut le surcoût.",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non relevés de façon systématique [?]. La créatine monohydrate est une poudre sans goût qui se dissout mal dans l'eau froide (propriété connue du monohydrate, non sourcée ici [?]).",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 25946994 — Lanhers C et al., *Sports Med* 2015. doi:10.1007/s40279-015-0337-4\n- PMID 27328852 — Lanhers C et al., *Sports Med* 2017. doi:10.1007/s40279-016-0571-4\n- PMID 20591625 — Rawson ES et al., *Nutrition* 2011. doi:10.1016/j.nut.2010.04.001\n- PMID 18373286 — Ostojic SM, Ahmetovic Z, *Res Sports Med* 2008. doi:10.1080/15438620701693280\n- Nutrimuscle, page « Créatine (Creapure®) en poudre » (composition, dose, prix, Sport Protect), consultée le 2026-10-03.\n- Health-center.fr, page « Créatine en poudre (Creapure) Nutrimuscle » (prix), consultée le 2026-10-03.\n- Nutri&Co, page « Créatine monohydrate Creapure » (prix, certifications), consultée le 2026-10-03.\n- Decathlon, résultats de recherche « Créatine monohydrate neutre 500 g Domyos » (prix), consultés le 2026-10-03.\n- Arrêté du 26 septembre 2016, Légifrance ; règlements (UE) n° 432/2012 et 2017/672, EUR-Lex ; consultés le 2026-10-03.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Créatine (Creapure) en poudre — Nutrimuscle",
+ "type": "produit",
+ "unite": ""
+}

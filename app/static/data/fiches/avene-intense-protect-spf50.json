@@ -1,0 +1,66 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "cosmetique",
+ "id": "avene-intense-protect-spf50",
+ "intro": "",
+ "liens": [
+  "bioderma-photoderm-aquafluide-spf50",
+  "la-roche-posay-anthelios-uvmune-400-fluide",
+  "protection-solaire"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "23732711",
+  "17493070",
+  "24313385"
+ ],
+ "preuve_globale": "B",
+ "resume": "Écran SPF 50+ visage et corps le moins cher au millilitre des trois comparés, sans octocrylène : le choix rationnel pour une application quotidienne généreuse.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Écran SPF 50+ visage et corps le moins cher au millilitre des trois comparés, sans octocrylène : le choix rationnel pour une application quotidienne généreuse.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- Filtres (INCI, concentrations non déclarées) : diethylamino hydroxybenzoyl hexyl benzoate, ethylhexyl triazone, phenylene bis-diphenyltriazine (TriAsorB), bis-ethylhexyloxyphenol methoxyphenyl triazine. Pas d'octocrylène, pas de benzophénone-3, pas de parfum dans la liste INCI relevée (site de pharmacie, consulté le 2026-10-03).\n- Écran large spectre quotidien : vieillissement cutané −24 % sur 4,5 ans [B, ECR unique n=903] ; voir [protection solaire](fiche:protection-solaire).\n- Contient un colorant (Red 33, CI 17200) et des tocophérols.",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Cosmétique (règlement (CE) n° 1223/2009) ; filtres de l'annexe VI. SPF 50+ = catégorie « très haute protection », SPF mesuré ≥ 60 (Recommandation 2006/647/CE, EUR-Lex, consulté le 2026-10-03).",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- « Protège des UVA, UVB et de la lumière bleue visible de haute énergie » : UVA/UVB cohérent avec le SPF 50+ ; le bénéfice clinique de la protection contre la lumière visible n'est documenté qu'avec les écrans teintés à l'oxyde de fer dans le mélasma [B] ; pour ce produit non teinté, aucune étude clinique [M].\n- « Très résistant à l'eau » : allégation du fabricant (test non publié) [M].",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Le matin sur visage et cou, en quantité généreuse (le SPF suppose 2 mg/cm² ; à 0,5 mg/cm² la protection s'effondre [B]) ; renouveler en cas d'exposition prolongée.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix relevés (150 ml) : 12,89 € (Pharmacie City Pharma, prix promotionnel) à 18,00 € (Pharmacie Cayeux) ; autres pharmacies 14,90–15,69 € (relevés du 2026-10-03).\n- À environ 30 ml par mois pour le visage et le cou (estimation personnelle, voir la fiche actif), un flacon dure environ 5 mois → 2,6 à 3,6 €/mois.\n- Plus économique au millilitre que [Anthelios UVMune 400](fiche:la-roche-posay-anthelios-uvmune-400-fluide) et [Photoderm Aquafluide](fiche:bioderma-photoderm-aquafluide-spf50), à preuve équivalente (la preuve porte sur l'écran large spectre, pas sur une marque).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non recherchés [?]. Texture « fluide » selon la marque.",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Composition et prix : [Pharmacie Cayeux](https://www.pharmacie-cayeux.fr/produit/intense-protect-spf-50-150ml), [Pharmacie City Pharma](https://pharmacie-citypharma.fr/en/avene-solaire-intense-protect-spf-50-150-ml) (consultés le 2026-10-03)\n- Preuves et réglementation : voir [protection solaire](fiche:protection-solaire) (PMID 23732711, 17493070, 24313385)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "true",
+ "statut_fr": "cosmetique",
+ "titre": "Avène Intense Protect 50+ (fluide, 150 ml)",
+ "type": "produit",
+ "unite": ""
+}

@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "depistage-cancer-poumon",
+ "intro": "",
+ "liens": [
+  "depistage-cancer-colorectal",
+  "depistage-cancer-prostate-psa",
+  "tabac-et-alcool"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "21714641",
+  "31995683",
+  "33687468",
+  "33687470",
+  "23697514",
+  "24322569"
+ ],
+ "preuve_globale": "A",
+ "resume": "Pas de dépistage organisé en population en France. La HAS (1er février 2022) recommande un programme pilote porté par l'INCa et des études en vie réelle avant tout programme à large échelle (consultée le 2026-10-15). Avancement du pilote : non retrouvé [?].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Pas de dépistage organisé en population en France. La HAS (1er février 2022) recommande un programme pilote porté par l'INCa et des études en vie réelle avant tout programme à large échelle (consultée le 2026-10-15). Avancement du pilote : non retrouvé [?].\n- Scanner thoracique à faible dose (LDCT) chez des fumeurs à haut risque : mortalité par cancer du poumon réduite, NLST rapport de taux d'incidence 0,85 (IC 95 % 0,75-0,96) avec 323 sujets à dépister pour éviter 1 décès sur 6,5 ans ; NELSON 0,75 (0,61-0,90), 130 à dépister sur 10 ans (synthèse USPSTF) [A].\n- Mortalité toutes causes : NLST -6,7 % (IC 1,2-13,6) en 2011 [B, ECR unique n=53 454] ; HAS : aucun impact démontré sur la mortalité globale dans les revues qu'elle a analysées.\n- Faux positifs fréquents : 96,4 % des tests positifs de NLST (3 tours) étaient faux positifs [B, ECR unique n=53 454] ; surdiagnostic estimé à 18,5 % des cancers dépistés (5,4-30,6) [B].\n- Le dépistage ne remplace pas l'arrêt du tabac.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Le cancer du poumon est souvent diagnostiqué à un stade avancé : survie à 5 ans de 20 % globalement et de 4 % au stade IV (HAS, 2022), avec 40 à 55 % des cas diagnostiqués au stade IV. Le scanner sans injection à faible dose détecte des nodules avant les symptômes. La plupart des nodules sont bénins, d'où les faux positifs.",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "Stratégies de dépistage.\n\n| Méthode | Ce qui est prouvé | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| LDCT annuel, 3 tours (NLST) | Mortalité par cancer du poumon -20,0 % (6,8-26,7), toutes causes -6,7 % (1,2-13,6) vs radiographie (PMID 21714641) | [B, ECR unique n=53 454] | Pas de programme organisé ; pilote recommandé par la HAS | non applicable |\n| LDCT volumique (NELSON), 4 tours | Hommes : taux de mortalité par cancer du poumon 0,76 (0,61-0,94) à 10 ans ; femmes 0,67 (0,38-1,14), non significatif (PMID 31995683) | [B, ECR unique n=15 789] | idem | non applicable |\n| Ensemble des essais LDCT | 7 ECR, 86 486 personnes ; non poolés par les auteurs de la revue (PMID 33687468) | [A] | idem | non applicable |\n| Radiographie thoracique | Comparateur de NLST, pas de bénéfice démontré ici | [?] | Non recommandée ici | non applicable |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Non applicable : décision avec un médecin ; en France hors programme, les modalités relèvent d'un cadre expérimental.\n- **Critères USPSTF 2021 (États-Unis, pour comparaison)** : 50-80 ans, au moins 20 paquets-années, fumeur actuel ou arrêt depuis moins de 15 ans ; dépistage annuel par LDCT ; arrêt quand on n'a pas fumé depuis 15 ans ou si l'espérance de vie ou la possibilité de chirurgie est limitée (PMID 33687470). Ce sont des critères américains, pas français.\n- **Critères des essais** : NLST 55-74 ans et au moins 30 paquets-années (PMID 23697514) ; NELSON 50-74 ans (PMID 31995683).\n- **Critères français** : la HAS demande de clarifier la population cible et la quantification du tabagisme avant tout programme (HAS, 2022) ; critères du pilote : non retrouvés [?].\n- **Non-fumeur ou fumeur léger** : aucun essai retenu ici, dépistage non justifié par les données consultées [?].",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "### Bénéfice\n- NLST (n = 53 454, 3 scanners annuels contre radiographie) : 247 contre 309 décès par cancer du poumon pour 100 000 personnes-années ; mortalité par cancer du poumon -20,0 % (6,8-26,7) ; toutes causes -6,7 % (1,2-13,6) ; incidence rapport 1,13 (1,03-1,23) (PMID 21714641).\n- NELSON (13 195 hommes ; 2 594 femmes en sous-groupe) : mortalité 2,50 contre 3,30 pour 1 000 personnes-années ; rapport cumulé à 10 ans 0,76 (0,61-0,94) ; incidence 5,58 contre 4,91 (PMID 31995683).\n- Synthèse USPSTF 2021 : nombre à dépister pour éviter un décès : 323 (NLST, 6,5 ans) ; 130 (NELSON, 10 ans). Les participants des essais étaient plus susceptibles de bénéficier que la population éligible aux États-Unis (PMID 33687468) [A].\n- HAS 2022 : environ 5 vies sauvées pour 1 000 personnes dépistées, avec hétérogénéité élevée des études.\n\n### Harms\n- Faux positifs : premier tour NLST, 27,3 % de tests positifs avec LDCT contre 9,2 % avec radiographie ; sensibilité 93,8 %, spécificité 73,4 % ; 4,2 % ont eu une chirurgie (PMID 23697514) [B].\n- Sur 3 tours, 96,4 % des tests LDCT positifs étaient faux positifs (PMID 21714641) [B].\n- Procédures invasives : pour 1 000 personnes dépistées dans NLST, 17 procédures invasives après faux positif (nombre à nuire 59) ; moins d'une personne avec complication majeure (PMID 33687468) [B]. HAS : 0,1 à 1,5 % des inclus avec bilan invasif après faux positif, 0,1 à 1,3 % de complications.\n- Surdiagnostic : 18,5 % (5,4-30,6) des cancers détectés par LDCT dans NLST ; 22,5 % pour le cancer non à petites cellules ; 78,9 % pour les cancers bronchioloalvéolaires ; 1,38 cas surdiagnostiqué par décès évité (320 à dépister) (PMID 24322569) [B]. L'USPSTF note des estimations de 0 à 67 % selon l'étude (PMID 33687468).\n- Découvertes fortuites : 4,4 % à 40,7 % des personnes dépistées (PMID 33687468) [B]. Irradiation : cancers radio-induits rares (même source) ; chiffre non relevé [?].",
+   "titre": "Ce que montrent les essais : bénéfice absolu, limites, risques"
+  },
+  {
+   "markdown": "- Croire que le scanner permet de fumer sans conséquence : le bénéfice absolu est de quelques vies pour 1 000 dépistés, bien en dessous de celui de l'arrêt du tabac (non chiffré ici, voir [tabac et alcool](fiche:tabac-et-alcool)).\n- Se faire dépister sans critères de haut risque : NLST et NELSON incluent uniquement des fumeurs ou ex-fumeurs importants.\n- Réaliser un scanner « checking » isolé sans suivi protocolisé : les bénéfices viennent de programmes avec protocole de gestion des nodules.\n- Ne pas consulter devant des symptômes (toux persistante, hémoptysie) en pensant avoir été dépisté.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Un scanner annuel pour tous » : aucun essai chez les non-fumeurs retenu ici [?].\n- « Le dépistage prouve qu'on évite la mort » : mortalité toutes causes non démontrée par la HAS, -6,7 % dans NLST seul (PMID 21714641) [B].\n- « Un nodule = cancer » : 96,4 % des tests positifs étaient faux (NLST) (PMID 21714641) [B].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- NELSON ne montre pas de bénéfice significatif chez les 2 594 femmes à 10 ans (0,67, 0,38-1,14), l'échantillon étant petit (PMID 31995683) [B].\n- Plus de 40 % des cancers du poumon sont diagnostiqués au stade IV en France (40-55 %, HAS 2022).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Toux persistante ou modifiée, crachats sanglants, essoufflement inexpliqué, perte de poids, douleur thoracique persistante : consultation pour imagerie diagnostique, pas dépistage. Fumeur actuel ou ancien avec antécédent important : parler du dépistage et du sevrage tabagique avec un médecin ou un pneumologue.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- Pas de programme national organisé. HAS, communiqué du 1er février 2022 : programme pilote recommandé, conditions de déploiement à documenter (consultée le 2026-10-15). Recommandation précédente de 2016 : conditions non réunies (même source).\n- Remboursement du scanner de dépistage hors cadre expérimental : non vérifié [?].\n- Pas de statut AMA applicable.",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- PMID 21714641 — Aberle DR et al., *N Engl J Med* 2011 (NLST). doi:10.1056/NEJMoa1102873\n- PMID 23697514 — Church TR et al., *N Engl J Med* 2013. doi:10.1056/NEJMoa1209120\n- PMID 31995683 — de Koning HJ et al., *N Engl J Med* 2020 (NELSON). doi:10.1056/NEJMoa1911793\n- PMID 33687468 — Jonas DE et al., *JAMA* 2021 (revue pour l'USPSTF). doi:10.1001/jama.2021.0377\n- PMID 33687470 — Krist AH et al., *JAMA* 2021 (recommandation USPSTF). doi:10.1001/jama.2021.1117\n- PMID 24322569 — Patz EF Jr et al., *JAMA Intern Med* 2014. doi:10.1001/jamainternmed.2013.12738\n- Web, consulté le 2026-10-15 : HAS, communiqué du 1er février 2022 (dépistage du cancer du poumon).\n\nVoir aussi : [tabac et alcool](fiche:tabac-et-alcool), [dépistage colorectal](fiche:depistage-cancer-colorectal), [dépistage de la prostate](fiche:depistage-cancer-prostate-psa).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Dépistage du cancer du poumon (fumeurs)",
+ "type": "condition",
+ "unite": ""
+}

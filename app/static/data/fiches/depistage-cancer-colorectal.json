@@ -1,0 +1,98 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-08",
+ "famille": "",
+ "id": "depistage-cancer-colorectal",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "bilans-biologiques",
+  "exercice-physique"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 15,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "17253456",
+  "24085634",
+  "35665911",
+  "42254696",
+  "36214590",
+  "42102826",
+  "38477986",
+  "38477985",
+  "34176681",
+  "40278966",
+  "40492318",
+  "40971678",
+  "39878169",
+  "40900780",
+  "38833693"
+ ],
+ "preuve_globale": "A",
+ "resume": "Programme organisé français : test immunologique à domicile (FIT) tous les 2 ans, 50-74 ans, coloscopie si positif. Source officielle (INCa, ameli, HAS) non retrouvée par l'outil de consultation : ces éléments viennent de sources secondaires, voir Statut réglementaire.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Programme organisé français : test immunologique à domicile (FIT) tous les 2 ans, 50-74 ans, coloscopie si positif. Source officielle (INCa, ameli, HAS) non retrouvée par l'outil de consultation : ces éléments viennent de sources secondaires, voir Statut réglementaire.\n- Le test de recherche de sang dans les selles réduit la mortalité par cancer colorectal : RR 0,84 (IC 95 % 0,78-0,90) pour le dépistage répété par test au gaïac (Cochrane, 4 ECR) [A] ; la rectosigmoïdoscopie : RR 0,72 (0,65-0,79) [A].\n- Le FIT détecte mieux les cancers que le gaïac (Cochrane, sensibilité 76 % contre 39 % en étude à référence « tous coloscopés ») [A]. Aucun ECR de mortalité du FIT lui-même n'a été retrouvé ici [?].\n- Colonoscopie : NordICC (n = 84 585) réduit l'incidence (RR 0,82 en intention d'inviter) mais pas significativement la mortalité à 10 ans (RR 0,90, IC 0,64-1,16), avec seulement 42 % de participation [B, ECR unique n=84 585].\n- Les tests ADN fécaux et sanguins détectent plus de cancers que le FIT ou presque, mais très mal les lésions précancéreuses (sang : 13,2 %) et sans ECR de mortalité. Les tests « multi-cancers » (Galleri) n'ont aucune preuve de bénéfice de mortalité retrouvée ici [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Le cancer colorectal naît le plus souvent d'un adénome ou d'une lésion festonnée qui met des années à évoluer. Deux leviers : détecter un cancer à un stade précoce (FIT, gaïac, endoscopie) et retirer des polypes avant le cancer (endoscopie avec exérèse, d'où un effet sur l'incidence). Un FIT ne voit que le saignement : il rate les polypes qui ne saignent pas. Les tests ADN et sanguins cherchent des fragments d'ADN tumoral : plus sensibles aux cancers que le sang occulte, peu sensibles aux adénomes avancés.",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "Ce n'est pas un traitement : tableau des méthodes de dépistage.\n\n| Méthode | Ce qui est prouvé | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Test gaïac (Hemoccult), répété | Mortalité CCR : RR 0,84 (0,78-0,90), 4 ECR (PMID 17253456) ; RR 0,86 (0,80-0,92) (PMID 24085634) | [A] | Remplacé par le FIT dans le programme (voir ci-dessous) | non applicable |\n| FIT (immunologique) | Meilleure détection du CCR que le gaïac (PMID 35665911). Mortalité : non retrouvée en ECR [?] | [A] pour la précision diagnostique | Programme organisé, test à domicile | non applicable |\n| Rectosigmoïdoscopie | Mortalité CCR : RR 0,72 (0,65-0,79), 5 ECR (PMID 24085634) ; incidence RR 0,78 (0,74-0,83) en intention d'inviter (PMID 42254696) | [A] | Non proposée dans le programme français (non vérifié) | non applicable |\n| Colonoscopie | NordICC : incidence RR 0,82 (0,70-0,93), mortalité RR 0,90 (0,64-1,16) à 10 ans (PMID 36214590) ; incidence RR 0,81 (0,71-0,90) à 13 ans (PMID 42102826) | [B, ECR unique n=84 585] | Acte de seconde ligne après FIT positif ou risque élevé | non applicable |\n| Test ADN fécal multicible | Sensibilité CCR 93,9 %, lésions précancéreuses avancées 43,4 %, spécificité 90,6 % contre 94,8 % pour le FIT (PMID 38477986) | [B] | Non intégré au programme français (non vérifié) | non applicable |\n| Test sanguin cfDNA | Sensibilité CCR 83,1 %, lésions précancéreuses avancées 13,2 %, spécificité 89,6 % (PMID 38477985) | [B] | Non intégré au programme français (non vérifié) | non applicable |\n| Test « multi-cancers » (Galleri) | Pas d'ECR de mortalité retrouvé ; performance sur cohortes cas-témoins (PMID 34176681) | [B] pour la performance, [?] pour le bénéfice | Non autorisé comme dépistage de population (non vérifié) | non applicable |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Non applicable : le dépistage se décide avec un médecin. Repères généraux :\n- **Risque moyen** (50-74 ans, sans symptôme ni antécédent) : FIT tous les 2 ans, programme organisé. Source officielle non consultée, voir plus bas.\n- **Symptômes** (sang rouge dans les selles, anémie, trouble du transit persistant, perte de poids) : pas de FIT de dépistage, consultation et exploration diagnostique.\n- **Risque familial ou antécédent personnel** (polypes, maladie inflammatoire, parent au premier degré atteint, syndrome de Lynch) : suivi coloscopique adapté décidé par gastro-entérologue ou médecin ; les âges et intervalles précis relèvent des recommandations HAS/INCa, non relues ici [?].",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "### Test de sang dans les selles\n- Cochrane 2007 (Hewitson) : 4 ECR, RR 0,84 (0,78-0,90) en intention de dépister ; 0,75 (0,66-0,84) ajusté pour la participation (PMID 17253456) [A]. La même revue note comme risques : faux positifs, complications de coloscopie, surdiagnostic.\n- Cochrane 2013 (Holme, réseau) : gaïac RR 0,86 (0,80-0,92), rectosigmoïdoscopie 0,72 (0,65-0,79), preuve de haute qualité ; comparaison indirecte entre les deux 0,85 (0,72-1,01), preuve de faible qualité. Complications majeures : 0,08 % après rectosigmoïdoscopie et coloscopie de suivi (PMID 24085634) [A].\n- Cochrane 2022 (Grobbee) : le FIT détecte mieux que le gaïac. Sensibilité CCR (études « tous coloscopés ») : gaïac 39 %, FIT 76 % (seuil 10 µg Hb/g) ; en étude avec suivi des négatifs, gaïac 59 % contre FIT 89 % (PMID 35665911) [A]. Sensibilité pour les adénomes avancés : 33 % au meilleur seuil FIT : un FIT négatif n'exclut pas un polype.\n\n### Rectosigmoïdoscopie\nMéta-analyse en réseau 2026 (PMID 42254696) : en intention d'inviter, la rectosigmoïdoscopie réduit l'incidence (RR 0,78) et la mortalité CCR (0,74, 0,67-0,83). Aucune stratégie ne réduit la mortalité toutes causes [A, certitude à lire avec réserve : réseau creux, analyses per-protocole « très faible certitude » selon les auteurs].\n\n### Colonoscopie : NordICC et ses limites\n- Résultat à 10 ans (PMID 36214590) : risque de CCR 0,98 % (invités) contre 1,20 % (non invités), RR 0,82 (0,70-0,93) ; mortalité CCR 0,28 % contre 0,31 %, RR 0,90 (0,64-1,16) ; mortalité toutes causes 11,03 % contre 11,04 %. Nombre à inviter pour éviter un cas de CCR : 455 (270-1429). Dans l'abstract : 15 saignements majeurs après polypectomie, aucune perforation ni décès dans les 30 jours [B, ECR unique n=84 585].\n- Limites : seulement 42,0 % des invités ont été coloscopés (analyse en intention d'inviter, effet dilué) ; suivi de 10 ans, court pour une mortalité qui apparaît plus tard. En analyse per-protocole, incidence RR 0,55 (0,33-0,81) à 13 ans (PMID 42102826) [B] ; en variable instrumentale à 10 ans, RR de CCR 0,59-0,65 et de mortalité 0,71-0,79 avec IC très larges incluant 1 (PMID 40278966) [B]. Ces estimations dépendent d'hypothèses et ne remplacent pas l'ECR.\n- À 13 ans, la réduction d'incidence est de 0,81 (0,71-0,90) ; elle est surtout distale (RR 0,79) et non significative au côlon proximal (0,91, 0,71-1,09) ; moins marquée chez les femmes (RR 0,87, 0,70-1,02) (PMID 42102826) [B, ECR unique n=84 583]. Le chiffre de mortalité à 13 ans n'a pas été relu (résumé tronqué dans l'outil) [?].\n- Lecture critique : le suivi trop court expliquerait en partie l'absence d'effet sur la mortalité (PMID 40492318, comparaison avec NORCCAP) ; une analyse de courbes juge que NordICC ressemble à deux ECR de rectosigmoïdoscopie à 10 ans (non significatif sur la mortalité) (PMID 40971678). Ce sont des commentaires méthodologiques, pas de nouveaux essais.\n\n### Risques de l'endoscopie\nMéta-analyse des plus de 65 ans (PMID 39878169) : coloscopie de dépistage, perforation 8,5 pour 10 000 (IC 7,1-10,2) et saignement 27 pour 10 000 (IC 9,0-81,0, forte hétérogénéité) ; risque de perforation multiplié par 2,55 après 80 ans [A, hétérogénéité très élevée sur le saignement]. À mettre en balance avec la fréquence du CCR, mais le bénéfice absolu au niveau individuel est modeste (NNI 455 pour un cas évité dans NordICC).",
+   "titre": "Ce que montrent les essais : bénéfice absolu, limites, risques"
+  },
+  {
+   "markdown": "- France : participation de 30,7 % sur 2024-2025 et 33,1 % sur l'année civile 2025, citée par la presse d'après Santé publique France (bulletin du 11 mars 2026) ; cible européenne acceptable 45 %, souhaitable 65 %. Bulletin SpF lui-même non lu ; chiffres à vérifier (consultation web le 2026-10-08).\n- Parmi les tests positifs (3,4 %), seule une minorité passe la coloscopie dans le mois recommandé (chiffre secondaire, non vérifié).\n- Âge de début : 50 ans dans le programme ; d'autres pays étudient 45 ans (hausse du cancer du sujet jeune), pas de recommandation française retrouvée [?]. Fin : 74 ans ; au-delà, décision individuelle selon l'espérance de vie [?].\n- Un test de dépistage ne remplace pas la consultation devant un symptôme.",
+   "titre": "Participation, âge de début et de fin"
+  },
+  {
+   "markdown": "### ADN fécal\nÉtude BLUE-C (n = 20 176, financée par Exact Sciences, plusieurs auteurs employés par l'entreprise) : test de nouvelle génération, sensibilité CCR 93,9 % (87,1-97,7), lésions précancéreuses avancées 43,4 %, spécificité pour la néoplasie avancée 90,6 % ; FIT comparé : 67,3 %, 23,3 %, 94,8 % (PMID 38477986) [B]. Moins de faux négatifs, plus de faux positifs donc plus de coloscopies, et aucune donnée de mortalité.\n\n### Test sanguin cfDNA (étude ECLIPSE, test Shield)\nPMID 38477985 (NEJM 2024, n = 7 861 évaluables) : sensibilité CCR 83,1 % (72,2-90,3), stades I-III 87,5 %, lésions précancéreuses avancées 13,2 %, spécificité pour la néoplasie avancée 89,6 % [B]. Conflits d'intérêts : non relus dans les affiliations obtenues ; lien du test avec le fabricant (Guardant) non relu ici. Limite majeure : un test sanguin ne prévient pas le cancer en retirant des polypes (13,2 % de détection des lésions avancées) ; la valeur dépend de la participation que gagnerait un test sans selles, non mesurée dans cette étude [?].\n\n### Dépistage « multi-cancers » (Galleri, GRAIL)\n- Validation CCGA (PMID 34176681, auteurs dont plusieurs employés de GRAIL, étude cas-témoins) : spécificité 99,5 %, sensibilité globale 51,5 %, mais 16,8 % pour le stade I et 40,4 % pour le stade II [B]. Un test qui rate la plupart des stades I n'est pas un test de détection précoce.\n- Étude PATHFINDER : seul un compte rendu monocentrique retrouvé (PMID 40900780 : 27 signaux positifs sur 1 735 participants, 12 cancers confirmés, VPP 44 % dont 4 récidives) [B, série de cas] ; PATHFINDER 2, NHS-Galleri : résultats non retrouvés dans PubMed au moment de la recherche [?].\n- Aucun ECR montrant une baisse de mortalité retrouvé [?]. Cf. PMID 38833693 : protocole d'analyse du marketing de ces tests sur les réseaux sociaux, qui cite des préoccupations de surdiagnostic.",
+   "titre": "Tests ADN fécaux, tests sanguins, « multi-cancers »"
+  },
+  {
+   "markdown": "- Se faire une coloscopie « de confort » sans indication : NordICC ne montre pas de bénéfice de mortalité à 10 ans, et l'acte comporte des risques (voir plus haut).\n- Ne pas faire le FIT par peur de la coloscopie, ou ne pas aller à la coloscopie après un FIT positif.\n- Remplacer le FIT par un test sanguin : moins bon pour les polypes et sans preuve de mortalité.\n- Ignorer des symptômes sous prétexte d'un FIT négatif récent.\n- Se fier à un test « multi-cancers » comme à un dépistage organisé.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Un test sanguin remplace la coloscopie » : il détecte 13,2 % des lésions précancéreuses avancées (PMID 38477985) [B] ; la coloscopie, elle, les retire.\n- « Test ADN de selles = FIT amélioré sans inconvénient » : plus de faux positifs (spécificité 90,6 % contre 94,8 %) et étude financée par le fabricant (PMID 38477986) [B].\n- « Un seul test sanguin pour 50 cancers » : sensibilité de 16,8 % au stade I (PMID 34176681) [B] ; bénéfice de mortalité non démontré [?].\n- « NordICC prouve que la coloscopie est inutile » : non ; l'incidence baisse et le suivi est court (PMID 40492318, 40278966) [B].\n- « Le dépistage multi-cancers est déjà recommandé » : recommandation HAS non retrouvée [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Le seuil du FIT règle l'équilibre sensibilité/spécificité : au seuil 10 µg Hb/g, le FIT rate 24 cancers sur 100, au seuil 20 µg Hb/g, 35 sur 100 (PMID 35665911, études « tous coloscopés ») [A].\n- Aucune stratégie de dépistage par ECR n'a réduit la mortalité toutes causes dans la méta-analyse en réseau de 2026 (PMID 42254696) [A].",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Symptômes (sang dans les selles, anémie inexpliquée, modification persistante du transit, douleurs, amaigrissement) ; parent au premier degré atteint, surtout avant 60 ans ; antécédent de polypes ou de maladie inflammatoire de l'intestin ; test FIT positif (coloscopie rapidement).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "Faits à confirmer sur sources officielles, non ouvertes par l'outil de consultation (cancer.gouv.fr hors d'atteinte, ameli en erreur 404, page Santé publique France sans chiffre) :\n- Programme organisé : test immunologique tous les 2 ans, 50-74 ans, risque moyen, test à domicile (recherche web du 2026-10-08, sources secondaires ARS Grand Est, Santé publique France d'après presse) ; prise en charge à 100 % : non vérifiée.\n- HAS : avis favorable aux tests immunologiques dès 2008 d'après la presse (allodocteurs.fr), avis récent sur ADN fécal ou test sanguin non retrouvé [?].\n- ADN fécal, test sanguin colorectal, tests multi-cancers : statut ANSM/DGS/marquage CE non consulté [?].\n- Pas de statut AMA applicable.",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- PMID 17253456 — Hewitson P et al., *Cochrane Database Syst Rev* 2007, CD001216. doi:10.1002/14651858.CD001216.pub2\n- PMID 24085634 — Holme Ø et al., *Cochrane Database Syst Rev* 2013, CD009259. doi:10.1002/14651858.CD009259.pub2\n- PMID 35665911 — Grobbee EJ et al., *Cochrane Database Syst Rev* 2022, CD009276. doi:10.1002/14651858.CD009276.pub2\n- PMID 36214590 — Bretthauer M et al., *N Engl J Med* 2022 (NordICC). doi:10.1056/NEJMoa2208375\n- PMID 42102826 — NordICC, suivi à 13 ans, *Lancet* 2026. doi:10.1016/S0140-6736(26)00508-8 (résumé tronqué, mortalité non relue)\n- PMID 42254696 — Méta-analyse en réseau, *Ther Adv Gastroenterol* 2026. doi:10.1177/17562848261454186\n- PMID 40278966 — Eur J Epidemiol 2025, analyses à variable instrumentale (NordICC). doi:10.1007/s10654-025-01209-w\n- PMID 40492318 — Aliment Pharmacol Ther 2025. doi:10.1111/apt.70231\n- PMID 40971678 — J Natl Cancer Inst 2025. doi:10.1093/jnci/djaf269\n- PMID 39878169 — Lu Q et al., *Int J Surg* 2025. doi:10.1097/JS9.0000000000002282\n- PMID 38477986 — Imperiale TF et al., *N Engl J Med* 2024 (BLUE-C, Exact Sciences). doi:10.1056/NEJMoa2310336\n- PMID 38477985 — *N Engl J Med* 2024 (cfDNA, ECLIPSE). doi:10.1056/NEJMoa2304714\n- PMID 34176681 — Klein EA et al., *Ann Oncol* 2021 (CCGA, GRAIL). doi:10.1016/j.annonc.2021.05.806\n- PMID 40900780 — Front Oncol 2025 (série monocentrique PATHFINDER). doi:10.3389/fonc.2025.1637999\n- PMID 38833693 — Nickel B et al., *JMIR Res Protoc* 2024 (protocole). doi:10.2196/56899\n- Web, consulté le 2026-10-08 (sources secondaires) : ARS Grand Est (programme), Santé publique France d'après presse (participation 2024-2025), allodocteurs.fr (HAS 2008).\n\nVoir aussi : [bilans biologiques de prévention](fiche:bilans-biologiques), [alimentation](fiche:alimentation), [exercice physique](fiche:exercice-physique).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Dépistage du cancer colorectal",
+ "type": "condition",
+ "unite": ""
+}

@@ -1,0 +1,84 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-08",
+ "famille": "comportement",
+ "id": "entrainement-en-resistance",
+ "intro": "Complément ciblé de [exercice-physique.md](fiche:exercice-physique). Les gains de force et de masse musculaire sont démontrés par essais randomisés ; le lien avec la mortalité ne vient que de cohortes. Les paramètres fins (volume, proximité de l'échec) reposent sur des méta-régressions exploratoires, surtout chez des adultes jeunes.",
+ "liens": [
+  "exercice-physique",
+  "hiit-et-zone-5-vo2max",
+  "hypertrophie-volume-frequence-et-proximite-de-lechec",
+  "prise-de-masse-surplus-calorique-et-recomposition",
+  "proteines",
+  "sarcopenie",
+  "sommeil-recuperation-et-croissance-musculaire"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 13,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "41343037",
+  "38970765",
+  "25530577",
+  "42570706",
+  "35228201",
+  "29043659",
+  "42625626",
+  "41951916",
+  "35234025",
+  "38123165",
+  "32017951",
+  "40289323",
+  "42090218"
+ ],
+ "preuve_globale": "A",
+ "resume": "Volume : plus de séries hebdomadaires = plus de force et d'hypertrophie, avec des rendements décroissants, nettement plus marqués pour la force (67 études, 2058 participants, âge moyen ~25 ans) [A, méta-régression, adultes jeunes] (PMID 41343037).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Volume** : plus de séries hebdomadaires = plus de force et d'hypertrophie, avec des rendements décroissants, nettement plus marqués pour la force (67 études, 2058 participants, âge moyen ~25 ans) [A, méta-régression, adultes jeunes] (PMID 41343037).\n- **Fréquence** : effet sur la force identifiable (rendements décroissants) ; sur l'hypertrophie, compatible avec un effet négligeable à volume égal [A, méta-régression] (PMID 41343037).\n- **Proximité de l'échec** : la force progresse de façon similaire sur une large plage de répétitions en réserve ; l'hypertrophie augmente quand les séries se rapprochent de l'échec [A, méta-régression exploratoire, RIR estimé a posteriori] (PMID 38970765).\n- **Charges légères** : à ≤ 60 % 1RM vs ≥ 65 % 1RM, tendance non significative en faveur des charges lourdes (force p = 0,09 ; hypertrophie p = 0,076) ; données surtout chez des sujets non entraînés, 8-9 études [A, faible puissance] (PMID 25530577).\n- **Sénior** : la résistance est l'intervention la plus efficace sur la force spécifique du muscle (SMD 0,65 ; 41 ECR ; I² 83,5 %) [A, forte hétérogénéité] (PMID 42570706).\n- **Mortalité** : activités de renforcement musculaire associées à 10-17 % de risque en moins (toutes causes, CVD, cancer total), maximum vers 30-60 min/semaine [B, méta-analyse de cohortes] (PMID 35228201).\n- Vitesse d'exécution / entraînement en puissance chez le sénior : aucune synthèse vérifiée retenue [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Tension mécanique répétée, activation des motoneurones et synthèse protéique musculaire ; la force gagne aussi par adaptations neurales (la force progresse à RIR variable sans gain de taille proportionnel, cf. ci-dessus). Détail moléculaire non sourcé dans cette fiche [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Tag |\n|---|---|---|\n| Volume hebdomadaire | gains croissants, rendements décroissants (plus marqués pour la force) | [A, méta-régression] (PMID 41343037) |\n| Fréquence | force : oui, rendements décroissants ; hypertrophie : possiblement négligeable | [A, méta-régression] (PMID 41343037) |\n| Proximité de l'échec | hypertrophie meilleure près de l'échec ; force peu sensible | [A, exploratoire] (PMID 38970765) |\n| Charges légères vs lourdes | tendance aux charges lourdes, non significative ; ≤ 50 % 1RM suffit à progresser chez le non-entraîné | [A, faible puissance] (PMID 25530577) |\n| Charge légère + restriction du flux sanguin vs charge lourde | force : charge lourde supérieure ; hypertrophie : effets similaires | [A] (PMID 29043659) |\n| Sénior : force spécifique du muscle | SMD 0,65 (IC 0,22-1,09), I² 83,5 % ; autres interventions non significatives | [A, hétérogène] (PMID 42570706) |\n| Mortalité | 10-17 % de risque en moins, courbe en J, plateau ~30-60 min/sem ; pas de causalité prouvée | [B, cohortes] (PMID 35228201) |\n| Sarcopénie : effet sur le diagnostic ou la mortalité | non trouvé dans les synthèses retenues | [?] |\n| Masse maigre seule et mortalité | non recherché de façon vérifiée | [?] |\n| Puissance / vitesse chez le sénior | non vérifié | [?] |\n\nLimites : l'essentiel des méta-régressions concerne des hommes jeunes (79 % d'hommes, âge moyen ~25 ans) ; extrapolation aux femmes et aux plus de 60 ans non démontrée par ces analyses.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Voir [protéines](fiche:proteines). Réseau de méta-analyses récent (36 ECR, 1552 participants) : whey +1,24 kg de masse maigre vs placebo (IC crédible 0,61-1,87), plateau estimé à 30-35 g/j, analyse décrite comme exploratoire ; sous-groupe ≥ 65 ans basé sur 9 essais, classement instable [A, qualité faible à très faible pour les protéines végétales] (PMID 42625626).",
+   "titre": "Apport protéique associé"
+  },
+  {
+   "markdown": "- « Il faut aller à l'échec à chaque série » : l'échec n'est pas nécessaire pour la force ; pour l'hypertrophie, la relation est monotone mais le RIR a été estimé par les revues, donc approximatif [A, exploratoire] (PMID 38970765).\n- « Les méthodes avancées (drop sets, etc.) sont supérieures » : une méta-analyse en réseau bayésienne note qu'il n'existe pas de preuve claire de supériorité des méthodes avancées sur les approches traditionnelles (PMID 41951916). Résumé : force et puissance similaires entre méthodes (tous les IC crédibles incluent 0) ; aucune méthode n'est constamment supérieure pour l'hypertrophie ; avantage possible du flywheel sur le saut seulement [A, hétérogène].\n- « Charge légère = même résultat » : vrai pour l'hypertrophie chez le non-entraîné, pas démontré pour la force maximale [A, faible puissance] (PMID 25530577, 29043659).\n- « Plus il y a de volume mieux c'est » : rendements décroissants documentés (PMID 41343037).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- **Pourquoi elles comptent** : chez les personnes âgées, les fibres rapides sont dénervées en premier puis réinnervées par des motoneurones lents ; le muscle se « lentifie » et perd en puissance [B] (PMID 35234025, revue ; lien avec l'exercice de longue date chez des seniors de 70 ans).\n- **Forme des fibres** : sur 265 biopsies (197 sujets, 20-97 ans), la déformation des fibres II augmente avec l'âge (R = 0,38 ; fibres I : 0,20) ; 3-4 mois de musculation lourde, 3 fois par semaine (sous-groupe n=59), réduisent la déformation des fibres II chez jeunes et âgés [B] (PMID 38123165).\n- **Hypertrophie des fibres II** : 12 semaines de musculation chez des hommes âgés (n=30) augmentent force et puissance (+10 à +36 %) ; le réentraînement après pause est associé à +29 % de surface des fibres II (p = 0,050, limite ; sous-ensemble biopsié) [B] (PMID 32017951).\n- **Limite de l'entraînement à vie** : 24 sprinters vétérans (48-85 ans) gardent leurs fibres sur 10 ans mais perdent 21 % de force et 9,5 % de puissance de saut [B] (PMID 40289323) ; une sprinteuse de 91 ans a une dénervation faible mais des fibres II petites [B, cas unique] (PMID 42090218).\n- **Comparaison directe HIIT vs musculation sur les fibres II** : aucune étude trouvée [?]. Que le HIIT ou la zone 5 recrutent ces fibres est plausible mais non vérifié [?].\n- **Conséquence** : c'est l'intervention la mieux étayée pour ces fibres ; la zone 5 ([hiit-et-zone-5-vo2max.md](fiche:hiit-et-zone-5-vo2max)) ne la remplace pas.",
+   "titre": "Fibres de type II (rapides) et vieillissement"
+  },
+  {
+   "markdown": "- Risque de blessure musculo-squelettique, plus élevé avec charge excessive ou technique médiocre ; incidence non sourcée dans cette fiche [?].\n- Manœuvre de Valsalva : pic de pression artérielle ; prudence en cas d'hypertension non contrôlée ou de pathologie cardiaque (avis médical) ; non sourcé [?].\n- Dépistage avant reprise après 60 ans ou maladie cardiovasculaire : voir la fiche [exercice-physique.md](fiche:exercice-physique).",
+   "titre": "Sécurité, contre-indications"
+  },
+  {
+   "markdown": "Douleur thoracique, syncope, essoufflement anormal, douleur articulaire persistante, urines foncées après effort intense (rhabdomyolyse), maladie cardiovasculaire ou ostéoporose connue avant de charger lourd.\n\nVoir aussi : [sarcopénie](fiche:sarcopenie) · [hypertrophie : volume, échec, charge, tempo, repos](fiche:hypertrophie-volume-frequence-et-proximite-de-lechec) · [prise de masse et surplus calorique](fiche:prise-de-masse-surplus-calorique-et-recomposition) · [sommeil et croissance musculaire](fiche:sommeil-recuperation-et-croissance-musculaire).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 35234025 : Coletti C et al., Eur J Transl Myol 2022, [DOI](https://doi.org/10.4081/ejtm.2022.10416) (revue, réinnervation).\n- PMID 38123165 : Soendenbroe C et al., J Cachexia Sarcopenia Muscle 2023, [DOI](https://doi.org/10.1002/jcsm.13405).\n- PMID 32017951 : Blocquiaux S et al., Exp Gerontol 2020, [DOI](https://doi.org/10.1016/j.exger.2020.110860).\n- PMID 40289323 : Hendrickse PW et al., J Cachexia Sarcopenia Muscle 2025, [DOI](https://doi.org/10.1002/jcsm.13822).\n- PMID 42090218 : Colosio M et al., J Appl Physiol 2026, [DOI](https://doi.org/10.1152/japplphysiol.00280.2026).\n- PMID 41343037 — Pelland J.C. et al., *Sports Med* 2025 (volume et fréquence). doi:10.1007/s40279-025-02344-w\n- PMID 38970765 — Robinson Z.P. et al., *Sports Med* 2024 (proximité de l'échec). doi:10.1007/s40279-024-02069-2\n- PMID 25530577 — Schoenfeld B.J. et al., *Eur J Sport Sci* 2014 (charges légères vs lourdes). doi:10.1080/17461391.2014.989922\n- PMID 29043659 — Lixandrão M.E. et al., *Sports Med* 2018 (BFR vs charge lourde). doi:10.1007/s40279-017-0795-y\n- PMID 42570706 — Ohta T. et al., *Ageing Res Rev* 2026 (force spécifique, sénior). doi:10.1016/j.arr.2026.103271\n- PMID 35228201 — Momma H. et al., *Br J Sports Med* 2022 (renforcement musculaire et mortalité). doi:10.1136/bjsports-2021-105061\n- PMID 42625626 — Li Y. et al., *Front Nutr* 2026 (protéines + résistance). doi:10.3389/fnut.2026.1860234\n- PMID 41951916 — Cowley N. et al., *Sports Med* 2026 (méthodes avancées, méta-analyse en réseau). doi:10.1007/s40279-026-02428-1\n\nRelecture 2026-10-08 : tous les PMID ci-dessus relus sur PubMed (titre, auteur, année, chiffres du résumé).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Entraînement en résistance (musculation)",
+ "type": "actif",
+ "unite": ""
+}

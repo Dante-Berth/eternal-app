@@ -1,0 +1,87 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "bpco-et-asthme-prevention-spirometrie",
+ "intro": "La BPCO (bronchopneumopathie chronique obstructive) est dans plus de 80 % des cas une maladie du tabac (ameli). La spirométrie la diagnostique, mais la dépister chez quelqu'un sans symptôme n'a pas montré de bénéfice. Pour l'asthme de l'adulte, la prévention primaire est mal documentée dans les sources lues ; le levier le mieux chiffré ici est le poids.",
+ "liens": [
+  "apnee-du-sommeil",
+  "depistage-cancer-poumon",
+  "infections-respiratoires-prevention",
+  "prevention-diabete-type-2",
+  "tabac-et-alcool",
+  "vaccin-pneumocoque",
+  "vaccins-respiratoires-grippe-covid-vrs",
+  "vitamine-d"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "7966841",
+  "15710956",
+  "27046365",
+  "34906131",
+  "29943802",
+  "28986128",
+  "34739861"
+ ],
+ "preuve_globale": "B",
+ "resume": "Arrêt du tabac = seul levier qui modifie l'évolution de la BPCO. Lung Health Study (5 887 fumeurs de 35-60 ans avec obstruction légère) : déclin du VEMS moindre sous programme d'arrêt [B, ECR unique n=5887] (PMID 7966841) ; mortalité toutes causes à 14,5 ans 8,83 vs 10,38 pour 1 000 personnes-ann…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Arrêt du tabac = seul levier qui modifie l'évolution de la BPCO.** Lung Health Study (5 887 fumeurs de 35-60 ans avec obstruction légère) : déclin du VEMS moindre sous programme d'arrêt [B, ECR unique n=5887] (PMID 7966841) ; mortalité toutes causes à 14,5 ans 8,83 vs 10,38 pour 1 000 personnes-années, HR 1,18 (1,02-1,37) pour les soins usuels [B, ECR unique n=5887] (PMID 15710956).\n- **Pas de dépistage spirométrique sans symptôme** : USPSTF 2016, « contre » (grade D), détecter tôt ne change pas l'évolution [B, recommandations] (PMID 27046365). Spirométrie si > 40 ans, exposé au tabac, avec toux, expectorations ou essoufflement (ameli).\n- **Excès de poids** : l'IMC génétiquement élevé est associé à plus d'asthme et de BPCO (randomisation mendélienne) [A, génétique observationnelle] (PMID 34906131). Preuve d'un effet de la perte de poids sur l'asthme de l'adulte : non retrouvée dans la recherche faite ici [?].\n- **Vaccin grippal chez le BPCO** : moins d'exacerbations (-0,37 par personne ; -0,64 à -0,11) mais 2 ECR, 180 participants, preuve de faible qualité [A, faible certitude] (PMID 29943802).\n- **Vitamine D et asthme** : -26 % d'exacerbations sévères (aIRR 0,74 ; 0,56-0,97) dans 7 essais (955 participants), sans réduction de la proportion de patients ayant ≥ 1 exacerbation [A] (PMID 28986128). Utile seulement comme adjuvant d'un asthme déjà traité ; voir [vitamine D](fiche:vitamine-d).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "BPCO : obstruction bronchique persistante due à l'exposition à des particules ou gaz irritants (tabac d'abord ; poussières ou fumées professionnelles, pollution intérieure comme le chauffage au bois ou charbon ; cannabis selon ameli). L'asthme se distingue par une obstruction réversible après bronchodilatateur (ameli : la persistance après bronchodilatateur différencie la BPCO de l'asthme). Les mécanismes cellulaires ne sont pas détaillés ici [?].",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Levier | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Arrêt du tabac (BPCO) | stoppe l'agression bronchique | VEMS : déclin plus faible [B, ECR unique n=5887] (PMID 7966841) ; mortalité HR 1,18 pour les soins usuels [B, ECR unique n=5887] (PMID 15710956) | substituts nicotiniques et médicaments : voir [tabac et alcool](fiche:tabac-et-alcool) | variable |\n| Dépistage spirométrique (asymptomatique) | détection précoce | pas de bénéfice sur qualité de vie, morbidité, mortalité [B, recommandations] (PMID 27046365) | acte médical | non recherché |\n| Spirométrie diagnostique (symptomatique ou exposé) | mesure VEMS/CVF avant et après bronchodilatateur | recommandée par ameli pour diagnostiquer tôt ; bénéfice de la détection précoce sur critère de santé : non démontré (voir ci-dessus) | acte médical remboursé (ameli, consulté 2026-10-15) | non recherché |\n| Vaccin antigrippal (BPCO) | prévient l'infection grippale | exacerbations totales -0,37/personne [A, faible certitude] (PMID 29943802) | vaccin ; voir [grippe, covid, VRS](fiche:vaccins-respiratoires-grippe-covid-vrs) | non recherché |\n| Réhabilitation respiratoire | exercice encadré | essais non relus dans cette session [?] | acte médical | non recherché |\n| Vitamine D (asthme) | immunomodulation proposée [?] | aIRR 0,74 pour exacerbations traitées par corticoïdes oraux [A] (PMID 28986128) ; dans la BPCO : non relu [?] | complément ou médicament | non recherché |\n| Perte de poids (excès pondéral) | réduit la charge mécanique et inflammatoire proposée [?] | association génétique BMI → asthme et BPCO [A, génétique] (PMID 34906131) ; essai de perte de poids dans l'asthme : non relu [?] | voir [prévention du diabète de type 2](fiche:prevention-diabete-type-2) | variable |",
+   "titre": "Traitements et leviers classés par niveau de preuve"
+  },
+  {
+   "markdown": "- **Lung Health Study** : 5 887 fumeurs de 35-60 ans, obstruction légère, randomisés en intervention (12 séances, gomme à la nicotine, entretien sur 5 ans) avec ou sans ipratropium, ou aucune intervention. Les deux groupes d'intervention ont un déclin du VEMS plus faible, surtout la première année et chez ceux qui arrêtent durablement ; le bronchodilatateur donne un petit gain qui disparaît à l'arrêt et ne change pas le déclin à long terme (PMID 7966841). À 5 ans, 21,7 % de la branche spéciale ont arrêté vs 5,4 % ; 731 décès à 14,5 ans (33 % cancer du poumon, 22 % cardiovasculaire, 7,8 % respiratoire hors cancer). Limite : sujets avec obstruction (PMID 15710956).\n- **USPSTF 2016** : environ 14 % des adultes américains de 40-79 ans ont une BPCO, 3e cause de décès aux États-Unis ; pas de preuve que dépister l'asymptomatique améliore la qualité de vie, la morbidité ou la mortalité ; le dépistage n'a « pas de bénéfice net » avec une certitude modérée (PMID 27046365).\n- **Vaccin antigrippal (Cochrane 2018)** : 11 ECR, 6 750 participants, dont 6 seulement chez des BPCO (2 469) ; exacerbations tardives -0,39 (-0,61 à -0,18) [A, faible certitude] (PMID 29943802). Résultat sur la mortalité non extrait [?].\n- **Vitamine D et asthme (analyse individuelle)** : 8 essais éligibles, données de 7 (955 participants) ; pas de différence sur la proportion avec au moins une exacerbation ni sur le délai à la première (PMID 28986128). Sous-groupes selon le taux de base : non relus [?].\n- **IMC et maladies chroniques (randomisation mendélienne)** : IMC génétiquement plus élevé associé à plus de diabète de type 2, de maladies circulatoires, d'asthme et de BPCO (PMID 34906131).",
+   "titre": "Ce que montrent les essais"
+  },
+  {
+   "markdown": "- **Débutant** : ne pas fumer, éviter le tabagisme passif ; signaler toux avec crachats ou essoufflement ; vérifier l'aération et le chauffage ; exposition professionnelle à signaler au médecin du travail (ameli).\n- **Intermédiaire** : si fumeur > 40 ans avec symptômes, demander une spirométrie ; vaccins à jour ([grippe, covid, VRS](fiche:vaccins-respiratoires-grippe-covid-vrs), [pneumocoque](fiche:vaccin-pneumocoque)).\n- **Avancé** : fumeur à haut risque de cancer : voir [dépistage du cancer du poumon](fiche:depistage-cancer-poumon). BPCO confirmée : traitement bronchodilatateur et réhabilitation selon les stades (VEMS ≥ 80 %, 50-80 %, 30-50 %, < 30 % selon ameli) avec le pneumologue.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Attendre l'essoufflement pour faire souffler : la BPCO évolue longtemps sans symptôme (ameli), mais le dépistage de masse n'est pas validé.\n- Croire que l'arrêt du tabac est inutile une fois la BPCO installée : le déclin du VEMS ralentit et la mortalité baisse même si une minorité arrête (PMID 15710956).\n- Confondre asthme et BPCO : le diagnostic repose sur la réponse au bronchodilatateur (ameli).\n- Prendre de la vitamine D en l'espérant préventive pour la BPCO ou l'asthme : le résultat chiffré concerne les exacerbations d'asthmatiques déjà traités.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Détox pulmonaire / compléments pour nettoyer les poumons de l'ex-fumeur »** [M] : aucune donnée retrouvée [?] ; seul l'arrêt du tabac a un effet démontré sur le déclin du VEMS [B, ECR unique n=5887] (PMID 7966841).\n- **« Cigarette électronique = prévention de la BPCO »** : non recherché ici ; voir [tabac et alcool](fiche:tabac-et-alcool) pour l'aide à l'arrêt [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Le bronchodilatateur ipratropium n'a pas modifié le déclin à long terme du VEMS dans la Lung Health Study ; le gain disparaissait à son arrêt (PMID 7966841).\n- Le spirogramme peut être anormal sans obstruction : la PRISm (VEMS < 80 % de la valeur prédite avec rapport VEMS/CVF ≥ 0,70) a été décrite dans 351 874 participants de UK Biobank comme associée à des symptômes respiratoires et considérée comme précurseur de la BPCO (PMID 34739861). Détail chiffré non extrait [?].\n- La Lung Health Study montre un bénéfice sur la mortalité malgré 21,7 % seulement d'arrêts soutenus à 5 ans : le « petit » succès de l'arrêt compte (PMID 15710956).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Spirométrie, vaccination, inhalateurs : actes et médicaments pris en charge ; détail BDPM/HAS non consulté [?].\n- Pas de programme de dépistage organisé de la BPCO en France, d'après les sources lues : ameli ne le mentionne pas, recommandation HAS non consultée [?].\n- Sources officielles : ameli.fr, BPCO, pages « prévention » et « symptômes, diagnostic », consultées le 2026-10-15 (la page prévention ne porte pas de date de mise à jour visible).",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Toux avec crachats persistante, essoufflement à l'effort, infections respiratoires répétées après 40 ans, surtout fumeur ou ex-fumeur.\n- Sifflements nocturnes, gêne respiratoire à l'effort ou au froid (asthme).\n- Exposition professionnelle aux poussières, gaz ou fumées avec toux persistante.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 7966841 — Anthonisen NR et al., *JAMA* 1994, Lung Health Study (résumé relu).\n- PMID 15710956 — Anthonisen NR et al., *Ann Intern Med* 2005 (résumé relu).\n- PMID 27046365 — Siu AL et al. (USPSTF), *JAMA* 2016 (résumé relu).\n- PMID 29943802 — Kopsaftis Z et al., *Cochrane* 2018 (résumé relu).\n- PMID 28986128 — Jolliffe DA et al., *Lancet Respir Med* 2017 (résumé relu).\n- PMID 34906131 — Larsson SC et al., *BMC Med* 2021 (résumé relu).\n- PMID 34739861 — Higbee DH et al., *Lancet Respir Med* 2022 (résumé relu en partie).\n- Web : ameli.fr, BPCO (prévention ; symptômes, diagnostic, complications), consultés le 2026-10-15.\n\nVoir aussi : [tabac et alcool](fiche:tabac-et-alcool), [dépistage du cancer du poumon](fiche:depistage-cancer-poumon), [infections respiratoires](fiche:infections-respiratoires-prevention), [apnée du sommeil](fiche:apnee-du-sommeil).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "BPCO et asthme : prévention et spirométrie",
+ "type": "condition",
+ "unite": ""
+}

@@ -1,0 +1,86 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "comportement",
+ "id": "hiit-et-zone-5-vo2max",
+ "intro": "Le HIIT augmente le VO2max de façon démontrée par ECR ; l'avantage sur l'entraînement continu modéré est petit et de faible certitude. Le bénéfice sur la mortalité n'est pas prouvé par ECR. Voir [zone-2-et-endurance.md](fiche:zone-2-et-endurance), [myokines.md](fiche:myokines), [exercice-physique.md](fiche:exercice-physique).",
+ "liens": [
+  "entrainement-en-resistance",
+  "exercice-physique",
+  "lactate-zone-5-souffrance-et-bdnf",
+  "mitochondries",
+  "myokines",
+  "zone-2-et-endurance"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 19,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "41810896",
+  "42730846",
+  "33028588",
+  "19454641",
+  "30646252",
+  "39390310",
+  "16195006",
+  "41671384",
+  "42506465",
+  "41936539",
+  "41232083",
+  "42211454",
+  "41998744",
+  "35234025",
+  "38123165",
+  "32017951",
+  "40289323",
+  "42090218",
+  "32100573"
+ ],
+ "preuve_globale": "A",
+ "resume": "VO2max vs sédentaires : +5,98 mL/min/kg vs non-exercice, 16 études, certitude modérée [A] (PMID 41810896, Cochrane).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **VO2max vs sédentaires** : +5,98 mL/min/kg vs non-exercice, 16 études, certitude modérée [A] (PMID 41810896, Cochrane).\n- **HIIT vs MICT** : +1,39 mL/min/kg (IC 0,44-2,34), 37 études, certitude faible ; pas de différence nette sur tension, tour de taille, triglycérides [A, faible certitude] (PMID 41810896). Autre méta-analyse de 69 ECR : d = 0,38 en faveur du HIIT (PMID 42730846).\n- **Mortalité** : le seul grand ECR (Generation 100, 70-77 ans, 5 ans) ne montre pas d'effet significatif : HIIT vs contrôle HR 0,63 (0,33-1,20), HIIT vs MICT HR 0,51 (0,25-1,02) [B, ECR unique n=1 567, non significatif] (PMID 33028588).\n- **VO2max et mortalité** : association graduée en cohortes [B] (PMID 19454641, PMID 30646252).\n- **Sécurité** : effets indésirables graves rares dans les essais supervisés, mais mal rapportés ; pas de données sur le HIIT non supervisé [A, faible certitude] (PMID 41810896).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Intervalles proches du VO2max (zone 5, ~90-95 % FC max dans les protocoles 4x4) ; l'adaptation mesurée chez l'humain inclut gain mitochondrial similaire à l'endurance, plus efficace par heure d'exercice (SIT environ 2,3 fois plus que HIT, 3,9 fois plus que l'endurance) [A, méta-régression] (PMID 39390310). Le mécanisme central du gain de VO2max (volume d'éjection systolique) est évoqué dans une revue chez des footballeurs [B] (PMID 16195006), pas démontré dans les ECR lus ici.\n\n### Définitions utilisées dans les études\n- HIIT : intervalles proches du VO2max ; exemple Generation 100 : ~90 % FC pic (PMID 33028588).\n- 4x4 : 4 x 4 min à 90-95 % FC max avec 3 min de récupération à 70 % (protocole décrit dans PMID 16195006, joueurs de football d'élite).\n- SIT : sprints courts quasi maximaux ; définition non extraite d'un résumé ici [?]. Exemple de HIIT court : 20 x 30 s à RPE 15-17 (échelle de Borg 6-20) chez des patients CV à haut risque (PMID 41671384).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### VO2max\n| Étude | Résultat | Preuve |\n|---|---|---|\n| Cochrane 2026, 58 ECR (2 075 pers.), adultes sédentaires 18-64 ans | HIIT vs contrôle : +5,98 mL/min/kg (4,66-7,30), tour de taille -3,56 cm ; HIIT vs MICT : +1,39 (0,44-2,34) ; mortalité et effets indésirables : non rapportés (PMID 41810896) | [A, certitude modérée à faible] |\n| 69 ECR, 2 387 pers. | HIIT > MICT : d = 0,38 (0,27-0,49) ; 80 % de l'effet maximal à ~11 min/séance (IC 9,5-40,2) ; MICT ~52 min (PMID 42730846) | [A, IC très large sur la durée] |\n| 24 ECR, 877 inactifs | vs contrôle : VO2max +7,72 ; vs MICT : +3,72 mL/kg/min ; certitude faible à très faible ; sensible au retrait d'une étude (PMID 42506465) | [A, faible certitude] |\n| Méta-régression mitochondries/VO2max | VO2max augmente de façon similaire avec ET, HIT, SIT, HIT tend à mieux (p=0,082) ; fréquence 6 > 4 > 2 séances/sem associée à plus de gain (PMID 39390310) | [A] |\n\n### Mortalité et événements\n- Generation 100 : 1 567 personnes de 70-77 ans, 2 séances/sem de HIIT (n=400), MICT (n=387) ou recommandations (n=780). Mortalité 4,7 % dans le groupe contrôle ; HIIT vs contrôle HR 0,63 (0,33-1,20) ; MICT vs contrôle HR 1,24 (0,73-2,10) ; HIIT vs MICT HR 0,51 (0,25-1,02) ; pas de différence entre exercice combiné et contrôle. Limite majeure : le groupe contrôle faisait déjà du HIIT spontanément et était globalement actif (80 % actifs au départ) [B, ECR unique n=1 567] (PMID 33028588). Les auteurs parlent de « tendance », pas de preuve.\n- Même cohorte, sarcopénie à 5 ans : critère secondaire, chiffres non extraits ici [?] (PMID 41936539).\n- VO2max : voir [zone-2-et-endurance.md](fiche:zone-2-et-endurance) pour les cohortes ; association, pas preuve que le HIIT fasse baisser la mortalité.\n\n### Populations particulières\n- Patients CV à haut risque, 4 semaines (161 pers., rétrospectif) : gain de VO2 pic 2,6 (HIIT) vs 2,8 mL/kg/min (intervalles modérés), événements indésirables légers < 1 %, aucun événement cardiaque grave [B, étude rétrospective] (PMID 41671384).\n- Après AVC : revue de 20 études, 658 pers. : aucun décès lié au HIIT, risque d'événements indésirables non différent ; applicable à des survivants choisis, plutôt jeunes et peu atteints, supervisés [A, certitude faible à modérée] (PMID 41232083).\n- Diabète de type 2 : méta-analyse de 21 ECR HIIT vs MICT sur glycémie, résultats non extraits ici [?] (PMID 42211454).\n- Obèses : réseau de méta-analyses HIIT vs MICT sur composition corporelle, non extrait ici [?] (PMID 41998744).\n\n### Comparaison à l'entraînement continu (MICT)\nAvantage du HIIT sur le VO2max faible mais répété ; équivalence sur tension, lipides, tour de taille (PMID 41810896, PMID 42730846). Gains de temps réels : l'essentiel de l'effet est obtenu avec des séances courtes (PMID 42730846). L'observance à long terme hors supervision n'est pas établie [?].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **« 4 minutes de HIIT équivalent à 1 h de cardio »** : la méta-analyse parle de ~11 min/séance pour 80 % de l'effet sur le VO2max (IC 9,5-40,2), pas de 4 min (PMID 42730846). Le VO2max n'est pas la santé entière [A].\n- **« Le HIIT allonge la vie »** : non démontré par ECR ; Generation 100 est non significatif [B] (PMID 33028588).\n- **« Le HIIT brûle plus de graisse »** : vs MICT, pas de différence nette sur le tour de taille [A, certitude modérée] (PMID 41810896).\n- **« 4x4 = le protocole optimal »** : un protocole parmi d'autres ; aucune méta-analyse lue ne désigne un optimum [A, absence] (PMID 42506465 : « pas assez de preuves pour identifier un protocole optimal »).\n- **« La zone 2 seule suffit » (ou l'inverse)** : aucune étude comparative sur la mortalité [?].\n- **Boost d'irisine/BDNF par HIIT** : voir [myokines.md](fiche:myokines) et [lactate-zone-5-souffrance-et-bdnf.md](fiche:lactate-zone-5-souffrance-et-bdnf) ; marqueurs sanguins, pas de bénéfice clinique démontré.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- **Pourquoi elles comptent** : chez les personnes âgées, les fibres rapides sont dénervées en premier puis réinnervées par des motoneurones lents ; le muscle se « lentifie » et perd en puissance [B] (PMID 35234025, revue ; lien avec l'exercice de longue date chez des seniors de 70 ans).\n- **Forme des fibres** : sur 265 biopsies (20-97 ans), la déformation des fibres II augmente avec l'âge (R = 0,38 ; fibres I : 0,20) ; 3-4 mois de musculation lourde, 3 fois par semaine, la réduisent chez jeunes et âgés [B] (PMID 38123165).\n- **Hypertrophie des fibres II** : 12 semaines de musculation chez des hommes âgés (n=30) augmentent force et puissance (+10 à +36 %) ; le réentraînement après pause est associé à +29 % de surface des fibres II (biopsie sur 6 sujets) [B] (PMID 32017951).\n- **Limite de l'entraînement à vie** : 24 sprinters vétérans (48-85 ans) gardent leurs fibres sur 10 ans mais perdent 21 % de force et 9,5 % de puissance de saut [B] (PMID 40289323) ; une sprinteuse de 91 ans a une dénervation faible mais des fibres II petites [B, cas unique] (PMID 42090218).\n- **Comparaison directe HIIT vs musculation sur les fibres II** : aucune étude trouvée [?]. Que le HIIT ou la zone 5 recrutent ces fibres est plausible mais non vérifié [?].\n- **Conséquence** : pour les fibres II, l'outil étayé est la musculation lourde ou rapide ([entrainement-en-resistance.md](fiche:entrainement-en-resistance)) ; la zone 5 est un complément pour le VO2max, pas un substitut.",
+   "titre": "Fibres de type II (rapides) et vieillissement"
+  },
+  {
+   "markdown": "- L'effort vigoureux peut augmenter transitoirement le risque de mort subite et d'infarctus chez les personnes prédisposées, surtout peu entraînées ; les fortes charges d'endurance/vigoureuses sont associées à fibrillation auriculaire, calcification coronaire, fibrose myocardique (relation en U) [B, déclaration AHA] (PMID 32100573).\n- Les ECR ne rapportent souvent pas systématiquement les événements indésirables (Cochrane : « aucun événement rapporté », monitoring incertain ; tous supervisés) (PMID 41810896).\n- Contre-indications relatives (non quantifiées dans les sources lues) : cardiopathie ischémique non stabilisée, cardiomyopathie, hypertension non contrôlée, valvulopathie sévère, arythmies [?].\n- Blessures musculo-squelettiques du HIIT en autonomie : non trouvées [?].",
+   "titre": "Sécurité, contre-indications"
+  },
+  {
+   "markdown": "Avant tout HIIT si : sédentaire de longue date et d'âge moyen ou plus (seuil d'âge non sourcé ici), maladie cardiovasculaire, diabète, hypertension, antécédents familiaux de mort subite, palpitations, malaise à l'effort. Arrêt immédiat et avis urgent devant douleur thoracique, syncope ou dyspnée disproportionnée. Un test d'effort médical est le moyen de mesurer VO2max et de dépister une ischémie.\n\nVoir aussi : [mitochondries et vieillissement](fiche:mitochondries).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 35234025 : Coletti C et al., Eur J Transl Myol 2022, [DOI](https://doi.org/10.4081/ejtm.2022.10416) (revue, réinnervation).\n- PMID 38123165 : Soendenbroe C et al., J Cachexia Sarcopenia Muscle 2023, [DOI](https://doi.org/10.1002/jcsm.13405).\n- PMID 32017951 : Blocquiaux S et al., Exp Gerontol 2020, [DOI](https://doi.org/10.1016/j.exger.2020.110860).\n- PMID 40289323 : Hendrickse PW et al., J Cachexia Sarcopenia Muscle 2025, [DOI](https://doi.org/10.1002/jcsm.13822).\n- PMID 42090218 : Colosio M et al., J Appl Physiol 2026, [DOI](https://doi.org/10.1152/japplphysiol.00280.2026).\nRésumés lus via PubMed MCP ; chiffres tirés des résumés.\n- PMID 41810896 : Strauss JA et al. HIIT for reducing cardiometabolic syndrome in healthy but sedentary populations, Cochrane 2026.\n- PMID 42730846 : Mattioni Maturana et al. Dose response of exercise duration on CRF following HIIT and MICT.\n- PMID 42506465 : Lan et al. HIIT in physically inactive individuals, méta-analyse d'ECR.\n- PMID 33028588 : Stensvold D et al. Effect of exercise training for five years on all cause mortality in older adults, Generation 100 (BMJ).\n- PMID 41936539 : Stene et al. Generation 100, sarcopénie à 5 ans (cité, chiffres non extraits).\n- PMID 39390310 : Mølmen KS et al. Mitochondrial and capillary growth, méta-régression.\n- PMID 19454641, PMID 30646252 : Kodama S et al. ; Mandsager K et al. (VO2max et mortalité).\n- PMID 41671384 : Abudoukelimu et al. HIIT/MIIT chez patients CV à haut risque.\n- PMID 41232083 : Blatgé et al. HIIT après AVC.\n- PMID 32100573 : Franklin BA et al. AHA scientific statement sur les risques de l'exercice.\n- PMID 16195006 : Hoff J. Training and testing physical capacities for elite soccer players (revue).\n- PMID 42211454, 41998744 : méta-analyses citées sans chiffres.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "HIIT, sprint intervals et zone 5 (VO2max)",
+ "type": "actif",
+ "unite": ""
+}

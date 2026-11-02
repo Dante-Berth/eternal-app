@@ -1,0 +1,71 @@
+{
+ "cibles": [
+  "muscle-os",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "complement",
+ "id": "l-carnitine-carnipure-nutrimuscle",
+ "intro": "",
+ "liens": [
+  "l-carnitine",
+  "proteines"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "20045157",
+  "27335245",
+  "37533033",
+  "42778937"
+ ],
+ "preuve_globale": "B",
+ "resume": "Forme de marque (Carnipure® de Lonza) correctement dosée à 1,6 g de carnitine par portion, proche des 2 g/j des petits essais de récupération musculaire, pour environ 20 € par mois ; mais les preuves sont des petits essais [B], aucun effet démontré sur la force ni sur la « combustion des graisses…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Forme de marque (Carnipure® de Lonza) correctement dosée à 1,6 g de carnitine par portion, proche des 2 g/j des petits essais de récupération musculaire, pour environ 20 € par mois ; mais les preuves sont des petits essais [B], aucun effet démontré sur la force ni sur la « combustion des graisses », et la supplémentation fait monter le TMAO sans qu'on sache si cela compte cliniquement.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur déclarée | Preuve |\n|---|---|---|\n| L-carnitine L-tartrate (Carnipure®, pureté annoncée 99,9 %) | 2 900 mg pour 4 gélules, soit 1 636 mg de L-carnitine (≈ 725 mg de tartrate et ≈ 409 mg de carnitine par gélule, calcul de la fiche) | Récupération : CK, myoglobine et courbatures plus basses dans de petits essais (n=10 à 80), surtout à 2 g/j sur 3 à 5 semaines [B] ; force et puissance non améliorées [B] (PMID 20045157) ; poids −1,3 kg sur 9 ECR [A] (PMID 27335245) |\n| Enveloppe | Gélule végétale (HPMC) ; aucun autre excipient annoncé | Sans objet |\n\nComposition et prix : eu.nutrimuscle.com, consulté le 2026-10-12. Certificats annoncés (analyse, « Sport Protect », conformité AMA des matières premières, halal) : non consultés ; Informed Sport non mentionné [?]. Allergènes : site traitant lait, œuf, céréales, soja, poisson, mollusques, crustacés. Analyse indépendante : aucune trouvée [?].",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Complément alimentaire. Statut BDPM/ANSES de la L-carnitine en complément : non vérifié ([l-carnitine](fiche:l-carnitine)). La marque annonce des matières premières conformes à l'AMA (source de marque) ; le statut AMA de la carnitine n'a pas été vérifié sur la liste 2026 [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque dit | Les études |\n|---|---|\n| « Améliore la combustion des graisses en énergie » | Aucun effet « brûleur de graisse » démontré chez le sujet entraîné en bonne santé [?] ; perte moyenne de ≈ 1,3 kg sur 9 ECR, effet qui diminue avec la durée [A] (PMID 27335245) |\n| Soutien du métabolisme, contrôle de l'appétit, endurance | Non démontré dans les sources lues [?] |\n| Prise avant la séance acceptable | Petit effet sur marqueurs de dommage musculaire, pas de gain de force [B] (PMID 20045157) ; plusieurs essais du même groupe de recherche |\n| Rien sur la sécurité cardiovasculaire | LCLT 1 g/j pendant 12 semaines : hausse du TMAO plasmatique [B] (PMID 37533033) ; lien TMAO → événements surestimé selon une méta-analyse parapluie 2026, observationnel [A, observationnel] (PMID 42778937) |\n\nVoir [L-carnitine](fiche:l-carnitine).",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Marque : 4 gélules par jour avec un verre d'eau, aux repas (matin et midi), ou avant la séance les jours d'entraînement ; continuer les jours de repos. Les essais de récupération utilisaient 2 g/j de carnitine pendant 3 à 5 semaines : la portion de la marque (1,6 g de carnitine) est du même ordre, sans valeur de consigne.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- 90 gélules : 14,95 € (13,46 € avec abonnement, 3 livraisons minimum), nutrimuscle.com, 2026-10-12 ; second vendeur français relevé : nu3 (via Redcare), produit **retiré du marché**, sans prix [?].\n- Environ 22 portions par boîte : **≈ 0,66 €/portion de 4 gélules, soit ≈ 20 €/mois** (la page indique 0,68 €).\n- Alternative moins chère à preuve équivalente : aucune relevée en prix ; la carnitine n'a pas de meilleure preuve qu'un entraînement et un apport protéique adaptés, voir [récupération](../../vues/themes/recuperation.md) et [protéines](fiche:proteines).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non consultés [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- TMAO : voir ci-dessus et [L-carnitine](fiche:l-carnitine) ; aucun essai de la supplémentation sur des événements cardiovasculaires trouvé [?].\n- La marque déconseille l'association avec le bicarbonate de potassium (ballonnements), et chez l'enfant, l'adolescent, la femme enceinte ou allaitante sans avis (sources de marque).\n- Interactions médicamenteuses (anticoagulants, thyroïde), insuffisance rénale : non recherchées [?].",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "1. Nutrimuscle, « Carnitine Carnipure® en gélules » — https://eu.nutrimuscle.com/fr/products/carnitine-carnipure-r-en-gelules (consulté le 2026-10-12)\n2. Redcare Pharmacie, nu3 L-carnitine en gélules — https://www.redcare-pharmacie.fr/nutrition-minceur-sport/8108237/nu3-l-carnitine-en-gelules.htm (consulté le 2026-10-12 ; produit retiré)\n3. PMID 20045157, PMID 27335245, PMID 37533033, PMID 42778937 : études reprises de la fiche [L-carnitine](fiche:l-carnitine) (résumés relus lors de sa rédaction).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Carnitine Carnipure® en gélules — Nutrimuscle",
+ "type": "produit",
+ "unite": ""
+}

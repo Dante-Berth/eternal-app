@@ -1,0 +1,80 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-18",
+ "famille": "alimentation",
+ "id": "avoine-et-beta-glucanes",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "apob-lipides-et-statines",
+  "ble-gluten-epeautre-et-cereales-anciennes",
+  "cereales-completes-et-raffinees",
+  "maladie-coeliaque-et-intolerances",
+  "psyllium-et-fibres-solubles"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "27724985",
+  "25411276",
+  "38441173",
+  "40571100",
+  "35631184",
+  "34977959",
+  "38553358",
+  "19595389",
+  "28617328"
+ ],
+ "preuve_globale": "A",
+ "resume": "Effet démontré par essais randomisés : l'avoine baisse un peu le LDL. 58 ECR (n = 3 974), dose médiane de 3,5 g/j de β-glucane : LDL -0,19 mmol/L (-0,23 à -0,14), non-HDL -0,20, apoB -0,03 g/L, hétérogénéité considérable (I² = 79 %) [A] (PMID 27724985). Autre méta-analyse (28 ECR, ≥ 3 g/j) : LDL…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Effet démontré par essais randomisés : l'avoine baisse un peu le LDL.** 58 ECR (n = 3 974), dose médiane de 3,5 g/j de β-glucane : LDL -0,19 mmol/L (-0,23 à -0,14), non-HDL -0,20, apoB -0,03 g/L, hétérogénéité considérable (I² = 79 %) [A] (PMID 27724985). Autre méta-analyse (28 ECR, ≥ 3 g/j) : LDL -0,25 mmol/L (0,20-0,30), cholestérol total -0,30 ; HDL et triglycérides inchangés [A] (PMID 25411276).\n- **Chez les personnes dyslipidémiques, l'effet reste dans la même fourchette et la certitude est « modérée ».** 17 ECR (n = 1 731) : LDL -0,24 mmol/L (-0,33 à -0,15) contre placebo ou régime habituel, -0,17 contre d'autres céréales ; risque de biais élevé ou préoccupant dans la plupart des essais ; un seul essai sur les événements cardiovasculaires, sans différence [A, risque de biais] (PMID 38441173).\n- **Mais en conditions réelles, un pain enrichi en β-glucane n'a rien changé chez des personnes à risque de diabète.** ECR en double aveugle, 194 adultes, 16 semaines, 6 g/j de β-glucane vs pain de blé complet : HbA1c Δ = -0,01 %, glycémie à jeun, insuline et LDL (Δ = -0,11 mmol/L, IC -0,27 à 0,05) sans différence significative [B, ECR unique n = 194] (PMID 40571100).\n- **Aucune preuve sur les infarctus ou la mortalité par essai randomisé.** L'effet est un marqueur (LDL), pas un critère clinique [?].\n- **Cœliaques : l'avoine pure est tolérée par la majorité**, avec un suivi médical conseillé (voir Sécurité).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Les β-glucanes sont des fibres solubles visqueuses ; l'hypothèse classique est une réduction de l'absorption du cholestérol et des acides biliaires. Mécanisme non démêlé dans les résumés lus (les méta-analyses concluent sur l'effet, pas sur le mécanisme) [?] (PMID 25411276, 27724985).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| LDL (hypercholestérolémie) | 13 ECR, n = 927, β-glucane : LDL -0,27 mmol/L (-0,35 à -0,20), cholestérol total -0,24 ; TG et HDL sans effet (PMID 35631184) | [A] |\n| LDL (population générale, aliments à base d'avoine) | 74 ECR, 4 937 sujets surtout hypercholestérolémiques ou en surpoids : LDL -0,29 mmol/L (-0,37 à -0,20), cholestérol total -0,42 ; 81,1 % des essais avec « quelques préoccupations » de biais (PMID 34977959) | [A, risque de biais] |\n| Diabète de type 2 | méta-analyse sur « céréales anciennes » : 4 essais sur l'avoine (n = 717), LDL -0,30 mmol/L, cholestérol total -0,44 (PMID 38553358) | [A, peu d'essais] |\n| Poids, glycémie | 74 ECR : poids -0,94 kg (-1,84 à -0,05), IMC -0,13, tour de taille -1,06 cm, glycémie -0,25 (unité telle que rapportée dans le résumé) (PMID 34977959) | [A, effet minime, risque de biais] |\n| Tension, inflammation | tension : données insuffisantes selon les auteurs ; inflammation : essais rares et résultats incohérents (PMID 34977959) | [?] |\n| Événements cardiovasculaires | un essai, sans différence significative (PMID 38441173) | [B] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Dose efficace documentée** : ≥ 3 g/j de β-glucane ; pas d'effet de la dose entre 3 et 12,4 g/j ni de la durée (2-12 semaines) dans la méta-analyse de 2014 ; effet plus marqué quand le LDL de départ est élevé (PMID 25411276).\n- **Équivalent en flocons ou en son** : la teneur en β-glucane des flocons, du porridge, des barres ou des boissons à l'avoine n'est pas dans les sources lues. À lire sur l'étiquette, jamais déduite de « contient de l'avoine » [?].\n- **Forme** : β-glucane extrait, son, flocons entiers et farine ont été regroupés ; la source et la dose modifient le résultat (PMID 35631184).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Aliment**. Allégation de santé autorisée dans l'UE : « les bêta-glucanes contribuent au maintien d'une cholestérolémie normale » pour un aliment apportant ≥ 1 g de β-glucane d'avoine ou d'orge par portion, avec une consommation journalière de 3 g (règlement (UE) n° 432/2012, EUR-Lex, consulté le 2026-10-18). L'avis EFSA associé recommande ≥ 3 g/j (EFSA Journal, consulté le 2026-10-18).\n- **« Sans gluten »** : l'avoine doit être spécialement produite pour éviter la contamination par le blé, le seigle ou l'orge, et ne pas dépasser 20 mg/kg de gluten (règlement (UE) n° 828/2014, annexe, partie B, EUR-Lex, consulté le 2026-10-18).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Maladie cœliaque** : revue systématique : la majorité des cœliaques tolèrent des quantités modérées d'avoine pure ; une petite partie y est intolérante ; données d'étude *in vitro* d'une réponse immunitaire aux avénines sans manifestation clinique ; la revue conseille une évaluation initiale et un suivi par un professionnel de santé [B] (PMID 19595389). Étude transversale (869 cœliaques, 82 % consommant de l'avoine depuis une médiane de 10 ans de régime) : pas de différence de symptômes, d'anticorps ou de cicatrisation histologique [B, transversal] (PMID 28617328). **Le risque pratique est la contamination croisée** : n'utiliser que de l'avoine étiquetée « sans gluten ».\n- **Effets indésirables** : digestifs (diarrhée, nausées, flatulences) dans les essais sur les dyslipidémiques (PMID 38441173).\n- **Interactions médicamenteuses** (ralentissement d'absorption par les fibres, lien avec les statines) : non recherchées [?].\n- **Grossesse, enfant** : non recherchés [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché. Les boissons végétales, barres et biscuits « à l'avoine » ne sont pas évalués.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« L'avoine fait baisser le cholestérol »** : vrai sur le LDL, mais de l'ordre de -0,2 à -0,3 mmol/L, hétérogène, sans preuve sur les événements cliniques [A] (PMID 27724985, 25411276, 38441173). Ce n'est pas comparable à une statine ; voir [lipides et ApoB](fiche:apob-lipides-et-statines).\n- **« L'avoine fait maigrir »** : -0,94 kg en moyenne, risque de biais [A] (PMID 34977959).\n- **« L'avoine est sans gluten »** : elle ne contient pas de gluten de blé mais est souvent contaminée ; seule l'avoine étiquetée « sans gluten » est fiable (règlement 828/2014) ; voir Sécurité.\n\nVoir aussi : [céréales complètes et raffinées](fiche:cereales-completes-et-raffinees) · [blé, gluten, épeautre](fiche:ble-gluten-epeautre-et-cereales-anciennes) · [psyllium et fibres solubles](fiche:psyllium-et-fibres-solubles) · [maladie cœliaque](fiche:maladie-coeliaque-et-intolerances) · [alimentation : synthèse](fiche:alimentation).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 27724985 — Ho et al., *Br J Nutr* 2016 (β-glucane d'avoine, LDL, non-HDL, apoB). doi:10.1017/S000711451600341X\n- PMID 25411276 — Whitehead et al., *Am J Clin Nutr* 2014 (β-glucane ≥ 3 g/j). doi:10.3945/ajcn.114.086108\n- PMID 38441173 — Li et al., *Food Funct* 2024 (avoine et dyslipidémie). doi:10.1039/d3fo04394k\n- PMID 35631184 — Yu et al., *Nutrients* 2022 (β-glucane, hypercholestérolémie). doi:10.3390/nu14102043\n- PMID 34977959 — Llanaj et al., *Eur J Nutr* 2022 (avoine et marqueurs cardiovasculaires). doi:10.1007/s00394-021-02763-1\n- PMID 40571100 — Hjorth et al., *Am J Clin Nutr* 2025 (pain enrichi en β-glucane, HbA1c). doi:10.1016/j.ajcnut.2025.06.018\n- PMID 38553358 — Magi et al., *Nutr Metab Cardiovasc Dis* 2024 (céréales anciennes et diabète). doi:10.1016/j.numecd.2024.03.005\n- PMID 19595389 — Pulido et al., *Adv Food Nutr Res* 2009 (avoine et cœliaque). doi:10.1016/S1043-4526(09)57006-4\n- PMID 28617328 — Aaltonen et al., *Nutrients* 2017 (avoine, cœliaque, étude transversale). doi:10.3390/nu9060611\n- Règlement (UE) n° 432/2012 (EUR-Lex, consulté le 2026-10-18) ; avis EFSA sur le β-glucane d'avoine (EFSA Journal, consulté le 2026-10-18). Règlement (UE) n° 828/2014 (EUR-Lex, consulté le 2026-10-18).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Avoine et β-glucanes (flocons, son d'avoine)",
+ "type": "actif",
+ "unite": ""
+}

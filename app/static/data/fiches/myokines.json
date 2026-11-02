@@ -1,0 +1,85 @@
+{
+ "cibles": [
+  "muscle-os",
+  "longevite",
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "comportement",
+ "id": "myokines",
+ "intro": "Les myokines sont des molécules sécrétées par le muscle qui contracte. Le concept est solide ; la plupart des effets attribués à chaque molécule ne sont pas démontrés chez l'humain. À lire avec [exercice-physique.md](fiche:exercice-physique), [zone-2-et-endurance.md](fiche:zone-2-et-endurance) et [hiit-et-zone-5-vo2max.md](fiche:hiit-et-zone-5-vo2max).",
+ "liens": [
+  "exercice-physique",
+  "hiit-et-zone-5-vo2max",
+  "lactate-zone-5-souffrance-et-bdnf",
+  "zone-2-et-endurance"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 19,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "30837717",
+  "28211512",
+  "26008878",
+  "42835081",
+  "17144883",
+  "15772055",
+  "39740358",
+  "33790964",
+  "34276559",
+  "41086999",
+  "41420424",
+  "42505346",
+  "42520997",
+  "42268366",
+  "39584460",
+  "41939882",
+  "42323776",
+  "26392122",
+  "37169504"
+ ],
+ "preuve_globale": "C",
+ "resume": "Le muscle sécrète des facteurs qui communiquent avec le cerveau, le foie, la graisse et l'os : concept décrit par des revues, surtout appuyé par des données précliniques [C] (PMID 30837717).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Le muscle sécrète des facteurs qui communiquent avec le cerveau, le foie, la graisse et l'os : concept décrit par des revues, surtout appuyé par des données précliniques [C] (PMID 30837717).\n- **Irisine** : découverte présentée comme brûleuse de graisse (brunissement du tissu adipeux) ; chez l'humain, rôle contesté, et des auteurs mettent en doute la fiabilité des dosages ELISA et même l'existence de l'hormone [B, controversé] (PMID 28211512, PMID 26008878).\n- **BDNF circulant** : les méta-analyses d'ECR sont hétérogènes et le BDNF sanguin n'est pas un résultat clinique. Dans un MCI, les effets sur le BDNF sont « inconclusifs » (2 études) [A, non concluant] (PMID 42835081).\n- **Cathepsine B, apeline** : aucune donnée humaine d'intervention solide trouvée dans ma recherche [?].\n- **Pourquoi « anti-âge »** : l'hypothèse (Pedersen) est que le muscle qui se contracte est un organe endocrine dont les signaux (IL-6 transitoire, puis IL-1ra, IL-10, baisse du TNF-α) abaissent l'inflammation chronique de bas grade et protègent contre diabète et maladies cardiovasculaires [C] hypothèse de revue, non prouvée comme cause (PMID 17144883, PMID 15772055). Ce qui est mesuré chez l'humain : l'entraînement baisse la CRP chez les ≥ 60 ans, mais pas de façon fiable l'IL-6 ni le TNF-α [A] (PMID 39740358).\n- Un taux de myokine mesuré après l'effort ne prouve ni bénéfice ni mécanisme. L'exercice a des bénéfices démontrés (voir [exercice-physique.md](fiche:exercice-physique)) indépendamment de ces molécules.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Revue (Pedersen) : le muscle sécrète des myokines qui participeraient à la régulation de la fonction de l'hippocampe ; la cathepsine B franchirait la barrière hémato-encéphalique pour augmenter la production de BDNF ; l'exercice augmenterait l'expression neuronale de FNDC5 ; l'IL-6 augmente avec l'exercice et pourrait contribuer à la suppression centrale de la prise alimentaire [C] (PMID 30837717). Le résumé ne précise pas quelle part de ces mécanismes est établie chez l'humain ; je ne l'extrapole pas [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Myokine | Ce qui est dit | Niveau |\n|---|---|---|\n| Irisine (clivage de FNDC5) | Chez la souris, répond à l'entraînement et favorise le brunissement du tissu adipeux ; chez l'humain, rôle et fonction « controversés » (PMID 33790964) | [C] pour la souris ; [B, controversé] pour l'humain |\n| Irisine, dosage | Les résultats contradictoires chez l'humain sont attribués surtout aux méthodes de détection et de mesure (PMID 26008878) ; l'existence même de l'hormone a été questionnée (PMID 28211512) | [B, controversé] |\n| Irisine et maladie coronarienne | Études à résultats contradictoires, problèmes méthodologiques de dosage (PMID 34276559) | [B, controversé] |\n| IL-6 | Augmente avec l'exercice ; effet possible sur la prise alimentaire (PMID 30837717). Au repos chronique, l'IL-6 élevée est un marqueur inflammatoire : même molécule, contexte opposé | [C] pour l'effet central ; humain non précisé [?] |\n| BDNF et entraînement en résistance, ≥ 60 ans, 36 ECR | Les marqueurs de neuroplasticité (IGF-1, BDNF, FGF-21 regroupés) augmentent : ES 0,51 (IC 0,19-0,84) ; marqueurs pro-inflammatoires (dont IL-6, CRP) : ES -0,66 (IC -0,80 à -0,52) (PMID 41086999) | [A, marqueurs sanguins regroupés, pas de résultat clinique] |\n| BDNF, maladies neurodégénératives, 42 ECR | HIIT et étirements en tête du classement SUCRA, mais aucune supériorité significative vs contrôle ; aérobie et résistance seuls plus bas (PMID 41420424) | [A, non significatif ; SUCRA = rang, pas un effet] |\n| BDNF, MCI, 10 ECR | Cognition globale et fonction exécutive améliorées par l'exercice multicomposante ; BDNF mesuré dans 2 études seulement, résultats conflictuels, « inconclusif » ; certitude GRADE faible (cognition globale) (PMID 42835081) | [A, faible certitude] |\n| Cathepsine B | Passage de la barrière hémato-encéphalique avancé en revue (PMID 30837717) ; pas d'ECR humain trouvé | [C] ; humain [?] |\n| Apeline | Citée parmi les myokines candidates (PMID 42505346) ; aucun effet humain vérifié dans ma recherche | [?] |\n\nLactate comme signal muscle-cerveau (souris) et zone 5 : voir [lactate-zone-5-souffrance-et-bdnf.md](fiche:lactate-zone-5-souffrance-et-bdnf).\n\nPoint de méthode : une revue narrative de 2026 sur l'axe muscle-cerveau liste irisine, BDNF, IL-6, IGF-1, cathepsine B et GDF-15 comme médiateurs de l'axe sarcopénie-déclin cognitif (PMID 42520997) ; une autre sur la maladie d'Alzheimer indique que les effets des myokines (irisine, BDNF, cathepsine B) sont démontrés en préclinique, avec des « obstacles translationnels » (PMID 42268366). Les 30 à 45 % de réduction du risque d'Alzheimer mentionnés dans ce résumé sont épidémiologiques [B].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Le vieillissement s'accompagne d'une inflammation de bas grade (« inflammaging ») liée à la sarcopénie, et d'un muscle qui perd son rôle d'organe sécréteur. Trois étages, de plus solide à plus spéculatif :\n\n1. **Marqueurs inflammatoires (humain, mesuré)** : 19 ECR (728 pers. ≥ 60 ans), la résistance baisse la CRP (MD 0,74 ; p = 0,008) sans effet significatif sur TNF-α ni IL-6, et améliore force des jambes et test de marche 6 min [A] (PMID 39740358). Exercice ± protéines chez les âgés : baisse de CRP et d'IL-6 selon les sous-groupes, TNF-α seulement pour l'association exercice + protéines [A, hétérogène, comparaisons de sous-groupes] (PMID 39584460). Femmes ménopausées en surpoids, 30 ECR (2 124 pers.) : TNF-α SMD -0,47 et CRP SMD -0,36, IL-6 non significative [A] (PMID 41939882). Les effets sont modestes et ne prouvent pas que ces marqueurs médient le gain de santé.\n2. **IL-6 : un double visage** : produite par la fibre musculaire lors de la contraction (voie indépendante du TNF), elle stimule IL-1ra et IL-10, freine le TNF-α et augmente la lipolyse ; hypothèse que le TNF-α, plutôt que l'IL-6, pilote l'insulinorésistance [C] hypothèse de revue (PMID 15772055, PMID 17144883). Chez l'humain, l'IL-6 est donc un signal bénéfique quand il vient du muscle et en pic, un marqueur de risque quand il est chroniquement élevé au repos.\n3. **Irisine, cathepsine B, BDNF : l'axe muscle-cerveau** : cohérent chez la souris, non démontré comme moteur chez l'humain (voir tableau). L'irisine circulante augmente après entraînement dans une méta-analyse de 50 études (1 780 pers., surpoids/obésité, SMD 0,62) [B, dosages ELISA contestés, populations en surpoids] (PMID 42323776) ; une méta-analyse plus ancienne limitée aux 3 ECR trouvait l'inverse, une baisse (d -0,46) [B, contradictoire] (PMID 26392122). Une hausse d'un marqueur dont le dosage est contesté ne dit rien du bénéfice clinique.\n\n**Verdict** : les myokines sont une explication plausible et non un mécanisme prouvé. Les bénéfices anti-âge de l'exercice (force, VO2max, chutes, mortalité en cohorte) sont mesurés directement, voir [exercice-physique.md](fiche:exercice-physique). Le muscle est aussi un tissu à préserver en soi (réserve fonctionnelle, métabolisme du glucose) : une part de l'effet n'a probablement rien à voir avec des molécules sécrétées [?]. Non recherché : SPARC, IL-15, apeline, GDF-15, FGF21 chez l'humain, effets d'un blocage de l'IL-6 sur les adaptations (un protocole d'essai chez des patients sous inhibiteurs d'IL-6 existe, PMID 37169504, sans résultat exploité ici).",
+   "titre": "Pourquoi le sport est un levier anti-âge : ce que les myokines expliquent"
+  },
+  {
+   "markdown": "- **« Boostez votre irisine / vos myokines »** : l'irisine est présentée comme une hormone d'exercice qui brûle la graisse. Chez l'humain, ni le dosage ni le rôle ne sont consensuels (PMID 26008878, PMID 28211512). Tout produit, appareil ou protocole vendu « pour augmenter l'irisine » repose sur [M] et, au mieux, sur de la souris [C].\n- **Compléments « myokines » ou « exerkines »** : aucune étude humaine d'efficacité trouvée [?]. Statut non évalué ici.\n- **Dosages commerciaux** (tests sanguins d'irisine, BDNF) : le BDNF et l'irisine circulants ne sont pas des critères validés pour guider un traitement. Un taux élevé n'est pas un résultat de santé.\n- **« L'exercice marche grâce aux myokines »** : mécanisme proposé, pas démontré comme cause principale. Les bénéfices (force, VO2max, chutes) sont mesurés directement ailleurs.\n- **IL-6 « inflammatoire » vs « myokine »** : un pic transitoire après l'effort n'équivaut pas à l'inflammation chronique ; ne pas extrapoler de l'un à l'autre. Le lien causal avec un bénéfice santé humain est non établi [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Aucune des myokines n'est utilisable comme traitement ; pas de forme pharmaceutique disponible ici. Toute vente de « peptide irisine » ou équivalent relève de la zone grise : se référer aux règles du dépôt sur les substances non autorisées, aucune posologie.\n- Le risque est indirect : remplacer un traitement ou un suivi par un « boost de myokines ».\n- Voir les contre-indications cardiaques et de reprise dans [exercice-physique.md](fiche:exercice-physique) et [hiit-et-zone-5-vo2max.md](fiche:hiit-et-zone-5-vo2max).",
+   "titre": "Sécurité, contre-indications"
+  },
+  {
+   "markdown": "Avant une reprise de l'exercice intense en cas de maladie cardiaque, diabète, âge avancé ou sédentarité longue ; devant un déclin cognitif (consulter plutôt que de chercher un « booster de BDNF ») ; avant d'acheter un « dosage de myokines » ou un complément à cette promesse.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "Toutes lues contre leur résumé PubMed (MCP) ; chiffres issus des résumés.\n- PMID 30837717 : Pedersen BK. Physical activity and muscle-brain crosstalk. Nat Rev Endocrinol (revue narrative ; le résumé ne précise pas l'espèce pour chaque mécanisme).\n- PMID 28211512 : Perakakis N et al. Physiology and role of irisin in glucose homeostasis (revue).\n- PMID 26008878 : Sanchis-Gomar F et al. Circulating irisin detection: Does it really work? (commentaire).\n- PMID 33790964 : Li H et al. The Effect of Irisin as a Metabolic Regulator and Its Therapeutic Potential for Obesity (revue).\n- PMID 34276559 : Ou-Yang WL et al. The Controversial Role of Irisin in Clinical Management of Coronary Heart Disease (revue).\n- PMID 41086999 : Qipo et al. Dose-response of resistance training on biomarkers of inflammation or neuroplasticity in older adults (méta-analyse, 36 ECR).\n- PMID 41420424 : Tang et al. Exercise-induced changes in BDNF in neurodegenerative diseases: Bayesian network meta-analysis (42 ECR, 1 482 patients).\n- PMID 42835081 : Yang et al. Multicomponent exercise on cognition and BDNF in MCI (méta-analyse à 3 niveaux, 10 ECR, 623 pers.).\n- PMID 17144883 : Pedersen BK. The anti-inflammatory effect of exercise: its role in diabetes and cardiovascular disease control. Essays Biochem 2006 (revue).\n- PMID 15772055 : Petersen AM, Pedersen BK. The anti-inflammatory effect of exercise. J Appl Physiol 2005 (revue).\n- PMID 39740358 : Nejatian Hoseinpour et al. Resistance training, inflammatory markers and function in healthy older adults. Arch Gerontol Geriatr 2024 (méta-analyse, 19 ECR).\n- PMID 39584460 : Nejati Bervanlou et al. Exercise and protein intake on inflammaging. Nutr Rev 2025 (méta-analyse).\n- PMID 41939882 : Huang et al. Exercise and systemic inflammation in postmenopausal women with overweight/obesity. Front Immunol 2026 (méta-analyse, 30 ECR).\n- PMID 42323776 : Hejazi et al. Training modalities and circulating irisin in overweight/obesity. Sports Med 2026 (méta-analyse, 50 études).\n- PMID 26392122 : Qiu S et al. Chronic exercise training and circulating irisin in adults. Sports Med 2015 (méta-analyse).\n- PMID 37169504 : Jønck et al. BMJ Open 2023 (protocole d'essai, cité pour l'hypothèse IL-6 uniquement).\n- PMID 42505346, 42520997, 42268366 : revues narratives 2026 (Mănescu ; Dharmansyah ; Shirvani), citées pour la liste des myokines candidates et les limites translationnelles.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Myokines (irisine, IL-6, BDNF, cathepsine B, apeline)",
+ "type": "actif",
+ "unite": ""
+}

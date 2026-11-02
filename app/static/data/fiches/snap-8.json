@@ -1,0 +1,66 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "peptide",
+ "id": "snap-8",
+ "intro": "",
+ "liens": [
+  "acetyl-hexapeptide-8",
+  "aha-bha",
+  "ghk-cu",
+  "the-ordinary-argireline-solution-10"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "31134751",
+  "39082657"
+ ],
+ "preuve_globale": "M",
+ "resume": "Octapeptide cosmétique (INCI : Acetyl Octapeptide-3), présenté sur le marché comme un « botox-like » apparenté à l'Argireline (acétyl hexapeptide-8) : même idée, un mimétisme du complexe SNARE censé freiner la contraction des muscles d'expression [M].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Octapeptide cosmétique (INCI : Acetyl Octapeptide-3), présenté sur le marché comme un « botox-like » apparenté à l'[Argireline](fiche:acetyl-hexapeptide-8) (acétyl hexapeptide-8) : même idée, un mimétisme du complexe SNARE censé freiner la contraction des muscles d'expression [M].\n- **Aucune étude humaine ne l'isole** dans PubMed (recherches « SNAP-8 », « acetyl octapeptide-3 », 2026-10-14) : les deux seuls essais trouvés l'incluent dans des **patchs à micro-aiguilles multi-actifs**, avec des coauteurs de la société qui les fabrique (Raphas Co.). Aucune comparaison avec l'Argireline ni avec la toxine botulique [?].\n- Le dispositif de ces essais (micro-aiguilles dissolvantes) franchit la barrière cutanée, ce qu'une crème ne fait pas : les résultats ne se transposent pas à un sérum ou une crème.\n- Verdict : ingrédient d'allégation marketing sans preuve propre ; à juger sur le reste de la formule (hydratation, filtre solaire, rétinoïde) plutôt que sur lui.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Proposé par les fournisseurs : le peptide imiterait une partie de la protéine SNAP-25, gênerait l'assemblage du complexe SNARE et donc la libération d'acétylcholine à la jonction neuromusculaire [M, mécanisme de marque]. Aucune étude indépendante de ce mécanisme sur la peau humaine trouvée [?]. Pour le même mécanisme attribué à l'Argireline, voir [acétyl hexapeptide-8](fiche:acetyl-hexapeptide-8).\n- Pénétration d'une crème jusqu'au muscle : non documentée [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Rides, patch à micro-aiguilles (acetyl octapeptide-3 + palmitoyl tripeptide-5 + polypeptide arginine/lysine + adénosine + extraits d'algues), 12 semaines | Fines lignes −25,8 %, hydratation +15,4 %, densité dermique +14,2 %, épaisseur +12,9 % ; effets de la combinaison, tolérance excellente décrite | [B, multi-actifs, fabricant] (PMID 31134751) |\n| Rides péri-oculaires, patch à micro-aiguilles (acetyl octapeptide-3 + ascorbyl glucoside + acide lysophosphatidique cyclique), 28 jours, n=24 | Amélioration des rides, TEWL plus bas, élasticité meilleure vs patch placebo (acide hyaluronique seul) ; aucun effet indésirable décrit | [B, n=24, fabricant] (PMID 39082657) |\n| Crème ou sérum avec SNAP-8 isolé | Aucun essai trouvé | [?] |\n| Comparaison avec toxine botulique ou Argireline | Aucun essai trouvé | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Concentrations des essais : non données dans les résumés [?]. Produits vendus : concentration le plus souvent non déclarée ; un produit contenant du SNAP-8 n'est pas une source de la dose étudiée.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Topique cosmétique** : ingrédient INCI « Acetyl Octapeptide-3 ». CosIng : « ACETYL OCTAPEPTIDE-3 », fonctions « HUMECTANT » et « SKIN CONDITIONING », aucune annexe ni restriction de concentration listée (CosIng, API publique, consulté le 2026-10-14). Présence dans des produits vendus en France : non relevée pour cette fiche [?].\n- **Micro-aiguilles dissolvantes** : dispositifs cosmétiques/esthétiques ; statut précis (cosmétique ou dispositif médical) : non consulté [?].\n- **Injectable** : aucune autorisation ; pas d'usage à envisager (règle 7).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Tolérance dans les deux essais cités : aucun effet indésirable cutané notable décrit dans les résumés [B] (PMID 31134751, PMID 39082657) ; ils testent des patchs, pas des crèmes.\n- Peptides cosmétiques en général : irritation et allergie possibles (conservateurs, parfums de la formule) ; test sur une petite zone. Grossesse : aucune donnée trouvée [?].\n- Association avec les acides forts, la vitamine C pure : voir [GHK-Cu](fiche:ghk-cu) et [AHA et BHA](fiche:aha-bha) ; incompatibilités propres au SNAP-8 : aucune donnée trouvée [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Aucun produit du dépôt ne contient d'acétyl octapeptide-3 d'après les fiches produit actuelles. Comparaison la plus proche : [The Ordinary Argireline Solution 10 %](fiche:the-ordinary-argireline-solution-10).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Avcil M et al. *J Cosmet Dermatol* 2020 — PMID 31134751 — [DOI](https://doi.org/10.1111/jocd.13009) (étude monocentrique ; coauteurs : Imperial Bioscience, Raphas Co., Dermatest)\n2. Shin JY et al. *Ann Dermatol* 2024 — PMID 39082657 — [DOI](https://doi.org/10.5021/ad.23.136) (coauteur : Raphas Co.)\n3. Recherche PubMed du 2026-10-14 : « SNAP-8 », « acetyl octapeptide-3 », « SNAP-8 acetyl octapeptide-3 » — aucun essai isolant le peptide.\n4. CosIng (Commission européenne), entrée ACETYL OCTAPEPTIDE-3, consultée le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "SNAP-8 (acétyl octapeptide-3)",
+ "type": "actif",
+ "unite": ""
+}

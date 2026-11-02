@@ -1,0 +1,124 @@
+{
+ "cibles": [
+  "muscle-os",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-10",
+ "famille": "",
+ "id": "osteoporose-et-densite-osseuse",
+ "intro": "",
+ "liens": [
+  "bilans-biologiques",
+  "entrainement-en-resistance",
+  "equilibre-mobilite-et-prevention-chutes",
+  "proteines",
+  "resorption-osseuse-du-visage",
+  "sarcopenie",
+  "the-et-sante",
+  "vitamine-d"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 18,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "37130601",
+  "42161415",
+  "36749350",
+  "39808441",
+  "33103722",
+  "41779026",
+  "36966875",
+  "38228807",
+  "39813642",
+  "36592455",
+  "28892457",
+  "24084921",
+  "30293909",
+  "32399891",
+  "28404575",
+  "30703272",
+  "32813950",
+  "39227560"
+ ],
+ "preuve_globale": "A",
+ "resume": "Les médicaments (bisphosphonates, dénosumab, anabolisants) réduisent les fractures chez la femme ménopausée à risque ; les anabolisants (tériparatide, romosozumab) font mieux que les bisphosphonates dans une méta-analyse en réseau (OR clinique 1,49 pour bisphosphonates vs agonistes PTH), certitud…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Les médicaments (bisphosphonates, dénosumab, anabolisants) réduisent les fractures chez la femme ménopausée à risque ; les anabolisants (tériparatide, romosozumab) font mieux que les bisphosphonates dans une méta-analyse en réseau (OR clinique 1,49 pour bisphosphonates vs agonistes PTH), certitude modérée à faible [A] (PMID 37130601).\n- Calcium et vitamine D en prévention chez l'adulte non à risque : « peu ou pas d'effet » sur les fractures (calcium seul RR 0,91, IC 0,81-1,01 ; vitamine D seule RR 1,00 ; association RR 0,91, IC 0,84-0,99, jugé non cliniquement important par les auteurs) [A] (PMID 42161415).\n- L'exercice en résistance et à impact ajoute un petit gain de densité (SMD 0,27 à 0,41 selon le site) [A, hétérogène] (PMID 36749350). Effet sur les fractures elles-mêmes : non établi dans les sources lues [?].\n- Le dépistage ciblé de la femme âgée à risque (FRAX puis DMO) réduit un peu les fractures de hanche (RR 0,83) : 5 à 6 fractures évitées pour 1000 dépistées [A] (PMID 39808441).\n- Le dénosumab ne s'arrête pas sans relais : rebond de la résorption et fractures vertébrales multiples possibles [B] (PMID 33103722).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "L'os est remodelé en permanence (résorption par les ostéoclastes, formation par les ostéoblastes). Après la ménopause la résorption l'emporte ; la densité (DMO) baisse et la microarchitecture se dégrade. Les antirésorptifs freinent la résorption ; les anabolisants stimulent la formation. Le risque de fracture dépend de la DMO, de l'âge, des antécédents et du risque de chute, d'où l'écart entre « DMO basse » et « fracture » : les outils de prédiction (FRAX et autres) ont une discrimination « pauvre à modeste » (AUC surtout entre 0,60 et 0,80 pour la fracture ostéoporotique majeure ou de hanche) (PMID 39808441).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "- **Tabac actif** : hanche HR 1,78 (1,58-2,00) chez l'homme, 1,64 (1,50-1,78) chez la femme ; la DMO basse n'explique que 19 à 54 % du surrisque ; les anciens fumeurs sont proches des non-fumeurs (hanche, homme : HR 1,08) [B, cohortes observationnelles] (PMID 41779026).\n- **Alcool** : plus haut vs plus bas niveau, fracture totale RR 1,26 (1,17-1,37), hanche RR 1,20 (1,03-1,40) ; +6 % de fractures par 14 g/j ; relation en J pour la hanche (0-22 g/j associé à un risque plus bas, association observationnelle, non causale) [B] (PMID 36966875).\n- **Corticoïdes au long cours, ménopause précoce, fracture sans traumatisme majeur, IMC bas, antécédent familial de fracture du col** : critères d'orientation cités pour le remboursement de la DMO (voir ci-dessous) ; leur poids chiffré n'a pas été relu dans une source primaire [?].\n- Âge, sexe féminin, antécédent de chute : la chute précédente augmente le risque de fracture (méta-analyse de cohortes, PMID 38228807), chiffre non relu [?].",
+   "titre": "Facteurs de risque"
+  },
+  {
+   "markdown": "- **FRAX puis DMO** : les essais de dépistage en deux temps (FRAX, DMO si seuil dépassé) chez la femme de 65 ans et plus à risque réduisent les fractures de hanche (RR 0,83 ; 0,73-0,93) et ostéoporotiques majeures (RR 0,94 ; 0,88-0,99), 3 ECR, 42 009 participantes [A] (PMID 39808441). Aucune donnée sur la DMO seule, l'homme ou la femme plus jeune (même source).\n- **Ostéodensitométrie (DEXA) en France** : prise en charge par l'Assurance maladie à 70 % pour des indications ciblées (ménopause précoce, corticothérapie prolongée, fracture sans traumatisme majeur, etc.) ; il n'y a pas de dépistage de masse (recherche web sur sources secondaires et réponses parlementaires, avis HAS de 2006 ; critères actuels de la nomenclature non vérifiés sur ameli.fr ni has-sante.fr, consultés le 2026-10-10) [?].",
+   "titre": "Dépistage et diagnostic"
+  },
+  {
+   "markdown": "| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Bisphosphonates (alendronate, zolédronate…) | antirésorptif | Fractures cliniques et vertébrales réduites vs placebo [A] (PMID 37130601) ; hanche RR 0,67 (0,45-1,00), 6 ECR, 12 055 participants [A] (PMID 39808441). Zolédronate perfusé à 56 ans en moyenne : fracture vertébrale morphométrique 6,3 % vs 11,1 % à 10 ans (RR 0,56 ; 0,34-0,92) [B, ECR unique n=1054] (PMID 39813642) | médicament sur ordonnance (BDPM/HAS pour chaque spécialité non consultés) | non relevé |\n| Dénosumab (Prolia) | anticorps anti-RANKL, antirésorptif | Hanche RR 0,60 (0,37-0,97), plus grand ECR n=7808 [B, ECR unique n=7808] (PMID 39808441) ; moins efficace que les anabolisants sur fractures cliniques (OR 1,85 vs agonistes PTH) [A] (PMID 37130601) | médicament sur ordonnance, liste I, 65 % ; remboursé uniquement dans l'ostéoporose post-ménopausique à risque élevé, en 2e intention après bisphosphonates (BDPM, mise à jour 2026-09-29 ; HAS, consultés le 2026-10-10) | non relevé |\n| Tériparatide / agonistes PTH | anabolisant | Plus efficace que les bisphosphonates sur fractures cliniques ; abandons pour effets indésirables plus fréquents [A] (PMID 37130601, 36592455) | médicament sur ordonnance ; BDPM/HAS non consultés [?] | non relevé |\n| Romosozumab (Evenity) | anti-sclérostine, anabolisant puis antirésorptif | vs alendronate 24 mois : fracture vertébrale 6,2 % vs 11,9 %, hanche 2,0 % vs 3,2 % [B, ECR unique n=4093] (PMID 28892457) | médicament ; HAS : remboursé uniquement chez la femme ménopausée de moins de 75 ans, ostéoporose sévère avec fracture sévère, sans coronaropathie ; SMR insuffisant ailleurs (HAS, avis, consultés le 2026-10-10 ; date et BDPM non confirmées) | non relevé |\n| Traitement hormonal de la ménopause (THS) | œstrogènes | Hanches moins fracturées dans l'essai WHI, mais plus de cancer du sein, AVC, embolie (avec œstroprogestatif) [A] (PMID 24084921). Usage ostéoporose, indication et statut FR : non recherchés [?] | médicament sur ordonnance | non relevé |\n\nLecture : la HAS rembourse les anabolisants et le dénosumab en restriction, les bisphosphonates restent le premier choix (BDPM et HAS pour les bisphosphonates non consultés [?]). La méta-analyse en réseau n'a trouvé « aucun signal de harm » mais la certitude est moyenne à faible (PMID 37130601). Chez l'homme : non recherché [?].",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Voir [vitamine D](fiche:vitamine-d) : fracture totale RR 1,00, hanche RR 1,11, chutes RR 0,97 chez l'adulte en population générale [A] (PMID 30293909). La méta-analyse BMJ 2026 (69 essais, 153 902 participants) conclut à « peu ou pas de bénéfice » du calcium, de la vitamine D ou de leur association, avec 73 % de participants sans risque élevé de fracture ou de chute ; données limitées chez les personnes à haut risque ou en institution [A] (PMID 42161415). Corriger une carence documentée reste un acte médical ; les essais ne disent rien sur les carencés.",
+   "titre": "Calcium et vitamine D"
+  },
+  {
+   "markdown": "- Entraînement physique ≥ 6 mois chez la femme ménopausée : SMD 0,29 (rachis), 0,27 (col fémoral), 0,41 (hanche totale), 80 études, 5581 participantes ; pas de différence selon ostéoporose ou non, ni supervision [A, hétérogénéité jusqu'à 68 %] (PMID 36749350).\n- Résistance dynamique : SMD 0,54 (rachis), 0,22 (col), 0,48 (hanche) ; effet « faible à modéré », sans recommandation de dose dérivable [A] (PMID 32399891). Voir [entraînement en résistance](fiche:entrainement-en-resistance).\n- Impact (sauts) et effet sur les fractures : non relus [?].\n- Précaution : charger lourd avec ostéoporose sévère se fait supervisé, sans flexion de colonne sous charge (non sourcé, avis médical).",
+   "titre": "Exercice"
+  },
+  {
+   "markdown": "Un apport protéique plus élevé a un effet protecteur modeste sur la DMO lombaire (+0,52 %, IC 0,06-0,97 ; 5 ECR) mais aucun sur hanche, col ou corps entier ; données hétérogènes, confusion possible, aucun effet délétère [A, hétérogène] (PMID 28404575). Fiche [protéines](fiche:proteines) et [sarcopénie](fiche:sarcopenie).",
+   "titre": "Protéines"
+  },
+  {
+   "markdown": "L'exercice d'équilibre réduit les fractures liées aux chutes (RR 0,73 ; 0,56-0,95 ; 10 études) [A, certitude faible] (PMID 30703272). Détail dans [équilibre, mobilité et prévention des chutes](fiche:equilibre-mobilite-et-prevention-chutes). La vitamine D ne fait pas baisser les chutes (RR 0,97) (PMID 30293909).",
+   "titre": "Prévention des chutes"
+  },
+  {
+   "markdown": "- **Fracture atypique du fémur (bisphosphonates)** : HR 8,86 (2,79-28,20) à 3-5 ans de traitement, jusqu'à 43,51 (13,70-138,15) à 8 ans ou plus, vs moins de 3 mois ; risque plus élevé chez les Asiatiques (HR 4,84) et sous glucocorticoïdes ; le risque chute à l'arrêt [B, cohorte n=196 129] (PMID 32813950). Les bénéfices sur les fractures de hanche l'emportent chez les Blancs (même source). Ostéonécrose de la mâchoire : possible, risque absolu faible, ≥ 36 mois [A] (PMID 36592455).\n- **Dénosumab à l'arrêt** : rebond de renouvellement osseux, perte de DMO rapide, fractures vertébrales multiples ; facteurs de risque : fractures vertébrales préalables, durée hors traitement ; un antirésorptif de relais doit être démarré 6 mois après la dernière injection (position ECTS, avis d'experts) (PMID 33103722). ANSM : point d'information sur le risque de fractures vertébrales multiples, lien causal non établi à sa publication (consulté le 2026-10-10 via recherche web, texte intégral non lu).\n- **Romosozumab** : pas de différence significative de mortalité cardiovasculaire ni d'événements cardiovasculaires majeurs vs placebo dans une méta-analyse en réseau [A] (PMID 39227560), alors que la HAS restreint le remboursement aux femmes sans coronaropathie et de moins de 75 ans.\n- **Tériparatide, abaloparatide** : plus d'abandons pour effets indésirables [A] (PMID 36592455).",
+   "titre": "Sécurité des traitements"
+  },
+  {
+   "markdown": "- Débutant : arrêt du tabac, alcool réduit, apport protéique suffisant, marche et exercices d'équilibre, évaluation du risque de chute.\n- Intermédiaire : musculation progressive 2 fois/semaine (voir fiche résistance), FRAX avec le médecin après 65 ans ou plus tôt si facteur de risque.\n- Avancé (médical) : DMO, bilan de causes secondaires (voir [bilans biologiques](fiche:bilans-biologiques)), choix du traitement et de sa séquence (anabolisant puis antirésorptif) par un spécialiste.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Prendre du calcium et de la vitamine D « pour les os » sans être à risque ni carencé.\n- Arrêter le dénosumab sans relais.\n- Croire qu'une DMO normale exclut la fracture : la DMO prédit mal à elle seule (AUC 0,60-0,80) (PMID 39808441).\n- Laisser un bisphosphonate sans réévaluation pendant des années (fracture atypique).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Calcium + D3 pour des os solides » : pas d'effet cliniquement important sur les fractures chez l'adulte sans risque élevé [A] (PMID 42161415).\n- « Lait ou thé = os solides » : effet du thé sur les fractures non relu dans une source primaire pour cette fiche [?] ; voir [thé et santé](fiche:the-et-sante).\n- « Collagène, silicium, compléments “osseux” » : non recherchés [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Un seul traitement de zolédronate à 56 ans en moyenne réduit encore les fractures vertébrales morphométriques à 10 ans (RR 0,56 pour deux perfusions) [B, ECR unique n=1054] (PMID 39813642).\n- Le surrisque lié au tabac disparaît presque à l'arrêt (hanche, homme : HR 1,08 chez les anciens fumeurs vs 1,73 chez les fumeurs actuels) (PMID 41779026).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Résorption de l'os facial et alvéolaire : voir [résorption osseuse du visage](fiche:resorption-osseuse-du-visage). Aucun lien direct ostéoporose ↔ mâchoire trouvé dans les revues lues [?].",
+   "titre": "Visage et mâchoire"
+  },
+  {
+   "markdown": "Fracture à faible énergie, perte de taille ou dos voûté, corticoïdes prolongés, ménopause avant 40 ans, IMC bas, chutes répétées, antécédent familial de fracture du col : consulter un médecin pour FRAX et DMO.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 37130601 — Händel MN et al., *BMJ* 2023. doi:10.1136/bmj-2021-068033\n- PMID 36592455 — Ayers C et al., *Ann Intern Med* 2023. doi:10.7326/M22-0684 (l'abstract chiffré partiellement relu)\n- PMID 42161415 — Massé O et al., *BMJ* 2026. doi:10.1136/bmj-2025-088050\n- PMID 30293909 — Bolland MJ et al., *Lancet Diabetes Endocrinol* 2018 (repris de la fiche vitamine D)\n- PMID 39808441 — Kahwati LC et al., *JAMA* 2025 (revue pour l'USPSTF)\n- PMID 28892457 — Saag KG et al., *N Engl J Med* 2017 (ARCH)\n- PMID 39227560 — Cheng SH et al., *Drug Saf* 2025\n- PMID 39813642 — Bolland MJ et al., *N Engl J Med* 2025\n- PMID 33103722 — Tsourdi E et al., *J Clin Endocrinol Metab* 2020 (position ECTS)\n- PMID 32813950 — Black DM et al., *N Engl J Med* 2020\n- PMID 24084921 — Manson JE et al., *JAMA* 2013 (WHI)\n- PMID 36749350 — Kemmler W et al., *Osteoporos Int* 2023\n- PMID 32399891 — Shojaa M et al., *Osteoporos Int* 2020\n- PMID 28404575 — Shams-White MM et al., *Am J Clin Nutr* 2017\n- PMID 41779026 — Schini M et al., *Osteoporos Int* 2026\n- PMID 36966875 — Ke Y et al., *Adv Nutr* 2023\n- PMID 30703272 — Sherrington C et al., *Cochrane Database Syst Rev* 2019 (repris de la fiche équilibre)\n- PMID 38228807 — Vandenput L et al., *Osteoporos Int* 2024 (titre vu, résumé non relu)\n- Réglementaire, consultés le 2026-10-10 : BDPM Prolia 60 mg (base-donnees-publique.medicaments.gouv.fr/medicament/64256891), avis HAS Evenity (has-sante.fr/jcms/p_4174815), avis HAS Prolia (has-sante.fr/jcms/p_3203277), ANSM point d'information Prolia, DEXA : sources secondaires.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Ostéoporose et densité osseuse",
+ "type": "condition",
+ "unite": ""
+}

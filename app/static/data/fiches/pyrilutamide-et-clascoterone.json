@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-11",
+ "famille": "medicament",
+ "id": "pyrilutamide-et-clascoterone",
+ "intro": "",
+ "liens": [
+  "alopecie-androgenetique",
+  "dutasteride",
+  "finasteride",
+  "minoxidil",
+  "peptides-capillaires"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "33030710",
+  "30811143",
+  "36169916",
+  "41919230",
+  "33942574",
+  "42653799",
+  "42418259",
+  "42290527"
+ ],
+ "preuve_globale": "M",
+ "resume": "Deux antagonistes topiques du récepteur des androgènes, censés agir dans le follicule sans bloquer la production de DHT par voie orale comme le finastéride. Ni l'un ni l'autre n'est autorisé contre la chute des cheveux en France à notre connaissance.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Deux **antagonistes topiques du récepteur des androgènes**, censés agir dans le follicule sans bloquer la production de DHT par voie orale comme le [finastéride](fiche:finasteride). Ni l'un ni l'autre n'est autorisé contre la chute des cheveux en France à notre connaissance.\n- Pour les deux, les résultats d'essais de phase 3 **ne sont connus que par des communiqués d'entreprise et la presse spécialisée** : aucune publication à comité de lecture trouvée dans PubMed [M]. Je ne cite donc pas de chiffre d'efficacité.\n- La clascotérone en crème 1 % est autorisée par la FDA contre l'acné depuis août 2020 (PMID 33030710) ; la solution plus concentrée pour la chute des cheveux n'est pas autorisée.\n- Aucune comparaison directe avec minoxidil ou finastéride trouvée : ils restent les [traitements de référence](fiche:alopecie-androgenetique).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Clascotérone : se fixe au récepteur des androgènes en concurrence avec la DHT (PMID 33030710). In vitro, dans des cellules de papille dermique humaines, elle inhibe la transcription dépendante du récepteur avec une efficacité comparable à celle du finastéride dans une lignée rapporteuse, et réduit mieux la synthèse d'IL-6 que l'enzalutamide [D, in vitro, financé par le fabricant] (PMID 30811143).\n- Pyrilutamide : antagoniste topique du récepteur des androgènes, classé parmi les traitements en cours d'étude dans des revues (PMID 36169916, PMID 41919230) ; données mécanistiques indépendantes : non recherchées [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Molécule | Donnée | Preuve |\n|---|---|---|\n| Clascotérone solution 5 % | Phase 3 (SCALP 1 et 2, 1 465 sujets, États-Unis et Europe) annoncée « positive » par Cosmo en décembre 2025 ; à 12 mois, comptage de cheveux 2,39 fois supérieur au groupe passé sous véhicule après 6 mois ; arrêt du traitement = perte des gains ; communiqués du fabricant, pas de publication relue | [M] |\n| Clascotérone, sécurité cardiaque | Phase 1, 32 volontaires, application topique de 7,5 % à dose supra-thérapeutique : aucun effet sur l'intervalle QT ; la solution pour l'alopécie donne une concentration systémique mesurable, contrairement à la crème ; étude financée par le fabricant | [B, ECR phase 1 n=32] (PMID 33942574) |\n| Clascotérone, crème 1 % (acné) | Autorisée par la FDA en août 2020 chez les 12 ans et plus ; essais de phase 3 : moins de lésions que sous véhicule, effet maintenu jusqu'à 12 mois | [A, pour l'acné ; non transposable à la chute des cheveux] (PMID 33030710, PMID 42653799) |\n| Pyrilutamide 0,5 % deux fois par jour | Kintor annonce un critère principal atteint en phase 3 en Chine (communiqué rapporté par la presse en mars 2026) ; phase 2 : +15,34 cheveux/cm² vs placebo à 24 semaines selon le fabricant ; aucun chiffre vérifié, aucune publication relue | [M] |\n| Pyrilutamide, souris | Une molécule concurrente de l'entreprise Simcere est présentée comme équivalente à 0,5 % de pyrilutamide chez la souris | [C] (PMID 42418259) |\n| Les deux, comparaison avec minoxidil ou finastéride | Aucune | [?] |\n\nLes revues citées placent ces molécules dans le « pipeline » (PMID 42290527, PMID 36169916) : elles décrivent des traitements en développement, pas des preuves établies. La revue de 2026 écrit que les essais en cours et à venir détermineront leur rôle définitif (PMID 42290527).",
+   "titre": "Preuves par indication (alopécie androgénétique masculine)"
+  },
+  {
+   "markdown": "- Essais : clascotérone solution 5 %, pyrilutamide 0,5 % deux fois par jour. Ce sont des doses d'essais, pas une consigne.\n- Des produits « KX-826 » ou « clascotérone » circulent en ligne hors circuit autorisé : contenu, pureté et dose réels inconnus [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Clascotérone crème 1 % (Winlevi)** : FDA 2020 (acné) (PMID 33030710). Statut dans l'UE et en France : non consulté [?].\n- **Clascotérone solution (Breezula)** : en développement ; selon des sources de presse, dépôt de demande aux États-Unis prévu début 2027 (dates divergentes selon les sources, non confirmées par le fabricant) [?].\n- **Pyrilutamide** : en Chine, dépôt de demande d'autorisation annoncé par l'entreprise ; aucune autorisation en France ou dans l'UE trouvée ; BDPM et EMA non consultées [?].\n- AMA : non recherché [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Clascotérone : comme antiandrogène, un passage systémique est théoriquement possible ; seule la solution l'expose de façon mesurable (PMID 33942574). Effets indésirables des essais d'alopécie : « comparables au véhicule » selon le fabricant [M] ; incidence exacte non vérifiée.\n- Pyrilutamide : sécurité non vérifiée par une source indépendante [?].\n- Effets hormonaux (libido, fertilité, gynécomastie) : aucune donnée vérifiée pour ces topiques [?]. Grossesse : contre-indication de principe pour tout antiandrogène, à confirmer avec un médecin.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Alternative sans effets secondaires au finastéride » : l'absence d'effets sexuels n'est pas démontrée par des données indépendantes ; elle repose sur l'hypothèse d'une faible exposition systémique.\n- « Phase 3 réussie » : communiqué d'entreprise, sans publication relue ni chiffres vérifiables ici.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucun produit autorisé à recommander (règle 7 pour les produits non autorisés).\n\nVoir aussi : [finastéride](fiche:finasteride), [dutastéride](fiche:dutasteride), [minoxidil](fiche:minoxidil), [peptides capillaires](fiche:peptides-capillaires).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- Traitements de référence de l'[alopécie androgénétique](fiche:alopecie-androgenetique) : minoxidil topique (preuve [A]), finastéride sur ordonnance. Option d'essai clinique : à discuter avec un dermatologue.",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "1. Dhillon S. *Drugs* 2020 — PMID 33030710 — [DOI](https://doi.org/10.1007/s40265-020-01417-6)\n2. Rosette C et al. *J Drugs Dermatol* 2019 — PMID 30811143\n3. Täubel J et al. *Clin Pharmacol Drug Dev* 2021 — PMID 33942574 — [DOI](https://doi.org/10.1002/cpdd.935)\n4. Shefa S et al. *Pharmaceuticals (Basel)* 2026 — PMID 42653799 — [DOI](https://doi.org/10.3390/ph19081304)\n5. Saceda-Corralo D et al. *Am J Clin Dermatol* 2023 — PMID 36169916 — [DOI](https://doi.org/10.1007/s40257-022-00730-y)\n6. Agrawal A et al. *Expert Opin Pharmacother* 2026 — PMID 42290527 — [DOI](https://doi.org/10.1080/14656566.2026.2690108)\n7. Burshtein J et al. *Front Pharmacol* 2026 — PMID 41919230 — [DOI](https://doi.org/10.3389/fphar.2026.1776134)\n8. Zhang Y et al. *J Med Chem* 2026 — PMID 42418259 — [DOI](https://doi.org/10.1021/acs.jmedchem.5c03640)\n9. Cosmo Pharmaceuticals, communiqués Breezula (via Swiss Biotech Association et Newsfile, consultés le 2026-10-11 par résultat de recherche) ; Kintor, KX-826 (via BioWorld, HKEX, ClinicalTrials.gov NCT06126965, consultés le 2026-10-11 par résultat de recherche) : sources d'entreprise ou secondaires, non relues en texte intégral.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "Pyrilutamide (KX-826) et clascotérone topiques",
+ "type": "actif",
+ "unite": ""
+}

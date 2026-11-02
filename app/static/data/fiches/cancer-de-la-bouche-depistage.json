@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "sens-bouche",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "cancer-de-la-bouche-depistage",
+ "intro": "",
+ "liens": [
+  "dents-et-parodontite",
+  "tabac-et-alcool"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "15936419",
+  "15689610",
+  "31803979",
+  "37989648",
+  "36599217",
+  "34864525"
+ ],
+ "preuve_globale": "B",
+ "resume": "Le dépistage par examen visuel n'a qu'un essai randomisé (Kerala) : mortalité globale non significativement réduite (taux 0,79, IC 0,51-1,22), mais -34 % chez les consommateurs de tabac ou d'alcool (0,66, IC 0,45-0,95) [B, ECR unique n=191 873] (PMID 15936419).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Le dépistage par examen visuel n'a qu'un essai randomisé (Kerala) : mortalité globale non significativement réduite (taux 0,79, IC 0,51-1,22), mais -34 % chez les consommateurs de tabac ou d'alcool (0,66, IC 0,45-0,95) [B, ECR unique n=191 873] (PMID 15936419).\n- Cochrane (2005) : pas de preuve pour recommander ou non le dépistage en population générale (PMID 15689610, ancien).\n- Les lésions précancéreuses se transforment en cancer : 7,9 % en moyenne ; leucoplasie 9,5 % ; érythroplasie 33,1 % ; leucoplasie verruqueuse proliférante 49,5 % ; lichen plan 1,4 % [A, observationnel] (PMID 31803979).\n- En France, aucun programme organisé ; l'INCa met en avant le rôle du dentiste et du médecin traitant et la consultation si un signe dure plus de 10 jours.\n- Facteurs de risque majeurs : tabac et alcool (voir [tabac et alcool](fiche:tabac-et-alcool)).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Lésions potentiellement malignes (leucoplasie, érythroplasie, lichen) avec dysplasie : la dysplasie modérée/sévère est « meaningfully » plus à risque que la légère (valeur de l'OR non relue) (PMID 31803979). Rôle du papillomavirus (HPV) : non recherché ici [?].",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "- Examen visuel et palpation des lèvres, de la cavité buccale, de l'oropharynx visible, et du cou dans 15 programmes sur 27 ; grande hétérogénéité de la méthode (PMID 37989648, revue systématique).\n- Kerala : 96 517 participants dépistés vs 95 356 contrôles (3 tours à 3 ans) ; 205 cas et 77 décès vs 158 cas et 87 décès ; 63 % de compliance à l'orientation des positifs [B, ECR unique] (PMID 15936419). Un suivi à 15 ans rapporte -81 % de mortalité chez les adhérents à 4 tours en population à risque, soit une analyse per-protocole sujette à biais (PMID 36599217, perspective).\n- Modélisation américaine : nombre à dépister pour éviter un décès = 9 845 en population générale ≥ 35 ans, 1 485 chez les gros fumeurs de 50-79 ans (modélisation, pas une mesure) [?] (PMID 34864525).\n- France : e-cancer indique que le dentiste est souvent le premier à repérer les signes, que 70 % des cancers de la bouche sont diagnostiqués trop tard et que tout signe inhabituel > 10 jours doit amener à consulter ; pas de recommandation HAS de dépistage trouvée (e-cancer et recherche web, consultés le 2026-10-15 ; texte intégral non relu [?]).",
+   "titre": "Dépistage"
+  },
+  {
+   "markdown": "Chirurgie, radiothérapie, chimiothérapie : hors périmètre de cette fiche, non recherchés [?].",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Débutant : autoexamen de la bouche (ulcère, tache blanche ou rouge, induration) ; consulter si > 10 jours.\n- Intermédiaire : examen par le dentiste à chaque visite, surtout si tabac/alcool (voir [dents et parodontite](fiche:dents-et-parodontite)).\n- Avancé : biopsie de toute lésion suspecte ; suivi des lésions potentiellement malignes selon le spécialiste.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Attribuer un ulcère persistant à une « aphte » sans consulter.\n- Se croire protégé parce qu'on ne fume pas : non recherché ici [?].",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Tests salivaires / colorants / lampes de fluorescence de dépistage » : aucune preuve robuste de bénéfice ou de nocivité (Cochrane 2005) (PMID 15689610).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- La perte de mortalité dans Kerala n'est significative que dans le sous-groupe tabac/alcool, analyse de sous-groupe (PMID 15936419).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Ulcération, plaque blanche ou rouge, gonflement ou douleur persistant plus de 10 jours (e-cancer, consulté le 2026-10-15) : médecin ou dentiste.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "[Dents et parodontite](fiche:dents-et-parodontite) · [Tabac et alcool](fiche:tabac-et-alcool)",
+   "titre": "Voir aussi"
+  },
+  {
+   "markdown": "- PMID 15936419 — Sankaranarayanan R et al., *Lancet* 2005 (résumé relu).\n- PMID 15689610 — Kujan O et al., *J Dent Educ* 2005 (résumé relu).\n- PMID 31803979 — Iocca O et al., *Head Neck* 2020 (résumé relu).\n- PMID 37989648 — Louredo BVR et al., *Oral Surg Oral Med Oral Pathol Oral Radiol* 2024 (résumé relu).\n- PMID 36599217 — Mandrik O et al., *J Cancer Policy* 2023 (résumé relu).\n- PMID 34864525 — Cramer JD et al., *Oral Oncol* 2022 (résumé relu).\n- e-cancer.fr, dépistage des cancers de la bouche (consulté le 2026-10-15).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Cancer de la bouche et dépistage oral",
+ "type": "condition",
+ "unite": ""
+}

@@ -1,0 +1,69 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "cosmetique",
+ "id": "alpecin-c1-shampooing-cafeine",
+ "intro": "",
+ "liens": [
+  "cafeine-topique",
+  "minoxidil-cooper-5-solution"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "17396054",
+  "17214716",
+  "40986632"
+ ],
+ "preuve_globale": "B",
+ "resume": "Un shampooing correct et bon marché, mais rien ne montre qu'il freine l'alopécie androgénétique : l'essai le plus cité sur la caféine porte sur une lotion sans rinçage, pas sur ce shampooing.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Un shampooing correct et bon marché, mais rien ne montre qu'il freine l'alopécie androgénétique : l'essai le plus cité sur la caféine porte sur une lotion sans rinçage, pas sur ce shampooing.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Ingrédient (INCI) | Concentration | Preuve capillaire |\n|---|---|---|\n| Caffeine | non déclarée (7e de la liste) | [D] in vitro ; [B] pour une lotion à 0,2 % (voir [caféine topique](fiche:cafeine-topique)) |\n| Zinc PCA, Niacinamide, Panthenol, Hydrolyzed Wheat Protein | non déclarées | [?] aucune étude du produit trouvée |\n| Sodium Laureth Sulfate, Laureth-2, Disodium Laureth Sulfosuccinate, Sodium Lauroyl Glutamate | — | Tensioactifs (lavage) |\n| Menthol, Propylene Glycol, Parfum, Limonene, Linalyl Acetate, Citrus Aurantium Peel Oil | — | Sensation de fraîcheur, parfum ; allergènes possibles |\n\nINCI complet : Aqua, Sodium Laureth Sulfate, Laureth-2, Disodium Laureth Sulfosuccinate, Sodium Lauroyl Glutamate, Sodium Chloride, Caffeine, Panthenol, PEG-120 Methyl Glucose Dioleate, Citric Acid, Sodium Citrate, Propylene Glycol, Menthol, PEG-40 Hydrogenated Castor Oil, Polyquaternium-7, Disodium EDTA, Zinc PCA, Hydrolyzed Wheat Protein, Niacinamide, Tocopherol, Vegetable Oil, Potassium Sorbate, Sodium Benzoate, Phenoxyethanol, Parfum, Tetramethyl Acetyloctahydronaphthalenes, Linalyl Acetate, Limonene, Citrus Aurantium Peel Oil, CI 42090, CI 60730 (apo.com et incibeauty.com, relevé le 2026-10-03 ; formule susceptible d'évoluer).",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Cosmétique (shampooing), vendu en grande distribution et en pharmacie. Les cosmétiques ne sont pas soumis à une autorisation de mise sur le marché ni à une démonstration d'efficacité préalable en France ; aucune fiche ANSM ou BDPM ne concerne ce produit.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- Marque : « complexe caféine » qui « active les racines » et « prolonge la croissance » du cheveu (alpecin.com, consulté le 2026-10-03) [M].\n- Études : la caféine pénètre par les follicules en 2 minutes de shampooing [B] (PMID 17396054) et stimule des follicules en culture [D] (PMID 17214716) ; aucun ECR publié trouvé testant ce shampooing contre placebo [?]. Le consensus canadien classe la caféine « non recommandée » (PMID 40986632).",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "- **« Prouvé scientifiquement contre la chute héréditaire »** : les preuves citées sont in vitro [D] ou portent sur d'autres formulations [B] ; pas sur ce produit [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Selon la marque : masser sur cheveux mouillés et laisser agir environ 2 minutes avant de rincer, usage quotidien possible (alpecin.com, consulté le 2026-10-03).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix relevés pour 250 ml : 8,05 € à 12,59 € (Newpharma, Viata, Notino, Redcare, DocMorris, relevés le 2026-10-03). Durée non indiquée sur l'étiquette : en usage quotidien, estimation d'un flacon par mois, soit **environ 8 à 13 €/mois** (estimation).\n- Alternative à preuve supérieure et moins chère : [minoxidil 5 % générique](fiche:minoxidil-cooper-5-solution), 5 à 8 €/mois, avec n'importe quel shampooing doux.",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Aucune source d'avis analysée [?]. Le menthol et le parfum peuvent picoter un cuir chevelu irrité, notamment sous minoxidil.",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 17396054 — Otberg N. et al., *Skin Pharmacol Physiol* 2007. doi:10.1159/000101389\n- PMID 17214716 — Fischer T.W. et al., *Int J Dermatol* 2007. doi:10.1111/j.1365-4632.2007.03119.x\n- PMID 40986632 — Landells I. et al., *J Cutan Med Surg* 2025. doi:10.1177/12034754251368849\n- Composition : apo.com, incibeauty.com ; allégations : alpecin.com ; consultés le 2026-10-03.\n- Prix : newpharma.fr, viata.fr, notino.fr, redcare-pharmacie.fr, docmorris.fr, relevés le 2026-10-03.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "Alpecin Shampooing Caféine C1",
+ "type": "produit",
+ "unite": ""
+}

@@ -1,0 +1,77 @@
+{
+ "cibles": [
+  "prevention",
+  "peau",
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-11",
+ "famille": "complement",
+ "id": "zinc",
+ "intro": "",
+ "liens": [
+  "alimentation-cheveux",
+  "fer-et-ferritine",
+  "magnesium"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "38719213",
+  "32860489",
+  "38999082",
+  "37870684",
+  "36577241",
+  "23806573",
+  "39440586",
+  "39739356"
+ ],
+ "preuve_globale": "A",
+ "resume": "Utile surtout en cas de carence ; chez quelqu'un qui n'en manque pas, les bénéfices sont modestes et souvent de faible certitude.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Utile surtout **en cas de carence** ; chez quelqu'un qui n'en manque pas, les bénéfices sont modestes et souvent de faible certitude.\n- Rhume : la revue Cochrane 2024 (34 essais, 8 526 participants) trouve peu ou pas d'effet en prévention (RR 0,93, IC 95 % 0,85-1,01) et une possible réduction de la durée du rhume traité (−2,37 jours), mais de faible certitude, avec plus d'effets indésirables non graves (RR 1,34) [A, faible certitude] (PMID 38719213).\n- Acné : méta-analyse favorable sur les papules inflammatoires, mais zinc **adjuvant**, pas un traitement de référence [A, qualité des essais non évaluée ici] (PMID 32860489).\n- Cheveux : zinc sérique plus bas chez les patients atteints de pelade, ce qui ne prouve pas que supplémenter guérit ; en excès le zinc peut au contraire nuire (voir [alimentation et cheveux](fiche:alimentation-cheveux)).\n- Risque d'excès : carence en cuivre, anémie, neutropénie. Limite supérieure EFSA 25 mg/jour d'après une revue de 2024 (PMID 38999082).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Cofacteur de plus de 300 enzymes ; rôle dans l'expression des gènes, l'apoptose et l'immunité (PMID 38999082). Rôles physiologiques décrits dans les résumés, sans lien démontré avec un bénéfice du complément chez un sujet non carencé.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Rhume, prévention | Pas de réduction nette du risque de rhume (RR 0,93 ; IC 0,85-1,01) | [A, faible certitude] (PMID 38719213) |\n| Rhume, traitement | Durée −2,37 jours (IC −4,21 à −0,53), hétérogénéité I² 97 % ; incertain sur les autres critères ; surtout pastilles de gluconate/acétate à 45-276 mg/j en 4,5-21 jours | [A, faible certitude] (PMID 38719213) |\n| Acné | Zinc sérique plus bas chez les patients ; amélioration du nombre de papules inflammatoires sous zinc, sans différence d'effets indésirables | [A] (PMID 32860489) |\n| Diabète de type 2 et prédiabète | 23 essais : baisse de la glycémie à jeun, de l'HbA1c, des triglycérides, du cholestérol total et de la CRP, hausse du HDL ; qualité des preuves « faible ou très faible » pour la plupart des critères ; forte hétérogénéité | [A, faible certitude] (PMID 37870684) |\n| Testosterone | Revue de 38 études (8 cliniques, 30 animales) : zinc sérique positivement corrélé à la testostérone ; effet dépendant du taux de départ ; ne montre pas d'effet chez l'homme non carencé | [B, mélange clinique et animal] (PMID 36577241) |\n| Dépression | Zinc sanguin plus bas chez les déprimés (−1,85 µmol/L ; 17 études, hétérogénéité I² 88 %) : association, pas effet d'un complément | [B, observationnel] (PMID 23806573) |\n| Alopécie androgénétique | Revue systématique : carences en zinc, fer, vitamines B et D associées à l'AGA ; preuves « pas entièrement cohérentes » | [B, revue de cohortes et d'études cas-témoins] (PMID 39440586) |\n| Pelade (alopecia areata) | Zinc sérique plus bas (SMD −0,69) ; supplémentation non testée dans cette méta-analyse | [B, association] (PMID 39739356) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Rhume : jusqu'à 276 mg/jour de gluconate en pastilles sur quelques jours (PMID 38719213), soit des quantités sans rapport avec un complément quotidien. Ce ne sont pas des doses à suivre.\n- Les compléments quotidiens courants contiennent souvent 10 à 25 mg ; teneurs exactes des produits : non relevées dans cette fiche [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Gluconate, acétate, picolinate, bisglycinate, citrate, oxyde : comparaison des biodisponibilités non effectuée dans cette fiche [?].\n- Statut : complément alimentaire. Valeurs maximales de sécurité : limite supérieure EFSA de 25 mg/jour et valeur FDA de 40 mg/jour rapportées par une revue (PMID 38999082) ; texte EFSA/ANSES et arrêté français sur les teneurs maximales : non consultés [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Excès : anémie, neutropénie, carence en cuivre induite par le zinc (PMID 38999082) [B, revue].\n- Rhume (traitement) : probable augmentation des effets indésirables non graves, goût désagréable, nausées (PMID 38719213) [A].\n- Voies non orales : inhalation et application cutanée peuvent aussi exposer à un excès (PMID 38999082).\n- Interactions médicamenteuses, grossesse, insuffisance rénale : non recherchées dans cette fiche [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Booster de testostérone » : les données viennent surtout d'animaux et de petites études cliniques ; l'effet dépend du statut de départ [B] (PMID 36577241).\n- « Anti-chute de cheveux » : un zinc sérique bas est associé à la pelade, mais aucun essai cité ici ne montre qu'un complément fait repousser les cheveux ; un excès est lui-même associé à une chute de cheveux.\n- « Renforce l'immunité » : en prévention du rhume, pas d'effet net [A, faible certitude].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour.\n\nVoir aussi : [fer et ferritine](fiche:fer-et-ferritine) (bilan de carence), [magnésium](fiche:magnesium), [alimentation et cheveux](fiche:alimentation-cheveux).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Nault D et al. *Cochrane Database Syst Rev* 2024 — PMID 38719213 — [DOI](https://doi.org/10.1002/14651858.CD014914.pub2)\n2. Yee BE et al. *Dermatol Ther* 2020 — PMID 32860489 — [DOI](https://doi.org/10.1111/dth.14252)\n3. Nazari M et al. *Biol Trace Elem Res* 2024 — PMID 37870684 — [DOI](https://doi.org/10.1007/s12011-023-03895-7)\n4. Te L et al. *J Trace Elem Med Biol* 2023 — PMID 36577241 — [DOI](https://doi.org/10.1016/j.jtemb.2022.127124)\n5. Swardfager W et al. *Biol Psychiatry* 2013 — PMID 23806573 — [DOI](https://doi.org/10.1016/j.biopsych.2013.05.008)\n6. Wang R et al. *Mol Nutr Food Res* 2024 — PMID 39440586 — [DOI](https://doi.org/10.1002/mnfr.202400652)\n7. Wu R et al. *J Cosmet Dermatol* 2025 — PMID 39739356 — [DOI](https://doi.org/10.1111/jocd.16740)\n8. Schoofs H et al. *Molecules* 2024 — PMID 38999082 — [DOI](https://doi.org/10.3390/molecules29133130)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Zinc",
+ "type": "actif",
+ "unite": ""
+}

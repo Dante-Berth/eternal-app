@@ -1,0 +1,91 @@
+{
+ "cibles": [
+  "hormones-sexualite",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-08",
+ "famille": "medicament",
+ "id": "tadalafil",
+ "intro": "Indication principale : dysfonction érectile (détail dans [la fiche condition](fiche:dysfonction-erectile)). L'essentiel de cette fiche examine les usages hors AMM vendus en ligne : muscle, performance, longévité.",
+ "liens": [
+  "dysfonction-erectile",
+  "exercice-physique"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 20,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42296271",
+  "28972192",
+  "41469737",
+  "38777751",
+  "38939948",
+  "40478908",
+  "30352768",
+  "28786077",
+  "42765427",
+  "25381629",
+  "32946077",
+  "24532078",
+  "40217158",
+  "40806281",
+  "42833572",
+  "40096550",
+  "39172922",
+  "31559705",
+  "36235271",
+  "27338710"
+ ],
+ "preuve_globale": "A",
+ "resume": "Inhibiteur de la PDE5 (Cialis, Adcirca, génériques), médicament sur ordonnance. Utilisé pour la dysfonction érectile, l'hypertrophie bénigne de la prostate (HBP) et l'hypertension artérielle pulmonaire ; tout usage « muscle / longévité » est hors AMM.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Inhibiteur de la PDE5 (Cialis, Adcirca, génériques), médicament sur ordonnance. Utilisé pour la dysfonction érectile, l'hypertrophie bénigne de la prostate (HBP) et l'hypertension artérielle pulmonaire ; tout usage « muscle / longévité » est hors AMM.\n- Dysfonction érectile : méta-analyse en réseau de 83 essais en double aveugle contre placebo (n=6029), tadalafil 20 mg à la demande OR 7,13 pour une fonction érectile satisfaisante ; le moins d'effets indésirables des 4 inhibiteurs PDE5 [A] (PMID 42296271 ; deux coauteurs salariés de Viatris).\n- Muscle : aucun essai randomisé trouvé montrant un gain de masse ou de force chez l'adulte sain ou âgé [?]. Dans la dystrophie de Duchenne, l'essai de phase 3 (n=331) est négatif sur la marche [B, ECR unique n=331] (PMID 28972192).\n- Vasculaire : méta-analyse d'ECR (63 études, n=3242, tous inhibiteurs PDE5) : baisse de la tension systolique de 2,8 mmHg et gain de dilatation flux-dépendante de 2,47 % [A] (PMID 41469737). Effets modestes, marqueurs de substitution.\n- Cohortes : moindre mortalité chez les utilisateurs d'inhibiteurs PDE5 (RR 0,70) [B, observationnel, biais d'indication] (PMID 38777751). Ne prouve pas que le médicament allonge la vie.\n- Risques réels : nitrates = contre-indication absolue ; possible signal de surmortalité dans un ECR d'insuffisance cardiaque (PMID 38939948) ; signal de mélanome en cohortes (PMID 40478908).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "La PDE5 dégrade le GMPc, second messager du monoxyde d'azote (NO) dans le muscle lisse vasculaire. Inhiber la PDE5 prolonge la vasodilatation médiée par le NO. Dans le muscle squelettique, l'hypothèse est une meilleure perfusion à l'effort : dans la dystrophie de Duchenne, la perte de la NO synthase neuronale du sarcolemme provoquerait une ischémie fonctionnelle, que les inhibiteurs PDE5 corrigent chez l'animal [C] (PMID 30352768, revue ; résultats cliniques « décevants »).\nCellules musculaires humaines fœtales en culture : le tadalafil active des gènes et voies de type insuline (GLUT4, IRS-1/AKT/mTOR) [D] (PMID 28786077). Extrapolation à l'humain non démontrée.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Niveau | Ce que dit la donnée |\n|---|---|---|\n| Dysfonction érectile (AMM) | [A] | Tadalafil 20 mg OR 7,13 et 10 mg OR 3,14 vs placebo (IIEF > 26) ; sildénafil 100 mg OR 9,06. Intervalles larges pour certaines comparaisons (PMID 42296271). Voir [dysfonction érectile](fiche:dysfonction-erectile). |\n| Masse / force musculaire, sujet sain ou âgé | [?] | Aucun ECR d'entraînement ou de sarcopénie trouvé dans PubMed (recherches « tadalafil skeletal muscle », « older adults exercise », « sarcopenia »). |\n| Muscle, biologie chez l'adulte de 50-60 ans | [B, n=16] | Étude exploratoire multi-omique, sildenafil ou tadalafil 1 mois : après tadalafil, aucun gène différentiellement exprimé dans le muscle ; signal plus net avec le sildénafil. Aucun critère clinique (PMID 42765427, doi:10.14814/phy2.71104). |\n| Récupération / dommages musculaires | [B, ECR croisé, volontaires sains] | Tadalafil 20 mg/j avant effort exhaustif : marqueurs de dommage (CK +75 %, LDH +36 %) et d'oxydation plus élevés, pas moindres (PMID 25381629). Défavorable à l'argument « récupération ». |\n| Hormones d'exercice | [B, n=12 et n=11, croisés] | Tadalafil : montée de la DHT à l'effort réduite (PMID 32946077) ; cortisol et ACTH post-effort plus bas (PMID 24532078). Marqueurs, sans lien établi avec la performance. |\n| Duchenne | [B, ECR unique n=331] | Aucun effet sur la baisse du 6MWD à 48 semaines (placebo -51,0 m ; 0,3 mg/kg -64,7 m ; 0,6 mg/kg -59,1 m) ni sur les critères secondaires (PMID 28972192). Sous-étude cardiaque : pas d'effet délétère sur la fraction d'éjection, augmentation des dimensions du ventricule gauche (PMID 40217158). |\n| Fonction vasculaire (tous inhibiteurs PDE5) | [A] | Voir ci-dessus (PMID 41469737). Hétérogénéité non détaillée ici ; mélange de populations et de molécules, donc pas spécifique au tadalafil. |\n| Inflammation (tous inhibiteurs PDE5) | [A] | 20 ECR, n=1549 : IL-6 plus bas à long terme (SMD -0,64) mais pas d'effet à court terme sur TNF-α, IL-6, CRP (PMID 40806281). |\n| Insuffisance cardiaque à fraction d'éjection préservée avec HTP | [B, ECR unique n=125, arrêté prématurément] | Pas de bénéfice (HR 1,02 ; IC95 0,52-2,01) ; mortalité toutes causes HR 5,10 (IC95 1,10-23,69), signal exploratoire (PMID 38939948). Une revue de 2026 conclut que les médicaments de la voie NO-GMPc n'ont pas apporté de bénéfice dans l'insuffisance cardiaque à fraction d'éjection préservée (PMID 42833572). |\n| Mortalité et événements cardiovasculaires | [B, cohortes] | Méta-analyse de 16 cohortes (n=1 257 759, 10,5 % traités) : événements cardiovasculaires majeurs RR 0,78 (IC95 0,69-0,89) ; mortalité RR 0,70 (IC95 0,56-0,87), surtout des hommes avec dysfonction érectile (PMID 38777751). |\n| Démence / Alzheimer | [B, cohortes] | Méta-analyse (5 études, n=885 380) centrée sur le sildénafil : HR 0,47 ; tous inhibiteurs PDE5 RR 0,55 (PMID 40096550). Cohorte Medicare (1,1 M d'hommes avec HBP) : le tadalafil est associé à 27-40 % de risque en moins pour mortalité, Parkinson et Alzheimer, versus tamsulosine (PMID 39172922). |\n| Cancers | [B, cohortes] | Mélanome : risque plus élevé chez les utilisateurs d'inhibiteurs PDE5 (OR 1,60 ; HR 1,10), non significatif séparément pour le tadalafil (OR 1,54 ; IC95 0,79-3,00) ; hétérogénéité très forte (PMID 40478908). Autres cancers : [?], non étudiés ici. |\n\nLimites des cohortes : biais d'indication (l'homme qui reçoit un inhibiteur PDE5 est en meilleure santé sexuelle et générale, plus suivi, plus actif : effet « utilisateur en bonne santé »), comparateurs différents d'une étude à l'autre, confusion résiduelle, hétérogénéité, très peu de données propres au tadalafil, population quasi exclusivement masculine (99,4 % dans PMID 38777751). Aucune cohorte n'établit de causalité ; le niveau reste B au maximum.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Les doses varient selon l'indication (Duchenne : 0,3 et 0,6 mg/kg/j ; exercice : 20 mg ; insuffisance cardiaque : cible 40 mg). Les posologies AMM sont à lire dans le RCP (RCP européen Cialis, EMA, consulté le 2026-10-08). Aucune posologie « muscle » ou « longévité » validée n'existe [?]. Aucune posologie n'est donnée ici.\nLes produits vendus en ligne ont un dosage non garanti (voir mythes marketing).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Comprimés. Cialis (2,5 ; 5 ; 10 ; 20 mg) : autorisation européenne centralisée, accordée le 12 novembre 2002 ; indications : dysfonction érectile et hyperplasie bénigne de la prostate (EMA, EPAR Cialis, consulté le 2026-10-08). Adcirca 20 mg (hypertension artérielle pulmonaire) : autorisation active, prescription hospitalière réservée aux spécialistes de médecine interne, cardiologie et pneumologie (BDPM, consulté le 2026-10-08).\n- BDPM (fichiers de téléchargement, consulté le 2026-10-08) : 68 spécialités à base de tadalafil recensées (dont 5 autorisations abrogées, 1 archivée), dont Cialis 2,5/5/10/20 mg, des génériques et Kronalis, Talmanco ; Cialis et ses génériques sont inscrits sur la liste I (ordonnance obligatoire). La vente sans ordonnance est donc hors cadre légal.\n- Remboursement : aucun taux de remboursement n'est renseigné pour les présentations Cialis dans la BDPM (consulté le 2026-10-08), soit non remboursé d'après cette base ; l'avis de la Commission de la transparence (HAS, 2005) rapporte un SMR « important » pour la dysfonction érectile marquée dans des situations précises (paraplégie, tétraplégie, etc.), sans que le taux de prise en charge actuel soit lisible dans les données ouvertes consultées. Prise en charge Adcirca : présentation agréée aux collectivités (hôpital).\n- Usage pour muscle, récupération, longévité : hors AMM, aucune recommandation officielle [?].\n- AMA/WADA : liste des interdictions 2026 non ouverte à la source (le site wada-ama.org a refusé l'accès automatisé le 2026-10-08) ; statut non vérifié, à contrôler sur la liste officielle avant toute compétition [?].\n- Vente en ligne sans ordonnance : illégale pour un médicament sur ordonnance, contrefaçons possibles.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "Les éléments réglementaires et de sécurité ci-dessous sont relus contre le RCP européen de Cialis (EMA, sections 4.3 à 4.8, consulté le 2026-10-08) sauf mention contraire ; à confirmer par un médecin ou pharmacien.\n- Nitrates (toute forme de dérivé nitré organique) : contre-indiqués ; contre-indication aussi avec les stimulateurs de la guanylate cyclase comme le riociguat (RCP Cialis, 4.3, EMA, consulté le 2026-10-08).\n- Alpha-bloquants : association tadalafil + doxazosine « non recommandée » (effet hypotenseur d'au moins 12 h, syncopes possibles) ; avec alfuzosine et tamsulosine, effet non retrouvé chez un petit nombre de volontaires, mais prudence, surtout chez le sujet âgé, démarrage à dose minimale. Antihypertenseurs : baisse de tension possible, adaptation éventuelle du traitement (RCP 4.4 et 4.5, EMA, consulté le 2026-10-08). La méta-analyse note une baisse de tension de 2,8 mmHg (PMID 41469737).\n- Inhibiteurs puissants du CYP3A4 (ritonavir, saquinavir, kétoconazole, itraconazole, érythromycine) : prudence ; kétoconazole 400 mg/j multiplie l'exposition (ASC) du tadalafil 20 mg par 4 (RCP 4.4 et 4.5, EMA, consulté le 2026-10-08).\n- Effets les plus fréquents : céphalées, dyspepsie, lombalgies, myalgies, plus fréquents à doses élevées (EPAR Cialis, EMA, consulté le 2026-10-08) ; le RCP classe aussi accident vasculaire cérébral et syncope parmi les effets rares (4.8).\n- Neuropathie optique ischémique antérieure non artéritique (NAION) : méta-analyse sans surrisque démontré (OR 1,16 ; IC95 0,89-1,52 ; hétérogénéité 62,6 %), qualité des cas rapportés faible (PMID 31559705). Le RCP contre-indique le tadalafil après perte de vision d'un œil par NAION, même sans lien avec un inhibiteur PDE5 (4.3). Perte auditive soudaine (arrêt et avis médical urgent) et priapisme (érection prolongée, urgence) : mentionnés dans le RCP, 4.4 (EMA, consulté le 2026-10-08).\n- Contre-indications cardiovasculaires (RCP 4.3) : infarctus < 90 jours, angor instable ou survenant lors des rapports, insuffisance cardiaque NYHA ≥ 2 dans les 6 derniers mois, arythmie non contrôlée, hypotension < 90/50 mmHg ou hypertension non contrôlée, AVC < 6 mois, et cardiopathie rendant l'activité sexuelle déconseillée. Insuffisance rénale sévère : 10 mg maximum, prise quotidienne non recommandée ; insuffisance hépatique : dose > 10 mg non recommandée (RCP 4.2). Mélanome : antécédent ou facteurs de risque (PMID 40478908), non contrôlé au RCP.\n- Sujet sain : bénéfice/risque non établi pour muscle ou longévité [?].",
+   "titre": "Sécurité, interactions, contre-indications"
+  },
+  {
+   "markdown": "- « Le tadalafil augmente la masse musculaire / le flux sanguin musculaire donc la prise de muscle » : aucun ECR trouvé ; le seul grand ECR musculaire (Duchenne) est négatif [B] ; chez le sujet sain, le tadalafil a augmenté les marqueurs de dommage musculaire après effort [B] (PMID 25381629).\n- « Booster de récupération » : contredit par PMID 25381629 [B].\n- « Les utilisateurs vivent plus longtemps » : association en cohortes sujette au biais d'indication [B] ; l'ECR en insuffisance cardiaque n'a pas confirmé le bénéfice et a vu un signal de surmortalité exploratoire (PMID 38939948).\n- « Compléments naturels pour l'érection » : en Émirats arabes unis, 3,8 % de 158 compléments contenaient du tadalafil non déclaré, 13,9 % au moins un inhibiteur PDE5 (PMID 36235271) ; adultération documentée en revue (PMID 27338710). Données étrangères ; situation française non vérifiée [?]. Danger : un consommateur de nitrates ou sous alpha-bloquant ignore qu'il prend un inhibiteur PDE5.\n- « Cialis sans ordonnance, livraison discrète » : circuit illégitime, contrefaçons et dosage incertains (qualité des produits : non vérifiée en France [?]).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Indication réelle (dysfonction érectile, symptômes urinaires), antécédents cardiovasculaires, tension, ECG si facteurs de risque, médicaments en cours (nitrates, alpha-bloquants, inhibiteurs du CYP3A4), antécédents oculaires et de mélanome (dermatologue). Pour muscle et longévité, alternatives mieux étayées : musculation progressive et apport protéique, et condition aérobie (VO2max) ; voir les fiches sport du dépôt dans [mode de vie](fiche:exercice-physique).",
+   "titre": "Ce qu'un médecin pourrait évaluer"
+  },
+  {
+   "markdown": "Aucune fiche produit (médicament sur ordonnance).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 42296271 — Salonia A et al., *J Sex Med* 2026 (méta-analyse en réseau, 83 essais, n=6029). doi:10.1093/jsxmed/qdag176\n- PMID 28972192 — Victor RG et al., *Neurology* 2017, essai de phase 3 Duchenne. doi:10.1212/WNL.0000000000004570\n- PMID 40217158 — Cox D et al., *BMC Cardiovasc Disord* 2025. doi:10.1186/s12872-025-04727-3\n- PMID 30352768 — Dombernowsky NW et al., *Neuromuscul Disord* 2018 (revue). doi:10.1016/j.nmd.2018.09.001\n- PMID 28786077 — Marampon F et al., *Endocrine* 2017. doi:10.1007/s12020-017-1378-2\n- PMID 42765427 — McGovern KA et al., *Physiol Rep* 2026. doi:10.14814/phy2.71104\n- PMID 25381629 — Ceci R et al., *Eur J Appl Physiol* 2014. doi:10.1007/s00421-014-3040-5\n- PMID 32946077 — Sgrò P et al., *J Endocrinol Invest* 2020. doi:10.1007/s40618-020-01409-z\n- PMID 24532078 — Di Luigi L et al., *Endocrine* 2014. doi:10.1007/s12020-014-0185-2\n- PMID 41469737 — Zhang et al., *Syst Rev* 2025. doi:10.1186/s13643-025-03042-4\n- PMID 40806281 — Cianciarulo et al., *Int J Mol Sci* 2025. doi:10.3390/ijms26157155\n- PMID 38939948 — Hoeper MM et al., *Circulation* 2024 (PASSION). doi:10.1161/CIRCULATIONAHA.124.069340\n- PMID 42833572 — Packer M, Butler J, *J Card Fail* 2026. doi:10.1016/j.cardfail.2026.09.029\n- PMID 38777751 — Soulaidopoulos S et al., *Eur Heart J Cardiovasc Pharmacother* 2024. doi:10.1093/ehjcvp/pvae029\n- PMID 40096550 — Chua et al., *Aging (Albany NY)* 2025. doi:10.18632/aging.206222\n- PMID 39172922 — Fung et al., *PLoS One* 2024. doi:10.1371/journal.pone.0309222\n- PMID 40478908 — Kreuz et al., *Melanoma Res* 2025. doi:10.1097/CMR.0000000000001049\n- PMID 31559705 — Penedones A et al., *Acta Ophthalmol* 2019. doi:10.1111/aos.14253\n- PMID 36235271 — Jairoun AA et al., *Molecules* 2022. doi:10.3390/molecules27196737\n- PMID 27338710 — Skalicka-Woźniak K et al., *Food Chem Toxicol* 2016. doi:10.1016/j.fct.2016.06.018\n- EMA, EPAR Cialis (statut, indications) : https://www.ema.europa.eu/en/medicines/human/EPAR/cialis — consulté le 2026-10-08.\n- EMA, Cialis, annexe I (RCP) : https://www.ema.europa.eu/en/documents/product-information/cialis-epar-product-information_en.pdf — consulté le 2026-10-08.\n- BDPM (fichiers CIS_bdpm, CIS_COMPO, CIS_CPD, CIS_CIP, CIS_HAS_SMR) : https://base-donnees-publique.medicaments.gouv.fr/telechargement — consulté le 2026-10-08.\n- Non vérifiés : liste AMA 2026 (accès refusé), ANSM.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Tadalafil",
+ "type": "actif",
+ "unite": ""
+}

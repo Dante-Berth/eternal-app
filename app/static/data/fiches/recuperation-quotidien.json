@@ -1,0 +1,72 @@
+{
+ "cibles": [
+  "muscle-os",
+  "sante-mentale"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "",
+ "id": "recuperation-quotidien",
+ "intro": "",
+ "liens": [
+  "immersion-froide",
+  "melatonine",
+  "protocole-debutant-recuperation"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42683395",
+  "42824430",
+  "33865376",
+  "33441476"
+ ],
+ "preuve_globale": "B",
+ "resume": "Pour les sportifs d'endurance de compétition, aucune modalité physique (froid, compression, récupération active, stimulation électrique) n'a été démontrée meilleure que la récupération passive ; une immersion « placebo » thermoneutre faisait aussi bien [A, 16 RCT, 273 participants, certitude très…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Pour les sportifs d'endurance de compétition, aucune modalité physique (froid, compression, récupération active, stimulation électrique) n'a été démontrée meilleure que la récupération passive ; une immersion « placebo » thermoneutre faisait aussi bien [A, 16 RCT, 273 participants, certitude très faible à faible].\n- Seul résultat de certitude modérée : les vêtements de compression n'améliorent pas la performance (SMD 0,04) [A].\n- Sommeil : acides aminés, mélatonine et vitamine D améliorent le sommeil subjectif dans une méta-analyse de 31 RCT, avec forte hétérogénéité pour mélatonine et vitamine D [A, faible qualité].\n- Le magnésium oral pour l'insomnie des personnes âgées : latence d'endormissement −17 min (3 RCT, 151 personnes, risque de biais modéré à élevé, preuve très faible à faible) [A, faible qualité].\n- Le sommeil lui-même (durée, siestes) n'a pas été revu ici : [?]. À approfondir en priorité, car aucun produit ne compense un manque de sommeil documenté.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "La DOMS est multifactorielle (inflammation, sensibilisation nerveuse, proprioception), donc aucune astuce unique ne l'explique [A, revue systématique narrative].",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Outil | Effet mesuré | Preuve | Statut FR |\n|---|---|---|---|\n| Compression (vêtements) | DOMS SMD −0,44 selon une revue narrative ; **aucun gain de performance** (SMD 0,04, certitude modérée) | [A] contradictoire selon le critère | Dispositif/textile |\n| Foam rolling | DOMS SMD −0,34 (revue narrative, effets non poolés pour la plupart) | [B]/[A] à confirmer | Matériel |\n| Acupuncture | DOMS SMD −0,89 (même revue) | [B] | Acte |\n| Magnésium (sommeil) | Latence −17 min, sommeil total non significatif | [A] faible qualité | Complément |\n| Mélatonine | Sommeil subjectif amélioré, hétérogénéité 79 % | [A] | Complément sous 2 mg/j, médicament sur ordonnance à 2 mg LP (voir [mélatonine](fiche:melatonine)) |\n| Vitamine D | Idem, hétérogénéité 85 % ; probablement surtout utile si carence [?] | [A] | Complément |\n| Acides aminés (type glycine) | Sommeil subjectif amélioré, I² 0 % | [A] petit nombre d'essais [?] | Complément |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Voir [protocole débutant](fiche:protocole-debutant-recuperation). Pas de dosage ici.",
+   "titre": "Protocoles"
+  },
+  {
+   "markdown": "- Acheter du matériel (compression, froid, électrostimulation) pour la performance : null démontré chez les endurants [A].\n- Attribuer au produit ce qui relève de l'attente : un placebo physique faisait aussi bien [A].",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Le froid/la compression accélèrent la récupération des pros »** : dans le réseau 2026 sur endurants de compétition, aucune modalité ne bat la récupération passive ; le réseau « courbatures » s'inverse en retirant 2 essais sur 5 [A]. Tempère les résultats plus favorables des NMA sur le froid (voir [immersion froide](fiche:immersion-froide)).\n- **« Magnésium = sommeil »** : preuve de faible qualité, chez les personnes âgées insomniaques uniquement [A].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Les adaptations répétées à l'effort réduisent la DOMS aux séances suivantes (« effet de répétition ») [A, revue narrative].",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Fatigue persistante inexpliquée, insomnie > 3 mois, ronflements/apnées, baisse durable de performance (surentraînement), douleur localisée.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 42683395 — modalités physiques chez endurants d'élite, NMA, *Front Sports Act Living* 2026. doi:10.3389/fspor.2026.1876924\n- PMID 42824430 — neurophysiologie de la DOMS, SR, *Front Sports Act Living* 2026. doi:10.3389/fspor.2026.1709704\n- PMID 33865376 — magnésium et insomnie du sujet âgé, *BMC Complement Med Ther* 2021. doi:10.1186/s12906-021-03297-z\n- PMID 33441476 — compléments et qualité du sommeil, *Postgrad Med J* 2021. doi:10.1136/postgradmedj-2020-139319",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Récupération au quotidien (sommeil, fatigue, outils d'appoint)",
+ "type": "condition",
+ "unite": ""
+}

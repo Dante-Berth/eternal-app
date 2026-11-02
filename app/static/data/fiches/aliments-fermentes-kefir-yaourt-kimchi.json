@@ -1,0 +1,78 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "alimentation",
+ "id": "aliments-fermentes-kefir-yaourt-kimchi",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "depistage-cancer-colorectal",
+  "glycemie-et-prediabete",
+  "probiotiques"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "32277831",
+  "34256014",
+  "37102491",
+  "41139305",
+  "31387262",
+  "15929164",
+  "32316595",
+  "19860848",
+  "31689884"
+ ],
+ "preuve_globale": "B",
+ "resume": "Yaourt et laits fermentés : association avec moins de diabète de type 2 et de maladies CV, en cohortes. Méta-analyse (20 cohortes) : lait fermenté et AVC/cardiopathie ischémique/mortalité CV RR 0,96 (0,94-0,98) ; yaourt et diabète de type 2 RR 0,73 (0,70-0,76), syndrome métabolique RR 0,80 (0,74-…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Yaourt et laits fermentés : association avec moins de diabète de type 2 et de maladies CV, en cohortes.** Méta-analyse (20 cohortes) : lait fermenté et AVC/cardiopathie ischémique/mortalité CV RR 0,96 (0,94-0,98) ; yaourt et diabète de type 2 RR 0,73 (0,70-0,76), syndrome métabolique RR 0,80 (0,74-0,87) [B, cohortes] (PMID 32277831). Association ≠ causalité.\n- **Un essai randomisé de 17 semaines suggère un effet sur le microbiote et l'inflammation, mais il est petit** : 36 adultes sains, un régime riche en aliments fermentés augmente la diversité du microbiote et diminue des marqueurs inflammatoires ; le critère principal (score de réponse des cytokines) est resté inchangé [B, ECR n=36] (PMID 34256014).\n- **Kéfir : effet sur l'insulinorésistance seulement.** 6 ECR, n=314 : insuline à jeun -3,69 µUI/mL, HOMA-IR -2,56 ; aucun effet sur cholestérol, triglycérides, glycémie à jeun, HbA1c ni poids [A, petits essais] (PMID 37102491). Tension et CRP : 7 ECR, n=385, sans effet significatif (CRP en baisse seulement pour ≥ 8 semaines) [A, petits essais] (PMID 41139305).\n- **Kimchi : pas d'essai clinique solide ; signal de risque pour l'estomac dans les populations coréennes** (voir Sécurité).\n- **Peu d'essais pour la plupart des fermentés** : seuls le kéfir, la choucroute, le natto et le pain au levain ont été testés dans au moins un ECR sur la santé digestive ; aucun ECR sur le kombucha, le miso, le kimchi ou le tempeh [B, revue] (PMID 31387262).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Hypothèses : bactéries vivantes, peptides bioactifs, amines biogènes, transformation de polyphénols, réduction d'antinutriments (PMID 31387262). Qu'un de ces mécanismes soit à l'origine d'un bénéfice clinique : non démontré [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Laits fermentés, maladies CV (cohortes) | RR 0,96 (0,94-0,98) (PMID 32277831) | [B] |\n| Yaourt, diabète de type 2 et syndrome métabolique (cohortes) | RR 0,73 (0,70-0,76) et 0,80 (0,74-0,87) (PMID 32277831) | [B] |\n| Probiotiques ajoutés à une matrice laitière vs gélules | matrice laitière : plus grande baisse des lipides chez l'hypercholestérolémique ; gélules : plus grande baisse des paramètres du diabète chez le diabétique ; 52 ECR (PMID 32277831) | [A, hétérogène] |\n| Régime riche en fermentés vs riche en fibres, adultes sains | 17 semaines, n=18 par bras : diversité microbienne en hausse et marqueurs inflammatoires en baisse sous fermentés ; fibres : réponses immunitaires hétérogènes (PMID 34256014) | [B, ECR n=36] |\n| Kéfir, marqueurs cardiométaboliques | insuline -3,69, HOMA-IR -2,56 ; lipides, glycémie, HbA1c, poids sans effet (PMID 37102491) | [A, 6 ECR, n=314] |\n| Kéfir, tension et CRP | SBP -1,76 mmHg (-5,21 à +1,69), DBP -1,19, CRP -0,17 mg/L, tous non significatifs (PMID 41139305) | [A, 7 ECR, n=385] |\n| Santé digestive, fermentés en général | très peu de preuves cliniques ; kéfir : au moins un ECR pour la malabsorption du lactose et l'éradication d'H. pylori (PMID 31387262) | [B, revue] |\n| Kimchi : effet clinique | aucun ECR sur la santé digestive (PMID 31387262) ; autres essais non lus [?] | [?] |\n| Os, immunité, humeur | non recherchés dans cette fiche [?] | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Quantités** : non extraites des résumés (portions de yaourt, volume de kéfir par jour) [?]. Le régime fermenté de l'ECR de 17 semaines est décrit comme « riche en aliments fermentés » ; portions non lues dans le résumé (PMID 34256014).\n- **Souches et nombre de bactéries vivantes** : très variables selon les produits ; « yaourt » au sens réglementaire ≠ kéfir industriel, boissons sucrées « probiotiques », kombucha pasteurisé : teneur en bactéries vivantes non vérifiée [?].\n- **Sucre ajouté** : yaourts aromatisés et boissons fermentées sucrées : non évalué dans les essais lus [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Aliments. Allégations de santé sur les « probiotiques » dans l'UE et statut du kombucha, du kéfir industriel : non consultés [?]. Le lait est un allergène à déclaration obligatoire (règlement (UE) n° 1169/2011, annexe II, EUR-Lex, consulté le 2026-10-14).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Kimchi, légumes saumurés et cancer de l'estomac (Corée, Japon)** : étude cas-témoins coréenne de 421 cas et 632 témoins, kimchi et pâtes de soja associés à un risque plus élevé de cancer gastrique ; le sel pourrait être en cause (résumé tronqué sur l'hypothèse) [B, cas-témoins] (PMID 15929164). Méta-analyse de cohortes, légumes marinés : RR 1,15 (1,07-1,23) par 40 g/j supplémentaires [B] (PMID 32316595) ; autre méta-analyse d'études japonaises et coréennes : légumes marinés OR 1,28 (1,06-1,53), légumes frais OR 0,62 (0,46-0,85) [B] (PMID 19860848). Ces chiffres concernent les légumes marinés et salés au sens large, pas seulement le kimchi artisanal ; effet du sel et de l'infection à H. pylori sur ces associations : non démêlé ici [?].\n- **Grossesse** : éviter lait cru et fromages au lait cru ; la plupart des fromages pasteurisés restent permis, sauf pâtes molles et certaines pâtes pressées non cuites à affinage court (Manger Bouger, consulté le 2026-10-14).\n- **Amines biogènes (histamine, tyramine), IMAO** : certains kimchis dépassent 100 mg/kg d'histamine et de tyramine (limite recommandée citée par la revue), en lien avec les ingrédients de poisson fermenté (jeotgal) [B, revue de concentrations publiées] (PMID 31689884). Tyramine et inhibiteurs de la MAO : la recherche PubMed n'a pas trouvé de donnée clinique propre aux fermentés ; la contre-indication alimentaire sous IMAO non sélectifs reste à valider avec le médecin ou le pharmacien [?].\n- **Immunodépression, probiotiques vivants** : bactériémies décrites avec des probiotiques en gélule chez des patients fragiles ; voir [probiotiques](fiche:probiotiques). Transposition aux aliments fermentés : non étudiée [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Le kéfir ou le yaourt rééquilibrent la flore »** : le seul ECR sur régime fermenté montre une hausse de diversité chez 36 adultes sains ; effet clinique non démontré [B] (PMID 34256014).\n- **« Le kéfir fait baisser le cholestérol et la tension »** : 6-7 ECR sans effet significatif sur lipides, glycémie ni tension [A] (PMID 37102491, 41139305).\n- **« Tout fermenté = probiotique »** : la définition d'un aliment fermenté n'implique pas des microbes vivants ou une souche testée ; très peu d'ECR cliniques [B] (PMID 31387262).\n- **« Le kimchi est un super-aliment »** : aucun ECR santé digestive ; cohortes et cas-témoins coréens montrant plutôt un risque gastrique pour les légumes salés [B] (PMID 15929164, 32316595).\n\nVoir aussi : [probiotiques](fiche:probiotiques) · [alimentation : synthèse](fiche:alimentation) · [glycémie et prédiabète](fiche:glycemie-et-prediabete) · [dépistage du cancer colorectal](fiche:depistage-cancer-colorectal).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 32277831 — Companys et al., *Adv Nutr* 2020 (produits laitiers fermentés, probiotiques). doi:10.1093/advances/nmaa030\n- PMID 34256014 — Wastyk et al., *Cell* 2021 (régimes ciblant le microbiote). doi:10.1016/j.cell.2021.06.019\n- PMID 37102491 — Yahyapoor et al., *Curr Drug Targets* 2023 (kéfir, 6 ECR). doi:10.2174/1389450124666230427095742\n- PMID 41139305 — Rashidbeygi et al., *Endocrinol Diabetes Metab* 2025 (kéfir, tension et CRP). doi:10.1002/edm2.70124\n- PMID 31387262 — Dimidi et al., *Nutrients* 2019 (revue, fermentés et tube digestif). doi:10.3390/nu11081806\n- PMID 15929164 — Nan et al., *World J Gastroenterol* 2005 (kimchi et cancer gastrique, Corée). doi:10.3748/wjg.v11.i21.3175\n- PMID 32316595 — Yoo et al., *Cancers* 2020 (légumes marinés et poisson salé). doi:10.3390/cancers12040996\n- PMID 19860848 — Kim et al., *Cancer Sci* 2010 (légumes frais et marinés). doi:10.1111/j.1349-7006.2009.01374.x\n- Règlement (UE) n° 1169/2011, annexe II (EUR-Lex, consulté le 2026-10-14).\n- Manger Bouger (Santé publique France), « Quels aliments éviter… quand on est enceinte ? » (consulté le 2026-10-14).\n- PMID 31689884 — Park et al., *Foods* 2019 (amines biogènes, kimchi). doi:10.3390/foods8110547",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Aliments fermentés (yaourt, kéfir, kimchi, choucroute)",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,76 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-08",
+ "famille": "",
+ "id": "epaississement-et-diametre-du-cheveu",
+ "intro": "",
+ "liens": [
+  "alopecie-androgenetique",
+  "alopecie-androgenetique-femme",
+  "protocole-debutant-cheveux",
+  "prp"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42339398",
+  "40944844",
+  "42682108",
+  "41788055",
+  "26904154",
+  "40826200",
+  "42799286",
+  "42057730"
+ ],
+ "preuve_globale": "A",
+ "resume": "« Plus de cheveux » (densité) et « cheveux plus gros » (diamètre) sont deux mesures distinctes : un traitement peut améliorer l'une et pas l'autre.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- « Plus de cheveux » (densité) et « cheveux plus gros » (diamètre) sont deux mesures distinctes : un traitement peut améliorer l'une et pas l'autre.\n- LLLT : +10,62 µm de diamètre vs appareil factice [A] ; lasers fractionnés associés au minoxidil, au PRP ou à des facteurs de croissance : +11,22 µm [A] (PMID 42339398).\n- PRP : densité ↑, épaisseur sans effet significatif en méta-analyse de 43 ECR [A] (PMID 40944844). Une étude de 234 patients rapporte +26,8 % d'épaisseur à 12 mois, mais par rapport à l'état initial, sans groupe témoin décrit dans le résumé [B] (PMID 42682108).\n- Collagène oral (peptides de faible poids moléculaire, un produit précis) : diamètre ↑ à 24 sem. dans un ECR de 114 femmes [B, ECR unique n=114] ; ampleur non chiffrée dans le résumé (PMID 41788055).\n- Massage du cuir chevelu : +0,007 mm sur 9 hommes, sans groupe témoin [B] (PMID 26904154).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Miniaturisation (AGA) = diamètre ↓ ; inverser cette tendance demande de prolonger l'anagène ou réactiver le follicule ([AGA](fiche:alopecie-androgenetique)).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Levier | Effet sur le diamètre | Preuve |\n|---|---|---|\n| LLLT | +10,62 µm vs placebo | [A] (PMID 42339398) |\n| Laser fractionné + minoxidil / PRP / facteurs | +11,22 µm | [A] (PMID 42339398) |\n| LLLT + minoxidil vs minoxidil seul | +0,01 mm | [A] (PMID 40826200) |\n| [PRP](fiche:prp) | non significatif en méta-analyse | [A] (PMID 40944844) |\n| PRP non activé, protocole standardisé | +26,8 % à 12 mois vs état initial, sans groupe témoin décrit | [B] (PMID 42682108) |\n| PRP + minoxidil 5 % | plus favorable que chaque monothérapie ; jusqu'à +66,7 % de diamètre dans un essai ; préparations trop variables pour une méta-analyse | [B] (PMID 42799286) |\n| Minoxidil 5 % | « épaisseur stable » sur le long terme (revue de 4 RCT, 226 patients) | [A, 4 ECR non poolés] (PMID 42799286) |\n| Collagène marin (LMWCP) 1 g/j | ↑ diamètre à 24 sem., femmes de 20-50 ans avec cellulite et cheveux affinés | [B, ECR unique n=114] (PMID 41788055) |\n| Massage standardisé (4 min/jour, appareil) | 0,085 → 0,092 mm, 9 hommes, sans groupe témoin | [B] (PMID 26904154) |\n| Polyphénols | densité ↑ (SMD 0,90) ; diamètre non rapporté dans le résumé | [A, forte hétérogénéité] (PMID 42057730) |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Voir [protocole-debutant](fiche:protocole-debutant-cheveux). Mesure : photos + trichoscopie, pas le ressenti.",
+   "titre": "Protocoles"
+  },
+  {
+   "markdown": "- Juger l'effet à l'épaisseur perçue : les shampooings « volumisants » agissent sur la fibre ; aucune étude lue ne montre d'effet sur le diamètre produit par le follicule [?].\n- Comparer des gains en µm et en %/densité comme si c'était équivalent.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Le PRP épaissit chaque cheveu »** : la méta-analyse ne montre pas d'effet sur l'épaisseur [A].\n- **« Le collagène fait pousser et épaissit »** : un seul essai repéré, sur un peptide de collagène précis, ampleur non chiffrée, financement non vérifié [B] (PMID 41788055).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Les lasers fractionnés en monothérapie donnent +5,93 µm contre +10,62 µm pour la LLLT : l'effet sur la densité (+102 poils/cm²) n'implique pas un effet proportionnel sur l'épaisseur [A] (PMID 42339398).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Voir [AGA](fiche:alopecie-androgenetique) et [FPHL](fiche:alopecie-androgenetique-femme).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 42339398 — Alahmadi M. et al., *Skin Appendage Disord* 2026, lasers et appareils (méta-analyse). doi:10.1159/000551411\n- PMID 40826200 — Mawu F.O. et al., *Lasers Med Sci* 2025, LLLT + minoxidil (méta-analyse de 7 ECR). doi:10.1007/s10103-025-04593-7\n- PMID 40944844 — Anitua E. et al., *Dermatol Ther (Heidelb)* 2025, PRP (méta-analyse de 43 ECR). doi:10.1007/s13555-025-01542-8\n- PMID 42682108 — Gentile et al., *Aesthet Surg J* 2026, PRP non activé, suivi 10 ans. doi:10.1093/asj/sjag181\n- PMID 42799286 — Garcia Prado et al., *Cureus* 2026, PRP vs minoxidil 5 % (revue systématique, 4 ECR). doi:10.7759/cureus.115244\n- PMID 41788055 — Hwang et al., *J Med Food* 2026, peptides de collagène de faible poids moléculaire (ECR). doi:10.1177/1096620X261428336\n- PMID 26904154 — Koyama T. et al., *Eplasty* 2016, massage standardisé (9 hommes).\n- PMID 42057730 — El Ammari C. et al., *J Dermatolog Treat* 2026, polyphénols (méta-analyse). doi:10.1080/09546634.2026.2654112",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Épaississement et diamètre du cheveu",
+ "type": "condition",
+ "unite": ""
+}

@@ -1,0 +1,82 @@
+{
+ "cibles": [
+  "cerveau",
+  "sante-mentale"
+ ],
+ "derniere_maj": "2026-10-27",
+ "famille": "comportement",
+ "id": "bruit-rose-et-sons-pour-dormir",
+ "intro": "",
+ "liens": [
+  "insomnie",
+  "melatonine",
+  "musique-432-hz",
+  "sommeil"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 13,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "34964434",
+  "41627391",
+  "41151421",
+  "39048400",
+  "37593850",
+  "42120238",
+  "42389090",
+  "40676554",
+  "42892788",
+  "41141950",
+  "41056369",
+  "42393845",
+  "24590753"
+ ],
+ "preuve_globale": "B",
+ "resume": "Le bruit rose est un bruit large bande dont l'énergie décroît quand la fréquence monte (plus grave que le bruit blanc). Il est vendu en vidéos et applications comme aide au sommeil. Preuve : faible et hétérogène. La revue systématique de 34 études (1 103 personnes) conclut qu'« il n'y a pas de pr…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Le bruit rose est un bruit large bande dont l'énergie décroît quand la fréquence monte (plus grave que le bruit blanc). Il est vendu en vidéos et applications comme aide au sommeil. **Preuve : faible et hétérogène**. La revue systématique de 34 études (1 103 personnes) conclut qu'« il n'y a pas de preuve solide » (PMID 34964434) [B, revue systématique sans méta-analyse].\n- **Le meilleur essai en laboratoire va dans le mauvais sens** : chez 25 adultes sains, en polysomnographie sur 7 nuits, ajouter du bruit rose (40 ou 50 dBA) à un bruit environnemental a **réduit le sommeil paradoxal** et dégradé la structure du sommeil, avec seulement de petits gains de fragmentation. Les bouchons d'oreille ont fait mieux (PMID 41627391) [B, essai croisé n=25].\n- Pour le bruit **blanc**, une méta-analyse de 12 ECR (1 301 participants, surtout des patients hospitalisés) trouve un PSQI plus bas chez l'adulte (−3,70), avec une forte hétérogénéité (PMID 41151421) [A, hétérogène, bruit blanc, hôpital]. Ça ne se transpose pas à un sommeil à domicile avec du bruit rose.\n- **Ne pas confondre** avec la stimulation acoustique en boucle fermée : des salves de bruit rose synchronisées sur les ondes lentes par un casque EEG ont augmenté l'activité lente chez des patients Alzheimer et Huntington (n = 5 à 15, études ouvertes ou pilotes) [B]. Une vidéo de bruit continu ne fait pas ça.\n- Pas de donnée sur un bruit rose « chaud » (filtré) ni sur un ajout de 432 Hz [?] (voir [musique à 432 Hz](fiche:musique-432-hz)).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Hypothèse : masquer les bruits environnementaux, qui provoquent des éveils et des micro-éveils. Les auteurs de la méta-analyse sur le bruit blanc citent aussi une « neuromodulation » (PMID 41151421), non démontrée ici [?].\n- Dans les études de stimulation acoustique, le mécanisme est différent : des impulsions de bruit rose de 50 ms, déclenchées sur la phase montante de l'onde lente détectée à l'EEG, amplifient l'activité delta (PMID 39048400, 37593850).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Synthèse sommeil de l'adulte | 34 études, 1 103 personnes : 18 bruit blanc, 11 bruit rose, 6 mixtes. Effet positif dans 19 études (9 sur 11 pour le bruit rose, soit 81,9 % selon les auteurs), mais « pas de preuve solide » ; risque de biais plus élevé pour le bruit blanc et le bruit rose que pour les sons mixtes ; aucun effet indésirable à court terme rapporté (PMID 34964434) | [B, revue systématique, qualité limitée] |\n| Bruit rose contre bruit environnemental (labo) | 25 adultes sains, 7 nuits : le bruit environnemental réduit le N3 ; le bruit rose réduit le REM ; ajouter du bruit rose empire la structure du sommeil malgré de petits gains dose-dépendants sur la fragmentation et le N3 ; sommeil, vigilance et humeur subjectifs pires ; bouchons d'oreille efficaces sauf au niveau le plus élevé (65 dBA) (PMID 41627391). Publication sœur : le bruit rose réduit les éveils dus au bruit d'avion de façon dose-dépendante mais moins bien que les bouchons (PMID 42120238) | [B, essai croisé unique n=25] |\n| Bruit rose + musique, étudiants à mauvais sommeil | 66 étudiants (PSQI > 7), 30 min au coucher, 4 semaines : effets groupe × temps significatifs sur le PSQI et le stress perçu ; battements binauraux + musique plus efficaces sur le stress ; aucune différence de cortisol salivaire entre groupes (PMID 42389090). Le résumé ne sépare pas l'effet du bruit rose de celui de la musique, et le groupe contrôle n'a pas d'audio actif | [B, ECR n=66, sans contrôle actif] |\n| Stimulation électrique crânienne (CES) + bruit rose ou « double beat » | Étude quasi randomisée : amélioration de la latence d'endormissement et de la qualité de vie avec CES + musique, **aucun effet** sur le temps total de sommeil ni sur la part de sommeil profond ; affiliation d'un auteur à Zhejiang Qiangnao Technology (fabricant de CES), enregistrement rétrospectif (PMID 40676554) | [B, quasi randomisé, conflit d'intérêts visible] |\n| Bruit blanc, adultes et patients | 12 ECR, 1 301 participants : PSQI −3,70 (IC −4,90 à −2,50) chez l'adulte, −2,71 (−4,98 à −0,44) chez le senior ; forte hétérogénéité, qualité méthodologique limitée ; 544 participants en soins critiques (PMID 41151421) | [A, hétérogène, bruit blanc] |\n| Sons à l'hôpital | 15 études (2 024 patients), surtout en réanimation : amélioration globale du sommeil, effets très variables et plusieurs études sans bénéfice (PMID 42892788). Bruit blanc, hôpital adulte : 7 ECR (496 participants), meilleure efficacité du sommeil, bien toléré, pas de méta-analyse possible (PMID 41141950) | [B, revues systématiques, hôpital] |\n| Sons pour dormir en général | Perspective d'experts : la musique de relaxation a une efficacité démontrée, les sons ambiants (blanc, rose) restent « non concluants » ; peu d'ECR avec contrôle apparié ; risque de dépendance à la technologie (PMID 41056369) | [B, avis d'experts] |\n| Stimulation acoustique en boucle fermée, Alzheimer | 15 patients, 2 semaines à domicile, bandeau EEG : activité lente et sommeil lent plus élevés au niveau du groupe, forte variabilité individuelle ; moins de stimulations chez ceux dont le sommeil lent de base est bas (PMID 39048400). Pilote de 11 patients : sommeil lent presque doublé selon l'algorithme du bandeau (p = 0,019), p = 0,053 à l'EEG relu (PMID 37593850) | [B, études ouvertes ou pilotes] |\n| Stimulation acoustique en boucle fermée, Huntington | Essai croisé contre placebo de 10 inscrits, **5 analysés** : activité lente plus élevée pendant les fenêtres de stimulation chez 4 sur 5, pas de différence de macrostructure du sommeil ; inconfort du dispositif (PMID 42393845) | [B, n=5 analysés] |\n| Bruit rose « chaud » (filtré) ou continu avec ton à 432 Hz | aucun essai trouvé | [?] |\n| Sommeil des sportifs, des enfants, long terme | non recherché | [?] |\n\nLimites : critères souvent subjectifs (PSQI, questionnaires) ; populations hospitalisées ou malades pour les revues ; peu de contrôles appariés ; essais courts (nuits à 4 semaines).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Niveaux testés en laboratoire : 40 et 50 dBA (PMID 41627391). Au coucher : 30 min par soirée, 5 soirs par semaine, 4 semaines (PMID 42389090). Le niveau et la durée des vidéos du commerce ne sont pas contrôlés [?].\n- Les sons « avec boost » ou fréquences ajoutées n'ont aucune dose étudiée [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Vidéos, applications, machines à bruit blanc, enceintes. Contenu audio, hors produit de santé : aucun statut réglementaire recherché ici [?].\n- Dispositifs de stimulation acoustique en boucle fermée (bandeaux EEG) : utilisés en recherche (PMID 39048400, 37593850, 42393845). Statut de marché non recherché [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Sommeil paradoxal** : le bruit rose l'a réduit dans l'essai de laboratoire, et les auteurs déconseillent un usage « large et indiscriminé » du bruit large bande en attendant des données sur le bon niveau et le long terme, surtout chez les personnes vulnérables (PMID 41627391).\n- **Audition** : 14 machines pour nourrissons, au volume maximum à 30 cm, dépassaient toutes 50 dBA ; trois dépassaient 85 dBA, un niveau qui, joué plus de 8 h, dépasse les limites professionnelles d'exposition de l'adulte (PMID 24590753) [mesure sur des appareils, pas un essai]. Éviter le bruit continu près du lit d'un nourrisson.\n- Écouteurs toute la nuit : risque de pression, d'inconfort et de volume élevé ; non étudié ici [?].\n- Masquage possible d'alarmes (fumée, bébé qui pleure) : hypothèse non testée ici [?]. Dans l'essai de laboratoire, la sirène d'incendie et les pleurs de bébé étaient les sons qui réveillaient le plus (PMID 42120238).\n- Insomnie chronique, apnée du sommeil, acouphènes : un bruit de fond ne remplace ni la TCC-I ni un bilan médical (voir [insomnie](fiche:insomnie)).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Le bruit rose augmente le sommeil profond »** : l'effet sur le sommeil lent est observé avec des salves synchronisées sur l'EEG chez des patients Alzheimer ou Huntington (n = 5 à 15), pas avec du bruit continu. En laboratoire, le bruit continu a réduit le REM sans gain net de sommeil profond [B] (PMID 41627391, 39048400, 42393845).\n- **« Prouvé scientifiquement »** : la revue la plus large dit « pas de preuve solide » ; les autres études sont petites, hospitalières, ou mélangent bruit rose et musique [B] (PMID 34964434, 42389090).\n- **« Meilleur que les bouchons d'oreille »** : dans l'essai de laboratoire, c'est l'inverse [B] (PMID 41627391, 42120238).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit dans ce dépôt. Voir [sommeil](fiche:sommeil), [insomnie chronique](fiche:insomnie), [mélatonine](fiche:melatonine), [musique à 432 Hz](fiche:musique-432-hz).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 34964434, Capezuti et al., « Systematic review: auditory stimulation and sleep », J Clin Sleep Med 2022, doi:10.5664/jcsm.9860 (résumé relu).\n- PMID 41627391, Basner et al., « Efficacy of pink noise and earplugs for mitigating the effects of intermittent environmental noise exposure on sleep », Sleep 2026, doi:10.1093/sleep/zsag001 (résumé relu).\n- PMID 42120238, Basner et al., « The efficacy of pink noise and earplugs for mitigating sleep disruption induced by different environmental noise sources », Sleep Health 2026, doi:10.1016/j.sleh.2026.03.009 (résumé relu ; même étude NCT05774977).\n- PMID 42389090, Hou et al., « The impact of sound intervention on sleep quality and stress levels in college students: a randomized controlled trial », Front Psychol 2026, doi:10.3389/fpsyg.2026.1859138 (résumé relu).\n- PMID 40676554, Zhang et al., « A randomized trial of CES integrated with music on sleep improvement », BMC Neurol 2025, doi:10.1186/s12883-025-04304-3 (résumé relu).\n- PMID 41151421, Ding et al., « Impact of white noise on sleep quality across age groups and in critically ill/non-critically ill patients », Sleep Med 2025, doi:10.1016/j.sleep.2025.106869 (résumé relu).\n- PMID 42892788, Henriques et al., « The effectiveness of sound-based interventions on promoting sleep quality in hospitalized patients: A systematic review », iScience 2026, doi:10.1016/j.isci.2026.117698 (résumé relu).\n- PMID 41141950, Khandelwal et al., « Impact and efficacy of sound machine on sleep in hospitalized adults: A systematic review », Sleep Med X 2025, doi:10.1016/j.sleepx.2025.100154 (résumé relu).\n- PMID 41056369, Vazzaz et al., « Between sound and sleep: a perspective on Sonic Sleep Aids », Sleep 2025, doi:10.1093/sleep/zsaf275 (résumé relu).\n- PMID 39048400, Van den Bulcke et al., « Acoustic Stimulation to Improve Slow-Wave Sleep in Alzheimer's Disease: A Multiple Night At-Home Intervention », Am J Geriatr Psychiatry 2024, doi:10.1016/j.jagp.2024.07.002 (résumé relu).\n- PMID 37593850, Van den Bulcke et al., « Acoustic stimulation as a promising technique to enhance slow-wave sleep in Alzheimer's disease: results of a pilot study », J Clin Sleep Med 2023, doi:10.5664/jcsm.10778 (résumé relu).\n- PMID 42393845, Braun et al., « Phase-targeted auditory stimulation enhances slow-wave activity during sleep in Huntington's disease: A pilot crossover study », J Huntingtons Dis 2026, doi:10.1177/18796397261464670 (résumé relu).\n- PMID 24590753, Hugh et al., « Infant sleep machines and hazardous sound pressure levels », Pediatrics 2014, doi:10.1542/peds.2013-3617 (résumé relu).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Bruit rose et sons pour dormir (bruit blanc, stimulation acoustique)",
+ "type": "actif",
+ "unite": ""
+}

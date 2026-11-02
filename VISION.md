@@ -53,7 +53,7 @@ Maquette cliquable : https://claude.ai/artifact/E5TTWfwF6mJAutH3wwPoRL (privée)
 ## Fait
 - Bibliothèque : 38 fiches biomarqueurs, dont 14 créées ou complétées le 2026-11-01 avec un tableau de seuils sourcés (colonnes fixes : Marqueur, Unité, Borne, Signification, Population, Source).
 - Bibliothèque : `donnees/marqueurs.json` (id, nom, fiche principale, unité usuelle, conversions affines, forme « paire » pour la tension), champ `marqueurs:` sur les 38 fiches biomarqueurs, contrôles dans `verifier.py`.
-- App : `.gitignore`, `decisions.md`, sous-module, compilateur Python (fiches → `build/index.json`, `build/fiches/<id>.json`, `build/seuils.json`), format de données v1, 19 vecteurs de test du moteur, 10 tests.
+- App : squelette SvelteKit (`app/`), wiki (recherche + lecture + hors-ligne), moteur de statut (`moteur/`, 6 marqueurs, 19 vecteurs). `.gitignore`, `decisions.md`, sous-module, compilateur Python (fiches → `build/index.json`, `build/fiches/<id>.json`, `build/seuils.json`), format de données v1, 19 vecteurs de test du moteur, 10 tests.
 
 ## Constats sur la bibliothèque (compilateur, 2026-11-02)
 - Les 38 fiches biomarqueurs ont un tableau de seuils, mais beaucoup de bornes ne sont que des descriptions d'études (médiane, +1 écart-type) et non des seuils d'action : le moteur ne leur donnera pas de statut.
@@ -67,7 +67,7 @@ Maquette cliquable : https://claude.ai/artifact/E5TTWfwF6mJAutH3wwPoRL (privée)
 1. **Bibliothèque** (reste) : compléter les fiches sans seuils (CRP, Lp(a), vitamine D faites le 2026-11-02 ; 12 restantes) (chaque seuil sourcé, PMID vérifié) ; décider comment lier les lignes de seuils à un identifiant de marqueur ; `population` par marqueur si le moteur en a besoin. Fait : `donnees/marqueurs.json`, champ `marqueurs:`, validation par `verifier.py`.
 2. **Environnement** : installer Node (via nvm), puis `npm create svelte` dans `eternal-app`.
 3. **Moteur** : implémenter le statut d'une mesure en TypeScript contre `moteur/vecteurs/statut.json`, puis classement des leviers et alertes. Il faut aussi des interactions (`donnees/interactions.json`, à écrire côté bibliothèque) et des contre-indications structurées.
-4. **Wiki** : recherche (index précalculé), lecture des fiches, hors-ligne.
+4. **Wiki** : fait le 2026-11-02 pour la recherche, la lecture et le hors-ligne (`app/src/routes/savoir/`). Reste : liens entre fiches par domaine, fiche d'un marqueur avec ses seuils lus par le moteur, installation PWA (manifeste, icônes), référencement si le wiki devient public.
 5. **Suivi** : saisie des mesures, courbes, journal, export chiffré.
 6. Plus tard : étude de cohorte (cadre éthique et CNIL à vérifier), Stoffel, LLM, import Apple Santé, paiement.
 

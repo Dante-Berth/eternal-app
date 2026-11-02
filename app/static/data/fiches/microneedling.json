@@ -1,0 +1,80 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "",
+ "id": "microneedling",
+ "intro": "",
+ "liens": [
+  "acide-hyaluronique-filler",
+  "lasers-fractionnes",
+  "niacinamide",
+  "peelings",
+  "retinoides",
+  "toxine-botulique",
+  "vitamine-c"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "39110247",
+  "42429955",
+  "42709270",
+  "32359018",
+  "41821146",
+  "42771826",
+  "42602406",
+  "42545315",
+  "42087526"
+ ],
+ "preuve_globale": "A",
+ "resume": "Le microneedling améliore des cicatrices d'acné atrophiques et d'autres cicatrices dans des essais majoritairement en hémi-visage et de petite taille [A, faible certitude], avec moins de downtime et de risque pigmentaire que le laser CO2 fractionné mais une efficacité plutôt inférieure ; pour les…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Le microneedling améliore des cicatrices d'acné atrophiques et d'autres cicatrices dans des essais majoritairement en hémi-visage et de petite taille [A, faible certitude], avec moins de downtime et de risque pigmentaire que le laser CO2 fractionné mais une efficacité plutôt inférieure ; pour les rides et le « teint », les preuves sont minces et les dispositifs vendus pour l'usage à domicile sont les moins bien étayés et associés à des infections [B].",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- **Peut améliorer** : cicatrices d'acné atrophiques, en particulier associé à un peeling, au PRP ou à d'autres actifs [A, faible certitude] (PMID 39110247, 42429955) ; cicatrices non acnéiques, plus faiblement que le laser fractionné [A, faible certitude] (PMID 42709270).\n- **Preuve faible** : mélasma (voir plus bas), rides fines et texture : un seul petit ECR comparatif trouvé, sans bras témoin non traité [B] (PMID 32359018). Aucune méta-analyse sur le microneedling seul contre rides ou photovieillissement trouvée [?].\n- **Ne corrige pas** : relâchement cutané important (lifting), perte de volume ([filler](fiche:acide-hyaluronique-filler)), rides dynamiques ([toxine botulique](fiche:toxine-botulique)).\n- Variante **radiofréquence microneedling** (aiguilles associées à de la radiofréquence) : acte distinct ; ses résultats ne se transposent pas au microneedling simple (PMID 41821146 le compare au CO2, pas au microneedling simple) [?].",
+   "titre": "Ce que ça corrige / ne corrige pas"
+  },
+  {
+   "markdown": "- **Cicatrices d'acné, microneedling et associations** : réseau de 24 ECR (1 546 participants) : microneedling + peeling chimique donne les meilleurs résultats d'amélioration et de satisfaction ; les associations font mieux que le microneedling seul ; érythème, douleur et hyperpigmentation sans différence nette entre traitements [A, faible certitude] (PMID 39110247).\n- **Cicatrices d'acné, tous traitements** : réseau de 56 ECR (1 488 participants, surtout hémi-visage) ; les associations dominent les monothérapies ; microneedling + acide glycolique figure parmi les mieux classés sur l'ECCA ; les classements SUCRA sont des probabilités de rang, pas des effets mesurés [A, faible certitude] (PMID 42429955).\n- **Aiguilles vs laser ablatif, cicatrices** : revue de 27 études (17 ECR, 1 137 participants) : les deux améliorent les cicatrices ; le CO2 fractionné suggère une amélioration plus grande dans de nombreuses comparaisons sur cicatrices d'acné atrophiques ; les aiguilles ont moins de downtime et moins d'effets pigmentaires ; méta-analyse exploratoire sensible à des études individuelles [A, faible certitude] (PMID 42771826).\n- **Cicatrices non acnéiques** : 9 ECR, laser fractionné supérieur au microneedling sur le score de cicatrice (SMD −0,99 ; IC 95 % −1,83 à −0,15) ; pas de différence sur les effets indésirables ; forte hétérogénéité [A, faible certitude] (PMID 42709270).\n- **Radiofréquence microneedling vs CO2 fractionné, cicatrices d'acné** : 8 ECR, 249 patients : CO2 supérieur sur l'amélioration (différence moyenne 0,31) mais risque d'hyperpigmentation post-inflammatoire multiplié par 4,44 (IC 2,39-8,26) et douleur plus forte [A, faible certitude] (PMID 41821146).\n- **Rajeunissement, aiguilles vs Er:YAG** : 24 sujets, 3 séances mensuelles, hémi-visage : amélioration comparable de l'aspect du visage, de la dyschromie et des rides périorbitaires ; récupération plus courte au microneedling ; pas de bras témoin [B, ECR hémi-visage n=24] (PMID 32359018).\n- **Mélasma, vecteur d'actifs** : 8 études, 232 patients : microneedling + acide tranexamique ≈ microneedling + vitamine C (g = −0,123 ; IC −0,311 à 0,065) ; suivi de 6 à 16 semaines ; les auteurs soulignent qu'une différence non significative n'établit pas l'équivalence et que la sécurité à long terme et les récidives sont inconnues ; ne compare pas aux soins topiques sans aiguilles [A, faible certitude] (PMID 42602406).\n- **Durabilité** : peu de données de suivi dans les revues lues ; un suivi à long terme des cicatrices d'acné n'a pas été retenu ici [?].",
+   "titre": "Preuves (efficacité, durabilité) avec tags"
+  },
+  {
+   "markdown": "- **Hyperpigmentation post-inflammatoire** : plus rare qu'avec le CO2 fractionné (voir PMID 41821146, 42771826) mais non nulle ; fréquence pour le microneedling seul non extraite des résumés [?].\n- **Dispositifs à domicile** : revue de portée 2026 : preuve de faible qualité (niveau D) pour les appareils de microneedling domestiques, associés à des complications infectieuses [B, revue de portée] (PMID 42545315).\n- **Autres** : érythème, douleur, œdème transitoires, infection si l'asepsie est insuffisante : fréquences non retrouvées dans les sources lues [?].\n- **Produits appliqués après le geste** : n'importe quel actif passe plus profondément la barrière ; les experts consultés (Delphi 2026, 14 experts) jugent céramides, acide hyaluronique, niacinamide et peptides appropriés à tous les stades d'une procédure, et rétinoïdes, acides, hydroquinone, benzoyle et acide azélaïque inadaptés le jour du soin [B, consensus d'experts] (PMID 42087526). Voir [niacinamide](fiche:niacinamide).",
+   "titre": "Complications et fréquences"
+  },
+  {
+   "markdown": "- L'arrêté du 6 janvier 1962 (art. 2, 6°) réserve aux médecins « toute abrasion instrumentale des téguments à l'aide d'un matériel susceptible de provoquer l'effusion du sang (rabotage, meulage, fraisage) » (version en vigueur depuis le 27 mai 2024, Légifrance, consulté le 2026-10-06). Le texte ne cite ni « peeling » ni « microneedling » ; je l'applique aux aiguilles qui font saigner par lecture, sans décision officielle trouvée qui le confirme [?].\n- La délimitation pour un institut de beauté ou l'usage de rouleaux à aiguilles courtes en vente libre n'a pas été vérifiée dans une source officielle [?].\n- Compétence : dermatologue ou médecin en médecine esthétique. Le statut des dispositifs (marquage CE, règlement (UE) 2017/745) n'a pas été vérifié pour ce type d'appareil [?].",
+   "titre": "Qui peut le pratiquer en France (réglementation)"
+  },
+  {
+   "markdown": "- **Microneedling** : à partir de 180 € la séance (initiale), dermapen à partir de 230 € (cabinet du Dr Ferry, Nancy, consulté le 2026-10-06) ; 230 € la séance (Centre Marais Esthétique, Paris, consulté le 2026-10-06). Protocole : 4 séances espacées de 2 à 3 semaines puis entretien trimestriel ou semestriel (Dr Ferry) ; 3 séances espacées de 15 jours à 3 semaines puis 1 à 2 séances d'entretien par an (Marais Esthétique) : environ 700-900 € la cure initiale, sources commerciales, fait de prix uniquement.\n- **Radiofréquence microneedling** : 300 à 500 € la séance (Dr Mayeux, Paris 16, consulté le 2026-10-06).\n- Durabilité des résultats : les cabinets prescrivent un entretien ; aucune durée démontrée trouvée [?].",
+   "titre": "Coût et durabilité"
+  },
+  {
+   "markdown": "- [Rétinoïdes](fiche:retinoides) topiques : meilleure preuve pour le photovieillissement.\n- [Niacinamide](fiche:niacinamide) et [vitamine C](fiche:vitamine-c) : peu invasifs, preuve modeste.\n- [Peelings](fiche:peelings) superficiels pour taches et texture.\n- Laser : plus efficace sur les cicatrices d'acné, avec plus de risque pigmentaire ([lasers fractionnés](fiche:lasers-fractionnes)).",
+   "titre": "Alternatives moins invasives"
+  },
+  {
+   "markdown": "- Praticien non médecin proposant du microneedling profond ou saignant (voir arrêté de 1962, lecture non confirmée).\n- Dispositifs à domicile : infections signalées dans la littérature sur les appareils domestiques [B] (PMID 42545315).\n- Phototype foncé sans discussion du risque d'HPI, antécédent d'herpès ou d'isotrétinoïne récente non abordés [?].",
+   "titre": "Signaux d'alerte (praticien, tourisme médical, produits)"
+  },
+  {
+   "markdown": "- Li H et al., *Arch Dermatol Res* 2024 — PMID 39110247 — [DOI](https://doi.org/10.1007/s00403-024-03256-x)\n- Ou Y et al., *Aesthetic Plast Surg* 2026 — PMID 42429955 — [DOI](https://doi.org/10.1007/s00266-026-06165-8)\n- Almahzoum K et al., *Photodermatol Photoimmunol Photomed* 2026 — PMID 42771826 — [DOI](https://doi.org/10.1111/phpp.70121)\n- Dong D et al., *Lasers Med Sci* 2026 — PMID 42709270 — [DOI](https://doi.org/10.1007/s10103-026-05017-w)\n- Argobi Y et al., *J Cosmet Dermatol* 2026 — PMID 41821146 — [DOI](https://doi.org/10.1111/jocd.70765)\n- Robati RM et al., *J Cosmet Dermatol* 2020 — PMID 32359018 — [DOI](https://doi.org/10.1111/jocd.13440)\n- Roddaje T et al., *J Med Life* 2026 — PMID 42602406 — [DOI](https://doi.org/10.25122/jml-2026-0051)\n- Raef HS et al., *Dermatol Surg* 2026 — PMID 42545315 — [DOI](https://doi.org/10.1097/DSS.0000000000005252)\n- Bjerring P et al., *J Cosmet Dermatol* 2026 — PMID 42087526 — [DOI](https://doi.org/10.1111/jocd.70880)\n- Réglementation : [arrêté du 6 janvier 1962, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021066541/) (consulté le 2026-10-06).\n- Prix : [Dr Ferry](https://www.drferry.fr/medecine-esthetique/microneedling/), [Centre Marais Esthétique](https://marais-esthetique.fr/medecine-esthetique/microneedling-dermapen/), [Dr Mayeux](https://www.paris-medecine-esthetique.fr/tarifs/) (consultés le 2026-10-06 ; fait de prix uniquement).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Microneedling (dermapen, dermaroller, radiofréquence microneedling)",
+ "type": "acte",
+ "unite": ""
+}

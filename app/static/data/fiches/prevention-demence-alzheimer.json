@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "prevention",
+  "cerveau",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "prevention-demence-alzheimer",
+ "intro": "",
+ "liens": [
+  "alimentation-cerveau",
+  "audition-et-perte-auditive",
+  "declin-cognitif-et-neurodegenerescence",
+  "depression",
+  "exercice-physique",
+  "ginkgo",
+  "huperzine-a",
+  "prevention-des-cancers",
+  "sommeil",
+  "tabac-et-alcool"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "39096926",
+  "25771249",
+  "40720610",
+  "30688979",
+  "37478886"
+ ],
+ "preuve_globale": "B",
+ "resume": "La Commission Lancet 2024 liste des facteurs de risque modifiables de démence (dont l'hypoacousie et l'hypertension) ; chiffre global de fraction évitable non relu (pas de résumé PubMed) [?] (PMID 39096926). Données surtout observationnelles.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- La Commission Lancet 2024 liste des facteurs de risque modifiables de démence (dont l'hypoacousie et l'hypertension) ; chiffre global de fraction évitable non relu (pas de résumé PubMed) [?] (PMID 39096926). Données surtout observationnelles.\n- Essais multidomaines : FINGER (n=1 260) et US POINTER (n=2 111) montrent de petits gains de score cognitif, pas de réduction démontrée de démence [B] (PMID 25771249, PMID 40720610).\n- Tension : le contrôle intensif (< 120 mmHg) n'a pas réduit significativement la démence probable (HR 0,83 ; 0,67-1,04) mais a réduit le trouble cognitif léger (HR 0,81) [B, ECR unique n=9 361] (PMID 30688979).\n- Appareils auditifs : pas d'effet cognitif sur 3 ans dans l'ensemble (ACHIEVE) [B, ECR unique n=977] (PMID 37478886).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Non développés : les essais ci-dessous testent des interventions, pas des mécanismes [?].",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Levier | Résultat | Preuve |\n|---|---|---|\n| Multidomaine (régime, exercice, entraînement cognitif, suivi vasculaire), 2 ans, FINGER, sujets à risque 60-77 ans | différence de changement du score cognitif global 0,022 par an (IC 0,002-0,042) ; effets indésirables 7 % vs 1 % (douleurs musculo-squelettiques) | [B, ECR unique n=1 260] (PMID 25771249) |\n| Multidomaine structuré vs auto-guidé, US POINTER, 2 ans | +0,029 écart-type par an en faveur du structuré (0,008-0,050) ; les deux groupes progressent | [B, ECR unique n=2 111] (PMID 40720610) |\n| Tension artérielle (objectif < 120 vs < 140 mmHg), SPRINT MIND | démence probable HR 0,83 (non significatif) ; trouble cognitif léger HR 0,81 (0,69-0,95) ; essai arrêté tôt, puissance probablement insuffisante pour la démence | [B, ECR unique n=9 361] (PMID 30688979) |\n| Correction de l'hypoacousie (appareils + conseil), ACHIEVE | changement cognitif à 3 ans : différence 0,002 (-0,077 à 0,081), nul ; effet possible dans le sous-groupe à risque accru (ARIC), analyse de sensibilité | [B, ECR unique n=977] (PMID 37478886) |\n| Exercice, entraînement cognitif | gains modestes sur la cognition, pas sur la démence | [A] voir [déclin cognitif](fiche:declin-cognitif-et-neurodegenerescence) |\n\n- Les gains des essais multidomaines sont **petits** (centièmes d'écart-type par an) et mesurés sur un score, pas sur le diagnostic de démence ; la pertinence clinique reste à démontrer (les auteurs de US POINTER le disent) [B].\n- Hypoacousie, activité physique, tension : leur place dans la liste de la Commission repose sur des cohortes ; les essais randomisés cités ne confirment pas tous l'effet sur la démence.\n- Autres facteurs de la Commission (tabac, alcool, dépression, isolement, pollution, LDL, vision, traumatismes, diabète, obésité, éducation) : liste non vérifiée contre un résumé [?]. Tabac et alcool : voir [tabac et alcool](fiche:tabac-et-alcool).",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Débutant : contrôler la tension, activité physique, arrêt du tabac, alcool limité.\n- Intermédiaire : programme structuré type FINGER/POINTER (régime, exercice, stimulation cognitive, suivi vasculaire), avec un médecin ; bénéfice attendu petit [B].\n- Avancé : bilan auditif et visuel ; prise en charge d'une dépression ([dépression](fiche:depression)).\n- Doses d'exercice et détail de régime : voir [exercice](fiche:exercice-physique), [alimentation cerveau](fiche:alimentation-cerveau), [sommeil](fiche:sommeil).",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Attendre d'un seul levier (complément, jeu cérébral) un effet sur la démence : non démontré [?].\n- Appareiller l'audition « pour prévenir la démence » : l'essai n'a pas montré d'effet global ; l'appareillage reste justifié par la perte auditive elle-même.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Booster de mémoire / anti-Alzheimer »** vendu en complément : voir [déclin cognitif](fiche:declin-cognitif-et-neurodegenerescence), [ginkgo](fiche:ginkgo), [huperzine](fiche:huperzine-a) ; aucune preuve de réduction de démence retrouvée dans cette fiche [M].\n- « 45 % des démences sont évitables » (chiffre souvent cité) : estimation de modélisation, non relue ici ; ne vaut pas bénéfice garanti d'une intervention individuelle.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Les participants de FINGER étaient sélectionnés à risque (score CAIDE ≥ 6) ; chez les sujets à faible risque, ACHIEVE suggère aussi un effet absent [B] (PMID 25771249, PMID 37478886).\n- Dans SPRINT MIND, la durée d'intervention médiane était de 3,34 ans : courte face à l'évolution de la démence [B] (PMID 30688979).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Troubles mémoire gênants, désorientation, changement de comportement ; hypertension non contrôlée ; baisse auditive.\n\nÀ voir aussi : [Déclin cognitif et neurodégénérescence](fiche:declin-cognitif-et-neurodegenerescence) · [Audition](fiche:audition-et-perte-auditive) · [Prévention des cancers](fiche:prevention-des-cancers)",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 39096926 — Livingston G et al., *Lancet* 2024 (Commission). doi:10.1016/S0140-6736(24)01296-0\n- PMID 25771249 — Ngandu T et al., *Lancet* 2015 (FINGER).\n- PMID 40720610 — Baker LD et al., *JAMA* 2025 (US POINTER).\n- PMID 30688979 — SPRINT MIND Investigators, *JAMA* 2019.\n- PMID 37478886 — Lin FR et al., *Lancet* 2023 (ACHIEVE).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Prévention de la démence et de la maladie d'Alzheimer",
+ "type": "condition",
+ "unite": ""
+}

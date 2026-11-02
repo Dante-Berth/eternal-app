@@ -1,0 +1,69 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-23",
+ "famille": "alimentation",
+ "id": "regime-cetogene-et-pauvre-en-glucides",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "apob-lipides-et-statines",
+  "cetones-exogenes-et-mct",
+  "glycemie-et-prediabete",
+  "jeune-intermittent-et-restriction-calorique",
+  "regime-carnivore",
+  "regime-pauvre-en-graisses"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "26527511",
+  "23651522",
+  "37231411",
+  "32588435",
+  "33918992"
+ ],
+ "preuve_globale": "A",
+ "resume": "Perte de poids : légèrement meilleure à court-moyen terme, pas de miracle : low-carb vs low-fat dans les essais de perte de poids ≥ 1 an, +1,15 kg de perte en faveur du low-carb (IC 0,52-1,79) [A] (PMID 26527511) ; cétogène très pauvre en glucides vs low-fat à ≥ 12 mois : −0,91 kg (IC −1,65 à −0,…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Perte de poids : légèrement meilleure à court-moyen terme, pas de miracle** : low-carb vs low-fat dans les essais de perte de poids ≥ 1 an, +1,15 kg de perte en faveur du low-carb (IC 0,52-1,79) [A] (PMID 26527511) ; cétogène très pauvre en glucides vs low-fat à ≥ 12 mois : −0,91 kg (IC −1,65 à −0,17) [A] (PMID 23651522).\n- **Le LDL monte** : association supportée par une preuve de haute qualité dans une revue parapluie (68 ECR) ; triglycérides en baisse [A] (PMID 37231411). Le LDL grimpe de 0,12 mmol/L en moyenne dans la méta-analyse long terme (PMID 23651522).\n- **Épilepsie pharmacorésistante de l'enfant : seule indication médicale solide**, mais certitude faible à très faible [A, faible certitude] (PMID 32588435).\n- **Cancer** : aucune preuve d'un bénéfice comme traitement adjuvant [A, faible certitude] (PMID 33918992).\n- **Aucune donnée d'événements cliniques à long terme** (infarctus, mortalité) dans les résumés lus [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Cétogène très pauvre en glucides (VLCKD)** : ≤ 50 g de glucides/j dans la méta-analyse de long terme (PMID 23651522). **Attention à l'acronyme** : dans la revue parapluie, « VLCKD » désigne un cétogène **très hypocalorique** (very low-calorie ketogenic diet) et « K-LCHF » un cétogène pauvre en glucides et riche en graisses (PMID 37231411). Les deux ne sont pas interchangeables : le VLCKD hypocalorique ne perd pas de masse musculaire chez l'adulte en surpoids, le K-LCHF en perd chez le sujet sain (PMID 37231411).\n- **Variantes médicales dans l'épilepsie** : cétogène classique 4:1 (graisses/glucides + protéines), 3:1, cétogène aux triglycérides à chaîne moyenne (MCT), régime Atkins modifié (MAD, plus souple) (PMID 32588435). Chez les adultes, c'est surtout le MAD qui est testé (PMID 32588435).\n- **Cétogène en soutien d'un traitement anticancer (LCKD)** : « low-carbohydrate ketogenic diet » dans 6 essais (PMID 33918992).\n- **Pauvre en glucides sans cétose** : les seuils (grammes ou % de l'énergie) varient selon les essais et ne sont pas détaillés dans les résumés lus [?].\n- **Aliments autorisés** : viandes, poissons, œufs, graisses, légumes pauvres en amidon ; pain, pâtes, riz, sucre limités ou exclus. Description courante, non sourcée par les résumés lus [?]. Les corps cétoniques en complément (cétones exogènes) sont un autre sujet : [cétones exogènes et MCT](fiche:cetones-exogenes-et-mct).",
+   "titre": "Variantes et contenu"
+  },
+  {
+   "markdown": "Non revérifié [?]. Restriction de glucides (cétogène : ≤ 50 g/j dans la méta-analyse citée) jusqu'à produire des corps cétoniques. Distinguer du régime et des [cétones exogènes et MCT](fiche:cetones-exogenes-et-mct).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Poids et facteurs de risque\n| Source | Résultat | Preuve |\n|---|---|---|\n| 53 ECR ≥ 1 an, 68 128 pers. | low-carb vs low-fat en perte de poids : +1,15 kg en faveur du low-carb ; low-fat vs autres régimes plus gras : pas de différence (+0,36 kg, IC −0,66 à 1,37) ; low-fat meilleur seulement face au régime habituel (−5,41 kg) (PMID 26527511) | [A] |\n| 13 ECR ≥ 12 mois, VLCKD vs low-fat (1 415 pers.) | poids −0,91 kg, triglycérides −0,18 mmol/L, PAD −1,43 mmHg, HDL +0,09, LDL +0,12 mmol/L (PMID 23651522) | [A] |\n| Revue parapluie, 17 méta-analyses, 68 ECR, suivi médian 13 semaines | haute qualité : triglycérides baissés, LDL augmenté, crises d'épilepsie réduites ; qualité modérée : poids, HbA1c, cholestérol total (hausse) ; surpoids : VLCKD sans perte de masse musculaire ; cétogène low-carb high-fat en bonne santé : perte de masse musculaire possible (PMID 37231411) | [A] |\n\n### Épilepsie pharmacorésistante\nCochrane, 13 études, 932 pers. : enfants, liberté de crises RR 3,16 (1,20-8,35, certitude très faible), réduction ≥ 50 % RR 5,80 (3,48-9,65, certitude faible) ; chez l'adulte, preuve très incertaine ; effets indésirables fréquents : vomissements, constipation, diarrhée ; toutes les études à risque de biais élevé (non aveugle) [A, faible certitude] (PMID 32588435).\n\n### Cancer\n6 ECR : pas de bénéfice démontré sur lipides, poids, glycémie ; seuls marqueur PSA, atteinte de la cétose et satisfaction significatifs [A, faible certitude] (PMID 33918992).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « Le keto fait fondre la graisse mieux que tout » : l'avantage sur le low-fat est d'environ 1 kg à ≥ 1 an et dépend de l'intensité du comparateur [A] (PMID 26527511, 23651522).\n- « Le cholestérol ne compte pas » : le LDL monte de façon cliniquement significative ; effet sur les événements non mesuré dans ces essais [A] (PMID 37231411). Voir [ApoB, lipides et statines](fiche:apob-lipides-et-statines).\n- « Le keto est un traitement anticancer » : [A, faible certitude] (PMID 33918992).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Effets indésirables documentés en épilepsie : troubles digestifs (PMID 32588435). Hausse du LDL (PMID 37231411) : surveiller le bilan lipidique. Diabète traité (hypoglycémie, médicaments à ajuster), grossesse, maladie rénale ou hépatique, troubles du comportement alimentaire : non couverts par les résumés lus, avis médical [?].\n\nStatut réglementaire : sans objet pour le régime ; l'usage thérapeutique dans l'épilepsie relève d'une équipe spécialisée.\n\nVoir aussi : [glycémie et prédiabète](fiche:glycemie-et-prediabete) · [pauvre en graisses](fiche:regime-pauvre-en-graisses) · [carnivore](fiche:regime-carnivore) · [jeûne intermittent](fiche:jeune-intermittent-et-restriction-calorique) · [synthèse alimentation](fiche:alimentation).",
+   "titre": "Sécurité, populations à risque"
+  },
+  {
+   "markdown": "- PMID 26527511 — Tobias D.K. et al., *Lancet Diabetes Endocrinol* 2015. doi:10.1016/S2213-8587(15)00367-8\n- PMID 23651522 — Bueno N.B. et al., *Br J Nutr* 2013. doi:10.1017/S0007114513000548\n- PMID 37231411 — Patikorn C. et al., *BMC Med* 2023. doi:10.1186/s12916-023-02874-y\n- PMID 32588435 — Martin-McGill K.J. et al., *Cochrane Database Syst Rev* 2020. doi:10.1002/14651858.CD001903.pub5\n- PMID 33918992 — Yang Y.-F. et al., *Nutrients* 2021. doi:10.3390/nu13051388",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Régime cétogène et pauvre en glucides (low-carb)",
+ "type": "actif",
+ "unite": ""
+}

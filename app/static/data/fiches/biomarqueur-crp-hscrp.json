@@ -1,0 +1,100 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-11-02",
+ "famille": "",
+ "id": "biomarqueur-crp-hscrp",
+ "intro": "Fiche « examen ». Inflammation chronique de bas grade, myokines et effet de l'entraînement sur la CRP : [myokines](fiche:myokines) et [surentraînement et stress hormétiques](fiche:surentrainement-et-inflammation-de-bas-grade).\n\nAutres marqueurs d'inflammation : [IL-6](fiche:biomarqueur-il6-interleukine-6) et [fibrinogène et VS](fiche:biomarqueur-fibrinogene-et-vs) (aucun des deux n'est à préférer à la hs-CRP en prévention).",
+ "liens": [
+  "apob-lipides-et-statines",
+  "auto-experimentation",
+  "biomarqueur-fibrinogene-et-vs",
+  "biomarqueur-il6-interleukine-6",
+  "ginseng",
+  "glycemie-et-prediabete",
+  "myokines",
+  "surentrainement-et-inflammation-de-bas-grade",
+  "tension-arterielle"
+ ],
+ "marqueurs": [
+  "crp-us"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 11,
+ "nb_seuils": 5,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "20031199",
+  "41397850",
+  "39485740",
+  "29265905",
+  "39740358",
+  "26837745",
+  "19805771",
+  "36255556",
+  "12551878",
+  "42765120",
+  "39387709"
+ ],
+ "preuve_globale": "A",
+ "resume": "La CRP est un marqueur non spécifique d'inflammation. Une CRP haute prédit le risque cardiovasculaire et la mortalité non vasculaire : par écart-type de ln(CRP) (≈ ×3), RR coronaire 1,37 (1,27–1,48) après facteurs classiques, 1,23 (1,07–1,42) après fibrinogène ; RR mortalité non vasculaire 1,54 (…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- La CRP est un marqueur **non spécifique** d'inflammation. Une CRP haute prédit le risque cardiovasculaire **et** la mortalité non vasculaire : par écart-type de ln(CRP) (≈ ×3), RR coronaire 1,37 (1,27–1,48) après facteurs classiques, 1,23 (1,07–1,42) après fibrinogène ; RR mortalité non vasculaire 1,54 (1,40–1,68) [A, 160 309 sujets, 54 études] (PMID 20031199). Les auteurs écrivent que la pertinence d'un marqueur aussi large est « unclear ».\n- En prévention secondaire (193 761 patients, 27 études) : CRP haute → événements majeurs aHR 1,55 (1,39–1,73, certitude élevée), mort toutes causes aHR 1,92 (1,52–2,41), infarctus 1,40 ; relation **non linéaire**, risque cliniquement plus élevé entre 2 et 4 mg/L [A] (PMID 41397850).\n- **Très variable chez un même sujet** : CV intra-individuel médian 41 % (CRP) et 44 % (hs-CRP) [A, méta-analyse de petites études] (PMID 39485740, repris de [auto-expérimentation](fiche:auto-experimentation)). Un dosage isolé dit presque rien d'une tendance personnelle.\n- Cibler l'inflammation peut réduire les événements, mais avec un coût : canakinumab (anti-IL-1β, CANTOS) réduit infarctus et événements combinés sans effet sur la mortalité, avec plus de décès par sepsis/infection [B, ECR unique, revue] (PMID 29265905).\n- Les rares leviers de mode de vie mesurés : entraînement en résistance (CRP −0,74 mg/L chez ≥ 60 ans) [A] (PMID 39740358).\n- Remboursement/prix de l'hs-CRP en France : non établis [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Protéine de phase aiguë produite par le foie sous l'effet de l'IL-6 ; reflète l'inflammation systémique (infection, obésité, tabac, maladie chronique). Elle est associée à l'athérosclérose mais n'est pas démontrée comme cause : l'hypothèse de l'inflammation comme cible thérapeutique repose sur des essais comme CANTOS (PMID 29265905) et sur des revues [B, hypothèse testée par CANTOS] (PMID 26837745, titre seul).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "Aucun seuil diagnostique officiel : la hs-CRP sert à estimer un risque, pas à poser un diagnostic. Les bornes ci-dessous sont celles des études citées, qui n'utilisent pas toutes les mêmes. 1 mg/dL = 10 mg/L.\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| hs-CRP | mg/L | < 1,0 | catégorie de référence (risque le plus bas) ; RR coronaire 1,58 (1,37–1,83) pour > 3,0 contre < 1,0, après ajustement Framingham | adultes à risque cardiovasculaire intermédiaire | [A, méta-analyse de cohortes] Buckley 2009, PMID 19805771 |\n| hs-CRP | mg/L | > 3,0 | classée « élevée » : mortalité toutes causes HR 1,27 (1,13–1,44) | hommes finlandais de 42 à 61 ans | [B, cohorte] Kunutsor 2022, PMID 36255556 |\n| hs-CRP | mg/L | 2–4 | risque d'événements cardiovasculaires cliniquement plus élevé (relation non linéaire) ; les études retiennent des seuils de 0,5 à 5,0 mg/L | prévention secondaire (maladie athéroscléreuse établie) | [A, méta-analyse] Piccolo 2025, PMID 41397850 |\n| hs-CRP | mg/L | 1,0–3,0 | catégorie intermédiaire des recommandations CDC/AHA 2003 | adulte | seuils non retrouvés dans le texte : résumé indisponible, titre vérifié seulement (Pearson 2003, PMID 12551878) [?] |\n| CRP | mg/L | > 10 | seuil habituel de CRP très élevée (infection, maladie inflammatoire) | adulte | non retrouvé : aucune source lue [?] |",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Prévision coronaire (sujets sans maladie) | RR 1,37 par ×3 de CRP, atténué à 1,23 après fibrinogène | [A] (PMID 20031199) |\n| Mortalité non vasculaire | RR 1,54 par ×3 de CRP | [A] (PMID 20031199) |\n| Prévention secondaire | MACE aHR 1,55 ; mort toutes causes aHR 1,92 ; AVC non concluant (aHR 1,52, 0,69–3,32) | [A] (PMID 41397850) |\n| Seuil | Relation non linéaire, risque notable entre 2 et 4 mg/L (revue de prévention secondaire) | [A] (PMID 41397850) |\n| Seuil utilisé dans une cohorte finlandaise | hsCRP > 3 mg/L = « élevée » : HR mortalité 1,27 (1,13–1,44) | [B, cohorte] (PMID 36255556) |\n| Valeur ajoutée aux scores de risque (sujets à risque intermédiaire) | RR coronaire 1,58 (1,37–1,83) pour CRP > 3,0 mg/L vs < 1,0 mg/L après ajustement Framingham ; preuve modérée que la CRP améliore la stratification chez les sujets à risque intermédiaire ; preuve insuffisante que baisser la CRP prévient les événements (revue pour l'USPSTF, données jusqu'en 2007) | [A, méta-analyse de cohortes] (PMID 19805771) |",
+   "titre": "Ce que dit la preuve"
+  },
+  {
+   "markdown": "- CV intra-individuel ≈ 41–44 % (PMID 39485740) : un « 3,1 » puis un « 1,2 » à quelques semaines d'écart peuvent être le même état biologique.\n- Infection récente, effort intense, blessure, tabagisme, sommeil : influencent la valeur. Délai à respecter après un effort intense (≥ 48 h) : recommandé par une revue de biologie du sport (PMID 42765120, voir [fiche liée](fiche:surentrainement-et-inflammation-de-bas-grade)). Délai après une infection : non sourcé ici [?].",
+   "titre": "Variabilité et conditions de prélèvement"
+  },
+  {
+   "markdown": "- Ne pas la traiter isolément : chercher une cause (infection, maladie inflammatoire, obésité, tabac, apnée du sommeil, parodontite) ; répéter le dosage après disparition d'un épisode aigu (délais : [?]).\n- Si la CRP reste élevée dans un contexte de risque : traiter les facteurs classiques ([ApoB/LDL](fiche:apob-lipides-et-statines), [tension](fiche:tension-arterielle), [glycémie](fiche:glycemie-et-prediabete)) ; pas de traitement anti-inflammatoire validé en prévention primaire à partir de ce dosage seul [?].\n- Entraînement en résistance régulier : CRP −0,74 mg/L (MD) chez ≥ 60 ans ; effet sur le risque clinique non démontré (PMID 39740358) [A].",
+   "titre": "Que faire d'une CRP élevée"
+  },
+  {
+   "markdown": "Examen de biologie médicale prescrit (CRP standard et hs-CRP). Cotation NABM, prix et remboursement : non retrouvés [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Se faire doser la CRP après une séance intense ou pendant un rhume.\n- Comparer deux dosages sans tenir compte du CV ≈ 41 %.\n- Utiliser une CRP basse comme preuve de « bonne santé » ou une CRP haute pour justifier des compléments « anti-inflammatoires ».",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« La CRP est le marqueur de longévité »** : elle prédit aussi la mortalité non vasculaire (RR 1,54) : c'est un marqueur de maladie en cours, pas un levier (PMID 20031199).\n- **« Les compléments anti-inflammatoires baissent la CRP donc le risque »** : une baisse de CRP isolée n'est pas un résultat clinique ; les effets mesurés (ginseng : CRP −0,41 mg/L, voir [ginseng](fiche:ginseng)) sont faibles et sans essai d'événements [A, marqueur seulement] (PMID 39387709).\n- **« Le sauna réduit l'inflammation »** : voir [surentraînement et stress hormétiques](fiche:surentrainement-et-inflammation-de-bas-grade) : association en cohorte uniquement (PMID 36255556).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Après ajustement sur le fibrinogène, l'association CRP–maladie coronaire tombe de 1,37 à 1,23 (PMID 20031199).\n- Le seuil de risque en prévention secondaire n'est pas linéaire : le signal le plus net se situe entre 2 et 4 mg/L (PMID 41397850).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "CRP > 10 mg/L ou fièvre, perte de poids, douleurs articulaires, toux persistante : le seuil de 10 mg/L n'a pas été sourcé ici [?] ; une CRP très élevée justifie de chercher une infection ou une maladie inflammatoire, avec un médecin.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 19805771 — Buckley DI et al., CRP as a risk factor for coronary heart disease: systematic review and meta-analyses for the U.S. Preventive Services Task Force. *Ann Intern Med* 2009. doi:10.7326/0003-4819-151-7-200910060-00009\n- PMID 20031199 — Emerging Risk Factors Collaboration, Kaptoge S et al., CRP concentration and risk of CHD, stroke, and mortality. *Lancet* 2010. doi:10.1016/S0140-6736(09)61717-7\n- PMID 41397850 — Piccolo R et al., CRP and adverse events in secondary prevention. *Atherosclerosis* 2025. doi:10.1016/j.atherosclerosis.2025.120574\n- PMID 39485740 — méta-analyse de la variabilité intra-individuelle de la CRP (repris de [auto-expérimentation](fiche:auto-experimentation), titre non relu ici).\n- PMID 29265905 — Capodanno D, Angiolillo DJ, Canakinumab for secondary prevention (CANTOS). *Expert Opin Biol Ther* 2018. doi:10.1080/14712598.2018.1420776\n- PMID 36255556 — Kunutsor SK et al., Inflammation, sauna bathing and all-cause mortality. *Eur J Epidemiol* 2022.\n- PMID 39740358 — Nejatian Hoseinpour A et al., résistance et marqueurs inflammatoires. *Arch Gerontol Geriatr* 2025.\n- PMID 42765120 — Dupont A, biologie et suivi des sportifs. *Ann Biol Clin* 2026.\n- PMID 39387709 — ginseng et marqueurs CV/inflammatoires (repris de la fiche ginseng).\n- PMID 26837745 — Ridker PM, From CRP to IL-6 to IL-1. *Circ Res* 2016 (titre seul).\n- PMID 12551878 — Pearson TA et al., Markers of inflammation and cardiovascular disease (CDC/AHA). *Circulation* 2003. doi:10.1161/01.cir.0000052939.59093.45 (titre vérifié ; résumé indisponible, texte non lu).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : protéine C-réactive (CRP, hs-CRP)",
+ "type": "biomarqueur",
+ "unite": ""
+}

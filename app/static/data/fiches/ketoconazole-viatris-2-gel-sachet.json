@@ -1,0 +1,65 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "medicament",
+ "id": "ketoconazole-viatris-2-gel-sachet",
+ "intro": "",
+ "liens": [
+  "ketoconazole",
+  "ketoderm-2-shampooing",
+  "minoxidil-cooper-5-solution"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "25933684",
+  "9669136"
+ ],
+ "preuve_globale": "B",
+ "resume": "Même actif, même dose et même prix réglementé que Kétoderm : un traitement de la dermite séborrhéique, appoint non prouvé contre l'alopécie androgénétique.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Même actif, même dose et même prix réglementé que [Kétoderm](fiche:ketoderm-2-shampooing) : un traitement de la dermite séborrhéique, appoint non prouvé contre l'alopécie androgénétique.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Composant | Quantité | Preuve |\n|---|---|---|\n| Kétoconazole | 120 mg/sachet de 6 g (2 %) | Dermite séborrhéique : 31 % de risque en moins d'échec de clairance vs placebo à 4 semaines [A, faible certitude] (PMID 25933684). AGA : amélioration de la densité comparable au minoxidil 2 % dans un petit essai contrôlé de 1998 qui conclut qu'un essai plus large est nécessaire [B] (PMID 9669136) |\n| Laurylsulfate de sodium, monolauryléthersulfosuccinate disodique et 8 autres excipients | — | Tensioactifs ; le RCP signale des réactions cutanées locales possibles (BDPM) |\n\nVoir [kétoconazole](fiche:ketoconazole).",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Liste I (ordonnance), remboursé à 30 %, titulaire Viatris Santé ; indications : dermite séborrhéique, pityriasis versicolor (adulte et adolescent dès 12 ans) ; AMM du 11/09/2008, RCP du 11/12/2025 (BDPM, fiche 68880443, consultée le 2026-10-06). Aucune indication « chute de cheveux ». Le RCP liste l'alopécie et les modifications de texture ou de couleur du cheveu parmi les effets indésirables rares ou de fréquence indéterminée. Le générique Zentiva est supprimé (arrêt le 14/02/2025, Vidal, consulté le 2026-10-06), ce qui corrige la mention de la fiche actif.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "Pas d'allégation capillaire (médicament). Usage « anti-chute » : un seul essai ancien et petit (essai clinique contrôlé, 1998) [B] (PMID 9669136) ; pas d'ECR solide [?].",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Selon le RCP, dermite séborrhéique : 2 applications par semaine le premier mois, puis une par semaine ou par quinzaine ; laisser poser au moins 5 minutes puis rincer (BDPM, Pharmanity pour Mylan). Pas d'extrapolation pour l'AGA au-delà du RCP.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix réglementé 5,42 € la boîte (4,40 € + 1,02 € d'honoraire), remboursé à 30 % : BDPM/Pharmanity (Viatris, Mylan), relevé le 2026-10-06 ; le prix étant fixé, aucun écart entre vendeurs. À 8 à 9 sachets par mois en phase initiale, **environ 5 à 11 €/mois** avant remboursement (boîte de 4 ou 8).\n- Équivalent à Kétoderm (6,07 € relevé le 2026-10-03). Pour l'AGA, le [minoxidil](fiche:minoxidil-cooper-5-solution) a une meilleure preuve. Disponibilité en pharmacie de ville non confirmée : aucun vendeur en ligne français n'affichait ce produit [?].",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Aucune source d'avis exploitable relevée [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 25933684 — Okokon E.O. et al., *Cochrane Database Syst Rev* 2015. doi:10.1002/14651858.CD008138.pub3\n- PMID 9669136 — Piérard-Franchimont C. et al., *Dermatology* 1998. doi:10.1159/000017954\n- BDPM, Kétoconazole Viatris 2 % (68880443), consultée le 2026-10-06.\n- pharmanity.com (Kétoconazole Mylan 2 %) ; Vidal, Kétoconazole Zentiva supprimé, consultés le 2026-10-06.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Kétoconazole Viatris 2 %, gel en sachet-dose (alternative générique à Kétoderm)",
+ "type": "produit",
+ "unite": ""
+}

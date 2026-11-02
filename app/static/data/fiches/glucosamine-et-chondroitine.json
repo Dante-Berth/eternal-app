@@ -1,0 +1,94 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "glucosamine-et-chondroitine",
+ "intro": "",
+ "liens": [
+  "boswellia",
+  "collagene-oral",
+  "curcumine",
+  "exercice-physique",
+  "msm",
+  "omega-3"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 20,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "20847017",
+  "16495392",
+  "25629804",
+  "15846645",
+  "30575881",
+  "33846938",
+  "25589511",
+  "42558409",
+  "42112176",
+  "42016009",
+  "40095377",
+  "42015979",
+  "31073924",
+  "23239775",
+  "26527309",
+  "23983444",
+  "17065354",
+  "38138558",
+  "36029480",
+  "42356259"
+ ],
+ "preuve_globale": "A",
+ "resume": "Arthrose du genou : l'effet sur la douleur est au mieux faible, instable d'une méta-analyse à l'autre, et plus grand dans les essais financés par l'industrie. Méta-analyse en réseau de 10 grands essais (3 803 patients) : écart vs placebo de −0,4 cm sur 10 cm pour la glucosamine, −0,3 cm pour la c…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Arthrose du genou : l'effet sur la douleur est au mieux faible, instable d'une méta-analyse à l'autre, et plus grand dans les essais financés par l'industrie. Méta-analyse en réseau de 10 grands essais (3 803 patients) : écart vs placebo de −0,4 cm sur 10 cm pour la glucosamine, −0,3 cm pour la chondroïtine, −0,5 cm pour l'association, aucun ne franchit la différence cliniquement pertinente fixée à −0,9 cm [A, faible effet] (PMID 20847017).\n- Le plus grand essai indépendant (GAIT, 1 583 patients, 24 semaines) est négatif sur le critère principal : réponse au placebo 60,1 %, glucosamine +3,9 points (p = 0,30), chondroïtine +5,3 points (p = 0,17), association +6,5 points (p = 0,09) ; le célécoxib fait +10,0 points (p = 0,008) [B, ECR unique n=1 583] (PMID 16495392).\n- Les médicaments à base de glucosamine ou de chondroïtine ont été jugés à service médical insuffisant en France et ne sont plus remboursés.\n- À éviter si allergie aux crustacés (médicament à base de glucosamine d'origine crustacée) ; interaction possible avec les antivitamines K (INR).\n- Ne rien attendre de « régénère le cartilage » : voir plus bas.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Constituants du cartilage (glucosamine = sucre aminé, chondroïtine sulfate = glycosaminoglycane). Hypothèse : apport oral = substrat et effet anti-inflammatoire léger. Aucune démonstration d'un effet structural chez l'humain (voir tableau) ; la biodisponibilité du cartilage après prise orale n'a pas été recherchée dans cette fiche [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Douleur, arthrose genou/hanche, glucosamine, chondroïtine, association vs placebo | Réseau de 10 essais (≥ 200 patients), 3 803 patients : EVA −0,4 cm (IC crédible −0,7 à −0,1), −0,3 (−0,7 à 0,0), −0,5 (−0,9 à 0,0) ; pincement de l'interligne : écarts « minuscules » ; essais indépendants : effets plus petits que les essais financés (interaction p = 0,02) | [A, faible effet] (PMID 20847017) |\n| Douleur, GAIT | Critère principal (−20 % de douleur) non atteint ; sous-groupe douleur modérée à sévère : association 79,2 % vs placebo 54,3 % (p = 0,002), analyse exploratoire | [B, ECR unique n=1 583] (PMID 16495392) |\n| Chondroïtine seule, Cochrane 2015 | 43 ECR : douleur moins de 6 mois −10 % en différence absolue (IC −15 à −6), NNT = 5, I² = 70 %, certitude faible, risque de biais élevé ; au-delà de 6 mois −9 % (IC −18 à 0) | [A, faible certitude] (PMID 25629804) |\n| Glucosamine seule, Cochrane 2005 | Bénéfice surtout avec la préparation Rotta (douleur SMD −1,31) ; autres préparations : douleur SMD −0,15 (IC −0,35 à 0,05), non significatif | [A, hétérogène] (PMID 15846645) |\n| Long terme (≥ 12 mois), réseau de 47 ECR, 22 037 patients | Glucosamine sulfate : douleur SMD −0,29 (IC −0,49 à −0,09), pincement SMD −0,42 ; chondroïtine : pincement SMD −0,20 ; « grande incertitude » sur toutes les estimations. Plusieurs auteurs sont affiliés à Rottapharm Biotech, fabricant de glucosamine | [A, faible certitude, conflit d'intérêts visible] (PMID 30575881) |\n| Structure et symptômes, réseau de 28 ECR de plus de 12 mois | Effets « statistiquement significatifs mais cliniquement discutables » ; aucune des 12 classes de traitements « modificateurs » n'a de bénéfice cliniquement significatif à long terme | [A, effet faible] (PMID 33846938) |\n| Association vs célécoxib (MOVES), 606 patients, douleur sévère | Baisse du WOMAC douleur de 50,1 % vs 50,2 %, non-infériorité atteinte ; essai sans placebo, source de financement non relevée dans le résumé | [B, ECR unique n=606, sans placebo] (PMID 25589511) |\n| Réseaux récents : glucosamine + chondroïtine | Rang élevé sur la douleur mais certitude « faible ou très faible » (célécoxib en tête) | [A, faible certitude] (PMID 42558409) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais : glucosamine 1 500 mg/j, chondroïtine sulfate 1 200 mg/j dans GAIT (PMID 16495392) ; MOVES : chondroïtine 400 mg + glucosamine chlorhydrate 500 mg trois fois par jour (PMID 25589511). Les écarts d'efficacité entre sels (sulfate, chlorhydrate) et marques sont l'une des explications avancées de l'hétérogénéité (PMID 15846645), sans qu'on puisse conclure.\n- Teneurs des compléments vendus : non relevées [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Médicaments avec AMM active et commercialisés en France (BDPM, consulté le 2026-10-14) : Structoflex 625 mg et Flexea 625 mg (glucosamine chlorhydrate), Osaflexan 1 178 mg (glucosamine sulfate), Structum 500 mg et Chondrosulf 400/800 mg (chondroïtine sulfate), Cartifit (association). Aucun taux de remboursement dans le fichier BDPM (CIS_CIP, consulté le 2026-10-14). Pour Structum, la Commission de la transparence rend un SMR « insuffisant » (avis du 25/05/2011) ; pour Structoflex, SMR « faible » (avis du 30/06/2010 puis 21/09/2011) devenu « insuffisant » (avis du 20/11/2013), ASMR V (avis du 30/06/2010), prix libre, médicament non remboursable, sans ordonnance, titulaire Pierre Fabre Médicament (pages BDPM relues le 2026-10-14). Date et texte du déremboursement : la glucosamine est rapportée radiée au 1er mars 2015 par Vidal (arrêté du 16 janvier 2015, JO du 21 janvier 2015, d'après Vidal ; texte du JO non lu) ; le déremboursement de Structum est rapporté par la presse professionnelle comme contesté par le fabricant, sans date officielle confirmée : non vérifié sur Légifrance [?].\n- Compléments alimentaires : la liste de l'Union des nouveaux aliments (règlement d'exécution (UE) 2017/2470, version consolidée du 2026-08-10, texte intégral lu) autorise en compléments (directive 2002/46/CE) le chlorhydrate de glucosamine et le sulfate de glucosamine (KCl, NaCl) issus d'*Aspergillus niger* et d'*E. coli* K-12 modifié, « selon l'usage alimentaire normal de la glucosamine issue de crustacés », ainsi que le sulfate de chondroïtine issu de fermentation microbienne puis sulfatation chimique (*E. coli* O5:K4:H4) : adultes hors femmes enceintes ou allaitantes, 1 200 mg/j maximum. La glucosamine et la chondroïtine d'origine animale (crustacés, cartilage) ne figurent pas à cette liste ; leur statut au catalogue Novel Food n'a pas pu être consulté (site inaccessible) [?]. Aucune entrée à l'annexe III du règlement (CE) n° 1925/2006 (version 2025-11-26) ; aucune allégation glucosamine ou chondroïtine dans le règlement (UE) n° 432/2012 (version 2025-08-20).\n- Allégations santé : l'EFSA a conclu en 2012 qu'aucun lien de cause à effet n'était établi entre glucosamine et maintien du cartilage articulaire normal chez les personnes sans arthrose (PMID 42112176), et en 2011 pour « maintien des articulations » (demande Béres : étude sur lésion aiguë du genou et étude sur biomarqueurs non contrôlée) (PMID 42016009).\n- AMA : liste 2026 non consultée (PDF inaccessible le 2026-10-14) [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Effets indésirables des essais : « légers, peu fréquents, répartis également » dans GAIT (PMID 16495392). Une revue de pharmacovigilance rapporte surtout des réactions allergiques et des troubles digestifs avec des produits « de qualité non pharmaceutique » (PMID 40095377) [B, revue de séries de cas et cohortes].\n- Antivitamines K (warfarine, acénocoumarol, fluindione) : plus de 40 cas rapportés d'INR augmenté, parfois avec hémorragie ; l'EFSA conclut à un risque d'interaction chez certains individus, dont l'ampleur ne peut être chiffrée (PMID 42015979) [B, séries de cas]. Le RCP français demande une surveillance de l'INR.\n- RCP Structoflex (BDPM, consulté le 2026-10-14) : contre-indiqué en cas d'allergie aux crustacés ; surveiller la glycémie en cas de diabète ; surveiller les lipides en cas de facteurs de risque cardiovasculaire ; asthme possiblement aggravé ; tétracyclines : absorption augmentée ; grossesse : déconseillé ; allaitement : non recommandé ; moins de 18 ans : non.\n- Méta-analyse de sécurité d'ECR contre placebo : sulfate de glucosamine et sulfate de chondroïtine non associés à une hausse d'aucun type d'événement indésirable ; auteurs liés à des fabricants de médicaments anti-arthrosiques (PMID 31073924) [A, effets indésirables].\n- Foie : cas isolés d'atteinte hépatique aiguë (hépatocellulaire, cholestatique) sous glucosamine seule ou avec chondroïtine, résolutifs à l'arrêt (PMID 23239775, 26527309) ; parmi 151 patients atteints de maladie hépatique chronique, 2 élévations de transaminases temporellement liées à la glucosamine (PMID 23983444) [B, cas et série]. Mécanisme possible : hypersensibilité, non établi.\n- Glycémie : glucosamine orale 500 mg trois fois par jour pendant 6 semaines : pas d'insulinorésistance induite ni aggravée, 40 sujets maigres ou obèses, crossover [B, ECR unique n=40] (PMID 17065354).\n- Interactions via les cytochromes P450 : sulfate de chondroïtine, glucosamine et MSM n'inhibent pas significativement sept CYP in vitro ; prudence maintenue pour les interactions déjà rapportées (PMID 38138558) [D].\n- Rein : aucun signal rénal retrouvé dans les sources lues ; non recherché spécifiquement en cas d'insuffisance rénale [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Reconstruit le cartilage » : les effets structuraux (pincement articulaire) sont minuscules et de faible certitude (PMID 20847017, 30575881, 33846938) [A, effet faible].\n- « Les utilisateurs de glucosamine vivent plus longtemps et ont moins de cancers » : les études observationnelles (réduction moyenne de mortalité HR 0,84 sur 11 études) viennent d'un biais de sélection (cohortes de consommateurs prévalents) ; elles ne peuvent pas justifier la prise préventive (PMID 36029480) [B, analyse de biais].\n- « Équivalent du célécoxib » : un seul essai de non-infériorité sans placebo (PMID 25589511) ; dans GAIT, le célécoxib dépasse nettement le placebo et pas l'association (PMID 16495392).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Exercice et perte de poids (voir [exercice physique](fiche:exercice-physique)) restent la base de l'arthrose du genou ; les compléments en sont des adjuvants (revue de 2026, PMID 42356259) [B, revue narrative].\n- Autres compléments évalués pour l'arthrose, avec des preuves également faibles : [curcumine](fiche:curcumine), [boswellia](fiche:boswellia), [MSM](fiche:msm), [collagène oral](fiche:collagene-oral), [oméga-3](fiche:omega-3).",
+   "titre": "Alternatives à examiner avec un médecin"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Wandel et al. *BMJ* 2010 — PMID 20847017 — [DOI](https://doi.org/10.1136/bmj.c4675)\n2. Clegg et al. *N Engl J Med* 2006 — PMID 16495392 — [DOI](https://doi.org/10.1056/NEJMoa052771)\n3. Singh et al. *Cochrane Database Syst Rev* 2015 — PMID 25629804 — [DOI](https://doi.org/10.1002/14651858.CD005614.pub2)\n4. Towheed et al. *Cochrane Database Syst Rev* 2005 — PMID 15846645 — [DOI](https://doi.org/10.1002/14651858.CD002946.pub2)\n5. Gregori et al. *JAMA* 2018 — PMID 30575881 — [DOI](https://doi.org/10.1001/jama.2018.19319)\n6. Yang et al. *J Gen Intern Med* 2021 — PMID 33846938 — [DOI](https://doi.org/10.1007/s11606-021-06755-z)\n7. Hochberg et al. *Ann Rheum Dis* 2016 — PMID 25589511 — [DOI](https://doi.org/10.1136/annrheumdis-2014-206792)\n8. Chen et al. *Front Med* 2026 — PMID 42558409 — [DOI](https://doi.org/10.3389/fmed.2026.1862817)\n9. Honvo et al. *Drugs* 2025 — PMID 40095377 — [DOI](https://doi.org/10.1007/s40265-025-02162-4)\n10. EFSA NDA Panel, statement on glucosamine and coumarin anticoagulants, *EFSA J* 2011 — PMID 42015979 — [DOI](https://doi.org/10.2903/j.efsa.2011.2473)\n11. EFSA NDA Panel, glucosamine and joint cartilage, *EFSA J* 2012 — PMID 42112176 — [DOI](https://doi.org/10.2903/j.efsa.2012.2691)\n12. Suissa, *Pharmacoepidemiol Drug Saf* 2022 — PMID 36029480 — [DOI](https://doi.org/10.1002/pds.5535)\n13. Park et al. *Nutrients* 2026 — PMID 42356259 — [DOI](https://doi.org/10.3390/nu18121871)\n14. EFSA NDA Panel, glucosamine et maintien des articulations (Art. 13(5), Béres), *EFSA J* 2011 — PMID 42016009 — [DOI](https://doi.org/10.2903/j.efsa.2011.2476)\n15. Honvo et al. *Drugs Aging* 2019 — PMID 31073924 — [DOI](https://doi.org/10.1007/s40266-019-00662-z)\n16. Ebrahim et al. *BMJ Case Rep* 2012 — PMID 23239775 — [DOI](https://doi.org/10.1136/bcr-2012-007665)\n17. Ip et al. *World J Hepatol* 2015 — PMID 26527309 — [DOI](https://doi.org/10.4254/wjh.v7.i24.2559)\n18. Cerda et al. *World J Gastroenterol* 2013 — PMID 23983444 — [DOI](https://doi.org/10.3748/wjg.v19.i32.5381)\n19. Muniyappa et al. *Diabetes* 2006 — PMID 17065354 — [DOI](https://doi.org/10.2337/db06-0714)\n20. Kim et al. *Molecules* 2023 — PMID 38138558 — [DOI](https://doi.org/10.3390/molecules28248068)\n21. Règlement d'exécution (UE) 2017/2470 (consolidé 02017R2470-20260810), règlement (CE) n° 1925/2006 (02006R1925-20251126), règlement (UE) n° 432/2012 (02012R0432-20250820) — publications.europa.eu/resource/celex/ — textes intégraux lus le 2026-10-14.\n22. BDPM, fichiers open data CIS_bdpm, CIS_COMPO_bdpm, CIS_CIP_bdpm et pages « extrait » de Structoflex (CIS 66683568) et Structum (CIS 65084900) — https://base-donnees-publique.medicaments.gouv.fr — consultés le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Glucosamine et chondroïtine",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,83 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "infections-respiratoires-prevention",
+ "intro": "",
+ "liens": [
+  "probiotiques",
+  "sommeil",
+  "vaccins-respiratoires-grippe-covid-vrs",
+  "vitamine-c-orale",
+  "vitamine-d",
+  "zinc"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "36715243",
+  "28202713",
+  "36001877",
+  "38719213",
+  "23440782",
+  "19139325",
+  "26118561",
+  "36917932",
+  "33215698"
+ ],
+ "preuve_globale": "A",
+ "resume": "Lavage des mains : -14 % d'infections respiratoires aiguës (RR 0,86, IC 95 % 0,81-0,90), mais pas d'effet net sur la grippe confirmée [A].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Lavage des mains : -14 % d'infections respiratoires aiguës (RR 0,86, IC 95 % 0,81-0,90), mais pas d'effet net sur la grippe confirmée [A].\n- Masque chirurgical en population générale : peu ou pas de différence sur le syndrome grippal (RR 0,95, 0,84-1,09) [A, certitude modérée] ; essais peu adhérents, hétérogènes.\n- Vitamine D : -12 % de risque (OR 0,81 en prise quotidienne/hebdomadaire sans bolus) ; effet surtout si carence profonde [A].\n- Zinc et vitamine C préventifs : décevants en population générale ; probiotiques : bénéfice de faible certitude.\n- Dormir moins de 7 h augmente la probabilité de rhume après exposition expérimentale [B] ; le vaccin grippe reste le levier principal (voir [vaccins respiratoires](fiche:vaccins-respiratoires-grippe-covid-vrs)).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Transmission par gouttelettes, aérosols et mains/surfaces contaminées. Les mesures physiques coupent la transmission ; les compléments visent l'immunité de l'hôte (hypothèses, souvent in vitro).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Hygiène des mains | Coupe la transmission manuportée | ARI RR 0,86 (0,81-0,90), 9 essais, 52 105 participants, certitude modérée ; ILI et grippe confirmée sans effet net (PMID 36715243) [A] | non applicable | quasi nul |\n| Masque chirurgical (communauté) | Barrière gouttelettes | ILI/COVID-like RR 0,95 (0,84-1,09), 9 essais, 276 917 participants ; grippe/SARS-CoV-2 confirmés RR 1,01 (0,72-1,42) (PMID 36715243) [A, adhérence faible, biais élevé ou incertain] | dispositif_medical | variable |\n| Respirateur N95 vs masque chirurgical | Filtration | ILI RR 0,82 (0,66-1,03), certitude faible ; maladie respiratoire clinique RR 0,70 (0,45-1,10), très faible (PMID 36715243) [A, faible certitude] | dispositif_medical | variable |\n| [Vitamine D](fiche:vitamine-d) | Immunomodulation | IPD de 25 essais (10 933 participants) : OR 0,88 (0,81-0,96) ; 0,81 (0,72-0,91) sans bolus ; 0,30 (0,17-0,53) si 25(OH)D < 25 nmol/L ; pas d'excès d'événements graves (PMID 28202713) [A] | complement_alimentaire | faible |\n| [Probiotiques](fiche:probiotiques) | Modulation muqueuse/immunité | Cochrane 23 essais, 6 950 participants : au moins une IVRS RR 0,76 (0,67-0,87), certitude faible ; antibiotiques prescrits RR 0,58 (0,42-0,81), modérée (PMID 36001877) [A, faible certitude] ; souches et doses hétérogènes | complement_alimentaire | moyen |\n| [Zinc](fiche:zinc) préventif | Antiviral hypothétique | Risque de rhume RR 0,93 (0,85-1,01), faible certitude ; durée des rhumes survenus différence -0,63 j (-1,29 à 0,04) (PMID 38719213) [A, faible certitude] | complement_alimentaire | faible |\n| [Vitamine C](fiche:vitamine-c-orale) régulière | Antioxydant | Population générale RR 0,97 (0,94-1,00), 10 708 participants ; RR 0,48 (0,35-0,64) chez 598 marathoniens, skieurs et soldats en froid extrême ; durée -8 % adultes, -14 % enfants (PMID 23440782) [A] | complement_alimentaire | faible |\n| Sommeil suffisant | Immunité | Après inoculation de rhinovirus : < 7 h vs ≥ 8 h, OR 2,94 (1,18-7,30) (PMID 19139325) ; actigraphie : < 5 h OR 4,50 (1,08-18,69), 5-6 h OR 4,24 (1,08-16,71) vs > 7 h (PMID 26118561) [B, observationnel, pas d'essai d'allongement du sommeil] | non applicable | nul |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Débutant : lavage des mains (eau + savon ou solution hydro-alcoolique) avant repas, après transports ; aérer ; rester chez soi malade ; [sommeil](fiche:sommeil) régulier.\n- Intermédiaire : vaccination grippe/covid/VRS selon éligibilité ([fiche](fiche:vaccins-respiratoires-grippe-covid-vrs)) ; dosage de la 25(OH)D avant toute supplémentation.\n- Avancé : masque chirurgical ou FFP2 ciblé (soignant, proche fragile, pic épidémique) : décision de contexte, effet populationnel non démontré par ECR [A, faible adhérence].",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Compter sur la vitamine C ou le zinc en prévention quotidienne en population générale.\n- Prendre de la vitamine D en bolus mensuel géant : sous-groupe sans bénéfice (OR 0,97, 0,86-1,10) [A].\n- Supplémenter sans connaître son statut en vitamine D.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Booster l'immunité » par cures de vitamine C/zinc/probiotiques : effets modestes ou incertains sur l'incidence [A, faible certitude] ; le tag [M] s'applique aux allégations de marque sans étude.\n- « Le masque ne sert à rien » ou « le masque protège à coup sûr » : les ECR communautaires sont dominés par une adhérence faible ; ils ne prouvent ni l'inutilité en situation de forte exposition ni l'efficacité (Cochrane 2023, PMID 36715243).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Méta-analyse de la réponse vaccinale : le sommeil court mesuré objectivement réduit la réponse en anticorps (taille d'effet 0,79, IC 0,40-1,18 ; sommeil auto-déclaré non significatif) (PMID 36917932) [A, petits effectifs].\n- Hygiène des mains : l'effet porte sur les infections respiratoires « tout venant », pas sur la grippe confirmée (RR 0,91, 0,63-1,30, version 2020, PMID 33215698) [A].",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Fièvre persistante > 3 jours, essoufflement, douleur thoracique, immunodépression, grossesse, âge ≥ 65 ans, comorbidité : avis médical, antiviraux possibles pour la grippe (non détaillés ici, non recherchés [?]).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "Zinc à forte dose : troubles digestifs, goût ; apports excessifs à long terme interagissent avec le cuivre (voir la fiche zinc). Vitamine D : voir la fiche (hypercalcémie à doses excessives). Statuts réglementaires des compléments : non consultés dans cette fiche, voir les fiches actifs.",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- Jefferson T et al., Cochrane 2023, PMID 36715243 ; version 2020, PMID 33215698.\n- Martineau AR et al., BMJ 2017, PMID 28202713.\n- Zhao Y et al., Cochrane 2022, PMID 36001877.\n- Nault D et al., Cochrane 2024, PMID 38719213.\n- Hemilä H, Chalker E, Cochrane 2013, PMID 23440782.\n- Arch Intern Med 2009, PMID 19139325 ; Prather et al., Sleep 2015, PMID 26118561 ; Curr Biol 2023, PMID 36917932.\n- Statuts compléments et dispositifs : non consultés (aucune source officielle datée relevée pour cette fiche).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "true",
+ "statut_fr": "mixte",
+ "titre": "Prévention des infections respiratoires banales et de la grippe (hors vaccin)",
+ "type": "condition",
+ "unite": ""
+}

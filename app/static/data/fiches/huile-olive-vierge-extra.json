@@ -1,0 +1,84 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite",
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "alimentation",
+ "id": "huile-olive-vierge-extra",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "alimentation-cerveau",
+  "apob-lipides-et-statines",
+  "glycemie-et-prediabete",
+  "noix-et-fruits-a-coque"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 13,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "29897866",
+  "36343558",
+  "36330142",
+  "35027106",
+  "37788953",
+  "38709531",
+  "40048719",
+  "29708409",
+  "39200546",
+  "16818923",
+  "35368142",
+  "20678538",
+  "33352771"
+ ],
+ "preuve_globale": "B",
+ "resume": "Le seul essai randomisé de référence est PREDIMED (7 447 personnes à haut risque cardiovasculaire, 55-80 ans, suivi médian 4,8 ans) : régime méditerranéen enrichi en huile d'olive vierge extra vs conseil de réduire les graisses, événements cardiovasculaires majeurs HR 0,69 (0,53-0,91) [B, ECR uni…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Le seul essai randomisé de référence est PREDIMED** (7 447 personnes à haut risque cardiovasculaire, 55-80 ans, suivi médian 4,8 ans) : régime méditerranéen enrichi en huile d'olive vierge extra vs conseil de réduire les graisses, événements cardiovasculaires majeurs HR 0,69 (0,53-0,91) [B, ECR unique n=7447]. L'essai teste un **régime entier + huile fournie**, pas l'huile seule ; sa première publication (2013) a été retirée pour déviations de protocole (randomisation non respectée dans certains sites), puis ré-analysée en 2018 (PMID 29897866).\n- **Cohortes : association inverse avec mortalité, maladies cardiovasculaires et diabète de type 2, pas avec le cancer.** Par tranche de 25 g/j : maladies CV RR 0,84, diabète de type 2 RR 0,78, mortalité toutes causes RR 0,89, cancer RR 0,94 (0,86-1,03, non significatif) [B, 24 cohortes + 1 ECR] (PMID 36343558). Association ≠ causalité : les gros consommateurs d'huile d'olive suivent aussi un régime globalement meilleur.\n- **Le bénéfice plafonne vers 20 g/j (environ 1,5 cuillère à soupe)** dans une méta-analyse dose-réponse de 13 cohortes [B] (PMID 36330142).\n- **Contre quoi la compare-t-on compte** : dans les cohortes américaines NHS/HPFS, l'huile d'olive est associée à une mortalité plus basse que le beurre, la margarine, la mayonnaise ou les graisses laitières, mais **sans association significative vs les autres huiles végétales réunies** [B] (PMID 35027106).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Hypothèse dominante : acides gras mono-insaturés remplaçant des graisses saturées, plus polyphénols (hydroxytyrosol). Les analyses de substitution des cohortes NHS/HPFS sont cohérentes avec le remplacement (remplacer 10 g/j de margarine, beurre, mayonnaise ou graisse laitière par de l'huile d'olive : 8 à 34 % de mortalité en moins), sans prouver le mécanisme [B] (PMID 35027106).\n- Les polyphénols de l'huile sont testés à part dans des essais de marqueurs : voir ci-dessous. Part de l'effet clinique due aux polyphénols plutôt qu'aux graisses : non établie, les grandes cohortes ne distinguent pas les types d'huile d'olive, sauf PREDIMED (PMID 37788953).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Prévention primaire CV chez sujets à haut risque | PREDIMED : HR 0,69 (0,53-0,91) pour le régime + huile vierge extra, 0,72 (0,54-0,95) pour le régime + noix, vs régime pauvre en graisses ; 96 événements (3,8 %) vs 109 (4,4 %) sous contrôle ; résultats similaires après retrait de 1 588 participants à affectation douteuse (PMID 29897866) | [B, ECR unique n=7447, publication corrigée] |\n| Maladies CV, diabète, cancer, mortalité | par 25 g/j : CV RR 0,84 (0,76-0,94), T2D 0,78 (0,69-0,87), mortalité 0,89 (0,85-0,93), cancer 0,94 (0,86-1,03) ; hétérogénéité non expliquée sauf pour le diabète (PMID 36343558) | [B] |\n| CV et mortalité, comparaison haut vs bas | CV RR 0,85 (0,77-0,93), mortalité RR 0,83 (0,77-0,90) ; par 5 g/j : 0,96 pour les deux ; peu de bénéfice supplémentaire au-delà d'environ 20 g/j (PMID 36330142) | [B] |\n| Mortalité, cohortes américaines (60 582 femmes, 31 801 hommes, 28 ans) | > 7 g/j vs jamais : mortalité toutes causes HR 0,81 (0,78-0,84), CV 0,81, cancer 0,83, neurodégénératif 0,71, respiratoire 0,82 ; pas d'association significative vs autres huiles végétales réunies (PMID 35027106) | [B] |\n| Décès liés à la démence | ≥ 7 g/j vs jamais : HR 0,72 (0,64-0,81), 4 751 décès ; remplacer 5 g/j de margarine ou mayonnaise : -8 à -14 % (PMID 38709531) | [B] |\n| Beurre vs huiles végétales | beurre élevé : mortalité HR 1,15 (1,08-1,22) ; huiles végétales totales élevées : HR 0,84 (0,79-0,90) ; colza, soja et olive associées à une mortalité totale plus basse (PMID 40048719) | [B] |\n| Marqueurs CV : huile riche vs pauvre en polyphénols | 26 ECR : LDL oxydé SMD -0,44 (-0,78 à -0,10), malondialdéhyde et HDL améliorés ; hétérogénéité forte (I² 88 % pour le malondialdéhyde) ; critères intermédiaires, pas d'événements cliniques (PMID 29708409) | [A, critères intermédiaires, hétérogène] |\n| Vue d'ensemble | revue parapluie de 31 méta-analyses : bénéfices rapportés sur maladies CV, cancer, mortalité, diabète, inflammation ; qualité des études sous-jacentes non réévaluée ici (PMID 39200546) | [B] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Quantités des cohortes** : 10 à 35 g/j dans la plupart des études ; seul PREDIMED a employé de l'huile vierge extra, les autres cohortes ne distinguent pas les qualités (PMID 37788953). Seuil NHS/HPFS : > 7 g/j (PMID 35027106). Plateau vers 20 g/j (PMID 36330142).\n- **Quantité distribuée dans PREDIMED** : dans le sous-essai à 3 mois (n=772), huile d'olive vierge gratuite 1 litre par semaine ou noix 30 g/j ; vs régime pauvre en graisses : tension systolique -5,9 mmHg (-8,7 à -3,1) sous huile, glycémie -0,39 mmol/L, rapport cholestérol total/HDL -0,38 [B, ECR, sous-étude à 3 mois] (PMID 16818923).\n- **Polyphénols des huiles du commerce** : teneur très variable ; mesures sur les produits français non recherchées [?]. Le niveau de polyphénols a un effet sur les marqueurs (PMID 29708409), mais l'étiquette n'indique en général pas ce chiffre [?].\n- **Capsules d'huile d'olive** : à 1-1,25 g par capsule, atteindre les doses des études demanderait de très nombreuses capsules par jour (PMID 37788953) [B, revue].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Aliment. La catégorie « huile d'olive vierge extra » est définie par l'annexe I (tableau A, point 1) du règlement d'exécution (UE) 2022/2104 : acidité libre ≤ 0,80 %, médiane des défauts = 0, médiane du fruité > 0 (EUR-Lex, consulté le 2026-10-14).\n- Allégation de santé autorisée dans l'UE : « Les polyphénols présents dans l'huile d'olive contribuent à protéger les lipides sanguins contre le stress oxydatif », réservée à une huile contenant au moins 5 mg d'hydroxytyrosol et dérivés pour 20 g, avec information que l'effet vient de la consommation quotidienne de 20 g (règlement (UE) n° 432/2012, annexe, EUR-Lex, consulté le 2026-10-14). Une allégation autorisée n'est pas un résultat clinique : elle porte sur un marqueur.\n- Fraude et authenticité : un domaine de recherche actif (revue : PMID 35368142, titre seul) ; fréquence de l'huile « vierge extra » non conforme sur le marché français : non recherchée [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Aliment très énergétique : à compter dans le bilan calorique, surtout si on l'ajoute sans remplacer une autre graisse. L'effet sur le poids n'a pas été recherché ici [?].\n- **Cuisson** : en friture domestique répétée, les huiles d'olive (dont vierge extra AOP) ont atteint la limite légale de 25 % de composés polaires après 24 à 27 h, contre 15 h pour un mélange d'huiles végétales (mesure chimique, pas un critère clinique) (PMID 20678538). Interactions médicamenteuses et allergie : non recherchées [?].\n- Une sous-analyse de PREDIMED rapporte que le régime enrichi en huile vierge extra réduit l'initiation d'antivitamines K (HR 0,68 (0,46-0,998)) : c'est un résultat d'incidence de prescription, pas une interaction (PMID 33352771).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« L'huile d'olive protège du cancer »** : méta-analyse de cohortes sans association (RR 0,94, IC 0,86-1,03) [B] (PMID 36343558).\n- **« Plus on en boit, mieux c'est » (shot d'huile d'olive)** : plateau vers 20 g/j dans les cohortes [B] (PMID 36330142) ; aucun essai sur de fortes doses chez le sujet sain lu ici [?].\n- **« L'huile d'olive est supérieure à tous les autres corps gras »** : supérieure au beurre et à la margarine dans les cohortes ; pas de différence significative vs autres huiles végétales réunies [B] (PMID 35027106, 40048719).\n- **« Capsules d'huile d'olive = même effet »** : doses des études inatteignables avec les capsules du commerce [B, revue] (PMID 37788953).\n- **« PREDIMED prouve que l'huile d'olive réduit les infarctus »** : l'essai compare des régimes complets, avec une première publication retirée ; l'huile seule n'a pas été isolée [B] (PMID 29897866).\n\nVoir aussi : [noix et fruits à coque](fiche:noix-et-fruits-a-coque) (l'autre bras de PREDIMED) · [alimentation : synthèse](fiche:alimentation) · [lipides et ApoB](fiche:apob-lipides-et-statines) · [glycémie et prédiabète](fiche:glycemie-et-prediabete) · [alimentation et cerveau](fiche:alimentation-cerveau).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 29897866 — Estruch et al., *N Engl J Med* 2018 (PREDIMED, publication corrigée). doi:10.1056/NEJMoa1800389\n- PMID 36343558 — Martínez-González et al., *Clin Nutr* 2022 (méta-analyse). doi:10.1016/j.clnu.2022.10.001\n- PMID 36330142 — Xia et al., *Front Nutr* 2022 (13 cohortes). doi:10.3389/fnut.2022.1041203\n- PMID 35027106 — Guasch-Ferré et al., *J Am Coll Cardiol* 2022 (NHS/HPFS). doi:10.1016/j.jacc.2021.10.041\n- PMID 38709531 — Tessier et al., *JAMA Netw Open* 2024 (démence). doi:10.1001/jamanetworkopen.2024.10021\n- PMID 40048719 — Zhang et al., *JAMA Intern Med* 2025 (beurre et huiles végétales). doi:10.1001/jamainternmed.2025.0205\n- PMID 29708409 — George et al., *Crit Rev Food Sci Nutr* 2019 (polyphénols, 26 ECR). doi:10.1080/10408398.2018.1470491\n- PMID 39200546 — Chiavarini et al., *Foods* 2024 (revue parapluie). doi:10.3390/foods13162619\n- PMID 37788953 — Tarabanis et al., *Nutr Metab Cardiovasc Dis* 2023 (quantités, capsules). doi:10.1016/j.numecd.2023.08.014\n- PMID 33352771 — Castro-Barquero et al., *Nutrients* 2020 (PREDIMED, antivitamines K). doi:10.3390/nu12123895\n- PMID 35368142 — Lozano-Castellón et al., *Compr Rev Food Sci Food Saf* 2022 (authenticité ; titre seul). doi:10.1111/1541-4337.12949\n- Règlement d'exécution (UE) 2022/2104, annexe I (EUR-Lex, consulté le 2026-10-14) ; règlement (UE) n° 432/2012 (EUR-Lex, consulté le 2026-10-14).\n- PMID 16818923 — Estruch et al., *Ann Intern Med* 2006 (PREDIMED, sous-étude à 3 mois). doi:10.7326/0003-4819-145-1-200607040-00004\n- PMID 20678538 — Casal et al., *Food Chem Toxicol* 2010 (huile d'olive en friture). doi:10.1016/j.fct.2010.07.036",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Huile d'olive vierge extra",
+ "type": "actif",
+ "unite": ""
+}

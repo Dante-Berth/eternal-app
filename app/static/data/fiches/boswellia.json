@@ -1,0 +1,82 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "boswellia",
+ "intro": "",
+ "liens": [
+  "collagene-oral",
+  "curcumine",
+  "glucosamine-et-chondroitine",
+  "msm"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 14,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "32680575",
+  "39314013",
+  "29622343",
+  "33151656",
+  "18667054",
+  "41082950",
+  "40123938",
+  "42356259",
+  "19091760",
+  "38604221",
+  "39778015",
+  "32010304",
+  "40352903",
+  "35512759"
+ ],
+ "preuve_globale": "A",
+ "resume": "Extrait de résine de *Boswellia serrata*, vendu comme « anti-inflammatoire naturel » pour l'arthrose. Les méta-analyses sont favorables sur la douleur du genou, mais portent sur peu d'essais, souvent petits, avec des extraits de marque, et la plus récente grosse méta-analyse ne trouve pas d'effet…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Extrait de résine de *Boswellia serrata*, vendu comme « anti-inflammatoire naturel » pour l'arthrose. Les méta-analyses sont favorables sur la douleur du genou, mais portent sur peu d'essais, souvent petits, avec des extraits de marque, et la plus récente grosse méta-analyse ne trouve pas d'effet global significatif avant analyse en sous-groupes.\n- Méta-analyse de 7 ECR (545 patients) : EVA −8,33 mm (IC −11,19 à −5,46), WOMAC douleur −14,22 (IC −22,34 à −6,09) [A, petits essais] (PMID 32680575).\n- Méta-analyse de 13 études (850 à 1 185 patients selon le critère) : pas d'effet significatif global (WOMAC p = 0,0865 ; EVA p = 0,3966) à cause d'une hétérogénéité élevée ; effet significatif seulement en sous-groupes [A, hétérogène] (PMID 39314013).\n- Aucun essai ne compare le boswellia aux AINS autorisés (PMID 29622343).\n- Sécurité : LiverTox (NIDDK) ne relie les extraits de *B. serrata* ni à des élévations de transaminases ni à une atteinte hépatique cliniquement apparente (PMID 33151656) ; aucune interaction médicamenteuse clinique retrouvée ; données au-delà de 90 jours absentes ; produits très variables.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Principes actifs supposés : acides boswelliques (dont l'AKBA, acétyl-kéto-β-boswellique). Une inhibition de la 5-lipoxygénase est avancée par les auteurs d'un essai d'extrait de marque enrichi à 30 % en AKBA (PMID 18667054) ; mécanisme anti-inflammatoire chez l'humain non démontré [?]. Les essais positifs portent surtout sur des formes modifiées de marque (PMID 41082950) ; l'explication par la biodisponibilité n'est pas démontrée ici [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Arthrose, boswellia ou extrait vs placebo ou médicament | 7 ECR, 545 patients : EVA −8,33 ; WOMAC douleur −14,22 ; raideur −10,04 ; fonction −10,75 ; Lequesne −2,27 ; durée de traitement recommandée ≥ 4 semaines par les auteurs | [A, petits essais] (PMID 32680575) |\n| Gonarthrose, oléorésine de *Boswellia* | 13 études, 850 (WOMAC) et 1 185 patients (EVA) : non significatif globalement (p = 0,0865 ; p = 0,3966), significatif en sous-groupe | [A, hétérogène] (PMID 39314013) |\n| Gonarthrose, curcumine et boswellia | 11 ECR au total (n = 1 009), qualité « faible », la plupart sous 100 patients ; boswellia supérieur au placebo sur douleur et fonction ; « pas assez de preuves » pour des recommandations pratiques | [A, faible certitude] (PMID 29622343) |\n| Gonarthrose, *Curcuma longa* et *Boswellia serrata* | 20 ECR, 1 633 participants : formes modifiées de boswellia améliorent WOMAC douleur, raideur et fonction vs autres bras ; pas de différence d'effets indésirables | [A, formes modifiées] (PMID 41082950) |\n| Réseaux comparant 21 compléments dans l'arthrose | Les extraits de boswellia de marque (Aflapin®) figurent parmi les meilleurs rangs sur la douleur WOMAC, avec une certitude GRADE « faible » | [A, classement SUCRA, faible certitude] (PMID 40123938) |\n| Revue narrative 2026 (arthrose du genou) | Pour glucosamine/chondroïtine, collagène, oméga-3, curcumine et boswellia : bénéfices « modestes, hétérogènes, dépendants de la formulation », sans preuve de modification de la maladie | [B, revue narrative] (PMID 42356259) |\n| Arthrose du genou, extrait de marque 5-Loxin® (30 % AKBA) | 75 patients, 100 ou 250 mg/j vs placebo, 90 jours : douleur et fonction améliorées aux deux doses ; paramètres biologiques de sécurité « presque inchangés » ; extrait propriétaire, essai de petite taille | [B, ECR unique n=75] (PMID 18667054) |\n| Revue systématique de 2008, tous usages (asthme, polyarthrite, Crohn, arthrose, colite collagène) | 7 ECR retenus sur 47 : tous favorables, 3 de bonne qualité méthodologique ; « encourageant mais pas convaincant » ; aucun problème de sécurité sérieux | [B, 7 petits ECR hétérogènes] (PMID 19091760) |\n| Maladie de Crohn | Évoqué dans des recommandations allemandes comme ayant des données d'efficacité « pas encore suffisantes » pour une recommandation | [B, revue de recommandations] (PMID 38604221) |\n| Autres usages (asthme, colites, peau) | Non recherchés | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais : 100 et 250 mg/j d'extrait à 30 % d'AKBA pendant 90 jours (PMID 18667054) ; 2 000 mg/j d'une formule curcuma-boswellia-sésame pendant 90 jours chez 40 volontaires sains pour la sécurité (PMID 39778015). Doses des méta-analyses : non extraites des résumés ; elles varient selon les extraits de marque.\n- Les compléments du commerce mélangent résine brute, extraits standardisés et phytosomes : teneur en acides boswelliques des produits vendus en France non relevée [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Complément alimentaire (gélules de résine, extraits standardisés, associations avec curcuma). Aucun médicament à base de boswellia dans la BDPM (recherche dans le fichier de composition, consultée le 2026-10-14).\n- Arrêté du 24 juin 2014 (plantes autorisées en compléments), annexe I : *Boswellia serrata* Roxb. ex Colebr. (Burseraceae), partie utilisée « gomme-résine », substance à surveiller « acides boswelliques », sans restriction inscrite (texte lu en intégralité, version consolidée au 15 janvier 2016 hébergée par FAOLEX ; modifications postérieures non vérifiées).\n- Novel Food : aucune occurrence de « Boswellia » dans la liste de l'Union (règlement d'exécution (UE) 2017/2470, version consolidée du 2026-08-10, texte intégral lu via publications.europa.eu) ; le catalogue Novel Food n'a pas pu être interrogé (site inaccessible), statut au catalogue non confirmé [?]. Aucune entrée Boswellia à l'annexe III du règlement (CE) n° 1925/2006 (version du 2025-11-26) ni allégation de santé dans le règlement (UE) n° 432/2012 (version du 2025-08-20).\n- EMA/HMPC : aucune monographie communautaire retrouvée (recherche web du 2026-10-14, site EMA inaccessible : 401) ; ANSES : aucune publication retrouvée (recherche web et recherche du site, 2026-10-14) [?].\n- AMA : liste 2026 non consultée (PDF inaccessible le 2026-10-14) [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Dans les méta-analyses, pas de différence d'effets indésirables vs placebo (PMID 29622343, 41082950) [A, petits essais, suivi court].\n- Foie : LiverTox (mise à jour 2020) : les extraits de *B. serrata* n'ont pas été reliés à des élévations de transaminases ni à une atteinte hépatique aiguë cliniquement apparente ; les essais cités dans sa bibliographie rapportent surtout des brûlures d'estomac, nausées ou douleurs épigastriques (18 % dans un essai de 42 patients en rectocolite, 6 semaines) (PMID 33151656) [B, revue de séries]. Volontaires sains, 2 g/j d'une formule curcuma-boswellia-sésame pendant 90 jours : ASAT/ALAT, bilirubine, critères de Hy et diagramme eDISH normaux, n = 40, étude ouverte sans témoin, formule composite (PMID 39778015) [B, étude ouverte n=40]. Absence de signal ne vaut pas preuve d'innocuité : les produits sont non standardisés, et les effets sur le foie sont rapportés chez l'animal comme protecteurs, sans valeur pour l'humain [C] (PMID 32010304).\n- Interactions : in vitro, un extrait de *Boswellia carteri* augmente l'expression de gènes de cytochromes P450 de phase I dans des cellules HepG2 [D] (PMID 40352903) ; aucune étude clinique d'interaction retrouvée [?]. À considérer avec prudence pour les médicaments à marge étroite (anticoagulants, antiépileptiques, immunosuppresseurs).\n- Grossesse, allaitement : aucune étude de sécurité chez la femme enceinte ou allaitante retrouvée (PubMed, 2026-10-14) ; à éviter par précaution [?].\n- Données de sécurité sur plus de 90 jours : absentes [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Aussi efficace que les AINS » : aucun essai ne compare le boswellia aux AINS autorisés (PMID 29622343).\n- « Ralentit l'arthrose » : revue de 2026 : aucune preuve de modification structurale (PMID 42356259).\n- « Effet en quelques jours » avec un extrait de marque : les essais d'extraits propriétaires rapportent un effet dès 5 à 7 jours (Aflapin® 100 mg/j, 70 sujets, VAS −45 % à 30 jours, sans effet indésirable significatif [B, ECR unique n=70] (PMID 35512759) ; 5-Loxin® 250 mg/j dès le 7e jour, PMID 18667054). Ce sont de petits essais monocentriques d'extraits propriétaires, sans réplication indépendante retrouvée : signal à confirmer, pas preuve.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour. Voisines : [curcumine](fiche:curcumine), [glucosamine et chondroïtine](fiche:glucosamine-et-chondroitine), [MSM](fiche:msm), [collagène oral](fiche:collagene-oral).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Yu et al. *BMC Complement Med Ther* 2020 — PMID 32680575 — [DOI](https://doi.org/10.1186/s12906-020-02985-6)\n2. Dalmonte et al. *Phytother Res* 2024 — PMID 39314013 — [DOI](https://doi.org/10.1002/ptr.8336)\n3. Bannuru et al. *Semin Arthritis Rheum* 2018 — PMID 29622343 — [DOI](https://doi.org/10.1016/j.semarthrit.2018.03.001)\n4. Inprasit et al. *Complement Ther Med* 2026 — PMID 41082950 — [DOI](https://doi.org/10.1016/j.ctim.2025.103256)\n5. Du et al. *Front Nutr* 2025 — PMID 40123938 — [DOI](https://doi.org/10.3389/fnut.2025.1556133)\n6. Park et al. *Nutrients* 2026 — PMID 42356259 — [DOI](https://doi.org/10.3390/nu18121871)\n7. Utz et al. *Z Gastroenterol* 2024 — PMID 38604221 — [DOI](https://doi.org/10.1055/a-2279-5045)\n8. Alghamdi et al. *Biologics* 2025 — PMID 40352903 — [DOI](https://doi.org/10.2147/BTT.S491278)\n9. Ernst, *BMJ* 2008 — PMID 19091760 — [DOI](https://doi.org/10.1136/bmj.a2813)\n10. Karlapudi et al. *J Am Nutr Assoc* 2023 — PMID 35512759 — [DOI](https://doi.org/10.1080/07315724.2021.2014370)\n11. Sengupta et al. *Arthritis Res Ther* 2008 — PMID 18667054 — [DOI](https://doi.org/10.1186/ar2461)\n12. Kim et al. *Adv Clin Exp Med* 2025 — PMID 39778015 — [DOI](https://doi.org/10.17219/acem/193023)\n13. Eltahir et al. *Exp Ther Med* 2019 — PMID 32010304 — [DOI](https://doi.org/10.3892/etm.2019.8353)\n14. LiverTox, « Boswellia Serrata » (NIDDK), NCBI Bookshelf NBK563692 — PMID 33151656 (mise à jour 2020-11-04)\n15. Arrêté du 24 juin 2014, annexe I, version consolidée au 15 janvier 2016 — https://faolex.fao.org/docs/pdf/fra151110.pdf (Légifrance JORFTEXT000029254516) — lu le 2026-10-14.\n16. Règlement d'exécution (UE) 2017/2470, version consolidée 02017R2470-20260810 ; règlement (CE) n° 1925/2006, version 02006R1925-20251126 ; règlement (UE) n° 432/2012, version 02012R0432-20250820 — publications.europa.eu/resource/celex/ — textes intégraux lus le 2026-10-14.\n17. BDPM, fichier CIS_COMPO_bdpm — https://base-donnees-publique.medicaments.gouv.fr — consulté le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Boswellia (encens indien, acides boswelliques)",
+ "type": "actif",
+ "unite": ""
+}

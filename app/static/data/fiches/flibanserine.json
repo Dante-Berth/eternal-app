@@ -1,0 +1,61 @@
+{
+ "cibles": [
+  "hormones-sexualite"
+ ],
+ "derniere_maj": "2026-10-08",
+ "famille": "medicament",
+ "id": "flibanserine",
+ "intro": "",
+ "liens": [],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "27663307",
+  "38905407"
+ ],
+ "preuve_globale": "A",
+ "resume": "Efficacité modeste mais reproductible chez la préménopausée avec trouble du désir hypoactif : +0,69 rapport satisfaisant/mois, FSFI total +2,51 [A] (8 essais, n=7906).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Efficacité modeste mais reproductible chez la préménopausée avec trouble du désir hypoactif : +0,69 rapport satisfaisant/mois, FSFI total +2,51 [A] (8 essais, n=7906).\n- Aucune spécialité à base de flibansérine dans la BDPM ni dans le rapport EMA des médicaments (EPAR) (consulté le 2026-10-08) : pas d'autorisation en France ni par procédure centralisée UE. L'historique de la demande (retrait supposé en 2010) n'est pas confirmé à la source : non vérifié. Autorisée aux États-Unis depuis 2015 (PMID 27663307).\n- Effets indésirables plus fréquents que sous placebo ; graves comparables [A].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Non extrait [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "- Préménopause, dose de 100 mg : SSE, désir (eDiary), FSFI, détresse FSDS-R, impression globale d'amélioration (OR 1,93) [A] (PMID 38905407).\n- Postménopause : bénéfice sur SSE, FSFI [A] (même source) ; autorisation US limitée à la préménopause (PMID 27663307).\n- Homme : [?] non recherché.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "100 mg dans la méta-analyse. Produits vendus en ligne : contenu non vérifié [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Voie orale. Aucune spécialité dans la BDPM (recherche sur la composition de toutes les spécialités, consulté le 2026-10-08) : non commercialisée légalement en France. Seul document EMA trouvé : décision de dérogation pédiatrique P/20/2008 du 28 avril 2008 (Boehringer Ingelheim, trouble du désir hypoactif chez la femme), qui n'est pas une autorisation de mise sur le marché (EMA, consulté le 2026-10-08). Statut AMA/WADA : non vérifié (liste 2026 inaccessible). Tout achat en ligne relève du marché gris (sous-dosage, contrefaçon).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "Vertiges, fatigue, nausées, somnolence, insomnie [A]. Interactions (alcool, inhibiteurs du CYP3A4) et contre-indications : non vérifiées, aucun RCP européen ni français n'existant pour cette molécule [?] ; la revue de 2016 cite surtout vertiges et somnolence et juge la sécurité à long terme mal définie.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Aucun produit légal en France.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 38905407 — Kamrul-Hasan et al., Medicine 2024.\n- PMID 27663307 — Terrier et al., Prog Urol 2016.\n- BDPM (fichiers de téléchargement), https://base-donnees-publique.medicaments.gouv.fr/telechargement — consulté le 2026-10-08 : aucune spécialité à base de flibansérine.\n- EMA, rapport des médicaments (EPAR) : https://www.ema.europa.eu/en/documents/report/medicines-output-medicines-report_en.xlsx — consulté le 2026-10-08 : aucune entrée flibansérine.\n- EMA, décision pédiatrique P/20/2008 : https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/flibanserin — consulté le 2026-10-08.\n- Non vérifiés : historique du dossier UE (retrait), liste AMA 2026.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "Flibansérine",
+ "type": "actif",
+ "unite": ""
+}

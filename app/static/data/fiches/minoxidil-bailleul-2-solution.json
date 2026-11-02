@@ -1,0 +1,66 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "medicament",
+ "id": "minoxidil-bailleul-2-solution",
+ "intro": "",
+ "liens": [
+  "minoxidil",
+  "minoxidil-cooper-5-solution"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "27225981",
+  "28396101",
+  "38885151",
+  "15034503"
+ ],
+ "preuve_globale": "A",
+ "resume": "Seul dosage de minoxidil topique autorisé chez la femme en France, à environ 3 €/mois : base de départ défendable pour l'alopécie androgénétique féminine, et option pour l'homme qui tolère mal le 5 %, avec une réserve (propylène glycol).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Seul dosage de minoxidil topique autorisé chez la femme en France, à environ 3 €/mois : base de départ défendable pour l'alopécie androgénétique féminine, et option pour l'homme qui tolère mal le 5 %, avec une réserve (propylène glycol).",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Composant | Quantité | Preuve |\n|---|---|---|\n| Minoxidil | 2 g/100 ml | Femme : +13,18 cheveux/cm² vs placebo, qualité faible ; 2 % et 5 % non différents [A, faible certitude] (PMID 27225981). Homme : 2 % supérieur au placebo [A, hétérogène] (PMID 28396101) |\n| Propylène glycol (207,5 mg par ml), éthanol 96 %, eau purifiée | — | Excipients ; le propylène glycol est le 2e allergène des eczémas de contact confirmés (17,1 %), après le minoxidil lui-même (74,7 %) [B] (PMID 38885151) |\n\nComposition selon la BDPM (consultée le 2026-10-06). Coffret de 3 flacons de 60 ml. Voir [minoxidil](fiche:minoxidil).",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Médicament sans ordonnance, non remboursable, prix libre ; indiqué dans l'alopécie androgénétique modérée de l'adulte ; grossesse à éviter (données insuffisantes) ; RCP mis à jour le 09/03/2026 (BDPM, Minoxidil Bailleul 2 %, fiche 68477734, consultée le 2026-10-06). La fiche BDPM indique que ce produit n'appartient à aucun groupe générique et se distingue de Regaine. Le princeps Regaine / Rogaine : fiche BDPM et prix français non retrouvés lors de cette session [?], donc non évalué ici.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- Les vendeurs annoncent des premiers résultats visibles après 3 à 4 mois (pharma-gdd.com) ; les essais mesurent à 24-48 semaines : juger à 6 mois minimum.\n- Chez la femme, le 5 % ne fait pas mieux que le 2 % sur le nombre de cheveux ; il l'emporte seulement sur l'avis des patientes, avec plus de prurit, d'irritation et d'hypertrichose [B, ECR unique n=381] (PMID 15034503).\n- Effet modeste : repousse « modérée à marquée » chez 157/593 femmes sous minoxidil vs 77/555 sous placebo (RR 1,93, qualité modérée) [A, faible certitude] (PMID 27225981).",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Selon le RCP : 1 ml deux fois par jour sur cuir chevelu sec, maximum 2 ml/jour ; se laver les mains ; éviter flamme (éthanol) ; ne pas dépasser la posologie de l'étiquette (BDPM ; vendeurs).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix relevés pour 3 × 60 ml : 7,95 € (pharmaciepolygone.com) et 9,76 € (pharmaciedesrochettes.fr), relevés le 2026-10-06 ; pharma-gdd.com 8,99 €. À 2 ml/j, 180 ml = 90 jours, soit **2,7 à 3,3 €/mois**.\n- Alternatives : Minoxidil Cooper 2 % (9,90 à 10,90 €, même excipient propylène glycol selon pharma-medicaments.com) ; pour un patient allergique au propylène glycol, il n'existe pas de 2 % sans PG relevé ici [?]. Chez l'homme, le [Minoxidil Cooper 5 %](fiche:minoxidil-cooper-5-solution) est mieux prouvé et sans propylène glycol.",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Aucune source d'avis exploitable relevée [?]. Tolérance attendue : irritation et prurit plus rares qu'avec le 5 % [B] (PMID 15034503).",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 27225981 — van Zuuren E.J. et al., *Cochrane Database Syst Rev* 2016. doi:10.1002/14651858.CD007628.pub4\n- PMID 28396101 — Adil A., Godwin M., *J Am Acad Dermatol* 2017. doi:10.1016/j.jaad.2017.02.054\n- PMID 15034503 — Lucky A.W. et al., *J Am Acad Dermatol* 2004. doi:10.1016/j.jaad.2003.06.014\n- PMID 38885151 — Kiratiwongwan R. et al., *Dermatitis* 2024. doi:10.1089/derm.2024.0092\n- BDPM, Minoxidil Bailleul 2 % (68477734), consultée le 2026-10-06.\n- Prix : pharmaciepolygone.com, pharmaciedesrochettes.fr, pharma-gdd.com, pharma-medicaments.com, relevés le 2026-10-06.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_sans_ordonnance",
+ "titre": "Minoxidil Bailleul 2 %, solution pour application cutanée (femme et homme)",
+ "type": "produit",
+ "unite": ""
+}

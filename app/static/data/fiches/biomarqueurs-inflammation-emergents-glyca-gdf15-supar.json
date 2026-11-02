@@ -1,0 +1,103 @@
+{
+ "cibles": [
+  "longevite",
+  "prevention",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-11-02",
+ "famille": "",
+ "id": "biomarqueurs-inflammation-emergents-glyca-gdf15-supar",
+ "intro": "Fiche « examen ». Trois marqueurs présentés comme des « hs-CRP en mieux » : plus stables ou plus prédictifs dans les cohortes, mais sans essai d'intervention ni seuil d'action. Comparaison d'ensemble : [panorama des biomarqueurs d'inflammation](fiche:biomarqueurs-inflammation-panorama). Référence : [CRP / hs-CRP](fiche:biomarqueur-crp-hscrp).",
+ "liens": [
+  "auto-experimentation",
+  "bilans-biologiques",
+  "biomarqueur-apob",
+  "biomarqueur-crp-hscrp",
+  "biomarqueur-nt-probnp-troponine",
+  "biomarqueur-reins-creatinine-cystatine-albuminurie",
+  "biomarqueurs-inflammation-panorama",
+  "metformine"
+ ],
+ "marqueurs": [],
+ "mesure": "sang",
+ "nb_pmid": 13,
+ "nb_seuils": 6,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "27136058",
+  "38636622",
+  "20854422",
+  "24312445",
+  "22909410",
+  "26799247",
+  "30679937",
+  "33115406",
+  "39868911",
+  "42396825",
+  "42579565",
+  "42580608",
+  "20031199"
+ ],
+ "preuve_globale": "B",
+ "resume": "Verdict : intéressants en recherche, inutiles à doser pour décider de quoi que ce soit aujourd'hui. Tous trois prédisent des événements en cohorte (souvent indépendamment de la hs-CRP), aucun n'a de traitement ou de seuil validé, et aucun n'est démontré comme améliorant la décision individuelle.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Verdict : intéressants en recherche, inutiles à doser pour décider de quoi que ce soit aujourd'hui.** Tous trois prédisent des événements en cohorte (souvent indépendamment de la hs-CRP), aucun n'a de traitement ou de seuil validé, et aucun n'est démontré comme améliorant la décision individuelle.\n- **GlycA** (signal RMN de glycoprotéines de phase aiguë) : stable chez un même individu jusqu'à une décennie, corrélé à de nombreuses cytokines, prédit les infections sévères (septicémie, pneumonie) à long terme [B, cohortes] (PMID 27136058). Sur le plan coronarien : OR 1,77 (1,07–2,96) de progression du calcium coronaire entre percentiles 25 et 75 (ELSA-Brasil, n = 2 690) [B] (PMID 38636622).\n- **GDF-15** (cytokine de stress) : prédit la mortalité toutes causes (OR 3,38, 1,38–8,26, 876 hommes suédois) indépendamment d'IL-6, CRP et longueur des télomères [B] (PMID 20854422) ; +48 % de mortalité totale par écart-type de log-GDF-15 (ULSAM, n = 940, hommes de 71 ans) [B] (PMID 24312445). Mais il n'est **pas spécifique de l'inflammation** : il suit aussi le tabac, le diabète, la fonction rénale et cardiaque.\n- **suPAR** : en population générale danoise (n = 2 315), tertile haut vs bas après ajustement Framingham : HR 1,74 (femmes) et 2,09 (hommes) ; combiné à la CRP, HR 3,30 et 3,53 [B] (PMID 22909410). Il baisse avec l'arrêt du tabac et des habitudes saines [B] (PMID 26799247, 30679937).\n- Accès grand public ou clinique en France, prix, remboursement, statut CE des dosages : non consultés [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "**Ce que c'est.** Signal de résonance magnétique nucléaire qui regroupe les glycoprotéines acétylées (haptoglobine, alpha-1-antitrypsine, etc.) : un marqueur composite de phase aiguë, disponible dans certains profils lipidiques RMN. Détail technique : non relu ici [?].\n\n**Preuve.**\n- Dans des cohortes de plus de 10 000 individus, GlycA reste chronique chez une même personne jusqu'à 10 ans, reflète une élévation de nombreuses cytokines et de l'activité des neutrophiles, et prédit le risque d'infection sévère non localisée et respiratoire [B, cohortes] (PMID 27136058). Sa stabilité intra-individuelle, comparée à celle de la hs-CRP (CV ≈ 41 %), n'a pas été vérifiée dans une source relue [?].\n- ELSA-Brasil (n = 2 690, âge moyen 48,6 ans, sans statine ni maladie) : OR de nouvelle calcification coronaire 1,002 par µmol/L (1,0005–1,005) et OR 1,77 (1,07–2,96) de progression (≤ P25 vs ≥ P75), après ajustement [B] (PMID 38636622). L'effet par unité est minuscule ; l'article note lui-même des données conflictuelles sur la progression de l'athérosclérose subclinique.\n- Valeur ajoutée à la hs-CRP ou au score de risque : non établie dans les sources relues [?].",
+   "titre": "GlycA"
+  },
+  {
+   "markdown": "**Ce que c'est.** Cytokine de la famille TGF-β, libérée en réponse au stress cellulaire (inflammation, hypoxie, dysfonction mitochondriale, lésion). Elle agit aussi sur l'appétit via son récepteur central, ce qui en fait une cible pharmacologique, pas seulement un marqueur (non relu ici [?]).\n\n**Preuve.**\n- Wiklund 2010 : OR de décès 3,38 (1,38–8,26) chez 876 hommes, validé dans une cohorte de jumeaux (n = 324), indépendant de l'IL-6, de la CRP et des télomères [B] (PMID 20854422).\n- Wallentin 2013 (ULSAM, 940 hommes de 71 ans, 10 ans de suivi) : par écart-type de log-GDF-15, +48 % de mortalité cardiovasculaire, +48 % de mortalité totale, +46 % de mortalité par cancer ; au départ associé indépendamment au tabac, au diabète, à la troponine T ultrasensible, au NT-proBNP, à la cystatine C et à la CRP [B] (PMID 24312445). Autrement dit : un marqueur de **fragilité globale** (cœur, reins, métabolisme, tabac), pas un marqueur propre de l'inflammation. Voir [NT-proBNP/troponine](fiche:biomarqueur-nt-probnp-troponine) et [reins/cystatine](fiche:biomarqueur-reins-creatinine-cystatine-albuminurie) pour les marqueurs voisins.\n- Causalité : une randomisation mendélienne (5 SNP) associe un GDF-15 plus élevé génétiquement à plus de fibrillation atriale, d'AVC cardio-embolique, de maladie coronaire et d'infarctus [B, génétique] (PMID 33115406). Cela va à l'encontre de l'idée d'un marqueur purement passif, mais seul le début du résumé a été relu (autres issues cardiovasculaires, absence d'effet éventuel) [?].\n- Modifiable ? Dans un essai randomisé de 12 semaines chez 91 prédiabétiques, l'exercice aérobie a abaissé le GDF-15 (383 vs 556 ng/L témoins), alors que le groupe metformine (non randomisé avec les deux autres) l'a **augmenté** (811 ng/L) [B, ECR court, groupe metformine non randomisé] (PMID 39868911). Piège : baisser son GDF-15 n'est pas forcément « bon » ; la metformine ([fiche](fiche:metformine)) l'élève, sans que cela prouve un effet délétère.\n- Effet sur les événements d'une baisse de GDF-15 : non trouvé [?].",
+   "titre": "GDF-15"
+  },
+  {
+   "markdown": "**Ce que c'est.** Forme soluble du récepteur de l'activateur du plasminogène de type urokinase, libérée par les cellules immunitaires activées ; plutôt stable dans le temps (propriété avancée par les auteurs, non vérifiée ici [?]).\n\n**Preuve.**\n- Danemark (n = 2 315, 12,7 ans de suivi, 302 événements) : après ajustement sur le score de Framingham, tertile haut vs bas : HR 1,74 (1,08–2,81) chez la femme, 2,09 (1,37–3,18) chez l'homme ; suPAR + CRP en tertile extrême : HR 3,30 et 3,53, avec reclassement des risques intermédiaires (amélioration de l'IDI) [B, cohorte] (PMID 22909410).\n- UK Biobank (n = 33 963 sans maladie coronaire, suPAR mesuré par protéomique Olink) : HR par écart-type 3,2 (événements majeurs), 5,9 (mortalité cardiovasculaire), 5,0 (mortalité toutes causes), indépendants de la hs-CRP [B, cohorte] (PMID 42396825). Ces valeurs sont très supérieures à celles des autres études ; le gain réel de discrimination (C-statistics) n'a pas été relu dans le résumé tronqué [?]. À interpréter avec prudence.\n- Essai BARI 2D (n = 2 277 diabétiques coronariens) : suPAR prédit les événements (HR 1,40 par écart-type, 1,27–1,55) y compris chez ceux dont la hs-CRP s'est normalisée (HR 1,45, 1,04–2,03) ; le suPAR **n'a pas baissé** sous les traitements testés alors que la hs-CRP oui [B, analyse ancillaire] (PMID 42579565). Intéressant : il capterait un risque résiduel que la hs-CRP ne voit pas, mais aucune thérapie ciblée n'en découle.\n- Modifiable par le mode de vie : arrêt du tabac sur 4 semaines (48 fumeurs, suPAR 3,2 → niveau des non-fumeurs 1,9 ng/mL, CRP inchangée) [B, ECR petit] (PMID 26799247) ; sur 5 ans (n = 3 225), régime déséquilibré +5,9 %, inactivité +12,8 %, tabac quotidien +17,6 % de suPAR ; HR de mortalité 2,03 (1,22–3,37) par doublement [B, cohorte] (PMID 30679937).\n- Revue systématique pour la traduction clinique (2026) : les dosages diffèrent selon les isoformes détectées (ELISA, turbidimétrie, chimiluminescence) [B, revue] (PMID 42580608). Standardisation : un frein à l'usage clinique.",
+   "titre": "suPAR"
+  },
+  {
+   "markdown": "Aucun seuil clinique validé n'a été retrouvé pour ces trois marqueurs. Les seules valeurs lues dans un résumé sont des niveaux observés dans des cohortes, dépendants du dosage (ELISA pour le suPAR) et non transposables à un autre kit.\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| GlycA | µmol/L | — | seuil de risque ou de normalité | adulte | non retrouvé [?] |\n| GDF-15 | ng/L | — | seuil de risque ou de normalité (les études relues expriment le risque par écart-type de log-GDF-15, PMID 24312445) | adulte | non retrouvé [?] |\n| suPAR | ng/mL | médiane 1,9 (IQR 1,7–2,2) | niveau observé chez des non-fumeurs, pas un seuil | adultes jeunes, Danemark (n = 46) | [B, ECR petit] Eugen-Olsen 2016, PMID 26799247 |\n| suPAR | ng/mL | médiane 3,2 (IQR 2,5–3,9) | niveau observé chez des fumeurs, pas un seuil | fumeurs, Danemark (n = 48) | [B] PMID 26799247 |\n| suPAR | ng/mL | moyenne 2,93 (« bas ») vs 4,73 (« haut ») | groupes d'analyse : mortalité 1,6 % vs 3,8 % en 6,1 ans ; pas un seuil | population générale, Danemark (Inter99, n = 3 225) | [B, cohorte] Haupt 2019, PMID 30679937 |\n| suPAR | ng/mL | — | seuil d'action ou de normalité | adulte | non retrouvé [?] |",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| | hs-CRP | GlycA | GDF-15 | suPAR |\n|---|---|---|---|---|\n| Prédit les événements en cohorte | Oui [A] (PMID 20031199) | Oui [B] | Oui [B] | Oui [B] |\n| Spécificité « inflammation » | Moyenne | Moyenne | Faible (cœur, reins, tabac) | Moyenne |\n| Essai d'intervention sur événements | Oui (CANTOS, voir [CRP](fiche:biomarqueur-crp-hscrp)) | Non | Non | Non |\n| Mode de vie le fait baisser | Oui (entraînement en résistance) | Non trouvé [?] | Exercice oui [B] | Tabac, mode de vie [B] |\n| Accès | Large | Non consulté [?] | Non consulté [?] | Non consulté [?] |",
+   "titre": "Tableau comparatif"
+  },
+  {
+   "markdown": "- Pour le grand public : **aucune action n'en découle**. Un suPAR ou un GDF-15 élevé conduit à chercher une cause (tabac, rein, cœur, diabète, infection chronique) que l'on peut déjà explorer avec les examens courants.\n- Rôle plausible aujourd'hui : recherche, stratification chez des patients à risque résiduel (BARI 2D), ou démarche d'auto-expérimentation avec les limites décrites dans [auto-expérimentation](fiche:auto-experimentation).\n- Ne remplace pas les marqueurs causaux validés : [ApoB](fiche:biomarqueur-apob), tension, glycémie ([bilans](fiche:bilans-biologiques)).",
+   "titre": "Utilité réelle"
+  },
+  {
+   "markdown": "Statut CE/IVD, disponibilité en laboratoire de biologie médicale français, nomenclature et remboursement pour GlycA, GDF-15 et suPAR : non consultés [?]. Ces dosages peuvent être proposés hors nomenclature dans des offres « longévité » ; ne pas y voir un gage de validité.",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Payer un panel « inflammation avancée » sans savoir ce qu'on ferait d'un résultat.\n- Lire un GDF-15 élevé comme « inflammation » alors qu'il suit aussi l'âge, le tabac, le rein et le cœur (PMID 24312445).\n- Se réjouir d'un GDF-15 qui baisse : il baisse avec l'exercice mais monte sous metformine (PMID 39868911).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Ces marqueurs sont de meilleurs prédicteurs que la hs-CRP »** : ils prédisent en cohorte, parfois indépendamment de la hs-CRP, mais aucune étude relue ici ne montre qu'ils changent la décision ou le pronostic quand on les ajoute à un score de risque en pratique [?].\n- **« Abaisser son GDF-15 / suPAR prolonge la vie »** : aucun essai d'événements ; les baisses observées accompagnent l'arrêt du tabac ou l'exercice, déjà bénéfiques par ailleurs (PMID 26799247, 39868911).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Le suPAR prédit le risque chez des patients dont la hs-CRP s'est normalisée, et il n'a pas baissé sous les traitements de BARI 2D alors que la hs-CRP baissait (PMID 42579565).\n- Le GDF-15 est associé aux marqueurs cardiaques (troponine, NT-proBNP) et rénaux (cystatine C) : il mesure autant la fragilité d'organe que l'inflammation (PMID 24312445).\n- L'arrêt du tabac normalise le suPAR en 4 semaines sans changer la CRP (PMID 26799247).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Aucun seuil d'alerte propre à ces marqueurs n'est sourcé ici [?]. Un dosage atypique nécessite un médecin pour être interprété dans le contexte clinique.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 27136058 — Ritchie SC et al., The Biomarker GlycA Is Associated with Chronic Inflammation and Predicts Long-Term Risk of Severe Infection. *Cell Syst* 2015.\n- PMID 38636622 — Filho RCF et al., GlycA Levels Independently Predict Coronary Artery Calcium Incidence and Progression in the ELSA-Brasil Cohort. *Am J Cardiol* 2024.\n- PMID 20854422 — Wiklund FE et al., MIC-1/GDF15: a new marker of all-cause mortality. *Aging Cell* 2010.\n- PMID 24312445 — Wallentin L et al., GDF-15 for prognostication of cardiovascular and cancer morbidity and mortality in men. *PLoS One* 2013.\n- PMID 33115406 — Wang Z et al., The impact of GDF-15 on the risk of cardiovascular diseases: two-sample Mendelian randomization study. *BMC Cardiovasc Disord* 2020.\n- PMID 39868911 — Yıldırım Ayaz E et al., The effect of exercise on GDF-15 levels in individuals with prediabetes: a randomized controlled trial. *J Diabetes Investig* 2025.\n- PMID 22909410 — Lyngbæk S et al., Cardiovascular risk prediction in the general population with use of suPAR, CRP, and Framingham Risk Score. *Int J Cardiol* 2013.\n- PMID 42396825 — Sakr SM et al., Proteomics-Based suPAR Levels and Adverse Cardiovascular Outcomes in the General Population: UK Biobank. *J Am Heart Assoc* 2026.\n- PMID 42579565 — Ismail A et al., suPAR Identifies Treatment-Resistant Inflammatory Risk Beyond hs-CRP in Type 2 Diabetes With Coronary Artery Disease (BARI 2D). *Diabetes Care* 2026.\n- PMID 26799247 — Eugen-Olsen J et al., Plasma suPAR is lowered by smoking cessation: a randomized controlled study. *Eur J Clin Invest* 2016.\n- PMID 30679937 — Haupt TH et al., Healthy lifestyles reduce suPAR and mortality in a Danish general population study. *Immun Ageing* 2019.\n- PMID 42580608 — Napolitano F et al., suPAR as a circulating inflammatory biomarker: time for translation into clinical practice. *Clin Chim Acta* (systematic review).\n- PMID 20031199 — Emerging Risk Factors Collaboration, Kaptoge S et al., CRP and CHD, stroke, mortality. *Lancet* 2010 (repris de la fiche CRP).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Biomarqueurs d'inflammation émergents : GlycA, GDF-15, suPAR",
+ "type": "biomarqueur",
+ "unite": ""
+}

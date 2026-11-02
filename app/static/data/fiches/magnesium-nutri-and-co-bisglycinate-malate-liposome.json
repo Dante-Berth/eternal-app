@@ -1,0 +1,63 @@
+{
+ "cibles": [
+  "sante-mentale",
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "magnesium-nutri-and-co-bisglycinate-malate-liposome",
+ "intro": "",
+ "liens": [],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "41000008",
+  "32956536",
+  "39770988"
+ ],
+ "preuve_globale": "B",
+ "resume": "Un mélange de trois formes de magnésium vendu pour l'absorption, dont la seule étude comparative trouvée est financée par le fournisseur de l'une d'elles ; le bénéfice du magnésium lui-même est faible hors indications précises, et une dose de 300 mg dépasse la limite de sécurité de 250 mg proposé…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Un mélange de trois formes de magnésium vendu pour l'absorption, dont la seule étude comparative trouvée est financée par le fournisseur de l'une d'elles ; le bénéfice du magnésium lui-même est faible hors indications précises, et une dose de 300 mg dépasse la limite de sécurité de 250 mg proposée par l'ANSES.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur déclarée (3 gélules) | Preuve |\n|---|---|---|\n| Magnésium élémentaire total | 300 mg | Tension artérielle −2,8/−2,1 mmHg, hétérogène [A] (PMID 41000008) ; crampes de l'adulte âgé : aucun effet [A] (PMID 32956536) |\n| Magshape (microcapsules lipidiques) | 750 mg | Absorption : plasma Mg supérieur à l'oxyde, étude de 40 volontaires, cross-over, coauteurs du fournisseur (Lubrizol) [B, ECR n=40] (PMID 39770988) |\n| Malate de magnésium | 450 mg | [?] aucune étude clinique de cette forme trouvée dans ce travail |\n| Bisglycinate (TRAACS) | 51 mg | Même étude : **aucune hausse significative** du magnésium plasmatique après bisglycinate [B, ECR n=40] (PMID 39770988) |\n| Vitamine B6 | 2 mg | Allégation « fatigue » : [M] |\n\nComposition et dose : site de la marque (nutriandco.com) et Parapharmacie Lafayette, consultés le 2026-10-06. Les mg de chaque forme ne s'additionnent pas pour donner 300 mg élémentaires ; teneur exacte en Mg de chaque forme non communiquée [?].",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Complément alimentaire (déclaration DGCCRF, décret n° 2006-352 ; consulté le 2026-10-06 via recherche web). ANSES (avis saisine n° 2023-SA-0165, 2024-07-31, consulté le 2026-10-06) : limite supérieure de sécurité 250 mg/j de magnésium issu de compléments ; dose maximale proposée en complément pour l'adulte 360 mg. 3 gélules = 300 mg : au-dessus de la limite, sous la dose proposée. AMA : non vérifié [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque dit | Les études |\n|---|---|\n| « 3 magnésiums en 1 », absorption optimisée, sans trouble digestif | [B, ECR n=40] la forme microencapsulée a donné le meilleur profil d'absorption et moins d'effets digestifs que l'oxyde, le citrate et le bisglycinate (PMID 39770988) ; étude de 6 h sur plasma seul, en conflit d'intérêts avec le fournisseur ; effet clinique inconnu [?] |\n| Réduit le stress, soutient les muscles | Crampes de l'âgé : [A] aucun effet (PMID 32956536). Stress : [?] non étudié dans les sources lues |\n| Bisglycinate = forme « haute absorption » | [B, ECR n=40] pas d'élévation plasmatique significative dans cette étude (PMID 39770988) ; une seule étude, ce n'est pas la preuve que la forme est mauvaise [?] |",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Selon la marque : adulte 2 à 3 gélules/j aux repas, cures de 3 mois ou en continu (nutriandco.com) ; Lafayette : 3 gélules/j (consultés le 2026-10-06). 2 gélules (200 mg) restent sous la limite ANSES de 250 mg.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- 120 gélules : 19,90 € (marque), 20,52 € (Parapharmacie Lafayette), 17,90 € (Alltricks, via recherche web, page en 403) (consultés le 2026-10-06).\n- 2 gélules/j (200 mg) : **≈ 10 €/mois** ; 3 gélules/j (300 mg) : **≈ 15 €/mois**. Coût : ≈ 0,17 € pour 100 mg de magnésium élémentaire (19,90 € pour 120 gélules à 100 mg/gélule).\n- Comparateur citrate : Citrate de magnésium Nutrimuscle, 120 gélules à 14,95 €, 338 mg de Mg pour 5 gélules, ≈ 0,18 € pour 100 mg, ≈ 19 €/mois à la dose de l'étiquette ; contrôle Sport Protect déclaré (nutrimuscle.com, consulté le 2026-10-06 ; pas de fiche dédiée). Prix par mg équivalent, tolérance et absorption : aucune preuve que l'un fasse mieux que l'autre [?].\n- Le citrate seul a donné une hausse plasmatique significative à 4 h dans la même étude (PMID 39770988) ; pas d'avantage clinique démontré pour le mélange.",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non relevés de façon systématique [?]. Diarrhée possible avec tout sel de magnésium (11 à 37 % dans les essais de crampes) [A] (PMID 32956536).",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 41000008 — Argeros Z et al., *Hypertension* 2025. doi:10.1161/HYPERTENSIONAHA.125.25129 (non relu cette session, cité par la fiche magnésium)\n- PMID 32956536 — Garrison SR et al., *Cochrane Database Syst Rev* 2020. doi:10.1002/14651858.CD009402.pub3 (non relu cette session)\n- PMID 39770988 — Pajuelo D et al., *Nutrients* 2024. doi:10.3390/nu16244367\n- Nutri&Co, page « Magnésium » ; Parapharmacie Lafayette ; Nutrimuscle, page « Citrate de magnésium » ; consultées le 2026-10-06.\n- ANSES, avis saisine n° 2023-SA-0165, 2024-07-31, consulté le 2026-10-06.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Magnésium bisglycinate, malate et liposomé — Nutri&Co",
+ "type": "produit",
+ "unite": ""
+}

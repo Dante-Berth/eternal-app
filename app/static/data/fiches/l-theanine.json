@@ -1,0 +1,68 @@
+{
+ "cibles": [
+  "cerveau",
+  "sante-mentale"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "l-theanine",
+ "intro": "",
+ "liens": [
+  "anxiete",
+  "ashwagandha",
+  "cafeine",
+  "stress-chronique-et-cortisol"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 0,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [],
+ "preuve_globale": "A",
+ "resume": "Acide aminé du thé. Seule ou avec la caféine, les méta-analyses d'ECR parlent d'effets petits et incertains sur la cognition et l'humeur ; les intervalles de confiance « soulignent fréquemment l'incertitude » [A, faible certitude] (doi:10.1093/nutrit/nuaf054).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Acide aminé du thé. Seule ou avec la caféine, les méta-analyses d'ECR parlent d'effets **petits et incertains** sur la cognition et l'humeur ; les intervalles de confiance « soulignent fréquemment l'incertitude » [A, faible certitude] (doi:10.1093/nutrit/nuaf054).\n- **Association théanine + caféine** : meilleur signal que la théanine seule (alerte, précision d'attention, bascule attentionnelle), effet surtout porté par la caféine [A] (doi:10.1111/nure.12120, doi:10.1093/nutrit/nuaf054).\n- **Stress, anxiété** : 200–400 mg/j « pourraient aider » en situation de stress, sur 9 ECR, mais cohortes petites et courtes [A, faible certitude] (doi:10.1007/s11130-019-00771-5) ; un ECR de stress aigu (200 mg) ne trouve aucun effet sur les marqueurs de stress [B, ECR unique n=80] (doi:10.1080/10253890.2024.2375588).\n- **Sommeil** : amélioration de la qualité (PSQI) dans un petit ECR croisé n=30 à 200 mg/j, peu d'effet sur la durée [B] (doi:10.3390/nu11102362, doi:10.3389/fnut.2026.1922819).\n- **Sécurité** : bien tolérée dans les essais ; toxicité aiguë et chronique faible chez l'animal selon une revue [B] (doi:10.1080/10408398.2015.1016141).\n- **France** : non nommée dans l'annexe I de l'arrêté du 26 septembre 2016 ; statut précis [?] (voir plus bas).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Analogue structural du glutamate (terme MeSH « Glutamates » dans les fiches PubMed des essais) ; mécanisme précis chez l'humain non établi par les sources lues, hypothèse d'un effet calmant sans sédation [?]. Les revues citent un effet « sans sédation » à 200–400 mg (doi:10.3389/fnut.2026.1922819) [B, revue narrative].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Cognition, attention, humeur (seule ou avec caféine)\n| Source | Résultat | Preuve |\n|---|---|---|\n| Méta-analyse d'ECR 2025 (Payne) | théanine + caféine vs placebo : précision d'une tâche de vigilance SMD 0,20 (IC 0,02–0,38), bascule attentionnelle SMD 0,33 (0,13–0,54), humeur globale SMD 0,26 (−0,10 à 0,63, non significatif) ; théanine seule vs placebo : temps de réaction au choix SMD −0,35 (−0,61 à −0,10) | [A, faible certitude] (doi:10.1093/nutrit/nuaf054) |\n| Méta-analyse 2014 (Camfield) | effet modéré de l'association sur alerte, précision de bascule attentionnelle dans les 2 h ; tendance plus liée à la dose de caféine qu'à celle de théanine | [A] (doi:10.1111/nure.12120) |\n| ECR croisé (Haskell 2008) : théanine 250 mg, caféine 150 mg | théanine seule : **plus de maux de tête**, moins de bonnes réponses en soustraction ; l'association améliore plusieurs tâches | [B, ECR unique] (doi:10.1016/j.biopsycho.2007.09.008) |\n| ECR 4 semaines, 200 mg/j (n=30) | fluence verbale et fonction exécutive améliorées ; effets sur anxiété-trait et dépression ; essai croisé, financé en partie par un fabricant (co-auteurs Taiyo Kagaku) | [B, ECR unique n=30] (doi:10.3390/nu11102362) |\n| Lutteurs d'élite, 3 mg/kg théanine + 3 mg/kg caféine | meilleure vitesse et précision cognitives que le placebo ; moins d'anxiété et de tachycardie que la caféine seule | [B, ECR unique] (doi:10.1080/15502783.2025.2564238) |\n\nMémoire : [?] aucun résultat robuste récupéré. Revue de 2026 : améliorations « petites mais significatives » sur l'attention visuelle, surtout avec caféine [B, revue narrative] (doi:10.3389/fnut.2026.1922819). Les revues signalent un besoin de recherche avec des doses équivalentes à celles du thé et en vie réelle (doi:10.1093/nutrit/nuaf054).\n\n### Stress et anxiété\n- Revue systématique de 9 ECR de théanine pure : 200–400 mg/j « pourraient aider » ; besoin d'essais plus longs et plus gros [A, faible certitude] (doi:10.1007/s11130-019-00771-5).\n- Stress aigu simulé (exercice de tir actif en réalité virtuelle), 200 mg : pas d'effet sur α-amylase, SIgA, fréquence cardiaque ni anxiété état [B, ECR unique] (doi:10.1080/10253890.2024.2375588).\n- Association avec magnésium, vitamines B, rhodiole (« Mg-Teadiola ») : stress DASS-42 réduit (taille d'effet 0,29, IC 0,01–0,57) ; la contribution de la théanine ne peut pas être isolée [B, ECR unique] (doi:10.3390/nu14091863).\n- Dépression majeure, 250 mg/j en add-on, 8 semaines, étude ouverte n=20 : amélioration du HAMD-21 ; sans groupe placebo [B, étude ouverte] (doi:10.1017/neu.2016.33).\n\n### Sommeil\n- ECR croisé n=30, 200 mg/j : PSQI amélioré (latence, perturbations, médicaments du sommeil) [B, ECR n=30] (doi:10.3390/nu11102362).\n- Revue 2026 : 200–450 mg/j soutiendraient la qualité du sommeil, peu d'effet sur la durée totale [B, revue narrative] (doi:10.3389/fnut.2026.1922819).\n- ECR en cours (100/200/400 mg) : protocole publié, résultats [?] (doi:10.1016/j.cct.2026.108306).\n- Combinaison multi-composés chez des footballeurs de moins de 17 ans : effets triviaux sur le sommeil ; théanine non isolée, [?].\n\n### Performance physique\nSeule : [?] aucun ECR de théanine seule trouvé sur la force ou l'endurance. Avec caféine : voir [caféine](fiche:cafeine) (essai de lutteurs, n petit).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Étudié** : 200 mg/j (Hidese, essai sur 4 semaines), 250 mg (ECR aigu, 8 semaines en ouvert), 100–400 mg/j selon les revues ; en association avec 150 mg de caféine dans l'essai de Haskell ; 3 mg/kg chez les sportifs.\n- **Ratio de thé** : une tasse de thé contient bien moins de théanine que ces doses ; teneurs par tasse [?] non sourcées dans cette fiche.\n- **Vendu** : dosage des gélules du marché (souvent 100–400 mg) : [?] non relevé ; aucune fiche produit consultée.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Gélules, comprimés, poudre, boissons « focus » associées à la caféine.\n- **France/UE** : l'arrêté du 26 septembre 2016, annexe I (Légifrance, consulté le 2026-10-06) ne cite pas la théanine dans le tableau des substances restreintes (caféine, carnitine, créatine, lycopène) ; les autres substances à but nutritionnel ou physiologique sont admises si elles ne relèvent pas des nouveaux aliments (règlement de 1997) et déclarées à la DGCCRF. Statut exact de la théanine (substance autorisée, ou nouvel aliment) : [?] non vérifié individuellement.\n- Allégation de santé UE autorisée pour la théanine : [?] aucune trouvée ; ne pas en inférer qu'elle n'existe pas.\n- **AMA** : la théanine n'est pas une substance dopante connue ; liste de l'année non consultée [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Bonne tolérance dans les essais cités ; les revues parlent de produit « fiable » même à fortes doses alimentaires, sans preuve clinique de long terme [B] (doi:10.1080/10408398.2015.1016141).\n- Maux de tête sous 250 mg seule dans un ECR [B] (doi:10.1016/j.biopsycho.2007.09.008).\n- Effet de protection rénale chez la souris sous cisplatine : étude murine, aucune extrapolation humaine [C] (doi:10.5414/CN111549).\n- Grossesse, allaitement, enfants, interactions médicamenteuses (antihypertenseurs, sédatifs) : [?] non étudiés par ces sources ; avis médical.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "—",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Calme sans somnolence, anti-stress prouvé »** : méta-analyses à faible certitude ; un ECR de stress aigu (n=80) est nul [A, faible certitude] (doi:10.1007/s11130-019-00771-5) ; (doi:10.1080/10253890.2024.2375588).\n- **« Théanine = focus en soi »** : seule, elle ralentit une tâche de calcul et donne des maux de tête dans un essai ; le gain vient de la caféine associée [B] (doi:10.1016/j.biopsycho.2007.09.008).\n- **« Le thé donne un coup de fouet doux grâce à la théanine »** : [?] non démontré à des doses de thé.\n- **« Boosteur de mémoire »** : [?].\n\nVoir aussi : [ashwagandha](fiche:ashwagandha).\n\nÀ voir aussi : [Stress chronique et cortisol](fiche:stress-chronique-et-cortisol) · [Anxiété](fiche:anxiete).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- doi:10.1093/nutrit/nuaf054 — Payne et al., *Nutr Rev* 2025 (méta-analyse ECR). PubMed 40314930.\n- doi:10.1111/nure.12120 — Camfield DA et al., *Nutr Rev* 2014. PubMed 24946991.\n- doi:10.1007/s11130-019-00771-5 — Williams JL et al., *Plant Foods Hum Nutr* 2020. PubMed 31758301.\n- doi:10.3389/fnut.2026.1922819 — Cotter et al., *Front Nutr* 2026 (revue). PubMed 42761839.\n- doi:10.1016/j.biopsycho.2007.09.008 — Haskell CF et al., *Biol Psychol* 2008. PubMed 18006208.\n- doi:10.3390/nu11102362 — Hidese S et al., *Nutrients* 2019. PubMed 31623400.\n- doi:10.1017/neu.2016.33 — Hidese S et al., *Acta Neuropsychiatr* 2017. PubMed 27396868.\n- doi:10.1080/10253890.2024.2375588 — McAllister MJ et al., *Stress* 2024. PubMed 38975711.\n- doi:10.3390/nu14091863 — Noah L et al., *Nutrients* 2022. PubMed 35565828.\n- doi:10.1080/15502783.2025.2564238 — Razazan et al., *JISSN* 2025. PubMed 40977612.\n- doi:10.1016/j.cct.2026.108306 — Bulman et al., *Contemp Clin Trials* 2026 (protocole). PubMed 41991056.\n- doi:10.1080/10408398.2015.1016141 — Türközü D, Şanlier N, *Crit Rev Food Sci Nutr* 2017. PubMed 26192072.\n- doi:10.5414/CN111549 — Altinkaynak et al., *Clin Nephrol* 2025 (souris). PubMed 39607236.\n- Arrêté du 26 septembre 2016, annexe I, Légifrance (JORFTEXT000033197580), consulté le 2026-10-06.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "L-théanine",
+ "type": "actif",
+ "unite": ""
+}

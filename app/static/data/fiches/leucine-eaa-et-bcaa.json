@@ -1,0 +1,95 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "complement",
+ "id": "leucine-eaa-et-bcaa",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "boosters-de-testosterone",
+  "creatine",
+  "entrainement-en-resistance",
+  "hmb",
+  "hypertrophie-volume-frequence-et-proximite-de-lechec",
+  "proteines",
+  "sarcopenie"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 19,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "40926079",
+  "37681443",
+  "28852372",
+  "28638350",
+  "40573110",
+  "41202431",
+  "40805998",
+  "41540398",
+  "34072718",
+  "22451437",
+  "29508691",
+  "26817506",
+  "24015719",
+  "40381110",
+  "33586928",
+  "27934654",
+  "36394355",
+  "36338230",
+  "41705646"
+ ],
+ "preuve_globale": "B",
+ "resume": "Si l'apport en protéines est suffisant, les BCAA, la leucine et les EAA en poudre n'ont pas de bénéfice démontré pour la prise de muscle. Dans l'essai le plus direct, 7,5 g/j de leucine ajoutés à 12 semaines de musculation avec 1,2 g/kg/j de protéines n'ont rien apporté de plus que le placebo (19…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Si l'apport en protéines est suffisant, les BCAA, la leucine et les EAA en poudre n'ont pas de bénéfice démontré pour la prise de muscle.** Dans l'essai le plus direct, 7,5 g/j de leucine ajoutés à 12 semaines de musculation avec 1,2 g/kg/j de protéines n'ont rien apporté de plus que le placebo (19 femmes âgées pré-fragiles) [B, ECR n=19] (PMID 40926079). Je n'ai trouvé aucune méta-analyse d'essais longs de BCAA ou de leucine sur la masse maigre chez l'adulte jeune en bonne santé [?].\n- **Les BCAA seuls sont incomplets** : la synthèse protéique stimulée par des BCAA seuls est inférieure à celle d'une protéine complète (revue narrative, PMID 37681443) [B], et une revue de 2017 conclut que l'allégation « les BCAA stimulent la synthèse musculaire » n'est pas fondée chez l'humain, les autres acides aminés essentiels devant venir de la dégradation du muscle (PMID 28852372) [B, revue narrative]. Un petit essai aigu (n=10) trouve pourtant +22 % de synthèse myofibrillaire après 5,6 g de BCAA, mesure aiguë (4 h), sans résultat sur le gain de masse [B, ECR croisé n=10] (PMID 28638350).\n- **Là où ça aide peut-être** : apport protéique bas, personnes âgées sarcopéniques, restriction calorique (revue narrative, PMID 40573110) [B]. Chez les sarcopéniques, les méta-analyses montrent des effets inconstants et de faible certitude [A, faible certitude] (PMID 41202431, 40805998, 41540398).\n- **Récupération** : les BCAA réduisent la CK (jusqu'à 48 h) et les courbatures à moins de 24 h seulement, chez des hommes entraînés [A, petits essais] (PMID 34072718) ; à comparer aux protéines, sans effet sur les courbatures ([protéines](fiche:proteines)).\n- **Mieux placé que les BCAA** : manger assez de protéines complètes (≈ 1,6 g/kg/j), voir [protéines](fiche:proteines), et [créatine](fiche:creatine).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "La leucine active la voie mTORC1, qui déclenche la synthèse protéique musculaire ; les BCAA sont leucine + isoleucine + valine, trois des neuf acides aminés essentiels (PMID 37681443). Pour fabriquer de nouvelles protéines musculaires, tous les acides aminés essentiels sont nécessaires : des BCAA seuls ne peuvent, au mieux, relancer la synthèse qu'à hauteur de la dégradation musculaire qui fournit les autres (raisonnement théorique, PMID 28852372). La leucine, seule ou en complément d'une petite dose de protéine, stimule la synthèse aiguë (1-3 h) aussi bien que 25 g de whey, mais seule la whey maintient la synthèse élevée à 3-5 h après l'effort : 6,25 g de whey + leucine donnent +55 % contre +184 % pour 25 g de whey [B, ECR aigu n=24] (PMID 22451437). Du signal aigu au gain de masse sur des mois : inférence non démontrée [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Synthèse protéique, BCAA seuls, après musculation | 5,6 g de BCAA vs placebo, 10 jeunes hommes entraînés : synthèse myofibrillaire +22 %, phosphorylation de S6K1 augmentée (PMID 28638350) ; réponse inférieure à celle d'une protéine complète (PMID 37681443) | [B, ECR croisé n=10] |\n| Masse musculaire à long terme, BCAA ou leucine, adulte sain jeune | aucune méta-analyse d'essais longs trouvée | [?] |\n| Leucine + musculation + protéines suffisantes (1,2 g/kg/j), femmes âgées pré-fragiles | 12 semaines, 7,5 g/j de leucine vs 5,1 g/j d'alanine : la musculation augmente la synthèse myofibrillaire (+47 %) et la masse maigre (+2 %), « pas de bénéfice additionnel de la leucine » (PMID 40926079) | [B, ECR n=19] |\n| Sarcopénie, BCAA + musculation | 12 ECR, n=459 : seul l'indice de masse musculaire squelettique augmente (SMD 0,337, IC 0,035-0,639) ; préhension, SPPB, vitesse de marche, force du quadriceps, masse maigre totale : nuls (PMID 41202431) | [A, faible certitude] |\n| Sarcopénie, leucine | 11 études (10 ECR + 1 prospective, ~1 100 participants) : différences significatives sur préhension, masse musculaire appendiculaire/taille² et vitesse de marche ; qualité faible ; limitée si utilisée seule (PMID 40805998) | [A, faible certitude] |\n| Sarcopénie, acides aminés (EAA, BCAA, leucine, HMB) + musculation | 9 ECR, n=496 : préhension SMD 0,69, vitesse de marche SMD 0,64, SPPB SMD 1,69 ; masse musculaire sans effet ; certitude faible à très faible ; effet dépendant de l'apport protéique de base (PMID 41540398) | [A, très faible certitude] |\n| EAA/protéines chez l'âgé avec maladie aiguë ou chronique | 39 ECR, n=4 274 : SMD 0,21-0,27 sur masse maigre, force, fonction ; mais les 7 essais à faible risque de biais ne trouvent aucun effet ; les EAA ressortent comme le supplément le plus efficace, surtout chez les dénutris (PMID 29508691) | [A, hétérogène, biais élevé] |\n| Perte de poids (restriction calorique) | revue narrative : les EAA aident peut-être à préserver la masse maigre surtout si les apports protéiques sont bas et avec musculation ; BCAA seuls : effets variables, notamment si les protéines sont déjà suffisantes (PMID 40573110) | [B, revue narrative] |\n| Perte de poids, effet de la protéine totale | 40 jeunes hommes, déficit calorique de 4 semaines + exercice intense : 2,4 g/kg/j de protéines → masse maigre +1,2 kg contre +0,1 kg à 1,2 g/kg/j (PMID 26817506) | [B, ECR n=40] |\n| BCAA et dommages musculaires/courbatures (trained males) | 9 études : CK ↓ à < 24, 24 et 48 h ; courbatures ↓ à < 24 h seulement ; LDH sans effet (PMID 34072718) | [A, petits essais] |\n| EAA ou BCAA contre protéine complète (équivalence en dose protéique égale), adulte jeune | non comparés dans les sources lues | [?] |\n\n### Pourquoi la qualité de la protéine entière pèse plus que la leucine\nDans un essai de 9 mois (63 adultes non entraînés), la masse maigre augmente de 3,3 kg avec la whey contre 1,8 kg avec le soja et 2,3 kg avec un glucide, malgré un apport en protéines équivalent entre whey et soja ; la leucine à jeun était corrélée à la réponse, ce qui est une corrélation, pas une preuve de cause [B, ECR n=63] (PMID 24015719). Le gain de la whey peut tenir à sa composition entière en acides aminés, pas à la seule leucine : cet essai ne le tranche pas [?].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- BCAA : 5,6 g en un coup après musculation (PMID 28638350) ; 4,5 g de leucine + 1,5 g de valine + 1,5 g d'isoleucine par jour (60/20/20) pendant 12 semaines chez des patients âgés (PMID 40381110). Une revue de 2021 retient 2-10 g/j de BCAA (2:1:1) pour la récupération (PMID 33586928) [B, revue systématique].\n- Leucine : 7,5 g/j dans l'essai négatif (PMID 40926079). Besoin minimal de leucine publié : 55 mg/kg/j (PMID 27934654).\n- EAA : doses variables selon les essais, non relevées ici [?].\n- Produits vendus en France (teneurs, ratios 2:1:1 ou 8:1:1, prix par mois) : non relevés pour cette fiche [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **France/UE** : compléments alimentaires (poudres, gélules, mélanges « pré/intra-workout »). Statut des acides aminés (liste des substances à but nutritionnel, arrêté du 26 septembre 2016) et existence d'allégations de santé UE autorisées : non vérifiés ; EUR-Lex et Légifrance inaccessibles depuis cet environnement (2026-10-13) [?]. Ne pas confondre avec l'allégation sur les protéines alimentaires, non relue ici [?].\n- **AMA** : les acides aminés ne sont pas des substances interdites en tant que tels à notre connaissance ; liste 2026 non consultée (wada-ama.org, tentative du 2026-10-13) [?]. Risque de contamination des produits non certifiés : voir [boosters de testostérone](fiche:boosters-de-testosterone).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Leucine : en l'état des données, des apports jusqu'à 1 250 mg/kg/j n'ont pas eu d'autre conséquence qu'une élévation transitoire de l'ammoniémie (revue 2016) ; très peu d'études cherchent un seuil de sécurité (PMID 27934654) [B, revue].\n- Foie : chez les cirrhotiques, les BCAA au long cours (≥ 6 mois) n'ont pas montré d'effets graves dans 54 études à biais élevé (PMID 36394355) [A, biais élevé] ; une autre méta-analyse (9 ECR, n=1 080) note une glycémie plus élevée sous BCAA (PMID 36338230) [A]. Population cirrhotique : ne pas extrapoler à l'adulte sain.\n- Reins : essai de 12 semaines chez 55 patients âgés avec insuffisance rénale chronique : pas de différence d'effets indésirables ; masse maigre +0,4 kg contre −0,2 kg [B, ECR n=55] (PMID 40381110). Insuffisance rénale : avis du néphrologue avant tout supplément d'acides aminés ou apport protéique élevé [?].\n- Diabète : des taux sanguins élevés de BCAA sont associés au risque de diabète de type 2 (contexte rappelé dans PMID 41705646) ; la supplémentation orale n'a pas de lien causal démontré avec le diabète dans les sources lues [?].\n- Interactions médicamenteuses, grossesse, enfants : non étudiées dans les sources lues [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Les BCAA construisent le muscle »** : sans les autres acides aminés essentiels, la synthèse protéique n'a pas de matière première suffisante ; la réponse est inférieure à celle d'une protéine complète [B] (PMID 28852372, 37681443).\n- **« À prendre à jeun ou pendant l'effort pour protéger le muscle »** : aucun essai long lu ne le montre [?].\n- **« Plus de leucine = plus de muscle »** : pas de bénéfice additionnel quand les protéines sont suffisantes [B, ECR n=19] (PMID 40926079).\n- **« Les BCAA suppriment les courbatures »** : effet limité à moins de 24 h, à la CK, chez des hommes entraînés [A, petits essais] (PMID 34072718).\n- **« Supplément miracle pour la sarcopénie »** : effets inconstants, qualité faible [A, faible certitude] (PMID 41202431, 40805998) ; l'exercice reste le levier principal : [sarcopénie](fiche:sarcopenie).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "[Protéines](fiche:proteines) (apport total ~1,6 g/kg/j), [créatine](fiche:creatine), [HMB](fiche:hmb) (non démontré chez l'adulte sain), entraînement : [entraînement en résistance](fiche:entrainement-en-resistance), [hypertrophie : volume et proximité de l'échec](fiche:hypertrophie-volume-frequence-et-proximite-de-lechec), [alimentation](fiche:alimentation).",
+   "titre": "Alternatives mieux documentées"
+  },
+  {
+   "markdown": "Aucune fiche produit BCAA/EAA dans le dépôt.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 40926079 — Jacob et al., *Geroscience* 2026. doi:10.1007/s11357-025-01877-2\n- PMID 37681443 — Kaspy MS et al., *Nutr Res Rev* 2024. doi:10.1017/S0954422423000197\n- PMID 28852372 — Wolfe RR, *J Int Soc Sports Nutr* 2017. doi:10.1186/s12970-017-0184-9\n- PMID 28638350 — Jackman SR et al., *Front Physiol* 2017. doi:10.3389/fphys.2017.00390\n- PMID 22451437 — Churchward-Venne TA et al., *J Physiol* 2012. doi:10.1113/jphysiol.2012.228833\n- PMID 41202431 — Li et al., *Arch Gerontol Geriatr* 2026. doi:10.1016/j.archger.2025.106063\n- PMID 40805998 — Huang et al., *Nutrients* 2025. doi:10.3390/nu17152413\n- PMID 41540398 — Xie C et al., *BMC Musculoskelet Disord* 2026. doi:10.1186/s12891-025-09436-8\n- PMID 29508691 — Cheng H et al., *Br J Nutr* 2018. doi:10.1017/S0007114517003816\n- PMID 40573110 — Cannavaro et al., *Nutrients* 2025. doi:10.3390/nu17122000\n- PMID 26817506 — Longland TM et al., *Am J Clin Nutr* 2016. doi:10.3945/ajcn.115.119339\n- PMID 34072718 — Khemtong C et al., *Nutrients* 2021. doi:10.3390/nu13061880\n- PMID 33586928 — Arroyo-Cerezo A et al., *J Sports Med Phys Fitness* 2021. doi:10.23736/S0022-4707.21.11843-2\n- PMID 24015719 — Volek JS et al., *J Am Coll Nutr* 2013. doi:10.1080/07315724.2013.793580\n- PMID 40381110 — Sunsandee et al., *Int Urol Nephrol* 2025. doi:10.1007/s11255-025-04560-9\n- PMID 27934654 — Borack MS, Volpi E, *J Nutr* 2016. doi:10.3945/jn.116.230771\n- PMID 36394355 — van Dijk AM et al., *Eur J Clin Invest* 2023. doi:10.1111/eci.13909\n- PMID 36338230 — Du et al., *World J Clin Cases* 2022. doi:10.12998/wjcc.v10.i30.10984\n- PMID 41705646 — Zhou et al., *Diabetes Obes Metab* 2026. doi:10.1111/dom.70565",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Leucine, acides aminés essentiels (EAA) et BCAA",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,83 @@
+{
+ "cibles": [
+  "muscle-os",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "acide-ursolique",
+ "intro": "",
+ "liens": [
+  "boosters-de-testosterone",
+  "creatine",
+  "ecdysterone",
+  "hmb",
+  "musculation-et-recepteurs-androgeniques",
+  "proteines"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "22745735",
+  "21641545",
+  "32593524",
+  "28598231",
+  "34330458",
+  "34799219",
+  "41387498",
+  "23319864"
+ ],
+ "preuve_globale": "C",
+ "resume": "Triterpène de la peau de pomme, du romarin, du basilic. Vendu comme « anabolisant naturel » et « brûleur de graisse » à partir d'expériences sur la souris : masse musculaire et graisse brune augmentées, obésité réduite [C] (PMID 22745735, 21641545).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Triterpène de la peau de pomme, du romarin, du basilic. Vendu comme « anabolisant naturel » et « brûleur de graisse » à partir d'expériences **sur la souris** : masse musculaire et graisse brune augmentées, obésité réduite [C] (PMID 22745735, 21641545).\n- **Chez l'humain, l'essai le mieux contrôlé est négatif** : 22 hommes actifs, 8 semaines, musculation + régime riche en protéines, 400 mg/j : pas de différence de masse ou de force vs placebo [B, ECR unique n=22] (PMID 32593524).\n- Un petit essai sur le syndrome métabolique (n = 24, 150 mg/j, 12 semaines) rapporte des effets **invraisemblablement larges** (IMC 29,9 → 24,9, remise du syndrome chez 50 %), sans exercice imposé ni réplication [B, ECR n=24] (PMID 28598231). Un autre, avec exercice, trouve **aucun effet additionnel** (n = 26) [B] (PMID 34330458).\n- Pas d'AMM ni de preuve clinique de santé musculaire ou métabolique ; allégations commerciales sans étude solide [M].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Souris : augmentation de l'activité d'Akt dans le muscle, de la voie IGF-1, de la taille des fibres, de la graisse brune et de la dépense énergétique, avec moins d'obésité sous régime gras [C] (PMID 22745735). Découverte par criblage de signatures d'ARNm d'atrophie musculaire humaine (souris testées ensuite) [C] (PMID 21641545).\n- Chez l'humain, ce mécanisme n'est pas démontré ; les doses efficaces chez la souris (ajoutées au régime) ne sont pas transposables sans calcul de dose équivalente (non fait ici ; aucune étude humaine de correspondance trouvée).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Masse et force musculaires, hommes actifs | 22 hommes (UA n = 10, placebo n = 12), 400 mg/j, 8 semaines, 1,6 g/kg de protéines + musculation : prise de poids, de masse musculaire et de circonférence de cuisse comparables dans les 2 groupes, sans différence de force (PMID 32593524) | [B, ECR unique n=22] négatif |\n| Cytokines après musculation (hommes sains) | ECR pilote n = 27 (13 témoins, 14 AU), 400 mg/j, 8 semaines : pas de différence de TNF-α, IL-10, IL-6 (PMID 34799219) | [B, ECR n=27, pilote] négatif |\n| Syndrome métabolique, adultes non traités | 24 patients de 30-60 ans, 150 mg/j, 12 semaines : poids 75,7 → 71 kg, IMC 29,9 → 24,9, glycémie à jeun 6,0 → 4,7 mmol/L, rémission du syndrome 50 % (p = 0,005), sensibilité à l'insuline en hausse (PMID 28598231) | [B, ECR n=24] ; amplitude des effets suspecte pour 12 semaines sans régime ni sport, à répliquer [?] |\n| Syndrome métabolique, femmes ménopausées + exercice | 26 femmes, 450 mg/j, 8 semaines : tour de taille (critère principal) inchangé ; force de préhension +1,8 kgf (IC 0,3-3,2) ; rémission du syndrome 38,5 % dans les deux groupes (PMID 34330458) | [B, ECR n=26] négatif sur le critère principal |\n| Peau (hyperpigmentation), huile de pomme topique | ECR n = 42 (peau hyperpigmentée), huile de pomme Annurca à 2,5 % (extrait à ≈ 784 µg/mL d'acide ursolique), 28 jours, voie topique : indice de mélanine −10,2 % vs placebo (p < 0,001) (PMID 41387498) | [B, ECR n=42] ; un seul essai de 4 semaines, extrait complexe : effet non attribuable à l'acide ursolique seul |\n| Prise de masse chez l'entraîné avancé, longue durée, cancer, longévité | aucune donnée humaine retenue | [?] |\n\nLimites : tous les essais ont moins de 30 participants, durent 8 à 12 semaines, utilisent des doses (150-450 mg) et des extraits différents.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais : 150 mg/j (PMID 28598231), 400 mg/j (PMID 32593524), 450 mg/j (PMID 34330458). Souris : dans le régime, non comparables.\n- Vendu : gélules de 150-500 mg, extraits de pomme, de romarin, parfois en mélange avec d'autres « anabolisants » ; teneur réelle non vérifiée [?].\n- Biodisponibilité orale : faible (acide lipophile) ; la seule étude pharmacocinétique lue concerne une forme nanoliposomale **injectée** chez des volontaires et des cancéreux (PMID 23319864) et ne s'applique pas aux gélules.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Compléments alimentaires et ingrédient cosmétique (huile de pomme). Pas de médicament.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Arrêté du 24 juin 2014 (Légifrance, version en vigueur, consulté le 2026-10-14) : romarin, basilic (avec avertissements enfants et usage prolongé) et pomme (Malus domestica, fruit) figurent dans la liste des plantes autorisées en compléments. Un extrait titré en acide ursolique n'est pas une entrée de la liste ; l'acide ursolique ne figure pas dans la liste de l'Union des nouveaux aliments (règlement d'exécution (UE) 2017/2470, consolidé 2026-08-10, recherche par mot-clé). Le statut d'un extrait concentré (nouvel aliment ou non) n'a pas pu être tranché : catalogue Novel Food en ligne inaccessible (application JavaScript) [?].\n- France, substances à but nutritionnel ou physiologique : arrêté du 26 septembre 2016 (Légifrance, version en vigueur, consulté le 2026-10-14) : hors caféine, carnitine, créatine et lycopène (doses plafonnées), ces substances sont autorisées dans les compléments « sous réserve qu'elles ne soient pas considérées comme des nouveaux ingrédients » ; la DGCCRF tient un registre non consulté ici (non public à ma connaissance).\n- Allégations : aucune allégation de santé « masse musculaire » trouvée dans le registre UE (recherche non exhaustive).\n- AMA : l'acide ursolique n'est pas cité dans la Liste des interdictions 2026 (PDF officiel, parcouru par mots-clés, consulté le 2026-10-14).",
+   "titre": "Réglementaire"
+  },
+  {
+   "markdown": "- Essais oraux lus (22 à 26 participants, 8-12 semaines) : pas d'événement grave rapporté dans les résumés ; la tolérance n'a pas été l'objet principal [B].\n- Toxicité à long terme, grossesse, allaitement, interactions médicamenteuses : aucune donnée humaine exploitable trouvée (recherche PubMed ciblée) [?]. Par défaut, éviter pendant la grossesse et l'allaitement (absence de données, pas preuve d'innocuité).\n- Doses élevées de triterpènes en anticancéreux injectables : hors sujet pour un complément.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Anabolisant naturel prouvé »** : l'ECR contrôlé ne montre aucun gain additionnel de masse ou de force à 400 mg/j (PMID 32593524) ; la source est la souris [C].\n- **« Brûle la graisse »** : un seul ECR de 24 patients avec effets suspectement grands ; un autre ECR sans effet (PMID 28598231, 34330458).\n- **« Remplace une prise de masse sérieuse »** : voir [protéines](fiche:proteines), [créatine](fiche:creatine) et [musculation et récepteurs androgéniques](fiche:musculation-et-recepteurs-androgeniques).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit dans ce dépôt. Voir [ecdystérone](fiche:ecdysterone), [HMB](fiche:hmb), [boosters de testostérone](fiche:boosters-de-testosterone) (même logique « anabolisant naturel », preuves comparables).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 22745735, Kunkel et al., « Ursolic acid increases skeletal muscle and brown fat and decreases diet-induced obesity, glucose intolerance and fatty liver disease », PLoS One 2012 (résumé relu).\n- PMID 21641545, Kunkel et al., « mRNA expression signatures of human skeletal muscle atrophy identify a natural compound that increases muscle mass », Cell Metab 2011 (résumé relu : souris, hypertrophie et baisse d'adiposité).\n- PMID 32593524, Lobo et al., « Ursolic acid has no additional effect on muscle strength and mass in active men undergoing a high-protein diet and resistance training », Clin Nutr 2021 (résumé relu).\n- PMID 28598231, Ramírez-Rodríguez et al., « Effect of Ursolic Acid on Metabolic Syndrome, Insulin Sensitivity, and Inflammation », J Med Food 2017 (résumé relu).\n- PMID 34330458, Cione et al., acide ursolique et exercice chez des femmes ménopausées avec syndrome métabolique, Clin Nutr ESPEN 2021 (résumé relu).\n- PMID 23319864, Zhu et al., étude pharmacocinétique de phase I de nanoliposomes d'acide ursolique, Int J Nanomedicine 2013 (résumé relu).\n- PMID 34799219, Lobo et Pimentel, cytokines après musculation, Biomed Pharmacother 2021 (résumé relu).\n- PMID 41387498, Maisto et al., huile de pomme et hyperpigmentation, Sci Rep 2025 (résumé relu).\n- Réglementaire : arrêté du 24 juin 2014 ; règlement (UE) 2017/2470 consolidé 2026-08-10 ; Liste AMA 2026 ; consultés le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Acide ursolique",
+ "type": "actif",
+ "unite": ""
+}

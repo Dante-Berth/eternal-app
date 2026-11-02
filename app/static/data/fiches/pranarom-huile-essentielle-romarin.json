@@ -1,0 +1,65 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "cosmetique",
+ "id": "pranarom-huile-essentielle-romarin",
+ "intro": "",
+ "liens": [
+  "minoxidil-cooper-5-solution",
+  "romarin"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "25842469",
+  "42512824",
+  "40986632"
+ ],
+ "preuve_globale": "B",
+ "resume": "Si vous voulez tester le romarin, c'est la façon la moins chère et la plus traçable de le faire ; mais attendez-vous au mieux à un effet de l'ordre du minoxidil 2 %, sur une base d'un seul essai.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Si vous voulez tester le romarin, c'est la façon la moins chère et la plus traçable de le faire ; mais attendez-vous au mieux à un effet de l'ordre du minoxidil 2 %, sur une base d'un seul essai.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Composant | Concentration | Preuve |\n|---|---|---|\n| *Rosmarinus officinalis* chémotype cinéole, huile essentielle bio | 100 % | [B, ECR unique n=100] contre minoxidil 2 % (PMID 25842469) ; inférieur au minoxidil 5 % en NMA [A, faible certitude] (PMID 42512824) — voir [romarin](fiche:romarin) |\n\nComposition selon les fiches pharmacie (« Rosmarinus officinalis CT cinéole ») relevées le 2026-10-03. L'essai Panahi ne précise pas le chémotype ni la dilution : rien ne garantit que ce produit corresponde à celui de l'essai [?].",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Huile essentielle vendue en pharmacie et parapharmacie, sans AMM ni allégation thérapeutique autorisée ; statut CosIng de l'ingrédient non consulté [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- Les fiches de vente relayent un usage oral (2 gouttes 3 fois par jour sur un support) et respiratoire ; aucune allégation capillaire précise relevée sur les pages consultées [M].\n- Études : voir la fiche actif. Le consensus canadien classe l'huile de romarin « non recommandée » (PMID 40986632).",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Aucun mode d'emploi capillaire validé. L'essai appliquait l'huile deux fois par jour, dilution non précisée [?]. Pratique prudente : quelques gouttes diluées dans une huile végétale, test cutané préalable ; jamais pure. Ne pas suivre l'usage oral sans avis médical [?].",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix relevés pour 10 ml : 3,49 € à 8,90 € (Atida Santediscount, DocMorris, Newpharma, Redcare, Pharmacodel, relevés le 2026-10-03). Pas de posologie capillaire sur l'étiquette : à raison de quelques gouttes diluées par jour, un flacon durerait 2 à 3 mois, soit **environ 2 à 5 €/mois** (estimation).\n- Alternative à preuve supérieure pour un coût voisin : [minoxidil 5 % générique](fiche:minoxidil-cooper-5-solution), 5 à 8 €/mois (homme).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Aucune source d'avis analysée [?]. Odeur camphrée et forte ; huile qui graisse les cheveux si mal diluée.",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 25842469 — Panahi Y. et al., *Skinmed* 2015.\n- PMID 42512824 — Gupta A.K. et al., *Medicina* 2026 (texte intégral). doi:10.3390/medicina62071282\n- PMID 40986632 — Landells I. et al., *J Cutan Med Surg* 2025. doi:10.1177/12034754251368849\n- Composition, usages et prix : pharmanity.com, redcare-pharmacie.fr, docmorris.fr, newpharma.fr, pharmacodel.com, relevés le 2026-10-03.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "Pranarôm Huile essentielle Romarin à cinéole bio",
+ "type": "produit",
+ "unite": ""
+}

@@ -1,0 +1,72 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "complement",
+ "id": "citrulline-base-nutrimuscle-poudre",
+ "intro": "",
+ "liens": [
+  "citrulline",
+  "creatine",
+  "creatine-monohydrate-decathlon"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42356270",
+  "41786156",
+  "40789388",
+  "37062432",
+  "42639281"
+ ],
+ "preuve_globale": "A",
+ "resume": "L-citrulline pure (pas du citrulline malate : le ratio citrulline/malate n'existe donc pas ici) à 130-166 €/kg selon le format, soit environ 11-15 € par mois à 3 g/j ; l'effet sur la performance est petit et de certitude faible à très faible [A, faible certitude], donc produit correct sur la comp…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "L-citrulline pure (pas du citrulline malate : le ratio citrulline/malate n'existe donc pas ici) à 130-166 €/kg selon le format, soit environ 11-15 € par mois à 3 g/j ; l'effet sur la performance est petit et de certitude faible à très faible [A, faible certitude], donc produit correct sur la composition mais bénéfice attendu modeste.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur déclarée | Preuve |\n|---|---|---|\n| L-citrulline (base libre, « sans ajout de malate ») | 3 000 mg par portion de 3 g (2 doseurs) ; pureté minimale 99 % déclarée | Citrulline malate : 30 RCT, 644 participants, performance globale g = 0,16, certitude faible à très faible [A, faible certitude] (PMID 42356270). Avec exercice : masse grasse SMD −0,21, sans effet sur le poids ni la masse maigre [A, effet modeste] (PMID 41786156). Tension : SBP −4,02 mmHg [A] (PMID 40789388) |\n| Autres ingrédients | Aucun annoncé (ni arôme, ni édulcorant, ni anti-agglomérant) | Sans objet |\n\n- **Ratio citrulline/malate : sans objet.** Le produit est de la L-citrulline base ; la méta-analyse de performance (PMID 42356270) porte sur le **citrulline malate**, et la fiche [citrulline](fiche:citrulline) n'a pas relu d'essai comparant les deux formes : l'équivalence d'effet entre base et malate n'est pas établie ici [?]. Le malate 2:1 apporte environ la moitié de son poids en citrulline (calcul d'après le nom du ratio, non relevé sur une étiquette dans cette fiche) : on ne compare donc pas les prix au poids de produit entre les deux formes.\n- Origine annoncée : ingrédient de fermentation de sucre produit par BioKyowa (Kyowa, Japon), site certifié FSSC 22000 ; produit fini fabriqué en France dans l'usine de la marque (source de marque).\n- Dosage et conditionnement : 90 g ≈ 30 portions ; 500 g ≈ 166 portions.\n- Certifications annoncées sur la page : usine « labellisée Sport Protect » (certificat lié, document non ouvert) ; matières premières « attestées conformes AMA » ; certificat halal. **Informed Sport, Cologne List et Banned Substance Control : non mentionnés** sur la page lue. Un label d'usine n'équivaut pas à un test de lot par un tiers [?].\n- Allergènes : fabriqué dans un atelier traitant lait, œuf, céréales, soja, poisson, mollusques et crustacés.\n- Composition, certifications et prix : eu.nutrimuscle.com, consulté le 2026-10-13.",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "- Complément alimentaire. Présence de la citrulline dans la liste DGCCRF des SBNP « éligibles à l'article 15 », dose maximale et forme (base ou malate) non relues à la source (PDF en HTTP 403) : voir [citrulline](fiche:citrulline) [?].\n- Allégations de santé UE : aucune allégation « citrulline » autorisée (registre de la Commission, version de 2013, consulté le 2026-10-13). Les allégations de performance, d'énergie, d'endurance et de réduction de la fatigue de la page de la marque n'ont donc pas d'autorisation européenne à ma connaissance ; allégations postérieures à 2013 non vérifiées [?].\n- AMA/WADA : la citrulline n'est pas nommée dans la liste 2026 (voir [citrulline](fiche:citrulline), consulté le 2026-10-13). Le risque d'un sportif testé est la contamination, pas la substance.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque dit | Les études |\n|---|---|\n| Performance, endurance, force, énergie, moindre fatigue (page produit) | Effet global petit (g = 0,16), certitude faible à très faible, effort perçu non significatif ; dose et moment de prise non établis [A, faible certitude] (PMID 42356270). Études sur le citrulline malate, pas sur la forme base [?] |\n| « Idéal en pré-workout », prise environ 1 h avant l'entraînement | Aucune différence significative selon le moment de prise (PMID 42356270) [A] |\n| Forme « pure » préférable (sans malate), page avec 37 références bibliographiques | Bibliographie de la marque non relue [?] ; équivalence base/malate non établie dans la fiche actif [?] |\n| Éviter l'association avec MusclePump et le pré-workout de la marque (page produit) | Raison non précisée sur la page ; non vérifié [?] |\n\nVoir [citrulline](fiche:citrulline).",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Marque : 3 g (2 doseurs) par jour dans un verre d'eau ou 200 mL d'eau ou de lait, environ 1 h avant l'entraînement ou répartis entre les repas du matin et du soir. Les essais de la méta-analyse ne montrent pas de relation à la dose ni au moment de prise (PMID 42356270) : la dose de la marque n'est donc ni validée ni infirmée par ces données. Une tolérance sans effet indésirable observé a été notée jusqu'à 24 g/j chez l'adulte sain dans des essais de dose (PMID 37062432), très au-delà des 3 g de l'étiquette.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- 90 g : 14,95 € soit 166,11 €/kg (13,46 € avec abonnement de 3 livraisons minimum, 10 % de remise). 500 g : 64,95 € soit 129,90 €/kg (58,46 € avec abonnement d'après les données de la page, non affiché dans le texte). eu.nutrimuscle.com, consulté le 2026-10-13.\n- Coût à 3 g/j (90 g par mois) : 11,70 € avec le pot de 500 g (au prorata), 14,95 € avec le pot de 90 g, 13,46 € en abonnement 90 g. Fourchette : 11-15 €.\n- Le gain attendu est faible (g = 0,16, certitude faible à très faible) : pour un budget de performance, la [créatine](fiche:creatine) a une preuve plus solide (voir [créatine monohydrate Decathlon](fiche:creatine-monohydrate-decathlon), environ 2 € par mois).\n- Alternative de citrulline moins chère : Bulk Supplements (site en français) vend du citrulline malate 2:1 en poudre, mais la page lue affiche des prix en dollars sans correspondance claire avec les formats et sans portion lisible ; MyProtein France : aucune fiche citrulline retrouvée. Prix en euros d'une alternative non établi [?].",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non consultés [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Aucun effet indésirable observé jusqu'à 24 g/j chez l'adulte sain dans les essais de dose (PMID 37062432) [B].\n- Pression artérielle : la citrulline abaisse la tension chez les adultes d'âge moyen et âgés (SBP −4,02 mmHg ; PMID 40789388) [A] ; à discuter avec un médecin sous antihypertenseur ou vasodilatateur (effet additif plausible, non documenté dans les sources lues).\n- Interactions avec les inhibiteurs de la PDE5 ou les dérivés nitrés, grossesse, insuffisance rénale : non documentées dans les sources lues [?]. La marque déconseille le produit aux enfants et recommande l'avis d'un professionnel de santé en cas de grossesse ou d'allaitement (source de marque).\n- Sportif testé : les mélanges préentraînement sont les produits les plus à risque de contamination (PMID 42639281) [B] ; ce produit à ingrédient unique évite ce risque de mélange, sans certificat de lot indépendant relevé [?].",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "1. Nutrimuscle, « Citrulline (L-citrulline base) en poudre » — https://eu.nutrimuscle.com/fr/products/citrulline-l-citrulline-base-en-poudre (consulté le 2026-10-13)\n2. Bulk Supplements, « Malate de L-citrulline DL 2:1 en poudre » — https://www.bulksupplements.com/fr/products/l-citrulline-dl-malate-2-1-pure-poudre (consulté le 2026-10-13, prix en dollars non exploitables)\n3. PMID 42356270, PMID 41786156, PMID 40789388, PMID 37062432, PMID 42639281 : études reprises de la fiche [citrulline](fiche:citrulline) (résumés relus lors de sa rédaction).\n4. Statut réglementaire (DGCCRF, registre UE des allégations, liste AMA 2026) : sources et dates de consultation dans la fiche [citrulline](fiche:citrulline).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Citrulline (L-citrulline base) en poudre — Nutrimuscle",
+ "type": "produit",
+ "unite": ""
+}

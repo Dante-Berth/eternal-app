@@ -1,0 +1,84 @@
+{
+ "cibles": [
+  "prevention",
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-16",
+ "famille": "",
+ "id": "irm-corps-entier-prenuvo-et-coeur",
+ "intro": "",
+ "liens": [
+  "apob-lipides-et-statines",
+  "prevention-avc-et-infarctus"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 12,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "35467692",
+  "40884613",
+  "30932247",
+  "33216779",
+  "36292045",
+  "22836780",
+  "38592011",
+  "42497490",
+  "42107454",
+  "38073389",
+  "29196090",
+  "37914512"
+ ],
+ "preuve_globale": "B",
+ "resume": "L'IRM corps entier de Prenuvo n'est pas un examen des coronaires. Prenuvo écrit que son option cœur « ne diagnostique pas de maladie cardiaque et n'identifie pas d'artères bouchées », et que le scan corps entier n'est pas synchronisé au rythme cardiaque, donc inadapté à la mesure précise du cœur…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **L'IRM corps entier de Prenuvo n'est pas un examen des coronaires.** Prenuvo écrit que son option cœur « ne diagnostique pas de maladie cardiaque et n'identifie pas d'artères bouchées », et que le scan corps entier n'est pas synchronisé au rythme cardiaque, donc inadapté à la mesure précise du cœur (site Prenuvo, consulté le 2026-10-16).\n- **Pour le risque coronarien en prévention primaire, l'outil évalué est le score calcique au scanner (CAC)** : il améliore la discrimination de +0,036 de statistique C par rapport au calculateur de risque seul [A, méta-analyse de 6 cohortes, observationnelle] (PMID 35467692). Voir [ApoB, lipides et statines](fiche:apob-lipides-et-statines).\n- **Cancer : 1,57 % de cancers confirmés** chez des asymptomatiques scannés (10 études, 9 024 sujets), avec des protocoles non standardisés, un risque de biais modéré à sérieux, et aucune donnée de survie ni de coût-efficacité [A, risque de biais]. (PMID 40884613).\n- **Faux positifs et découvertes fortuites** : le principal coût de l'examen, pas son bénéfice.\n- **Aucun essai randomisé ne montre qu'une IRM corps entier de dépistage réduit la mortalité ou les événements** [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- IRM corps entier : séquences sans rayonnement ionisant ni contraste (sans produit de contraste, selon Prenuvo, consulté le 2026-10-16). Elle voit tumeurs, kystes, anévrismes volumineux, atteintes osseuses ; l'imagerie des coronaires demande en général une acquisition dédiée synchronisée au rythme cardiaque, ce que Prenuvo dit ne pas faire dans le scan corps entier ; détail technique non sourcé ici [?].\n- **Option « Advanced Heart Health » de Prenuvo** : analyse de la déformation du myocarde (strain, logiciel MyoStrain), score « MyoHealth », fraction d'éjection estimée. Elle mesure la contraction du muscle, pas la plaque ni la sténose. Prenuvo précise que le logiciel est autorisé par la FDA et que l'option ne diagnostique pas de maladie cardiaque (site Prenuvo et presse spécialisée AuntMinnie, consultés le 2026-10-16 ; autorisation non vérifiée sur la base FDA). Aucune validation indépendante du strain comme dépistage de l'asymptomatique n'a été trouvée dans cette recherche [?].\n- Le score calcique mesure le calcium des plaques, donc la charge athéromateuse cumulée, par scanner non injecté.",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Score calcique en plus du calculateur de risque | 6 cohortes, 17 961 sujets, 1 043 événements : gain de statistique C +0,036 (IC 0,020-0,052) ; 85,5 à 96,4 % des sujets reclassés « à risque » par le CAC alors qu'ils étaient « bas » n'ont pas eu d'événement à 5-10 ans | [A, observationnelle] (PMID 35467692) |\n| IRM corps entier : cancers en population asymptomatique | Détection confirmée 1,57 % (IC 1,22-2,03), 10 études, 9 024 sujets ; données de survie et de coût-efficacité absentes | [A, risque de biais modéré à sérieux] (PMID 40884613) |\n| IRM corps entier : découvertes fortuites | 12 études, 5 373 sujets : trouvailles critiques ou indéterminées 32,1 % (IC 18,3-50,1, hétérogénéité I² > 95 %) ; faux positifs 16,0 % (IC 1,9-65,8) dans 6 études ; aucune vérification des IRM négatives au-delà de 5 ans | [A, hétérogène] (PMID 30932247) |\n| Dépistage commercial IRM + bilan cardiologique | 3 603 sujets : 11,2 % avec anomalie à explorer, 19 cancers parmi les anomalies IRM confirmées ; 40,9 % des recommandations de consultation non suivies pendant l'étude | [B, cohorte prospective, sans groupe témoin] (PMID 33216779) |\n| Retentissement psychologique | Cohorte populationnelle (855 sujets) : pas de différence à 4 ans entre participants avec et sans découverte fortuite ; les participants avaient déjà moins de charge psychosociale (biais de sélection) | [B, cohorte] (PMID 36292045) |\n| Réduction de la mortalité ou des événements coronariens par IRM corps entier | Aucune donnée | [?] |\n| Imagerie des coronaires par IRM en dépistage de l'asymptomatique | Non recherché de façon exhaustive : une recherche PubMed ciblée n'a trouvé qu'une étude de prévalence d'athérosclérose par IRM corps entier + angio-IRM (PMID 22836780), non lue | [?] |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- **Débutant** : calculer le risque cardiovasculaire (SCORE2) avec tension, LDL/ApoB, tabac, diabète ; voir [prévention AVC et infarctus](fiche:prevention-avc-et-infarctus).\n- **Intermédiaire** : discuter avec un médecin de modificateurs de risque, dont le score calcique, si le risque est intermédiaire ou si la décision de traiter est incertaine (recommandations ESC/EAS 2025 : voir [ApoB, lipides et statines](fiche:apob-lipides-et-statines)).\n- **Avancé** : pour une IRM corps entier hors indication (syndromes génétiques comme Li-Fraumeni, surveillance oncologique, myélome), une indication médicale existe ; une méta-analyse du dépistage par IRM corps entier chez les porteurs de mutations TP53 existe (PMID 38592011, résumé non lu). Pour l'asymptomatique sans facteur de risque héréditaire, la valeur d'un examen payant à titre privé n'est pas démontrée.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Croire qu'un « scan corps entier » normal exclut une maladie coronarienne : il n'évalue pas les artères, selon Prenuvo lui-même.\n- Confondre l'analyse du strain myocardique avec la recherche de plaque ou de sténose.\n- Passer l'examen sans plan de suivi : 40,9 % des consultations recommandées n'ont pas eu lieu dans l'étude commerciale (PMID 33216779).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Détecte des centaines de conditions » : formulation du site (consulté le 2026-10-16) ; le taux de cancers confirmés est de 1,57 % dans les études en asymptomatiques (PMID 40884613).\n- « Sans radiation, donc sans risque » : l'absence de rayonnement ne couvre pas le risque de cascade diagnostique (examens complémentaires, biopsies, anxiété) lié aux faux positifs (PMID 30932247).\n- « FDA-cleared » : la mention porte sur des modules logiciels (analyse de composition corporelle, cerveau, strain cardiaque) et pas sur le scan corps entier lui-même (site Prenuvo, consulté le 2026-10-16). Un logiciel autorisé n'est pas une preuve de bénéfice en dépistage.\n- Les revues récentes concluent que le bénéfice sur la mortalité reste incertain (PMID 42497490) et rappellent que l'American College of Radiology ne recommande pas l'IRM corps entier chez les asymptomatiques, en raison du surdiagnostic (PMID 42107454).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Les trouvailles sont d'autant plus fréquentes que le protocole inclut le cœur, les vaisseaux ou le côlon : 49,7 % contre 23,0 % (PMID 30932247).\n- Prenuvo apparaît comme affiliation dans des publications sur les volumes cérébraux (PMID 38073389, recherche par affiliation) ; conflits d'intérêts de chaque étude : non relevés ici [?].",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Douleur thoracique, essoufflement à l'effort, malaise : consulter sans passer par un examen de dépistage. L'exploration d'une suspicion de coronaropathie relève du cardiologue (ECG, épreuve d'effort, scanner coronaire, IRM de stress selon le cas).\n- Antécédents familiaux de maladie coronarienne précoce, diabète, LDL très élevé : en parler au médecin pour un bilan de risque.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- Prix et disponibilité en France : Prenuvo ne liste que l'Amérique du Nord, l'Australie et le Royaume-Uni (site, consulté le 2026-10-16). Prix : « à partir de 1 199 $ » sur la page d'accueil ; prix de l'option cœur non fiable (1 page indique 8 888 $ sans contexte), à vérifier [?].\n- Statut réglementaire français de l'IRM de dépistage sans indication (HAS, ANSM) : non consulté [?].\n- Précision diagnostique de l'IRM de perfusion sous stress pour la maladie coronarienne symptomatique (PMID 29196090, PMID 37914512) : références trouvées, non lues.\n- Recommandations ESC 2025 sur le calcium coronaire : seulement relayées par la fiche [ApoB, lipides et statines](fiche:apob-lipides-et-statines).",
+   "titre": "Non recherché / à approfondir"
+  },
+  {
+   "markdown": "1. Martins da Fonseca J et al. *Eur Radiol* 2026 — PMID 40884613\n2. Kwee RM et al. *J Magn Reson Imaging* 2019 — PMID 30932247\n3. Hommes D et al. *PLoS One* 2020 — PMID 33216779\n4. Korbmacher-Böttcher D et al. *Diagnostics (Basel)* 2022 — PMID 36292045\n5. Bell KJL et al. *JAMA Intern Med* 2022 — PMID 35467692\n6. Lee J et al. *Clin Imaging* 2026 — PMID 42497490\n7. Lee M et al. *Clin Imaging* 2026 — PMID 42107454\n8. Laible M et al. *Insights Imaging* 2012 — PMID 22836780 (titre vérifié, résumé non lu)\n9. Kiaos A et al. *Int J Cardiol* 2018 — PMID 29196090 (titre vérifié, résumé non lu)\n10. Arai AE et al. *J Am Coll Cardiol* 2023 — PMID 37914512 (titre vérifié, résumé non lu)\n11. Raji CA et al. *J Alzheimers Dis* 2024 — PMID 38073389 (affiliation Prenuvo : titre vérifié par la recherche, affiliation non relue)\n12. Temperley HC et al. *J Clin Med* 2024 — PMID 38592011 (titre vérifié, résumé non lu)\n13. Prenuvo, pages d'accueil, tarifs et « heart health scan » (consultées le 2026-10-16) ; AuntMinnie, intégration du logiciel MyoStrain (consulté le 2026-10-16).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "IRM corps entier (Prenuvo) et maladie coronarienne",
+ "type": "condition",
+ "unite": ""
+}

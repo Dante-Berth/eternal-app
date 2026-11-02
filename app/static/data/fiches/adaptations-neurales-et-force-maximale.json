@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "comportement",
+ "id": "adaptations-neurales-et-force-maximale",
+ "intro": "Complément de [entrainement-en-resistance.md](fiche:entrainement-en-resistance) (dont le mécanisme neural était non détaillé) et de [entrainement-de-puissance-et-vitesse.md](fiche:entrainement-de-puissance-et-vitesse). Contexte : [systeme-nerveux-et-vieillissement-musculaire.md](fiche:systeme-nerveux-et-vieillissement-musculaire), [entrainement-moteur-cognitif-et-coordination.md](fiche:entrainement-moteur-cognitif-et-coordination), [equilibre-mobilite-et-prevention-chutes.md](fiche:equilibre-mobilite-et-prevention-chutes).",
+ "liens": [
+  "entrainement-de-puissance-et-vitesse",
+  "entrainement-en-resistance",
+  "entrainement-moteur-cognitif-et-coordination",
+  "equilibre-mobilite-et-prevention-chutes",
+  "systeme-nerveux-et-vieillissement-musculaire"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 20,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "9459538",
+  "33774145",
+  "36223874",
+  "41823343",
+  "39235953",
+  "16464122",
+  "15699535",
+  "11268027",
+  "16129898",
+  "42088684",
+  "28936703",
+  "42323824",
+  "42410073",
+  "28630570",
+  "17190532",
+  "29446711",
+  "34618979",
+  "32681665",
+  "9171971",
+  "22659151"
+ ],
+ "preuve_globale": "A",
+ "resume": "La force augmente avant le muscle : chez 19 jeunes femmes, la force progresse dès 10 sem. alors que la masse maigre des jambes et du tronc n'augmente qu'entre 10 et 20 sem. [B, petit essai contrôlé] (PMID 9459538).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- La force augmente avant le muscle : chez 19 jeunes femmes, la force progresse dès 10 sem. alors que la masse maigre des jambes et du tronc n'augmente qu'entre 10 et 20 sem. [B, petit essai contrôlé] (PMID 9459538).\n- Chez les >= 50 ans, la musculation augmente l'activation volontaire (SMD 0,54 ; 27 ECR) mais pas l'EMG maximal ni la co-contraction antagoniste [A] (PMID 33774145).\n- Chez les âgés, force, RFD et activation musculaire augmentent en 2-12 sem. ; preuve limitée pour l'activation volontaire et l'excitabilité spinale [A, méta-analyse 20 études + synthèse 36] (PMID 36223874).\n- Les unités motrices des âgés s'adaptent comme celles des jeunes : après 4 sem., force +17,6 %, décharge au recrutement +8,2 % [B, n = 23] (PMID 41823343).\n- Cross-education : l'entraînement d'un membre augmente la force du membre non entraîné (SMD 0,59 pour le 1RM, 29 études) [A] (PMID 39235953).\n- Ce que mesure exactement la part neurale reste incertain ; la plupart des preuves sont indirectes [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Hypothèses : commande corticale accrue, fréquence de décharge des unités motrices, doublets, synchronisation, désinhibition, co-contraction antagoniste. Une revue note que la synchronisation n'est pas démontrée et que l'optimisation par le SNC (force vs stabilité articulaire) est inconnue [B, revue narrative] (PMID 16464122).\n- Fréquence de décharge : chez les âgés, la décharge maximale est plus basse (17,8 vs 24,7 pps) mais augmente de 49 % en 6 sem. (jeunes +15 %), avec force +36 % vs +29 % ; l'effet apparaît dès 1 semaine de tests répétés [B, n = 15] (PMID 15699535). Autre essai : décharge maximale +23 % (âgés) à 2 jours puis retour à la base, force +33 % ; lecture « désinhibition puis autre mécanisme » [B, n = 12] (PMID 11268027). Revue : lien avec la phase précoce de l'entraînement [B] (PMID 16129898).\n- Co-contraction : chez 27 sujets âgés, 8 sem. de musculation ou d'imagerie motrice baissent l'indice de co-contraction relatif sans changer l'activité antagoniste absolue [B, n = 27] (PMID 42088684). La méta-analyse d'ECR ne trouve aucun effet sur la co-activation (PMID 33774145) : les deux sont compatibles avec une faible contribution de ce mécanisme.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Tag |\n|---|---|---|\n| Gain de force sans hypertrophie initiale | force en hausse avant la masse maigre (exercice complexe : hypertrophie retardée) | [B] (PMID 9459538) |\n| Adaptations neuromusculaires, >= 50 ans | VA SMD 0,54 (0,01-1,07) ; EMG et co-activation sans effet | [A, hétérogène] (PMID 33774145) |\n| Cortex, moelle, muscle, âgés | force, RFD, activation : preuve forte ; VA et excitabilité spinale : limitée | [A] (PMID 36223874) |\n| Unités motrices âgés vs jeunes | décharge au recrutement +8,2 %, au plateau +11,3 % ; corrélée au gain de force (r 0,54-0,57) ; seuils inchangés | [B] (PMID 41823343) |\n| Cross-education, membres inférieurs | 1RM SMD 0,59, MVC 0,55 ; seul l'excentrique augmente le couple isométrique | [A] (PMID 39235953) |\n| Cross-education, effet global | +11,9 % (31 études, 785 sujets, biais élevé) ; excentrique +17,7 % | [A, biais élevé] (PMID 28936703) |\n| Cross-education, membre supérieur | MVC SMD 0,42, 1RM 0,36 ; épaisseur musculaire non significative ; certitude faible à très faible | [A, faible certitude] (PMID 42323824) |\n| Cross-education en pathologie (24 études) | force max ES 0,654 ; fort effet en post-AVC et en immobilisation ; pas d'effet pour les patients musculo-squelettiques | [A] (PMID 42410073) |\n| Cross-education et charge | effet lié aux séries excentriques rapides, 3 x 10, repos 2 min ; non relié au volume absolu ni à l'intensité relative (10 études, 409 sujets) | [A, petit corpus] (PMID 28630570) |\n| Cross-education, mécanismes | hypothèse spinale/corticale ou apprentissage moteur ; mécanisme inconnu | [B, revue] (PMID 17190532) |\n| Cross-education, signal neural | EMG et MEP non modifiés ; durée de silence cortical et SICI diminuent | [A, signal limité] (PMID 29446711) |\n| Charges lourdes vs légères pour la force | essai >= 65 ans : 80 % 1RM plus efficace pour 1RM et force théorique que 40 % | [B] (PMID 34618979) |\n| Charges lourdes vs légères (méta-analyse) | voir la fiche [entrainement-en-resistance.md](fiche:entrainement-en-resistance) (tendance non significative en faveur de la charge lourde) | [A, faible puissance] |\n| Perte de vitesse par série (jeunes entraînés, n = 64) | VL0 améliore le RFD précoce, VL50 augmente la surface musculaire, force dynamique sans différence | [B, ECR unique n=64] (PMID 32681665) |\n| Désentraînement 12 sem., hommes 65-77 ans | perte de 29,9 % du gain de force, surface des fibres revenue à la base, force récupérée en 8 sem. | [B, n = 11] (PMID 9171971) |\n| Désentraînement 6 sem., femmes 65 ans | force -18 à -24 %, puissance -2 à -4,5 % ; niveau > pré-entraînement | [B, n = 37] (PMID 22659151) |\n| Fréquence d'entraînement pour la force | rendements décroissants (voir [entrainement-en-resistance.md](fiche:entrainement-en-resistance)) | [A] |\n| Spécificité (angle, type de contraction) | cross-education plus forte quand entraînement et test coïncident (ES 1,072 vs 0,542, tous deux significatifs) | [A] (PMID 42410073) |\n| Part neurale chiffrée jeunes vs âgés | non quantifiée de façon comparable | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « Vos gains de début sont tous du muscle » : les données suggèrent que la force précède la masse [B] (PMID 9459538).\n- « Après 60 ans le système nerveux ne s'adapte plus » : les unités motrices s'adaptent comme chez les jeunes à court terme [B] (PMID 41823343, 15699535).\n- « Il faut soulever lourd pour la force » : plausible mais non tranché chez les âgés ; différence non significative entre 40 % et 80 % pour plusieurs critères [B] (PMID 34618979).\n- « Le cross-education remplace la rééducation » : preuve de qualité faible à modérée, nulle chez les patients musculo-squelettiques (PMID 42410073, 42323824).\n- Gadgets de « neuro-activation », stimulants « nootropes de force » : aucune étude vérifiée ici [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Charges maximales : risque musculo-squelettique et pression artérielle ; l'essai de 4 sem. chez les âgés utilise une contraction isométrique supervisée (PMID 41823343) ; incidence des blessures non sourcée [?].\n- Le cross-education a été étudié sous immobilisation ; ne pas s'immobiliser volontairement. Risque d'entraînement unilatéral déséquilibré : non sourcé [?].\n- Fatigue neurale, surentraînement : non sourcé [?].",
+   "titre": "Sécurité, contre-indications"
+  },
+  {
+   "markdown": "Faiblesse asymétrique, perte de force brutale, tremblements, fasciculations, troubles de coordination ou de sensibilité (autre cause neurologique qu'un simple désentraînement), douleur thoracique à l'effort.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 9459538 : Chilibeck PD et al., Eur J Appl Physiol 1998, [DOI](https://doi.org/10.1007/s004210050316).\n- PMID 33774145 : James E et al., Exp Gerontol 2021, [DOI](https://doi.org/10.1016/j.exger.2021.111320).\n- PMID 36223874 : Siddique U et al., Ageing Res Rev 2022, [DOI](https://doi.org/10.1016/j.arr.2022.101746).\n- PMID 41823343 : Casolo A et al., J Physiol 2026, [DOI](https://doi.org/10.1113/JP290541).\n- PMID 16464122 : Gabriel DA et al., Sports Med 2006, [DOI](https://doi.org/10.2165/00007256-200636020-00004).\n- PMID 15699535 : Kamen G et al., J Gerontol A 2004, [DOI](https://doi.org/10.1093/gerona/59.12.1334).\n- PMID 11268027 : Patten C et al., Muscle Nerve 2001, [DOI](https://doi.org/10.1002/mus.1038).\n- PMID 16129898 : Kamen G, Appl Physiol Nutr Metab 2005, [DOI](https://doi.org/10.1139/h05-126).\n- PMID 42088684 : Yao WX et al., Front Psychol 2026, [DOI](https://doi.org/10.3389/fpsyg.2026.1817866).\n- PMID 39235953 : Altheyab A et al., Exp Physiol 2024, [DOI](https://doi.org/10.1113/EP091881).\n- PMID 28936703 : Manca A et al., Eur J Appl Physiol 2017, [DOI](https://doi.org/10.1007/s00421-017-3720-z).\n- PMID 42323824 : Hernando-Garijo I et al., Physiother Theory Pract 2026, [DOI](https://doi.org/10.1080/09593985.2026.2689440).\n- PMID 42410073 : Valdés O et al., Sports Med 2026, [DOI](https://doi.org/10.1007/s40279-026-02476-7).\n- PMID 28630570 : Cirer-Sastre R et al., J Sports Sci Med 2017 (pas de DOI dans la notice PubMed ; PMC5465979).\n- PMID 17190532 : Lee M, Carroll TJ, Sports Med 2007, [DOI](https://doi.org/10.2165/00007256-200737010-00001).\n- PMID 29446711 : Manca A et al., J Appl Physiol 2018, [DOI](https://doi.org/10.1152/japplphysiol.01016.2017).\n- PMID 34618979 : Rodriguez-Lopez C et al., Scand J Med Sci Sports 2021, [DOI](https://doi.org/10.1111/sms.14073).\n- PMID 32681665 : Pareja-Blanco F et al., Scand J Med Sci Sports 2020, [DOI](https://doi.org/10.1111/sms.13775).\n- PMID 9171971 : Taaffe DR, Marcus R, Clin Physiol 1997, [DOI](https://doi.org/10.1111/j.1365-2281.1997.tb00010.x).\n- PMID 22659151 : Pereira A et al., Exp Gerontol 2012, [DOI](https://doi.org/10.1016/j.exger.2012.05.014).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Adaptations neurales et force maximale",
+ "type": "actif",
+ "unite": ""
+}

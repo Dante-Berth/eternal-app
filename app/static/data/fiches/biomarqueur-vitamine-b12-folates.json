@@ -1,0 +1,110 @@
+{
+ "cibles": [
+  "prevention",
+  "cerveau",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-vitamine-b12-folates",
+ "intro": "Fiche « examen ». Traitement, voies, doses et plafonds des compléments : [vitamine B12 et folates](fiche:vitamine-b12-et-folates). Le dosage de l'homocystéine, souvent associé : [homocystéine](fiche:biomarqueur-homocysteine). Anémie et VGM : [NFS et anémie](fiche:biomarqueur-nfs-hemoglobine-anemie) ; RDW : [RDW](fiche:biomarqueur-rdw-hemogramme) ; carence en fer : [fiche fer](fiche:biomarqueur-fer-ferritine-transferrine). Régimes : [végétarien/végétalien](fiche:regime-vegetarien-vegetalien) ; médicament : [metformine](fiche:metformine).",
+ "liens": [
+  "biomarqueur-fer-ferritine-transferrine",
+  "biomarqueur-homocysteine",
+  "biomarqueur-nfs-hemoglobine-anemie",
+  "biomarqueur-rdw-hemogramme",
+  "biotine",
+  "maladie-coeliaque-et-intolerances",
+  "metformine",
+  "regime-vegetarien-vegetalien",
+  "vitamine-b12-et-folates"
+ ],
+ "marqueurs": [
+  "b12",
+  "holotranscobalamine",
+  "acide-methylmalonique",
+  "folates",
+  "homocysteine"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 13,
+ "nb_seuils": 16,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "25470607",
+  "24942828",
+  "31193945",
+  "27680995",
+  "32567529",
+  "27916823",
+  "42109795",
+  "25756278",
+  "26900641",
+  "39373282",
+  "29543316",
+  "42184486",
+  "33809274"
+ ],
+ "preuve_globale": "B",
+ "resume": "Il n'existe pas de seuil consensuel de carence en B12 : sur 69 études, les seuils utilisés vont de 100 à 350 pmol/L pour la B12, de 20 à 50 pmol/L pour l'holotranscobalamine (holoTC), de 0,210 à 0,470 µmol/L pour l'acide méthylmalonique (MMA) [B, revue de la littérature] (PMID 25470607). Le comit…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Il n'existe pas de seuil consensuel de carence en B12** : sur 69 études, les seuils utilisés vont de 100 à 350 pmol/L pour la B12, de 20 à 50 pmol/L pour l'holotranscobalamine (holoTC), de 0,210 à 0,470 µmol/L pour l'acide méthylmalonique (MMA) [B, revue de la littérature] (PMID 25470607). Le comité britannique écrit qu'aucune valeur seuil définitive n'est possible et que le contexte clinique prime (PMID 24942828).\n- **Stratégie usuelle** : B12 sérique en première intention ; MMA (ou holoTC) en seconde intention pour trancher les valeurs intermédiaires ; l'homocystéine est moins spécifique que le MMA (British Committee for Standards in Haematology, PMID 24942828).\n- **Zone grise** : B12 de 140 à 300 pmol/L (≈ 190 à 406 pg/mL), où un MMA ou une homocystéine élevé aide à poser le diagnostic ; des patients symptomatiques peuvent avoir une B12 supérieure à 140 pmol/L (PMID 31193945).\n- **Un dosage normal n'exclut pas la carence** : dans une étude citée par la revue, 25 % des patients avec anémie de Biermer avaient une B12 faussement normale (interférence d'anticorps possible) (PMID 31193945) ; des compléments pris avant le prélèvement relèvent la B12 sérique sans corriger la carence tissulaire (PMID 31193945).\n- **Folates** : le folate sérique a la même valeur diagnostique que le folate érythrocytaire, qui n'apporte pas plus (PMID 24942828) ; seuils de risque de carence : sérique < 7 nmol/L, érythrocytaire < 305 nmol/L (anémie mégaloblastique), et érythrocytaire < 906 nmol/L pour le risque d'anomalie du tube neural chez la femme de 12 à 49 ans (PMID 27680995).\n- **Piège** : l'acide folique à forte dose peut corriger l'anémie de la carence en B12 en laissant progresser l'atteinte neurologique (voir [fiche actif](fiche:vitamine-b12-et-folates)).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **B12 sérique (cobalamine totale)** : B12 totale du sérum (haptocorrine et transcobalamine confondues) ; dépend de la technique et peut mal refléter l'état tissulaire (PMID 24942828, PMID 31193945).\n- **Holotranscobalamine (holoTC, « B12 active »)** : forme biologiquement active de la B12 dans le plasma (PMID 31193945) ; possible test de première intention mais avec une zone indéterminée large et des valeurs dépendant du dosage (PMID 24942828, PMID 31193945).\n- **Acide méthylmalonique (MMA)** : s'accumule quand la B12 manque au niveau cellulaire ; test de seconde intention (PMID 24942828).\n- **Homocystéine** : monte en cas de carence en B12 ou en folates, mais aussi pour d'autres raisons ; moins spécifique que le MMA (PMID 24942828).\n- **Folate sérique** et **folate érythrocytaire** : reflètent respectivement l'apport récent et le statut sur ≈ 3 mois (durée non sourcée ici [?]).\n- Les dosages immunologiques sont sensibles aux interférences : la biotine à haute dose fausse notamment la B12 (PMID 32567529).",
+   "titre": "Ce que mesure l'examen"
+  },
+  {
+   "markdown": "Conversions : B12 1 pmol/L ≈ 1,355 pg/mL (1 pg/mL ≈ 0,738 pmol/L, masse molaire de la cyanocobalamine ≈ 1 355 g/mol) ; MMA 1 µmol/L = 1 000 nmol/L ; folates 1 ng/mL ≈ 2,27 nmol/L (masse molaire de l'acide folique ≈ 441 g/mol) ; homocystéine en µmol/L. Les conversions sont des constantes de chimie, non issues d'un document cité. **Les laboratoires français rendent souvent la B12 en pg/mL ou ng/L et les folates en ng/mL** : se référer d'abord aux bornes du compte rendu ; le seuil français officiel (HAS) de carence en B12 n'a pas été retrouvé [?]. Les seuils ci-dessous sont des **seuils d'études ou de centres, pas des recommandations officielles**.\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| B12 sérique | pmol/L | < 140 | sous la limite basse de référence (déficit probable) | Adulte | Wolffenbuttel, Mayo Clin Proc IQO 2019 (PMID 31193945), limite de référence citée |\n| B12 sérique | pmol/L | 140–300 | zone indéterminée (« borderline ») ; MMA et/ou homocystéine pour confirmer | Adulte | idem |\n| B12 sérique | pmol/L | 100 à 350 (selon les études) | éventail des seuils de carence publiés | Adulte | Aparicio-Ugarriza, Clin Chem Lab Med 2015 (PMID 25470607) |\n| Holotranscobalamine | pmol/L | < 27 | déficit vrai (selon le dosage) | Adulte | PMID 31193945 (dépend de la méthode) |\n| Holotranscobalamine | pmol/L | 23–75 | zone indéterminée : MMA pour trancher | Adulte | idem |\n| Holotranscobalamine | pmol/L | 20 à 50 (selon les études) | éventail des seuils publiés | Adulte | PMID 25470607 |\n| Acide méthylmalonique | nmol/L | > 300 | élévation (déficit fonctionnel en B12) | Adulte | PMID 31193945 |\n| Acide méthylmalonique | nmol/L | > 271 à > 376 | éventail des seuils publiés (271 le plus utilisé) | Adulte | Rizzo, Nutrients 2016 (PMID 27916823) ; PMID 25470607 : 210 à 470 |\n| Homocystéine | µmol/L | > 10 | élevée (valeur de référence du centre ; non spécifique) | Adulte | PMID 31193945 ; éventail publié : 10 à 21,6 (PMID 25470607) ; voir [homocystéine](fiche:biomarqueur-homocysteine) |\n| Folate sérique | nmol/L | < 7 | risque de carence (anémie mégaloblastique), dosage microbiologique | ≥ 4 ans | Pfeiffer, Am J Clin Nutr 2016 (PMID 27680995) |\n| Folate sérique | nmol/L | < 10 | carence possible (homocystéine en hausse), dosage radioprotéique | ≥ 4 ans | idem |\n| Folate érythrocytaire | nmol/L | < 305 | risque de carence (anémie mégaloblastique), dosage microbiologique | ≥ 4 ans | idem |\n| Folate érythrocytaire | nmol/L | < 340 | carence possible (homocystéine en hausse), dosage radioprotéique | ≥ 4 ans | idem |\n| Folate érythrocytaire | nmol/L | < 906 | insuffisance : risque élevé d'anomalie du tube neural | Femme de 12 à 49 ans | idem |\n| Folate (sérique) | nmol/L | éventail 3,7 à 15,9 ; érythrocytaire 124 à 397 | seuils de carence publiés dans 69 études | Adulte | PMID 25470607 |\n| Apport adéquat en B12 | µg/jour | 4 | apport associé à des biomarqueurs dans les plages de référence | Adulte | EFSA 2015 (PMID 42109795) ; pas un seuil sanguin |",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Existe-t-il un seuil consensuel ? | Non : seuils de B12 de 100 à 350 pmol/L, d'holoTC de 20 à 50 pmol/L, de MMA de 0,210 à 0,470 µmol/L, d'homocystéine de 10 à 21,6 µmol/L ; l'âge, la technique, le sexe et l'enrichissement alimentaire sont rarement pris en compte | [B, revue de 69 études] (PMID 25470607) |\n| Meilleur test de première intention | B12 sérique reste le test initial ; holoTC « potentiel » mais zone grise ; pas d'étalon-or | [B, recommandation d'experts] (PMID 24942828) |\n| HoloTC contre MMA | 63 % des personnes avec holoTC bas (< 27 pmol/L) ont un MMA normal ; 9 % de celles avec holoTC > 63 ont un MMA élevé (> 300 nmol/L) : l'holoTC n'est pas clairement supérieur à B12 + MMA | [B, revue narrative] (PMID 31193945) |\n| MMA et homocystéine chez les personnes à B12 basse | Élevés (MMA > 300 nmol/L, Hcy > 10 µmol/L) chez seulement 73 % des personnes à B12 sérique basse | [B, cité dans la revue] (PMID 31193945) |\n| Dépistage chez la personne âgée | Pas de consensus ni de recommandation de dépistage de masse ; pas d'étalon-or | [B, revue] (PMID 25756278) |\n| Folate sérique contre érythrocytaire | Même capacité diagnostique ; le sérique est le test de première intention | [B, recommandation d'experts] (PMID 24942828) |\n| Metformine | B12 ≤ 203 pg/mL chez 4,3 % sous metformine contre 2,3 % sous placebo à 5 ans ; limite haute de la zone limite (≤ 298 pg/mL) : 19,1 % contre 9,5 % ; risque × 1,13 par année de metformine | [B, analyse secondaire d'ECR] (PMID 26900641) |\n| Végans | B12 sérique plus basse, homocystéine plus haute (+ 0,57 µmol/L), MMA plus élevée et holoTC plus basse sans significativité (p = 0,06 ; p = 0,09) | [A, observationnel, 17 études] (PMID 39373282) |\n| Traitement d'une carence : orale ou injectable | 1 000 µg/j oral, B12 sanguine sans différence cliniquement pertinente contre l'IM ; critères cliniques non rapportés | [A, faible certitude] (PMID 29543316) |\n| VGM comme signal de carence en B12 | Chez des adultes carencés, la médiane du VGM des carences non pernicieuses était normocytaire | [B, rétrospectif, n = 270] (PMID 42184486) |",
+   "titre": "Ce que dit la preuve (valeur prédictive, utilité clinique)"
+  },
+  {
+   "markdown": "- **Compléments de B12 pris avant le prélèvement** : une dose de 10 µg/j peut élever la B12 sérique à plus de 200 pmol/L chez les plus de 65 ans ; le taux monte mais pas forcément le statut tissulaire (PMID 31193945). Voir [B12 et folates](fiche:vitamine-b12-et-folates).\n- **Biotine** : fausse notamment les dosages de B12 (PMID 32567529). Voir [biotine](fiche:biotine).\n- **Anticorps anti-facteur intrinsèque** : peuvent interférer et donner une B12 faussement normale (PMID 31193945).\n- **Médicaments** : [metformine](fiche:metformine) (PMID 26900641) ; inhibiteurs de la pompe à protons, anti-H2, antiacides (PMID 31193945) ; psyllium à l'absorption (voir [fiche actif](fiche:vitamine-b12-et-folates)).\n- **Régime** : végans (PMID 39373282) ; voir [régime végétarien/végétalien](fiche:regime-vegetarien-vegetalien).\n- **Maladies** : maladie cœliaque ([cœliaque](fiche:maladie-coeliaque-et-intolerances)), maladie de Biermer, chirurgie bariatrique (60 % de carence rapportée, définie par MMA > 300 nmol/L, cité dans PMID 31193945).\n- **Âge** : les personnes âgées sont à risque de malabsorption de la B12 liée aux aliments (PMID 25756278).\n- **Insuffisance rénale** (MMA et homocystéine montent) : non recherché dans les sources relues [?].\n- **Jeûne, heure du prélèvement, délai avant analyse** : non recherchés [?].\n- **Grossesse** : seuils de B12 et de folates en grossesse non retrouvés [?].\n- **Enrichissement alimentaire en acide folique** : change la prévalence de carence en folates d'une population (avant/après enrichissement aux États-Unis : < 1 % contre 5,6–7,4 % de risque de carence selon le dosage) (PMID 27680995).",
+   "titre": "Ce qui fait varier le résultat (leviers, médicaments, compléments, conditions de prélèvement)"
+  },
+  {
+   "markdown": "- **B12 basse (< 140 pmol/L)** ou **zone grise (140–300)** : MMA ± homocystéine pour confirmer (PMID 24942828, PMID 31193945) ; chercher la cause (régime, médicaments, malabsorption, Biermer) avec un médecin ; en cas de signes neurologiques évidents, le comité britannique écrit de ne pas retarder le traitement en attendant les résultats discordants (PMID 24942828).\n- **Traitement** : voie orale ou injectable décidée par le médecin ; l'oral à dose suffisante est aussi efficace sur la B12 sanguine [A, faible certitude] (PMID 29543316). La maladie de Biermer et les malabsorptions relèvent d'un avis médical (voir [fiche actif](fiche:vitamine-b12-et-folates)).\n- **Folates bas** : avant de prescrire de l'acide folique à forte dose, doser la B12 (masquage de l'atteinte neurologique, voir [fiche actif](fiche:vitamine-b12-et-folates)).\n- **Résultat normal avec symptômes évocateurs** : dosage de seconde intention (MMA) à discuter avec un médecin (PMID 31193945).\n- **Après traitement** : contrôle de la B12 / du MMA et de l'hémogramme ; fréquence non fixée par les sources relues [?].",
+   "titre": "Que faire d'un résultat anormal"
+  },
+  {
+   "markdown": "- Prélèvement veineux sur ordonnance. Dépistage de masse chez la personne âgée : pas de recommandation (PMID 25756278). À considérer en cas de régime végétalien, de metformine ou d'IPP prolongés, de malabsorption, de symptômes neurologiques ou hématologiques (macrocytose, anémie).\n- Cotation NABM et remboursement de la B12, des folates, du MMA, de l'holoTC : non relevés [?]. Disponibilité du MMA et de l'holoTC en France : non vérifiée [?] ; le comité britannique note que la disponibilité des tests de seconde intention est limitée (PMID 24942828).\n- Pas de fiche de bon usage HAS retrouvée sur la B12 et les folates (recherche web du 2026-11-01).",
+   "titre": "Qui, quand, comment (fréquence, remboursement)"
+  },
+  {
+   "markdown": "Actes de biologie médicale, sur prescription. Cotation, remboursement et recommandations HAS spécifiques : non retrouvés [?]. Statut des compléments et médicaments (BDPM, arrêté du 9 mai 2006, EFSA) : voir [vitamine B12 et folates](fiche:vitamine-b12-et-folates).",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Écarter une carence parce que la B12 est « dans la norme » alors que des compléments ont été pris ou que la zone est grise.\n- Utiliser le seuil d'un laboratoire pour interpréter les chiffres d'un autre (unités pg/mL ou pmol/L).\n- Prendre de l'acide folique sans avoir vérifié la B12.\n- Doser seulement l'homocystéine : non spécifique (PMID 24942828).\n- Se fier au VGM : une carence en B12 peut exister avec un VGM normal (PMID 42184486).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Une B12 sérique très élevée est signe de bonne santé »** : après compléments, elle monte sans prouver un bon statut tissulaire (PMID 31193945) ; des valeurs très élevées sans complément relèvent d'un bilan médical (cause non recherchée ici [?]).\n- **« Le test de l'holoTC est la B12 active donc le meilleur »** : zone indéterminée large et discordance avec le MMA (PMID 31193945, PMID 24942828).\n- **« Il faut viser une B12 > 500 pour la mémoire »** : aucun seuil de ce type n'est documenté ; sans carence, la B12 n'améliore ni cognition ni humeur [A] (PMID 33809274, voir [fiche actif](fiche:vitamine-b12-et-folates)).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Le seuil de carence en B12 varie de 100 à 350 pmol/L d'une étude à l'autre : le même chiffre peut être « normal » ou « carencé » selon la source (PMID 25470607).\n- Plus de la moitié des personnes à holoTC bas ont un MMA normal : les marqueurs « spécifiques » ne s'accordent pas (PMID 31193945).\n- Un dosage de B12 peut être faussement normal chez des patients atteints d'anémie de Biermer (PMID 31193945).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Fourmillements, engourdissement, troubles de l'équilibre ou de la mémoire avec B12 basse ou limite ; anémie macrocytaire ; B12 < 140 pmol/L (≈ 190 pg/mL) ou MMA > 300 nmol/L ; fatigue avec régime végétalien non supplémenté, metformine ou IPP au long cours ; femme enceinte ou projet de grossesse (folates).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 24942828 — Devalia V, Hamilton MS, Molloy AM; British Committee for Standards in Haematology, Guidelines for the diagnosis and treatment of cobalamin and folate disorders. *Br J Haematol* 2014. doi:10.1111/bjh.12959\n- PMID 31193945 — Wolffenbuttel BHR, Wouters HJCM, Heiner-Fokkema MR et al., The Many Faces of Cobalamin (Vitamin B12) Deficiency. *Mayo Clin Proc Innov Qual Outcomes* 2019. doi:10.1016/j.mayocpiqo.2019.03.002 (texte intégral en accès libre lu le 2026-11-01 ; les chiffres cités sont ceux de la revue, qui cite elle-même d'autres études)\n- PMID 25470607 — Aparicio-Ugarriza R et al., A review of the cut-off points for the diagnosis of vitamin B12 deficiency in the general population. *Clin Chem Lab Med* 2015. doi:10.1515/cclm-2014-0784\n- PMID 27916823 — Rizzo G et al., Vitamin B12 among Vegetarians: Status, Assessment and Supplementation. *Nutrients* 2016. doi:10.3390/nu8120767 (texte lu pour la plage de MMA)\n- PMID 27680995 — Pfeiffer CM et al., Applying inappropriate cutoffs leads to misinterpretation of folate status in the US population. *Am J Clin Nutr* 2016. doi:10.3945/ajcn.116.138529\n- PMID 25756278 — Wong CW, Vitamin B12 deficiency in the elderly: is it worth screening? *Hong Kong Med J* 2015. doi:10.12809/hkmj144383\n- PMID 32567529 — Moerman A, Delanghe JR, Sense and nonsense concerning biotin interference in laboratory tests. *Acta Clin Belg* 2022. doi:10.1080/17843286.2020.1780770\n- PMID 42184486 — Moreno-Mirón JM et al., Pernicious anemia predominates among Mexican adults with vitamin B12 deficiency. *Rev Invest Clin* 2026. doi:10.1016/j.ric.2026.100041\n- PMID 26900641 — Aroda VR et al., Long-term Metformin Use and Vitamin B12 Deficiency in the DPPOS. *J Clin Endocrinol Metab* 2016. doi:10.1210/jc.2015-3754\n- PMID 39373282 — Niklewicz A et al., A systematic review and meta-analysis of functional vitamin B12 status among adult vegans. *Nutr Bull* 2024. doi:10.1111/nbu.12712\n- PMID 29543316 — Wang H et al., Oral vitamin B12 versus intramuscular vitamin B12 for vitamin B12 deficiency. *Cochrane Database Syst Rev* 2018. doi:10.1002/14651858.CD004655.pub3\n- PMID 42109795 — EFSA NDA Panel, Scientific Opinion on Dietary Reference Values for cobalamin (vitamin B12). *EFSA J* 2015. doi:10.2903/j.efsa.2015.4150 (résumé relu)\n- PMID 33809274 — Markun S et al., *Nutrients* 2021 (repris de la fiche liée).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : vitamine B12 et folates (B12 sérique, holotranscobalamine, acide méthylmalonique, folates)",
+ "type": "biomarqueur",
+ "unite": ""
+}

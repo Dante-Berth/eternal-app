@@ -1,0 +1,80 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "selenium",
+ "intro": "",
+ "liens": [
+  "alimentation-cheveux",
+  "antioxydants-alimentaires-et-absorption",
+  "n-acetylcysteine",
+  "vitamine-c-orale",
+  "vitamine-e",
+  "zinc"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 10,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "29376219",
+  "23440843",
+  "17620655",
+  "22419320",
+  "21990298",
+  "36480969",
+  "38243784",
+  "27683225",
+  "36698500",
+  "22165838"
+ ],
+ "preuve_globale": "A",
+ "resume": "Oligo-élément essentiel, mais la supplémentation chez quelqu'un qui n'en manque pas ne prévient ni le cancer, ni les maladies cardiovasculaires, ni la mortalité, et peut nuire (cheveux, ongles, diabète possible). Marge entre apport utile et apport toxique étroite : limite supérieure EFSA 255 µg/j…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Oligo-élément essentiel, mais la supplémentation chez quelqu'un qui n'en manque pas ne prévient ni le cancer, ni les maladies cardiovasculaires, ni la mortalité, et peut nuire (cheveux, ongles, diabète possible). Marge entre apport utile et apport toxique étroite : limite supérieure EFSA 255 µg/jour pour l'adulte (2023).\n- Cancer : Cochrane 2018, 10 ECR (27 232 participants) ; essais à faible risque de biais : incidence de tout cancer RR 1,01 (IC 0,93-1,10), certitude élevée ; cancer de la prostate RR 1,01 (0,90-1,14) ; un possible excès de mélanome dans les essais à faible risque de biais [A] (PMID 29376219).\n- Maladies cardiovasculaires : Cochrane 2013, 12 essais (19 715 participants) : mortalité toutes causes RR 0,97 (0,88-1,08), événements CV RR 1,03 (0,95-1,11) ; hausse non significative du diabète de type 2 (RR 1,06 ; 0,97-1,15), alopécie en hausse (RR 1,28 ; 1,01-1,62) [A] (PMID 23440843).\n- Diabète : dans l'essai NPC (1 202 personnes, 200 µg/j, 7,7 ans), diabète de type 2 HR 1,55 (1,03-2,33), HR 2,70 (1,30-5,61) pour le tiers supérieur de sélénium plasmatique de départ [B, analyse secondaire d'ECR] (PMID 17620655).\n- Thyroïdite de Hashimoto : baisse des anticorps anti-TPO, mais effet sur les symptômes non démontré (voir tableau).\n- Un seul usage a un rationnel solide : corriger une carence documentée.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Constituant des sélénoprotéines (glutathion peroxydase, désiodases thyroïdiennes). Les carences, rares en Europe dans la population générale d'après les avis EFSA, entraînent des atteintes musculaires et cardiaques. Statut en France : l'ANSES (avis 2023-SA-0165) note que les données de composition des aliments en sélénium sont très incertaines et que des apports usuels dépassent la limite de sécurité chez une part des enfants (p. ex. 44,2 % des garçons et 24,5 % des filles de 1-3 ans au-dessus de la limite de 70 µg/j retenue pour cet âge, étude de consommation INCA3) ; prévalence de carence en adultes français : aucune donnée trouvée [?]. L'hypothèse antioxydante n'a pas été confirmée par les essais d'intervention (PMID 22419320, 29376219).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Prévention du cancer | 10 ECR, 27 232 participants ; ECR à faible risque de biais : tout cancer RR 1,01 (0,93-1,10), colorectal 0,99 (0,69-1,43), poumon 1,16 (0,89-1,50), vessie 1,07 (0,76-1,52), prostate 1,01 (0,90-1,14) ; possible excès de mélanome | [A] (PMID 29376219) |\n| Prévention du cancer de la prostate (SELECT) | Sélénium 200 µg/j (L-sélénométhionine), 35 533 hommes : HR 1,09 (IC 99 % 0,93-1,27) ; vitamine E HR 1,17 (1,004-1,36) ; association HR 1,05 | [B, ECR unique n=34 887] (PMID 21990298) |\n| Maladies cardiovasculaires, primaire | 12 essais : mortalité RR 0,97 (0,88-1,08), mortalité CV 0,97 (0,79-1,20), tout événement CV 1,03 (0,95-1,11) | [A] (PMID 23440843) |\n| Mortalité, tous antioxydants | 78 ECR : sélénium (17 essais, ECR à faible risque de biais) RR 0,97 (0,91-1,03) ; bêta-carotène RR 1,05 (1,01-1,09) et vitamine E RR 1,03 (1,00-1,05) augmentent la mortalité | [A] (PMID 22419320) |\n| Risque cardiovasculaire (méta-analyse de micronutriments) | Sélénium, vitamines C, D et E : aucun effet sur le risque cardiovasculaire ni le diabète de type 2 | [A] (PMID 36480969) |\n| Diabète de type 2 (prévention) | Essai NPC, 200 µg/j : HR 1,55 (IC 1,03-2,33) ; pas de bénéfice | [B, analyse secondaire d'ECR] (PMID 17620655) |\n| Thyroïdite de Hashimoto | 35 études : TSH SMD −0,21 (IC −0,43 à −0,02) chez les patients sans lévothyroxine ; anticorps anti-TPO SMD −0,96 (−1,36 à −0,56), I² = 90 % ; effets indésirables comparables (OR 0,89 ; 0,46-1,75). La méta-analyse de 2017 (9 essais contrôlés) ne trouve aucun effet sur la TSH, la qualité de vie ni l'échographie chez les patients sans lévothyroxine, certitude très faible à faible : les deux revues divergent sur la TSH | [A, anticorps seulement, hétérogène] (PMID 38243784, 27683225) |\n| Cheveux (chute) | Le sélénium en excès provoque une alopécie ; aucun essai de supplémentation sur la chute chez des sujets non carencés retrouvé | [?] (voir [alimentation et cheveux](fiche:alimentation-cheveux)) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais : 200 µg/j dans SELECT et dans NPC (PMID 21990298, 17620655). L'EFSA a tiré de SELECT son LOAEL de 330 µg/j (apport total) pour l'alopécie, puis la limite de 255 µg/j (PMID 36698500).\n- Compléments vendus : aucun relevé de produits fait ici ; dose et forme à lire sur l'étiquette. Pour comparaison, les essais utilisaient 200 µg/j, soit près de quatre fois le plafond français de 50 µg.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Médicaments (BDPM, consultés le 2026-10-14) : Sélénium Oligosol 100 µg/2 mL solution buvable (sélénite de sodium ; « modificateur du terrain » ; adulte ; non remboursé ; prix libre ; pas de preuve d'efficacité mentionnée) ; Sélénium Panpharma 100 µg injectable et Pediaven (nutrition parentérale) ; granions de sélénium.\n- Compléments alimentaires. Arrêté du 9 mai 2006 (Légifrance, version en vigueur, consulté le 2026-10-14) : formes admises (annexe II) sélénate de sodium, hydrogénosélénite de sodium, sélénite de sodium et levures enrichies en sélénium ; la sélénométhionine pure n'y figure pas (annexe II-C : substances autorisées dans un autre État membre) ; dose journalière maximale 50 µg par portion journalière recommandée (annexe III), non concernée par l'annulation partielle du Conseil d'État de 2011 (décision n° 295235, vitamines K, B1, B2, B5, B8 et B12). Projet d'actualisation : 150 µg proposé par la DGAL ; l'ANSES (avis du 31 juillet 2024, saisine 2023-SA-0165) estime que ce niveau expose la population adulte à un risque et que la dose ne devrait pas dépasser 67 µg (limite de sécurité 255 µg, prévalences de dépassement élevées chez l'enfant) ; réponse ministérielle de février 2025 : doses de 2006 inchangées (via recherche web, non relue). Allégations de santé autorisées pour le sélénium (règlement (UE) n° 432/2012) : non consultées [?].\n- Valeurs EFSA : limite supérieure 255 µg/j pour les adultes, y compris femmes enceintes et allaitantes, fondée sur l'alopécie ; les consommateurs réguliers de compléments à fortes doses ou de noix du Brésil peuvent dépasser cette limite ; compléments déconseillés sans besoin individuel chez l'enfant (PMID 36698500).\n- AMA : non concerné.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Signes précoces d'excès : alopécie, atteinte des ongles, troubles digestifs, troubles de la mémoire (PMID 36698500, 22165838) [B, séries de cas].\n- Cas d'intoxication : 9 patients ayant pris un complément liquide contenant presque 200 fois la quantité annoncée de sélénium ; dose cumulée moyenne 1,3 g en 37,5 jours ; sélénémie 150-732 µg/L ; symptômes dès la première semaine ; la FDA avait recensé 201 cas [B, série de cas] (PMID 22165838) : le risque est autant celui de la qualité du produit que de la dose étiquetée.\n- Diabète de type 2 : voir tableau (PMID 17620655).\n- Grossesse : le RCP de Sélénium Oligosol déconseille l'usage par précaution (BDPM) ; la limite EFSA de 255 µg/j s'applique aussi aux femmes enceintes et allaitantes (PMID 36698500). Interactions médicamenteuses, insuffisance rénale : aucune donnée trouvée dans les sources lues (BDPM, EFSA) [?].\n- Le sélénium est une cause de chute de cheveux quand il est en excès, pas un « anti-chute » ([cheveux et alimentation](fiche:alimentation-cheveux)).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Antioxydant qui protège du cancer » : Cochrane : RR 1,01 pour tout cancer, certitude élevée (PMID 29376219) ; risque de mélanome possiblement plus élevé.\n- « Cheveux, ongles, immunité » : aucun essai positif chez des sujets non carencés ; en excès, c'est l'inverse (PMID 36698500).\n- « Plus c'est mieux » : l'effet du sélénium sur le diabète est lié au statut de départ (HR 2,70 dans le tiers supérieur de sélénémie) (PMID 17620655).\n- « Pour la thyroïde » : réduit les anticorps anti-TPO, sans bénéfice clinique démontré (PMID 38243784, 27683225).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour. Voir aussi [vitamine E](fiche:vitamine-e), [vitamine C orale](fiche:vitamine-c-orale), [zinc](fiche:zinc), [antioxydants alimentaires](fiche:antioxydants-alimentaires-et-absorption), [N-acétylcystéine](fiche:n-acetylcysteine).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Vinceti et al. *Cochrane Database Syst Rev* 2018 — PMID 29376219 — [DOI](https://doi.org/10.1002/14651858.CD005195.pub4)\n2. Klein et al. *JAMA* 2011 — PMID 21990298 — [DOI](https://doi.org/10.1001/jama.2011.1437)\n3. Rees et al. *Cochrane Database Syst Rev* 2013 — PMID 23440843 — [DOI](https://doi.org/10.1002/14651858.CD009671.pub2)\n4. Bjelakovic et al. *Cochrane Database Syst Rev* 2012 — PMID 22419320 — [DOI](https://doi.org/10.1002/14651858.CD007176.pub2)\n5. An et al. *J Am Coll Cardiol* 2022 — PMID 36480969 — [DOI](https://doi.org/10.1016/j.jacc.2022.09.048)\n6. Stranges et al. *Ann Intern Med* 2007 — PMID 17620655 — [DOI](https://doi.org/10.7326/0003-4819-147-4-200708210-00175)\n7. Huwiler et al. *Thyroid* 2024 — PMID 38243784 — [DOI](https://doi.org/10.1089/thy.2023.0556)\n8. Winther et al. *Endocrine* 2017 — PMID 27683225 — [DOI](https://doi.org/10.1007/s12020-016-1098-z)\n9. EFSA NDA Panel, tolerable upper intake level for selenium, *EFSA J* 2023 — PMID 36698500 — [DOI](https://doi.org/10.2903/j.efsa.2023.7704)\n10. Aldosary et al. *Clin Toxicol* 2012 — PMID 22165838 — [DOI](https://doi.org/10.3109/15563650.2011.641560)\n11. Arrêté du 9 mai 2006 (annexes II et III) — https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000637294 — consulté le 2026-10-14.\n12. ANSES, avis saisine 2023-SA-0165, 31 juillet 2024 — https://www.anses.fr/fr/system/files/NUT2023SA0165.pdf — lu le 2026-10-14.\n13. BDPM, fichiers CIS_bdpm, CIS_COMPO_bdpm et page « extrait » de Sélénium Oligosol (CIS 63258786) — https://base-donnees-publique.medicaments.gouv.fr — consultés le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Sélénium",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,86 @@
+{
+ "cibles": [
+  "cheveux",
+  "hormones-sexualite"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "serenoa-et-graines-de-courge",
+ "intro": "",
+ "liens": [
+  "alimentation-cheveux",
+  "alopecie-androgenetique",
+  "boosters-de-testosterone",
+  "dutasteride",
+  "finasteride",
+  "minoxidil",
+  "zinc"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 10,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "22551330",
+  "33313047",
+  "41561175",
+  "24864154",
+  "31952967",
+  "34933534",
+  "36449274",
+  "33544448",
+  "19591529",
+  "16800417"
+ ],
+ "preuve_globale": "B",
+ "resume": "Prostate (HBP) : l'usage historique du *Serenoa repens*. La revue Cochrane de 2012 (17 ECR, 2 008 hommes, 320 mg/j en général) conclut que l'extrait n'améliore ni les symptômes urinaires ni le débit maximal par rapport au placebo, même à double ou triple dose ; effets indésirables légers et compa…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Prostate (HBP)** : l'usage historique du *Serenoa repens*. La revue Cochrane de 2012 (17 ECR, 2 008 hommes, 320 mg/j en général) conclut que l'extrait **n'améliore ni les symptômes urinaires ni le débit maximal par rapport au placebo**, même à double ou triple dose ; effets indésirables légers et comparables au placebo [A] (PMID 22551330). Pourtant **Permixon 160 mg est un médicament autorisé en France** (remboursé à 30 %, SMR « modéré » en 2015) : l'AMM précède ces essais négatifs.\n- **Alopécie androgénétique (AGA)** : preuve faible et mal isolée. Une revue de 5 ECR et 2 cohortes conclut à des effets « positifs » de suppléments contenant du serenoa (100-320 mg), mais ce sont surtout des **associations**, de petite taille, sans essai solide du serenoa seul [B] (PMID 33313047). Une méta-analyse en réseau de compléments (2025) place l'extrait de serenoa parmi ceux qui améliorent un score de régénération capillaire vs placebo [A, essais petits et hétérogènes] (PMID 41561175).\n- **Huile de graines de courge** : un ECR de 76 hommes, 400 mg/j, 24 semaines : nombre de cheveux +40 % vs +10 % sous placebo [B, ECR unique n=76] (PMID 24864154). Un seul essai, à répliquer.\n- Aucun de ces deux produits n'a une efficacité comparable à celle du [finastéride](fiche:finasteride) ou du [minoxidil](fiche:minoxidil) dans l'AGA [?] (aucune comparaison directe lue ici).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Proposé : inhibition de la 5α-réductase (comme le finastéride, mais plus faible) et effet anti-inflammatoire ; l'huile de courge a « montré un blocage de la 5α-réductase et des effets antiandrogéniques chez le rat » [C] (PMID 24864154, introduction du résumé). Pas de dosage de DHT dans les résumés lus : mécanisme chez l'humain non démontré [?].\n- Même « mécanisme » supposé = mêmes réserves : l'effet clinique sur la prostate est nul dans les ECR de qualité (PMID 22551330).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| HBP / symptômes urinaires | Cochrane 2012 : 17 ECR, 2 008 hommes, 4 à 72 semaines, 320 mg/j le plus souvent ; pas d'amélioration du score de symptômes ni du débit maximal vs placebo, y compris à 2-3 fois la dose (PMID 22551330) | [A] négatif |\n| HBP, extraits hexaniques vs alpha-bloquants | méta-analyse en réseau, 22 ECR, 8 564 patients : IPSS à 12 mois −1,31 (extrait non hexanique) et −3,30 (hexanique) vs placebo ; l'alpha-bloquant terazosine en tête du classement SUCRA (99,6 %) ; à 3 mois l'IPSS est même +0,48 (hexanique) vs placebo ; les auteurs concluent à « aucune amélioration cliniquement significative » des symptômes urinaires et du débit, bénéfice sur placebo « minimal », et notent que les recommandations internationales ne se prononcent pas faute de qualité des essais (PMID 31952967) | [A, hétérogène] ; les SUCRA sont des probabilités de rang, pas des effets |\n| Fonction sexuelle sous serenoa | 20 études (8 vs placebo, 7 vs tamsulosine) : placebo SMD 0,43 (IC 0,18-1,05, I² 95 %), tamsulosine SMD −0,31 (IC −0,82 à 0,19, I² 90 %), sans différence significative (PMID 34933534) | [A, I² 90-95 %] |\n| AGA (supplements à base de serenoa) | revue : 5 ECR + 2 cohortes, 100-320 mg ; « 27 % d'amélioration du nombre de cheveux » et « 60 % d'amélioration de la qualité capillaire » selon les produits ; les auteurs disent que des données robustes manquent et demandent des ECR sur le serenoa seul (PMID 33313047) | [B] |\n| AGA (réseau de 19 ECR, 16 compléments) | serenoa, capsaïcine-isoflavones, oméga 3 et 6, Lambdapil, Nutrafol et complexes plus hauts qu'un placebo en score de régénération ; pas de différence sur le ratio cheveux terminaux/duvet ; bonne tolérance (PMID 41561175) | [A, essais petits et hétérogènes] |\n| AGA, huile de graines de courge | 76 hommes avec AGA légère à modérée, 400 mg/j, 24 semaines : auto-évaluation (p = 0,013) et satisfaction (p = 0,003) meilleures ; nombre de cheveux +40 % vs +10 % (p < 0,001) ; effets indésirables non différents (PMID 24864154). Revue de 30 études (JAMA Dermatol 2023) : huile de courge parmi les suppléments à preuve « la plus solide » pour les cheveux, effets indésirables rares et légers (PMID 36449274) | [B, ECR unique n=76] |\n| Alopécie féminine, huile de courge vs minoxidil | ECR 60 femmes (30 vs 30), 3 mois : huile de courge et minoxidil 5 % mousse réduisent chacun la diversité du diamètre des tiges et les cheveux duveteux ; le résumé ne donne pas de comparaison statistique entre les deux bras ni de dose d'huile, et conclut à un « rôle potentiel prometteur » (PMID 33544448) | [B, ECR n=60] ; comparaison directe non tranchée |\n\nLimites : « meilleure qualité » signifie la moins faible d'un champ pauvre ; durée 24 semaines ; produits de marque ; le serenoa n'est jamais testé seul contre un standard dans les résumés lus.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Prostate : 320 mg/j d'extrait le plus souvent dans les ECR (PMID 22551330) ; le Permixon est dosé à 160 mg d'extrait de fruit par gélule (BDPM).\n- AGA : 100-320 mg/j pour le serenoa dans les revues (PMID 33313047) ; huile de courge : 400 mg/j (PMID 24864154).\n- Produits vendus : extraits d'origines diverses ; un extrait hexanique « de type médicament » n'est pas équivalent à une poudre de baies (Russo 2021 distingue extraits hexaniques et non hexaniques, PMID 31952967).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Permixon 160 mg, gélule** (Pierre Fabre) : médicament à base de plantes, extrait de fruit de *Serenoa repens* 160 mg ; indication AMM « traitement de certains troubles de la miction liés à l'HBP », durée maximale de traitement 6 mois dans l'avis HAS 2015 (BDPM, consulté le 2026-10-14). Des importations parallèles existent.\n- **Compléments alimentaires** à base de serenoa ou d'huile de pépins de courge, souvent en association (zinc, biotine, etc.).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Permixon 160 mg** (CIS 63398507) : AMM du 14/01/1992, procédure nationale, commercialisé ; remboursement 30 % ; prix public 14,56 € la boîte de 60 gélules (BDPM, fichiers de téléchargement et page du médicament, consulté le 2026-10-14). Avis de la Commission de la transparence du 2015-03-18 : SMR « modéré », durée maximale 6 mois.\n- **Compléments, plantes** (arrêté du 24 juin 2014, Légifrance, version en vigueur, consulté le 2026-10-14) : *Serenoa repens* (fruit ; substances d'intérêt : constituants lipoïdes) figure dans la liste, avec l'obligation d'une mention recommandant de prendre conseil auprès d'un professionnel de santé (« Demander l'avis de votre médecin et/ou pharmacien »). *Cucurbita pepo* (graine ; substances d'intérêt : triterpènes tétracycliques, cucurbitacines) y figure aussi, sans condition d'étiquetage. L'huile de graines de courge est une denrée alimentaire usuelle.\n- **UE, nouvel aliment** : ni le serenoa ni la courge ne figurent dans la liste de l'Union (règlement d'exécution (UE) 2017/2470, consolidé 2026-08-10, recherche « Serenoa », « Cucurbit » : aucune occurrence), ce qui est cohérent avec des plantes d'usage traditionnel en Europe.\n- **Allégations** : aucune allégation de santé autorisée « prostate » ou « cheveux » trouvée pour ces plantes dans le registre UE (recherche non exhaustive). Aucune indication « cheveux » dans l'AMM du Permixon.\n- **AMA** : serenoa et huile de courge non cités dans la Liste des interdictions 2026 (PDF officiel, parcouru par mots-clés, consulté le 2026-10-14).",
+   "titre": "Réglementaire"
+  },
+  {
+   "markdown": "- Serenoa : revue systématique de 40 articles (dont 26 ECR) : événements indésirables légers, comparables au placebo (douleurs abdominales, diarrhée, nausées, fatigue, maux de tête, baisse de libido, rhinite) ; décès et hémorragie cérébrale rapportés en cas isolés, causalité douteuse ; **aucune interaction médicamenteuse rapportée** [B, revue d'ECR, d'essais ouverts et de cas] (PMID 19591529). Un cas documenté d'hépatite et de pancréatite aiguës chez un homme de 55 ans, avec récidive à deux reprises à la reprise du serenoa (réintroduction positive, lipase 39 346, ALAT 1 232) : cas isolé mais à fort degré d'imputabilité [B, cas clinique] (PMID 16800417). Prévenir un médecin devant douleur abdominale haute ou ictère sous serenoa.\n- Arrêts d'essais ≈ 10 % pour le serenoa comme pour le placebo (PMID 22551330).\n- Antiandrogène supposé : grossesse et allaitement, enfants : aucune donnée trouvée, à éviter par principe [?]. Chirurgie (risque de saignement) : non étudié ici [?].\n- Effet sur le PSA (dosage de dépistage du cancer de la prostate) : non trouvé dans les résumés relus [?]. Consulter un urologue pour tout trouble urinaire de l'homme (cancer, infection, autres causes) avant d'automédiquer un supplément [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Réduit la prostate »** : Cochrane 2012 : aucun bénéfice sur symptômes ni débit vs placebo, même à 2-3 fois la dose [A] (PMID 22551330).\n- **« Bloque la DHT comme le finastéride »** : 5α-réductase inhibée en laboratoire/animal [C] ; aucune donnée DHT humaine lue ici ; les résultats cliniques sur l'AGA sont faibles [B].\n- **« Pousse des cheveux de +40 % »** : un seul ECR de 76 hommes (huile de courge), sans réplication [B] (PMID 24864154).\n- **« Alternative naturelle au finastéride »** : pas de comparaison directe dans les sources lues [?].\n- **« Pas d'effet sur la sexualité »** : vrai dans la méta-analyse (pas de différence vs placebo, forte hétérogénéité) [A] (PMID 34933534) ; l'effet indésirable « baisse de libido » est néanmoins listé dans la revue de sécurité (PMID 19591529).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit dans ce dépôt. Voir [alopécie androgénétique](fiche:alopecie-androgenetique), [alimentation et cheveux](fiche:alimentation-cheveux), [finastéride](fiche:finasteride), [dutastéride](fiche:dutasteride), [boosters de testostérone](fiche:boosters-de-testosterone) (même logique marketing « anti-DHT »), [zinc](fiche:zinc).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 22551330, MacDonald et al., « Serenoa repens monotherapy for benign prostatic hyperplasia (BPH): an updated Cochrane systematic review », BJU Int 2012 (résumé relu).\n- PMID 31952967, Russo et al., réseau de méta-analyses *Serenoa repens* vs placebo vs alpha-bloquants, Eur Urol Focus 2021 (résumé relu).\n- PMID 34933534, Paulis et al., « Serenoa repens and its effects on male sexual function », Arch Ital Urol Androl 2021 (résumé relu).\n- PMID 33313047, Evron et al., « Natural Hair Supplement: Friend or Foe? Saw Palmetto, a Systematic Review in Alopecia », Skin Appendage Disord 2020 (résumé relu).\n- PMID 41561175, Zhou et al., « Effects of dietary supplements on androgenetic alopecia: a systematic review and network meta-analysis », Front Nutr 2025 (résumé relu).\n- PMID 24864154, Cho et al., « Effect of pumpkin seed oil on hair growth in men with androgenetic alopecia », Evid Based Complement Alternat Med 2014 (résumé relu).\n- PMID 36449274, Drake et al., « Evaluation of the Safety and Effectiveness of Nutritional Supplements for Treating Hair Loss: A Systematic Review », JAMA Dermatol 2023 (résumé relu).\n- PMID 19591529, Agbabiaka et al., « Serenoa repens (saw palmetto): a systematic review of adverse events », Drug Saf 2009 (résumé relu).\n- PMID 33544448, Ibrahim et al., huile de courge vs minoxidil 5 % mousse, J Cosmet Dermatol 2021 (résumé relu).\n- PMID 16800417, Jibrin et al., « Saw palmetto-induced pancreatitis », South Med J 2006 (résumé relu).\n- Réglementaire : arrêté du 24 juin 2014 (Légifrance) ; règlement (UE) 2017/2470 consolidé 2026-08-10 ; Liste AMA 2026 ; consultés le 2026-10-14.\n- BDPM (base-donnees-publique.medicaments.gouv.fr), Permixon 160 mg gélule, CIS 63398507 : fichiers CIS_bdpm, CIS_CIP, CIS_HAS_SMR, CIS_COMPO et page du médicament, consultés le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Serenoa (palmier de Floride) et graines de courge",
+ "type": "actif",
+ "unite": ""
+}

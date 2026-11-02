@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "acide-phosphatidique",
+ "intro": "",
+ "liens": [
+  "creatine",
+  "ecdysterone",
+  "hmb",
+  "leucine-eaa-et-bcaa",
+  "phosphatidylserine",
+  "proteines",
+  "stress-chronique-et-cortisol"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "24959196",
+  "28177725",
+  "34706625",
+  "28184235",
+  "26566242",
+  "25081826"
+ ],
+ "preuve_globale": "B",
+ "resume": "Phospholipide (soja, œuf) vendu 750 mg/j aux pratiquants de musculation comme « activateur de mTOR ». Le mécanisme est réel en cellules ; l'effet musculaire chez l'humain est contradictoire, avec 2 petits ECR de même dose de 28 et 15 sujets, l'un positif, l'autre nul [B] (PMID 24959196, 28177725).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Phospholipide (soja, œuf) vendu 750 mg/j aux pratiquants de musculation comme « activateur de mTOR ». Le mécanisme est réel en cellules ; **l'effet musculaire chez l'humain est contradictoire, avec 2 petits ECR de même dose** de 28 et 15 sujets, l'un positif, l'autre nul [B] (PMID 24959196, 28177725).\n- Positif : +2,4 kg de masse maigre et +51,9 kg de presse à cuisses vs placebo, 8 semaines, n = 28 [B, ECR n=28] (PMID 24959196). Nul : aucune différence de force ni d'épaisseur musculaire, n = 15 [B, ECR n=15] (PMID 28177725).\n- Revue exploratoire de 6 études (2012-2019) : 3 sans effet sur la masse maigre, 3 avec un effet possible (dont une avec d'autres substances anabolisantes dans le produit) ; conclusion des auteurs : **la preuve ne soutient pas la supplémentation** [B, scoping review] (PMID 34706625).\n- Preuve globale : B, qualité faible. Pas de méta-analyse.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Le PA est un messager lipidique qui stimule mTOR (la voie de la synthèse protéique). Dans des cellules musculaires C2C12, le PA de soja augmente la phosphorylation de p70 de +636 % (vs +221 % pour le PA d'œuf) [D] (PMID 24959196).\n- Question centrale : le PA ingéré atteint-il le muscle sous forme active ? Digestion des phospholipides en lysophospholipides et acides gras : non démontré : les deux revues relues décrivent seulement des hypothèses. Le PA exogène agirait par conversion extracellulaire en acide lysophosphatidique puis liaison à des récepteurs de surface (PMID 28184235), et les données humaines sont qualifiées de « limitées » (PMID 26566242) ; aucune mesure de l'arrivée du PA ingéré dans le muscle n'apparaît dans ces résumés [?] (cherché dans les deux résumés, rien trouvé).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Étude | Population, dose | Résultat | Preuve |\n|---|---|---|---|\n| Joy 2014 (PMID 24959196) | 28 hommes entraînés, 750 mg/j, 8 semaines de musculation périodisée | masse maigre +2,4 kg, surface de section +1,0 cm, presse à cuisses +51,9 kg vs placebo | [B, ECR n=28] ; financement non lisible dans le résumé (texte intégral non consulté) |\n| Gonzalez 2017 (PMID 28177725) | 15 hommes entraînés, 750 mg/j, 8 semaines | épaisseur du quadriceps, biceps, triceps et 1RM squat/soulevé de terre/développé couché : aucune différence de groupe ; les deux groupes progressent | [B, ECR n=15] négatif |\n| Scoping review 2022 (PMID 34706625) | 6 études 2012-2019, 5 chez l'adulte, 1 chez le senior | 3 études sans effet, 3 avec effet possible ; preuve équivoque, ne soutient pas la supplémentation | [B] |\n| Hellhammer 2014 (PMID 25081826) | complexe phosphatidylsérine + PA (PAS 400 = 400 mg + 400 mg), 75 hommes, 42 jours | réponse de l'ACTH et du cortisol au stress normalisée chez les sujets très stressés ; l'effet ne peut pas être attribué au PA seul (voir [stress et cortisol](fiche:stress-chronique-et-cortisol)) | [B, ECR, produit de marque] |\n| Femmes, seniors, performance d'endurance, effets à long terme | aucune donnée solide trouvée | [?] |\n\nLimites : n ≤ 28, 8 semaines, hommes jeunes entraînés ; les deux ECR utilisent la même dose avec des résultats opposés, ce qui est compatible avec un effet non reproductible ou dépendant de l'extrait (hypothèse, non testée).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais : 750 mg/j de PA de soja (PMID 24959196, 28177725). Vendu : gélules de 250-750 mg, souvent associées à d'autres ingrédients (créatine, caféine) ; teneur réelle non vérifiée (aucun contrôle indépendant trouvé) [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Compléments alimentaires (PA de soja, ingrédient breveté vendu en complexe). Pas de médicament.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- UE, nouvel aliment : le règlement d'exécution (UE) 2017/2470 (liste de l'Union, version consolidée du 2026-08-10, EUR-Lex/Office des publications, consulté le 2026-10-14) n'inscrit pas l'acide phosphatidique seul. Il inscrit un « produit phospholipidique contenant des quantités égales de phosphatidylsérine et d'acide phosphatidique » de soja (étiquette « phosphatidylsérine et acide phosphatidique de soja », 800 mg/jour en compléments, non destiné aux femmes enceintes ou allaitantes). Le statut d'un PA seul à 750 mg/j (cas des essais) n'a pas pu être établi : catalogue Novel Food en ligne inaccessible (application JavaScript) ; à confirmer auprès de la DGCCRF.\n- France, substances à but nutritionnel ou physiologique : arrêté du 26 septembre 2016 (Légifrance, version en vigueur, consulté le 2026-10-14) : hors caféine, carnitine, créatine et lycopène (doses plafonnées), ces substances sont autorisées dans les compléments « sous réserve qu'elles ne soient pas considérées comme des nouveaux ingrédients » ; la DGCCRF tient un registre non consulté ici (non public à ma connaissance).\n- Allégations : aucune allégation de santé « masse musculaire » sur le PA trouvée dans le registre UE des allégations (recherche non exhaustive).\n- AMA : le PA n'est pas cité dans la Liste des interdictions 2026 (texte intégral EN, PDF officiel, copie du 2026-10-13, S0-S9 et M1-M3 parcourus par mots-clés ; le PA n'y figure pas).",
+   "titre": "Réglementaire"
+  },
+  {
+   "markdown": "- Tolérance dans les ECR : pas d'événement grave rapporté dans les résumés lus ; durée 8 semaines [B].\n- Allergie au soja ou à l'œuf selon la source : précaution logique, non étudiée [?].\n- Grossesse et allaitement : le produit PS/PA de la liste de l'Union porte la mention « non destiné aux femmes enceintes ou allaitantes » (règlement 2017/2470) ; à appliquer par prudence au PA.\n- Anticoagulants, usage prolongé (> 8 semaines) : aucune donnée trouvée dans les revues PMID 26566242 et 28184235 [?] (recherche limitée à ces résumés).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Le PA active mTOR donc fait grossir »** : activation en cellules [D] ; en pratique, un ECR de 28 hommes favorable (PMID 24959196) et un de 15 hommes nul (PMID 28177725).\n- **« Clinique »** : la preuve est de niveau faible et conflictuelle ; la revue de 2022 ne recommande pas la supplémentation (PMID 34706625).\n- **« Plus efficace que la créatine ou les protéines »** : aucune comparaison ; voir [créatine](fiche:creatine) et [protéines](fiche:proteines) [A].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit dans ce dépôt. Voir [phosphatidylsérine](fiche:phosphatidylserine) (autre phospholipide), [HMB](fiche:hmb), [leucine, EAA et BCAA](fiche:leucine-eaa-et-bcaa), [ecdystérone](fiche:ecdysterone).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 24959196, Joy et al., « Phosphatidic acid enhances mTOR signaling and resistance exercise induced hypertrophy », Nutr Metab 2014 (résumé relu).\n- PMID 28177725, Gonzalez et al., « Effects of phosphatidic acid supplementation on muscle thickness and strength in resistance-trained men », Appl Physiol Nutr Metab 2017 (résumé relu).\n- PMID 25081826, Hellhammer et al., complexe phosphatidylsérine/acide phosphatidique et réactivité de l'axe HHS chez des hommes stressés, Lipids Health Dis 2014 (résumé relu : n = 75 hommes, PAS 400 = 400 mg PS + 400 mg PA ; PAS 200 sans effet).\n- PMID 34706625, Teixeira et al., « The effects of phosphatidic acid on performance and body composition - a scoping review », J Sports Sci 2022 (résumé relu).\n- PMID 26566242, Shad et al., « The mechanistic and ergogenic effects of phosphatidic acid in skeletal muscle », Appl Physiol Nutr Metab 2015 (résumé relu).\n- PMID 28184235, Bond, « Phosphatidic acid: biosynthesis, pharmacokinetics, mechanisms of action and effect on strength and body composition in resistance-trained individuals », Nutr Metab 2017 (résumé relu).\n- Réglementaire : règlement d'exécution (UE) 2017/2470, version consolidée 2026-08-10 ; Liste des interdictions AMA 2026 ; consultés le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Acide phosphatidique (phosphatidic acid)",
+ "type": "actif",
+ "unite": ""
+}

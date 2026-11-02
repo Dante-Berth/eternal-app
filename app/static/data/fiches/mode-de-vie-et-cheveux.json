@@ -1,0 +1,84 @@
+{
+ "cibles": [
+  "cheveux",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "",
+ "id": "mode-de-vie-et-cheveux",
+ "intro": "",
+ "liens": [
+  "alimentation-cheveux",
+  "alopecie-androgenetique",
+  "exercice-physique",
+  "mode-de-vie-et-peau",
+  "sommeil",
+  "tabac-et-alcool"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "41717597",
+  "41535530",
+  "41383986",
+  "32104040",
+  "40865676",
+  "26904154",
+  "40836838",
+  "42710827",
+  "30671883"
+ ],
+ "preuve_globale": "B",
+ "resume": "Aucun essai randomisé trouvé montrant que le sport, le sommeil ou l'alimentation font repousser ou épaississent les cheveux dans l'AGA [?].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Aucun essai randomisé trouvé montrant que le sport, le sommeil ou l'alimentation font repousser ou épaississent les cheveux dans l'AGA [?].\n- Les revues sur le sommeil et le stress montrent des associations, pas des preuves de causalité [B].\n- Le massage du cuir chevelu : 9 hommes, +0,007 mm d'épaisseur en 24 semaines [B] ; le reste est auto-déclaré [B].\n- Ne remplace pas un traitement validé : voir [alopécie androgénétique](fiche:alopecie-androgenetique).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Une revue narrative examine l'alimentation, le sommeil, les UV, l'exercice et les coiffures dans l'AGA, et note elle-même que les études sont « limitées et fragmentées » (PMID 41717597) ; les mécanismes qu'elle avance ne sont pas détaillés dans son résumé [?].",
+   "titre": "Mécanismes proposés"
+  },
+  {
+   "markdown": "| Levier | Mécanisme proposé | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Sport / activité physique | Hormonal, circulation (hypothèse) | [?] aucune donnée hair-spécifique lue (recherche PubMed : résultats hors sujet) | — | 0 |\n| Sommeil | Rythme circadien, hormones, hypoxie (apnée) | [B] revue systématique de 29 études : sommeil perturbé plus fréquent dans AA, AGA, TE ; qualité faible à modérée, surtout transversal ; relation probablement bidirectionnelle (PMID 41535530) | — | 0 |\n| Stress psychologique | Axe HPA, inflammation | [B] méta-analyse de 13 études observationnelles : les patients AGA ont plus de stress perçu (SMD −1,09), d'anxiété et de dépression ; sens de la causalité non établi, la perte de cheveux pouvant causer le stress (PMID 41383986) | — | 0 |\n| Tabac / alcool | Stress oxydatif | [B, contradictoire] cas-témoins de 256 hommes : pas de différence de tabac, narguilé ni alcool (PMID 32104040) ; une randomisation mendélienne relie des gènes du stress oxydatif à l'AGA, sans établir dans son résumé l'effet du tabac ou de l'alcool (PMID 40865676) | — | 0 |\n| Massage du cuir chevelu | Étirement des papilles dermiques | [B] 9 hommes sans groupe témoin, 4 min/jour, 24 sem. : 0,085 → 0,092 mm ; [D] cellules étirées in vitro (PMID 26904154) | — | 0 |\n| Alimentation / carences | Fer, zinc, vitamine D… | [B] revue systématique de 17 études (97 % de femmes) : vitamine D et fer plus élevés associés à moins d'alopécie, alcool et boissons sucrées à plus de chute ; causalité non établie (PMID 40836838). Voir [alimentation et cheveux](fiche:alimentation-cheveux) | Compléments | variable |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Pas de protocole : ces leviers sont une hygiène de vie générale, pas un traitement capillaire prouvé. Un bilan sanguin (ferritine, TSH…) relève d'un médecin.",
+   "titre": "Protocoles"
+  },
+  {
+   "markdown": "- Croire que « beaucoup de sport » compense un traitement : aucune donnée [?].\n- Surdosage de compléments : un excès de sélénium (selenose) est associé à alopécie, dermatite et atteinte des ongles dans une revue (PMID 42710827) [B].\n- Attribuer la chute à un seul facteur (tabac, casque, shampooing) sans diagnostic.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Masser 20 min deux fois par jour fait repousser »** : l'étude sur 327 répondants est un sondage rétrospectif, 17,2 % de réponse, auto-évaluation, auteur affilié à un site commercial de soins capillaires [B, risque de biais élevé] (PMID 30671883).\n- **« Le stress cause l'alopécie androgénétique »** : l'association est démontrée, pas la direction [B].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Le massage a été testé avec un appareil standardisé (4 min/jour) dans l'étude pilote, soit bien moins que le protocole des sondés [B].\n- Chez les hommes avec AGA, l'IMC était légèrement plus bas que chez les témoins (cliniquement non significatif) [B].",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "[Alimentation et cheveux](fiche:alimentation-cheveux) · [Sommeil](fiche:sommeil) · [Exercice](fiche:exercice-physique) · [Mode de vie peau](fiche:mode-de-vie-et-peau)",
+   "titre": "Voir aussi"
+  },
+  {
+   "markdown": "Chute brutale après un stress, une maladie, un régime ou un accouchement (effluvium télogène possible), ou si sommeil très perturbé/apnée suspectée.\n\nVoir aussi : [Tabac et alcool](fiche:tabac-et-alcool).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 41717597 — Huang F. et al., *Front Public Health*. doi:10.3389/fpubh.2026.1739298\n- PMID 41535530 — Boghosian T. et al., *Dermatol Ther*. doi:10.1007/s13555-025-01641-6\n- PMID 41383986 — Kong Y. et al., *Front Psychiatry*. doi:10.3389/fpsyt.2025.1705957\n- PMID 32104040 — Danesh-Shakiba M. et al., *Clin Cosmet Investig Dermatol*. doi:10.2147/CCID.S231940\n- PMID 40865676 — Zhu Y. et al., *J Invest Dermatol*. doi:10.1016/j.jid.2025.08.014\n- PMID 26904154 — Koyama T. et al., *Eplasty* (massage, 9 hommes)\n- PMID 30671883 — English R.S. & Barazesh J.M., *Dermatol Ther*. doi:10.1007/s13555-019-0281-6\n- PMID 40836838 — Gomes N. et al., *Nutr Health* 2025, alimentation et cheveux (revue systématique). doi:10.1177/02601060251367206\n- PMID 42710827 — Pierce W.G. & Mackrill J.J., *Biochimie*. doi:10.1016/j.biochi.2026.09.002",
+   "titre": "Sources (vérifiées via PubMed MCP)"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Mode de vie, sport et cheveux",
+ "type": "condition",
+ "unite": ""
+}

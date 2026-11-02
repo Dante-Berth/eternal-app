@@ -1,0 +1,76 @@
+{
+ "cibles": [
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "peptide",
+ "id": "dsip",
+ "intro": "",
+ "liens": [
+  "epitalon",
+  "insomnie",
+  "melatonine",
+  "selank-et-semax",
+  "sommeil"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "16539679",
+  "7777652",
+  "18975104"
+ ],
+ "preuve_globale": "C",
+ "resume": "Peptide isolé en 1977 dans le sang veineux cérébral de lapins et présenté comme « facteur du sommeil » ; vendu en ligne comme somnifère naturel ou « anti-stress ». Non autorisé en France à notre connaissance.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Peptide isolé en 1977 dans le sang veineux cérébral de lapins et présenté comme « facteur du sommeil » ; vendu en ligne comme **somnifère naturel** ou « anti-stress ». Non autorisé en France à notre connaissance.\n- **L'hypothèse du sommeil reste mal documentée** : une revue de 2006 écrit que le lien entre DSIP et sommeil n'a jamais été caractérisé, qu'on n'a isolé ni gène, ni protéine, ni récepteur, et que son existence naturelle comme molécule active « reste obscure » (« a still unresolved riddle ») (PMID 16539679) [C].\n- Chez l'humain, les rares données trouvées sont des **études physiologiques anciennes sur de très petits groupes**, sans bénéfice clinique démontré : par exemple, une perfusion intraveineuse de DSIP n'a pas modifié la sécrétion d'ACTH et de cortisol chez au plus 20 hommes sains (deux expériences ; PMID 7777652) [B, négatif]. Aucun essai randomisé récent contre l'insomnie trouvé [?].\n- Mieux prouvé et autorisé pour l'insomnie : la TCC de l'insomnie, puis la [mélatonine](fiche:melatonine) dans des cas précis.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Peptide de structure inhabituelle, différente des familles de peptides connues ; distribution surtout dans des noyaux hypothalamiques neurosécréteurs peu liés au sommeil, d'après la revue de 2006 (PMID 16539679). Mécanisme d'un éventuel effet : inconnu.",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Sommeil chez l'animal (travaux initiaux) | Peptide décrit en 1977 comme inducteur d'ondes delta ; lien jamais caractérisé depuis | [C] (PMID 16539679) |\n| Axe du stress chez l'humain | Perfusion intraveineuse : pas d'effet sur l'ACTH ni le cortisol après CRH ou repas (n = 5 par condition, puis 10) | [B, très petit effectif, négatif] (PMID 7777652) |\n| Insomnie de l'adulte | Aucun essai randomisé contemporain trouvé | [?] |\n| Anti-stress, récupération, sevrage | Travaux de laboratoire russes et anciens sur un analogue (Deltaran) cités (PMID 18975104) : titre vérifié, résumé non relu | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet (règle 7 : pas de posologie). Contenu réel des flacons vendus inconnu sans analyse.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Aucune autorisation de médicament à base de DSIP trouvée en France ; ANSM, BDPM, EMA non consultées [?]. La page ANSM sur les « peptides » vendus en ligne (2026-08-31, consultée le 2026-10-11) ne cite pas le DSIP nommément. AMA : non recherché [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Études physiologiques à très faibles effectifs (≤ 10 sujets) : aucune donnée de sécurité sur un usage répété ou prolongé [?]. Interactions avec les hypnotiques, l'alcool, les antidépresseurs : aucune donnée trouvée [?].\n- Un peptide vendu pour « dormir » peut altérer la vigilance : conduite, médicaments sédatifs, apnée du sommeil non explorée.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Risques génériques : sous-dosage, mauvaise molécule, contamination, endotoxines (ANSM, 2026). Analyse de flacons de DSIP : aucune trouvée [?].",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- Insomnie : TCC de l'insomnie, hygiène du sommeil, recherche d'une apnée ou d'une dépression ; voir [insomnie](fiche:insomnie), [sommeil](fiche:sommeil) et [mélatonine](fiche:melatonine).\n- Pas de protocole de dosage ni d'injection, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).\n\nVoir aussi : [épitalon](fiche:epitalon) (autre peptide vendu pour le sommeil), [Selank et Semax](fiche:selank-et-semax).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Kovalzon VM, Strekalova TV. *J Neurochem* 2006 — PMID 16539679 (revue)\n2. Späth-Schwalbe E et al. *Psychoneuroendocrinology* 1995 — PMID 7777652 — [DOI](https://doi.org/10.1016/0306-4530(94)00050-k)\n3. PMID 18975104 (Koplik EV et al., *Neurosci Behav Physiol* 2008) : titre vérifié, résumé non relu.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "DSIP (delta sleep-inducing peptide)",
+ "type": "actif",
+ "unite": ""
+}

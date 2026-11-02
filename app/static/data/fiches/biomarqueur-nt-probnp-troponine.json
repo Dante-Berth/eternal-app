@@ -1,0 +1,103 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-11-02",
+ "famille": "",
+ "id": "biomarqueur-nt-probnp-troponine",
+ "intro": "Fiche « examen ». Ces deux dosages servent d'abord à l'urgence (douleur thoracique, dyspnée) et au suivi de l'insuffisance cardiaque ; cette fiche ne traite que leur usage chez une personne **sans maladie cardiovasculaire connue**. Autres marqueurs : [ApoB](fiche:biomarqueur-apob), [Lp(a)](fiche:biomarqueur-lipoproteine-a), [CRP / hs-CRP](fiche:biomarqueur-crp-hscrp). Tension et facteurs classiques : [tension artérielle](fiche:tension-arterielle).",
+ "liens": [
+  "alimentation",
+  "biomarqueur-apob",
+  "biomarqueur-crp-hscrp",
+  "biomarqueur-lipoproteine-a",
+  "exercice-physique",
+  "statines",
+  "tension-arterielle"
+ ],
+ "marqueurs": [
+  "nt-probnp",
+  "troponine-us"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 11,
+ "nb_seuils": 8,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "27599814",
+  "28750699",
+  "41168946",
+  "23821090",
+  "17764210",
+  "30416028",
+  "26547760",
+  "35851710",
+  "19917883",
+  "25052419",
+  "26139583"
+ ],
+ "preuve_globale": "B",
+ "resume": "Le NT-proBNP prédit surtout l'insuffisance cardiaque : sur 95 617 sujets sans maladie CV (40 études), comparaison tiers supérieur vs inférieur : RR 1,76 (1,56-1,98) pour coronaire + AVC, 2,00 (1,77-2,26) en y ajoutant l'insuffisance cardiaque ; ajouter le NT-proBNP aux facteurs classiques augment…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Le **NT-proBNP** prédit surtout l'**insuffisance cardiaque** : sur 95 617 sujets sans maladie CV (40 études), comparaison tiers supérieur vs inférieur : RR 1,76 (1,56-1,98) pour coronaire + AVC, 2,00 (1,77-2,26) en y ajoutant l'insuffisance cardiaque ; ajouter le NT-proBNP aux facteurs classiques augmente le C-index de 0,012 (coronaire + AVC) et de 0,019 (avec insuffisance cardiaque) [A, données individuelles] (PMID 27599814).\n- La **troponine ultra-sensible** est détectable chez 80 % des sujets sans maladie ; tiers supérieur vs inférieur : RR 1,43 (1,31-1,56) pour les événements CV, 1,67 (1,50-1,86) pour les CV mortels, indépendamment des facteurs classiques [A, 28 études, 154 052 sujets] (PMID 28750699).\n- Pour l'insuffisance cardiaque, le NT-proBNP apporte plus que la troponine T : +0,030 vs +0,008 de C-statistic (41 427 sujets, 9 cohortes) [A, données individuelles] (PMID 41168946).\n- Une seule étude randomisée de dépistage : STOP-HF (BNP, 1 374 sujets à risque) a réduit la dysfonction ventriculaire gauche (critère échographique), pas l'insuffisance cardiaque de façon significative [B, ECR unique n=1374] (PMID 23821090).\n- **Pas d'essai montrant qu'un dosage de troponine ou de NT-proBNP en prévention primaire réduit les infarctus, AVC ou décès** (STOP-HF mis à part, sur critères échographiques et hospitalisations) ; recommandation de dosage systématique : non retrouvée dans ce travail [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- NT-proBNP : fragment libéré quand les parois cardiaques sont étirées (surcharge de pression/volume). Il monte aussi avec l'âge, chez la femme et avec la créatinine (déterminants listés dans PMID 17764210, revue systématique 2006, résumé relu) ; l'insuffisance rénale déplace les seuils : chez l'insuffisant cardiaque, les seuils pronostiques de NT-proBNP passent de 825 ng/L (DFG ≥ 90) à 4 608 ng/L (DFG < 30) [B, cohorte de patients, hors prévention] (PMID 30416028).\n- Troponine ultra-sensible : protéine du muscle cardiaque ; avec les dosages récents, elle est détectable chez la plupart des gens sans maladie, d'où la notion de « concentration dans la normale » (PMID 28750699). Une élévation au-dessus du 99e percentile concerne ≈ 5 % des sujets de la communauté et est associée à un triplement de la mortalité (RR 3,07 ; 2,32-4,06) et de la mortalité CV (RR 3,30 ; 1,77-6,12) [A, observationnel, 21 études, 64 855 sujets] (PMID 26547760).\n- Un chiffre élevé indique une atteinte ou une charge sur le cœur, **pas sa cause** : fibrillation atriale, insuffisance rénale, hypertension, effort intense récent peuvent l'expliquer (ces causes ne sont pas toutes sourcées dans les résumés lus [?]).",
+   "titre": "Mécanisme et ce que mesure l'examen"
+  },
+  {
+   "markdown": "Unités : NT-proBNP en ng/L (= pg/mL) ; troponine ultra-sensible en ng/L. Les seuils lus ci-dessous concernent l'urgence ou l'insuffisance cardiaque, pas la prévention ; aucun seuil de prévention n'a été retrouvé.\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| NT-proBNP | ng/L | < 300 | exclusion rapide d'une insuffisance cardiaque aiguë (sensibilité 96,7 % chez l'obèse) | patient dyspnéique aux urgences | [B, étude diagnostique prospective] Kozhuharov 2022, PMID 35851710 (seuil « recommandé » rapporté) |\n| NT-proBNP | ng/L | > 450 | confirmation d'une insuffisance cardiaque aiguë | patient dyspnéique aux urgences, âge < 50 ans | [B, étude diagnostique prospective] PMID 35851710 |\n| NT-proBNP | ng/L | > 900 | confirmation d'une insuffisance cardiaque aiguë | patient dyspnéique aux urgences, âge 50-75 ans | [B, étude diagnostique prospective] PMID 35851710 |\n| NT-proBNP | ng/L | > 1800 | confirmation d'une insuffisance cardiaque aiguë | patient dyspnéique aux urgences, âge > 75 ans | [B, étude diagnostique prospective] PMID 35851710 |\n| NT-proBNP | ng/L | ≥ 825 (DFG ≥ 90) à ≥ 4608 (DFG < 30) | meilleur seuil pronostique de mortalité, croissant avec l'atteinte rénale | insuffisant cardiaque chronique (hors prévention) | [B, méta-analyse de données de patients] Aimo 2018, PMID 30416028 |\n| Troponine T ultra-sensible | ng/L | ≥ 13 (DFG ≥ 90) à ≥ 40 (DFG < 30) | meilleur seuil pronostique de mortalité, croissant avec l'atteinte rénale | insuffisant cardiaque chronique (hors prévention) | [B, méta-analyse de données de patients] PMID 30416028 |\n| NT-proBNP | ng/L | — | seuil de risque en prévention primaire (sujet sans maladie) | adulte sans maladie CV | non retrouvé [?] |\n| Troponine ultra-sensible | ng/L | — | 99e percentile (dépend du réactif, T vs I) | adulte | non retrouvé [?] |",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| NT-proBNP, population sans maladie CV : risque coronaire + AVC | RR 1,76 (1,56-1,98) ; C-index +0,012 (0,010-0,014) ; NRI 0,027 | [A, données individuelles] (PMID 27599814) |\n| NT-proBNP : coronaire + AVC + insuffisance cardiaque | RR 2,00 (1,77-2,26) ; C-index +0,019 (0,016-0,022) | [A] (PMID 27599814) |\n| NT-proBNP et insuffisance cardiaque incidente (2 fois plus élevé) | HR 1,47 (1,38-1,56) ; C-statistic +0,030 (0,021-0,040) ; 4 599 insuffisances cardiaques en 11 ans | [A, 9 cohortes] (PMID 41168946) |\n| hs-troponine T et insuffisance cardiaque incidente | HR 1,41 (1,30-1,54) pour un doublement ; C-statistic +0,008 ; ajoutée au NT-proBNP : +0,002 | [A, 9 cohortes] (PMID 41168946) |\n| Peptides natriurétiques (BNP/NT-proBNP), 40 études, 87 474 sujets | RR 2,82 (2,40-3,33) tiers sup. vs inf. ; amélioration « modeste » de la discrimination | [A] (PMID 19917883) |\n| Revue 2014 population générale (7 études) | HR 1,0 à 4,1 ; amélioration « modeste » ; « aucune étude prospective ne démontre l'utilité clinique » | [A, revue systématique] (PMID 25052419) |\n| hs-troponine, événements CV / CV mortels / coronaires / AVC | RR 1,43 / 1,67 / 1,59 / 1,35 (tiers sup. vs inf.) | [A] (PMID 28750699) |\n\nLecture : les associations sont solides, le **gain de discrimination est petit** (quelques millièmes à deux centièmes de C-index) sauf pour l'insuffisance cardiaque avec le NT-proBNP. Gain de reclassement dans les catégories de risque : très faible (NRI 0,027).",
+   "titre": "Ce que les chiffres prédisent"
+  },
+  {
+   "markdown": "STOP-HF : 1 374 sujets avec facteurs de risque CV (âge moyen 64,8 ans, 39 cabinets irlandais) ; BNP ≥ 50 pg/mL dans le groupe intervention (41,6 % l'ont dépassé) → échographie et prise en charge partagée médecin traitant/cardiologue. Dysfonction VG ± insuffisance cardiaque : 5,3 % vs 8,7 % (OR 0,55 ; 0,37-0,82) ; insuffisance cardiaque seule : 1,0 % vs 2,1 % (OR 0,48 ; 0,20-1,20, non significatif) ; hospitalisations urgentes pour événement CV majeur : IRR 0,60 (0,45-0,81) ; plus d'examens cardiologiques (IRR 1,71) [B, ECR unique n=1374] (PMID 23821090). Les auteurs concluent que le dépistage réduit les dysfonctions et l'insuffisance cardiaque combinées. Limites : critère principal échographique (substitut), population à risque (pas des sujets sains), BNP et non NT-proBNP, réplication : non trouvée [?]. Une analyse coût-efficacité existe (PMID 26139583, titre relu, résumé non relu).",
+   "titre": "Dépistage guidé par un peptide natriurétique"
+  },
+  {
+   "markdown": "- Prévention : pas de recommandation de routine retrouvée dans ce travail [?]. Les recommandations ESC 2021 de prévention et le détail de leurs indications n'ont pas été relus ici [?].\n- Cas où la discussion avec un médecin est la plus plausible : facteurs de risque multiples (hypertension, diabète, obésité), antécédent familial de cardiomyopathie, symptômes (essoufflement à l'effort, œdèmes).\n- Un bilan de « prévention » sans symptôme qui retrouve un chiffre légèrement élevé n'a pas de conduite à tenir validée par un essai en dehors de STOP-HF [?].\n- Variation d'un dosage à l'autre (biologique et analytique) : non recherchée [?].",
+   "titre": "Qui, quand, comment"
+  },
+  {
+   "markdown": "Consulter : le médecin cherche la cause (tension, rythme cardiaque, reins, échographie). Pas d'auto-interprétation ni de traitement préventif sur le chiffre seul. Leviers généraux : [tension artérielle](fiche:tension-arterielle), [exercice physique](fiche:exercice-physique), [alimentation](fiche:alimentation), [statines](fiche:statines).",
+   "titre": "Que faire d'un résultat élevé"
+  },
+  {
+   "markdown": "Examens de biologie médicale prescrits. Cotation NABM, prix, indications remboursées : non retrouvés dans les sources officielles consultées [?]. Aucun statut AMA pertinent.",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Dépister « cœur en bonne santé » avec une troponine isolée : un résultat dans la normale ne protège pas (80 % de détection, risque qui augmente dans la normale, PMID 28750699) et un résultat élevé n'a pas de cause établie sans bilan.\n- Comparer des troponines de deux marques de réactifs (T vs I) : les associations avec le risque diffèrent selon le type (PMID 28750699 : associations plus fortes avec hs-cTnT pour les CV mortels, p=0,027).\n- Ignorer l'âge, le sexe et la fonction rénale en lisant un NT-proBNP (PMID 17764210, 30416028).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Un bilan cardiaque complet avec troponine/NT-proBNP détecte les infarctus à venir »** : les marqueurs prédisent le risque en cohorte, mais le gain de discrimination est de l'ordre de +0,01 à +0,02 de C-index, et aucun essai de prévention primaire n'a montré de réduction des infarctus ou décès (PMID 27599814, 25052419).\n- **« Troponine dans la normale = cœur sain »** : le risque augmente de façon log-linéaire même dans la plage « normale » (PMID 28750699).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Chez les sujets sans maladie, la **troponine ajoute presque rien au NT-proBNP** pour prédire l'insuffisance cardiaque (+0,002 de C-statistic) (PMID 41168946).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Essoufflement, douleur thoracique, palpitations, œdèmes, malaise : avis médical immédiat, sans dosage préalable à domicile ni en « bilan check-up ».",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 27599814 — Natriuretic Peptides Studies Collaboration, Natriuretic peptides and integrated risk assessment for cardiovascular disease: IPD meta-analysis. *Lancet Diabetes Endocrinol* 2016 (résumé relu ; financeurs publics).\n- PMID 41168946 — Bansal N et al., NT-proBNP and troponin T for incident heart failure: meta-analysis of 9 international cohorts. *J Am Heart Assoc* 2025. doi:10.1161/JAHA.125.041683 (résumé relu).\n- PMID 19917883 — Di Angelantonio E et al., B-type natriuretic peptides and cardiovascular risk: meta-analysis of 40 prospective studies. *Circulation* 2009 (résumé relu).\n- PMID 25052419 — Don-Wauchope AC et al., Prediction of clinical outcomes using B-type natriuretic peptides in the general population: systematic review. *Heart Fail Rev* 2014 (résumé relu).\n- PMID 28750699 — Willeit P et al., hs-cardiac troponin and first-ever cardiovascular outcomes in 154,052 participants. *J Am Coll Cardiol* 2017 (résumé relu).\n- PMID 26547760 — Sze J et al., Cardiac troponin and cardiovascular outcomes in community populations: systematic review and meta-analysis. *Heart Lung Circ* 2016 (résumé relu).\n- PMID 23821090 — Ledwidge M et al., Natriuretic peptide-based screening and collaborative care for heart failure: STOP-HF. *JAMA* 2013 (résumé relu).\n- PMID 26139583 — Ledwidge MT et al., Cost-effectiveness of natriuretic peptide-based screening and collaborative care: STOP-HF. *Eur J Heart Fail* 2015 (titre vérifié seulement).\n- PMID 30416028 — Aimo A et al., hs-TnT, NT-proBNP and GFR: multimarker strategy in chronic heart failure. *Int J Cardiol* 2018 (résumé relu ; patients insuffisants cardiaques).\n- PMID 17764210 — Balion C et al., Testing for BNP and NT-proBNP in the diagnosis and prognosis of heart failure. *Evid Rep Technol Assess* 2006 (résumé relu).\n- PMID 35851710 — Kozhuharov N et al., Clinical effect of obesity on NT-proBNP cut-off concentrations for the diagnosis of acute heart failure. *Eur J Heart Fail* 2022. doi:10.1002/ejhf.2618 (résumé relu).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : NT-proBNP et troponine ultra-sensible en prévention",
+ "type": "biomarqueur",
+ "unite": ""
+}

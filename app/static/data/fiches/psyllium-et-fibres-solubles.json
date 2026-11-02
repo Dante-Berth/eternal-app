@@ -1,0 +1,78 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "psyllium-et-fibres-solubles",
+ "intro": "",
+ "liens": [
+  "apob-lipides-et-statines",
+  "butyrate-et-tributyrine",
+  "glycemie-et-prediabete",
+  "legumineuses",
+  "probiotiques"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "30239559",
+  "35816465",
+  "26561625",
+  "25411276",
+  "37163454",
+  "19713235",
+  "34899340",
+  "30638909"
+ ],
+ "preuve_globale": "A",
+ "resume": "Un des rares « compléments » dont l'effet est réel, modeste et mesuré sur plusieurs marqueurs : environ 10 g/j de psyllium baissent le LDL-C de 0,33 mmol/L et l'ApoB de 0,05 g/L (28 ECR, 1 924 personnes) [A] (PMID 30239559). Aucun résultat clinique (infarctus, mortalité) n'est mesuré par ces essais.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Un des rares « compléments » dont l'effet est réel, modeste et mesuré sur plusieurs marqueurs : environ 10 g/j de psyllium baissent le LDL-C de 0,33 mmol/L et l'ApoB de 0,05 g/L (28 ECR, 1 924 personnes) [A] (PMID 30239559). Aucun résultat clinique (infarctus, mortalité) n'est mesuré par ces essais.\n- Constipation chronique : 16 ECR, 1 251 adultes ; 66 % de répondeurs sous fibres vs 41 % sous contrôle (RR 1,48 ; IC 1,17-1,88) ; psyllium et pectine sont les fibres efficaces, à plus de 10 g/j et sur au moins 4 semaines ; ballonnements plus fréquents [A, hétérogénéité modérée à élevée] (PMID 35816465).\n- Glycémie : le bénéfice est proportionnel au déséquilibre de départ (diabète de type 2 : HbA1c −0,97 point ; sujets normoglycémiques : rien). Les données viennent d'une méta-analyse construite avec des archives de Procter & Gamble, qui commercialise du psyllium (PMID 26561625).\n- Effets indésirables : ballonnements, risque d'obstruction si trop peu d'eau (au moins 200 mL par prise), allergie respiratoire au contact de la poudre, retard d'absorption d'autres médicaments (RCP).\n- Fibres solubles de l'avoine (β-glucane) : LDL-C −0,25 mmol/L à ≥ 3 g/j (PMID 25411276).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Fibre soluble visqueuse, gélifiante et peu fermentée : retarde la vidange et l'absorption du glucose, lie les acides biliaires (donc baisse le cholestérol), augmente le poids et l'hydratation des selles. Le piégeage des sels biliaires est le mécanisme retenu dans la fiche [ApoB, lipides et statines](fiche:apob-lipides-et-statines) ; la viscosité intestinale est décrite dans la méta-analyse sur le poids (PMID 37163454). Mécanismes mesurés chez l'humain : non extraits ici [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| LDL-C, non-HDL-C, ApoB | Psyllium médian 10,2 g/j (≥ 3 semaines), 28 ECR, n = 1 924 : LDL-C −0,33 mmol/L (IC −0,38 à −0,27), non-HDL-C −0,39, ApoB −0,05 g/L ; qualité modérée (LDL-C, non-HDL-C) et élevée (ApoB) | [A] (PMID 30239559) |\n| LDL-C, β-glucane d'avoine | ≥ 3 g/j, 28 ECR : LDL-C −0,25 mmol/L (IC −0,20 à −0,30), CT −0,30 ; HDL et triglycérides inchangés ; la méta-analyse a inclus des rapports internes de CreaNutrition AG (industrie) | [A, données industrielles incluses] (PMID 25411276) |\n| Constipation chronique (adultes) | 16 ECR, n = 1 251 : répondeurs 66 % vs 41 %, RR 1,48 (1,17-1,88), I² = 57 % ; fréquence des selles SMD 0,72 (I² = 86 %) ; consistance SMD 0,32 ; ballonnements SMD 0,80 en faveur du groupe contrôle (plus de gaz sous fibres) | [A] (PMID 35816465) |\n| Syndrome de l'intestin irritable | ECR de médecine générale, n = 275 : répondeurs au premier mois 57 % sous psyllium 10 g vs 35 % sous placebo (RR 1,60 ; 1,13-2,26) ; score de sévérité −90 vs −49 points (p = 0,03) ; pas de différence de qualité de vie ; 36 % d'abandons sous psyllium | [B, ECR unique n=275] (PMID 19713235) |\n| Diabète de type 2 et glycémie | 35 ECR (méta-analyse impliquant des données P&G) : diabétiques traités : glycémie à jeun −37,0 mg/dL, HbA1c −0,97 point (p = 0,048) ; normoglycémiques : aucun effet significatif ; prédiabétiques : amélioration « modeste » | [A, conflit d'intérêts visible] (PMID 26561625) |\n| HbA1c, revue des méta-analyses de plantes (diabète de type 2) | Psyllium parmi les trois plantes aux plus gros effets : HbA1c −0,97 point (IC −1,94 à −0,01), limite de la significativité | [A, limite de significativité] (PMID 34899340) |\n| Poids, personnes en surpoids | 6 ECR, n = 354, 10,8 g/j avant les repas, 4,8 mois : −2,1 kg (IC −2,6 à −1,6), IMC −0,8, tour de taille −2,2 cm ; peu d'essais | [A, 6 petits essais] (PMID 37163454) |\n| Fibres alimentaires totales et santé (hors compléments) | 185 études observationnelles et 58 essais : 15-30 % de moins de mortalité toutes causes et cardiovasculaire, de maladie coronaire, d'AVC, de diabète de type 2 et de cancer colorectal entre plus forts et plus faibles consommateurs ; la revue exclut les essais de compléments | [A, observationnel] (PMID 30638909) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Lipides : 10,2 g/j médians (PMID 30239559) ; constipation : > 10 g/j et ≥ 4 semaines d'après la méta-analyse (PMID 35816465) ; intestin irritable : 10 g/j (PMID 19713235). Pas de dose-réponse chiffrée dans les résumés lus ; aucun relevé de produits fait ici (teneur en tégument à lire sur l'étiquette) ; 10 g/j correspondent à la dose des essais.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Médicaments à base de plantes, laxatifs de lest, vente en pharmacie, tégument d'ispaghul : Spagulax (poudre effervescente), Spagulax mucilage pur, Agiolax, Parapsyllium, Psylia (BDPM, fichiers de composition et CIP, consultés le 2026-10-14). Spagulax : indication « traitement symptomatique de la constipation » chez l'adulte, SMR modéré (avis de la Commission de la transparence du 03/05/2017), remboursement à 30 %, RCP actualisé le 17/06/2024 (page BDPM consultée le 2026-10-14). Psyllium en vrac (graine de psyllium) : autorisation active (BDPM).\n- Compléments alimentaires et fibres alimentaires : nombreux produits ; aucune allégation de santé sur le psyllium (ispaghul, Plantago) dans l'annexe du règlement (UE) n° 432/2012 dans sa version initiale (texte intégral lu le 2026-10-14, recherche des termes « psyllium », « Plantago », « ispaghul » : aucun résultat) ; modifications ultérieures et allégations en attente : non consultées [?]. Pour les bêta-glucanes d'avoine, de son d'avoine, d'orge ou de son d'orge, l'allégation « contribuent au maintien d'une cholestérolémie normale » est autorisée pour une denrée contenant au moins 1 g de bêta-glucanes par portion quantifiée, à condition d'informer que l'effet est obtenu par 3 g/j (même règlement, annexe).\n- AMA : non concerné.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Obstruction : prendre avec au moins 200 mL d'eau ; un manque d'eau peut provoquer une obstruction œsophagienne ou intestinale (cas de bézoard, surtout chez les personnes âgées) (RCP Spagulax, BDPM, consulté le 2026-10-14).\n- Contre-indications du RCP : occlusion ou sténose digestive, maladie de l'œsophage, mégacôlon, troubles de la déglutition, saignement rectal inexpliqué, douleur abdominale inexpliquée, hypersensibilité, maladie inflammatoire de l'intestin (BDPM).\n- Allergie : réactions respiratoires (rhinite, conjonctivite, bronchospasme, rares chocs anaphylactiques) par inhalation de la poudre chez les personnes très exposées (RCP).\n- Interactions (RCP) : retard d'absorption possible des médicaments pris en même temps — minéraux (lithium), vitamine B12, digitaliques, coumariniques, carbamazépine ; prendre à 30 minutes à 1 heure d'intervalle ; diabète : prise sous surveillance (antidiabétiques à ajuster) ; hormones thyroïdiennes : sous surveillance ; médicaments ralentissant le transit (opioïdes) : surveillance, risque d'obstruction.\n- Flatulences et ballonnements plus fréquents sous fibres [A] (PMID 35816465).\n- Grossesse : aucun effet malformatif ou fœtotoxique apparu en clinique, mais moins de 300 grossesses suivies sous ispaghul et études de reproduction animales insuffisantes ; usage à n'envisager que si nécessaire et si le changement de régime est inefficace. Allaitement : même réserve (RCP Spagulax, 4.6, BDPM, consulté le 2026-10-14).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Coupe-faim / brûle-graisse » : seule une méta-analyse de 6 petits essais montre −2,1 kg (PMID 37163454), sans suivi au-delà de quelques mois [A, faible effectif].\n- « Baisse le diabète » : l'effet glycémique est surtout chez des diabétiques déjà traités, pas chez les normoglycémiques (PMID 26561625). Aucun essai sur l'incidence du diabète trouvé dans les méta-analyses lues [?].\n- « Détox du côlon » : aucune donnée recherchée [M].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour. Voir aussi [ApoB, lipides et statines](fiche:apob-lipides-et-statines), [glycémie et prédiabète](fiche:glycemie-et-prediabete), [légumineuses](fiche:legumineuses), [probiotiques](fiche:probiotiques), [butyrate](fiche:butyrate-et-tributyrine).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Jovanovski et al. *Am J Clin Nutr* 2018 — PMID 30239559 — [DOI](https://doi.org/10.1093/ajcn/nqy115)\n2. Whitehead et al. *Am J Clin Nutr* 2014 — PMID 25411276 — [DOI](https://doi.org/10.3945/ajcn.114.086108)\n3. van der Schoot et al. *Am J Clin Nutr* 2022 — PMID 35816465 — [DOI](https://doi.org/10.1093/ajcn/nqac184)\n4. Bijkerk et al. *BMJ* 2009 — PMID 19713235 — [DOI](https://doi.org/10.1136/bmj.b3154)\n5. Gibb et al. *Am J Clin Nutr* 2015 — PMID 26561625 — [DOI](https://doi.org/10.3945/ajcn.115.106989)\n6. Willcox et al. *Front Pharmacol* 2021 — PMID 34899340 — [DOI](https://doi.org/10.3389/fphar.2021.777561)\n7. Gibb et al. *J Am Assoc Nurse Pract* 2023 — PMID 37163454 — [DOI](https://doi.org/10.1097/JXX.0000000000000882)\n8. Reynolds et al. *Lancet* 2019 — PMID 30638909 — [DOI](https://doi.org/10.1016/S0140-6736(18)31809-9)\n9. BDPM, fichiers CIS_bdpm, CIS_COMPO_bdpm, CIS_CIP_bdpm et page « extrait » de Spagulax (CIS 61467730) — https://base-donnees-publique.medicaments.gouv.fr — consultés le 2026-10-14.\n10. Règlement (UE) n° 432/2012 de la Commission du 16 mai 2012 (annexe) — https://eur-lex.europa.eu/eli/reg/2012/432/oj — texte intégral lu le 2026-10-14 (version initiale).\n10. Règlement (UE) n° 432/2012 (allégations de santé), registre de l'UE des allégations — https://eur-lex.europa.eu/eli/reg/2012/432 — recherche du 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Psyllium et fibres solubles",
+ "type": "actif",
+ "unite": ""
+}

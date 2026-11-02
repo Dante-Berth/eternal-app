@@ -1,0 +1,66 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-23",
+ "famille": "alimentation",
+ "id": "regime-nordique",
+ "intro": "",
+ "liens": [
+  "avoine-et-beta-glucanes",
+  "baies-myrtilles-et-anthocyanes",
+  "poissons-gras-omega-3-et-mercure",
+  "regime-mediterraneen",
+  "regimes-comparatif",
+  "seigle-et-orge"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "41094311",
+  "36008559",
+  "30128767"
+ ],
+ "preuve_globale": "A",
+ "resume": "Cohortes : forte adhésion associée à moins de mortalité toute cause (RR 0,78, IC 0,71-0,86), cardiovasculaire (RR 0,84) et par cancer (RR 0,86, IC 0,81-0,91) [B] (PMID 41094311). Pour l'incidence cardiovasculaire, seul un effet « petit » : RR 0,93 (0,88-0,99), hétérogénéité I² = 88 % [B] (PMID 36…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Cohortes** : forte adhésion associée à moins de mortalité toute cause (RR 0,78, IC 0,71-0,86), cardiovasculaire (RR 0,84) et par cancer (RR 0,86, IC 0,81-0,91) [B] (PMID 41094311). Pour l'incidence cardiovasculaire, seul un effet « petit » : RR 0,93 (0,88-0,99), hétérogénéité I² = 88 % [B] (PMID 36008559).\n- **Essais** : petite amélioration de la tension (PAS −3,97 mmHg, PAD −2,08) et du LDL (−0,30 mmol/L) sur 5 essais, 513 pers. [A, effectifs faibles] (PMID 30128767) ; glycémie, insuline et lipides améliorés dans une méta-analyse plus récente, sans effet sur HDL, ApoA1 ni CRP [A] (PMID 41094311).\n- **Pas de test à long terme sur événements ni mortalité en essai randomisé** dans les résumés lus [?].\n- **Définition** : régime fondé sur les aliments traditionnels nordiques ; les composants exacts et les scores d'adhésion varient d'une étude à l'autre et ne figurent pas dans les résumés lus [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Définition** : régime fondé sur les aliments traditionnels nordiques réputés sains (PMID 36008559). La liste d'aliments et les scores d'adhésion varient entre études ; non détaillés dans les résumés lus [?].\n- **Deux types de données** : cohortes qui mesurent l'adhésion à un score nordique (32 cohortes) et essais qui fournissent un régime nordique (15 ECR) (PMID 41094311). Les deux ne mesurent pas la même chose.\n- **Contenu probable** (céréales complètes, poissons, baies, légumes racines, huile de colza) : description courante, non sourcée par les résumés lus [?]. Pour les aliments voisins, voir [seigle et orge](fiche:seigle-et-orge), [avoine](fiche:avoine-et-beta-glucanes), [baies](fiche:baies-myrtilles-et-anthocyanes), [poissons gras](fiche:poissons-gras-omega-3-et-mercure).",
+   "titre": "Variantes et contenu"
+  },
+  {
+   "markdown": "Non revérifié [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Source | Résultat | Preuve |\n|---|---|---|\n| 32 cohortes + 15 ECR (GRADE) | cohortes, forte vs faible adhésion : mortalité toute cause RR 0,78 (0,71-0,86), CV 0,84, cancer 0,86 (0,81-0,91), autres causes 0,69 ; incidence : diabète de type 2 −12 %, maladie CV −8 %, coronaropathie −11 %, AVC −12 %, cancer −16 % ; ECR : glycémie à jeun, insuline, lipides, tension améliorés ; pas d'effet HDL, ApoA1, CRP (PMID 41094311) | [B, cohortes ; A, marqueurs ECR] |\n| 15 cohortes (1 057 176 pers.) + 6 ECR (717 pers.), pour l'EASD | CVD totale RR 0,93 (0,88-0,99), I² = 88 % ; gradient dose-réponse inverse pour mortalité CV, coronaropathie, AVC, diabète de type 2 (PMID 36008559) | [B] |\n| 5 ECR, 513 pers. | cholestérol total −0,38 mmol/L, LDL −0,30 mmol/L ; PAS −3,97 mmHg, PAD −2,08 ; HDL et triglycérides inchangés (PMID 30128767) | [A, 5 essais] |\n\nLe résumé de PMID 41094311 donne un IC illisible pour la mortalité CV (« 0,79-0,80 ») : seul le RR 0,84 est repris ici.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « Le régime nordique réduit la mortalité de 22 % » : valeur issue de cohortes où l'adhésion est confondue avec le mode de vie ; l'essai qui le prouverait n'existe pas dans les résumés lus [B].\n- « Il réduit l'inflammation » : pas d'effet sur la CRP dans les essais regroupés [A] (PMID 41094311).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Pas d'effet indésirable rapporté dans les résumés lus. Poissons : voir [poissons gras, oméga-3 et mercure](fiche:poissons-gras-omega-3-et-mercure) ; allergies et gluten (seigle, orge) non traités ici [?].\n\nLimite : populations majoritairement nordiques et européennes ; transposabilité non recherchée [?].\n\nStatut réglementaire : sans objet (pattern alimentaire).\n\nVoir aussi : [régime méditerranéen](fiche:regime-mediterraneen) · [seigle et orge](fiche:seigle-et-orge) · [avoine et β-glucanes](fiche:avoine-et-beta-glucanes) · [baies et anthocyanes](fiche:baies-myrtilles-et-anthocyanes) · [comparatif des régimes](fiche:regimes-comparatif).",
+   "titre": "Sécurité, populations à risque"
+  },
+  {
+   "markdown": "- PMID 41094311 — Bakhshimoghaddam F. et al., *Eur J Nutr* 2025. doi:10.1007/s00394-025-03820-9\n- PMID 36008559 — Massara P. et al., *Diabetologia* 2022. doi:10.1007/s00125-022-05760-z\n- PMID 30128767 — Ramezani-Jolfaie N. et al., *Eur J Nutr* 2019. doi:10.1007/s00394-018-1804-0",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Régime nordique",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,84 @@
+{
+ "cibles": [
+  "prevention",
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "alimentation",
+ "id": "cruciferes-brocoli-et-sulforaphane",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "antioxydants-alimentaires-et-absorption",
+  "depistage-cancer-colorectal",
+  "glycemie-et-prediabete",
+  "vitamine-k2",
+  "vitamines-aliments-et-absorption"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 12,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28338764",
+  "23211939",
+  "37343525",
+  "39929977",
+  "42641715",
+  "36771424",
+  "34034808",
+  "36427174",
+  "29806738",
+  "30735751",
+  "15121490",
+  "20630973"
+ ],
+ "preuve_globale": "B",
+ "resume": "Cohortes : association inverse avec la mortalité, les maladies CV et le cancer total, pour les crucifères et les légumes verts parmi d'autres. Méta-analyse de 95 études (200 g/j de fruits et légumes : maladies CV RR 0,92, mortalité toutes causes RR 0,90, cancer total RR 0,97) ; les crucifères fig…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Cohortes : association inverse avec la mortalité, les maladies CV et le cancer total, pour les crucifères et les légumes verts parmi d'autres.** Méta-analyse de 95 études (200 g/j de fruits et légumes : maladies CV RR 0,92, mortalité toutes causes RR 0,90, cancer total RR 0,97) ; les crucifères figurent parmi les sous-groupes associés à moins de maladies CV, de mortalité et de cancer [B, cohortes] (PMID 28338764). Le chiffre propre aux crucifères n'est pas dans le résumé [?].\n- **Cancer colorectal** : 24 études cas-témoins + 11 prospectives, RR 0,82 (0,75-0,90) ; dans les seules études prospectives, la limite est à peine significative [B, surtout cas-témoins] (PMID 23211939). **Prostate** : 7 cas-témoins + 9 cohortes, RR 0,87 (0,80-0,95), hétérogénéité I² 59 % [B] (PMID 37343525).\n- **Le sulforaphane (molécule des pousses de brocoli) n'a pas encore tenu ses promesses dans les essais.** Prédiabète, 74 personnes, 12 semaines : critère principal (baisse de 0,3 mmol/L de glycémie à jeun) non atteint ; baisse de 0,2 mmol/L (-0,44 à -0,01) ; sous-groupe « répondeur » exploratoire lié au microbiote [B, ECR n=74] (PMID 39929977). Diabète de type 2 et insuffisance rénale (99 patients) : aucune différence de glycémie, insuline ou HbA1c [B, ECR n=99] (PMID 42641715). Autisme de l'enfant : trois ECR, aucune amélioration nette sur les échelles principales (PMID 36771424 : non significatif ; PMID 34034808 : non significatif sur le critère principal ; PMID 36427174 : échelles des cliniciens améliorées mais pas celles des aidants).\n- **Interaction à connaître : antivitamine K.** Une alimentation pauvre ou riche en vitamine K déplace l'INR (voir Sécurité).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Les crucifères contiennent des glucosinolates (dont la glucoraphanine) ; l'enzyme végétale myrosinase les transforme en isothiocyanates (dont le sulforaphane) quand on coupe ou mâche le légume cru. **La cuisson détruit la myrosinase** ; l'ajout de 1 g de moutarde en poudre à 200 g de brocoli cuit multiplie par plus de 4 l'excrétion urinaire du métabolite du sulforaphane chez 12 adultes (44,7 vs 9,8 µmol/g de créatinine) [B, ECR croisé n=12, critère biochimique] (PMID 29806738). Une partie de la conversion est réalisée par le microbiote ; la capacité de conversion varie d'une personne à l'autre (PMID 39929977 : un gène bactérien lié à la conversion plus abondant chez les répondeurs).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Fruits et légumes, mortalité, CV, cancer (95 études) | par 200 g/j : CV RR 0,92 (0,90-0,95), cancer 0,97 (0,95-0,99), mortalité 0,90 (0,87-0,93) ; crucifères associés à moins de maladies CV, de mortalité et de cancer ; hétérogénéité jusqu'à I² 83 % (PMID 28338764) | [B, cohortes] |\n| Cancer colorectal | RR 0,82 (0,75-0,90), brocoli et chou similaires ; études prospectives à la limite de la significativité (PMID 23211939) | [B, cas-témoins dominants] |\n| Cancer de la prostate | RR 0,87 (0,80-0,95) ; par 15 g/j RR 0,955 (0,928-0,982) (PMID 37343525) | [B] |\n| Prédiabète, extrait de pousses de brocoli | n=74 : critère principal manqué ; glycémie à jeun -0,2 mmol/L (-0,44 à -0,01) ; effets digestifs, pas d'effet grave (PMID 39929977) | [B, ECR n=74, critère principal négatif] |\n| Diabète de type 2 + insuffisance rénale 3b-4 | n=99, jusqu'à 150 µmol/j d'extrait : pas de différence de glycémie, insuline, HbA1c (PMID 42641715) | [B, ECR n=99, négatif] |\n| Autisme (enfants) | trois ECR, résultats nuls sur les critères principaux ou discordants selon l'évaluateur (PMID 36771424, 34034808, 36427174) | [B, négatif ou discordant] |\n| Sécurité thyroïdienne (boisson de pousses de brocoli, 12 semaines) | n=45 femmes : TSH, T4 libre, thyroglobuline et auto-immunité inchangées (PMID 30735751) | [B, ECR n=45] |\n| Cuisson, biodisponibilité | brocoli cuit + moutarde : 44,7 vs 9,8 µmol SF-NAC/g de créatinine (PMID 29806738) | [B, critère biochimique, n=12] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Aliment** : les cohortes agrègent des quantités de légumes ; dose de crucifères (g/j) par étude non relevée [?]. Prostate : tendance par 15 g/j (PMID 37343525).\n- **Extraits de pousses** : jusqu'à 150 µmol/j d'extrait (750 µmol de sulforaphane) dans l'ECR rénal (PMID 42641715). Compléments « sulforaphane » vendus : teneur en glucoraphanine, présence de myrosinase active et prix non vérifiés [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Aliment (légumes frais, surgelés) ; extraits et poudres de pousses : compléments alimentaires ; statut exact et allégations non consultés [?]. Statut AMA : non concerné (non vérifié).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Antivitamine K (warfarine, acénocoumarol, fluindione)** : dans un essai croisé randomisé de 12 patients stables, une alimentation enrichie en vitamine K a fait baisser l'INR (3,1 → 2,8) et une alimentation appauvrie l'a fait monter (2,6 → 3,3) ; plus généralement, l'apport en vitamine K est un facteur indépendant d'instabilité de l'anticoagulation [B, ECR croisé n=12 et observationnel n=39] (PMID 15121490). Un cas publié décrit une interaction avec des pousses (PMID 20630973, titre « Sprouting a warfarin interaction », résumé indisponible). **Conduite : garder une consommation régulière, pas la supprimer ; en parler au médecin ou à l'équipe d'anticoagulation avant un changement important** (ordre de grandeur du contenu en vitamine K par légume : non relevé [?]).\n- **Thyroïde** : la crainte d'effet « goitrigène » a été testée seulement sur une boisson de pousses de brocoli, sans effet sur les hormones thyroïdiennes (PMID 30735751). Rôle dans la carence en iode, personnes avec hypothyroïdie traitée : non recherché [?].\n- Effets digestifs de l'extrait de pousses rapportés (PMID 39929977).\n- Grossesse, extraits à forte dose : non recherchés [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Le sulforaphane en gélule détoxifie / traite le diabète / l'autisme »** : critères principaux négatifs ou discordants dans les ECR lus [B] (PMID 39929977, 42641715, 36771424, 34034808, 36427174).\n- **« Le brocoli prévient le cancer »** : association en cohortes et cas-témoins, hétérogène, causalité non démontrée [B] (PMID 23211939, 37343525).\n- **« Cuit à l'eau ou cuit au four, c'est pareil »** : la myrosinase est détruite par la cuisson ; ajouter de la moutarde crue augmente le sulforaphane urinaire [B] (PMID 29806738). Effet clinique de cette différence : non démontré [?].\n\nVoir aussi : [antioxydants alimentaires et absorption](fiche:antioxydants-alimentaires-et-absorption) · [vitamines : aliments et absorption](fiche:vitamines-aliments-et-absorption) · [vitamine K2](fiche:vitamine-k2) · [glycémie et prédiabète](fiche:glycemie-et-prediabete) · [dépistage du cancer colorectal](fiche:depistage-cancer-colorectal) · [alimentation : synthèse](fiche:alimentation).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 28338764 — Aune et al., *Int J Epidemiol* 2017 (95 études). doi:10.1093/ije/dyw319\n- PMID 23211939 — Wu et al., *Ann Oncol* 2013 (colorectal). doi:10.1093/annonc/mds601\n- PMID 37343525 — Long et al., *Urol Int* 2023 (prostate). doi:10.1159/000530435\n- PMID 39929977 — Dwibedi et al., *Nat Microbiol* 2025 (prédiabète, extrait de pousses). doi:10.1038/s41564-025-01932-w\n- PMID 42641715 — Avesani et al., *J Ren Nutr* 2026 (diabète + rénal). doi:10.1053/j.jrn.2026.08.009\n- PMID 36771424 — Magner et al., *Nutrients* 2023 (autisme). doi:10.3390/nu15030718\n- PMID 34034808 — Zimmerman et al., *Mol Autism* 2021 (autisme). doi:10.1186/s13229-021-00447-5\n- PMID 36427174 — Ou et al., *J Autism Dev Disord* 2024 (autisme). doi:10.1007/s10803-022-05784-9\n- PMID 29806738 — Okunade et al., *Mol Nutr Food Res* 2018 (moutarde, brocoli cuit). doi:10.1002/mnfr.201700980\n- PMID 30735751 — Chartoumpekis et al., *Food Chem Toxicol* 2019 (thyroïde). doi:10.1016/j.fct.2019.02.004\n- PMID 15121490 — Franco et al., *Am J Med* 2004 (vitamine K et anticoagulation). doi:10.1016/j.amjmed.2003.12.036\n- PMID 20630973 — Kidd et al., *BMJ* 2010 (cas, pousses et warfarine ; titre seul). doi:10.1136/bmj.c2621",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Crucifères (brocoli, chou) et sulforaphane",
+ "type": "actif",
+ "unite": ""
+}

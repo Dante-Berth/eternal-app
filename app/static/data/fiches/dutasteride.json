@@ -1,0 +1,77 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "medicament",
+ "id": "dutasteride",
+ "intro": "",
+ "liens": [
+  "biomarqueur-psa",
+  "depistage-cancer-prostate-psa",
+  "finasteride",
+  "minoxidil"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 13,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28294070",
+  "17110217",
+  "24411083",
+  "20605255",
+  "30863034",
+  "41051009",
+  "23768246",
+  "42168420",
+  "41367323",
+  "40986632",
+  "27225981",
+  "42396141",
+  "36547981"
+ ],
+ "preuve_globale": "A",
+ "resume": "Probablement un peu plus efficace que le finastéride 1 mg chez l'homme : +28,6 cheveux (zone de comptage) vs finastéride dans une méta-analyse de 3 ECR (576 hommes, 24 sem.) [A] ; classé 1er (SUCRA 95,8 %) d'une NMA de 24 essais [A, faible certitude].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Probablement un peu plus efficace que le finastéride 1 mg chez l'homme : +28,6 cheveux (zone de comptage) vs finastéride dans une méta-analyse de 3 ECR (576 hommes, 24 sem.) [A] ; classé 1er (SUCRA 95,8 %) d'une NMA de 24 essais [A, faible certitude].\n- En France, autorisé uniquement pour l'hypertrophie bénigne de la prostate : pour les cheveux, c'est du hors AMM, sur prescription (BDPM, consulté le 2026-10-03).\n- Même classe et mêmes risques que le finastéride (sexuels, humeur, PSA divisé par deux), avec une demi-vie de 3 à 5 semaines : les effets mettent longtemps à disparaître à l'arrêt (RCP).\n- Mésothérapie / injections de dutastéride : études hétérogènes et petites [B] ; aucune préparation injectable autorisée. Pas de protocole ici.\n- Données presque inexistantes chez la femme ; contre-indiqué (grossesse).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Inhibiteur sélectif et compétitif des deux isoenzymes (types 1 et 2) de la 5α-réductase, alors que le finastéride n'inhibe que le type 2 [B] (revue, PMID 28294070). Chez l'homme, la DHT du cuir chevelu et du sérum baisse et la testostérone monte de façon dose-dépendante [B, ECR n=416] (PMID 17110217). Demi-vie d'élimination d'environ 3 à 5 semaines (RCP Avodart, BDPM, consulté le 2026-10-03).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| AGA homme, 0,02 à 0,5 mg vs finastéride 1 mg vs placebo, 24 sem. | 917 hommes : effet dose-dépendant ; 0,5 mg supérieur au finastéride 1 mg sur le nombre et le diamètre des cheveux (p = 0,003 et 0,004) ; effets indésirables comparables. Essai financé par GSK | [B, ECR unique n=917] (PMID 24411083) |\n| AGA homme, 0,5 mg vs placebo, 6 mois (Corée) | +12,2 vs +4,7 cheveux/cm² (p = 0,032) | [B, ECR unique n=153] (PMID 20605255) |\n| AGA homme, doses 0,05 à 2,5 mg vs finastéride 5 mg, 24 sem. | Effet dose-dépendant ; 2,5 mg supérieur au finastéride 5 mg | [B, ECR n=416] (PMID 17110217) |\n| Dutastéride vs finastéride, méta-analyse | 3 ECR, 576 hommes : +28,57 cheveux (IC 18,75–38,39) ; libido, érection et éjaculation non différentes | [A] (PMID 30863034) |\n| NMA monothérapies homme, 24 sem. | Classé 1er (SUCRA 95,8 %) ; +19,0 cheveux/cm² vs contrôle ; vs finastéride : −7,4 (IC crédible −16 à 2,0, non significatif en réseau), incohérence directe/indirecte significative (p = 0,045) ; texte intégral | [A, faible certitude] (PMID 41051009) |\n| NMA plus ancienne des 5-ARI | Finastéride 1 mg, 5 mg et dutastéride non différents entre eux | [A, faible certitude] (PMID 23768246) |\n| Associations au minoxidil (NMA) | Dutastéride classé 3e sur le nombre de cheveux, derrière PRP + minoxidil ; estimations SUCRA « à interpréter avec prudence » | [A, faible certitude] (PMID 42168420) |\n| Intralésionnel (mésothérapie) | Amélioration de densité et d'épaisseur rapportée, bien toléré, mais études hétérogènes, petits effectifs, suivis variables | [B] (PMID 41367323) |\n| Recommandation d'experts | Oral « recommandé », intralésionnel « recommandé avec quasi-consensus » (consensus canadien, Delphi de 11 médecins, dont 4 coauteurs salariés de L'Oréal Canada) | Avis d'experts, pas un niveau de preuve (PMID 40986632) |\n| Femme | Essais nécessaires selon Cochrane ; pas de donnée d'efficacité exploitable [?] | (PMID 27225981) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Étudiées : 0,02 à 2,5 mg/j ; la dose de référence des essais AGA est 0,5 mg/j [B] (PMID 24411083, 17110217).\n- Vendue en France : capsule molle 0,5 mg (Avodart et génériques Accord, Teva, Cristers, Evolugen…) et association dutastéride + tamsulosine, toutes pour la prostate (BDPM, consulté le 2026-10-03).\n- Injectable : aucune spécialité autorisée. Les produits de mésothérapie du marché gris ou de cliniques à l'étranger exposent à des risques de dosage inexact, de mauvaise molécule, de contamination et d'infection.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "| Forme | Statut France (BDPM, consulté le 2026-10-03) |\n|---|---|\n| Dutastéride 0,5 mg oral | Liste I, sur ordonnance ; remboursé à 30 % uniquement dans l'hypertrophie bénigne de la prostate ; contre-indiqué chez la femme, l'enfant et l'adolescent ; RCP Avodart révisé le 09/10/2025. Usage capillaire = hors AMM (prescription possible sous la responsabilité du médecin, non remboursée) |\n| Intralésionnel / mésothérapie | Aucune AMM : non autorisé comme médicament injectable capillaire |\n\nANSM : mesures « idées suicidaires » de septembre 2025 étendues au dutastéride ; pour lui, « l'insuffisance des preuves ne permet pas d'établir une relation directe » avec les idées suicidaires, mais la classe impose de consulter en cas de changement d'humeur (ANSM, information de sécurité du 25/09/2025, consultée le 2026-10-03).\n\nAMA : non cité dans les communications 2026 consultées (AFLD) ; texte intégral de la liste 2026 non ouvert depuis mes outils : à confirmer sur la liste 2026 ou medicaments.afld.fr.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Sexuels : dysfonction érectile, baisse de libido, troubles de l'éjaculation, gynécomastie, qui « peuvent persister » après l'arrêt (RCP Avodart). En ECR dans l'AGA, effets sexuels 4,1 à 12,0 % sous 0,5 mg vs 4,0 à 5,0 % sous placebo [A] (PMID 42396141) ; pas de différence vs finastéride [A] (PMID 30863034).\n- Humeur : dépression et idées suicidaires rapportées avec la classe (RCP). Cohorte suédoise (hommes de 50 à 90 ans) : dépression HR 1,68, pas d'excès de suicide [B] (PMID 36547981).\n- PSA : baisse d'environ 50 % ; refaire un PSA de référence après 6 mois de traitement (RCP) ; voir [dépistage du cancer de la prostate](fiche:depistage-cancer-prostate-psa).\n- Femmes, enfants, adolescents : éviter tout contact avec des capsules endommagées (passage cutané ; risque pour un fœtus masculin) (RCP).\n- Demi-vie longue (3 à 5 semaines) : imprégnation et effets prolongés après l'arrêt (RCP).\n- Contre-indications : insuffisance hépatique sévère ; allergie au soja ou à l'arachide (excipient) (RCP).\n- Interactions : ne pas associer à un autre inhibiteur de la 5α-réductase (RCP finastéride 1 mg). Section interactions du RCP Avodart non relue en détail dans cette session [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Pas de fiche produit : médicament sur ordonnance et hors AMM pour les cheveux. Ce qu'un médecin peut évaluer : intérêt après échec ou réponse insuffisante au finastéride, projet parental, antécédents psychiatriques, PSA de référence. Alternatives autorisées à meilleure base réglementaire : [finastéride](fiche:finasteride) 1 mg oral ou spray, [minoxidil](fiche:minoxidil).\n\nFiches « examen » liées : [PSA](fiche:biomarqueur-psa)",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 28294070 — Arif T. et al., *Curr Clin Pharmacol* 2017, revue. doi:10.2174/1574884712666170310111125\n- PMID 17110217 — Olsen E.A. et al., *J Am Acad Dermatol* 2006. doi:10.1016/j.jaad.2006.05.007\n- PMID 24411083 — Gubelin Harcha W. et al., *J Am Acad Dermatol* 2014. doi:10.1016/j.jaad.2013.10.049\n- PMID 20605255 — Eun H.C. et al., *J Am Acad Dermatol* 2010. doi:10.1016/j.jaad.2009.09.018\n- PMID 30863034 — Zhou Z. et al., *Clin Interv Aging* 2019, méta-analyse. doi:10.2147/CIA.S192435\n- PMID 41051009 — Gupta A.K. et al., *J Cosmet Dermatol* 2025, NMA (texte intégral). doi:10.1111/jocd.70483\n- PMID 23768246 — Gupta A.K. et al., *J Dermatolog Treat* 2013, NMA 5-ARI. doi:10.3109/09546634.2013.813011\n- PMID 42168420 — Bai Y. et al., *Aesthetic Plast Surg* 2026. doi:10.1007/s00266-026-05872-6\n- PMID 41367323 — Almeziny A. et al., *J Cosmet Dermatol* 2025, intralésionnel. doi:10.1111/jocd.70560\n- PMID 40986632 — Landells I. et al., *J Cutan Med Surg* 2025, consensus canadien. doi:10.1177/12034754251368849\n- PMID 27225981 — van Zuuren E.J. et al., *Cochrane Database Syst Rev* 2016. doi:10.1002/14651858.CD007628.pub4\n- PMID 42396141 — Złotowska A. et al., *Front Med* 2026. doi:10.3389/fmed.2026.1787706\n- PMID 36547981 — Garcia-Argibay M. et al., *JAMA Netw Open* 2022. doi:10.1001/jamanetworkopen.2022.48135\n- BDPM, Avodart 0,5 mg (60051234, RCP du 09/10/2025), consulté le 2026-10-03.\n- ANSM, information de sécurité finastéride / dutastéride, 25/09/2025, consultée le 2026-10-03.\n- AFLD, liste AMA 2026, consulté le 2026-10-03.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "hors_amm",
+ "titre": "Dutastéride",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,89 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "comportement",
+ "id": "entrainement-concurrent-et-periodisation",
+ "intro": "Combiner force et endurance (« entraînement concurrent ») : l'**effet d'interférence** existe, mais il est petit pour un amateur. Détails de chaque pilier : [entrainement-en-resistance.md](fiche:entrainement-en-resistance), [zone-2-et-endurance.md](fiche:zone-2-et-endurance), [hiit-et-zone-5-vo2max.md](fiche:hiit-et-zone-5-vo2max) ; effets systémiques du muscle : [myokines.md](fiche:myokines) ; cadre général : [exercice-physique.md](fiche:exercice-physique) ; choix du sport : [types-de-sports.md](fiche:types-de-sports).",
+ "liens": [
+  "alimentation",
+  "entrainement-en-resistance",
+  "exercice-physique",
+  "hiit-et-zone-5-vo2max",
+  "myokines",
+  "sommeil",
+  "types-de-sports",
+  "zone-2-et-endurance"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 13,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "22002517",
+  "41762427",
+  "37847373",
+  "35476184",
+  "28917030",
+  "41734815",
+  "42570706",
+  "23247672",
+  "29345524",
+  "42662491",
+  "35228201",
+  "33239350",
+  "40000283"
+ ],
+ "preuve_globale": "A",
+ "resume": "Adultes sains, 17 méta-analyses (144 études, 1 492 pers.) : l'entraînement concurrent améliore la capacité aérobie autant que l'endurance seule et la force plus que l'endurance seule (SMD 0,59) ; force, puissance et hypertrophie comparables à la musculation seule [A, sujets récréatifs ; athlètes…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Adultes sains, 17 méta-analyses (144 études, 1 492 pers.) : l'entraînement concurrent améliore la capacité aérobie autant que l'endurance seule et la force plus que l'endurance seule (SMD 0,59) ; **force, puissance et hypertrophie comparables à la musculation seule** [A, sujets récréatifs ; athlètes entraînés peu étudiés].\n- Interférence mesurée : légère sur la force des jambes chez les hommes (SMD −0,43), pas chez les femmes [A].\n- La **course** interfère davantage que le **vélo** sur l'hypertrophie des fibres (SMD −0,81 pour les fibres de type I avec la course) [A, petit nombre d'études].\n- Ajouter des sprints (SIT) à la musculation améliore le VO2max sans nuire à force ni puissance [A, 9 études, 177 pers.].\n- Ordre dans la séance : musculation avant endurance donne un petit avantage sur la force dynamique du bas du corps, pas sur l'hypertrophie [A].\n- Répartition hebdomadaire optimale pour la longévité d'un amateur : aucun essai ne la teste [?] ; section dédiée plus bas, clairement séparée des faits.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Voie moléculaire souvent invoquée (AMPK freinant mTOR après l'endurance) : non revérifiée ici ; les données ci-dessous sont des effets mesurés (force, masse, VO2), pas des déductions de mécanisme [?]. Constat empirique : l'interférence dépend de la modalité, de la fréquence et de la durée de l'endurance (PMID 22002517) [A].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Interférence sur force et hypertrophie\n| Question | Résultat | Preuve |\n|---|---|---|\n| Umbrella review, 17 méta-analyses, 144 études, 1 492 adultes sains | concurrent vs endurance seule : force SMD 0,59 ; vs musculation seule : VO2 SMD 0,77, force/puissance/hypertrophie comparables ; pas d'effet significatif de l'ordre, tendance à musculation avant endurance (PMID 41762427) | [A, sujets récréatifs ; athlètes d'élite rares] |\n| 59 études, 1 346 adultes de 18-50 ans | force du bas du corps réduite chez les hommes (−0,43 [−0,64 ; −0,22]), pas chez les femmes (0,08) ; VO2max moindre chez les non entraînés seulement ; données d'hypertrophie insuffisantes (PMID 37847373) | [A] |\n| Fibres musculaires, 15 études | hypertrophie des fibres : SMD −0,23 (−0,46 à −0,00, p = 0,050) ; type I avec course −0,81, pas avec vélo ; fréquence, statut d'entraînement, ordre : pas de différence (PMID 35476184) | [A, effet limite, petit nombre d'études] |\n| Méta-analyse 2012 | hypertrophie : ES 1,23 (force), 0,85 (concurrent), 0,27 (endurance) ; la course concurrente, pas le vélo, diminue hypertrophie et force ; corrélations négatives avec la fréquence et la durée de l'endurance (PMID 22002517) | [A, ancienne ; ES de 0,85 vs 1,23 non testé comme différence dans le résumé] |\n| Ordre intra-séance, 10 études | musculation puis endurance : force dynamique du bas du corps +6,91 % (IC 1,96-11,87) ; pas d'effet sur hypertrophie, force statique, VO2 (PMID 28917030) | [A, 10 études] |\n| Sprints (SIT) + musculation vs musculation seule, 9 études (177 pers.) | force, puissance, sprint : pas de différence ; VO2max SMD 0,78 en faveur du combiné (PMID 41734815) | [A, petits effectifs] |\n\nLecture : l'interférence est un phénomène de sportifs visant le maximum de force ou de masse. Chez un amateur, l'ampleur observée reste modeste et ne justifie pas de renoncer au cardio. Chez les personnes de plus de 60 ans, voir les données sur la force spécifique et la sarcopénie dans exercice-physique.md : le concurrent n'y a pas montré de bénéfice significatif sur la force spécifique, la résistance seule oui (PMID 42570706, [A, hétérogénéité forte]).\n\n### Surentraînement, récupération, charge\n- **Définitions** : le surmenage fonctionnel (*functional overreaching*) précède une amélioration après récupération ; le surmenage non fonctionnel puis le syndrome de surentraînement (« maladaptation prolongée ») surviennent quand l'équilibre charge/récupération est rompu. Le diagnostic est d'exclusion (maladie organique, infection, déficit énergétique, carence en fer ou magnésium…) ; **aucun marqueur** (hormonal, biochimique, immunitaire, psychologique) ne répond à tous les critères d'usage général (PMID 23247672) [B, consensus d'experts].\n- **Récupération** : la déclaration de consensus de Munich fournit définitions et cadres théoriques ; elle souligne la forte variabilité interindividuelle des réponses à la charge et à la récupération (PMID 29345524) [B, consensus d'experts].\n- **Charge** : le ratio charge aiguë/chronique élevé est associé à un risque de blessure accru (g 0,35 [0,16-0,54], I² 95,8 %) mais « ne soutient pas son usage comme modèle prédictif ou causal isolé » (PMID 42662491) [A, hétérogénéité très forte, sports collectifs]. Le dogme des « +10 % par semaine » n'a pas été recherché [?].\n- Sommeil et nutrition comme leviers de récupération : voir [sommeil.md](fiche:sommeil) et [alimentation.md](fiche:alimentation) ; données quantifiées sur la récupération entre séances de force et d'endurance : non extraites [?].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "**Ceci n'est pas un protocole validé par essai** : aucun essai randomisé trouvé comparant des répartitions hebdomadaires sur la mortalité ou le vieillissement [?]. C'est une façon de traduire des faits vérifiés en planning :\n\n| Élément | Appui factuel | Preuve |\n|---|---|---|\n| Renforcement musculaire régulier en plus de l'aérobie | association aérobie + renforcement meilleure que l'un seul sur la mortalité en cohorte ; bénéfice maximal vers 30-60 min/sem de renforcement (voir exercice-physique.md, PMID 35228201) | [B] |\n| 150-300 min/sem d'aérobie modérée (ou 75-150 min soutenue) | recommandation OMS 2020 (voir exercice-physique.md, PMID 33239350) | recommandation officielle |\n| Endurance sans freiner la force | l'interférence est petite, plus faible avec le vélo qu'avec la course, croît avec fréquence et durée de l'endurance (PMID 22002517, 35476184) | [A] |\n| Intensité : sprints courts possibles | SIT + musculation sans perte de force (PMID 41734815) | [A, petits effectifs] |\n| Séance de force avant l'endurance dans la même séance, ou jours séparés | petit avantage de l'ordre sur la force du bas du corps (PMID 28917030, 41762427) | [A] |\n\nExemple d'organisation qui respecte ces faits (suggestion, non testée comme tel) : 2 séances de force de corps entier, 2-3 sorties d'endurance faciles, 0-1 séance intense courte, au moins 1 jour de repos complet. La part de chaque pilier pour la longévité reste ouverte [?].",
+   "titre": "Répartition hebdomadaire réaliste (amateur, objectif longévité)"
+  },
+  {
+   "markdown": "- « Le cardio détruit les muscles » : l'umbrella review ne trouve pas de perte d'hypertrophie du concurrent vs musculation seule chez les sujets récréatifs ; l'effet se limite à de petites différences sur la force des jambes chez l'homme et sur les fibres, surtout avec la course [A].\n- « Faire de la musculation avant le cardio, toujours » : l'ordre a un effet d'ampleur modeste et non démontré sur l'hypertrophie [A].",
+   "titre": "Doses : ce que les données disent vs ce qu'on lit partout"
+  },
+  {
+   "markdown": "- « L'interférence rend le concurrent inutile » : faux pour un amateur ; le concurrent améliore VO2 et force vs endurance seule [A].\n- « Le surentraînement se détecte par une prise de sang ou une montre » : aucun marqueur reconnu ne suffit (PMID 23247672) [B] ; les scores de récupération des montres n'ont pas été évalués dans cette passe [?].\n- « Le ratio charge aiguë/chronique prédit les blessures » : association modeste, très hétérogène, usage prédictif non soutenu (PMID 42662491) [A].\n- « Tout le monde doit s'entraîner comme un athlète » : la majorité des données d'interférence proviennent de sujets récréatifs ou débutants ; les athlètes entraînés sont rares [A].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Surentraînement : fatigue persistante, baisse de performance, troubles de l'humeur, infections répétées ; diagnostic d'exclusion (PMID 23247672) [B].\n- Déficit énergétique : apports énergétiques et lipidiques plus bas associés à plus de blessures chez les coureuses (PMID 40000283) [B].\n- Pour cardiopathie, âge avancé, ostéoporose, grossesse : se référer à exercice-physique.md et à un avis médical ; adaptation du concurrent à ces populations non extraite [?].\n- Population peu étudiée : femmes d'âge moyen en concurrent (effets sexe-dépendants, PMID 37847373), plus de 60 ans, athlètes d'élite [?].",
+   "titre": "Sécurité, contre-indications"
+  },
+  {
+   "markdown": "—",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "Fatigue inhabituelle persistante plus de deux semaines malgré le repos, baisse de performance durable, arrêt des règles, douleur osseuse ou tendineuse persistante, palpitations ou douleur thoracique à l'effort, infections à répétition.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 41762427 — Held S. et al., *Sports Med* 2026 (umbrella review, entraînement concurrent). doi:10.1007/s40279-026-02401-y\n- PMID 37847373 — Huiberts R.O. et al., *Sports Med* 2023 (sexe, statut d'entraînement). doi:10.1007/s40279-023-01943-9\n- PMID 35476184 — Lundberg T.R. et al., *Sports Med* 2022 (hypertrophie des fibres). doi:10.1007/s40279-022-01688-x\n- PMID 22002517 — Wilson J.M. et al., *J Strength Cond Res* 2012 (interférence). doi:10.1519/JSC.0b013e31823a3e2d\n- PMID 28917030 — Eddens L. et al., *Sports Med* 2018 (ordre intra-séance). doi:10.1007/s40279-017-0784-1\n- PMID 41734815 — Ferraro-Farro et al., *Int J Sports Med* 2026 (SIT et concurrent). doi:10.1055/a-2820-4527\n- PMID 23247672 — Meeusen R. et al., *Med Sci Sports Exerc* 2013 (syndrome de surentraînement, consensus ECSS-ACSM). doi:10.1249/MSS.0b013e318279a10a\n- PMID 29345524 — Kellmann M. et al., *Int J Sports Physiol Perform* 2018 (récupération, consensus). doi:10.1123/ijspp.2017-0759\n- PMID 42662491 — Ding et al., *Front Public Health* 2026 (ACWR).\n- PMID 40000283 — Colebatch et al., *J Sci Med Sport* 2025.\n- PMID 42570706, 35228201, 33239350 — voir exercice-physique.md (références déjà en place).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Entraînement concurrent et périodisation",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,75 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-18",
+ "famille": "alimentation",
+ "id": "kamut-boulgour-et-bles-anciens",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "ble-gluten-epeautre-et-cereales-anciennes",
+  "cereales-completes-et-raffinees",
+  "maladie-coeliaque-et-intolerances"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "23299714",
+  "29143934",
+  "29652567",
+  "31347165",
+  "30400372",
+  "27790934"
+ ],
+ "preuve_globale": "B",
+ "resume": "Le kamut est le seul blé ancien avec plusieurs essais randomisés, mais ils sont petits, courts et portent sur une marque. Cinq ECR (n = 20 à 63) le comparent à du blé moderne : cholestérol, glycémie, tension et marqueurs inflammatoires s'améliorent un peu dans le groupe kamut [B, essais petits, c…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Le kamut est le seul blé ancien avec plusieurs essais randomisés, mais ils sont petits, courts et portent sur une marque.** Cinq ECR (n = 20 à 63) le comparent à du blé moderne : cholestérol, glycémie, tension et marqueurs inflammatoires s'améliorent un peu dans le groupe kamut [B, essais petits, courts, résultats non répliqués par des équipes indépendantes dans les sources lues] (PMID 23299714, 29143934, 29652567, 31347165, 30400372). Aucune méta-analyse trouvée [?].\n- **Aucune étude humaine trouvée sur le boulgour** (blé dur concassé précuit) : les résultats de PubMed sont des travaux de technologie alimentaire [?].\n- **Le kamut est du blé : il contient du gluten.** Voir [blé, gluten, épeautre](fiche:ble-gluten-epeautre-et-cereales-anciennes) et [maladie cœliaque](fiche:maladie-coeliaque-et-intolerances).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Non établi. La revue sur le kamut note que « les céréales anciennes ne sont pas une catégorie homogène » et qu'on ne peut pas dire si toutes partagent ces effets ; la marque KAMUT® désigne une variété précise (*Triticum turgidum* ssp. *turanicum*), ce qui rend les études comparables entre elles (PMID 27790934). Une hypothèse testée par l'équipe de Cicero : une protéine du blé (nsLTP2) à activité antioxydante et anti-inflammatoire, de teneur différente entre blé ancien et moderne (PMID 30400372). Non confirmée par d'autres équipes dans les sources lues [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Étude | Population, durée, comparateur | Résultat | Preuve |\n|---|---|---|---|\n| Sofi 2013 (PMID 23299714) | 22 sujets sains, croisé simple aveugle, 8 semaines, vs blé semi-complet | cholestérol total -8,46 mg/dL, LDL -9,82 mg/dL, glycémie et marqueurs d'oxydation en baisse, cytokines pro-inflammatoires réduites | [B, ECR unique n = 22] |\n| Trozzi 2019 (PMID 29143934) | 30 sujets sains, parallèle, non aveugle, 16 semaines, vs blé dur complet moderne | baisse de la masse grasse (p = 0,042) et de l'insuline (p = 0,036) plus nette avec le kamut | [B, ECR unique n = 30, non aveugle] |\n| Dinu 2018 (PMID 29652567) | 40 patients atteints de stéatose hépatique, double aveugle, 3 mois, vs blé semi-complet | ALT -12 %, AST -14 %, cholestérol -6 %, cytokines inflammatoires en baisse seulement avec le kamut ; stéatose améliorée dans les deux groupes | [B, ECR unique n = 40] |\n| Spisni 2020 (PMID 31347165) | 20 basketteurs, croisé simple aveugle, 4 semaines | MCP-1 -25,7 % ; aucune différence de performance | [B, ECR unique n = 20] |\n| Cicero 2018 (PMID 30400372) | 63 sujets pré-hypertendus, croisé, 4 semaines par période | triglycérides -14,5 % et glycémie -31,6 % vs blé moderne, tension systolique de 24 h -30,2 % vs blé moderne (pourcentages tels que rapportés dans le résumé ; baisses vs valeur de départ plus petites : TG -9,8 %, glycémie -4,3 %, PAS -3,1 %) | [B, ECR unique n = 63] |\n| Épeautre, engrain, amidonnier | aucun essai humain trouvé | [?] |\n| Boulgour, freekeh | aucun essai humain trouvé | [?] |\n| Mortalité, événements cliniques | aucun | [?] |\n\nLecture : tous ces essais mesurent des marqueurs sur des semaines ; aucun ne mesure des événements. Les effets, mesurés en pourcentage, paraissent plus gros que ce que donnent les céréales complètes en général (voir [céréales complètes](fiche:cereales-completes-et-raffinees)) : à confirmer par des équipes indépendantes et des effectifs plus grands. Les conflits d'intérêts (financement par la marque) n'apparaissent pas dans les résumés lus : non vérifiés [?].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Dose** : régime de remplacement, le kamut étant la **seule source** de produits céréaliers (pain, pâtes, biscuits) pendant 4 à 16 semaines (PMID 29143934). Il ne s'agit pas d'un complément à une alimentation habituelle.\n- **Produits du commerce** : « contient du kamut » ne dit pas quelle proportion de farine ; à vérifier à l'étiquette [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Aliment (grain, farine, pâtes, flocons, galettes). KAMUT® est une marque déposée. Statut « novel food » et autres : non recherchés [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Gluten** : voir TL;DR.\n- **Autres risques** : non recherchés [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Les blés anciens soignent là où le blé moderne rend malade »** : les essais sur le kamut vont dans ce sens sur des marqueurs, mais sont petits, courts et peu répliqués [B] ; ils ne montrent pas que le blé moderne est « nocif ». Aucun essai trouvé sur l'épeautre, l'engrain ou l'amidonnier [?].\n- **« Le kamut est digeste pour les intolérants au gluten »** : non testé ici ; il contient du gluten.\n- **« Boulgour = super-aliment »** : aucune donnée humaine trouvée [?].\n\nVoir aussi : [blé, gluten, épeautre](fiche:ble-gluten-epeautre-et-cereales-anciennes) · [céréales complètes et raffinées](fiche:cereales-completes-et-raffinees) · [alimentation : synthèse](fiche:alimentation).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 23299714 — Sofi et al., *Eur J Clin Nutr* 2013 (kamut, facteurs cardiovasculaires). doi:10.1038/ejcn.2012.206\n- PMID 29143934 — Trozzi et al., *Eur J Nutr* 2019 (kamut, antioxydants, prévention du diabète). doi:10.1007/s00394-017-1579-8\n- PMID 29652567 — Dinu et al., *J Am Coll Nutr* 2018 (kamut, stéatose hépatique). doi:10.1080/07315724.2018.1445047\n- PMID 31347165 — Spisni et al., *J Sci Food Agric* 2020 (kamut, basketteurs). doi:10.1002/jsfa.9947\n- PMID 30400372 — Cicero et al., *Nutrients* 2018 (blé ancien et tension). doi:10.3390/nu10111666\n- PMID 27790934 — Bordoni et al., *Int J Food Sci Nutr* 2017 (revue sur le kamut). doi:10.1080/09637486.2016.1247434",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Kamut (blé khorasan), boulgour et blés anciens",
+ "type": "actif",
+ "unite": ""
+}

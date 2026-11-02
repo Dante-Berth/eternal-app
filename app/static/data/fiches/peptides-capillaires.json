@@ -1,0 +1,76 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-11",
+ "famille": "peptide",
+ "id": "peptides-capillaires",
+ "intro": "",
+ "liens": [
+  "alopecie-androgenetique",
+  "cafeine-topique",
+  "minoxidil",
+  "the-ordinary-multi-peptide-serum-hair-density"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "32473084",
+  "33584955",
+  "37292551",
+  "39609969",
+  "38050644",
+  "39917132",
+  "40386829",
+  "40654553"
+ ],
+ "preuve_globale": "B",
+ "resume": "Ce sont des noms commerciaux d'ingrédients cosmétiques : Capixyl (acétyl tétrapeptide-3 + extrait de trèfle rouge), Procapil (biotinoyl tripeptide-1 + apigénine + acide oléanolique), Redensyl (extrait de mélèze + extrait de thé vert, selon la description d'un détaillant), Baicapil (extraits de sc…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Ce sont des **noms commerciaux d'ingrédients cosmétiques** : Capixyl (acétyl tétrapeptide-3 + extrait de trèfle rouge), Procapil (biotinoyl tripeptide-1 + apigénine + acide oléanolique), Redensyl (extrait de mélèze + extrait de thé vert, selon la description d'un détaillant), Baicapil (extraits de scutellaire, germe de blé, germe de soja). Ni Redensyl ni Baicapil ne sont des peptides, mais ils sont vendus dans les mêmes sérums.\n- Les essais humains trouvés testent **des formules entières** (4 à 6 actifs, parfois avec caféine, biotine, PRP ou minoxidil), jamais un ingrédient isolé : on ne peut donc attribuer l'effet à aucun peptide [B, formules combinées].\n- Un seul essai randomisé contre véhicule : Redensyl + Sepicontrol A5, n=44 [B, ECR unique n=44]. Un essai randomisé contre minoxidil 3 % (n=32) trouve un effet comparable, mais sans bras placebo [B, ECR unique n=32].\n- Aucune comparaison directe avec minoxidil 5 % ni finastéride trouvée : ils ne remplacent pas les [traitements de référence](fiche:alopecie-androgenetique).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Les mécanismes avancés par les fournisseurs (stimulation des cellules souches du follicule, inhibition de la 5-alpha-réductase, ancrage du cheveu) viennent de fiches techniques de fabricants : [M]. Je n'ai pas vérifié d'étude indépendante in vitro ou animale pour chacun [?].\n- Pénétration jusqu'au bulbe folliculaire d'un peptide de ce type : non démontrée dans les sources lues [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Ingrédient / formule | Étude | Résultat | Preuve |\n|---|---|---|---|\n| Redensyl + Sepicontrol A5 (lotion) | ECR contre véhicule, 44 patients, 24 semaines (PMID 32473084) | Auto-évaluation 4 → 6 (p < 0,001) ; rapport anagène/télogène de 2,25 à 6,02 ; pas de bras comparant à un traitement validé | [B, ECR unique n=44] |\n| Biochanine A + acétyl tétrapeptide-3 + ginseng vs minoxidil 3 % | ECR en triple aveugle, 32 patients, 24 semaines (PMID 33584955) | Cheveux terminaux +8,3 % vs +8,7 % sous minoxidil, sans différence significative entre groupes ; pas de placebo, donc on ne sait pas ce que les deux traitements apportent par rapport à rien | [B, ECR unique n=32] |\n| Procapil + PRP vs Redensyl/palmier de Floride/biotine + PRP | ECR, 54 hommes (PMID 37292551) | Score de gravité meilleur dans le groupe Redensyl-palmier-biotine ; comparaison de deux combinaisons, sans groupe sans actif | [B, ECR unique n=54, sans placebo] |\n| Procapil 5 % + PRP vs PRP seul | Essai quasi expérimental, 160 patients, 6 mois (PMID 39609969) | Meilleurs scores d'évaluation par le dermatologue et de satisfaction avec Procapil (p < 0,05) ; non randomisé, critères subjectifs | [B, quasi-expérimental n=160] |\n| Sérum Redensyl + AnaGain + Procapil + Capilia longa (« Regendil ») | Étude ouverte sur 32 sujets, 60 jours (PMID 38050644) | Vitesse de pousse +31,6 % à J60 (p < 0,01) ; sans groupe contrôle ; coauteurs de la société qui commercialise le sérum | [B, ouvert n=32, lien avec le fabricant] |\n| Sérum Redensyl + romarin + AnaGain + MelanoGray | Étude ouverte monobras, 120 jours (PMID 39917132) | Densité +37,9 %, chute −64,9 % ; sans groupe contrôle ; coauteure d'une société de formulation | [B, ouvert, lien avec le fabricant] |\n| Cuticapil (Procapil + autres) en ajout au minoxidil | Étude observationnelle multicentrique, 60 sujets (PMID 40386829) | Moins de chute et meilleurs scores photo qu'avec le traitement seul ; étude observationnelle, deux auteurs de Torrent Pharmaceuticals | [B, observationnelle n=60, lien avec le fabricant] |\n| Baicapil | Aucune étude humaine trouvée sous ce nom | | [?] |\n\nLa revue de 2025 (PMID 40654553), qui couvre Redensyl, Procapil, Capixyl et Baicapil, relève que les études portent surtout sur des formulations combinées, avec « échantillons limités, absence de comparaison avec les traitements standard, groupes non uniformes, type d'alopécie non précisé et conflits d'intérêts ». Elle les voit comme un appoint possible, non comme un remplacement. Revue narrative signée d'un seul auteur : [B].",
+   "titre": "Preuves par indication (alopécie androgénétique, chute)"
+  },
+  {
+   "markdown": "- Procapil 3 % ou 5 % dans certains essais (PMID 39609969). Les concentrations en produit fini sont rarement déclarées : le sérum The Ordinary ne donne aucun pourcentage pour les peptides (voir [fiche produit](fiche:the-ordinary-multi-peptide-serum-hair-density)).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Cosmétiques en lotion, sérum ou shampooing. Statut réglementaire détaillé (fiches CosIng) : non consulté [?]. Aucun n'est un médicament contre la chute des cheveux.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- « Prouvé cliniquement » : les tests cités sont presque tous ouverts, sans contrôle, parfois par le fabricant. Un gain mesuré par phototrichogramme sans groupe témoin ne distingue pas l'effet du produit de la variation saisonnière de la chute ou du simple suivi [B].\n- Mélange d'actifs : l'effet attribué à « Procapil » ou « Redensyl » peut venir de la caféine, du romarin, du minoxidil ou du PRP associés dans les mêmes essais.\n- Redensyl et Baicapil sont vendus dans les « sérums peptides » alors que ce sont des extraits végétaux.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Essais : aucun effet indésirable notable rapporté, mais suivi court (2 à 6 mois) et critères de sécurité peu détaillés dans les résumés [B].\n- Les formules contiennent souvent des extraits végétaux (soja, blé, thé) : allergies possibles. Grossesse et allaitement : aucune donnée [?].\n- Interactions : aucune étude [?]. Consignes de la marque The Ordinary pour son produit : voir la fiche produit.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- [The Ordinary Multi-Peptide Serum for Hair Density](fiche:the-ordinary-multi-peptide-serum-hair-density).\n- Autres formules : [caféine topique](fiche:cafeine-topique), [minoxidil](fiche:minoxidil) (preuve [A]).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Bikash C. *Int J Trichology* 2025 — PMID 40654553 — [DOI](https://doi.org/10.4103/ijt.ijt_8_23)\n2. Katoulis AC et al. *Dermatol Ther* 2020 — PMID 32473084 — [DOI](https://doi.org/10.1111/dth.13734)\n3. Lueangarun S, Panchaprateep R. *J Clin Aesthet Dermatol* 2020 — PMID 33584955\n4. Pavithra Tr et al. *Cureus* 2023 — PMID 37292551 — [DOI](https://doi.org/10.7759/cureus.38696)\n5. Khoso H, Fahim M. *J Ayub Med Coll Abbottabad* 2024 — PMID 39609969 — [DOI](https://doi.org/10.55519/JAMC-02-12749)\n6. Merja A et al. *J Cosmet Dermatol* 2023 — PMID 38050644 — [DOI](https://doi.org/10.1111/jocd.16084)\n7. Patel M et al. *Cureus* 2025 — PMID 39917132 — [DOI](https://doi.org/10.7759/cureus.77066)\n8. Dhurat R et al. *J Cosmet Dermatol* 2025 — PMID 40386829 — [DOI](https://doi.org/10.1111/jocd.70247)\n9. Description des ingrédients (Redensyl, Procapil, Capixyl, Baicapil) : résultat de recherche sur des fiches de détaillants (Look Fantastic, Cult Beauty), consultées le 2026-10-11 ; non vérifiée sur les fiches des fournisseurs.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "Peptides capillaires (Capixyl, Procapil) et Redensyl, Baicapil",
+ "type": "actif",
+ "unite": ""
+}

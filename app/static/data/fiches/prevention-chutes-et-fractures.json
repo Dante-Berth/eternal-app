@@ -1,0 +1,99 @@
+{
+ "cibles": [
+  "prevention",
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "prevention-chutes-et-fractures",
+ "intro": "Les fractures de fragilité (hanche, poignet, vertèbres) naissent de deux choses : un os fragile et une chute. Cette fiche traite le second maillon (la chute) et ce qui est démontré pour le réduire. Le premier maillon est dans [ostéoporose et densité osseuse](fiche:osteoporose-et-densite-osseuse) ; le muscle dans [sarcopénie](fiche:sarcopenie) ; l'exercice dans [équilibre, mobilité et prévention des chutes](fiche:equilibre-mobilite-et-prevention-chutes) et [entraînement en résistance](fiche:entrainement-en-resistance).",
+ "liens": [
+  "entrainement-en-resistance",
+  "equilibre-mobilite-et-prevention-chutes",
+  "exercice-physique",
+  "osteoporose-et-densite-osseuse",
+  "prevention-avc-et-infarctus",
+  "sarcopenie",
+  "tension-arterielle",
+  "vitamine-d"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 10,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "30703272",
+  "30293909",
+  "38833257",
+  "32640131",
+  "33568364",
+  "36178003",
+  "22972103",
+  "36153749",
+  "24768505",
+  "39808441"
+ ],
+ "preuve_globale": "A",
+ "resume": "L'exercice est le levier le mieux démontré : Cochrane, 108 ECR, 23 407 personnes ≥ 60 ans à domicile : taux de chutes -23 % (RaR 0,77 ; 0,71-0,83), chuteurs -15 % (RR 0,85), certitude élevée ; fractures liées aux chutes RR 0,73 (0,56-0,95), certitude faible [A] (PMID 30703272).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **L'exercice est le levier le mieux démontré** : Cochrane, 108 ECR, 23 407 personnes ≥ 60 ans à domicile : taux de chutes -23 % (RaR 0,77 ; 0,71-0,83), chuteurs -15 % (RR 0,85), certitude élevée ; fractures liées aux chutes RR 0,73 (0,56-0,95), certitude faible [A] (PMID 30703272).\n- **Vitamine D chez l'adulte non carencé : ni chutes ni fractures évitées** (81 ECR : chutes RR 0,97, fractures RR 1,00) [A] (PMID 30293909) ; voir [vitamine D](fiche:vitamine-d).\n- **Interventions multifactorielles** : -16 % de chutes (IRR 0,84), pas de baisse significative des fractures (IRR 1,01) [A] (PMID 38833257) ; STRIDE (n=5 451, infirmières, soins primaires) : pas de baisse significative des blessures graves (HR 0,92 ; 0,80-1,06) [B, ECR unique] (PMID 32640131).\n- **Réduire les médicaments à risque** : pas de réduction démontrée des chutes quand c'est la seule mesure (RaR 0,98, 5 essais) [A, faible puissance] (PMID 33568364) ; à inclure dans un plan global, pas à faire seul.\n- Les recommandations mondiales : conseiller l'activité physique à tous, repérer le risque de chute, évaluation multifactorielle si risque élevé [B, consensus d'experts] (PMID 36178003).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Une chute combine facteurs propres à la personne (faiblesse musculaire, troubles de l'équilibre et de la marche, vision, pression artérielle basse, déclin cognitif), médicaments et environnement (sols, escaliers, éclairage) [?] (liste générale, non quantifiée ici). L'exercice agit sur la force et l'équilibre ; le mécanisme détaillé est dans la fiche équilibre ci-dessus. Le risque de fracture après chute dépend de la densité osseuse et de la manière de tomber.",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Levier | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Exercice (équilibre, fonction, programmes multiples) | force, équilibre | chutes RaR 0,77 [A, certitude élevée] (PMID 30703272) ; USPSTF 2024 : IRR 0,85 [A] (PMID 38833257) | non applicable | 0 à variable |\n| Évaluation + plan multifactoriel | combine tout | IRR 0,84 sur les chutes, pas sur les fractures [A] (PMID 38833257) ; STRIDE négatif sur le critère principal [B] (PMID 32640131) | acte médical | non recherché |\n| Revue des médicaments / déprescription | enlève sédatifs, etc. | RaR 0,98 (0,63-1,51) [A, faible puissance] (PMID 33568364) | acte médical | 0 |\n| Vitamine D (population non carencée) | os et muscle | chutes RR 0,97 [A] (PMID 30293909) | complément ou médicament selon dosage | non recherché |\n| Traitement de l'ostéoporose si elle est établie | réduit la fracture sans réduire la chute | voir [ostéoporose et densité osseuse](fiche:osteoporose-et-densite-osseuse) | médicament sur ordonnance | — |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- **Exercice** : les 108 ECR de la revue Cochrane 2019 sont de risque de biais variable (la plupart avec au moins un item « incertain » ou « élevé »). Chez les gens qui ne chutent pas encore comme chez ceux à risque, l'effet est similaire (sous-groupes sans différence). L'effet sur les chutes nécessitant une prise en charge médicale (RR 0,61 ; 0,47-0,79) est de faible certitude ; sur les hospitalisations, indéterminé (PMID 30703272). Détails par type d'exercice (équilibre, tai-chi, résistance) : voir la fiche équilibre.\n- **Revue Cochrane 2012 (159 ECR, 79 193 personnes)** : exercice collectif multicomposant RaR 0,71 (0,63-0,82), à domicile RaR 0,68 (0,58-0,80) ; version plus ancienne, remplacée pour l'exercice par la revue de 2019 (PMID 22972103).\n- **Rapport USPSTF 2024** (83 ECR, 48 839 personnes) : exercice : IRR 0,85 (0,75-0,96) pour les chutes, IRR 0,84 pour les chutes avec blessure ; multifactoriel : IRR 0,84 pour les chutes, mais pas de baisse significative des blessures (IRR 0,92 ; 0,84-1,01) ni des fractures (IRR 1,01 ; 0,81-1,26) [A] (PMID 38833257).\n- **STRIDE** (86 cabinets, 5 451 personnes de ≥ 70 ans à risque, âge moyen 80 ans) : blessure grave adjudiquée 4,9 vs 5,3 pour 100 personnes-années (HR 0,92 ; 0,80-1,06 ; p = 0,25) ; blessure déclarée par le participant HR 0,90 (0,83-0,99). Critère principal négatif [B, ECR unique]. Financement : PCORI et autres (PMID 32640131).\n- **Médicaments** : 5 essais, 1 305 participants : retirer des médicaments augmentant le risque de chute n'a pas modifié le taux de chutes (RaR 0,98 ; 0,63-1,51), ni les blessures ; aucun essai sur les fractures [A, faible puissance] (PMID 33568364). Autre méta-analyse (49 études hétérogènes) : revue de médicaments seule, RR 1,05 (0,85-1,29) pour les chuteurs ; ne pas l'utiliser comme mesure isolée, mais en complément d'une approche multimodale (PMID 36153749). Quels médicaments augmentent le risque de chute (sédatifs, hypnotiques, antidépresseurs, antihypertenseurs…) et de combien : non chiffré dans les sources lues [?].",
+   "titre": "Ce que montrent les essais"
+  },
+  {
+   "markdown": "Chez les adultes de la population générale, la supplémentation en vitamine D n'évite ni fractures ni chutes (PMID 30293909 ; 24768505 pour les chutes, 20 ECR, pas de réduction ≥ 15 %) [A]. Chez la personne en institution, carencée ou à très haut risque, la question est plus nuancée et n'a pas été rouverte ici [?] : un dosage et un avis médical, comme dans la fiche [vitamine D](fiche:vitamine-d). Calcium + vitamine D et fractures chez l'adulte non à risque : voir [ostéoporose et densité osseuse](fiche:osteoporose-et-densite-osseuse).",
+   "titre": "Vitamine D et calcium"
+  },
+  {
+   "markdown": "Dépistage FRAX puis DMO chez la femme ≥ 65 ans à risque : RR 0,83 pour les fractures de hanche [A] ; détail et références dans la fiche [ostéoporose et densité osseuse](fiche:osteoporose-et-densite-osseuse) (PMID 39808441, cité par cette fiche, non relu ici).",
+   "titre": "Dépistage du risque de fracture"
+  },
+  {
+   "markdown": "- **Débutant** : marche quotidienne, exercices d'équilibre simples (appui unipodal avec appui à portée), éclairage et sols dégagés à la maison [?] (conseils généraux).\n- **Intermédiaire** : programme d'exercice encadré et régulier (équilibre + résistance), vue contrôlée, chaussures stables.\n- **Avancé / après une chute** : évaluation multifactorielle par le médecin ou une équipe gériatrique (mobilité, tension debout, vision, médicaments, domicile), selon les recommandations mondiales (PMID 36178003). Ajustement des médicaments par le médecin, jamais à l'initiative du patient.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Compter sur la vitamine D pour éviter les chutes quand la personne n'est pas carencée.\n- Arrêter seul un médicament (antihypertenseur, anticoagulant, antiépileptique…) par peur de la chute.\n- Rester immobile par peur de tomber : l'inactivité aggrave la faiblesse musculaire (mécanisme général, voir [sarcopénie](fiche:sarcopenie)).\n- Traiter l'ostéoporose sans s'occuper de la chute, ou l'inverse.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Une cure de vitamine D prévient les chutes et les fractures »** [M] : [A] faux chez l'adulte en population générale (PMID 30293909).\n- **« Un bracelet / dispositif connecté suffit à prévenir les chutes »** [M] : non recherché ; les dispositifs d'alerte détectent une chute, ils n'agissent pas sur sa cause [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Dans l'analyse USPSTF 2024, ni les interventions multifactorielles ni l'exercice n'ont réduit significativement les fractures liées aux chutes dans l'analyse poolée (IRR 1,01 pour le multifactoriel) ; l'estimation de la revue Cochrane sur les fractures (RR 0,73) est de faible certitude (PMID 38833257, 30703272) [A].\n- Le retrait des médicaments à risque, en isolé, n'a pas fait baisser les chutes (PMID 33568364), ce qui ne veut pas dire qu'il est inutile : les essais sont petits.",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Pas de recommandation française officielle consultée dans cette session (HAS, SPF, ameli : aucune page « chutes » trouvée côté ameli, consulté le 2026-10-15) [?]. À compléter par la recommandation HAS sur les chutes et par la BDPM pour les médicaments cités.",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Chute avec blessure, chute répétée (≥ 2 en un an), peur de tomber qui limite les sorties.\n- Malaise, vertige ou hypotension au lever, nouveau médicament sédatif.\n- Fracture de fragilité (poignet, vertèbre, hanche) : évaluation de l'ostéoporose.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 30703272 — Sherrington C et al., Cochrane 2019, exercice et chutes (résumé relu).\n- PMID 22972103 — Gillespie LD et al., Cochrane 2012, interventions de prévention des chutes (résumé relu en partie).\n- PMID 38833257 — Guirguis-Blake JM et al., *JAMA* 2024, rapport USPSTF (résumé relu).\n- PMID 32640131 — Bhasin S et al., STRIDE, *N Engl J Med* 2020 (résumé relu).\n- PMID 33568364 — Lee J et al., *BMJ Open* 2021, déprescription des FRIDs (résumé relu).\n- PMID 36153749 — Seppala LJ et al., *Age Ageing* 2022, revue de médicaments (résumé relu).\n- PMID 36178003 — Montero-Odasso M et al., *Age Ageing* 2022, recommandations mondiales (résumé relu).\n- PMID 30293909, 24768505, 39808441 — repris des fiches [vitamine D](fiche:vitamine-d) et [ostéoporose et densité osseuse](fiche:osteoporose-et-densite-osseuse).\n- Web : ameli.fr, recherche de page « chutes », consulté le 2026-10-15 (aucune page trouvée).\n\nVoir aussi : [prévention de l'AVC et de l'infarctus](fiche:prevention-avc-et-infarctus) (hypotension et syncopes sous traitement antihypertenseur : voir [tension artérielle](fiche:tension-arterielle)), [exercice physique](fiche:exercice-physique).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Prévention des chutes et des fractures chez les personnes âgées",
+ "type": "condition",
+ "unite": ""
+}

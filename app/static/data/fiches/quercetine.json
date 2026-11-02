@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "longevite",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "quercetine",
+ "intro": "",
+ "liens": [
+  "curcumine",
+  "egcg-et-extraits-de-the-vert",
+  "fisetine",
+  "metformine",
+  "rapamycine"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "27405810",
+  "31940027",
+  "31542391",
+  "36857968",
+  "37679434",
+  "30616998",
+  "29127724"
+ ],
+ "preuve_globale": "A",
+ "resume": "Flavonol alimentaire (oignon, câpres, pomme) vendu en complément : « sénolytique », anti-inflammatoire, anti-allergique. Seul effet soutenu par des méta-analyses : tension artérielle, baisse modeste (environ −3 mmHg en systolique) [A, effet faible] (PMID 27405810, 31940027). Lipides et glycémie :…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Flavonol alimentaire (oignon, câpres, pomme) vendu en complément : « sénolytique », anti-inflammatoire, anti-allergique. Seul effet soutenu par des méta-analyses : **tension artérielle, baisse modeste** (environ −3 mmHg en systolique) [A, effet faible] (PMID 27405810, 31940027). Lipides et glycémie : pas de changement significatif [A] (PMID 31940027).\n- **Le « sénolytique » n'est pas la quercétine seule** : l'association dasatinib (anticancéreux, 100 mg) + quercétine (1 000 à 1 250 mg) a été testée chez l'humain dans des essais d'une poignée à quelques dizaines de patients, sans groupe contrôle ou sous-dimensionnés [B]. Aucun essai de la quercétine seule comme sénolytique chez l'humain trouvé [?].\n- Preuve humaine de réduction des cellules sénescentes : **9 patients** (maladie rénale diabétique), étude ouverte, 3 jours de D + Q, biopsies à J11 [B, étude ouverte n=9] (PMID 31542391).\n- Les essais randomisés de D + Q sont des études pilotes de faisabilité, **sous-dimensionnées pour l'efficacité** (PMID 36857968).\n- Vendue seule en gélules 500-1 000 mg : on ne peut pas transposer les résultats de D + Q.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Hypothèse sénolytique : le dasatinib (inhibiteur de tyrosine kinases) et la quercétine (flavonoïde) bloquent des voies de survie anti-apoptotiques des cellules sénescentes ; « hit-and-run », demi-vies d'élimination < 11 h (PMID 31542391, abstract). Le rôle propre de la quercétine dans l'association n'est pas isolé dans les essais humains lus [?].\n- Dans la maladie d'Alzheimer légère (5 patients, ouvert), le dasatinib a été détecté dans le liquide céphalo-rachidien (rapport LCR/plasma 0,4-0,9 %) ; **la quercétine n'a pas été détectée** dans le LCR [B] (PMID 37679434).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Tension artérielle | 7 ECR (587 patients) : systolique −3,04 mmHg (IC −5,75 à −0,33), diastolique −2,63 mmHg ; effet seulement à ≥ 500 mg/j (systolique −4,45 mmHg), non significatif sous 500 mg/j (PMID 27405810). 17 ECR (896 participants) : systolique −3,09 mmHg (IC −4,59 à −1,59), diastolique −2,86 mmHg (PMID 31940027) | [A, effet faible, essais petits et hétérogènes] ; un effet de −3 mmHg est modeste comparé à un antihypertenseur et ne dit rien sur les événements cardiovasculaires [?] |\n| Lipides, glycémie | pas de changement significatif ; HDL et triglycérides modifiés seulement dans des sous-groupes (parallèle, ≥ 8 semaines) (PMID 31940027) | [A, résultat nul global] |\n| D + Q, maladie rénale diabétique | 9 patients, D 100 mg + Q 1 000 mg pendant 3 jours : baisse des cellules p16/p21 positives et des macrophages dans le tissu adipeux, de la peau épidermique et de facteurs inflammatoires circulants (IL-1α, IL-6, MMP-9, MMP-12) à J11 (PMID 31542391) | [B, étude ouverte n=9] ; marqueurs biologiques |\n| D + Q, fibrose pulmonaire idiopathique | ouvert, 14 patients, 3 semaines à raison de 3 jours par semaine : marche de 6 min, vitesse de marche, lever de chaise améliorés (p < 0,05) ; fonction pulmonaire inchangée ; 1 événement grave (PMID 30616998). ECR de 12 patients (6 vs 6) : faisabilité et tolérance ; pas de différence nette de fonction (sous-puissance) ; troubles du sommeil et anxiété 4/6 sous D + Q vs 0/6 (PMID 36857968) | [B] ; l'étude ouverte positive n'a pas été confirmée par l'ECR (puissance insuffisante) |\n| D + Q, Alzheimer débutant | 5 patients, 12 semaines : bien toléré, critères cognitifs et d'imagerie inchangés ; IL-6 et GFAP du LCR en **hausse** (PMID 37679434) | [B, n=5] |\n| Quercétine seule, « sénolytique », « anti-âge », longévité | aucun essai humain trouvé | [?] |\n| Allergies, infections respiratoires, performance | non recherché dans le détail | [?] |\n\nLimites : biomarqueurs dans la plupart des cas ; études ouvertes ; durées de 3 jours à 12 semaines ; financements académiques (NIH, fondations) pour les essais D + Q.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Tension : ≥ 500 mg/j de quercétine, 8 semaines ou plus en moyenne ; la méta-analyse de 2016 n'observe d'effet qu'à ≥ 500 mg/j (PMID 27405810).\n- D + Q : 1 000 à 1 250 mg/j de quercétine, avec 100 mg/j de dasatinib, 3 jours consécutifs, parfois répétés chaque semaine (PMID 31542391, 30616998, 36857968).\n- Vendue : gélules à 250-1 000 mg ; biodisponibilité faible sous forme aglycone, formes « phytosomées » ou glycosides commercialisées avec des allégations de meilleure absorption : non relevées ici, non évaluées [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Quercétine** : complément alimentaire (quercétine dihydrate, rutine, isoquercitrine, extraits de Sophora).\n- **Dasatinib** : médicament anticancéreux sur ordonnance (leucémie), **hors AMM** dans toute utilisation « sénolytique » ; effets graves possibles (voir ci-dessous). Ne jamais s'auto-prescrire.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- UE, nouvel aliment : la quercétine (aglycone, dihydrate) n'est pas une entrée de la liste de l'Union (règlement d'exécution (UE) 2017/2470, consolidé 2026-08-10, EUR-Lex/Office des publications, consulté le 2026-10-14). Seuls figurent un « extrait riche en taxifoline » (dihydroquercétine, bois de mélèze de Daourie ; autre molécule) et des extraits d'autres plantes. Le statut de la quercétine comme ingrédient « non nouveau » (usage avant 1997) n'a pas pu être confirmé : catalogue Novel Food en ligne inaccessible (application JavaScript) [?].\n- France, plantes (arrêté du 24 juin 2014, Légifrance, version en vigueur, consulté le 2026-10-14) : le Sophora du Japon (*Styphnolobium japonicum*, fleur, sommité fleurie, jeune feuille cuite, graine, décoction de la tige), source d'extraits titrés en quercétine, figure dans la liste ; la quercétine isolée n'y est pas une entrée.\n- France, substances à but nutritionnel ou physiologique : arrêté du 26 septembre 2016 (Légifrance, version en vigueur, consulté le 2026-10-14) : hors caféine, carnitine, créatine et lycopène (doses plafonnées), ces substances sont autorisées dans les compléments « sous réserve qu'elles ne soient pas considérées comme des nouveaux ingrédients » ; la DGCCRF tient un registre non consulté ici (non public à ma connaissance).\n- Allégations : aucune allégation de santé « sénolytique » ; aucune allégation autorisée trouvée pour la quercétine dans le registre UE (recherche non exhaustive).\n- AMA : quercétine non citée dans la Liste des interdictions 2026 (PDF officiel, parcouru par mots-clés, consulté le 2026-10-14).\n- Évaluation de risque norvégienne (VKM, 2024-06-19) : 500 mg/j de quercétine dihydrate, pris jusqu'à 3 mois par des adultes, ne pose pas de risque pour la santé d'après 23 ECR (poids de preuve jugé « modéré ») ; les données chez l'enfant et la femme enceinte ou allaitante sont insuffisantes (VKM Bulletin 2024:09, rapport PDF lu, consulté le 2026-10-14). Opinion nationale, pas décision de l'UE.\n- Dasatinib (BDPM, fichiers CIS_bdpm et CIS_CPD téléchargés le 2026-10-14) : médicaments à base de dasatinib (génériques dont Accord et Biogaran, 50 à 140 mg) en liste I, prescription initiale hospitalière semestrielle, renouvellement réservé aux spécialistes en oncologie médicale ou hématologie ; aucune indication sénolytique. Aucune spécialité à base de quercétine dans la BDPM.",
+   "titre": "Réglementaire"
+  },
+  {
+   "markdown": "- **Quercétine seule** : événements indésirables rarement rapportés, légers ; données de sécurité adéquates absentes pour des doses ≥ 1 000 mg au-delà de 12 semaines ; en animal, risque d'aggraver une atteinte rénale préexistante et de favoriser des tumeurs hormono-dépendantes ; interactions avec certains médicaments modifiant leur biodisponibilité [C, revue] (PMID 29127724). Le VKM signale que des personnes atteintes de néphropathie chronique ou de cancer hormono-dépendant pourraient être vulnérables, et que des effets tératogènes ont été observés chez la souris et à propos d'un dérivé de rutoside chez l'humain (VKM 2024).\n- **D + Q** : événements indésirables dans l'étude ouverte sur la fibrose pulmonaire (14 patients) : symptômes respiratoires (16 événements), ecchymoses/irritation cutanée (14), troubles digestifs (12), 1 événement grave (PMID 30616998). Dans l'ECR (12 patients), troubles du sommeil et anxiété disproportionnés sous D + Q (PMID 36857968). Le dasatinib est un anticancéreux à profil de risque propre (surveillance particulière exigée par la BDPM) ; ses effets indésirables ne sont pas détaillés ici (voir RCP).\n- Interactions : quercétine et médicaments à marge thérapeutique étroite (ciclosporine, anticoagulants…) : mécanismes décrits dans la revue de sécurité sans liste détaillée relue [?]. Prendre un avis pharmaceutique avant toute association.\n- Grossesse, allaitement, enfant : à éviter (données insuffisantes, VKM 2024).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« La quercétine est un sénolytique »** : prouvé en culture et dans le cadre de D + Q chez quelques dizaines de patients ; pas pour la quercétine seule chez l'humain [?] (PMID 31542391).\n- **« Cliniquement prouvé chez l'humain »** : 9 patients, étude ouverte, biopsies à J11 ; l'ECR en fibrose pulmonaire n'avait pas la puissance pour conclure (PMID 31542391, 36857968).\n- **« Protège le cerveau »** : dans l'essai Alzheimer, la quercétine n'a pas été détectée dans le LCR, et les critères cognitifs n'ont pas bougé (PMID 37679434).\n- **« Baisse la tension comme un médicament »** : −3 mmHg en moyenne [A, effet faible] (PMID 27405810, 31940027).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit dans ce dépôt. Voir [fisétine](fiche:fisetine) (autre « sénolytique » candidat), [rapamycine](fiche:rapamycine), [metformine](fiche:metformine), [curcumine](fiche:curcumine), [EGCG](fiche:egcg-et-extraits-de-the-vert) (autres polyphénols à biodisponibilité faible).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 27405810, Serban et al., « Effects of Quercetin on Blood Pressure: A Systematic Review and Meta-Analysis of Randomized Controlled Trials », J Am Heart Assoc 2016 (résumé relu).\n- PMID 31940027, Huang et al., « Effect of quercetin supplementation on plasma lipid profiles, blood pressure, and glucose levels », Nutr Rev 2020 (résumé relu).\n- PMID 31542391, Hickson et al., « Senolytics decrease senescent cells in humans: Preliminary report from a clinical trial of Dasatinib plus Quercetin in individuals with diabetic kidney disease », EBioMedicine 2019 (résumé relu).\n- PMID 30616998, Justice et al., « Senolytics in idiopathic pulmonary fibrosis: Results from a first-in-human, open-label, pilot study », EBioMedicine 2019 (résumé relu).\n- PMID 36857968, Nambiar et al., D + Q dans la fibrose pulmonaire idiopathique, phase I randomisée, EBioMedicine 2023 (résumé relu).\n- PMID 37679434, Gonzales et al., « Senolytic therapy in mild Alzheimer's disease: a phase 1 feasibility trial », Nat Med 2023 (résumé relu).\n- PMID 29127724, Andres et al., « Safety Aspects of the Use of Quercetin as a Dietary Supplement », Mol Nutr Food Res 2018 (résumé relu).\n- Réglementaire : règlement (UE) 2017/2470 consolidé 2026-08-10 ; arrêté du 24 juin 2014 ; BDPM ; Liste AMA 2026 ; consultés le 2026-10-14.\n- VKM (Comité scientifique norvégien pour l'alimentation et l'environnement), « Risk assessment of quercetin dihydrate and rutin in food supplements – Other substances », VKM Bulletin 2024:09, 2024-06-19, section Conclusions lue, consulté le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Quercétine (et dasatinib + quercétine, « sénolytiques »)",
+ "type": "actif",
+ "unite": ""
+}

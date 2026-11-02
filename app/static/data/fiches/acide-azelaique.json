@@ -1,0 +1,77 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "medicament",
+ "id": "acide-azelaique",
+ "intro": "",
+ "liens": [
+  "niacinamide",
+  "peelings",
+  "protection-solaire",
+  "retinoides",
+  "vitamine-c"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "37550898",
+  "30585305",
+  "32356369",
+  "31741361",
+  "34660626",
+  "18561584",
+  "24416747",
+  "26244354"
+ ],
+ "preuve_globale": "A",
+ "resume": "Acide dicarboxylique topique à usage médical (acné, rosacée) et cosmétique (taches, texture). L'un des rares actifs de peau à preuve [A] pour plusieurs indications, bien toléré par rapport aux rétinoïdes.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Acide dicarboxylique topique à usage **médical (acné, rosacée) et cosmétique (taches, texture)**. L'un des rares actifs de peau à preuve [A] pour plusieurs indications, bien toléré par rapport aux rétinoïdes.\n- Revue systématique de 43 ECR : mieux que le véhicule dans la rosacée (érythème, lésions inflammatoires), l'acné et le mélasma ; dans la rosacée, plus efficace que le métronidazole 0,75 % ; dans le mélasma, acide azélaïque 20 % meilleur que l'hydroquinone 2 % sur l'amélioration globale. **Aucun ECR trouvé sur le vieillissement cutané** [A] (PMID 37550898).\n- Rosacée papulo-pustuleuse : certitude élevée pour l'acide azélaïque topique et l'ivermectine topique [A] (PMID 30585305).\n- Acné : probablement **moins efficace que le peroxyde de benzoyle** (RR 0,82 ; IC 95 % 0,72-0,95), peu ou pas de différence avec la trétinoïne (RR 0,94 ; 0,78-1,14) [A] (PMID 32356369). Il n'est pas un traitement de première ligne de l'acné.\n- Mélasma : l'acide azélaïque est évalué dans plusieurs essais, mais les recommandations fortes d'une revue vont à la cystéamine, à la triple association et à l'acide tranexamique (PMID 31741361) ; en réseau, lasers et association triple devant les actifs topiques seuls (PMID 34660626).\n- « Anti-âge » : aucune donnée (PMID 37550898).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Action antibactérienne, anti-inflammatoire et inhibition de la mélanogenèse (tyrosinase) d'après la littérature de revue ; mécanisme précis non relu pour cette fiche [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Rosacée papulo-pustuleuse | 20 ECR : érythème, lésions inflammatoires et succès thérapeutique améliorés vs véhicule à 12 semaines ; supérieur au métronidazole 0,75 % | [A] (PMID 37550898) |\n| Rosacée, approche par phénotype | 152 études : papules/pustules, certitude élevée pour l'acide azélaïque topique et l'ivermectine topique ; érythème persistant : brimonidine (élevée), oxymétazoline (modérée) | [A] (PMID 30585305) |\n| Acné | 16 ECR : meilleur que le véhicule ; 20 % réduit plus de lésions que l'érythromycine gel ; Cochrane : moins efficace que le peroxyde de benzoyle, équivalent à la trétinoïne, preuves faibles pour les autres comparaisons | [A] (PMID 37550898, PMID 32356369) |\n| Mélasma | 7 ECR : acide azélaïque 20 % meilleur que le véhicule, meilleur que l'hydroquinone 2 % sur l'amélioration globale | [A, petits essais] (PMID 37550898) |\n| Mélasma, comparaison des traitements | Réseau de 31 RCT : lasers (Q-switched Nd:YAG, fractionné ablatif), triple association topique et acide tranexamique oral en tête | [A] (PMID 34660626) |\n| Vieillissement cutané | Aucun ECR éligible trouvé | [?] (PMID 37550898) |\n| Hyperpigmentation post-inflammatoire, autres | Non recherché | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Médicament : crème à 20 % (acné) ; gel ou mousse à 15 % utilisés dans les essais de rosacée (PMID 18561584, PMID 24416747, PMID 26244354 : titres vérifiés, résumés non relus). Formes cosmétiques en vente libre (teneurs plus faibles) : non relevées dans cette fiche [?].\n- Les essais comparent des formulations de médicament ; leurs résultats ne se transposent pas automatiquement à un cosmétique moins dosé [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Skinoren 20 % crème** : médicament sur ordonnance, liste I, indication « traitement local de l'acné vulgaire », prix libre, non remboursable, application 2 fois par jour, amélioration vers 4 semaines ; BDPM mise à jour le 2026-09-29 (consultée le 2026-10-12), notice du 2024-04-30.\n- **Gel 15 % (rosacée)** : statut en France non trouvé dans cette recherche (aucune entrée BDPM relevée) [?]. Le gel 15 % est le traitement étudié de la rosacée dans les essais.\n- Cosmétiques : composition INCI et concentration déclarée à vérifier produit par produit ; CosIng non consultée [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Effets très fréquents : brûlure, démangeaisons, rougeur au point d'application ; fréquents : desquamation, douleur, sécheresse ; peu fréquents : coloration cutanée, acné, hypopigmentation ; rares : hypersensibilité dont œdème de Quincke, aggravation d'un asthme (BDPM, Skinoren 20 %).\n- Éviter le contact avec les yeux, la bouche et les muqueuses (BDPM).\n- Grossesse et allaitement : pas d'étude adéquate chez la femme enceinte ; prudence, décision médicale (BDPM).\n- Associations avec rétinoïdes, acides exfoliants (AHA/BHA) ou peelings : un consensus d'experts classe l'acide azélaïque parmi les actifs inadaptés le jour d'un soin (voir [peelings](fiche:peelings)) ; interactions de tolérance avec la vitamine C et les rétinoïdes : non vérifiées dans cette fiche [?].\n- Protection solaire indispensable en cas de mélasma : voir [protection solaire](fiche:protection-solaire).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Anti-âge / lissant » : aucun ECR sur le vieillissement cutané (PMID 37550898).\n- « Aussi efficace que le peroxyde de benzoyle contre l'acné » : plutôt moins efficace dans la Cochrane (RR 0,82) (PMID 32356369).\n- « Blanchit comme l'hydroquinone » : dans le mélasma, un résultat favorable à 20 % contre hydroquinone 2 % ; ce n'est pas une preuve pour un cosmétique plus faiblement dosé.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour.\n\nVoir aussi : [niacinamide](fiche:niacinamide), [rétinoïdes](fiche:retinoides), [vitamine C](fiche:vitamine-c), [peelings](fiche:peelings).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. King S et al. *J Cosmet Dermatol* 2023 — PMID 37550898 — [DOI](https://doi.org/10.1111/jocd.15923)\n2. Liu H et al. *Cochrane Database Syst Rev* 2020 — PMID 32356369 — [DOI](https://doi.org/10.1002/14651858.CD011368.pub2)\n3. van Zuuren EJ et al. *Br J Dermatol* 2019 — PMID 30585305 — [DOI](https://doi.org/10.1111/bjd.17590)\n4. Liu Y et al. *Front Med (Lausanne)* 2021 — PMID 34660626 — [DOI](https://doi.org/10.3389/fmed.2021.713554)\n5. Austin E et al. *J Drugs Dermatol* 2019 — PMID 31741361 (revue systématique du mélasma)\n6. BDPM, « SKINOREN 20 %, crème pour application cutanée » — https://base-donnees-publique.medicaments.gouv.fr/medicament/67665740/extrait (consulté le 2026-10-12)\n7. PMID 18561584 (Thiboutot DM, *J Drugs Dermatol* 2008), PMID 24416747 (Draelos ZD, *Cutis* 2013), PMID 26244354 (Draelos ZD, *Cutis* 2015) : titres vérifiés, résumés non relus ; ils portent sur des produits d'un fabricant (essais de gel et de mousse à 15 %).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Acide azélaïque",
+ "type": "actif",
+ "unite": ""
+}

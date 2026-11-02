@@ -1,0 +1,83 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-18",
+ "famille": "alimentation",
+ "id": "riz-blanc-complet-et-arsenic",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "avoine-et-beta-glucanes",
+  "cereales-completes-et-raffinees",
+  "glycemie-et-prediabete",
+  "sarrasin-quinoa-et-pseudo-cereales",
+  "vitamines-aliments-et-absorption"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 12,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "24236891",
+  "27111102",
+  "32067593",
+  "30158148",
+  "29040626",
+  "26515534",
+  "36167362",
+  "34123581",
+  "30986740",
+  "35852223",
+  "33422584",
+  "22422870"
+ ],
+ "preuve_globale": "B",
+ "resume": "Le riz est une source d'arsenic inorganique mesurable, mais l'effet sur la santé aux doses alimentaires courantes en Europe n'est pas démontré. Aux États-Unis, manger du riz plus de 2 fois par semaine est associé à plus d'arsenic urinaire total (OR 1,51, 1,08-2,09) et de DMA (OR 2,24, 1,57-3,21),…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Le riz est une source d'arsenic inorganique mesurable, mais l'effet sur la santé aux doses alimentaires courantes en Europe n'est pas démontré.** Aux États-Unis, manger du riz plus de 2 fois par semaine est associé à plus d'arsenic urinaire total (OR 1,51, 1,08-2,09) et de DMA (OR 2,24, 1,57-3,21), après ajustement sur les fruits de mer et l'eau [B, transversal] (PMID 24236891). Chez des nourrissons de 12 mois, l'arsenic urinaire est plus élevé après céréales de riz (9,53 µg/L) ou snacks de riz (4,97 µg/L) que sans riz (2,85 µg/L) [B, cohorte] (PMID 27111102). En revanche, ≥ 1 portion de riz/jour n'est pas associée à des marqueurs cardiovasculaires infracliniques chez 5 050 adultes (hsCRP, épaisseur intima-média, distensibilité aortique) [B] (PMID 32067593).\n- **L'arsenic à forte ou moyenne exposition (surtout l'eau) est associé au risque cardiovasculaire**, mais ces études ne portent pas sur le riz : arsenic, haut vs bas tiers de biomarqueur, RR 1,30 (1,04-1,63) pour la maladie cardiovasculaire, relation linéaire [B, observationnel] (PMID 30158148) ; eau à 20 µg/L vs 10 µg/L : maladie cardiovasculaire RR 1,09 (1,03-1,14), cardiopathie coronarienne 1,11 (1,05-1,17) [B] (PMID 29040626). Extrapoler ces chiffres à une assiette de riz n'est pas fait ici [?].\n- **Cuire dans beaucoup d'eau réduit l'arsenic**, rincer non : cuisson en excès d'eau, arsenic inorganique -40 % (riz long poli), -60 % (étuvé), -50 % (complet) ; le rinçage n'a qu'un effet minime ; mais fer, folate, niacine, thiamine baissent de 50-70 % pour les riz enrichis (polis, étuvés) [D, mesures de laboratoire sur aliments, pas d'essai humain] (PMID 26515534).\n- **Blanc vs complet pour le diabète de type 2** : le riz blanc est associé à plus de diabète (RR 1,16, 1,02-1,32, extrêmes ; au-delà de 300 g/j, +13 % par portion de 158 g) ; le riz complet à moins (RR 0,89, 0,81-0,97 ; -13 % par 50 g/j) [B] (PMID 36167362). Les essais randomisés chez prédiabétiques/diabétiques n'améliorent ni HbA1c ni glycémie à jeun avec le riz complet, mais le poids baisse de 2,2 kg [A, 7 essais, n = 417] (PMID 34123581).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Le riz pousse en rizière inondée, où l'arsenic du sol est plus biodisponible pour la plante ; la revue sur l'arsenic dans les riz cuits discute les risques et les mesures d'atténuation (PMID 30986740, titre seul). Pourquoi le riz complet contiendrait plus ou moins d'arsenic que le blanc : non établi dans les abstracts lus (la limite UE est plus haute pour le riz décortiqué, voir ci-dessous) [?]. Le diabète associé au riz blanc est généralement expliqué par sa charge glycémique ; la démonstration causale manque [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Riz blanc et diabète de type 2 | 28 cohortes (1,5 M de personnes) : RR 1,18 pour le plus haut vs le plus bas niveau d'apport, +6 % par 150 g/j, linéaire, certitude modérée (PMID 35852223) ; 6 articles asiatiques : RR 1,25 (1,17-1,33), I² = 88 % (PMID 33422584) ; méta-analyse de 2012 : RR 1,55 en Asie, 1,12 (0,94-1,33, NS) en Occident (PMID 22422870) | [B] |\n| Riz blanc et maladie cardiovasculaire, cancer, syndrome métabolique | pas d'association significative, certitude faible à très faible (PMID 35852223) | [B, faible certitude] |\n| Riz complet et diabète de type 2 | RR 0,89 (0,81-0,97) en cohortes, 3 estimations (PMID 36167362) | [B] |\n| Riz complet vs blanc, prédiabète/DT2 | HbA1c et glycémie à jeun inchangées (p = 0,15 ; p = 0,95), poids -2,2 kg (-3,13 à -1,26), tour de taille sans effet (PMID 34123581) | [A, peu d'essais] |\n| Riz et arsenic urinaire | OR 1,51 (adultes américains) ; hausse chez les nourrissons (PMID 24236891, 27111102) | [B] |\n| Riz et maladie cardiovasculaire infraclinique | pas d'association (PMID 32067593) | [B] |\n| Arsenic alimentaire et cancer, cognition de l'enfant | non recherchés dans cette fiche | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Doses des cohortes** : le risque de diabète augmente surtout au-delà de ~300 g/j de riz blanc (PMID 36167362) ; la consommation moyenne en Asie (3-4 portions/jour) est bien supérieure à celle des pays occidentaux (1-2 portions/semaine) (PMID 22422870).\n- **Limites réglementaires européennes en arsenic inorganique** (règlement (UE) 2023/915, annexe I, point 3.4, EUR-Lex, consulté le 2026-10-18) : riz usiné non étuvé 0,15 mg/kg ; riz étuvé et riz décortiqué 0,25 mg/kg ; galettes, crackers et céréales de petit-déjeuner soufflées au riz 0,30 mg/kg ; riz destiné aux aliments pour nourrissons et jeunes enfants 0,10 mg/kg. Cadmium dans le riz : 0,15 mg/kg (même annexe, point 3.2.12.3, même consultation).\n- **Teneur réelle d'une marque ou d'un lot** : non évaluée ici, aucune analyse indépendante de produits vendus en France lue [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Aliment ; riz blanc, étuvé, complet, basmati, riz soufflé, galettes, boissons au riz. Limites ci-dessus. Recommandations des autorités françaises ou européennes sur les boissons au riz et les enfants : non consultées (ANSES, EFSA) [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Nourrissons et jeunes enfants** : population la plus exposée ; les céréales infantiles et snacks au riz augmentent l'arsenic urinaire (PMID 27111102). Conduite à tenir précise : non extraite (voir ANSES/EFSA, non consultés) [?].\n- **Grossesse** : non recherchée [?].\n- **Méthode de cuisson** : excès d'eau (type pâtes) abaisse l'arsenic mais aussi les vitamines du riz enrichi (PMID 26515534). Équilibre à décider selon la place du riz dans l'alimentation.\n- **Varier les céréales** : la réduction d'exposition via la diversité (sarrasin, quinoa, avoine, blé) est une inférence logique, non testée dans les études lues [?].\n- **Diabète** : voir [glycémie et prédiabète](fiche:glycemie-et-prediabete).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Le riz complet est bien meilleur pour la glycémie »** : sur HbA1c et glycémie à jeun, les essais ne montrent aucun avantage sur le blanc chez les prédiabétiques ou diabétiques ; il n'y a qu'un gain de poids (-2,2 kg) [A] (PMID 34123581). La protection en cohortes est observationnelle [B] (PMID 36167362).\n- **« Le riz blanc est un poison »** : pas d'association avec la maladie cardiovasculaire ni le cancer, et l'association avec le diabète est modeste, surtout pour de fortes consommations asiatiques [B] (PMID 35852223, 22422870).\n- **« Le riz est plein d'arsenic, il faut l'éviter »** : l'exposition est réelle (arsenic urinaire plus élevé) mais l'effet clinique du riz lui-même est non démontré à ces doses [B] (PMID 24236891, 32067593). Particulièrement à surveiller chez les nourrissons.\n- **« Rincer le riz élimine l'arsenic »** : faux dans l'étude de laboratoire : effet minime, et il retire des vitamines ajoutées (PMID 26515534).\n\nVoir aussi : [céréales complètes et raffinées](fiche:cereales-completes-et-raffinees) · [sarrasin, quinoa](fiche:sarrasin-quinoa-et-pseudo-cereales) · [avoine](fiche:avoine-et-beta-glucanes) · [alimentation : synthèse](fiche:alimentation) · [vitamines : aliments et absorption](fiche:vitamines-aliments-et-absorption).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 36167362 — Yu et al., *BMJ Open* 2022 (riz blanc, riz complet et diabète de type 2). doi:10.1136/bmjopen-2022-065426\n- PMID 35852223 — Lai et al., *Crit Rev Food Sci Nutr* 2023 (riz blanc, résultats cardiométaboliques et cancer). doi:10.1080/10408398.2022.2101984\n- PMID 33422584 — Ren et al., *Diabetes Res Clin Pract* 2021 (riz blanc et diabète, Asie). doi:10.1016/j.diabres.2021.108651\n- PMID 22422870 — Hu et al., *BMJ* 2012 (riz blanc et diabète de type 2). doi:10.1136/bmj.e1454\n- PMID 34123581 — Abdul Rahim et al., *PeerJ* 2021 (riz complet, prédiabète et DT2). doi:10.7717/peerj.11291\n- PMID 24236891 — Wei et al., *Int J Environ Health Res* 2014 (riz et arsenic urinaire, NHANES). doi:10.1080/09603123.2013.857393\n- PMID 27111102 — Karagas et al., *JAMA Pediatr* 2016 (riz et arsenic chez le nourrisson). doi:10.1001/jamapediatrics.2016.0120\n- PMID 32067593 — Sobel et al., *J Am Heart Assoc* 2020 (riz, arsenic, MESA). doi:10.1161/JAHA.119.015658\n- PMID 30158148 — Chowdhury et al., *BMJ* 2018 (métaux toxiques et maladie cardiovasculaire). doi:10.1136/bmj.k3310\n- PMID 29040626 — Moon et al., *Int J Epidemiol* 2017 (arsenic de l'eau et maladie cardiovasculaire). doi:10.1093/ije/dyx202\n- PMID 26515534 — Gray et al., *Food Addit Contam Part A* 2016 (cuisson du riz et arsenic). doi:10.1080/19440049.2015.1103906\n- PMID 30986740 — Kumarathilaka et al., *Environ Int* 2019 (arsenic dans les riz cuits ; titre seul). doi:10.1016/j.envint.2019.04.004\n- Règlement (UE) 2023/915, annexe I, points 3.2 et 3.4 (EUR-Lex, consulté le 2026-10-18).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Riz (blanc, complet) et arsenic",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,93 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-08",
+ "famille": "",
+ "id": "recuperation-musculaire",
+ "intro": "",
+ "liens": [
+  "alimentation-recuperation",
+  "bpc-157",
+  "cerise-acide",
+  "creatine",
+  "immersion-froide",
+  "omega-3",
+  "prise-de-masse-surplus-calorique-et-recomposition",
+  "proteines",
+  "protocole-debutant-recuperation",
+  "sommeil-recuperation-et-croissance-musculaire"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 19,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "38625669",
+  "37398956",
+  "42583675",
+  "36513777",
+  "34472118",
+  "33631721",
+  "41945263",
+  "42666369",
+  "42797032",
+  "41891174",
+  "42124047",
+  "32382573",
+  "38970118",
+  "38346687",
+  "42194413",
+  "42088589",
+  "34636405",
+  "41754849",
+  "40756949"
+ ],
+ "preuve_globale": "A",
+ "resume": "Presque tout repose sur des méta-analyses de petits essais, hétérogènes, à certitude « faible à modérée » [A, faible qualité] : un tag [A] ne dit pas « effet fort ».",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Presque tout repose sur des méta-analyses de petits essais, hétérogènes, à certitude « faible à modérée » [A, faible qualité] : un tag [A] ne dit pas « effet fort ».\n- Les effets mesurés portent surtout sur des **marqueurs** (CK, courbatures subjectives) plutôt que sur la performance ou l'adaptation à long terme.\n- Mieux étayés : protéines péri-effort (force préservée, CK↓, mais pas les courbatures) et immersion en eau froide (courbatures/CK à court terme) [A].\n- Créatine, vitamine E : pas de bénéfice net sur la récupération après dommage musculaire [A]. Cerise acide : bénéfice incertain [A].\n- Peptides « réparateurs » (BPC-157) : animal essentiellement, marché gris [C].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Exercice excentrique/inhabituel → micro-lésions, inflammation, ↑ CK sérique, perte de force transitoire, douleur à 24–72 h (DOMS) [A, définition des études].\n- Les stratégies visent soit à réduire le dommage (protéines, antioxydants), soit à moduler la douleur/inflammation (froid, massage, polyphénols).\n- Limite : l'inflammation post-effort participe aussi à l'adaptation ; l'effet à long terme des anti-inflammatoires/antioxydants sur les gains n'a pas été revérifié ici [?] (la méta-analyse sur la vitamine E conclut seulement à l'absence d'effet sur la récupération).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| [Protéines péri-effort](fiche:proteines) | Substrat de réparation | [A] force préservée (MVC 96 h, isocinétique 24–72 h), CK↓ ; **pas d'effet sur courbatures** | Aliment/complément | à vérifier |\n| [Immersion eau froide / cryothérapie](fiche:immersion-froide) | Vasoconstriction, analgésie | [A] DOMS et CK↓ à court terme, effet qui s'estompe | Pratique non réglementée | faible |\n| [Oméga-3](fiche:omega-3) | Pro-résolution de l'inflammation | [A] contradictoire : ↓ DOMS/CK selon une méta-analyse 2026, ↓ DOMS **sous le seuil clinique** selon une méta-analyse 2020 | Complément | à vérifier |\n| [Cerise acide](fiche:cerise-acide) | Polyphénols (anthocyanes) | [A] ↓ CRP ; pas d'effet poolé sur courbatures/CK dans la méta-analyse 2026 ; DOMS↓ dans une autre | Aliment/complément | à vérifier |\n| BCAA | Acides aminés | [A] 18 ECR : CK g −0,44 (immédiat) et −0,99 (72 h) ; courbatures g −0,82 à −1,82 (24–96 h) ; LDH sans effet ; comparaison avec des protéines complètes non faite [?] (PMID 38625669) | Complément | à vérifier |\n| Quercétine 1 g/j | Antioxydant | [A] DOMS, CK, stress oxydant↓ ; 249 participants, « quelques inquiétudes » de risque de biais pour toutes les études (PMID 37398956) | Complément | — |\n| Jus de betterave | Nitrates/antioxydants | [A, forte hétérogénéité] 7 essais : CK↓, force↑, aucun effet sur CRP, IL-6, TNF-α (PMID 42583675) | Aliment | — |\n| Magnésium | Cofacteur | [B] revue systématique de seulement 4 études | Complément | — |\n| [Créatine](fiche:creatine) | Énergie cellulaire | [A] **contradictoire** : 2 méta-analyses, une favorable (CK, fonction), une sans effet sur force/courbatures | Complément | à vérifier |\n| Vitamine E | Antioxydant | [A] **aucun effet** (20 études, n = 298) | Complément | — |\n| [BPC-157](fiche:bpc-157) | Cytoprotection supposée | [C] ; humain : séries niveau IV–V [B] très faible | Non autorisé | — |\n\nPrix et statuts non vérifiés : à compléter (ANSM, base publique des médicaments).",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Voir [protocole débutant](fiche:protocole-debutant-recuperation) et [alimentation et récupération](fiche:alimentation-recuperation). Pas de protocole pour substances non autorisées.",
+   "titre": "Protocoles"
+  },
+  {
+   "markdown": "- Juger une stratégie sur les CK : c'est un marqueur biologique, pas la sensation ni la performance suivante [A].\n- Empiler antioxydants (vitamine E, etc.) : aucun bénéfice démontré sur la récupération [A].\n- Ignorer le sommeil et l'apport calorique/protéique global : non étudiés ici [?], mais prérequis logiques à toute « astuce » ; voir [sommeil et croissance musculaire](fiche:sommeil-recuperation-et-croissance-musculaire) et [prise de masse et déficit](fiche:prise-de-masse-surplus-calorique-et-recomposition).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« La créatine accélère la récupération musculaire »** : une méta-analyse d'essais randomisés ne trouve aucun effet sur force, courbatures, amplitude ou inflammation, et seulement CK↓ à 48 h ; une autre conclut favorablement mais signale forte hétérogénéité [A, contradictoire]. Son intérêt prouvé est ailleurs (performance), non traité ici.\n- **« Les protéines suppriment les courbatures »** : la méta-analyse ne trouve aucun effet sur les courbatures [A].\n- **« Les oméga-3 coupent les courbatures »** : la méta-analyse 2020 trouve −0,93 point sur 10 (EVA), sous le seuil clinique de 1,4 [A].\n- **« Vitamine E / antioxydants »** : zéro effet sur CK, courbatures, force [A].\n- **« BPC-157 répare tendons et muscles »** : les résultats « consistants » viennent du rat [C] ; pas de données de sécurité cliniques [B].\n- **Froid « universel »** : l'effet diminue à 48 h+ et les essais sont de qualité limitée [A].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Dans le réseau de méta-analyses 2022 sur chaud vs froid, le **chaud** (hot pack) arrive en tête pour la douleur dans les 24–48 h, devant le froid [A, qualité limitée].\n- Les revues sur les produits végétaux concluent que le bénéfice, s'il existe, porte sur la douleur ressentie, pas sur la récupération de la fonction [A].",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Douleur disproportionnée, urines foncées, gonflement important, faiblesse persistante > 1 semaine (suspicion de rhabdomyolyse ou lésion), douleur articulaire/tendineuse.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 36513777 — protéines et EIMD, *Eur J Clin Nutr* 2022. doi:10.1038/s41430-022-01250-y\n- PMID 34472118 — créatine, SR/MA, *J Food Biochem* 2021. doi:10.1111/jfbc.13916\n- PMID 33631721 — créatine, marqueurs d'EIMD, *Int J Sport Nutr Exerc Metab* 2021. doi:10.1123/ijsnem.2020-0282\n- PMID 38625669 — BCAA, *Sports Med Open* 2024. doi:10.1186/s40798-024-00686-9\n- PMID 37398956 — quercétine, *Biol Sport* 2022. doi:10.5114/biolsport.2023.121320\n- PMID 41945263 — jus de cerise acide, *Sports Med Open* 2026. doi:10.1186/s40798-026-00993-3\n- PMID 42666369 — polyphénols anthocyanes/flavanols, *Front Nutr* 2026. doi:10.3389/fnut.2026.1857527\n- PMID 42797032 — aliments végétaux, SR, *Nutrients* 2026. doi:10.3390/nu18183049\n- PMID 42583675 — jus de betterave, *Ann Med Surg* 2026. doi:10.1097/MS9.0000000000005231\n- PMID 41891174 — oméga-3, MA, *FASEB J* 2026. doi:10.1096/fj.202504783R\n- PMID 42124047 — oméga-3 (LC-3 PUFA), *Nutrients* 2026. doi:10.3390/nu18091447\n- PMID 32382573 — oméga-3 et DOMS, *Biomed Res Int* 2020. doi:10.1155/2020/8062017\n- PMID 38970118 — magnésium, SR, *J Transl Med* 2024. doi:10.1186/s12967-024-05434-x\n- PMID 38346687 — vitamine E, *Int J Sports Med* 2024. doi:10.1055/a-2221-5688\n- PMID 42194413 — stratégies de récupération, NMA, *Healthcare* 2026. doi:10.3390/healthcare14101321\n- PMID 42088589 — cryothérapies, NMA, *Front Sports Act Living* 2026. doi:10.3389/fspor.2026.1819396\n- PMID 34636405 — chaud/froid et DOMS, NMA, *J Rehabil Med* 2022. doi:10.2340/jrm.v53.331\n- PMID 41754849 — BPC-157 et lésions musculo-squelettiques, *Pharmaceuticals* 2026. doi:10.3390/ph19020309\n- PMID 40756949 — BPC-157, SR niveaux IV–V, *HSS J* 2025. doi:10.1177/15563316251355551",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Récupération musculaire post-effort (EIMD / DOMS)",
+ "type": "condition",
+ "unite": ""
+}

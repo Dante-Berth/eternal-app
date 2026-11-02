@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "longevite",
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "ergothioneine",
+ "intro": "",
+ "liens": [
+  "astaxanthine",
+  "champignons-et-ergothioneine",
+  "nmn-et-nad",
+  "spermidine",
+  "taurine",
+  "urolithine-a"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "38446314",
+  "39544014",
+  "27488221",
+  "38018890",
+  "32625352",
+  "41411056"
+ ],
+ "preuve_globale": "C",
+ "resume": "Dérivé soufré de l'histidine fabriqué par des champignons et des bactéries, pas par l'humain ; présent dans les champignons (pleurote, shiitake…). Vendue comme « vitamine de longévité » antioxydante.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Dérivé soufré de l'histidine fabriqué par des champignons et des bactéries, pas par l'humain ; présent dans les champignons (pleurote, shiitake…). Vendue comme « vitamine de longévité » antioxydante.\n- **Le signal de longévité est animal** : durée de vie des souris mâles allongée avec 4-5 mg/kg/j dans l'eau de boisson, et du ver *C. elegans* [C] (PMID 38446314). Aucune donnée de longévité chez l'humain.\n- **Humain : quasiment rien.** Un ECR pilote de **19** personnes avec troubles cognitifs légers, 1 an, 25 mg 3 fois par semaine : meilleure performance à un test d'apprentissage verbal et stabilisation de la chaîne légère des neurofilaments (marqueur de lésion neuronale) vs placebo, sans aucun critère clinique ni calcul d'effet robuste [B, ECR pilote n=19] (PMID 39544014). Chez le volontaire sain, la supplémentation est bien absorbée et retenue, avec des tendances (non significatives pour la plupart) à la baisse de marqueurs d'oxydation [B] (PMID 27488221).\n- Sécurité : autorisée comme nouvel aliment (compléments, 30 mg/j adultes). Pas de signal de toxicité dans les essais lus.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Transporteur spécifique (OCTN1/ETT), qui concentre l'ergothionéine dans certains tissus (cerveau, érythrocytes) ; l'organisme la retient longuement : < 4 % de la dose est excrétée dans les urines dans l'étude pharmacocinétique chez l'humain [B] (PMID 27488221, résumé).\n- Antioxydant et cytoprotecteur dans des modèles animaux et cellulaires ; effets sur la neurogenèse, la neuro-inflammation et les agrégats de TDP43 chez la souris âgée [C] (PMID 38446314). Pas de preuve que ce mécanisme opère à l'échelle clinique chez l'humain [?].\n- Une revue propose que l'ergothionéine soit un micronutriment sous-estimé, nécessaire au vieillissement en bonne santé : hypothèse, non démontrée par essai ; la revue s'appuie sur des associations observationnelles (taux sanguins en baisse après 60 ans, taux élevés associés à une moindre mortalité cardiovasculaire et globale) [B, observationnel, association] (PMID 38018890).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Longévité, souris et vers | durée de vie médiane et maximale allongée chez la souris mâle (4-5 mg/kg/j), déclin plus lent du poids, de la masse grasse et de la vitesse, apprentissage préservé ; aussi chez *C. elegans* (PMID 38446314). Pas de réplication indépendante trouvée (programme ITP) [?] | [C] |\n| Cognition, troubles cognitifs légers | 19 sujets ≥ 60 ans, 25 mg 3 fois/semaine, 1 an : test d'apprentissage verbal amélioré, neurofilament plasmatique stabilisé (en hausse sous placebo), marqueurs rénaux/hépatiques inchangés ; petite taille, tests multiples, résumé sans tailles d'effet (PMID 39544014) | [B, ECR pilote n=19] |\n| Stress oxydant, volontaires sains | absorption élevée, rétention ; tendance à la baisse de l'allantoïne, du 8-OHdG, du 8-iso-PGF2α, des protéines carbonylées et de la CRP, **la plupart non significatives** (PMID 27488221) | [B] |\n| Peau, sommeil, performance, prévention cardiovasculaire, mortalité | aucune donnée humaine retenue ici | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essai cognitif : 25 mg par prise, 3 fois par semaine (≈ 75 mg/semaine) (PMID 39544014). Souris : 4-5 mg/kg/j (PMID 38446314), non transposable en dose humaine sans calcul (non fait ici).\n- Autorisation UE : plafond de 30 mg/j (voir ci-dessous). Vendu : 5 à 30 mg par gélule, souvent en « complexe » avec NMN, spermidine ou autres ; teneur réelle non vérifiée [?].\n- Alimentaire : les champignons en contiennent ; teneur exacte et comparaison avec la supplémentation : non relevées [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Complément alimentaire (L-ergothionéine de synthèse ou de fermentation). Pas de médicament.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **UE, nouvel aliment** : la L-ergothionéine figure dans la liste de l'Union (règlement d'exécution (UE) 2017/2470, version consolidée du 2026-08-10, EUR-Lex/Office des publications, consulté le 2026-10-14). Compléments alimentaires : 30 mg/jour pour la population générale, à l'exclusion des femmes enceintes ou allaitantes, et 20 mg/jour pour les enfants de plus de 3 ans. Cette limite figurait déjà dans le texte initial de 2017 (suite à la décision d'exécution (UE) 2017/1281). Une modification ultérieure a étendu l'usage aux denrées courantes (boissons non alcooliques et à base de lait 0,025 g/kg, produits laitiers frais 0,040 g/kg, barres de céréales 0,2 g/kg, confiseries au chocolat 0,25 g/kg).\n- Avis EFSA : sécurité de la L-ergothionéine synthétique établie, dose sans effet toxique observé de 800 mg/kg/j (marges d'exposition 236 à 610 pour les groupes évalués dans l'avis complémentaire) (EFSA Journal 2017, abstract lu via PubMed PMID 32625352, consulté le 2026-10-14).\n- France : aucune spécialité à base d'ergothionéine dans la BDPM (CIS_COMPO téléchargé le 2026-10-14, recherche « ergothion »). Position DGCCRF propre à la France : non trouvée [?]. Aucune allégation de santé « anti-âge » ou « longévité » trouvée dans le registre UE (recherche non exhaustive). AMA : l'ergothionéine n'est pas citée dans la Liste des interdictions 2026 (PDF officiel, parcouru par mots-clés, consulté le 2026-10-14).",
+   "titre": "Réglementaire"
+  },
+  {
+   "markdown": "- Essai d'un an chez les ≥ 60 ans (19 personnes) : numération, fonctions rénale et hépatique inchangées (PMID 39544014).\n- Étude de toxicité animale : NOAEL de 800 mg/kg/j (EFSA 2017, PMID 32625352).\n- Grossesse et allaitement : le texte d'autorisation exclut ces groupes de la population cible principale ; l'EFSA a évalué ensuite leur exposition potentielle (PMID 32625352) ; en pratique, s'abstenir sans avis médical.\n- Interactions médicamenteuses, populations dialysées (l'ergothionéine érythrocytaire est à 34 % des témoins en dialyse péritonéale et 10 % en hémodialyse, n = 16/16/15 ; l'intérêt d'une supplémentation reste à tester) [B, cas-témoins] (PMID 41411056) : non étudiées [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Prouvé : allonge la vie »** : souris mâles et vers uniquement [C] ; aucune donnée de longévité humaine.\n- **« Vitamine de longévité »** : le terme vient d'un article de revue qui formule une hypothèse (PMID 38018890) ; aucun apport recommandé ni état de carence humaine reconnu n'a été trouvé dans les sources lues [?].\n- **« Protège le cerveau »** : 19 patients, signal sur un test et un biomarqueur [B] ; pas de réplication [?].\n- **« Meilleur que les champignons »** : aucune comparaison publiée trouvée [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit dans ce dépôt. Pour l'apport alimentaire (champignons, cohortes) : [champignons et ergothionéine](fiche:champignons-et-ergothioneine). Voir aussi [urolithine A](fiche:urolithine-a), [spermidine](fiche:spermidine), [NMN et NAD+](fiche:nmn-et-nad), [taurine](fiche:taurine), [astaxanthine](fiche:astaxanthine) (autres antioxydants/« longévité » avec preuves comparables ou meilleures).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 38446314, Katsube et al., « Ergothioneine promotes longevity and healthy aging in male mice », Geroscience 2024 (résumé relu).\n- PMID 39544014, Yau et al., « Investigating the efficacy of ergothioneine to delay cognitive decline in mild cognitively impaired subjects: A pilot study », J Alzheimers Dis 2024 (résumé relu).\n- PMID 27488221, Cheah et al., « Administration of Pure Ergothioneine to Healthy Human Subjects: Uptake, Metabolism, and Effects on Biomarkers of Oxidative Damage and Inflammation », Antioxid Redox Signal 2017 (résumé relu).\n- PMID 32625352, Turck et al., EFSA, « Statement on the safety of synthetic l-ergothioneine as a novel food - supplementary dietary exposure and safety assessment… », EFSA J 2017 (résumé relu).\n- PMID 38018890, Tian et al., « Ergothioneine: an underrecognised dietary micronutrient required for healthy ageing? », Br J Nutr 2023 (résumé relu).\n- PMID 41411056, Keo et al., « Ergothioneine Depletion in Peritoneal Dialysis », Kidney360 2026 (résumé relu).\n- Règlement d'exécution (UE) 2017/2470, texte initial et version consolidée du 2026-08-10 (EUR-Lex/Office des publications) ; BDPM ; Liste AMA 2026 ; consultés le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Ergothionéine",
+ "type": "actif",
+ "unite": ""
+}

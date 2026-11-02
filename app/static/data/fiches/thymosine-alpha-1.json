@@ -1,0 +1,83 @@
+{
+ "cibles": [
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "peptide",
+ "id": "thymosine-alpha-1",
+ "intro": "",
+ "liens": [
+  "bpc-157",
+  "epitalon",
+  "melanotan-et-bremelanotide",
+  "sommeil",
+  "tb-500",
+  "vitamine-d",
+  "zinc"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "39814420",
+  "40969554",
+  "21328265",
+  "37845598",
+  "33076834",
+  "39648386",
+  "40599771"
+ ],
+ "preuve_globale": "A",
+ "resume": "Peptide de 28 acides aminés dérivé du thymus, modulateur immunitaire. Médicament dans certains pays hors UE (hépatite B notamment), non autorisé en France à notre connaissance ; vendu sur le marché gris comme booster d'immunité et « anti-âge ». À ne pas confondre avec la thymosine bêta-4 / TB-500…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Peptide de 28 acides aminés dérivé du thymus, modulateur immunitaire. **Médicament dans certains pays hors UE** (hépatite B notamment), non autorisé en France à notre connaissance ; vendu sur le marché gris comme booster d'immunité et « anti-âge ». À ne pas confondre avec la thymosine bêta-4 / TB-500, une autre molécule : voir [TB-500](fiche:tb-500).\n- **Le plus grand essai de sa classe est négatif** : phase 3 TESTS (1 106 adultes en sepsis) : mortalité à 28 jours 23,4 % sous Tα1 contre 24,1 % sous placebo (HR 0,99 ; IC 95 % 0,77-1,27), aucun critère secondaire différent [A] (PMID 39814420).\n- La méta-analyse de 11 ECR dans le sepsis trouve une baisse de mortalité (OR 0,73 ; 0,59-0,90), qui disparaît dans les essais de haute qualité (OR 0,82 ; 0,65-1,03) et multicentriques (OR 0,86 ; 0,68-1,08) [A, fragile] (PMID 40969554).\n- Cancer : revue Cochrane, 26 essais, 2 736 patients : pas de bénéfice démontré sur la survie ; pour Tα1 seul, tendance non significative (RR de survie globale 1,21 ; 0,94-1,56) [A, négatif] (PMID 21328265).\n- Aucune donnée humaine de longévité ou de « boost immunitaire » chez le sujet sain trouvée [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Peptide d'origine thymique présenté comme immunomodulateur ; mécanisme précis (récepteurs, cellules T) non relu dans une source vérifiée pour cette fiche [?].",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Sepsis | Phase 3 TESTS : mortalité à 28 jours 23,4 % contre 24,1 % (HR 0,99) ; analyse en sous-groupes exploratoire : effet défavorable avant 60 ans (HR 1,67), favorable chez le diabétique (HR 0,58), à confirmer | [A, négatif] (PMID 39814420) |\n| Sepsis, méta-analyse | 11 ECR (1 927 patients) : OR 0,73 sur la mortalité à 28 jours, non confirmé dans les essais de haute qualité ; effectif insuffisant selon l'analyse séquentielle | [A, fragile] (PMID 40969554) |\n| COVID-19 modéré à critique | 8 études : mortalité RR 0,59 (0,37-0,93), I² 84 % ; pas de baisse de ventilation mécanique ni de durée d'hospitalisation ; effet lié à la taille d'échantillon | [A, hétérogène] (PMID 37845598) |\n| Cancer, en appoint | Cochrane : pas de bénéfice sur la survie ou la progression avec les extraits thymiques ; Tα1 : tendance non significative ; moins d'infections graves avec les extraits thymiques bruts (pTE) | [A, négatif] (PMID 21328265) |\n| Hépatite B chronique, BPCO exacerbée, pancréatite aiguë | Méta-analyses et essais existent (PMID 33076834, PMID 39648386, PMID 40599771) : titres vérifiés, résumés non relus | [?] |\n| Sujet sain, immunité, vieillissement | Aucun essai trouvé | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet (règle 7 : pas de posologie). Contenu réel des flacons du marché gris : inconnu sans analyse.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Médicament Zadaxin (thymalfasine) : autorisé dans plusieurs pays hors UE selon des sources secondaires (hépatite B, surtout Asie et Amérique latine) ; aucune autorisation centralisée de l'EMA ni de la FDA trouvée dans les sources lues (pages commerciales et d'information, non officielles) [?]. Base ANSM / BDPM / EMA : non consultée directement [?].\n- La page ANSM sur les « peptides » vendus en ligne (mise à jour le 2026-08-31, consultée le 2026-10-11, voir [mélanotan](fiche:melanotan-et-bremelanotide)) ne cite pas la thymosine alpha-1 nommément.\n- AMA : non recherché [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Dans le TESTS, aucun critère de sécurité ne diffère entre Tα1 et placebo (PMID 39814420). Dans la revue Cochrane en cancérologie, la tolérance est jugée bonne (PMID 21328265). Ces données concernent des patients hospitalisés ou en traitement sous surveillance, non l'usage auto-administré.\n- Immunomodulateur : on ne sait pas ce qu'il fait chez un sujet sain ni chez une personne avec maladie auto-immune ou sous immunosuppresseurs [?].\n- Grossesse, allaitement, enfants : aucune donnée [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Pour les peptides vendus en ligne, l'ANSM met en garde contre les produits vendus sans autorisation (ANSM, page 2026-07-02, mise à jour 2026-08-31). Sous-dosage, mauvaise molécule, contamination, endotoxines : risques génériques de ce marché ; analyse de produits à la thymosine alpha-1 : aucune trouvée [?].",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- Pour une infection récidivante ou une immunité jugée faible : bilan immunitaire, vaccination (grippe, pneumocoque, zona, COVID selon l'âge), recherche de carence (fer, vitamine D, zinc), sommeil, tabac, alcool. Voir [vitamine D](fiche:vitamine-d), [zinc](fiche:zinc), [sommeil](fiche:sommeil).\n- Hépatite B : traitements antiviraux autorisés (entécavir, ténofovir) prescrits par un hépatologue ; la discussion d'un traitement immunomodulateur relève d'un spécialiste.\n- Pas de protocole de dosage, de reconstitution ou d'injection, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).\n\nVoir aussi : [TB-500](fiche:tb-500), [épitalon](fiche:epitalon), [BPC-157](fiche:bpc-157).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Wu J et al. *BMJ* 2025 — PMID 39814420 — [DOI](https://doi.org/10.1136/bmj-2024-082583)\n2. Gu B et al. *Front Cell Infect Microbiol* 2025 — PMID 40969554 — [DOI](https://doi.org/10.3389/fcimb.2025.1673959)\n3. Soeroto AY et al. *Inflammopharmacology* 2023 — PMID 37845598 — [DOI](https://doi.org/10.1007/s10787-023-01354-2)\n4. Wolf E et al. *Cochrane Database Syst Rev* 2011 — PMID 21328265 — [DOI](https://doi.org/10.1002/14651858.CD003993.pub3)\n5. PMID 33076834 (Peng D, *BMC Gastroenterol* 2020), PMID 39648386 (Cao A, *J Coll Physicians Surg Pak* 2024), PMID 40599771 (Tian Y, *Front Immunol* 2025) : titres vérifiés, résumés non relus.\n6. Statut hors UE : résultats de recherche web du 2026-10-12 (pages commerciales et de vulgarisation, non officielles, non reprises comme preuve).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "Thymosine alpha-1 (thymalfasine, Zadaxin)",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,86 @@
+{
+ "cibles": [
+  "sens-bouche",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "luteine-et-zeaxanthine",
+ "intro": "",
+ "liens": [
+  "astaxanthine",
+  "baies-myrtilles-et-anthocyanes",
+  "omega-3",
+  "vitamine-c-orale",
+  "vitamine-e",
+  "zinc"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 15,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "23644932",
+  "37702300",
+  "27420092",
+  "25515572",
+  "38582248",
+  "34641336",
+  "41342624",
+  "30878580",
+  "35597519",
+  "32625685",
+  "42078788",
+  "42005760",
+  "42111996",
+  "32526861",
+  "33888136"
+ ],
+ "preuve_globale": "B",
+ "resume": "Caroténoïdes du pigment maculaire. Les compléments augmentent bien la densité du pigment maculaire (méta-analyse de 20 ECR), mais cette mesure n'est pas un critère de vision ni de maladie : le seul grand essai sur l'évolution de la DMLA est négatif sur son critère principal.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Caroténoïdes du pigment maculaire. Les compléments augmentent bien la densité du pigment maculaire (méta-analyse de 20 ECR), mais cette mesure n'est pas un critère de vision ni de maladie : le seul grand essai sur l'évolution de la DMLA est négatif sur son critère principal.\n- AREDS2 (4 203 patients à risque de DMLA avancée) : lutéine 10 mg + zéaxanthine 2 mg vs placebo, HR de progression 0,90 (IC 98,7 % 0,76-1,07), non significatif [B, ECR unique n=4 203] (PMID 23644932).\n- Cochrane 2023 : lutéine/zéaxanthine seules, progression vers la forme tardive RR 0,94 (0,87-1,01), certitude faible ; une seule étude (4 176 participants), presque tous sous formule AREDS [A, faible certitude] (PMID 37702300).\n- Pas de recommandation de prise « en prévention » avant un diagnostic de DMLA intermédiaire posé par l'ophtalmologue ; aucun effet démontré sur la cognition ; cataracte : non recherchée.\n- Sécurité : la formule AREDS d'origine avec bêta-carotène augmente le cancer du poumon chez les fumeurs et anciens fumeurs (AREDS2 : 2,0 % vs 0,9 %, p nominal = 0,04) ; pas ce risque avec lutéine/zéaxanthine.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- La lutéine et la zéaxanthine s'accumulent dans la macula (pigment maculaire) et filtrent la lumière bleue. Les suppléments augmentent la densité optique du pigment maculaire (MPOD) : WMD 0,07 chez les patients atteints de DMLA (IC 0,03-0,11) et 0,09 chez les sujets sains (IC 0,05-0,14), 20 ECR, 1 764 participants [A] (PMID 27420092). Le lien entre cette hausse et une vision durablement meilleure ou une maladie évitée n'est pas démontré par ces essais.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| DMLA, progression vers la forme avancée (AREDS2) | Lutéine + zéaxanthine HR 0,90 (IC 98,7 % 0,76-1,07) ; DHA/EPA HR 0,97 ; association HR 0,89 : aucun significatif ; 5 ans de suivi | [B, ECR unique n=4 203] (PMID 23644932) |\n| DMLA, Cochrane 2023 | Lutéine/zéaxanthine seules : forme tardive RR 0,94 (0,87-1,01) ; néovasculaire RR 0,92 (0,84-1,02) ; atrophie géographique RR 0,92 (0,80-1,05) ; perte d'au moins 15 lettres RR 0,98 (0,91-1,05) ; qualité de vie sans différence. Remplacer le bêta-carotène par lutéine/zéaxanthine dans AREDS : HR 0,82 (0,69-0,96) pour la forme tardive, analyse de sous-groupe exploratoire | [A, faible certitude] (PMID 37702300) |\n| Fonction visuelle dans la DMLA | 8 ECR, 1 176 patients : acuité logMAR −0,04 (IC −0,06 à −0,03) ; sensibilité au contraste améliorée ; effet lié à la dose | [A, effets petits] (PMID 25515572) |\n| Densité du pigment maculaire | 20 ECR, 938 patients DMLA et 826 sujets sains : hausse du MPOD dans les deux groupes ; plus nette avec la méso-zéaxanthine | [A] (PMID 27420092) |\n| Vision de sujets sains, réseau d'antioxydants | 38 ECR dans le réseau : tous les groupes améliorent la MPOD et le contraste à basse fréquence ; une seule combinaison améliore l'acuité ; qualité des preuves faible | [A, faible certitude] (PMID 38582248) |\n| Cognition | Lutéine alimentaire ou en complément : mémoire SMD 0,03 (IC −0,26 à 0,32), fonction exécutive 0,13 (−0,26 à 0,51), attention 0,02 : non significatif ; les auteurs évoquent un possible effet protecteur sur l'exécutif sans l'avoir démontré | [A, négatif] (PMID 34641336) |\n| Myopie de l'enfant, ester de lutéine | 180 enfants de 8 à 12 ans, 8 mg/j pendant 6 mois : amincissement choroïdien sous-fovéal −8,92 µm sous placebo vs +1,16 µm sous lutéine (écart 10,08 µm ; IC 3,68 à 16,47) ; critère indirect, pas la longueur axiale ni la réfraction ; plusieurs co-auteurs sont affiliés à l'institut d'un fabricant de compléments | [B, ECR unique n=180, critère indirect] (PMID 41342624) |\n| Myopie, méta-analyse | La seule méta-analyse retrouvée est signalée comme rétractée dans PubMed : écartée, non citée | [?] |\n| Cataracte | Méta-analyse d'études observationnelles (24 études, 295 821 participants) : lutéine + zéaxanthine OR 0,92 (IC 0,85 à 0,99) pour la cataracte, associations non causales ; aucun essai d'intervention retenu | [B, observationnel] (PMID 30878580) |\n| Fatigue visuelle (écran) | Revue d'ECR (45 essais) : caroténoïdes oraux +1,55 Hz sur la fréquence critique de fusion (2 ECR), pertinence clinique incertaine ; aucune thérapie avec des preuves de certitude élevée | [A, faible certitude] (PMID 35597519) |\n| Peau | Non recherchée | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- AREDS2 : lutéine 10 mg + zéaxanthine 2 mg par jour (PMID 23644932). Cette dose est celle du produit AREDS2 ; les compléments « vision » du commerce combinent souvent lutéine, zéaxanthine, vitamines, zinc, oméga-3 : teneurs réelles et prix non relevés [?]. Essai pédiatrique : 8 mg/j d'ester de lutéine (PMID 41342624).\n- Apport alimentaire : épinards, chou kale, œuf (jaune), maïs ; teneurs chiffrées non relevées dans cette fiche [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Complément alimentaire (extraits de souci/tagète, lutéine libre ou estérifiée, méso-zéaxanthine). Aucun médicament à base de lutéine dans la BDPM (recherche dans le fichier de composition, consultée le 2026-10-14).\n- Allégations : l'EFSA a évalué des allégations sur la lutéine et la vision en 2011 (articles 13(1)) et une allégation « réduit la perte de vision » pour un produit combinant lutéine, zéaxanthine et DHA (NWT-02) en 2018, conclue par l'absence de relation de cause à effet (PMID 32625685, 42078788). Le règlement (UE) n° 432/2012 (version consolidée du 2025-08-20, texte intégral lu) ne contient aucune allégation sur la lutéine ni la zéaxanthine.\n- Nouveaux aliments : la zéaxanthine de synthèse figure à la liste de l'Union (règlement d'exécution (UE) 2017/2470, version consolidée du 2026-08-10) pour les compléments (directive 2002/46/CE), 2 mg/j maximum ; la lutéine n'y figure pas en tant que telle (une seule occurrence, dans la spécification d'un extrait d'astaxanthine). Aucune entrée à l'annexe III du règlement (CE) n° 1925/2006 (version 2025-11-26). Arrêté du 24 juin 2014, annexe I (version consolidée au 15 janvier 2016) : *Tagetes erecta* L., parties aériennes ; *Calendula officinalis* L., inflorescences. Additif E 161b : l'EFSA fixe en 2010 une DJA de 1 mg/kg de poids corporel/j pour la lutéine de *Tagetes erecta* (≥ 80 % de caroténoïdes, dont 79 % de lutéine et 5 % de zéaxanthine) (PMID 42005760) ; en 2012, l'exposition des adultes (alimentation et colorant) ne dépasse pas la DJA à la moyenne ni au 95e percentile (PMID 42111996).\n- AMA : non concerné.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Effets indésirables de lutéine/zéaxanthine dans AREDS2 : pas de signal de sécurité relevé dans le résumé ; bêta-carotène : plus de cancers du poumon (23 cas, 2,0 % vs 11 cas, 0,9 %), surtout chez d'anciens fumeurs (PMID 23644932) [B, ECR unique].\n- Zinc fort dosage de la formule AREDS : problèmes génito-urinaires chez les hommes dans AREDS (PMID 37702300) ; voir [zinc](fiche:zinc).\n- DJA de 1 mg/kg/j pour la lutéine de *Tagetes erecta* (EFSA 2010, PMID 42005760), soit 60 mg/j pour 60 kg, de l'ordre de six fois la dose AREDS2 de 10 mg ; facteur d'incertitude de 200 appliqué faute d'étude de toxicité chronique ou de reproduction multigénérationnelle [C, DJA dérivée d'études animales ; valeur réglementaire, pas un seuil mesuré chez l'humain]. Une revue de 2020 qualifie la lutéine de « généralement reconnue comme sûre » avec peu d'effets secondaires à long terme (PMID 32526861) [B, revue narrative].\n- Caroténodermie, interactions médicamenteuses : aucune donnée retrouvée dans PubMed (recherches du 2026-10-14) [?].\n- Grossesse : aucun résultat d'essai ; un essai randomisé de supplémentation en lutéine-zéaxanthine pendant la grossesse (L-ZIP) n'est publié que sous forme de protocole (PMID 33888136) [?]. Allaitement : non trouvé [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Protège la vue » : aucun effet démontré sur la progression de la DMLA (AREDS2) ni sur la perte de vision (PMID 23644932, 37702300).\n- « Réduit la fatigue visuelle écran / lumière bleue » : aucun ECR lu sur ce critère [M].\n- « Prévient la cataracte » : seule une association observationnelle faible (OR 0,92, PMID 30878580) ; aucun essai d'intervention retenu.\n- « Pigment maculaire plus dense = vision protégée » : mesure indirecte, effet clinique non prouvé (PMID 27420092).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour. Voisines : [astaxanthine](fiche:astaxanthine), [oméga-3](fiche:omega-3), [vitamine E](fiche:vitamine-e), [vitamine C orale](fiche:vitamine-c-orale), [baies et anthocyanes](fiche:baies-myrtilles-et-anthocyanes).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. AREDS2 Research Group. *JAMA* 2013 — PMID 23644932 — [DOI](https://doi.org/10.1001/jama.2013.4997)\n2. Evans et al. *Cochrane Database Syst Rev* 2023 — PMID 37702300 — [DOI](https://doi.org/10.1002/14651858.CD000254.pub5)\n3. Ma et al. *Nutrients* 2016 — PMID 27420092 — [DOI](https://doi.org/10.3390/nu8070426)\n4. Liu et al. *Invest Ophthalmol Vis Sci* 2014 — PMID 25515572 — [DOI](https://doi.org/10.1167/iovs.14-15553)\n5. Hu et al. *Adv Nutr* 2024 — PMID 38582248 — [DOI](https://doi.org/10.1016/j.advnut.2024.100216)\n6. Li et al. *Molecules* 2021 — PMID 34641336 — [DOI](https://doi.org/10.3390/molecules26195794)\n7. EFSA NDA Panel, NWT-02 (lutéine, zéaxanthine, DHA), *EFSA J* 2018 — PMID 32625685 — [DOI](https://doi.org/10.2903/j.efsa.2018.5139)\n8. EFSA NDA Panel, lutéine en association avec la zéaxanthine et vision (ID 1606), *EFSA J* 2011 — PMID 42078788 — [DOI](https://doi.org/10.2903/j.efsa.2011.2039)\n9. Sideri et al. *Surv Ophthalmol* 2019 — PMID 30878580 — [DOI](https://doi.org/10.1016/j.survophthal.2019.03.003)\n10. Singh et al. *Ophthalmology* 2022 — PMID 35597519 — [DOI](https://doi.org/10.1016/j.ophtha.2022.05.009)\n11. Li et al. *Transl Vis Sci Technol* 2025 — PMID 41342624 — [DOI](https://doi.org/10.1167/tvst.14.12.7)\n12. EFSA ANS Panel, re-evaluation of lutein (E 161b), *EFSA J* 2010 — PMID 42005760 — [DOI](https://doi.org/10.2903/j.efsa.2010.1678)\n13. EFSA ANS Panel, exposure to lutein preparations, *EFSA J* 2012 — PMID 42111996 — [DOI](https://doi.org/10.2903/j.efsa.2012.2589)\n14. Li et al. *Nutrients* 2020 — PMID 32526861 — [DOI](https://doi.org/10.3390/nu12061721)\n15. Addo et al. *Trials* 2021 (protocole L-ZIP) — PMID 33888136 — [DOI](https://doi.org/10.1186/s13063-021-05244-2)\n16. Arrêté du 24 juin 2014, annexe I (version au 15 janvier 2016) — https://faolex.fao.org/docs/pdf/fra151110.pdf ; règlements d'exécution (UE) 2017/2470 (02017R2470-20260810), (CE) n° 1925/2006 (02006R1925-20251126), (UE) n° 432/2012 (02012R0432-20250820) — publications.europa.eu/resource/celex/ — textes intégraux lus le 2026-10-14.\n17. BDPM, fichier CIS_COMPO_bdpm — https://base-donnees-publique.medicaments.gouv.fr — consulté le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Lutéine et zéaxanthine",
+ "type": "actif",
+ "unite": ""
+}

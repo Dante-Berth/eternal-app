@@ -1,0 +1,103 @@
+{
+ "cibles": [
+  "prevention",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-acide-urique",
+ "intro": "Fiche « examen ». La maladie, les traitements (allopurinol, febuxostat, colchicine) et l'alimentation sont dans [Goutte et hyperuricémie](fiche:goutte-et-hyperuricemie). Cette fiche dit comment lire le chiffre, quelles cibles s'appliquent et ce qu'il ne prouve pas. Le rein est le grand déterminant : [créatinine, cystatine, albuminurie](fiche:biomarqueur-reins-creatinine-cystatine-albuminurie).",
+ "liens": [
+  "biomarqueur-reins-creatinine-cystatine-albuminurie",
+  "cerise-acide",
+  "goutte-et-hyperuricemie",
+  "tabac-et-alcool",
+  "tension-arterielle",
+  "vitamine-c"
+ ],
+ "marqueurs": [
+  "uricemie"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 14,
+ "nb_seuils": 7,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "27457514",
+  "32391934",
+  "33342914",
+  "36216006",
+  "32579811",
+  "36999206",
+  "30343856",
+  "29527974",
+  "34498481",
+  "15094272",
+  "15014182",
+  "30485934",
+  "32541923",
+  "32390306"
+ ],
+ "preuve_globale": "B",
+ "resume": "Cible chez le goutteux : uricémie < 360 µmol/L (< 6 mg/dL), < 300 µmol/L (< 5 mg/dL) si goutte sévère (EULAR 2016) ; l'ACR 2020 retient aussi < 6 mg/dL, avec titration du traitement guidée par des dosages répétés (recommandation forte) (PMID 27457514, 32391934).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Cible chez le goutteux : uricémie < 360 µmol/L (< 6 mg/dL)**, < 300 µmol/L (< 5 mg/dL) si goutte sévère (EULAR 2016) ; l'ACR 2020 retient aussi **< 6 mg/dL**, avec titration du traitement guidée par des dosages répétés (recommandation forte) (PMID 27457514, 32391934).\n- **Hyperuricémie sans crise ni calcul : pas de traitement médicamenteux** (ameli, via la fiche liée) ; l'ACR 2020 ne recommande pas de traitement pharmacologique de l'hyperuricémie asymptomatique chez les patients avec maladie rénale chronique ou cardiovasculaire, alors que la guideline japonaise est plus permissive pour la MRC (PMID 33342914, résumé).\n- Les essais n'ont pas montré de bénéfice cardiaque ou rénal à baisser l'urate sans goutte : allopurinol chez coronariens, HR 1,04 (0,89–1,21) [B, ECR unique n=5721] (PMID 36216006) ; chez insuffisants rénaux, déclin du DFG inchangé [B, ECR unique n=363] (PMID 32579811) (repris de la fiche liée).\n- Une uricémie élevée est un marqueur associé aux risques cardiovasculaire et rénal, sans causalité démontrée par ces essais.\n- Le chiffre varie avec l'alimentation, l'alcool, le poids, le rein et les médicaments : un seul dosage ne décide pas.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Concentration sanguine d'urate, produit final du métabolisme des purines chez l'humain. L'hyperuricémie chronique, surtout par défaut d'élimination rénale (ameli, 2026-10-12), peut mener au dépôt de cristaux d'urate de sodium et à la goutte (via la fiche liée). Mesure unique, sans jeûne strict obligatoire dans les sources lues [?].",
+   "titre": "Ce que mesure l'examen"
+  },
+  {
+   "markdown": "Conversions : 1 mg/dL = 10 mg/L ≈ 59,5 µmol/L (6 mg/dL = 360 µmol/L ; 5 mg/dL = 300 µmol/L ; 2 mg/dL ≈ 120 µmol/L). Les laboratoires français rendent en µmol/L ou mg/L selon les cas : lire l'unité imprimée.\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| Uricémie | µmol/L (mg/dL) | < 360 (< 6) | cible de traitement hypo-uricémiant : dissolution des cristaux | goutte confirmée | EULAR 2016, PMID 27457514 (résumé relu le 2026-11-01) ; ameli (via la fiche liée, 2026-10-15) |\n| Uricémie | µmol/L (mg/dL) | < 300 (< 5) | cible en goutte sévère | goutte sévère (tophi, atteinte articulaire) | EULAR 2016, PMID 27457514 |\n| Uricémie | mg/dL | < 6 | cible, dosage répété et titration | goutte traitée par hypo-uricémiant | ACR 2020, PMID 32391934 (résumé relu le 2026-11-01) |\n| Uricémie | µmol/L | < 200 | cible dans la goutte avec tophi | goutte tophacée | fiche liée (source non revérifiée ici) [?] |\n| Uricémie | µmol/L (mg/dL) | borne haute de la normale (hommes) | définition de l'hyperuricémie | homme adulte | non retrouvé [?] |\n| Uricémie | µmol/L (mg/dL) | borne haute de la normale (femmes) | définition de l'hyperuricémie | femme adulte, avant et après ménopause | non retrouvé [?] |\n| Uricémie | µmol/L | seuil d'indication à traiter sans crise | traitement de l'hyperuricémie asymptomatique | aucune | aucun seuil recommandé : pas de traitement (ameli, via la fiche liée) |\n\nSeuils pronostiques issus d'études : aucune borne d'uricémie démontrée comme cible de prévention cardiovasculaire ou rénale. Les revues citent un rôle indépendant de l'acide urique dans l'infarctus, l'insuffisance cardiaque, la MRC et la mortalité CV, mais restent sur une association épidémiologique et génétique (PMID 36999206, résumé relu) et l'indication de traiter l'hyperuricémie asymptomatique y est dite « débattue ». Je n'ai pas relu de méta-analyse chiffrée pour le risque CV par niveau d'uricémie [?].",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Traiter jusqu'à la cible chez le goutteux | Soins infirmiers structurés avec cible : 95 % vs 30 % sous la cible à 2 ans (RR 3,18 ; 2,42–4,18) | [B, ECR unique n=517] (PMID 30343856, repris de la fiche liée) |\n| Allopurinol chez coronariens sans goutte | Critère composite infarctus/AVC/mort CV : HR 1,04 (0,89–1,21) | [B, ECR unique n=5721] (PMID 36216006, repris de la fiche liée) |\n| Allopurinol chez insuffisants rénaux sans goutte | eGFR −3,33 vs −3,23 ml/min/an | [B, ECR unique n=363] (PMID 32579811, repris de la fiche liée) |\n| Febuxostat vs allopurinol en goutte avec maladie CV (CARES) | Non-infériorité sur le critère composite (HR 1,03), mortalité CV plus élevée sous febuxostat (HR 1,34 ; 1,03–1,73) | [B, ECR unique n=6190] (PMID 29527974, repris de la fiche liée) |\n| Febuxostat vs allopurinol, méta-analyse de 18 études | Événements CV majeurs : OR 1,01 (0,83–1,23) ; mort CV plus fréquente sous febuxostat ; hétérogénéité élevée | [A, qualité hétérogène] (PMID 34498481, résumé relu) |\n| Japon : febuxostat et événements CV/rénaux (FREED, FEATHER) | FREED : critère composite amélioré ; pas de différence de mortalité dans FEATHER/FREED vs placebo ou allopurinol | [B, résumé de revue] (PMID 33342914) |\n\nLecture sceptique : l'uricémie sert surtout à **piloter la goutte** (cible claire, bénéfice démontré sur le soin). Comme biomarqueur de longévité ou de risque cardiaque chez quelqu'un sans goutte, les essais lus sont négatifs ou ambigus, et les articles qui défendent le traitement de l'hyperuricémie asymptomatique (PMID 36999206) sont des revues, pas des essais.",
+   "titre": "Ce que dit la preuve (valeur prédictive, utilité clinique)"
+  },
+  {
+   "markdown": "- **Alcool, surtout bière** : bière RR 1,49 par 12 oz/jour, alcool ≥ 50 g/j RR 2,53 pour la goutte ; viande et fruits de mer augmentent le risque, produits laitiers le réduisent (RR 0,56) [B, cohortes] (PMID 15094272, 15014182, repris de la fiche liée). Voir [tabac et alcool](fiche:tabac-et-alcool).\n- **Fructose** : OR 2,14 pour la goutte (PMID 30485934, repris de la fiche liée).\n- **Perte de poids** : baisse de l'uricémie (revue de 11 études, fiche liée).\n- **Rein** : le défaut d'élimination rénale est la cause principale (ameli) ; DFG bas = uricémie plus haute.\n- **Médicaments** : allopurinol, febuxostat, uricosuriques (voir fiche liée). Diurétiques, aspirine à faible dose, ciclosporine, etc. peuvent élever l'urate : non relu dans un résumé ici [?].\n- **Compléments** : la [vitamine C](fiche:vitamine-c), la [cerise acide](fiche:cerise-acide) et d'autres « anti-acide urique » : niveaux de preuve dans leurs fiches ; aucun n'est recommandé par l'EULAR ou l'ACR dans les résumés lus [?].\n- **Prélèvement** : pendant ou juste après une crise, l'uricémie peut être normale ou basse : un dosage en pleine crise ne l'exclut pas [?] (non relu dans un résumé ici).",
+   "titre": "Ce qui fait varier le résultat (leviers, médicaments, compléments, conditions de prélèvement)"
+  },
+  {
+   "markdown": "- **Uricémie élevée sans crise, sans calcul ni goutte** : pas de médicament (ameli). Revoir alcool, boissons sucrées, poids, médicaments, rein, tension (voir [tension artérielle](fiche:tension-arterielle)) ; recontrôler.\n- **Goutte confirmée** : traitement de fond avec cible < 360 µmol/L (< 300 si sévère), titration sur dosages répétés, prophylaxie anti-inflammatoire pendant 3–6 mois à l'initiation (ACR, recommandation forte) (PMID 32391934).\n- Dosage régulier tant que la cible n'est pas atteinte, puis à intervalle défini par le médecin (fréquence précise non retrouvée [?]).",
+   "titre": "Que faire d'un résultat anormal"
+  },
+  {
+   "markdown": "Après une crise articulaire évocatrice de goutte ; avant d'instaurer un traitement hypo-uricémiant ; pour son suivi. Dépistage systématique chez la personne sans symptôme : non recommandé par les sources lues [?]. Remboursement et prix : non consultés (NABM) [?].",
+   "titre": "Qui, quand, comment (fréquence, remboursement)"
+  },
+  {
+   "markdown": "Examen de biologie médicale. Les médicaments qui modifient l'uricémie (allopurinol, febuxostat, colchicine) sont sur ordonnance (ameli, d'après la fiche liée ; BDPM non consultée pour cette fiche [?]). Aucun produit « équilibre acide urique » évalué.",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Traiter un chiffre isolé élevé, sans crise ni calcul, par un médicament.\n- Arrêter l'allopurinol dès que l'uricémie baisse : la cible se maintient avec un traitement continu (hypo-uricémiant au long cours : voir fiche liée) [?].\n- Se focaliser sur les aliments à purines en négligeant alcool, fructose, poids et rein.\n- Interpréter une uricémie normale pendant une crise comme l'absence de goutte [?].",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Baisser son acide urique protège le cœur et les reins »** : allopurinol sans goutte, HR 1,04 sur les événements CV (PMID 36216006) ; déclin du DFG inchangé chez insuffisants rénaux (PMID 32579811) [B].\n- **« Le febuxostat est plus sûr que l'allopurinol pour le cœur »** : en CARES, mortalité CV plus élevée sous febuxostat (HR 1,34) (PMID 29527974).\n- **« Éviter tous les légumes riches en purines »** [M] : pas d'association entre légumes riches en purines et goutte dans la fiche liée.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Les cibles de l'EULAR et de l'ACR coïncident (< 6 mg/dL = 360 µmol/L) ; l'EULAR ajoute < 5 mg/dL (300 µmol/L) en goutte sévère (PMID 27457514, 32391934).\n- Seulement un tiers à la moitié des goutteux reçoivent un hypo-uricémiant (PMID 32541923, repris de la fiche liée), alors que la cible est atteignable : 95 % sous la cible avec un suivi infirmier structuré (PMID 30343856).\n- Les guidelines divergent sur l'hyperuricémie asymptomatique avec MRC (ACR : pas de traitement pharmacologique ; guideline japonaise : traitement dans la MRC) (PMID 33342914).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Articulation rouge, chaude et très douloureuse (gros orteil en particulier), tophi, calculs rénaux, douleur du flanc ; uricémie élevée avec insuffisance rénale connue ; récidive de crises malgré le traitement ; éruption cutanée ou fièvre après le début d'un hypo-uricémiant (les réactions cutanées sont décrites comme effet indésirable dans la méta-analyse PMID 34498481 ; conduite à tenir non détaillée dans les sources lues).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 27457514 — Richette P et al., 2016 updated EULAR evidence-based recommendations for the management of gout. *Ann Rheum Dis* 2017. doi:10.1136/annrheumdis-2016-209707\n- PMID 32391934 — FitzGerald JD et al., 2020 American College of Rheumatology Guideline for the Management of Gout. *Arthritis Care Res* 2020. doi:10.1002/acr.24180 (la version *Arthritis Rheumatol*, PMID 32390306, est la même recommandation)\n- PMID 33342914 — Hisatome I et al., Uric Acid as a Risk Factor for CKD and CVD: Japanese Guideline on the Management of Asymptomatic Hyperuricemia. *Circ J* 2021. doi:10.1253/circj.CJ-20-0406\n- PMID 36999206 — Piani F et al., Advances in pharmacotherapies for hyperuricemia. *Expert Opin Pharmacother* 2023. doi:10.1080/14656566.2023.2197591 (revue)\n- PMID 34498481 — Wang M et al., Major cardiovascular events of febuxostat versus allopurinol in gout or asymptomatic hyperuricemia: systematic review and meta-analysis. *Ann Palliat Med* 2021. doi:10.21037/apm-21-1564\n- Repris de la [fiche liée](fiche:goutte-et-hyperuricemie) (non revérifiés ici) : PMID 36216006 (ALL-HEART), 32579811 (CKD-FIX), 29527974 (CARES), 30343856 (soins infirmiers), 15094272 et 15014182 (alcool, alimentation), 30485934 (fructose), 32541923 (prise en charge insuffisante) ; ameli, pages lues les 2026-10-12 et 2026-10-15.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : acide urique (uricémie)",
+ "type": "biomarqueur",
+ "unite": "µmol/L"
+}

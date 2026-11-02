@@ -1,0 +1,82 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "ecdysterone",
+ "intro": "",
+ "liens": [
+  "boosters-de-testosterone",
+  "creatine",
+  "musculation-et-recepteurs-androgeniques",
+  "proteines",
+  "sarms-et-anabolisants"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "31123801",
+  "40781783",
+  "24974955",
+  "37057316",
+  "37161586",
+  "41485968",
+  "40026058",
+  "37778393",
+  "36480213"
+ ],
+ "preuve_globale": "B",
+ "resume": "Stéroïde végétal (épinard, quinoa, *Leuzea*, *Cyanotis*, *Ajuga*) vendu comme « anabolisant naturel sans effet hormonal ». Un seul essai chez des sportifs a trouvé un gain de masse et de force (n = 46, 10 semaines, hommes jeunes) ; il est de petite taille ; le résumé le classe « essai clinique co…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Stéroïde végétal (épinard, quinoa, *Leuzea*, *Cyanotis*, *Ajuga*) vendu comme « anabolisant naturel sans effet hormonal ». **Un seul essai chez des sportifs a trouvé un gain de masse et de force** (n = 46, 10 semaines, hommes jeunes) ; il est de petite taille ; le résumé le classe « essai clinique contrôlé » (indexation PubMed « Double-Blind Method »), sans détail de randomisation ni de dose [B, essai contrôlé unique n=46] (PMID 31123801).\n- **Le seul ECR en double aveugle sur un produit du commerce est négatif** : 12 semaines, 28 hommes, aucun effet de groupe sur force, masse maigre ni épaisseur musculaire ; le dosage des gélules a trouvé **moins de 1 % de l'ecdystérone annoncée** [B, ECR unique n=28] (PMID 40781783).\n- Mécanisme proposé (récepteur oestrogénique bêta) démontré chez le rat et en cellules, pas chez l'humain [C] (PMID 24974955).\n- **AMA : non interdite, mais sur le Programme de suivi 2026** (en et hors compétition) : surveillée, pas bannie. Peut basculer en interdiction.\n- Turkesterone (très vendue) : **aucune donnée humaine trouvée** dans PubMed [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Chez le rat, l'ecdystérone augmente la taille des fibres, l'IGF-1 sérique, et baisse corticostérone et œstradiol ; en cellules C2C12, l'hypertrophie est bloquée par un anti-œstrogène mais pas par un anti-androgène, et l'ecdystérone active un gène rapporteur via les récepteurs ER alpha et ER bêta [C] (PMID 24974955). Elle n'agit donc pas, selon ces données, par le récepteur aux androgènes : cela explique l'argument « sans effet androgénique », mais aucun effet à long terme sur l'humain n'est documenté [?].\n- Pharmacocinétique humaine : l'ecdystérone purifiée (BIO101) est absorbée par voie orale et produit deux métabolites majeurs (14-désoxy-20-hydroxyecdysone, 14-désoxypostérone) [B, phase 1] (PMID 37057316). Biodisponibilité : non chiffrée dans le résumé relu ; après épinards (≈ 950 g), seuls 1,4 % de l'ecdystérone ingérée (parent + 2 métabolites) sont retrouvés dans l'urine, indice d'une faible excrétion urinaire (n = 8) [B] (PMID 37161586).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Contexte | Résultat | Preuve |\n|---|---|---|\n| Hommes jeunes, musculation, 10 semaines (n = 46) | gain de masse musculaire et de développé couché 1RM significativement supérieur dans les groupes ecdystérone ; pas de hausse des marqueurs hépatiques ou rénaux ; absence de stéroïdes interdits contrôlée dans le produit (PMID 31123801). Taille d'effet et doses : non lisibles dans le résumé (texte intégral non consulté) ; indexé « Controlled Clinical Trial » et « Double-Blind Method » par PubMed | [B, essai contrôlé unique n=46] |\n| Hommes entraînés, 12 semaines, produit commercial 20E + diosgénine (n = 28, 24 analysés) | progression de 1RM squat/développé couché et de la masse maigre dans les deux groupes (effet du temps), **sans effet de groupe** ; le produit contenait < 1 % de la 20E annoncée et 10,4 % de la diosgénine annoncée ; aucune activité biologique en cellules (PMID 40781783) | [B, ECR unique n=28] : résultat nul sur un produit sous-dosé, pas un test valide de l'ecdystérone à dose réelle |\n| 20E d'asperge 30 mg/j, 12 semaines, 20 hommes entraînés | masse grasse (bras, jambes, abdomen), insuline à jeun et acides gras libres en baisse et oxydation des graisses en hausse dans le groupe 20E ; seule la différence avec le placebo sur la masse grasse du bras est significative ; critères de force et de masse musculaire non rapportés dans le résumé (PMID 41485968) | [B, ECR n=20] |\n| Sarcopénie, 233 seniors, BIO101 (20E purifiée ≥ 97 %) 350 mg 2 fois/j, 6 à 9 mois | marche de 400 m : +0,07 m/s vs placebo, **non significatif** en population complète ; +0,09 m/s en per-protocol (p = 0,008) ; 55 % des évaluations perdues à cause du COVID-19 (PMID 40026058) | [B, ECR phase 2b, critère principal non atteint] |\n| Prise de masse chez le non-entraîné, femmes, athlètes de force de haut niveau, effet à long terme | aucune donnée trouvée | [?] |\n\nLimites : tous les essais chez le sportif ont moins de 50 participants et durent 10-12 semaines ; une réplication indépendante en double aveugle avec produit titré manque. Le seul gros essai (sarcopénie) concerne une molécule pharmaceutique, pas un complément.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais : 30 mg/j d'extrait d'asperge (PMID 41485968) ; 350 mg 2 fois/j de 20E purifiée en phase 2b (PMID 40026058) ; 100 à 1 400 mg en dose unique en phase 1 (PMID 37057316) ; doses du premier essai sportif : non lisibles dans le résumé (« différentes doses », PMID 31123801).\n- Vendu : mélanges « ecdystérone + turkesterone + diosgénine ». Dans l'essai de 2025, la gélule contenait moins de 1 % de la dose étiquetée de 20E (PMID 40781783) : **la teneur d'étiquette n'est pas fiable**. Contrôle analytique d'autres produits : non recherché [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Compléments alimentaires** (extraits de *Leuzea carthamoides*, *Cyanotis vaga*, spinach, asperge) : voir Réglementaire.\n- **BIO101 (20E purifiée)** : médicament expérimental en sarcopénie (phase 2b), non autorisé.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **AMA / WADA** : l'ecdystérone ne figure pas dans le texte de la Liste des interdictions 2026 (recherche du radical « ecdyst » dans le texte intégral de la Liste, aucune occurrence, confirmée le 2026-10-14 sur la copie du PDF officiel ; y compris en S1.2 « autres agents anabolisants »). Elle est inscrite sur le **Programme de suivi 2026** (« Anabolic Agents : In and Out-of-Competition : Ecdysterone »), lu sur une copie du document hébergée par une fédération (tennisireland.ie), consulté le 2026-10-14 ; le site wada-ama.org renvoie un défi anti-robot (HTTP 202 vide) depuis cet environnement le 2026-10-14, y compris pour le Programme de suivi : la source officielle reste non lue. La Liste 2027 a été publiée en août-septembre 2026 (lien trouvé sur afld.fr) mais le PDF est inaccessible de la même façon : un éventuel changement de statut pour 2027 n'a pas été vérifié [?]. Suivi depuis 2020 selon un article de chimie analytique (PMID 37778393). Une substance du Programme de suivi n'est pas interdite.\n- **France, plantes** (arrêté du 24 juin 2014, Légifrance, version en vigueur, consulté le 2026-10-14) : la liste inclut l'épinard (feuille) et *Stemmacantha carthamoides* (rhapontique, racine ; substance d'intérêt « ecdystérones », sans condition d'étiquetage). *Cyanotis*, *Ajuga turkestanica* (source de la turkesterone) et *Ajuga reptans* : seule *A. reptans* (parties aériennes en floraison) figure ; *Cyanotis* et *A. turkestanica* sont absents de la liste (recherche par mot-clé).\n- **UE, nouvel aliment** : l'ecdystérone ne figure pas dans la liste de l'Union (règlement d'exécution (UE) 2017/2470, consolidé 2026-08-10, recherche « ecdyst » : aucune occurrence, EUR-Lex/Office des publications, consulté le 2026-10-14). Statut d'un extrait enrichi : catalogue Novel Food en ligne inaccessible (application JavaScript), non tranché [?].\n- France, substances à but nutritionnel ou physiologique : arrêté du 26 septembre 2016 (Légifrance, version en vigueur, consulté le 2026-10-14) : hors caféine, carnitine, créatine et lycopène (doses plafonnées), ces substances sont autorisées dans les compléments « sous réserve qu'elles ne soient pas considérées comme des nouveaux ingrédients » ; la DGCCRF tient un registre non consulté ici (non public à ma connaissance).\n- **Médicament** : aucune spécialité à base d'ecdystérone dans la BDPM (fichiers CIS_bdpm et CIS_COMPO téléchargés le 2026-10-14, recherche « ecdyst », zéro résultat). BIO101 reste expérimental.\n- Les auteurs du premier essai concluent qu'elle devrait être interdite en S1.2 (PMID 31123801) : c'est une opinion, pas une décision de l'AMA.",
+   "titre": "Réglementaire"
+  },
+  {
+   "markdown": "- Phase 1 (BIO101, 14 jours jusqu'à 450 mg 2 fois/j chez 10 sujets âgés, doses uniques jusqu'à 1 400 mg) : bonne tolérance [B] (PMID 37057316). Essai de 10 semaines chez le sportif : pas de hausse des marqueurs hépatiques ou rénaux [B] (PMID 31123801). Phase 2b, 233 seniors : sécurité évaluée, détail des événements indésirables à vérifier dans le texte intégral (PMID 40026058).\n- Données au-delà de 9 mois, sur la fertilité, le profil hormonal à long terme, la grossesse, l'allaitement, les interactions médicamenteuses : aucune trouvée [?]. Un mécanisme via les récepteurs oestrogéniques justifie la prudence en cas de cancer hormono-dépendant (raisonnement du dépôt, non testé [?]).\n- Produits : dosage douteux (cf. ci-dessus). Dopage : le risque pour un sportif soumis aux contrôles est celui d'une substance surveillée, plus la contamination possible des compléments par des substances interdites (non quantifiée ici [?]). Origine alimentaire : l'ecdystérone est détectée dans l'urine après épinards, tisane de rhapontique et crème à *Cyanotis*, jusqu'à 691 ng/mL après une pâte d'épinards ; 507 échantillons positifs sur 11 191 en 2,5 ans de suivi en Pologne [B] (PMID 36480213, 37161586).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Plus anabolique que les stéroïdes »** : l'affirmation vient d'un modèle rat [C] ; le seul essai humain positif a 46 sujets sur 10 semaines (PMID 31123801) ; l'essai en double aveugle sur produit commercial est nul (PMID 40781783).\n- **« Pas d'effets hormonaux »** : l'action passe, d'après les modèles, par les récepteurs oestrogéniques [C] (PMID 24974955) ; absence d'effet endocrinien chez l'humain à long terme : non étudiée [?].\n- **« Turkesterone plus puissante »** : aucune donnée humaine trouvée [?].\n- **« Légale donc sans risque pour un sportif »** : surveillée par l'AMA depuis 2020 ; son statut peut changer.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit dans ce dépôt. Voir les boosters concurrents : [boosters de testostérone](fiche:boosters-de-testosterone), la mécanique : [musculation et récepteurs androgéniques](fiche:musculation-et-recepteurs-androgeniques), et la catégorie interdite : [SARMs et anabolisants](fiche:sarms-et-anabolisants) ; référence validée pour la masse musculaire : [créatine](fiche:creatine), [protéines](fiche:proteines).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 31123801, Isenmann et al., « Ecdysteroids as non-conventional anabolic agent: performance enhancement by ecdysterone supplementation in humans », Arch Toxicol 2019 (résumé relu).\n- PMID 40781783, Dissemond et al., « How reliable is the labeling of a commercial phytosteroid product? A 12-week randomized double-blind training study », J Int Soc Sports Nutr 2025 (résumé relu).\n- PMID 41485968, Sripinyowanich et al., 20-hydroxyecdysone d'*Asparagus officinalis* chez des hommes entraînés, J Nutr Sci Vitaminol 2025 (résumé relu en entier ; n = 20, 30 mg/j, critères musculaires absents du résumé).\n- PMID 40026058, Fielding et al., « BIO101 in Sarcopenic Seniors at Risk of Mobility Disability », J Cachexia Sarcopenia Muscle 2025 (résumé relu).\n- PMID 37057316, Dioh et al., phase 1 de sécurité et pharmacocinétique de BIO101, J Cachexia Sarcopenia Muscle 2023 (résumé relu).\n- PMID 24974955, Parr et al., « Estrogen receptor beta is involved in skeletal muscle hypertrophy induced by the phytoecdysteroid ecdysterone », Mol Nutr Food Res 2014 (résumé relu).\n- PMID 37778393, Piper et al., métabolisme humain de l'ecdystérone, Drug Test Anal 2023 (résumé relu ; cité pour le suivi AMA depuis 2020).\n- PMID 37161586, Yuliandra et al., « Urinary Excretion of Ecdysterone and Its Metabolites Following Spinach Consumption », Mol Nutr Food Res 2023 (résumé relu).\n- PMID 36480213, Kwiatkowska et al., « Ecdysterone: Possible sources of origin in urine », Drug Test Anal 2023 (résumé relu).\n- Réglementaire : arrêté du 24 juin 2014 (Légifrance) ; règlement (UE) 2017/2470 consolidé 2026-08-10 ; BDPM ; consultés le 2026-10-14.\n- AMA, Programme de suivi 2026, copie sur tennisireland.ie, consulté le 2026-10-14 ; Liste des interdictions 2026, texte intégral (copie locale du PDF officiel obtenue le 2026-10-13), recherche effectuée le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Ecdystérone (20-hydroxyecdysone, turkesterone)",
+ "type": "actif",
+ "unite": ""
+}

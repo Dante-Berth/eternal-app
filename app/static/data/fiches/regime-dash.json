@@ -1,0 +1,63 @@
+{
+ "cibles": [
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-23",
+ "famille": "alimentation",
+ "id": "regime-dash",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "regime-mediterraneen",
+  "regime-mind",
+  "tension-arterielle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "32330233",
+  "42492868",
+  "34353704"
+ ],
+ "preuve_globale": "A",
+ "resume": "Baisse de tension réelle mais modeste : −3,2 mmHg de systolique et −2,5 de diastolique vs régime témoin, 30 essais, 5 545 pers., certitude modérée [A] (PMID 32330233).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Baisse de tension réelle mais modeste** : −3,2 mmHg de systolique et −2,5 de diastolique vs régime témoin, 30 essais, 5 545 pers., certitude modérée [A] (PMID 32330233).\n- **Pas démontré supérieur aux autres régimes structurés** : 10 essais comparatifs, écart systolique +1,30 mmHg en faveur du comparateur (IC −1,54 à 4,14), hétérogénéité forte, certitude faible [A, faible certitude] (PMID 42492868). Le DASH vaut surtout comme « un bon régime structuré », pas comme remède unique.\n- **Bénéfices métaboliques annexes** chez des patients atteints de maladies chroniques : poids −1,59 kg, LDL −3,53 mg/dl, pas d'effet sur la glycémie ni la CRP [A] (PMID 34353704).\n- **Aucune donnée de mortalité ou d'événements** dans les résumés lus : ce sont des marqueurs, pas des résultats cliniques [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Contenu** : fruits, légumes, produits laitiers allégés, peu de sel (description reprise de la fiche [tension artérielle](fiche:tension-arterielle) du dépôt). Quantités par portion et listes d'aliments exclus : non extraites des résumés lus [?].\n- **Variante sodium** : les essais regroupés comparent des apports en sodium > 2 400 mg/j et ≤ 2 400 mg/j ; l'effet sur la systolique est plus net quand le sodium est > 2 400 mg/j (PMID 32330233).\n- **Poids** : −1,59 kg dans une méta-analyse de patients atteints de maladies chroniques (PMID 34353704). Si les essais prescrivaient un régime hypocalorique, et la part du poids dans l'effet sur la tension : non précisés dans les résumés lus [?].\n- **Témoin** : « régime témoin » ou autres régimes structurés selon les essais ; la définition varie, avec une hétérogénéité forte (PMID 42492868).",
+   "titre": "Variantes et contenu"
+  },
+  {
+   "markdown": "Non revérifié [?]. Le régime est riche en fruits, légumes, laitages allégés et pauvre en sel ; l'effet est attribué à l'ensemble (potassium, magnésium, calcium, moins de sodium). Un résumé relu rapporte une hausse de la kaliurèse et une baisse de la natriurèse sous DASH (PMID 42492868).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Tension artérielle\n| Source | Résultat | Preuve |\n|---|---|---|\n| 30 ECR, 5 545 pers., adultes avec ou sans HTA | SBP −3,2 mmHg (IC −4,2 à −2,3), DBP −2,5 (−3,5 à −1,5) ; statut hypertendu sans effet modificateur ; effet plus net si sodium des essais > 2 400 mg/j et si âge < 50 ans (PMID 32330233) | [A, certitude modérée] |\n| 22 ECR (10 poolés), DASH vs autres régimes | SBP +1,30 (−1,54 à 4,14), DBP +0,21 (−3,72 à 4,14) : pas d'avantage ; LDL −8,59, HbA1c −0,49, natriurèse −32,89 (PMID 42492868) | [A, faible certitude] |\n\nL'effet est comparable à celui d'un petit antihypertenseur, pas d'une trithérapie : voir [tension artérielle](fiche:tension-arterielle).\n\n### Marqueurs métaboliques (patients atteints de maladies chroniques)\n54 essais : poids −1,59 kg, IMC −0,64, tour de taille −1,93 cm, SBP −3,94, DBP −2,44, cholestérol total −5,12 mg/dl, LDL −3,53 mg/dl ; pas d'effet significatif sur HDL, triglycérides, glycémie, insuline, HOMA-IR, CRP [A] (PMID 34353704). Effets petits, et la perte de poids contribue.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « Le DASH est le régime n°1 contre l'hypertension » : face à d'autres régimes structurés, pas de supériorité démontrée [A, faible certitude] (PMID 42492868).\n- « Il traite le diabète » : −0,49 point d'HbA1c dans une méta-analyse comparative (PMID 42492868) mais aucun effet sur glycémie ou insuline dans une autre (PMID 34353704). Résultats discordants [A, contradictoire].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Pas d'effet indésirable rapporté dans les résumés lus. Le régime élève l'apport en potassium (PMID 42492868) : précaution en cas d'insuffisance rénale ou de traitement augmentant la kaliémie (IEC, ARA2, diurétiques épargneurs de potassium), à valider avec un médecin ; non sourcé ici [?].\n\nStatut réglementaire : sans objet (pattern alimentaire).\n\nVoir aussi : [tension artérielle](fiche:tension-arterielle) · [régime méditerranéen](fiche:regime-mediterraneen) · [MIND](fiche:regime-mind) · [synthèse alimentation](fiche:alimentation).",
+   "titre": "Sécurité, populations à risque"
+  },
+  {
+   "markdown": "- PMID 32330233 — Filippou C.D. et al., *Adv Nutr* 2020. doi:10.1093/advances/nmaa041\n- PMID 34353704 — Lari A. et al., *Nutr Metab Cardiovasc Dis* 2021. doi:10.1016/j.numecd.2021.05.030\n- PMID 42492868 — Valenzuela-Fuenzalida J.J. et al., *Curr Probl Cardiol* 2026. doi:10.1016/j.cpcardiol.2026.103397",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Régime DASH",
+ "type": "actif",
+ "unite": ""
+}

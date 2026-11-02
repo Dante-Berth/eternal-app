@@ -1,0 +1,82 @@
+{
+ "cibles": [
+  "hormones-sexualite",
+  "longevite"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-testosterone-shbg",
+ "intro": "Fiche « examen » : comment doser, quand croire le chiffre. Symptômes et traitement : [baisse de désir et testostérone](fiche:baisse-libido-homme-et-testosterone), [testostérone (TRT)](fiche:testosterone), [boosters de testostérone](fiche:boosters-de-testosterone).",
+ "liens": [
+  "baisse-libido-homme-et-testosterone",
+  "boosters-de-testosterone",
+  "testosterone"
+ ],
+ "marqueurs": [
+  "testosterone",
+  "shbg"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 3,
+ "nb_seuils": 6,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42177105",
+  "42864396",
+  "20400148"
+ ],
+ "preuve_globale": "B",
+ "resume": "Le diagnostic d'hypogonadisme masculin demande des critères cliniques ET biochimiques ; un chiffre bas sans symptômes, ou des symptômes sans chiffre bas répété, ne suffit pas (recommandations EAU 2026, résumé relu) [B, recommandation d'experts] (PMID 42177105).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Le diagnostic d'hypogonadisme masculin demande **des critères cliniques ET biochimiques** ; un chiffre bas sans symptômes, ou des symptômes sans chiffre bas répété, ne suffit pas (recommandations EAU 2026, résumé relu) [B, recommandation d'experts] (PMID 42177105).\n- Conditions de prélèvement recommandées par l'EAU 2026 : **testostérone totale à jeun, le matin (7 h–10 h)** ; un immunodosage reste acceptable si la chromatographie couplée à la spectrométrie de masse (LC-MS/MS) n'est pas disponible ; seuil de **≤ 12 nmol/L** pour le diagnostic chez l'homme symptomatique (PMID 42177105).\n- La **SHBG** et la testostérone libre calculée (testostérone totale + SHBG + albumine) servent à éviter les erreurs quand la SHBG est modifiée. Une revue 2026 les recommande en cas de valeur limite ou de discordance symptômes/testostérone totale, et note que l'hypogonadisme « fonctionnel » accompagne souvent le vieillissement, l'obésité et les maladies chroniques [B, revue narrative] (PMID 42864396). L'EAU précise que les données pour l'usage chez le sujet sain sont **limitées** (PMID 42177105).\n- Prix et remboursement de ces dosages en France : non établis [?]. Un dosage « hormonal » ne justifie pas, à lui seul, un traitement : il est sur ordonnance (voir [testostérone](fiche:testosterone)).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Testostérone totale** : fraction liée à la SHBG + à l'albumine + fraction libre. C'est le dosage de référence du diagnostic.\n- **SHBG** : protéine de transport ; quand elle change, la testostérone totale change sans que l'activité biologique suive. D'où le calcul de la fraction libre (PMID 42177105).\n- Œstradiol, DHEA-S, LH/FSH : une recherche PubMed (2026-10-17) n'a retrouvé aucune recommandation ou essai exploitable pour leur usage chez l'homme en bonne santé [?]. Ne pas les doser « pour la longévité » sans indication médicale.",
+   "titre": "Mécanisme et ce que mesure l'examen"
+  },
+  {
+   "markdown": "Conversion (calcul à partir de la masse molaire 288,4) : testostérone 1 nmol/L ≈ 0,288 ng/mL ≈ 28,8 ng/dL, soit 12 nmol/L ≈ 346 ng/dL. SHBG en nmol/L.\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| Testostérone totale (matin, à jeun, 7 h-10 h) | nmol/L | ≤ 12 | Seuil biochimique à associer à des symptômes pour le diagnostic d'hypogonadisme (confirmer par un second dosage) | Homme symptomatique | EAU Guidelines on Sexual and Reproductive Health, résumé 2026, Corona, PMID 42177105 (consulté le 2026-11-01) |\n| Écart entre deux dosages du matin | % | ≥ 52 | Différence interprétable comme vraie (au-dessous : variabilité biologique) | Hommes sains de 50 à 70 ans et plus (n=87) | Collier, PMID 20400148 [B, étude de 87 sujets] |\n| Variabilité de la testostérone totale du matin | % | 18,7 (jour à jour) ; 12,9 (dans la journée) | Variation biologique normale | idem | PMID 20400148 [B] |\n| Testostérone libre calculée (testostérone totale + SHBG + albumine) | nmol/L | non retrouvé [?] | Seuil chiffré non relu ; à envisager si la SHBG est probablement modifiée, utilité chez le sujet sain limitée | Homme avec SHBG atypique | PMID 42177105 |\n| SHBG | nmol/L | non retrouvé [?] | Intervalle de référence par âge non relu | Homme adulte | [?] |\n| Testostérone totale, femme | nmol/L | non retrouvé [?] | Hors périmètre de cette fiche (homme) | Femme | [?] |\n\nLes seuils des autres sociétés savantes (Endocrine Society, AUA, ISSAM, seuils en ng/dL) : non relus dans une source consultée [?]. Un seuil de laboratoire n'est pas un seuil diagnostique : il varie selon la méthode (LC-MS/MS préférée, immunodosage acceptable) (PMID 42177105).",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Point | Recommandation | Source |\n|---|---|---|\n| Moment | Matin, 7 h–10 h | PMID 42177105 |\n| État | À jeun | PMID 42177105 |\n| Méthode | LC-MS/MS préférée ; immunodosage acceptable à défaut | PMID 42177105 |\n| Seuil | ≤ 12 nmol/L (testostérone totale) chez l'homme symptomatique | PMID 42177105 |\n| SHBG / testostérone libre calculée | À envisager si SHBG probablement modifiée ; utilité chez le sujet sain : données limitées | PMID 42177105 |\n\n**Variabilité** : chez 87 hommes sains de 50 à 70 ans et plus, la testostérone totale du matin varie de 18,7 % d'un jour à l'autre (12,9 % dans la journée) ; elle est plus basse de 1,5 nmol/L l'après-midi ; il faut un écart de **52 %** entre deux dosages du matin pour parler de vraie différence ; la fraction libre calculée n'apporte pas de meilleure stabilité [B, étude de 87 sujets] (PMID 20400148). Un seul dosage « limite » ne permet donc pas de conclure. Effet du repas et délai exact de confirmation : non relus [?].",
+   "titre": "Conditions de prélèvement (EAU 2026)"
+  },
+  {
+   "markdown": "- Confirmer avec un médecin (répétition du dosage : un écart < 52 % entre deux dosages du matin peut n'être que de la variabilité, PMID 20400148 ; symptômes, causes réversibles : vieillissement, obésité et maladies chroniques sont cités comme contextes d'hypogonadisme fonctionnel, PMID 42864396 ; liste complète des médicaments en cause : non relue [?]).\n- Le traitement de substitution est un médicament avec contrôle : preuves de sécurité (TRAVERSE) et d'efficacité dans [testostérone](fiche:testosterone). Pas de dosage ni de schéma ici.\n- Compléments dits « boosters » : pas de preuve de bénéfice démontré dans les fiches liées ([boosters](fiche:boosters-de-testosterone)).",
+   "titre": "Que faire d'un résultat bas"
+  },
+  {
+   "markdown": "Examen de biologie médicale prescrit. Cotation NABM, prix, remboursement : non retrouvés [?]. Traitement : médicament sur ordonnance (voir [testostérone](fiche:testosterone)).",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Se faire doser l'après-midi, ou non à jeun, puis interpréter comme un hypogonadisme.\n- Se fier à la testostérone totale seule quand la SHBG est très haute ou très basse (obésité, âge) : demander le calcul de la fraction libre (PMID 42177105).\n- Un seul dosage « limite » pris comme diagnostic.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Testostérone basse = andropause à traiter »** : le diagnostic demande des symptômes ET une valeur basse confirmée (PMID 42177105). Bénéfice du traitement hors hypogonadisme confirmé : non démontré dans les sources lues [?] (voir [testostérone](fiche:testosterone)).\n- **« Tout le monde doit la doser pour la longévité »** : aucune donnée de ce type retrouvée [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Les recommandations EAU 2026 notent que l'usage de la testostérone libre calculée est même discuté chez le sujet sain, sur des données limitées, pour éviter des diagnostics erronés (PMID 42177105).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Baisse durable du désir ou de l'énergie, troubles de l'érection, infertilité, ou bilan hormonal anormal : médecin (généraliste, endocrinologue ou urologue). Seuils d'orientation autres que les ≤ 12 nmol/L ci-dessus : non relus [?].",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 20400148 — Collier CP et al., Significance of biological variation in the diagnosis of testosterone deficiency. *J Urol* 2010. doi:10.1016/j.juro.2010.02.011\n- PMID 42864396 — Thompson T et al., Update on testosterone deficiency and therapeutic options for TRT. *Nat Rev Urol* 2026. doi:10.1038/s41585-026-01190-3\n- PMID 42177105 — Corona G et al., EAU Guidelines on Sexual and Reproductive Health: Summary of the 2026 Recommendations for Measurement and Biochemical Confirmation of Hypogonadism. *Eur Urol Focus* 2026. doi:10.1016/j.euf.2026.04.015",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : testostérone, SHBG, testostérone libre calculée (homme)",
+ "type": "biomarqueur",
+ "unite": ""
+}

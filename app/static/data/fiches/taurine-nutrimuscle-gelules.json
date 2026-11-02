@@ -1,0 +1,78 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "complement",
+ "id": "taurine-nutrimuscle-gelules",
+ "intro": "",
+ "liens": [
+  "taurine",
+  "tension-arterielle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "41275513",
+  "40852891",
+  "29546641",
+  "30805607",
+  "37289866",
+  "41061678",
+  "40472098",
+  "26781281",
+  "40546935",
+  "18325648",
+  "40369079"
+ ],
+ "preuve_globale": "A",
+ "resume": "Taurine pure, un seul ingrédient, à environ 0,12 € le gramme (9,95 € les 120 gélules), donc peu chère pour une dose d'essai de 1,5-3 g/j ; mais la portion recommandée de 5,6 g dépasse le niveau « observé sûr » de 3 g/j de l'évaluation de risque citée, et les bénéfices démontrés (tension −4 mmHg,…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Taurine pure, un seul ingrédient, à environ 0,12 € le gramme (9,95 € les 120 gélules), donc peu chère pour une dose d'essai de 1,5-3 g/j ; mais la portion recommandée de 5,6 g dépasse le niveau « observé sûr » de 3 g/j de l'évaluation de risque citée, et les bénéfices démontrés (tension −4 mmHg, glycémie) concernent surtout des malades.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur déclarée | Preuve |\n|---|---|---|\n| Taurine | 5 600 mg pour 8 gélules (≈ 700 mg par gélule, calcul de la fiche) | Méta-analyse de 34 ECR : tension systolique −4,38 mmHg, glycémie à jeun −5,90 mg/dL, HbA1c −0,21 point ; populations surtout malades [A, hétérogène] (PMID 41275513). Endurance en dose unique : g = 0,25, certitude basse à très basse [A, faible certitude] (PMID 40852891) |\n| Enveloppe | Gélule végétale (pullulan) ; ni dioxyde de silicium (E551) ni autre excipient annoncés | Sans objet |\n\nComposition et prix : eu.nutrimuscle.com, consulté le 2026-10-12. Taurine de synthèse ou de fermentation : non précisé [?]. Certificats annoncés (analyse, OGM, pullulan conforme AMA, halal, site « Sport Protect ») : documents non consultés ; test indépendant de type Informed Sport non mentionné [?]. Allergènes : produit dans un site traitant lait, œuf, céréales, soja, poisson, mollusques, crustacés.",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Complément alimentaire ; l'acide aminé n'est pas un médicament. Évaluation EFSA 2009 sur les boissons énergisantes (NOAEL 1 000 mg/kg/j) et statut Novel Food non vérifié : voir [taurine](fiche:taurine). La marque annonce des matières premières « conformes AMA » (source de marque, non vérifiée) ; la taurine n'est pas à ma connaissance sur la liste AMA, non revérifié pour 2026 [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque dit | Les études |\n|---|---|\n| Hydratation et équilibre électrolytique, endurance, résistance à la fatigue | Endurance : g = 0,40 sur 10 études (PMID 29546641), mais g = 0,25 et certitude basse à très basse en dose unique, résultats fragiles (PMID 40852891) [A, faible certitude] |\n| Force et puissance | Non retrouvé dans les méta-analyses lues pour la fiche taurine [?] |\n| Digestion et absorption des graisses | Non vérifié [?] |\n| « Synergie » avec créatine, caféine, BCAA | Non vérifié [?] ; la hausse de tension des boissons énergisantes vient de la caféine, pas de la taurine (PMID 30805607) [B] |\n| Anti-âge (non revendiqué sur la page lue) | Chez l'humain, aucune donnée de longévité ; la baisse de taurine avec l'âge est contestée (PMID 37289866, PMID 41061678, PMID 40472098) |\n\nVoir [taurine](fiche:taurine).",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Marque : 8 gélules par jour (5,6 g), après l'entraînement avec une poudre de protéines ou au dîner. Les essais lus utilisent 1,5 à 3 g/j pour la tension et le métabolisme (PMID 41275513) et 1,6 à 2,4 g/j dans deux ECR (PMID 26781281, PMID 40546935). La portion de la marque est donc supérieure à ces plages.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- 120 gélules : 9,95 € (8,96 € avec abonnement de 3 livraisons minimum), nutrimuscle.com, 2026-10-12 ; second vendeur français non relevé [?].\n- Prix au gramme : 9,95 € pour environ 84 g, soit **≈ 0,12 €/g**. La page affiche « 0,08 € par portion », ce qui ne correspond pas au calcul (une portion de 8 gélules coûte ≈ 0,66 €) : chiffre de la marque non retenu.\n- Coût : à 2 g/j ≈ 7 € par mois ; à 3 g/j ≈ 11 € par mois ; à la portion de la marque (5,6 g/j) ≈ 20 € par mois. Colonne prix : 11-20 € selon 3 g ou 5,6 g par jour.\n- Alternatives : Prolab 1 000 mg, 150 gélules, 15,12 € en rupture de stock au moment de la recherche (Nutritienda, via recherche web, non vérifié) soit ≈ 0,10 €/g ; poudre de taurine non relevée [?]. Pour la tension : l'alimentation, le sel, le sport et les antihypertenseurs ont des preuves plus solides, voir [tension artérielle](fiche:tension-arterielle).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non consultés [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Niveau « observé sûr » de 3 g/j chez l'adulte sain, sans NOAEL fixé ; au-delà, pas démontré dangereux mais peu étudié (PMID 18325648). La portion de 5,6 g dépasse ce niveau.\n- Grossesse et allaitement : aucune étude de supplémentation ; Vidal recommande l'abstention. Interactions : voir [taurine](fiche:taurine). La marque déconseille l'association avec le bicarbonate de potassium (source de marque).\n- Signal préclinique dans la leucémie myéloïde [C] (PMID 40369079) : aucune donnée humaine.",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "1. Nutrimuscle, « Taurine en gélules » — https://eu.nutrimuscle.com/fr/products/taurine-en-gelules (consulté le 2026-10-12)\n2. Nutritienda, Prolab Taurine 1000 mg — résultat de recherche du 2026-10-12, page non lue.\n3. PMID 41275513, PMID 40852891, PMID 29546641, PMID 30805607, PMID 18325648, PMID 26781281, PMID 40546935, PMID 37289866, PMID 41061678, PMID 40472098, PMID 40369079 : études reprises de la fiche [taurine](fiche:taurine) (résumés relus lors de sa rédaction).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Taurine en gélules — Nutrimuscle",
+ "type": "produit",
+ "unite": ""
+}

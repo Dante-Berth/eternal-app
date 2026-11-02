@@ -1,0 +1,77 @@
+{
+ "cibles": [
+  "muscle-os",
+  "coeur-metabolisme",
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "complement",
+ "id": "curcumine",
+ "intro": "",
+ "liens": [
+  "antioxydants-alimentaires-et-absorption",
+  "berberine",
+  "glycemie-et-prediabete",
+  "omega-3"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "39478418",
+  "35935936",
+  "38576215",
+  "40579315",
+  "32656820",
+  "36804260",
+  "37325651"
+ ],
+ "preuve_globale": "A",
+ "resume": "Principal curcuminoïde du curcuma, vendu comme anti-inflammatoire universel. Les méta-analyses montrent des effets sur des marqueurs (CRP, glycémie) et des douleurs d'arthrose, mais portent sur des essais petits, souvent de mauvaise qualité méthodologique, avec une certitude de preuve majoritaire…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Principal curcuminoïde du curcuma, vendu comme anti-inflammatoire universel. Les méta-analyses montrent des effets **sur des marqueurs** (CRP, glycémie) et des **douleurs d'arthrose**, mais portent sur des essais petits, souvent de mauvaise qualité méthodologique, avec une certitude de preuve majoritairement faible.\n- Vue d'ensemble (103 ECR, 7 216 participants, 42 critères) : 23 critères sur 42 significatifs ; certitude élevée uniquement pour la glycémie à jeun, modérée pour une dizaine de critères, faible ou très faible pour 28 critères [A, qualité méthodologique limitée] (PMID 39478418).\n- Arthrose et arthrite : douleur et raideur réduites selon plusieurs méta-analyses, mais « qualité faible et petit nombre d'ECR » (PMID 35935936, PMID 38576215) [A, faible].\n- Cerveau : aucun effet sur la cognition globale chez l'humain (SMD 0,14 ; IC −0,78 à 1,07 ; 10 études, 531 participants) malgré des effets nets chez le rongeur ; plus d'effets indésirables sous curcumine (PMID 40579315) [A, négatif] et [C].\n- **Risque réel : hépatite aiguë** associée aux formulations « haute biodisponibilité » à doses élevées (PMID 32656820).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Biodisponibilité orale très faible de la curcumine native ; d'où les formulations à biodisponibilité améliorée (pipérine, lipides, nano) vendues ensuite. Les comparaisons d'absorption entre formes n'ont pas été relues ici [?].\n- Effets anti-inflammatoires et antioxydants mesurés sur biomarqueurs chez l'humain (voir tableau) ; lien avec un bénéfice clinique non démontré.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Vue d'ensemble | 103 ECR : effets significatifs sur la glycémie, des indices lipidiques, inflammatoires et oxydatifs ; limites méthodologiques reconnues par les auteurs | [A, certitude variable] (PMID 39478418) |\n| Inflammation (biomarqueurs) | 66 ECR : CRP −0,58 mg/L (−0,74 à −0,41), TNF-α −3,48 pg/mL, IL-6 −1,31 pg/mL ; IL-1β inchangée | [A, marqueurs seulement] (PMID 36804260) |\n| Glycémie | Glycémie à jeun : certitude élevée dans l'analyse parapluie ; voir [glycémie et prédiabète](fiche:glycemie-et-prediabete) | [A] (PMID 39478418) |\n| Arthrose du genou | Méta-analyse de 11 méta-analyses : baisse de l'EVA douleur, du WOMAC (douleur, fonction, raideur) ; conclusion « soutient fortement » des auteurs | [A, faible : synthèse de synthèses] (PMID 38576215) |\n| Arthrites (5 types) | 29 ECR, 2 396 participants, 120-1 500 mg/j sur 4-36 semaines : amélioration de l'inflammation et de la douleur ; qualité des ECR faible | [A, faible] (PMID 35935936) |\n| Polyarthrite rhumatoïde | 6 publications, 539 patients : DAS28 −1,20 (−1,85 à −0,55), VS −29,47, articulations gonflées −5,33 et douloureuses −6,33 ; à confirmer | [B, petits essais] (PMID 37325651) |\n| Cognition humaine | 10 études, 531 participants : pas d'effet global ; mémoire de travail et vitesse de traitement améliorées dans des sous-groupes | [A, effet nul global] (PMID 40579315) |\n| Cognition, modèles de la maladie d'Alzheimer | Amélioration chez le rongeur (25 études, 572 animaux) | [C] (PMID 40579315) |\n| Longévité, cancer, dépression, peau, cheveux | Non recherchés dans cette fiche | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Les essais d'arthrite vont de 120 à 1 500 mg/j sur 4 à 36 semaines (PMID 35935936). Les hépatites rapportées concernent des formulations à haute biodisponibilité à doses élevées (PMID 32656820). Ce ne sont pas des consignes.\n- Teneur en curcuminoïdes des produits vendus et additifs (pipérine) : non relevées [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Poudre de curcuma (aliment/épice), extraits standardisés, formules à biodisponibilité améliorée (complément alimentaire). Statut en France, plafonds, signalements ANSES/nutrivigilance : non consultés [?]. AMA : non recherché [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Hépatotoxicité** : 7 cas d'hépatite aiguë en Toscane, tous avec des formulations à forte biodisponibilité et doses élevées de curcuminoïdes, avec amélioration à l'arrêt chez la plupart ; 23 cas supplémentaires dans la littérature (revue systématique), la majorité avec d'autres médicaments concomitants (PMID 32656820) [B, séries de cas].\n- Essai cognitif : plus d'événements indésirables sous curcumine que sous contrôle (PMID 40579315) ; nature non détaillée dans le résumé [?].\n- Interactions (anticoagulants, antiplaquettaires, chimiothérapies, CYP), grossesse, calculs biliaires : non recherchées dans cette fiche [?]. Prudence en cas de maladie du foie ou de traitement hépatotoxique.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Anti-inflammatoire naturel qui remplace les AINS » : la baisse de CRP est petite (−0,58 mg/L) et les ECR d'arthrose sont de qualité faible (PMID 36804260, PMID 35935936) ; pas de comparaison solide avec les médicaments relue ici [?].\n- « Protège le cerveau / contre Alzheimer » : efficace chez le rongeur, nul sur la cognition globale chez l'humain (PMID 40579315).\n- « Plus c'est biodisponible, mieux c'est » : les cas d'hépatite concernent précisément les formes à haute biodisponibilité (PMID 32656820).\n- « Sans danger car naturel » : voir hépatotoxicité.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour.\n\nVoir aussi : [glycémie et prédiabète](fiche:glycemie-et-prediabete), [berbérine](fiche:berberine), [oméga-3](fiche:omega-3), [antioxydants alimentaires et absorption](fiche:antioxydants-alimentaires-et-absorption).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Jafari A et al. *Phytother Res* 2024 — PMID 39478418 — [DOI](https://doi.org/10.1002/ptr.8340)\n2. Dehzad MJ et al. *Cytokine* 2023 — PMID 36804260 — [DOI](https://doi.org/10.1016/j.cyto.2023.156144)\n3. Bideshki MV et al. *Phytother Res* 2024 — PMID 38576215 — [DOI](https://doi.org/10.1002/ptr.8153)\n4. Zeng L et al. *Front Immunol* 2022 — PMID 35935936 — [DOI](https://doi.org/10.3389/fimmu.2022.891822)\n5. Kou H et al. *Front Immunol* 2023 — PMID 37325651 — [DOI](https://doi.org/10.3389/fimmu.2023.1121655)\n6. Yu L et al. *J Prev Alzheimers Dis* 2025 — PMID 40579315 — [DOI](https://doi.org/10.1016/j.tjpad.2025.100248)\n7. Lombardi N et al. *Br J Clin Pharmacol* 2021 — PMID 32656820 — [DOI](https://doi.org/10.1111/bcp.14460)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Curcumine (curcuma)",
+ "type": "actif",
+ "unite": ""
+}

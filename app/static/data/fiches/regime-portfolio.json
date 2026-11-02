@@ -1,0 +1,65 @@
+{
+ "cibles": [
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-23",
+ "famille": "alimentation",
+ "id": "regime-portfolio",
+ "intro": "",
+ "liens": [
+  "apob-lipides-et-statines",
+  "avoine-et-beta-glucanes",
+  "biomarqueur-apob",
+  "legumineuses",
+  "noix-et-fruits-a-coque",
+  "regimes-comparatif"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "29807048",
+  "39519598",
+  "39599660"
+ ],
+ "preuve_globale": "A",
+ "resume": "Régime végétal conçu pour baisser le LDL : il combine des aliments à effet hypocholestérolémiant (noix, protéines végétales, fibres visqueuses, stérols végétaux) [A] (PMID 29807048).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Régime végétal conçu pour baisser le LDL** : il combine des aliments à effet hypocholestérolémiant (noix, protéines végétales, fibres visqueuses, stérols végétaux) [A] (PMID 29807048).\n- **Effet fort sur le LDL, en plus d'un régime classique** : −0,73 mmol/L (IC −0,89 à −0,56), soit environ −17 %, 7 comparaisons, 439 personnes hyperlipidémiques, vs régime NCEP Step II seul [A, effectifs faibles] (PMID 29807048).\n- **Aucune donnée d'événements ni de mortalité** dans le résumé lu : il s'agit de marqueurs [?].\n- **Durée et adhésion** : essais d'au moins 3 semaines ; tenue à long terme non relue [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Quatre composants** : noix, protéines végétales, fibres visqueuses, stérols végétaux (PMID 29807048).\n- **Base de comparaison** : régime NCEP Step II (régime classique pauvre en graisses saturées et cholestérol) ; le Portfolio s'ajoute à ce fond (PMID 29807048). L'effet mesuré est donc celui des composants en plus d'un régime déjà sain.\n- **Quantités journalières de chaque composant** : non extraites du résumé lu [?]. Voir [noix](fiche:noix-et-fruits-a-coque), [avoine](fiche:avoine-et-beta-glucanes), [légumineuses](fiche:legumineuses).\n- **Protéines végétales** : les protéines de légumineuses extraites (≈ 35 g/j) baissent aussi le LDL (PMID 39519598) ; les sources utilisées dans les essais du Portfolio : non précisées [?].",
+   "titre": "Variantes et contenu"
+  },
+  {
+   "markdown": "Non revérifié [?]. Le régime additionne des mécanismes distincts (fibres visqueuses, stérols, protéines végétales, noix).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Source | Résultat | Preuve |\n|---|---|---|\n| 7 comparaisons contrôlées, 439 personnes hyperlipidémiques (en plus d'un régime NCEP Step II) | LDL −0,73 mmol/L (−0,89 à −0,56) ≈ −17 % ; baisses de non-HDL, ApoB, cholestérol total, TG, PAS, PAD, CRP et du risque coronarien à 10 ans estimé ; HDL inchangé (PMID 29807048) | [A, effectifs faibles] |\n| 7 essais, 453 pers. | protéines de légumineuses extraites (≈ 35 g/j, ≈ 4 semaines) : LDL −0,23 mmol/L (−0,36 à −0,10), certitude GRADE modérée (PMID 39519598) | [A] |\n| Revue parapluie, adultes avec ≥ 1 facteur de risque CV | Portfolio, DASH, faible IG, nordique : effets bénéfiques « suggérés » (PMID 39599660) | [A, faible certitude] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « Aussi efficace qu'une statine » : le résumé ne compare pas aux statines ; −17 % est un effet sur le LDL dans des essais d'au moins 3 semaines, sans résultat clinique [A, marqueur] (PMID 29807048). Voir [ApoB, lipides et statines](fiche:apob-lipides-et-statines).\n- « Les protéines de légumineuses en poudre baissent le cholestérol » : −0,23 mmol/L avec ≈ 35 g/j sur ≈ 4 semaines ; une composante du régime, pas le régime [A] (PMID 39519598).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Les stérols végétaux (margarines enrichies) : statut et plafond d'apport relèvent de l'UE/EFSA, non consultés ici [?]. Interaction avec les statines non recherchée [?].\n\nStatut réglementaire : sans objet pour le régime.\n\nVoir aussi : [noix et fruits à coque](fiche:noix-et-fruits-a-coque) · [avoine et β-glucanes](fiche:avoine-et-beta-glucanes) · [légumineuses](fiche:legumineuses) · [biomarqueur ApoB](fiche:biomarqueur-apob) · [comparatif des régimes](fiche:regimes-comparatif).",
+   "titre": "Sécurité, populations à risque"
+  },
+  {
+   "markdown": "- PMID 29807048 — Chiavaroli L. et al., *Prog Cardiovasc Dis* 2018. doi:10.1016/j.pcad.2018.05.004\n- PMID 39519598 — Yang et al., *Nutrients* 2024. doi:10.3390/nu16213765\n- PMID 39599660 — Chatzi et al., *Nutrients* 2024. doi:10.3390/nu16223873",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Régime Portfolio (cholestérol)",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,74 @@
+{
+ "cibles": [
+  "hormones-sexualite"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "peptide",
+ "id": "kisspeptine",
+ "intro": "",
+ "liens": [
+  "baisse-libido-homme-et-testosterone",
+  "melanotan-et-bremelanotide",
+  "ocytocine-intranasale",
+  "secretagogues-gh"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "38978171",
+  "39813600"
+ ],
+ "preuve_globale": "B",
+ "resume": "Peptide hypothalamique qui commande la libération de GnRH, donc de LH, FSH et de testostérone ; c'est le « déclencheur » physiologique de l'axe reproducteur. Vendu en ligne comme booster naturel de testostérone, de libido et de fertilité. Non autorisé comme médicament en France à notre connaissance.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Peptide hypothalamique qui commande la libération de GnRH, donc de LH, FSH et de testostérone ; c'est le « déclencheur » physiologique de l'axe reproducteur. Vendu en ligne comme **booster naturel de testostérone, de libido et de fertilité**. Non autorisé comme médicament en France à notre connaissance.\n- Chez l'humain, la kisspeptine-10 augmente la FSH, la LH et la testostérone circulantes (PMID 38978171) ; c'est pour cette raison qu'elle figure sur la **liste AMA 2024** comme substance dopante potentielle [B, effet physiologique, résumé secondaire]. Un effet **thérapeutique** démontré (libido, fertilité masculine, testostérone durable) : aucun trouvé dans cette recherche [?].\n- Applications médicales étudiées : déclencheur plus physiologique de la maturation ovocytaire en FIV, bouffées de chaleur de la ménopause (ciblage de la voie NKB, avec le fézolinétant, autorisé) (PMID 39813600).\n- Élimination rapide : environ 30 minutes après injection chez le rat (PMID 38978171) [C], donc un effet de « booster durable » est peu plausible sans autres données.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Les neurones à kisspeptine de l'infundibulum, qui co-expriment la neurokinine B, régulent la sécrétion pulsatile de GnRH ; la kisspeptine est reconnue comme inducteur naturel de l'ovulation (PMID 39813600). Elle intervient aussi dans le comportement sexuel et l'attraction selon la même revue.",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Axe reproducteur (physiologie) | Hausse de FSH, LH et testostérone chez l'humain après kisspeptine-10 | [B, physiologie] (PMID 38978171) |\n| FIV, déclenchement de la maturation ovocytaire | Axe de recherche cité dans une revue, sans chiffres relus ici | [?] (PMID 39813600) |\n| Bouffées de chaleur de la ménopause | Via l'antagonisme de la voie NKB (fézolinétant, antagoniste du récepteur NK3, déjà développé) | [?] pour la kisspeptine elle-même (PMID 39813600) |\n| Libido, fertilité masculine, testostérone durable chez le sujet sain | Aucun essai trouvé | [?] |\n| Dopage | Inscrite à la liste AMA 2024 ; méthode de détection urinaire validée (4 métabolites) | Statut réglementaire, pas de tag (PMID 38978171) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet (règle 7 : pas de posologie). Contenu réel des flacons vendus en ligne inconnu sans analyse.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Aucun médicament à base de kisspeptine autorisé en France trouvé ; ANSM, BDPM, EMA : non consultées [?].\n- **AMA** : kisspeptine-10 sur la liste des substances interdites depuis 2024 d'après la publication de Gand (Colpaert et al., 2024) ; liste 2026 non revérifiée [?].\n- La page ANSM sur les « peptides » vendus en ligne (2026-08-31, consultée le 2026-10-11) ne cite pas la kisspeptine nommément.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Perturbation de l'axe hormonal : un peptide qui stimule LH et FSH peut modifier la testostérone et les cycles ; effets d'une prise répétée non documentés dans les sources lues [?].\n- Fertilité, grossesse, hormonodépendance (cancers du sein, de la prostate), adolescents : aucune donnée sur les produits du marché gris [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Risques génériques des peptides vendus sans autorisation : sous-dosage, mauvaise molécule, contamination, endotoxines (ANSM, 2026). Peptide oxydable (tryptophane transformé en kynurénine pendant les essais de laboratoire, PMID 38978171) : la stabilité du produit n'est pas garantie. Analyse de flacons de kisspeptine : aucune trouvée [?].",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- Baisse de libido ou fatigue chez l'homme : bilan (testostérone totale, LH, FSH, prolactine, TSH), voir [baisse de libido et testostérone](fiche:baisse-libido-homme-et-testosterone).\n- Infertilité : bilan en centre de PMA ; les traitements autorisés de stimulation (gonadotrophines, clomifène selon les cas) relèvent d'un spécialiste.\n- Bouffées de chaleur de la ménopause : traitements autorisés à discuter avec un gynécologue.\n- Pas de protocole de dosage ni d'injection, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).\n\nVoir aussi : [sécrétagogues de la GH](fiche:secretagogues-gh), [ocytocine intranasale](fiche:ocytocine-intranasale), [mélanotan et brémélanotide](fiche:melanotan-et-bremelanotide).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Colpaert T et al. *Biomed Chromatogr* 2024 — PMID 38978171 — [DOI](https://doi.org/10.1002/bmc.5946) (méthode de détection ; effets hormonaux cités en introduction)\n2. Koysombat K et al. *Physiol Rev* 2025 — PMID 39813600 — [DOI](https://doi.org/10.1152/physrev.00015.2024) (revue)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "Kisspeptine (kisspeptine-10)",
+ "type": "actif",
+ "unite": ""
+}

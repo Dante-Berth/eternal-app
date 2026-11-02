@@ -1,0 +1,71 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "peptide",
+ "id": "palmitoyl-pentapeptide-4",
+ "intro": "",
+ "liens": [
+  "rides-et-sillons-nasogeniens",
+  "the-ordinary-multi-peptide-copper-peptides-1"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "18492182",
+  "36909866",
+  "40871567",
+  "39783908",
+  "31487895"
+ ],
+ "preuve_globale": "B",
+ "resume": "Pentapeptide (Lys-Thr-Thr-Lys-Ser) lié à l'acide palmitique, conçu pour stimuler la production de collagène [M, conception]. C'est l'un des rares peptides cosmétiques avec un essai humain contrôlé de taille correcte.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Pentapeptide (Lys-Thr-Thr-Lys-Ser) lié à l'acide palmitique, conçu pour stimuler la production de collagène [M, conception]. C'est l'un des rares peptides cosmétiques avec un essai humain contrôlé de taille correcte.\n- Meilleur essai : 93 femmes, 12 semaines, double aveugle, split-face, 3 ppm de pal-KTTKS dans un hydratant vs hydratant seul : amélioration significative des rides/ridules par analyse d'image [B, ECR unique n=93] (PMID 18492182). Étude de **Procter & Gamble** (conflit d'intérêt industriel), l'ampleur de l'effet n'est pas donnée dans le résumé.\n- Un second petit essai (n=21) le trouve meilleur que l'acétyl hexapeptide-3 et que le placebo [B, ECR unique n=21] (PMID 36909866).\n- Ne pas confondre avec le « Matrixyl 3000 » (palmitoyl tripeptide-1 + palmitoyl tetrapeptide-7) du sérum The Ordinary : autre ingrédient, non évalué ici [?].\n- Statut : cosmétique. Sécurité : aucune donnée dédiée trouvée [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Fragment du pro-collagène I, palmitoylé pour passer la barrière cutanée ; supposé signaler une « lésion » et stimuler les fibroblastes [M].\n- En culture, l'ajout de Matrixyl à des fibroblastes dermiques humains a été testé avec de l'i-PRF : effets sur viabilité et expression de gènes de la matrice, plus marqués avec l'association qu'avec le peptide seul ; **le Matrixyl seul n'est pas décrit comme le meilleur** [D] (PMID 40871567).\n- Chez la souris photovieillie, une formulation de micelles améliorant la solubilité et la pénétration du palmitoyl pentapeptide-4 réduit les rides et améliore l'élasticité ; modèle animal, formulation expérimentale [C] (PMID 39783908).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Photovieillissement facial (rides, ridules) | n=93, 12 semaines, split-face, 3 ppm vs véhicule : amélioration significative (analyse technique et experts), bien toléré | [B, ECR unique n=93] (PMID 18492182) |\n| Pattes d'oie (peau asiatique) | n=21, 8 semaines, 3 groupes (AH-3, PPP-4, placebo), évaluation Cutometer, photos, questionnaire : PPP-4 meilleur que AH-3 et placebo ; échantillon et durée jugés insuffisants par les auteurs | [B, ECR unique n=21] (PMID 36909866) |\n| Fibroblastes humains + i-PRF | Hausse de viabilité et de gènes de matrice surtout avec les associations | [D] (PMID 40871567) |\n| Photovieillissement murin, formulation en micelles | Moins de rides, meilleure élasticité | [C] (PMID 39783908) |\n| Comparaison avec rétinoïdes | Aucun essai trouvé | [?] |\n| Cicatrices, cheveux, cou | Aucune donnée trouvée | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essai principal : 3 ppm (soit 0,0003 %) de pal-KTTKS [B] (PMID 18492182). Concentration de l'essai n=21 : non donnée dans le résumé [?].\n- Vendu : concentration du pentapeptide-4 rarement déclarée ; aucune fiche produit de ce repo ne le contient (le sérum The Ordinary contient d'autres palmitoyl-peptides). À rapprocher d'une dose de 3 ppm : un « 5 % de peptides » marketing ne renseigne pas sur l'actif étudié [M].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Topique cosmétique** : INCI « Palmitoyl Pentapeptide-4 », ingrédient courant en cosmétique. La fiche CosIng n'a pas pu être consultée depuis cette session (API et pages inaccessibles, 2026-10-06) : fonctions et restrictions UE à vérifier [?].\n- **Injectable / oral** : aucun usage autorisé ; non documenté ici.\n- **AMA** : non nommé dans la Liste 2026 d'après le décret n° 2025-1226 (Légifrance, consulté le 2026-10-03, non réexaminé aujourd'hui).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- « Bien toléré » sur peau humaine dans l'ECR n=93 [B] (PMID 18492182) ; pas de données détaillées d'événements indésirables dans les résumés.\n- Sur HaCaT, un hexapeptide acétylé-amidé a montré une viabilité de 81,52 % contre 5,32 % pour le Matrixyl pris comme témoin positif, à des concentrations non précisées dans le résumé : indication de cytotoxicité in vitro à doses élevées, non transposable à la peau intacte [D] (PMID 31487895).\n- Interactions avec d'autres actifs, grossesse : aucune donnée trouvée [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Stimule le collagène, effet prouvé »** : la preuve clinique repose sur peu d'essais, dont le principal est industriel (P&G) à 3 ppm [B]. L'effet en collagène dermique n'est pas mesuré dans ces essais (rides et images seulement).\n- **« Matrixyl » comme terme générique** : le nom est utilisé commercialement pour plusieurs peptides (le « Matrixyl 3000 » est un autre mélange) ; seul le pal-KTTKS est évalué ci-dessus.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Aucune fiche produit contenant du palmitoyl pentapeptide-4 dans ce repo ; le [sérum The Ordinary](fiche:the-ordinary-multi-peptide-copper-peptides-1) contient d'autres palmitoyl-peptides, pas celui-ci.\n- Alternative mieux prouvée pour les rides : rétinoïdes ([rides](fiche:rides-et-sillons-nasogeniens)).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Robinson LR et al. *Int J Cosmet Sci* 2005 — PMID 18492182 — [DOI](https://doi.org/10.1111/j.1467-2494.2005.00261.x)\n2. Aruan RR et al. *J Clin Aesthet Dermatol* 2023 — PMID 36909866 (pas de DOI)\n3. Paccola AGL et al. *Molecules* 2025 — PMID 40871567 — [DOI](https://doi.org/10.3390/molecules30163415)\n4. Wang Z et al. *Adv Sci* 2025 — PMID 39783908 — [DOI](https://doi.org/10.1002/advs.202412581)\n5. Zeng Q et al. *Mar Drugs* 2019 — PMID 31487895 — [DOI](https://doi.org/10.3390/md17090520)\n6. Décret n° 2025-1226 du 15 décembre 2025 (Liste des interdictions 2026) — https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053036083 (consulté le 2026-10-03)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "Palmitoyl pentapeptide-4 (Matrixyl)",
+ "type": "actif",
+ "unite": ""
+}

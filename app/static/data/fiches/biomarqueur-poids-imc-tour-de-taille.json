@@ -1,0 +1,117 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite",
+  "muscle-os",
+  "prevention"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-poids-imc-tour-de-taille",
+ "intro": "Fiche « mesure ». Il n'existe pas de fiche « obésité » ou « surpoids » dans le dépôt : les traitements sont dans [sémaglutide et GLP-1](fiche:semaglutide-et-glp1), [jeûne intermittent et restriction calorique](fiche:jeune-intermittent-et-restriction-calorique), [exercice physique](fiche:exercice-physique). Cette fiche porte sur ce qui se mesure, les seuils et les limites des chiffres.",
+ "liens": [
+  "apnee-du-sommeil",
+  "bilans-biologiques",
+  "biomarqueur-apob",
+  "biomarqueur-foie-alat-ggt-fib4-fibroscan",
+  "biomarqueur-hba1c",
+  "biomarqueurs-fonctionnels-force-marche-composition-corporelle",
+  "creatine",
+  "entrainement-en-resistance",
+  "exercice-physique",
+  "glycemie-et-prediabete",
+  "jeune-intermittent-et-restriction-calorique",
+  "sarcopenie",
+  "semaglutide-et-glp1",
+  "sommeil",
+  "steatose-hepatique-metabolique-masld",
+  "stress-chronique-et-cortisol",
+  "tension-arterielle",
+  "vo2max-et-aptitude-cardio-respiratoire"
+ ],
+ "marqueurs": [
+  "imc",
+  "tour-de-taille",
+  "whtr",
+  "rapport-taille-hanches"
+ ],
+ "mesure": "fonctionnel",
+ "nb_pmid": 11,
+ "nb_seuils": 27,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "20125098",
+  "39824205",
+  "26551006",
+  "22106927",
+  "27423262",
+  "19299006",
+  "14726171",
+  "18283284",
+  "23993123",
+  "41692034",
+  "21386691"
+ ],
+ "preuve_globale": "B",
+ "resume": "Seuils officiels de l'IMC (OMS, repris par la HAS) : 25 surpoids, 30 obésité, 35 et 40 pour les classes II et III. Pour les adultes d'origine sud-asiatique, la HAS cite 23 (surpoids) et 28 (obésité).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Seuils officiels de l'IMC (OMS, repris par la HAS) : 25 surpoids, 30 obésité, 35 et 40 pour les classes II et III. Pour les adultes d'origine sud-asiatique, la HAS cite 23 (surpoids) et 28 (obésité).\n- L'IMC est un bon repère de population et un mauvais outil individuel : méta-analyse de 25 articles, un IMC ≥ 30 repère seulement 42 % des personnes en excès de masse grasse (spécificité 97 %) [A, méta-analyse d'études diagnostiques] (PMID 20125098). La Commission Lancet 2025 demande de ne l'utiliser qu'en dépistage et de confirmer par une mesure de masse grasse ou un indice de tour de taille (PMID 39824205).\n- Le tour de taille et le rapport tour de taille/taille (WHtR) captent la graisse abdominale que l'IMC ne voit pas : à IMC normal, la « obésité centrale » double presque la mortalité chez l'homme (HR 1,87) [B, cohorte NHANES III n=15 184] (PMID 26551006). Le WHtR discrimine mieux les facteurs de risque cardiométaboliques que l'IMC et que le tour de taille seul [A, méta-analyse de 31 études] (PMID 22106927).\n- Mortalité toutes causes minimale pour un IMC de 20 à 25 chez les non-fumeurs sans maladie (HR 1,45 à 30–35, 2,76 au-delà de 40) [B, méta-analyse de données individuelles de 239 cohortes] (PMID 27423262). Association observationnelle ; les auteurs de la collaboration précédente jugent le sur-risque vasculaire au-dessus de la plage « probablement en grande partie causal » (PMID 19299006).\n- Aucun essai ne dit qu'un chiffre d'IMC, de tour de taille ou de WHtR doit être « optimisé » en soi [?] ; le suivi sert à détecter une dérive et à juger l'effet d'une intervention.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Poids** (kg) : somme de la masse grasse, de la masse maigre, de l'eau et de l'os. Il ne dit rien de la composition.\n- **IMC** = poids (kg) / taille² (m²). HAS 2011 : poids divisé par le carré de la taille. Résumé d'un poids rapporté à la taille, sans distinction muscle/graisse.\n- **Tour de taille** : mesuré à mi-distance entre le bord inférieur de la dernière côte palpable et le sommet de la crête iliaque, mètre ruban à l'horizontale, à la fin d'une expiration normale, bras le long du corps (HAS, guide du parcours de soins 2023, mis à jour en février 2024, consulté le 2026-11-01).\n- **WHtR** = tour de taille / taille, dans la même unité. Aucun appareil : un mètre ruban.\n- **Rapport tour de taille/tour de hanches** (WHR) : cité dans la littérature (Sahakyan, Commission Lancet), mais le seuil officiel OMS n'a pas été retrouvé dans la source primaire [?] (voir plus bas).\n- **Composition corporelle simple** (impédancemétrie, DXA) : voir [biomarqueurs fonctionnels : force, marche, composition corporelle](fiche:biomarqueurs-fonctionnels-force-marche-composition-corporelle).\n- Mesurer sur place plutôt que de déclarer : les mesures déclaratives sous-estiment généralement le poids et surestiment la taille (HAS 2023).",
+   "titre": "Ce que mesure l'examen"
+  },
+  {
+   "markdown": "Conversions : IMC (kg/m²) = poids (kg) / taille (m)² ; WHtR = tour de taille (cm) / taille (cm) ; 1 pouce = 2,54 cm ; 1 lb = 0,4536 kg. Seuils officiels consultés le 2026-11-01. Les lignes « pronostic » viennent d'études (tag + PMID) et ne sont pas des seuils diagnostiques.\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| IMC | kg/m² | 18,5–24,9 | corpulence normale | adulte (hors situations ci-dessous) | HAS, page « Surpoids et obésité de l'adulte : prise en charge médicale de premier recours » (2011, classification OMS 2003), consulté le 2026-11-01 |\n| IMC | kg/m² | 25,0–29,9 | surpoids | adulte | HAS 2011 et guide du parcours de soins 2023 (mis à jour févr. 2024), consulté le 2026-11-01 |\n| IMC | kg/m² | 30,0–34,9 | obésité classe I (modérée) ; « non complexe » en l'absence de complication | adulte | HAS 2011 ; HAS guide 2023, consulté le 2026-11-01 ; OMS : obésité ≥ 30 (fiche d'information, mise à jour affichée du 2026-10-07, consultée le 2026-11-01) |\n| IMC | kg/m² | 35,0–39,9 | obésité classe II (sévère) ; situation « complexe » | adulte | HAS 2011 ; HAS guide 2023, consulté le 2026-11-01 |\n| IMC | kg/m² | ≥ 40 | obésité classe III | adulte | HAS 2011 ; HAS guide 2023, consulté le 2026-11-01 |\n| IMC | kg/m² | 23–27 | surpoids | adultes d'origine sud-asiatique (migrants) | HAS, guide du parcours de soins 2023 (note citant une référence non relue ici), consulté le 2026-11-01 |\n| IMC | kg/m² | ≥ 28 | obésité | adultes d'origine sud-asiatique (migrants) | HAS, guide du parcours de soins 2023, consulté le 2026-11-01 |\n| IMC | kg/m² | 23,0 ; 27,5 ; 32,5 ; 37,5 | points d'action de santé publique ; l'OMS a conservé 25 et 30 comme classification internationale | populations asiatiques | Consultation d'experts OMS, Lancet 2004 (PMID 14726171), résumé relu |\n| IMC | kg/m² | 23–27,4 | surpoids (seuil abaissé) | origines sud-asiatique, chinoise, autre asiatique, moyen-orientale, africaine noire ou afro-caribéenne | NICE NG246 (publiée le 2025-01-14, mise à jour le 2026-01-08), recommandation 1.9.11, consultée le 2026-11-01 |\n| IMC | kg/m² | ≥ 27,5 | obésité (seuil abaissé) | mêmes origines que ci-dessus | NICE NG246, recommandation 1.9.11, consultée le 2026-11-01 |\n| Tour de taille | cm | ≥ 80 | tour de taille élevé : facteur de risque de diabète et de maladie cardiovasculaire | femme | HAS, « Surpoids et obésité : repérer plus tôt » (2011), consulté le 2026-11-01 |\n| Tour de taille | cm | ≥ 94 | tour de taille élevé : facteur de risque de diabète et de maladie cardiovasculaire | homme | HAS (2011), consulté le 2026-11-01 |\n| Tour de taille | cm | ≤ 88 | objectif de poids de forme dans la prise en charge de l'obésité | femme | HAS, guide du parcours de soins 2023, consulté le 2026-11-01 |\n| Tour de taille | cm | ≤ 102 | objectif de poids de forme dans la prise en charge de l'obésité | homme | HAS, guide du parcours de soins 2023, consulté le 2026-11-01 |\n| WHtR | rapport | 0,4–0,49 | adiposité centrale « saine » | adulte, IMC < 35, les deux sexes, toutes origines, y compris masse musculaire élevée | NICE NG246, recommandation 1.9.14, consultée le 2026-11-01 |\n| WHtR | rapport | 0,5–0,59 | adiposité centrale augmentée (risque de santé augmenté) | idem | NICE NG246, 1.9.14, consultée le 2026-11-01 |\n| WHtR | rapport | ≥ 0,6 | adiposité centrale élevée (risque encore augmenté) | idem | NICE NG246, 1.9.14, consultée le 2026-11-01 |\n| WHtR | rapport | < 0,5 | message à donner : tour de taille inférieur à la moitié de la taille | adulte | NICE NG246, 1.9.15, consultée le 2026-11-01 |\n| Rapport tour de taille/hanches | rapport | non retrouvé | seuil OMS 2008 non lu dans le rapport primaire | adulte | [?] |\n| IMC | kg/m² | 20,0–24,9 | mortalité toutes causes minimale (HR 1,00 pour 20,0–22,5 et 22,5–25,0) | non-fumeurs sans maladie chronique, 5 premières années exclues | [B, méta-analyse de données individuelles, 239 cohortes] (PMID 27423262) |\n| IMC | kg/m² | 15,0–18,5 | mortalité toutes causes HR 1,51 (1,43–1,59) | idem | [B] (PMID 27423262) |\n| IMC | kg/m² | 18,5–20,0 | mortalité toutes causes HR 1,13 (1,09–1,17) | idem | [B] (PMID 27423262) |\n| IMC | kg/m² | 25,0–27,5 | mortalité toutes causes HR 1,07 (1,07–1,08) | idem | [B] (PMID 27423262) |\n| IMC | kg/m² | 27,5–30 | mortalité toutes causes HR 1,20 (1,18–1,22) | idem | [B] (PMID 27423262) |\n| IMC | kg/m² | 30–35 | mortalité toutes causes HR 1,45 (1,41–1,48) | idem | [B] (PMID 27423262) |\n| IMC | kg/m² | 35–40 | mortalité toutes causes HR 1,94 (1,87–2,01) | idem | [B] (PMID 27423262) |\n| IMC | kg/m² | 40–60 | mortalité toutes causes HR 2,76 (2,60–2,92) | idem | [B] (PMID 27423262) |\n\nNotes sur les seuils :\n- Le HAS 2011 donne la définition « tour de taille élevé ≥ 80/94 cm » (facteur de risque), le guide 2023 donne ≤ 88/102 cm comme objectif de prise en charge d'une obésité : ce ne sont pas les mêmes usages.\n- HAS 2011 : entre 25 et 35 kg/m², compléter l'IMC par le tour de taille (page HAS « repérer plus tôt », consultée le 2026-11-01).\n- Aucun seuil officiel de composition corporelle simple (pourcentage de masse grasse par impédancemétrie) n'a été retrouvé ici ; le référentiel OMS de 25 % (homme) et 35 % (femme) est cité par Romero-Corral (PMID 18283284), sans source officielle relue [?].\n- Seuils pour les sportifs et pour les ≥ 65 ans : pas de seuil dédié trouvé ; NICE demande seulement d'interpréter l'IMC avec prudence (recommandations 1.9.12 et 1.9.13).",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| IMC et mortalité (900 000 adultes, 57 cohortes) | mortalité minimale vers 22,5–25 ; +30 % par 5 kg/m² au-dessus (HR 1,29, IC 1,27–1,32) ; vasculaire HR 1,41 ; en dessous de la plage, risque accru surtout par les maladies respiratoires et le cancer du poumon, plus net chez les fumeurs ; à 30–35 kg/m² la survie médiane est réduite de 2 à 4 ans, de 8 à 10 ans à 40–45 | [B, méta-analyse de cohortes] (PMID 19299006) |\n| IMC et mortalité (10,6 millions, 239 cohortes, Asie, Océanie, Europe, Amérique du Nord) | voir tableau des seuils ; analyse limitée aux non-fumeurs sans maladie, 5 premières années exclues | [B] (PMID 27423262) |\n| Précision de l'IMC pour la masse grasse (adultes, 25 articles, 31 968 sujets) | IMC ≥ 30 : sensibilité 0,42, spécificité 0,97 ; seuils usuels, sensibilité 0,50, spécificité 0,90 | [A, méta-analyse d'études diagnostiques] (PMID 20125098) |\n| Idem, population américaine NHANES III (13 601 adultes) | IMC ≥ 30 : sensibilité 36 % (hommes) et 49 % (femmes), spécificité 95 % et 99 % ; diagnostic moins performant avec l'âge | [B, étude transversale] (PMID 18283284) |\n| Obésité centrale à IMC normal | homme IMC 22 : mortalité HR 1,87 (1,53–2,29) vs sans obésité centrale ; femme HR 1,48 (1,35–1,62) ; l'homme avait le double de la mortalité des participants en surpoids ou obèses selon l'IMC seul | [B, cohorte n=15 184] (PMID 26551006) |\n| WHtR vs tour de taille vs IMC pour repérer hypertension, diabète, dyslipidémie, syndrome métabolique, maladie cardiovasculaire | WHtR plus discriminant que l'IMC (+4–5 %) et que le tour de taille, chez l'homme et la femme ; 31 articles, plus de 300 000 adultes | [A, méta-analyse d'études diagnostiques de risque, pas de mortalité] (PMID 22106927) |\n| Adiposité normale en IMC chez les ≥ 60 ans | non lu dans ce cycle ; l'étude de Batsis (PMID 23993123) associe un pourcentage de masse grasse élevé à IMC normal à des facteurs de risque défavorables, résumé tronqué sur la mortalité | [?] |\n| Définition de l'obésité clinique | la Commission Lancet de 58 experts distingue obésité préclinique (excès de graisse, organes fonctionnels) et clinique (dysfonction d'organes) ; l'IMC seul ne devrait servir qu'au niveau de la population ou au dépistage | [B, consensus d'experts] (PMID 39824205) |",
+   "titre": "Ce que dit la preuve (valeur prédictive, utilité clinique)"
+  },
+  {
+   "markdown": "- **Médicaments qui font perdre du poids** : sémaglutide 2,4 mg, −14,9 % de poids à 68 semaines contre −2,4 % sous placebo [B, ECR pivot n=1 961] ; tirzépatide 15 mg −20,9 % contre −3,1 % à 72 semaines [B, ECR n=2 539] (détail et PMID dans [la fiche](fiche:semaglutide-et-glp1)). Une part du poids perdu est de la masse maigre : voir la fiche. Le poids repris à l'arrêt est mesuré dans la même fiche.\n- **Alimentation** : l'important est le déficit énergétique, pas l'horaire (voir [jeûne intermittent](fiche:jeune-intermittent-et-restriction-calorique)) ; le poids baisse de ~3,4 % sous jeûne intermittent par rapport à rien, sans différence avec un conseil diététique classique [A, Cochrane] (PMID 41692034, repris de cette fiche).\n- **Entraînement en résistance** : monte la masse maigre, donc peut stabiliser ou monter le poids tout en réduisant le tour de taille ; effet sur le tour de taille seul non recherché ici [?]. Voir [entraînement en résistance](fiche:entrainement-en-resistance) et [créatine](fiche:creatine) (+ masse maigre en essai).\n- **Médicaments qui font prendre du poids** : la HAS cite la corticothérapie et les psychotropes au long cours comme raisons de suivre l'IMC plus souvent (guide 2023) ; l'arrêt du tabac non accompagné est un signal d'alerte de prise de poids (même guide).\n- **Maladies** : apnée du sommeil (excès de poids = facteur de risque, voir [apnée du sommeil](fiche:apnee-du-sommeil)), stéatose ([MASLD](fiche:steatose-hepatique-metabolique-masld)), diabète ([glycémie et prédiabète](fiche:glycemie-et-prediabete)).\n- **Conditions de mesure** : même balance, même moment ; effet des variations d'eau sur le poids quotidien non sourcé ici [?]. Le tour de taille dépend de la technique (repère anatomique, fin d'expiration) : suivre avec le même opérateur.\n- **Sommeil, stress** : liens avec le poids non recherchés dans ce cycle [?] ; voir [sommeil](fiche:sommeil), [stress chronique et cortisol](fiche:stress-chronique-et-cortisol).",
+   "titre": "Ce qui fait varier le résultat (leviers, médicaments, compléments, conditions de prélèvement)"
+  },
+  {
+   "markdown": "- IMC 25–35 : mesurer le tour de taille (HAS). Surpoids sans tour de taille élevé : objectif de ne pas prendre de poids ; tour de taille élevé : stabiliser le poids et réduire le tour de taille ; obésité : stabiliser d'abord, puis perte allant jusqu'à 15 % et traitement des comorbidités (HAS, guide 2023 et page « repérer plus tôt », consultés le 2026-11-01).\n- Bilan : la HAS demande, quel que soit l'IMC, un bilan biologique (glycémie à jeun et autres éléments du guide 2023) ; liste exacte non relue ici [?]. Voir [bilans biologiques](fiche:bilans-biologiques), [HbA1c](fiche:biomarqueur-hba1c), [foie ALAT, GGT, FIB-4](fiche:biomarqueur-foie-alat-ggt-fib4-fibroscan), [ApoB](fiche:biomarqueur-apob).\n- Obésité de classe II ou III, ou complication : situation dite « complexe » ou « très complexe » orientée vers le 2e et 3e niveau (HAS 2023).\n- Aucune injection ni médicament hors prescription : les médicaments de l'obésité ne s'obtiennent en France que sur ordonnance (voir fiche sémaglutide).",
+   "titre": "Que faire d'un résultat anormal"
+  },
+  {
+   "markdown": "- La HAS recommande de calculer l'IMC et de suivre la courbe au minimum une fois par an, plus souvent en cas d'antécédents, de traitement favorisant la prise de poids ou de maladie chronique aggravée par l'excès de poids (guide 2023). À reporter dans « Mon espace santé ».\n- NICE : mesurer le tour de taille chez les adultes d'IMC < 35 pour calculer le WHtR (1.9.3) et encourager l'automesure du WHtR (1.9.5, méthode en boîte 1).\n- Pèse-personne et mètre ruban : à domicile, sans prescription. Remboursement : consultation de suivi remboursable comme toute consultation ; détails de nomenclature non consultés [?].",
+   "titre": "Qui, quand, comment (fréquence, remboursement)"
+  },
+  {
+   "markdown": "- Mesures cliniques de base : pas de statut produit. Les impédancemètres et balances « connectées » : statut de dispositif médical ou non selon la revendication, non consulté [?].\n- Médicaments de l'obésité : statut et remboursement dans la fiche [sémaglutide](fiche:semaglutide-et-glp1).\n- HAS : guide du parcours de soins surpoids et obésité de l'adulte, validé par le Collège le 2023-01-11, mis à jour en février 2024 (consulté le 2026-11-01). OMS : fiche d'information « Obesity and overweight », consultée le 2026-11-01. Liste complète des recommandations HAS plus récentes non vérifiée [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Se fier à l'IMC seul : sensibilité 42 % pour l'obésité au sens de la masse grasse (PMID 20125098). Un IMC normal n'exclut pas l'excès de graisse abdominale (PMID 26551006).\n- Appliquer les seuils européens aux populations asiatiques : l'OMS 2004 note que le risque de diabète et de maladie cardiovasculaire est notable sous 25 chez les Asiatiques (PMID 14726171) ; la HAS cite 23 et 28, NICE 23 et 27,5.\n- Croire qu'un IMC ≥ 30 écarte la dénutrition : la HAS rappelle qu'il n'exclut pas une dénutrition (guide 2023).\n- Utiliser l'impédancemétrie comme substitut de l'IMC : NICE 2025 le déconseille (1.9.9). Utiliser une balance connectée pour suivre une variation de masse grasse sans la valider contre la DXA : voir [fiche composition corporelle](fiche:biomarqueurs-fonctionnels-force-marche-composition-corporelle).\n- Interpréter une baisse de poids comme une réussite sans regarder la masse maigre : une partie du poids perdu sous GLP-1 est du muscle (voir [sarcopénie](fiche:sarcopenie)).\n- Mesurer le tour de taille sur la peau nue de façon variable (sur le nombril un jour, plus haut le lendemain) : seul le repère HAS ou NICE est comparable d'une mesure à l'autre.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « L'IMC est inutile » : la relation avec la mortalité est forte et continue sur 10 millions d'adultes (PMID 27423262) ; c'est un bon repère de population, un mauvais diagnostic individuel (PMID 20125098, 39824205).\n- « L'IMC classe les musclés comme obèses » : dans une cohorte de 677 pompiers américains, le faux positif d'obésité par l'IMC était rare (9,8 % par le tour de taille, 2,9 % par la masse grasse), les faux négatifs beaucoup plus fréquents (32,9 % et 13,0 %) [B, étude transversale d'un seul groupe professionnel] (PMID 21386691). Pas d'étude retrouvée sur des athlètes de haut niveau [?] ; NICE conseille la prudence avec une masse musculaire élevée (1.9.12) et propose le WHtR, valable aussi chez les muscles élevés (1.9.14).\n- « L'âge métabolique » ou « l'âge corporel » d'une balance connectée : aucune étude de validation retrouvée [?].\n- « Il suffit de perdre du poids pour rajeunir » : la relation poids–mortalité vient de cohortes ; l'effet de la perte de poids intentionnelle sur la mortalité n'a pas été recherché ici [?].\n- « Un tour de taille normal garantit de la santé » : non testé ici ; la HAS parle de facteur de risque, pas de garantie.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Le sur-risque de mortalité à IMC 25–27,5 est faible : HR 1,07, contre 1,45 à 30–35 [B] (PMID 27423262). Le gradient vient surtout au-delà de 30.\n- Dans NHANES III, l'homme d'IMC normal avec obésité centrale avait plus du double de la mortalité des hommes classés « surpoids » (HR 2,24) ou « obèses » (HR 2,42) par l'IMC seul [B] (PMID 26551006).\n- NICE donne un seul jeu de seuils de WHtR pour les deux sexes, toutes les origines, y compris les adultes très musclés, tant que l'IMC est < 35 (1.9.14).\n- Les valeurs d'IMC en dessous de 20 sont aussi associées à une surmortalité (HR 1,13 pour 18,5–20, 1,51 pour 15–18,5) chez les non-fumeurs sans maladie [B] (PMID 27423262). « Plus bas, c'est mieux » est faux.",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Perte de poids involontaire ou prise rapide : signal clinique (la HAS cite la perte ou la prise rapide comme signe d'alerte). Seuils de dénutrition HAS 2019 : non relus [?].\n- IMC ≥ 35, ou IMC 30–34,9 avec complication (apnée, diabète, hypertension, stéatose, retentissement fonctionnel) : consulter pour une prise en charge de 2e niveau (HAS 2023).\n- Tour de taille élevé (≥ 80/94 cm) avec glycémie, tension ou bilan lipidique anormaux : voir [tension artérielle](fiche:tension-arterielle) et [bilans](fiche:bilans-biologiques).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 19299006, Prospective Studies Collaboration, Lancet 2009, doi:10.1016/S0140-6736(09)60318-4 (résumé relu).\n- PMID 27423262, Global BMI Mortality Collaboration, Lancet 2016 (résumé relu).\n- PMID 14726171, WHO Expert Consultation, Lancet 2004, doi:10.1016/S0140-6736(03)15268-3 (résumé relu).\n- PMID 39824205, Rubino et al. (Commission Lancet Diabetes Endocrinol), Lancet Diabetes Endocrinol 2025, doi:10.1016/S2213-8587(24)00316-4 (résumé relu, tronqué sur les critères).\n- PMID 20125098, Okorodudu et al., Int J Obes 2010 (résumé relu).\n- PMID 18283284, Romero-Corral et al., Int J Obes 2008 (résumé relu, tronqué).\n- PMID 26551006, Sahakyan et al., Ann Intern Med 2015 (résumé relu).\n- PMID 22106927, Ashwell et al., Obes Rev 2012 (résumé relu).\n- PMID 21386691, Poston et al., J Occup Environ Med 2011 (résumé relu).\n- PMID 23993123, Batsis et al., Am J Cardiol 2013 (résumé relu, tronqué).\n- PMID 41692034 (Cochrane, jeûne intermittent) : repris de la fiche liée, non relu dans ce cycle.\n- HAS, Guide du parcours de soins : surpoids et obésité de l'adulte, validé le 2023-01-11, mis à jour en février 2024 (texte de la synthèse PDF lu, consulté le 2026-11-01). HAS, Surpoids et obésité : repérer plus tôt et mieux prendre en charge, 2011-10-06, et page « prise en charge médicale de premier recours » (consultées le 2026-11-01).\n- NICE, Overweight and obesity management NG246, publiée le 2025-01-14, mise à jour le 2026-01-08 (texte lu, consulté le 2026-11-01).\n- OMS, fiche d'information Obesity and overweight (consultée le 2026-11-01).\n- Fiches liées : [Sémaglutide et GLP-1](fiche:semaglutide-et-glp1), [Sarcopénie](fiche:sarcopenie), [Tension artérielle](fiche:tension-arterielle), [Composition corporelle](fiche:biomarqueurs-fonctionnels-force-marche-composition-corporelle), [VO2max](fiche:vo2max-et-aptitude-cardio-respiratoire).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : poids, IMC, tour de taille, rapport taille/taille",
+ "type": "biomarqueur",
+ "unite": ""
+}

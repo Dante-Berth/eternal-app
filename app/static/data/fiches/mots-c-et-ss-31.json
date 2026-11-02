@@ -1,0 +1,82 @@
+{
+ "cibles": [
+  "longevite",
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "peptide",
+ "id": "mots-c-et-ss-31",
+ "intro": "",
+ "liens": [
+  "epitalon",
+  "exercice-physique",
+  "fer-et-ferritine",
+  "mitochondries",
+  "thymosine-alpha-1"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "41335372",
+  "37268435",
+  "38602181",
+  "30058454",
+  "35499074",
+  "36761202",
+  "41966639",
+  "35185787"
+ ],
+ "preuve_globale": "A",
+ "resume": "Deux molécules différentes vendues ensemble sur le marché gris comme « boosters mitochondriaux » : MOTS-c, un peptide d'origine mitochondriale étudié chez la souris (aucune donnée d'efficacité humaine trouvée), et SS-31 = élamipretide, un tétrapeptide qui se fixe à la cardiolipine, devenu médicam…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Deux molécules différentes vendues ensemble sur le marché gris comme « boosters mitochondriaux » : **MOTS-c**, un peptide d'origine mitochondriale étudié chez la souris (aucune donnée d'efficacité humaine trouvée), et **SS-31 = élamipretide**, un tétrapeptide qui se fixe à la cardiolipine, devenu **médicament aux États-Unis pour une maladie rare**, le syndrome de Barth (accélérée, septembre 2025) (PMID 41335372).\n- Le seul grand essai randomisé de l'élamipretide dans une maladie mitochondriale (MMPOWER-3, 218 patients) est **négatif** : pas de différence sur le test de marche de 6 minutes (−3,2 m ; IC 95 % −18,7 à 12,3 ; p = 0,69) ni sur la fatigue, malgré une bonne tolérance [A, négatif, population malade] (PMID 37268435).\n- Syndrome de Barth : extension ouverte de 168 semaines (10 patients, 8 au terme) avec amélioration du test de marche (+96,1 m) et de la fatigue, sans groupe contrôle dans cette phase [B, série ouverte n=10] (PMID 38602181).\n- MOTS-c : amélioration de la sensibilité à l'insuline chez la souris diabétique ; en cellules sénescentes, MOTS-c augmente au contraire la sécrétion de cytokines inflammatoires (IL-6, IL-1β, IL-8, TNF-α) [C, D] (PMID 30058454). Les revues « anti-âge » reposent sur des corrélations, et une partie des auteurs déclare des intérêts avec l'entreprise qui détient les brevets (PMID 35499074).\n- Pour un adulte en bonne santé qui cherche de l'énergie ou de la longévité : aucune donnée humaine pertinente pour l'un ni l'autre [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- SS-31 / élamipretide : « liant de la cardiolipine mitochondriale », censé stabiliser la membrane interne de la mitochondrie (PMID 41335372) ; mécanisme en cours d'étude.\n- MOTS-c : peptide codé dans l'ADN mitochondrial, présenté comme régulateur du métabolisme ; revues sans essai d'intervention humain (PMID 36761202, PMID 35499074) [C].",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Molécule | Résultat | Preuve |\n|---|---|---|---|\n| Syndrome de Barth | Élamipretide | Approbation accélérée aux États-Unis (septembre 2025), sur critère de force musculaire, adultes et enfants ≥ 30 kg ; première thérapie spécifique de la maladie (PMID 41335372) ; extension ouverte 168 semaines, 6MWT +96,1 m (PMID 38602181) | [B, petits effectifs, ouvert] |\n| Myopathie mitochondriale primaire | Élamipretide | MMPOWER-3, 218 patients, 24 semaines : critères principaux non atteints (6MWT −3,2 m ; fatigue −0,07, p = 0,37) | [A, négatif] (PMID 37268435) |\n| Dégénérescence maculaire sèche | Élamipretide | Essais de phase III en cours selon la revue de l'approbation ; résultats non rapportés ici | [?] (PMID 41335372) |\n| Muscle, performance, « longévité » du sujet sain | SS-31, MOTS-c | Aucun essai humain trouvé ; une revue 2026 des peptides non approuvés vendus aux sportifs (dont MOTS-c et SS-31) note des effets chez l'animal mais des données de sécurité humaines rares et un risque de préjudice grave (PMID 41966639) | [?] |\n| Diabète, obésité, vieillissement | MOTS-c | Effets métaboliques chez la souris ; aucun essai humain d'efficacité trouvé | [C] (PMID 36761202, PMID 35185787) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet (règle 7 : pas de posologie). Le contenu réel des flacons « SS-31 » ou « MOTS-c » du marché gris est inconnu sans analyse.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Élamipretide (Forzinity)** : médicament à autorisation accélérée aux États-Unis depuis septembre 2025 pour le syndrome de Barth (PMID 41335372). Statut dans l'UE et en France : non consulté (EMA, ANSM, BDPM) [?].\n- **MOTS-c, et SS-31 vendu en ligne** : non autorisés comme produits de santé pour l'usage « anti-âge » ou « performance ». La page ANSM sur les « peptides » vendus en ligne (2026-08-31, consultée le 2026-10-11) ne les cite pas nommément.\n- AMA : classification 2026 non vérifiée ; la revue de médecine du sport (PMID 41966639) discute le statut réglementaire de ces peptides, non relu en détail [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Élamipretide : bien toléré dans MMPOWER-3 (effets surtout légers à modérés) et en extension de Barth, où les réactions au point d'injection sont les plus fréquentes (PMID 37268435 [A] ; PMID 38602181 [B]) ; données chez le sujet sain : aucune.\n- MOTS-c : en cellules sénescentes, augmentation de l'IL-6, IL-1β, IL-8, TNF-α (PMID 30058454) [D] ; effet à long terme chez l'humain inconnu [?].\n- Grossesse, enfants, interactions : aucune donnée pour les produits du marché gris [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Risques génériques : sous-dosage, mauvaise molécule, contamination, endotoxines (ANSM, 2026). Aucune analyse de produits « SS-31 » ou « MOTS-c » trouvée [?].",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- Fatigue ou baisse de forme : bilan (thyroïde, fer, vitamine D, glycémie, sommeil), voir [mitochondries](fiche:mitochondries) et [fer et ferritine](fiche:fer-et-ferritine).\n- Le levier mitochondrial démontré chez l'humain reste l'**entraînement physique**, voir [exercice physique](fiche:exercice-physique).\n- Syndrome de Barth ou myopathie mitochondriale diagnostiquée : centre de référence maladies rares ; accès à l'élamipretide via essai clinique ou autorisation, à discuter avec le spécialiste.\n- Pas de protocole de dosage, de reconstitution ou d'injection, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).\n\nVoir aussi : [mitochondries](fiche:mitochondries), [épitalon](fiche:epitalon), [thymosine alpha-1](fiche:thymosine-alpha-1).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Shirley M. *Drugs* 2026 — PMID 41335372 — [DOI](https://doi.org/10.1007/s40265-025-02269-8) (relecture sous contrôle du fabricant autorisée par la revue)\n2. Karaa A et al. *Neurology* 2023 — PMID 37268435 — [DOI](https://doi.org/10.1212/WNL.0000000000207402)\n3. Thompson WR et al. *Genet Med* 2024 — PMID 38602181 — [DOI](https://doi.org/10.1016/j.gim.2024.101138)\n4. Mendias CL, Awan TM. *Sports Med* 2026 — PMID 41966639 — [DOI](https://doi.org/10.1007/s40279-026-02437-0)\n5. Mendelsohn AR, Larrick JW. *Rejuvenation Res* 2018 — PMID 30058454 — [DOI](https://doi.org/10.1089/rej.2018.2114)\n6. Miller B et al. *J Clin Invest* 2022 — PMID 35499074 — [DOI](https://doi.org/10.1172/JCI158449) (un auteur est conseiller et actionnaire de CohBar, qui détient la licence sur MOTS-c)\n7. Zheng Y et al. *Front Endocrinol* 2023 — PMID 36761202 — [DOI](https://doi.org/10.3389/fendo.2023.1120533) ; Wu Y et al. *Front Endocrinol* 2021 — PMID 35185787 : revues, résumés non relus en détail.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "MOTS-c et SS-31 (élamipretide) : peptides « mitochondriaux »",
+ "type": "actif",
+ "unite": ""
+}

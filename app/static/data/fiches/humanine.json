@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "longevite",
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "peptide",
+ "id": "humanine",
+ "intro": "",
+ "liens": [
+  "declin-cognitif-et-neurodegenerescence",
+  "epitalon",
+  "exercice-physique",
+  "foxo4-dri",
+  "mitochondries",
+  "mots-c-et-ss-31"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "27070352",
+  "11717357",
+  "29955888",
+  "35104624",
+  "30058454",
+  "35576057"
+ ],
+ "preuve_globale": "D",
+ "resume": "Peptide codé dans l'ADN mitochondrial (région de l'ARN 16S) : l'humanine et ses cousins, les « SHLP » (small humanin-like peptides) (PMID 27070352). Découverte comme facteur qui protège des neurones en culture contre la toxicité de gènes de la maladie d'Alzheimer familiale et du peptide bêta-amyl…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Peptide codé dans l'ADN mitochondrial (région de l'ARN 16S) : l'humanine et ses cousins, les « SHLP » (small humanin-like peptides) (PMID 27070352). Découverte comme facteur qui protège des neurones en culture contre la toxicité de gènes de la maladie d'Alzheimer familiale et du peptide bêta-amyloïde [D] (PMID 11717357). Le dérivé le plus cité, **HNG** (S14G), est un analogue plus actif en culture (PMID 11717357).\n- Chez l'humain, les seules données trouvées sont des **dosages sanguins** : dans une cohorte de 693 personnes de 21 à 113 ans, l'humanine, FGF21 et GDF15 sont plus élevés avec l'âge, maximaux chez les centenaires, et associés à de moins bons paramètres de santé (force de préhension, sensibilité à l'insuline, triglycérides) [B, observationnel n=693] (PMID 29955888). Des taux plus élevés chez les très âgés ne prouvent donc pas qu'un apport soit bénéfique : la lecture proposée par les auteurs est une réponse au stress (hormèse).\n- Une étude chez la souris a trouvé que le taux circulant d'un autre peptide de la famille (SHLP2) baisse avec l'âge, et que SHLP2 est un insulino-sensibilisant cérébral et périphérique [C] (PMID 27070352).\n- **Aucun essai d'efficacité chez l'humain** [?], PubMed interrogé le 2026-10-14. Une revue de 2022 note que les données viennent surtout des cellules et de la souris (PMID 35104624).\n- Autre signal : dans des cellules sénescentes, l'humanine et MOTS-c **augmentent** la sécrétion de cytokines inflammatoires du phénotype sécrétoire de la sénescence (IL-6, IL-1β, IL-8, IL-10, TNF-α), d'après une revue de 2018 qui juge possible un effet « protecteur mais pro-inflammatoire » [D] (PMID 30058454 ; voir aussi [MOTS-c et SS-31](fiche:mots-c-et-ss-31)).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Activité anti-apoptotique, antioxydante et protectrice de la fonction mitochondriale en culture et chez l'animal [C, D] (PMID 27070352).\n- Dans le cerveau : revue des mécanismes (stress oxydant, neuro-inflammation, voies d'insuline, autophagie, maintien des synapses), pour la plupart décrits in vitro ou chez la souris (PMID 35104624) [C].\n- Humain : l'humanine est un marqueur circulant du stress mitochondrial parmi d'autres « mitokines » (PMID 29955888).",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Neuroprotection en culture (toxicité d'APP/préséniline mutants, bêta-amyloïde) | L'humanine et surtout HNG s'opposent à la mort neuronale ; sans effet contre le glutamate ou un fragment de prion | [D] (PMID 11717357) |\n| Alzheimer et neurodégénérescence | Revue : bénéfices surtout in vitro et chez la souris | [C, revue] (PMID 35104624) |\n| Sensibilité à l'insuline, apoptose, inflammation (SHLP2/3, souris et cellules) | Moins d'apoptose et de ROS en culture ; SHLP2 augmente la captation de glucose in vivo | [C] (PMID 27070352) |\n| Vieillissement humain | Taux sanguins plus élevés chez les centenaires, associés à une moindre force et sensibilité à l'insuline, lecture hormétique | [B, observationnel n=693] (PMID 29955888) |\n| Dégénérescence maculaire (DMLA) | Taux plasmatiques d'humanine plus bas chez les patients ; HNG réduit plusieurs marqueurs inflammatoires dans des cellules rétiniennes reconstituées (cybrides) | [D] (PMID 35576057) |\n| Traitement par humanine/HNG chez l'humain (longévité, cerveau, muscle, métabolisme) | Aucun essai trouvé | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet (règle 7 : pas de posologie). Contenu réel des flacons inconnu sans analyse ; un peptide codé par l'ADN mitochondrial et des analogues modifiés (HNG) sont facilement confondus à la vente [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **France** : aucune occurrence « humanine » dans les fichiers CIS_bdpm et CIS_COMPO_bdpm (BDPM, téléchargés le 2026-10-14). L'ANSM ne cite pas l'humanine nommément ; son message général s'applique aux « peptides » vendus en ligne (« Ces produits n'ont pas été évalués par les autorités de santé et ne sont pas autorisés », 2026-07-02 mise à jour 2026-08-31, consultée le 2026-10-14).\n- **AMA** : non cité nommément (recherche dans le texte de la Liste 2026 (PDF WADA, consulté le 2026-10-14) : aucune mention nominative) ; substance sans approbation, elle relève de S0 par la définition de la classe (l'AMA ne publie pas de classement nominatif).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Aucune donnée de sécurité humaine sur l'administration de l'humanine [?].\n- **Biologie à double tranchant** : peptide de stress, plus élevé chez les sujets en moins bonne condition (PMID 29955888) ; l'augmenter artificiellement ne suit pas le raisonnement « plus de jeunesse » [B]. Effets sur le cancer, sur l'insuline à long terme, sur les cellules sénescentes (voir TL;DR) : non étudiés chez l'humain [?].\n- Grossesse, interactions : aucune donnée trouvée [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Risques génériques : sous-dosage, mauvaise molécule, contamination, endotoxines (ANSM, consultée le 2026-10-14). Analyse de flacons d'humanine : aucune trouvée [?].",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- Mémoire, troubles cognitifs : consultation mémoire, bilan (vue, audition, humeur, sommeil, thyroïde, B12) avant toute piste « neuroprotectrice » ; voir [déclin cognitif](fiche:declin-cognitif-et-neurodegenerescence).\n- « Santé mitochondriale » : l'[exercice physique](fiche:exercice-physique) est le levier le mieux étayé ; voir [mitochondries](fiche:mitochondries).\n- Pas de protocole de dosage ni d'injection, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).\n\nVoir aussi : [MOTS-c et SS-31](fiche:mots-c-et-ss-31) (autres peptides « mitochondriaux »), [épitalon](fiche:epitalon), [FOXO4-DRI](fiche:foxo4-dri).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Hashimoto Y et al. *J Neurosci* 2001 — PMID 11717357 — [DOI](https://doi.org/10.1523/JNEUROSCI.21-23-09235.2001)\n2. Cobb LJ et al. *Aging (Albany NY)* 2016 — PMID 27070352 — [DOI](https://doi.org/10.18632/aging.100943)\n3. Conte M et al. *J Gerontol A Biol Sci Med Sci* 2019 — PMID 29955888 — [DOI](https://doi.org/10.1093/gerona/gly153)\n4. Thiankhaw K et al. *Biochim Biophys Acta Gen Subj* 2022 — PMID 35104624 — [DOI](https://doi.org/10.1016/j.bbagen.2022.130097) (revue)\n5. Mendelsohn AR et al. *Rejuvenation Res* 2018 — PMID 30058454 — [DOI](https://doi.org/10.1089/rej.2018.2114) (revue)\n6. Nashine S et al. *Aging (Albany NY)* 2022 — PMID 35576057 — [DOI](https://doi.org/10.18632/aging.204074)\n7. BDPM, fichiers CIS_bdpm et CIS_COMPO_bdpm, téléchargés le 2026-10-14.\n8. ANSM, « “Peptides” vendus en ligne : ne les utilisez pas, ils peuvent être dangereux », 2026-07-02, mis à jour 2026-08-31 — https://ansm.sante.fr/actualites/peptides-vendus-en-ligne-ne-les-utilisez-pas-ils-peuvent-etre-dangereux (consulté le 2026-10-14)\n9. AMA, Liste des interdictions 2026, classe S0 (consultée le 2026-10-14).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "Humanine (peptide dérivé de la mitochondrie)",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,58 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "alimentation",
+ "id": "cerise-acide",
+ "intro": "",
+ "liens": [],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "41945263",
+  "42666369",
+  "42797032"
+ ],
+ "preuve_globale": "A",
+ "resume": "MA 2026 chez des athlètes (19 essais) : récupération de la force maximale améliorée à tous les temps (ES 0,63 à 4,82, hétérogénéité I² 69–93 %), saut vertical à 48 h, CRP↓ jusqu'à 48 h ; pas d'effet poolé sur courbatures, CK, IL-6, TNF-α, amplitude ; plusieurs résultats dépendent d'études isolées…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- MA 2026 chez des athlètes (19 essais) : récupération de la force maximale améliorée à tous les temps (ES 0,63 à 4,82, hétérogénéité I² 69–93 %), saut vertical à 48 h, CRP↓ jusqu'à 48 h ; **pas d'effet poolé** sur courbatures, CK, IL-6, TNF-α, amplitude ; plusieurs résultats dépendent d'études isolées, certitude très faible à modérée [A, faible certitude] (PMID 41945263).\n- Une autre MA 2026 sur les polyphénols : la cerise acide montre le profil le plus cohérent pour réduire les courbatures (DOMS à 24 h et 72 h), certitude faible [A].\n- Revue systématique sur les produits végétaux : aucun produit, dose ou timing ne peut être recommandé [A].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Anthocyanes antioxydantes/anti-inflammatoires : hypothèse [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Preuve |\n|---|---|\n| CRP post-effort | [A] PMID 41945263 |\n| Courbatures | [A] contradictoire (PMID 41945263 vs PMID 42666369) |\n| Force/fonction | [A, forte hétérogénéité] force maximale améliorée dans l'analyse principale, saut à 48 h seulement (PMID 41945263) ; aucun avantage net sur la force à 48 h dans une NMA de 30 essais (PMID 42666369) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Hétérogènes ; non extraites ici [?]. Teneur réelle en anthocyanes des produits vendus : inconnue [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Aliment/jus, gélules. Complément alimentaire (non revérifié). Sucres du jus : à noter.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "Non revérifiée ici [?].",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "PMID 41945263 (*Sports Med Open* 2026, doi:10.1186/s40798-026-00993-3) ; PMID 42666369 (*Front Nutr* 2026, doi:10.3389/fnut.2026.1857527) ; PMID 42797032 (*Nutrients* 2026, doi:10.3390/nu18183049).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Cerise acide (jus / extrait)",
+ "type": "actif",
+ "unite": ""
+}

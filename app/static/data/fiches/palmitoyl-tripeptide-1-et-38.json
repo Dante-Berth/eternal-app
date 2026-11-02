@@ -1,0 +1,69 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "peptide",
+ "id": "palmitoyl-tripeptide-1-et-38",
+ "intro": "",
+ "liens": [
+  "ghk-cu",
+  "palmitoyl-pentapeptide-4",
+  "the-ordinary-matrixyl-10-ha",
+  "the-ordinary-multi-peptide-copper-peptides-1"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "39963574",
+  "33103342",
+  "26424007",
+  "38932444",
+  "27877059"
+ ],
+ "preuve_globale": "B",
+ "resume": "Deux ingrédients cosmétiques de la famille des « matrikines » (fragments de matrice extracellulaire supposés envoyer un signal de réparation au derme) : le palmitoyl tripeptide-1 (dérivé palmitoylé du GHK, souvent associé au palmitoyl tetrapeptide-7 dans le « Matrixyl 3000 ») et le palmitoyl trip…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Deux ingrédients cosmétiques de la famille des « matrikines » (fragments de matrice extracellulaire supposés envoyer un signal de réparation au derme) : le **palmitoyl tripeptide-1** (dérivé palmitoylé du GHK, souvent associé au palmitoyl tetrapeptide-7 dans le « Matrixyl 3000 ») et le **palmitoyl tripeptide-38** (« Matrixyl Synthe'6 »). Noms de marque du fournisseur d'ingrédients, pas d'un produit fini.\n- **Aucun essai contrôlé n'isole l'un ou l'autre peptide** : une revue de 2025 sur le GHK note une « surprenante absence d'études cliniques » du Pal-GHK, alors que les études cellulaires le jugent anti-rides [D, revue] (PMID 39963574).\n- Les essais humains trouvés testent des **formules multi-actifs, avec des auteurs liés au fabricant** :\n  - sérum contenant 15 % de vitamine C, de la vitamine E et 5 ppm de palmitoyl tripeptide-38 : rugosité −8 à −9 %, rougeur −9 %, étude ouverte sur 56 jours, auteurs consultants d'Alumier Labs [B, étude ouverte multi-actifs] (PMID 33103342) ;\n  - sérum ISDIN avec palmitoyl tripeptide-38, extrait de cellules souches de pomme, créatine et urée : effet anti-rides jugé chez 71 % de 32 femmes en 28 jours, avec des auteurs de la marque ; contrôle isolant le peptide : non décrit dans le résumé [B, étude du fabricant, n=32] (PMID 26424007) ;\n  - crème contour des yeux avec palmityl tripeptide-1 + palmitoyl tetrapeptide-7 et d'autres actifs : hydratation +28 %, élasticité +19 %, collagène +55 % en 12 semaines, coauteurs d'une société de biotechnologie [B, multi-actifs] (PMID 38932444).\n- Ce que cela permet de dire : des produits contenant ces peptides, dans des formules complexes, s'accompagnent d'une amélioration de paramètres cutanés. Ce que cela ne permet pas de dire : que le peptide en est la cause.\n- Comparaison avec un rétinoïde ou avec le palmitoyl pentapeptide-4 : voir [palmitoyl pentapeptide-4](fiche:palmitoyl-pentapeptide-4), qui a au moins un essai humain contrôlé de taille correcte.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Hypothèse « matrikine » : le GHK et ses dérivés stimuleraient la synthèse de collagène et de glycosaminoglycanes ; sa version palmitoylée (Pal-GHK) est censée mieux pénétrer la peau. Les revues disent que l'efficacité anti-rides du GHK est plausible d'après les cellules, mais que sa pénétration cutanée est insuffisamment documentée (PMID 39963574) [D].\n- Une revue de 2016 présente les matrikines comme des peptides de petite taille offrant « une activité comparable à des facteurs de croissance avec une meilleure pénétration » ; c'est une affirmation de revue, sans mesure de pénétration dans le résumé (PMID 27877059) [?].\n- Palmitoyl tripeptide-38 : aucune étude mécanistique indépendante trouvée dans PubMed (recherche du 2026-10-14) [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Rides, cellules (GHK, Pal-GHK) | Effet anti-rides plausible d'après des études cellulaires ; absence d'études cliniques sur Pal-GHK isolé | [D, revue] (PMID 39963574) |\n| Photovieillissement, sérum vitamine C 15 % + E + palmitoyl tripeptide-38 (étude ouverte, 56 j) | Rugosité −8 à −9 %, rougeur −9 %, homogénéité +8 % ; sans groupe témoin ; vitamine C à forte dose = facteur confondant | [B, ouvert, multi-actifs] (PMID 33103342) |\n| Rides péri-oculaires, sérum ISDIN (28 j, n=32) | 71 % des femmes avec effet anti-rides, hausse de la densité dermique et de l'élasticité ; auteurs ISDIN | [B, fabricant, multi-actifs] (PMID 26424007) |\n| Contour des yeux (pal-tripeptide-1 + pal-tétrapeptide-7), 12 semaines | Hydratation +28 %, élasticité +19 %, collagène +55 % (écho) | [B, multi-actifs] (PMID 38932444) |\n| Peptide isolé contre placebo, humain | Aucun essai trouvé | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Étude du sérum testé par Lintner et al. : palmitoyl tripeptide-38 à 5 ppm (soit 0,0005 %) (PMID 33103342). Concentrations dans les autres essais : non données dans les résumés [?].\n- Produits vendus : concentration souvent non déclarée (voir [The Ordinary Matrixyl 10 % + HA](fiche:the-ordinary-matrixyl-10-ha), où le « 10 % » du nom ne détaille pas la part de chaque peptide).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Topique cosmétique** : ingrédients INCI « Palmitoyl Tripeptide-1 » et « Palmitoyl Tripeptide-38 » présents dans des produits vendus en France (INCI du produit The Ordinary Matrixyl, consulté le 2026-10-12 dans la fiche produit). CosIng : « PALMITOYL TRIPEPTIDE-1 » (CAS 147732-56-7) et « PALMITOYL TRIPEPTIDE-38 », fonction « SKIN CONDITIONING » pour les deux, aucune annexe ni restriction de concentration listée (CosIng, API publique, consulté le 2026-10-14).\n- **Injectable ou autre voie** : aucune ; ne pas utiliser.\n- **AMA** : sans objet.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Tolérance : bonne dans les essais cités, sans effet indésirable notable décrit dans les résumés [B] (PMID 38932444) .\n- Incompatibilités : la marque The Ordinary déconseille d'associer son Matrixyl aux acides directs, à la vitamine C directe et à d'autres (voir [fiche produit](fiche:the-ordinary-matrixyl-10-ha)) ; voir aussi [GHK-Cu](fiche:ghk-cu) pour les peptides de cuivre et les acides. Grossesse : aucune donnée trouvée [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- [The Ordinary Matrixyl 10 % + HA](fiche:the-ordinary-matrixyl-10-ha) : contient les trois peptides, concentration non déclarée.\n- [The Ordinary Multi-Peptide Copper Peptides 1 %](fiche:the-ordinary-multi-peptide-copper-peptides-1) : contient aussi palmitoyl tripeptide-38.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Mortazavi SM et al. *Bioimpacts* 2025 — PMID 39963574 — [DOI](https://doi.org/10.34172/bi.30071) (revue)\n2. Lintner K et al. *J Cosmet Dermatol* 2020 — PMID 33103342 — [DOI](https://doi.org/10.1111/jocd.13770)\n3. Sanz MT et al. *J Cosmet Dermatol* 2016 — PMID 26424007 — [DOI](https://doi.org/10.1111/jocd.12173)\n4. Yang F et al. *Skin Res Technol* 2024 — PMID 38932444 — [DOI](https://doi.org/10.1111/srt.13790)\n5. Aldag C et al. *Clin Cosmet Investig Dermatol* 2016 — PMID 27877059 — [DOI](https://doi.org/10.2147/CCID.S116158) (revue)\n6. The Ordinary, Matrixyl 10% + HA, INCI — https://theordinary.com/en-sk/matrixyl-10-ha-serum-100431.html (consulté le 2026-10-12, via la fiche produit du dépôt).\n7. CosIng (Commission européenne), entrées PALMITOYL TRIPEPTIDE-1 et PALMITOYL TRIPEPTIDE-38, consultées le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "Palmitoyl tripeptide-1 et palmitoyl tripeptide-38 (Matrixyl 3000, Matrixyl Synthe'6)",
+ "type": "actif",
+ "unite": ""
+}

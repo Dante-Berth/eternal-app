@@ -1,0 +1,85 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "acide-alpha-lipoique",
+ "intro": "",
+ "liens": [
+  "audition-et-perte-auditive",
+  "coenzyme-q10",
+  "curcumine",
+  "glycemie-et-prediabete",
+  "mitochondries",
+  "n-acetylcysteine",
+  "pqq",
+  "vitamine-b12-et-folates"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 12,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "17065669",
+  "37630823",
+  "29990473",
+  "28629898",
+  "36480969",
+  "33229875",
+  "22609537",
+  "34122657",
+  "24111525",
+  "42662728",
+  "29028075",
+  "40787001"
+ ],
+ "preuve_globale": "A",
+ "resume": "Antioxydant soufré (acide thioctique), vendu pour la glycémie, la neuropathie, le poids, les mitochondries et l'anti-âge. Le seul domaine où il a des essais randomisés cohérents est la neuropathie diabétique douloureuse sur les symptômes.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Antioxydant soufré (acide thioctique), vendu pour la glycémie, la neuropathie, le poids, les mitochondries et l'anti-âge. Le seul domaine où il a des essais randomisés cohérents est la neuropathie diabétique douloureuse sur les symptômes.\n- Neuropathie diabétique : essai SYDNEY 2 (181 patients, 5 semaines) : score total de symptômes −4,9 à −4,5 points sous ALA vs −2,9 sous placebo ; réponse ≥ 50 % : 62 / 50 / 56 % vs 26 % ; nausées, vomissements et vertiges dose-dépendants ; 600 mg/j = meilleur rapport bénéfice-risque selon les auteurs [B, ECR unique n=181] (PMID 17065669). Méta-analyse de 10 ECR (1 242 patients) : symptômes améliorés, mais pas la douleur sur EVA, la vibration ni la conduction nerveuse [A, bénéfice sur les symptômes seulement] (PMID 37630823).\n- Métabolisme : 24 ECR chez des patients à maladies métaboliques : HbA1c SMD −1,22 ; glycémie à jeun SMD −0,54 ; poids −0,69 kg dans une méta-analyse distincte ; effets annoncés « statistiquement significatifs », de pertinence clinique non précisée [A, hétérogène] (PMID 29990473, 28629898).\n- Risque rare mais documenté : syndrome auto-immun à l'insuline (hypoglycémies sévères), qui apparaît chez des sujets génétiquement prédisposés (HLA-DRB1*04) ; l'EFSA (2021) conclut que l'ALA des compléments augmente probablement ce risque, sans dose sûre déterminable.\n- Mitochondries, anti-âge, audition : aucune donnée humaine concluante retrouvée ([mitochondries](fiche:mitochondries), [audition](fiche:audition-et-perte-auditive)).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Cofacteur d'enzymes mitochondriales ; l'ALA et sa forme réduite (acide dihydrolipoïque) ont des propriétés antioxydantes en laboratoire [D]. Cette fonction ne démontre pas d'effet de la supplémentation chez l'humain. Le mécanisme du syndrome auto-immun à l'insuline n'est pas élucidé (EFSA 2021).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Neuropathie diabétique douloureuse, ALA oral | SYDNEY 2 : 600, 1 200 ou 1 800 mg/j vs placebo, 5 semaines, 181 patients (Russie, Israël) : TSS −4,9 / −4,5 / −4,7 vs −2,9 points (tous p < 0,05) ; douleurs en coups de poignard et brûlures améliorées ; NIS réduit numériquement | [B, ECR unique n=181] (PMID 17065669) |\n| Neuropathie diabétique, méta-analyse | 10 ECR, 1 242 patients : TSS, NDS et satisfaction globale améliorés, relation dose-effet ; VAS, vibration, NIS-LL, conduction nerveuse non améliorés | [A] (PMID 37630823) |\n| Glycémie, lipides (maladies métaboliques) | 24 études : glycémie à jeun SMD −0,54 (IC −0,89 à −0,19), HbA1c SMD −1,22 (−2,01 à −0,44), HOMA-IR SMD −0,76, LDL-C SMD −0,44 (−0,76 à −0,11) ; HDL non modifié | [A, hétérogène, pertinence clinique non précisée] (PMID 29990473) |\n| Poids | 12 ECR : poids −0,69 kg (IC −1,27 à −0,10), IMC −0,38 kg/m² ; tour de taille non significatif ; auteurs : coût-efficacité douteux | [A, effet faible] (PMID 28629898) |\n| Risque cardiovasculaire (micronutriments) | L'acide alpha-lipoïque figure parmi les micronutriments à preuves « modérées à élevées » pour réduire des facteurs de risque CV, sans événements cliniques rapportés dans le résumé | [A, facteurs de risque seulement] (PMID 36480969) |\n| Mitochondries, anti-âge | Aucun ECR sur la fonction mitochondriale retenu (voir [mitochondries](fiche:mitochondries)) | [?] |\n| Perte auditive due au bruit | Revue de 11 essais de prévention de la perte auditive due au bruit (dont l'ALA parmi huit à dix agents) : résultats hétérogènes, pas de méta-analyse ; les deux études au meilleur résultat concernaient le carbogène et l'ebselen, pas l'ALA (voir [audition](fiche:audition-et-perte-auditive)) | [B, hétérogène] (PMID 33229875) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais de neuropathie : 600 mg/j (et 1 200, 1 800 mg/j) (PMID 17065669). Méta-analyse du poids : « dose sûre jusqu'à 1 200 mg/j » selon les auteurs, non vérifiée pour le long terme (PMID 28629898).\n- Compléments vendus : 100 à 600 mg par gélule (teneurs des produits français : non relevées [?]). Forme R(+) ou racémique : une étude pilote croisée (500 mg, 6 hommes âgés, 6 jeunes) ne dégage pas de supériorité nette de l'une ; biodisponibilité très variable chez les sujets âgés ; aucune comparaison d'efficacité clinique (PMID 22609537) [B, pilote].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Complément alimentaire. Aucun médicament à base d'acide thioctique dans la BDPM (recherche dans le fichier de composition, consultée le 2026-10-14). Les médicaments à base d'acide thioctique commercialisés dans d'autres pays sont hors du périmètre de cette fiche (France/UE).\n- EFSA : avis de 2021, demandé par la Commission au titre de l'article 8(2) du règlement (CE) n° 1925/2006 (addition de substances aux aliments) ; la décision de restreindre ou non l'ALA revient aux États membres et à la Commission (PMID 34122657). Suite réglementaire : l'ALA ne figure pas à l'annexe III du règlement (CE) n° 1925/2006 (version consolidée du 2025-11-26, texte intégral lu) ni dans la liste de l'Union des nouveaux aliments (règlement d'exécution (UE) 2017/2470, version du 2026-08-10, aucune occurrence de « lipoic »). Aucune position de la DGCCRF ou de l'ANSES retrouvée (recherche web du 2026-10-14) [?].\n- AMA : non concerné.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Syndrome auto-immun à l'insuline (maladie de Hirata) : 49 cas publiés après consommation d'ALA, résolution en quelques semaines à mois à l'arrêt ; l'EFSA conclut que l'ALA ajouté aux aliments, y compris compléments, augmente probablement le risque chez des individus porteurs de polymorphismes génétiques non identifiables sans test, et qu'aucune dose sans risque ne peut être déterminée (PMID 34122657) [B, 49 séries et cas].\n- Cas européens : six patients caucasiens (600 mg/j) avec hypoglycémies 30 à 120 jours après le début ; allèle HLA-DRB1*04:03 chez cinq d'entre eux (PMID 24111525) [B, série de 6 cas]. Une revue de 2026 décrit l'ALA comme un déclencheur croissant du syndrome (PMID 42662728) [B, revue].\n- SYDNEY 2 : nausées, vomissements et vertiges dose-dépendants (PMID 17065669).\n- Interactions : aucune étude d'interaction clinique avec les antidiabétiques, chimiothérapies, hormones thyroïdiennes ou chélateurs retrouvée dans PubMed (recherche du 2026-10-14) [?]. Le risque d'hypoglycémie documenté est celui du syndrome auto-immun à l'insuline ; un patient diabétique sous traitement hypoglycémiant doit en parler à son médecin avant tout ALA.\n- Grossesse : étude rétrospective de 610 femmes enceintes sous 600 mg/j pendant au moins 7 semaines, témoins issus d'un registre régional : aucun effet indésirable maternel ou néonatal rapporté, sans suivi prospectif ni aveugle (PMID 29028075) [B, rétrospective n=610]. À l'inverse, un cas de syndrome auto-immun à l'insuline sous ALA pendant la grossesse (hypoglycémies maternelles ; anticorps anti-insuline transmis au nouveau-né, qui a eu une hypoglycémie significative) (PMID 40787001) [B, cas unique]. L'EFSA ne détermine aucune dose sans risque (PMID 34122657). Allaitement, enfants : aucune donnée retrouvée [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Antioxydant universel, le plus puissant » : aucune supériorité démontrée pour les critères de santé hors neuropathie diabétique.\n- « Régénère les nerfs » : les méta-analyses ne montrent pas d'amélioration de la conduction nerveuse (PMID 37630823).\n- « Aide à maigrir » : −0,69 kg (PMID 28629898) ; l'effet est trop faible pour le coût et le risque.\n- « Protège les mitochondries et ralentit le vieillissement » : aucune donnée humaine concluante retrouvée [?].\n- « Sans effet secondaire » : syndrome auto-immun à l'insuline (EFSA 2021).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour. Voir aussi [PQQ](fiche:pqq), [coenzyme Q10](fiche:coenzyme-q10), [N-acétylcystéine](fiche:n-acetylcysteine), [curcumine](fiche:curcumine), [vitamine B12 et folates](fiche:vitamine-b12-et-folates), [glycémie et prédiabète](fiche:glycemie-et-prediabete).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Ziegler et al. *Diabetes Care* 2006 — PMID 17065669 — [DOI](https://doi.org/10.2337/dc06-1216)\n2. Hsieh et al. *Nutrients* 2023 — PMID 37630823 — [DOI](https://doi.org/10.3390/nu15163634)\n3. Akbari et al. *Metabolism* 2018 — PMID 29990473 — [DOI](https://doi.org/10.1016/j.metabol.2018.07.002)\n4. Namazi et al. *Clin Nutr* 2018 — PMID 28629898 — [DOI](https://doi.org/10.1016/j.clnu.2017.06.002)\n5. An et al. *J Am Coll Cardiol* 2022 — PMID 36480969 — [DOI](https://doi.org/10.1016/j.jacc.2022.09.048)\n6. EFSA NDA Panel, alpha-lipoic acid and insulin autoimmune syndrome, *EFSA J* 2021 — PMID 34122657 — [DOI](https://doi.org/10.2903/j.efsa.2021.6577)\n7. Gullo et al. *Clin Endocrinol (Oxf)* 2014 — PMID 24111525 — [DOI](https://doi.org/10.1111/cen.12334)\n8. Gupta et al. *Otol Neurotol* 2021 — PMID 33229875 — [DOI](https://doi.org/10.1097/MAO.0000000000002858)\n9. Vallianou et al. *Metabol Open* 2026 — PMID 42662728 — [DOI](https://doi.org/10.1016/j.metop.2026.100491)\n10. Parente et al. *Eur Rev Med Pharmacol Sci* 2017 — PMID 29028075\n11. Viti et al. *AACE Endocrinol Diabetes* 2025 — PMID 40787001 — [DOI](https://doi.org/10.1016/j.aed.2025.03.012)\n12. Keith et al. *Pharmacol Res* 2012 — PMID 22609537 — [DOI](https://doi.org/10.1016/j.phrs.2012.05.002)\n13. Règlement (CE) n° 1925/2006 (02006R1925-20251126) et règlement d'exécution (UE) 2017/2470 (02017R2470-20260810) — publications.europa.eu/resource/celex/ — textes intégraux lus le 2026-10-14.\n14. BDPM, fichier CIS_COMPO_bdpm — https://base-donnees-publique.medicaments.gouv.fr — consulté le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Acide alpha-lipoïque (ALA)",
+ "type": "actif",
+ "unite": ""
+}

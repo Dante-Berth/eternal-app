@@ -1,0 +1,65 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "medicament",
+ "id": "finasteride-zydus-1mg-comprime",
+ "intro": "",
+ "liens": [
+  "finasteride"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "9777765",
+  "20956649",
+  "27225981",
+  "42396141"
+ ],
+ "preuve_globale": "A",
+ "resume": "Le traitement oral le mieux prouvé chez l'homme de 18 à 41 ans, mais un médicament à risques psychiatriques et sexuels, délivré seulement avec ordonnance et attestation d'information : à décider avec un médecin, jamais en autogestion.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Le traitement oral le mieux prouvé chez l'homme de 18 à 41 ans, mais un médicament à risques psychiatriques et sexuels, délivré seulement avec ordonnance et attestation d'information : à décider avec un médecin, jamais en autogestion.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Composant | Quantité | Preuve |\n|---|---|---|\n| Finastéride | 1 mg/comprimé | 1553 hommes : +107 et +138 cheveux vs placebo (vertex, base 876) à 1 et 2 ans [B, ECR pivots n=1553, financés par Merck] (PMID 9777765) ; revue de 12 ECR (3927 hommes) : amélioration perçue RR 1,81 court terme, 1,71 long terme [A] (PMID 20956649) |\n| Lactose monohydraté | 87,5 mg | Excipient (BDPM) |\n\nVoir [finastéride](fiche:finasteride).",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Liste I, sur ordonnance, non remboursable, prix libre ; homme de 18 à 41 ans, alopécie androgénétique débutante ; AMM du 18/07/2023 (BDPM, Finastéride Zydus France 1 mg, consultée le 2026-10-06). Contre-indiqué chez la femme (risque pour un fœtus masculin). Chez la femme, le finastéride 1 mg ne bat pas le placebo [A, faible certitude] (PMID 27225981).\nANSM : depuis le 16/04/2026, une attestation d'information partagée, cosignée par le médecin et le patient, conditionne toute nouvelle dispensation ; elle est exigée pour les renouvellements depuis le 16/06/2026 ; carte patient dans la boîte (ANSM, consultée le 2026-10-06). Elle couvre troubles psychiatriques (humeur dépressive, dépression, idées suicidaires), troubles sexuels (érection, éjaculation), possible persistance après arrêt, suivi médical.\nAMA : statut à confirmer sur la liste de l'année en cours ; non vérifié ici [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- Pharmanity et le RCP : résultats en 3 à 6 mois, rechute possible 9 à 12 mois après l'arrêt. Cohérent avec l'effet suspensif décrit dans la fiche actif.\n- « Effets sexuels transitoires » : en essais contrôlés, 1,9-6,7 % vs 0,9-3,9 % sous placebo, surtout réversibles [A] (PMID 42396141) ; mais dysfonction érectile RR 2,22, nombre nécessaire pour nuire 82 [A] (PMID 20956649), et la BDPM reconnaît des troubles pouvant persister après l'arrêt.\n- Effets psychiatriques : mentionnés au RCP (humeur dépressive, dépression, idées suicidaires moins fréquentes) ; l'ANSM et le PRAC les ont confirmés (voir la fiche actif pour les chiffres).",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Pas de conseil de dosage ici au-delà du RCP : un comprimé par jour selon l'AMM, par prescription. Ce que le médecin évalue : diagnostic (exclure carence, effluvium), antécédents dépressifs ou anxieux, désir de paternité, fonction sexuelle de base, PSA si dépistage prostatique envisagé (baisse d'environ 50 % sous traitement, voir la fiche actif), alternatives (minoxidil, spray topique Fincrezo) et suivi. Stopper et consulter en cas de troubles de l'humeur, pensées suicidaires ou symptômes sexuels (ANSM).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix libre, boîte de 28 comprimés : 12,45 € (Zydus France) et 27,33 € (Biogaran) sur pharmanity.com ; 15,96 à 17,95 € pour le Zydus selon d'autres relevés web (résultats de recherche, non ouverts) ; relevés le 2026-10-06. À une boîte par mois : **12 à 28 €/mois** selon le générique et la pharmacie ; la boîte de 84 est moins chère au comprimé (29,90 € Zydus).\n- Pas d'alternative moins chère à preuve supérieure. À preuve inférieure : minoxidil topique (~3-8 €/mois), sans risque psychiatrique documenté mais sans effet anti-DHT. Le seul vendeur détaillé étant pharmanity (plateforme), un second vendeur indépendant n'a pas pu être lu [?].",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Aucune source d'avis exploitable relevée [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 9777765 — Kaufman K.D. et al., *J Am Acad Dermatol* 1998. doi:10.1016/s0190-9622(98)70007-6\n- PMID 20956649 — Mella J.M. et al., *Arch Dermatol* 2010. doi:10.1001/archdermatol.2010.256\n- PMID 42396141 — Złotowska A. et al., *Front Med* 2026. doi:10.3389/fmed.2026.1787706\n- PMID 27225981 — van Zuuren E.J. et al., *Cochrane Database Syst Rev* 2016. doi:10.1002/14651858.CD007628.pub4\n- BDPM, Finastéride Zydus France 1 mg, consultée le 2026-10-06.\n- ANSM, « Finastéride 1 mg : une attestation d'information partagée bientôt nécessaire pour toute dispensation », consultée le 2026-10-06.\n- Prix : pharmanity.com (Zydus France, Biogaran), relevés le 2026-10-06.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Finastéride Zydus France 1 mg, comprimé (générique de Propecia)",
+ "type": "produit",
+ "unite": ""
+}

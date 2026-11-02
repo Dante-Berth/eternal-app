@@ -1,0 +1,91 @@
+{
+ "cibles": [
+  "cerveau",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-11-02",
+ "famille": "",
+ "id": "biomarqueurs-alzheimer-ptau217-nfl",
+ "intro": "Fiche « examen ». Des prises de sang qui détectent la **pathologie** amyloïde/tau d'Alzheimer ; ce n'est ni un test de risque pour bien portants, ni un test de « cerveau jeune ». Contexte : [déclin cognitif et neurodégénérescence](fiche:declin-cognitif-et-neurodegenerescence), [prévention de la démence](fiche:prevention-demence-alzheimer). Rein et NfL : [fonction rénale](fiche:biomarqueur-reins-creatinine-cystatine-albuminurie).",
+ "liens": [
+  "biomarqueur-reins-creatinine-cystatine-albuminurie",
+  "declin-cognitif-et-neurodegenerescence",
+  "prevention-demence-alzheimer"
+ ],
+ "marqueurs": [],
+ "mesure": "sang",
+ "nb_pmid": 10,
+ "nb_seuils": 8,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "40729527",
+  "41193403",
+  "39068545",
+  "39251807",
+  "37220625",
+  "42633973",
+  "40976838",
+  "42665661",
+  "39369283",
+  "42601653"
+ ],
+ "preuve_globale": "B",
+ "resume": "Indication validée : patient avec troubles cognitifs, en consultation mémoire. La recommandation de l'Alzheimer's Association (2025) : un test sanguin avec ≥ 90 % de sensibilité et ≥ 75 % de spécificité peut servir de triage ; avec ≥ 90 % de sensibilité et de spécificité, il peut remplacer TEP am…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Indication validée : patient avec troubles cognitifs, en consultation mémoire.** La recommandation de l'Alzheimer's Association (2025) : un test sanguin avec ≥ 90 % de sensibilité et ≥ 75 % de spécificité peut servir de triage ; avec ≥ 90 % de sensibilité et de spécificité, il peut remplacer TEP amyloïde ou LCR. De nombreux tests commerciaux n'atteignent pas ces seuils avec un seul seuil de coupure ; le test ne remplace pas l'évaluation clinique [guideline, fondée sur une revue systématique] (PMID 40729527).\n- **La performance dépend du test, pas de « p-tau217 » en général.** Méta-analyse de 49 études (31 tests) chez des patients cognitivement atteints en milieu spécialisé : sensibilité poolée de 49,3 % à 91,4 %, spécificité de 61,5 % à 96,7 % ; certitude modérée à très faible, la plupart des études à risque de biais élevé [A, méta-analyse, hétérogène, qualité faible] (PMID 41193403).\n- **Meilleur résultat prospectif : % p-tau217 par spectrométrie de masse (± Aβ42/40).** Étude suédoise de 1 213 patients (soins primaires et secondaires, seuils prédéfinis) : AUC 0,96-0,97, VPP et VPN 87-92 % ; précision 61 % pour les médecins généralistes (73 % spécialistes) vs 91 % avec le score [B, étude prospective, un seul test, co-auteurs du fabricant C2N] (PMID 39068545).\n- **Chez des personnes sans symptômes : usage non validé.** Le dépistage de bien portants n'est pas couvert par ces études ; valeur prédictive en population asymptomatique : [?]. Prévalence de pathologie élevée dans les cohortes ci-dessus (50 %), donc les VPP/VPN ne se transposent pas à des personnes sans symptômes.\n- **NfL = marqueur de lésion neuronale, non spécifique d'Alzheimer.** Décrit comme marqueur sensible de dégâts neuro-axonaux dans de nombreuses maladies neurodégénératives ; une randomisation mendélienne suggère qu'une fonction rénale plus basse élève le NfL sanguin (PMID 39251807) [B, GWAS + randomisation mendélienne].\n- **Aucun traitement ni complément ne « corrige » ces marqueurs avec un bénéfice démontré** : [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "| Marqueur | Ce qu'il reflète | Limite principale | Source |\n|---|---|---|---|\n| p-tau217 (ou % p-tau217) | Pathologie amyloïde / tau d'Alzheimer | Plateforme-dépendant ; zone intermédiaire ; comorbidités : non relues [?] | PMID 41193403, 39068545 |\n| Aβ42/Aβ40 | Dépôt amyloïde | Meilleur en spectrométrie de masse, seul moins performant que p-tau217 ; rapport asymptomatique : non relu [?] | PMID 37220625 (revue) |\n| NfL | Dégâts axonaux (toute cause) | Non spécifique ; dépend du rein, de l'âge (non chiffré ici) | PMID 39251807 |\n| GFAP | Activation astrocytaire | Hors périmètre, non recherché | [?] |\n\nUne revue (PMID 37220625) résume que p-tau217 a montré la meilleure précision pour distinguer Aβ-PET positif et négatif, même chez des sujets cognitivement non atteints, et qu'une combinaison Aβ ratio + âge + APOE ε4 par LC-MS était la meilleure pour l'amyloïdose cérébrale [revue narrative, études jusqu'à janvier 2023, non systématique].",
+   "titre": "Ce que mesure chaque marqueur"
+  },
+  {
+   "markdown": "Aucun seuil en concentration n'est universel : les valeurs de coupure dépendent du dosage. Les seuils lus ci-dessous sont des seuils de performance, ou des proportions de patients en zone intermédiaire avec une approche à deux seuils.\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| Test sanguin Alzheimer (p-tau217, %p-tau217, Aβ42/40) | sensibilité et spécificité (%) | sensibilité ≥ 90 % et spécificité ≥ 75 % | performance minimale pour un usage en triage | adultes avec troubles cognitifs en consultation mémoire | [B, guideline fondée sur une revue systématique] Palmqvist 2025, PMID 40729527 |\n| Test sanguin Alzheimer (p-tau217, %p-tau217, Aβ42/40) | sensibilité et spécificité (%) | sensibilité ≥ 90 % et spécificité ≥ 90 % | performance minimale pour remplacer TEP amyloïde ou LCR ; beaucoup de tests commerciaux n'y arrivent pas avec un seul seuil | adultes avec troubles cognitifs en consultation mémoire | [B, guideline fondée sur une revue systématique] Palmqvist 2025, PMID 40729527 |\n| p-tau217 plasmatique | deux seuils (sensibilité 90 % et spécificité 90 %) | zone intermédiaire de 2,8 % à 13,7 % des patients pour les 7 dosages sur 9 les plus performants | les valeurs entre les deux seuils ne concluent pas ; seuils des fabricants et de la littérature de performance variable dans cette cohorte | 431 patients de 10 centres mémoire chinois (64 % amyloïde-PET positifs) | [B, étude transversale multicentrique] Lv 2026, PMID 42633973 |\n| rapport p-tau217/Aβ42 (Lumipulse) | deux seuils (sensibilité 95 % et spécificité 95 %) | 10 % à 15 % des participants en zone intermédiaire | précision de 93 % avec ces deux seuils ; les valeurs de coupure en pg/mL ne figurent pas dans le résumé | cohorte australienne AIBL (continuum Alzheimer) | [B, étude de cohorte, fabricant co-auteur] Doecke 2025, PMID 40976838 |\n| p-tau217 plasmatique | AUC | 0,671 (IC 0,597–0,746) pour la positivité au TEP tau | précision modérée vis-à-vis du TEP tau, meilleure en démence (0,785) ; l'approche à deux seuils réduit la zone intermédiaire | ADNI : 229 sans trouble cognitif, 149 MCI, 41 démence | [B, étude de cohorte] Abtahi 2026, PMID 42665661 |\n| p-tau217 plasmatique | pg/mL (selon le dosage) | seuil de positivité par plateforme : non retrouvé | seuil dépendant du dosage ; aucune valeur lue | consultation mémoire | non retrouvé : aucun résumé relu ne donne de valeur de coupure en concentration [?] |\n| NfL plasmatique | pg/mL | seuil pathologique ou valeurs de référence par âge : non retrouvé | marqueur non spécifique ; dépend aussi de la fonction rénale | adultes | non retrouvé : aucune source lue donne un seuil [?] |\n| Aβ42/Aβ40 plasmatique | rapport sans unité | seuil de positivité : non retrouvé | dépend de la méthode (spectrométrie de masse ou immunodosage) | consultation mémoire | non retrouvé : aucune source lue donne un seuil [?] |",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Précision des tests sanguins en consultation mémoire | Large variabilité selon le test | [A, faible certitude] (PMID 41193403) |\n| % p-tau217 (MS) en soins primaires/secondaires | AUC 0,96-0,97 ; précision ≈ 90 % | [B, prospectif, fabricant co-auteur] (PMID 39068545) |\n| Seuils pour triage ou substitution du TEP/LCR | ≥ 90 % sens. & ≥ 75 % spéc. ; ≥ 90 % sens. & spéc. | guideline (PMID 40729527) |\n| Utilisation chez la personne sans symptôme | Non couvert | [?] |\n| Le test change-t-il la prise en charge / les résultats pour le patient ? | Non démontré : l'étude le signale comme question ouverte | [?] (PMID 39068545) |",
+   "titre": "Ce que dit la preuve"
+  },
+  {
+   "markdown": "- Qui : patient avec MCI ou démence, évalué par un spécialiste de la mémoire, où la maladie d'Alzheimer est suspectée (PMID 40729527).\n- Quand ne pas le faire : en dépistage de masse chez une personne sans plainte : non étudié [?]. Les considérations d'implémentation (guidelines manquantes, performance selon populations, éthique du résultat, formation) sont un sujet ouvert, selon un groupe de travail avec participants de l'industrie (Eisai, Roche, C2N, Lilly, Biogen, ALZpath) (PMID 39369283, opinion d'experts, conflits d'intérêts visibles).\n- Impact psychologique et assurantiel d'un résultat positif chez un asymptomatique : non recherché [?].",
+   "titre": "Qui, quand, comment"
+  },
+  {
+   "markdown": "Pas d'auto-interprétation. Un résultat positif en dehors d'un bilan cognitif ne fait pas un diagnostic. Les options (confirmation par TEP/LCR, traitements anti-amyloïdes éventuels, essais) relèvent d'un spécialiste ; statut et éligibilité de ces traitements en France : non recherchés [?]. Leviers de réduction du risque de déclin : [exercice, entraînement cognitif, alimentation](fiche:declin-cognitif-et-neurodegenerescence).",
+   "titre": "Que faire d'un résultat anormal"
+  },
+  {
+   "markdown": "Tests réalisés en laboratoire spécialisé ou à l'étranger. Autorisation (marquage CE / IVDR), remboursement, disponibilité en France : non consultés [?]. Les offres directes au consommateur ne sont pas évaluées : [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Faire doser « p-tau217 » comme on dose une glycémie : le résultat n'a de sens qu'avec le test précis, son seuil et une probabilité préalable (PMID 41193403).\n- Lire un NfL élevé comme « Alzheimer » : il signe une lésion neuronale ou une baisse de la fonction rénale aussi (PMID 39251807).\n- Confondre pathologie détectable et démence : la pathologie peut précéder les symptômes ; la valeur prédictive du test à ce stade n'est pas établie dans ces sources [?].",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Test sanguin pour savoir si vous aurez Alzheimer »** : les études ci-dessus portent sur des patients symptomatiques ; l'usage prédictif chez les bien portants est [?].\n- **« Les compléments baissent vos taux de p-tau/NfL »** : aucune donnée retrouvée [?]. Le BDNF n'a pas bougé sous suppléments dans une NMA sur MCI (voir [déclin cognitif](fiche:declin-cognitif-et-neurodegenerescence)).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Les médecins généralistes identifiaient la maladie d'Alzheimer clinique avec 61 % de justesse, contre 91 % avec le score sanguin dans la même étude (PMID 39068545), mais avec le conflit d'intérêts cité.\n- Les recommandations sont « brand-agnostic » : elles définissent des seuils de performance, pas des marques (PMID 40729527).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Troubles de mémoire ou de cognition persistants, avis neurologue / consultation mémoire. Pas de consultation « pour faire le test » sans symptôme : [?] sur l'utilité.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 40729527 — Palmqvist S et al., Alzheimer's Association Clinical Practice Guideline on blood-based biomarkers in specialized care. *Alzheimers Dement* 2025. doi:10.1002/alz.70535\n- PMID 41193403 — Pahlke S et al., BBMs for detecting AD pathology in cognitively impaired individuals in specialized care: systematic review and meta-analysis. *Alzheimers Dement* 2025. doi:10.1002/alz.70828\n- PMID 39068545 — Palmqvist S et al., Blood biomarkers to detect Alzheimer disease in primary and secondary care. *JAMA* 2024. doi:10.1001/jama.2024.13855\n- PMID 37220625 — Pais MV et al., Plasma biomarkers of AD: review of assays. *J Alzheimers Dis Rep* 2023. doi:10.3233/ADR-230029\n- PMID 39369283 — Mielke MM et al., Considerations for widespread implementation of BBMs of AD. *Alzheimers Dement* 2024. doi:10.1002/alz.14150\n- PMID 39251807 — Ahmad S et al., GWAS meta-analysis of blood NfL. *Commun Biol* 2024. doi:10.1038/s42003-024-06804-3\n- PMID 42633973 — Lv X et al., comparaison de neuf dosages plasmatiques de p-tau217 pour l'amyloïde. *Sci Bull* 2026. doi:10.1016/j.scib.2026.08.018\n- PMID 40976838 — Doecke JD et al., Lumipulse p-tau217 et Aβ42/40 comme tests confirmatoires. *Alzheimers Dement* 2025. doi:10.1002/alz.70707\n- PMID 42665661 — Abtahi Y et al., p-tau217 plasmatique à deux seuils vs TEP tau. *Sci Rep* 2026. doi:10.1038/s41598-026-66315-5\n- PMID 42601653 — Jiang M et al., performance transversale et longitudinale de p-tau217 et p-tau217/Aβ42. *Ann Neurol* 2026. doi:10.1002/ana.78322 (vérifié ; non utilisé dans le tableau)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueurs plasmatiques d'Alzheimer (p-tau217, Aβ42/40, NfL)",
+ "type": "biomarqueur",
+ "unite": ""
+}

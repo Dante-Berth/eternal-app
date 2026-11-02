@@ -1,0 +1,77 @@
+{
+ "cibles": [
+  "cheveux",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "complement",
+ "id": "biotine",
+ "intro": "",
+ "liens": [
+  "fer-et-ferritine",
+  "finasteride",
+  "minoxidil",
+  "solgar-biotine-1000-ug-gelule",
+  "vitavea-biotine-10000-ug-gelule",
+  "zinc"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28879195",
+  "42592615",
+  "36889777",
+  "40417451",
+  "40806008",
+  "38609701"
+ ],
+ "preuve_globale": "B",
+ "resume": "Vitamine hydrosoluble vendue à fortes doses pour « des cheveux et des ongles plus forts ». Chez le sujet sain, la preuve manque : la revue systématique de référence ne trouve que 18 cas rapportés, tous chez des patients ayant une pathologie sous-jacente (carence acquise ou héréditaire, ongles cas…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Vitamine hydrosoluble vendue à fortes doses pour « des cheveux et des ongles plus forts ». Chez le sujet sain, **la preuve manque** : la revue systématique de référence ne trouve que 18 cas rapportés, **tous chez des patients ayant une pathologie sous-jacente** (carence acquise ou héréditaire, ongles cassants, cheveux « incoiffables »), tous améliorés ; les auteurs concluent à l'absence de preuve suffisante pour les sujets sains [B, cas cliniques] (PMID 28879195).\n- Dans une revue sur le minoxidil topique pour l'ongle, une comparaison rapporte +19 % de croissance sous minoxidil contre +13 % sous biotine orale ; trois études seulement, petites et hétérogènes [B, faible] (PMID 42592615).\n- Aucun essai contrôlé de biotine contre placebo sur la chute de cheveux d'un sujet sain n'est apparu dans ma recherche PubMed (requêtes du 2026-10-13) [?].\n- **Risque pratique plus solide que le bénéfice** : la biotine fausse des dosages thyroïdiens et d'autres dosages immunologiques (PMID 36889777, PMID 40417451).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Cofacteur de cinq carboxylases, donc impliquée dans les grandes voies du métabolisme cellulaire ; carence comme excès perturbent le métabolisme (revue, PMID 40806008) [B]. La carence entraîne des anomalies cutanées et capillaires (contexte des cas de la revue, PMID 28879195). Mécanisme précis par lequel un apport supplémentaire agirait sur le follicule chez un sujet non carencé : non trouvé dans les sources lues [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Chute de cheveux, sujet sain | Aucun essai contrôlé trouvé ; absence de preuve suffisante | [?] (PMID 28879195) |\n| Cheveux/ongles avec carence ou pathologie (ongles cassants, cheveux incoiffables) | 18 cas, tous améliorés | [B, cas rapportés] (PMID 28879195) |\n| Croissance de l'ongle, vs minoxidil topique | +13 % biotine vs +19 % minoxidil | [B, faible] (PMID 42592615) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Doses des cas et essais : non extraites des résumés lus [?]. Les compléments grand public contiennent souvent des doses très supérieures aux apports habituels ; teneurs des produits : à lire sur chaque étiquette.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Complément alimentaire (gélules, comprimés) ; la biotine est aussi dans des multivitamines.\n- **Statut France : complément alimentaire, vitamine (nutriment).** L'arrêté du 9 mai 2006 fixe la liste des nutriments autorisés et leurs doses journalières maximales (DJM) ; en 2011 le Conseil d'État a invalidé les DJM de plusieurs vitamines, dont la B8 (biotine), faute de limite supérieure de sécurité validée au niveau européen (Anses, avis 2023-SA-0165 du 31 juillet 2024, consulté le 2026-10-13). Le projet d'arrêté de mise à jour soumis à l'Anses prévoit « quantum satis » pour la biotine ; le comité d'experts de l'Anses estime ne pas pouvoir se positionner sur cette DJM faute de données d'apport (même avis). Dose maximale réellement applicable aujourd'hui (lignes directrices DGCCRF de 2019, arrêté en vigueur) : non relue à la source [?].\n- **Allégation de santé UE autorisée : « la biotine contribue au maintien de cheveux normaux »** (aussi peau et muqueuses normales), uniquement pour un aliment au moins « source de biotine » ; règlement (UE) 432/2012, avis EFSA 2009;7(9):1209 et 2010;8(10):1728 (Registre UE des allégations nutritionnelles et de santé, version PDF générée le 2013-02-14, consulté le 2026-10-13). Cette allégation ne dit rien de la pousse ni de la chute. La relation « ongles normaux » est refusée dans le même registre (« non-authorised », EFSA 2010;8(10):1728). Registre ancien : modifications ultérieures non vérifiées [?].\n- **AMA/WADA : non nommée.** Liste des interdictions 2026 (en vigueur depuis le 1er janvier 2026) : aucune occurrence de « biotin » (téléchargement du PDF anglais et recherche textuelle, WADA, consulté le 2026-10-13).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Interférence avec des dosages de laboratoire** : la biotine à forte dose fausse les dosages immunologiques qui utilisent le couple biotine-streptavidine (PMID 40417451, PMID 38609701). Sur analyseur Beckman, 10 mg de biotine chez 3 volontaires ont donné des FT3, FT4 et T3 totale faussement élevées et une thyroglobuline faussement basse, alors que la TSH et la T4 totale (dosages non biotinylés) n'étaient pas touchées : une FT4 haute avec TSH normale peut donc être un artefact, avec risque de fausse piste d'hyperthyroïdie (PMID 36889777) [B]. Sur les anciens réactifs Elecsys, plus de 500 ng/mL de biotine modifie de 20 % les résultats (thyroglobuline, AFP, anti-thyroglobuline, FT4) ; les réactifs récents tolèrent 1 000 à 3 000 ng/mL selon le test, et les systèmes Roche et Abbott diffèrent (PMID 40417451) [B]. Pratique : signaler la biotine au médecin et au laboratoire avant toute prise de sang (ANSM, consulté le 2026-10-13).\n- **Position de l'ANSM** (contrôle de marché, avril 2019, page mise à jour le 22 avril 2021) : sur 573 réactifs de diagnostic in vitro dont le schéma utilise la biotine, 246 présentent une interférence ; le seuil de biotinémie varie selon le test, certains dispositifs interférant dès 1 ng/mL ; sous-estimation pour les dosages « sandwich », surestimation pour les dosages en compétition ; vigilance quelle que soit la dose ; à titre d'exemple, 300 mg/j (traitement médical) donnent plus de 1 100 ng/mL ; insuffisants rénaux : élimination possiblement retardée. **Délai d'arrêt avant prélèvement : l'ANSM indique qu'aucun consensus applicable à tous les dosages n'existe** (il dépend du test, de la dose et de l'état clinique ; certains fabricants recommandent un délai). La même interférence touche les dosages d'IgE totales et spécifiques (faux positifs ou faux négatifs selon le format du test) [B] (PMID 40806008).\n- Allergie à la biotine : très rare d'après une revue, peu de données montrant qu'une supplémentation orale sensibilise [B] (PMID 40806008).\n- Autres effets indésirables : non documentés dans les sources lues [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « La biotine fait pousser les cheveux » : la revue systématique n'établit un bénéfice que chez des patients à carence ou pathologie, pas chez le sujet sain (PMID 28879195).\n- « Plus la dose est forte, mieux c'est » : aucune donnée dose-réponse lue pour les cheveux [?] ; l'interférence avec les analyses est, elle, documentée (PMID 36889777).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- [Vitavea Biotine 10 000 µg](fiche:vitavea-biotine-10000-ug-gelule) : 10 mg par gélule, 6-7 €/mois (prix relevés le 2026-10-13).\n- [Solgar Biotine 1000 µg](fiche:solgar-biotine-1000-ug-gelule) : 1 mg par gélule, 6-7 €/mois (prix relevés le 2026-10-13).\n- Les pages marchandes lues ne mentionnent pas l'interférence avec les analyses [?].\n\nVoir aussi : [minoxidil](fiche:minoxidil), [finastéride](fiche:finasteride), [fer et ferritine](fiche:fer-et-ferritine), [zinc](fiche:zinc).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Patel DP et al. *Skin Appendage Disord* 2017 — PMID 28879195 — [DOI](https://doi.org/10.1159/000462981)\n2. Alghmadi SM et al. *Skin Appendage Disord* 2026 — PMID 42592615 — [DOI](https://doi.org/10.1159/000553105)\n3. Chiu KC et al. *Pract Lab Med* 2025 — PMID 40417451 — [DOI](https://doi.org/10.1016/j.plabm.2025.e00472)\n4. McBride M, Dasgupta A. *Ann Clin Lab Sci* 2023 — PMID 36889777\n5. Schilbach K, Bidlingmaier M. *Rev Endocr Metab Disord* 2024 — PMID 38609701 — [DOI](https://doi.org/10.1007/s11154-024-09881-1)\n6. Lis K. *Nutrients* 2025 — PMID 40806008 — [DOI](https://doi.org/10.3390/nu17152423)\n7. Anses, avis 2023-SA-0165, 31 juillet 2024 — https://www.anses.fr/fr/system/files/NUT2023SA0165.pdf (consulté le 2026-10-13)\n8. Commission européenne, Registre UE des allégations nutritionnelles et de santé — https://ec.europa.eu/food/food-feed-portal/backend/claims/files/euregister.pdf (version générée le 2013-02-14, consulté le 2026-10-13)\n9. ANSM, Contrôle de marché relatif à l'interférence de la biotine avec les DMDIV, avril 2019 — https://ansm.sante.fr/uploads/2021/04/22/rapport-controle-marche-biotine-juillet-2019.pdf ; page d'information https://ansm.sante.fr/informations-de-securite/informations-recommandations-concernant-linterference-de-la-biotine-sur-les-immunodosages (consultés le 2026-10-13)\n10. AMA/WADA, Liste des interdictions 2026 — https://www.wada-ama.org/sites/default/files/2025-09/2026list_en_final_clean_september_2025.pdf (consulté le 2026-10-13)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Biotine (vitamine B8) pour cheveux et ongles",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,67 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "medicament",
+ "id": "cutacnyl-peroxyde-de-benzoyle-5",
+ "intro": "",
+ "liens": [
+  "differine-adapalene-0-1",
+  "epiduo-adapalene-peroxyde-0-1-2-5",
+  "peroxyde-de-benzoyle",
+  "protection-solaire"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "33825196",
+  "38943431",
+  "42592775"
+ ],
+ "preuve_globale": "A",
+ "resume": "Antibactérien de l'acné peu cher et remboursé, dont l'actif a des preuves de niveau [A] (faible certitude) ; aucun usage anti-âge, et sur ordonnance en France malgré son ancienneté.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Antibactérien de l'acné peu cher et remboursé, dont l'actif a des preuves de niveau [A] (faible certitude) ; aucun usage anti-âge, et sur ordonnance en France malgré son ancienneté.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- Peroxyde de benzoyle anhydre 5 g pour 100 g de gel (sous forme hydratée) ; excipients : carbomère 940, édétate disodique, docusate de sodium, silice colloïdale anhydre, propylèneglycol, poloxamère 182, hydroxyde de sodium, glycérol, copolymère méthacrylique, eau purifiée (BDPM, consulté le 2026-10-13). Le RCP indique un excipient à base d'environ 86 % d'eau.\n- Contre véhicule, le peroxyde de benzoyle améliore l'acné ressentie (35 % contre 26 %) [A, faible certitude] (PMID 33825196). Les monothérapies ne se distinguent pas entre elles sur les lésions [A] (PMID 38943431). Détail et concentrations étudiées : [peroxyde de benzoyle](fiche:peroxyde-de-benzoyle).\n- Efficacité comparable à 2,5 % et à 5 % selon une revue systématique, avec plus d'irritation aux fortes teneurs [B, hétérogène] (PMID 42592775) : le 5 % n'est pas démontré supérieur au 2,5 % (même fiche actif).\n- Autres teneurs de la même gamme : Cutacnyl 2,5 % (3,09 €) et 10 % (3,16 €) (BDPM, consulté le 2026-10-13).",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Médicament, liste II, sur ordonnance uniquement, titulaire Galderma International ; AMM du 22/07/1985, statut « valide », procédure nationale. Indication : acné vulgaire. Tube de 40 g à 3,16 € honoraire compris (2,14 € hors honoraire), remboursé à 30 % ; SMR modéré (avis de la Commission de la transparence du 09/01/2019), pas d'ASMR (BDPM, consulté le 2026-10-13). Le 2026-01-28, la Commission a rendu un nouvel avis pour une demande de radiation concernant les trois dosages, en maintenant ses conclusions de 2019 faute de données cliniques fournies par le laboratoire ; la page HAS (publiée le 12/02/2026) ne dit pas si la radiation a pris effet (HAS, consulté le 2026-10-13). La BDPM affichait encore le prix et le remboursement à la date de consultation ; vérifier en officine. Pas de statut AMA pertinent.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "Pas d'allégation anti-âge : médicament de l'acné. Le RCP recommande les dosages 2,5 et 5 % pour l'acné débutante de l'adolescent, les peaux fragiles, le début de traitement et l'entretien des acnés blanchies. Aucune étude citée ici ne porte sur le photovieillissement ou les rides : peroxyde de benzoyle sur la peau mature [?].",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "RCP (consulté le 2026-10-13) : 1 à 2 applications par jour en fine couche sur peau nettoyée et séchée ; 1 application par jour chez les peaux sensibles ; 1 application tous les 2 à 3 jours en entretien. « Touche d'essai » préalable sur petite surface pendant 10 à 15 jours. Éviter yeux, paupières, bouche, narines, muqueuses. Le gel décolore cheveux et tissus teints. Pas d'amélioration plus rapide avec une application excessive, seulement plus d'irritation (RCP).\nSécurité : sécheresse, rougeur, desquamation et brûlure très fréquentes ; prurit et dermite irritative fréquents ; photosensibilité, dermite allergique de contact, gonflement du visage, œdème palpébral et réactions allergiques de fréquence indéterminée ; contre-indiqué en cas d'hypersensibilité au peroxyde ou aux excipients (propylèneglycol notable). Grossesse : seulement si clairement nécessaire ; allaitement : prudence, jamais sur la poitrine (RCP). Association avec un rétinoïde : plus d'irritation [B, hétérogène] (PMID 42592775) ; le RCP déconseille d'ajouter d'autres kératolytiques ou détersifs. Photoprotection : voir [protection solaire](fiche:protection-solaire).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "Prix réglementé de 3,16 € le tube de 40 g. Durée d'un tube non indiquée par le RCP ; estimation personnelle de 1 à 2 mois pour le visage (hypothèse, non sourcée) → 2 à 3 €/mois environ. Difficile de faire moins cher à preuve équivalente. À preuve plus forte dans l'acné : l'association adapalène-peroxyde classée la plus efficace du réseau d'essais [A, faible certitude] (PMID 33825196), voir [Epiduo](fiche:epiduo-adapalene-peroxyde-0-1-2-5) ; son adapalène existe seul et remboursé : [Différine 0,1 %](fiche:differine-adapalene-0-1).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non recherchés pour ce produit [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- BDPM, Cutacnyl 5 % — [fiche](https://base-donnees-publique.medicaments.gouv.fr/medicament/64600787/extrait) ; Cutacnyl 2,5 % — [fiche](https://base-donnees-publique.medicaments.gouv.fr/medicament/60809088/extrait) ; Cutacnyl 10 % — [fiche](https://base-donnees-publique.medicaments.gouv.fr/medicament/69643899/extrait) (RCP du 25/04/2017 ; consultées le 2026-10-13)\n- HAS, Commission de la transparence, avis du 2026-01-28 — [page](https://www.has-sante.fr/jcms/p_3859374/fr/cutacnyl-peroxyde-de-benzoyle-acne) (consultée le 2026-10-13)\n- Références cliniques (PMID 33825196, 38943431, 42592775) : voir [peroxyde de benzoyle](fiche:peroxyde-de-benzoyle)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Cutacnyl 5 % gel (peroxyde de benzoyle)",
+ "type": "produit",
+ "unite": ""
+}

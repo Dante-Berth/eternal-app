@@ -1,0 +1,99 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-11-02",
+ "famille": "",
+ "id": "biomarqueur-il6-interleukine-6",
+ "intro": "Fiche « examen ». Voisine de [CRP / hs-CRP](fiche:biomarqueur-crp-hscrp) (la CRP est fabriquée par le foie sous l'effet de l'IL-6) et de [fibrinogène et VS](fiche:biomarqueur-fibrinogene-et-vs). Inflammation de bas grade et sport : [surentraînement et inflammation](fiche:surentrainement-et-inflammation-de-bas-grade), [myokines](fiche:myokines).",
+ "liens": [
+  "biomarqueur-apob",
+  "biomarqueur-crp-hscrp",
+  "biomarqueur-fibrinogene-et-vs",
+  "glycemie-et-prediabete",
+  "myokines",
+  "surentrainement-et-inflammation-de-bas-grade",
+  "tension-arterielle"
+ ],
+ "marqueurs": [
+  "il6"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 8,
+ "nb_seuils": 3,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "24026779",
+  "22421339",
+  "34015342",
+  "42833572",
+  "41369941",
+  "42106986",
+  "39699771",
+  "20031199"
+ ],
+ "preuve_globale": "A",
+ "resume": "Verdict prévention : ne pas doser l'IL-6. Elle prédit le risque coronaire (RR 1,25 par écart-type [A]), mais pas mieux que la hs-CRP, pour un dosage moins disponible, moins standardisé et sans seuil d'action. Si l'on veut un marqueur d'inflammation, la hs-CRP suffit.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Verdict prévention : ne pas doser l'IL-6.** Elle prédit le risque coronaire (RR 1,25 par écart-type [A]), mais pas mieux que la hs-CRP, pour un dosage moins disponible, moins standardisé et sans seuil d'action. Si l'on veut un marqueur d'inflammation, la hs-CRP suffit.\n- Association avec la maladie coronaire, indépendante des facteurs classiques et log-linéaire : RR 1,25 (1,19–1,32) par écart-type de log-IL-6, méta-analyse de jusqu'à 29 études prospectives ; HR 1,26 (1,08–1,46) après ajustement dans la cohorte danoise [A] (PMID 24026779). L'association avec le risque ne dit pas qu'elle améliore la prédiction : non étudié dans cette fiche [?].\n- **Cible plausible, pas encore prouvée par un essai d'événements** : la génétique du récepteur de l'IL-6 est cohérente avec un rôle causal (358Ala : risque coronaire −3,4 % par copie) [A, génétique] (PMID 22421339). Le ziltivekimab (anticorps anti-IL-6) baisse la hs-CRP de 66 à 88 % en phase 2 (RESCUE, n = 264) [B, ECR phase 2, marqueur seulement] (PMID 34015342). Résultat de ZEUS sur les événements cardiovasculaires : non retrouvé dans PubMed [?].\n- HERMES (ziltivekimab dans l'insuffisance cardiaque à FEVG préservée, n prévu 4 900) : selon une revue d'auteurs critiques, l'essai a été arrêté pour futilité [?, source secondaire, résultats non relus] (PMID 42833572).\n- Disponibilité en routine en France : non établie [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Cytokine produite par les cellules immunitaires, l'endothélium, les adipocytes et le muscle à l'effort. Elle déclenche la production hépatique de CRP et de fibrinogène (protéines de phase aiguë). Le récepteur de l'IL-6 (IL6R) relaie le signal ; un variant fonctionnel (Asp358Ala) augmente l'IL6R et l'IL-6 circulantes, et diminue la CRP de 7,5 % et le fibrinogène de 1,0 % par copie [A, génétique] (PMID 22421339). Cette logique de « randomisation mendélienne » rend l'IL-6 plus candidate à la causalité que la CRP.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "Aucun seuil validé en prévention ni plage de référence retrouvée : le moteur ne donne aucun statut à l'IL-6. Les associations d'études sont exprimées par écart-type de log-IL-6, pas par seuil.\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| IL-6 | pg/mL | 4,9 (médiane) | valeur médiane à l'inclusion de ZEUS, population à haut risque : description, pas cible | ASCVD + maladie rénale chronique + hs-CRP ≥ 2 mg/L | [B, protocole d'essai] Ridker 2026, PMID 41369941 |\n| IL-6 | écart-type de log-IL-6 | +1 écart-type | risque coronaire RR 1,25 (1,19–1,32) en méta-analyse ; HR 1,26 (1,08–1,46) après facteurs classiques (cohorte danoise) | adultes de cohortes prospectives | [A, méta-analyse] Kaptoge 2013, PMID 24026779 |\n| IL-6 | pg/mL | valeurs usuelles / seuil d'action | non retrouvé : aucune plage lue [?] | adulte | non retrouvé [?] |",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Prévision coronaire (cohorte danoise, 833 cas) | HR 1,37 (1,21–1,54) par écart-type, 1,26 (1,08–1,46) après facteurs classiques | [B, cohorte] (PMID 24026779) |\n| Prévision coronaire, méta-analyse prospective (≤ 29 études) | RR 1,25 (1,19–1,32) par écart-type | [A] (PMID 24026779) |\n| Causalité de la voie IL6R | 358Ala : risque coronaire −3,4 % (1,8–5,0) par copie, 51 441 cas | [A, génétique] (PMID 22421339) |\n| Effet d'un anti-IL-6 sur les marqueurs | ziltivekimab 15 mg/mois : hs-CRP −77,7 % vs placebo à 12 sem ; baisse aussi du fibrinogène, du SAA, de la Lp(a) | [B, ECR phase 2 n = 264, marqueur seulement] (PMID 34015342) |\n| Effet d'un anti-IL-6 sur les événements | ZEUS (n = 6 376) : résultats non retrouvés | [?] |\n| Valeur ajoutée de l'IL-6 aux scores de risque | non recherchée | [?] |",
+   "titre": "Ce que dit la preuve"
+  },
+  {
+   "markdown": "- **RESCUE** (phase 2, Novo Nordisk, patients avec maladie rénale chronique stade 3-5 et hs-CRP ≥ 2 mg/L) : hs-CRP −66,2 %, −77,7 % et −87,8 % vs placebo aux doses 7,5, 15 et 30 mg toutes les 4 sem ; bien toléré sur 24 sem, sans neutropénie ou thrombopénie sévère soutenue ; pas de hausse du rapport cholestérol total/HDL. Financé par l'industrie (financement et affiliations Novo Nordisk et Corvidia Therapeutics) [B] (PMID 34015342).\n- **ZEUS** (NCT05021835) : 6 376 patients avec maladie athéroscléreuse, maladie rénale chronique et hs-CRP ≥ 2 mg/L, ziltivekimab 15 mg par mois ou placebo, critère principal MACE à 3 composantes. Valeurs de départ : hs-CRP médiane 4,5 mg/L, IL-6 médiane 4,9 pg/mL ; 65,7 % diabétiques (PMID 41369941, publication de protocole). Les résultats ne figurent pas dans les recherches PubMed faites ici (consulté le 2026-10-16) [?].\n- **HERMES / ATHENA** : insuffisance cardiaque à FEVG > 40 % avec hs-CRP ≥ 2 mg/L ; protocole (PMID 42106986). La revue de Packer et al. (opinion d'auteurs critiques de l'hypothèse IL-6) écrit que HERMES a été arrêté pour futilité et que l'hypothèse « IL-6 cause l'IC à FEVG préservée » devient difficile à soutenir (PMID 42833572) [?, source secondaire].\n- **Précédent** : le canakinumab (anti-IL-1β, CANTOS) a réduit les événements sans effet sur la mortalité, avec plus d'infections fatales (voir [CRP](fiche:biomarqueur-crp-hscrp)). Le même risque infectieux est plausible avec un anti-IL-6 : non démontré ici [?].\n- Population étudiée : maladie déjà installée, pas la prévention primaire. Aucun essai d'anti-IL-6 chez des personnes en bonne santé n'a été retrouvé [?].\n- La colchicine à faible dose, seule anti-inflammatoire à avoir réduit les événements cardiovasculaires avec un usage large possible, est discutée dans une revue (COLCOT, LoDoCo2) [B, revue] (PMID 39699771). Statut et indication en France : non recherchés [?].",
+   "titre": "Anti-IL-6 : ZEUS et les autres essais"
+  },
+  {
+   "markdown": "- Dosage de l'IL-6 : examen de biologie spécialisé. Cotation NABM, remboursement, laboratoires qui le proposent et valeurs usuelles : non retrouvés [?].\n- Les valeurs de l'IL-6 varient avec l'heure, l'effort, le sommeil, la prise alimentaire et toute infection (la cytokine monte en quelques heures). Variabilité intra-individuelle propre à l'IL-6 : non recherchée [?].\n- Pas de seuil validé en prévention. Les 4,9 pg/mL de médiane dans ZEUS décrivent une population à haut risque rénal et cardiaque, pas une cible personnelle.\n- Boutiques de « bilan longévité » : l'IL-6 est vendue comme « âge inflammatoire ». Aucune étude relue ici ne montre qu'agir sur une IL-6 isolée améliore un résultat clinique (voir « Mythes »).",
+   "titre": "Disponibilité, prix, pièges"
+  },
+  {
+   "markdown": "| Critère | hs-CRP | IL-6 |\n|---|---|---|\n| Prédiction coronaire par écart-type | RR 1,37 puis 1,23 après fibrinogène [A] (PMID 20031199) | RR 1,25 [A] (PMID 24026779) |\n| Standardisation, accès en routine | examen courant | non établi [?] |\n| Seuil utilisable | 2 mg/L utilisé comme critère d'inclusion dans les essais (ZEUS, HERMES) | aucun |\n| Lien avec un traitement testé | CANTOS (anti-IL-1β), colchicine ; sélection des patients dans ZEUS | cible de ZEUS ; inclusion sur la hs-CRP, pas sur l'IL-6 |\n| Stabilité du dosage | CV intra-individuel ≈ 41–44 % (voir [CRP](fiche:biomarqueur-crp-hscrp)) | non recherchée [?] |\nConclusion : les essais sélectionnent les patients sur la hs-CRP, pas sur l'IL-6. Le dosage d'IL-6 n'ajoute pas d'action possible à celui de la hs-CRP.",
+   "titre": "IL-6 ou hs-CRP ?"
+  },
+  {
+   "markdown": "- Prévention : ne pas doser l'IL-6. Si inflammation suspectée, hs-CRP une fois la période d'infection ou d'effort intense passée ([CRP](fiche:biomarqueur-crp-hscrp)), puis traiter les facteurs classiques ([ApoB](fiche:biomarqueur-apob), [tension](fiche:tension-arterielle), [glycémie](fiche:glycemie-et-prediabete)).\n- Haut risque (maladie cardiovasculaire + maladie rénale chronique + hs-CRP élevée) : discuter avec le cardiologue ou le néphrologue de l'inclusion dans un essai ; le ziltivekimab n'est pas un traitement disponible. Statut réglementaire (aucune AMM retrouvée dans ce que j'ai consulté, BDPM non consulté) : [?].",
+   "titre": "Que faire"
+  },
+  {
+   "markdown": "- Doser l'IL-6 « pour compléter » une hs-CRP normale : si la hs-CRP est basse, l'IL-6 ne change pas la décision.\n- Prendre la baisse de CRP sous anti-IL-6 pour un bénéfice clinique : la CRP est en aval de l'IL-6, la bloquer fait chuter la CRP mécaniquement (−78 %) ; seul l'essai d'événements compte (PMID 34015342).\n- Croire qu'une IL-6 de sport est le même signal qu'une IL-6 de maladie : l'IL-6 montante à l'effort est une myokine, voir [myokines](fiche:myokines).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« L'IL-6 est le marqueur de l'âge biologique »** : association avec le risque coronaire modeste (RR 1,25 par écart-type), sans valeur ajoutée démontrée ici, sans intervention validée en prévention (PMID 24026779).\n- **« Baisser l'IL-6 avec des compléments allonge la vie »** : aucun complément relu n'a un essai d'événements. Le seul anti-IL-6 ciblé est un anticorps injectable en essai, dont le résultat clinique n'est pas retrouvé (PMID 34015342) [?].\n- **« L'IL-6 est toujours délétère »** : elle est aussi produite par le muscle à l'effort (myokine) ; la fiche [myokines](fiche:myokines) détaille cette ambiguïté.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Dans RESCUE, le ziltivekimab a aussi réduit le fibrinogène, la SAA, la sPLA2 et la lipoprotéine(a) (PMID 34015342) : un anti-IL-6 agit sur plusieurs marqueurs à la fois, ce qui rend l'interprétation d'un seul marqueur ambiguë.\n- Les essais d'anti-IL-6 sélectionnent leurs patients sur la **hs-CRP ≥ 2 mg/L**, pas sur l'IL-6 (PMID 41369941, PMID 42106986).\n- L'ajustement sur les facteurs classiques abaisse le HR de l'IL-6 de 1,37 à 1,26 (PMID 24026779).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Fièvre, douleurs articulaires, perte de poids, hs-CRP durablement > 10 mg/L : bilan médical (seuil de 10 mg/L non sourcé ici [?]). Une IL-6 isolée n'est pas un motif de consultation.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 24026779 — Kaptoge S et al., Inflammatory cytokines and risk of coronary heart disease: new prospective study and updated meta-analysis. *Eur Heart J* 2014. doi:10.1093/eurheartj/eht367\n- PMID 22421339 — IL6R Genetics Consortium and Emerging Risk Factors Collaboration (Sarwar N et al.), Interleukin-6 receptor pathways in coronary heart disease: a collaborative meta-analysis of 82 studies. *Lancet* 2012. doi:10.1016/S0140-6736(11)61931-4\n- PMID 34015342 — Ridker PM et al., IL-6 inhibition with ziltivekimab in patients at high atherosclerotic risk (RESCUE). *Lancet* 2021. doi:10.1016/S0140-6736(21)00520-1\n- PMID 41369941 — Ridker PM et al., Rationale, design, and baseline characteristics of the Ziltivekimab Cardiovascular Outcomes Trial (ZEUS). *JAMA Cardiol* 2026. doi:10.1001/jamacardio.2025.4491\n- PMID 42106986 — Mendieta G et al., Ziltivekimab in HFpEF/HFmrEF: rationale and design of ATHENA and HERMES. *Eur J Heart Fail* 2026. doi:10.1093/ejhf/xuag153\n- PMID 42833572 — Packer M et al., The comorbidity-driven IL-6-mediated systemic inflammation hypothesis of HFpEF: a decade of testing ends in disappointment. *J Card Fail* 2026. doi:10.1016/j.cardfail.2026.09.029 (revue d'opinion)\n- PMID 39699771 — Punnanithinont N et al., Anti-inflammatory therapies in atherosclerosis. *Curr Atheroscler Rep* 2024. doi:10.1007/s11883-024-01267-7\n- PMID 20031199 — Emerging Risk Factors Collaboration, Kaptoge S et al., CRP and risk of CHD, stroke and mortality. *Lancet* 2010 (repris de la fiche [CRP](fiche:biomarqueur-crp-hscrp)).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : interleukine-6 (IL-6)",
+ "type": "biomarqueur",
+ "unite": ""
+}

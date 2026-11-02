@@ -1,0 +1,80 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "",
+ "id": "lasers-fractionnes",
+ "intro": "",
+ "liens": [
+  "acide-hyaluronique-filler",
+  "microneedling",
+  "peelings",
+  "retinoides",
+  "toxine-botulique"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "32472427",
+  "42429955",
+  "24770501",
+  "32359018",
+  "22622960",
+  "29304516",
+  "41968192",
+  "28746258",
+  "18190541",
+  "21246574",
+  "20100273"
+ ],
+ "preuve_globale": "A",
+ "resume": "Les lasers fractionnés améliorent texture, ridules et cicatrices d'acné dans de nombreux petits essais, souvent en hémi-visage [A, faible certitude], avec un risque réel d'hyperpigmentation sur peau mate ou foncée et de cicatrice avec les lasers ablatifs ; les preuves à long terme et les comparai…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Les lasers fractionnés améliorent texture, ridules et cicatrices d'acné dans de nombreux petits essais, souvent en hémi-visage [A, faible certitude], avec un risque réel d'hyperpigmentation sur peau mate ou foncée et de cicatrice avec les lasers ablatifs ; les preuves à long terme et les comparaisons solides entre machines manquent.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- **Peut améliorer** : texture, ridules, photovieillissement, taches, cicatrices d'acné atrophiques [A, faible certitude] (PMID 32472427, 42429955).\n- **Ne corrige pas** : relâchement important et excès de peau (relève de la chirurgie : lifting (chirurgie, fiche non écrite), blépharoplastie (fiche non écrite)), perte de volume ([filler](fiche:acide-hyaluronique-filler)), rides dynamiques ([toxine botulique](fiche:toxine-botulique)).\n- Deux familles : **ablatifs** (CO2 10 600 nm, erbium:YAG 2 940 nm : vaporisent des colonnes de peau) et **non ablatifs** (erbium:glass 1 540-1 550 nm, thulium 1 927 nm : chauffent sans enlever l'épiderme).",
+   "titre": "Ce que ça corrige / ne corrige pas"
+  },
+  {
+   "markdown": "- **Erbium ablatif et non ablatif** : revue systématique de 17 ECR (453 patients) en rajeunissement, taches et cicatrices d'acné : prometteurs à court terme, effets indésirables minimes, mais efficacité et sécurité à long terme insuffisamment étudiées [A, faible certitude] (PMID 32472427).\n- **Ablatif vs non ablatif** : 3 séances d'erbium 1 540 nm cliniquement équivalentes à 1 séance d'erbium 2 940 nm à 3 mois [B, ECR hémi-visage n=18] (PMID 24770501).\n- **Laser vs microneedling** : erbium:YAG fractionné et microneedling d'efficacité comparable sur l'aspect du visage, la dyschromie et les rides périorbitaires ; récupération plus courte avec le microneedling [B, ECR hémi-visage n=24] (PMID 32359018).\n- **Durabilité** : 301 patients après une séance de CO2 fractionné sur photovieillissement : amélioration à 3 et 6 mois, résultat stable à 24 mois, sans complication grave à long terme [B, série rétrospective sans témoin] (PMID 22622960).\n- **Cicatrices d'acné** : méta-analyse en réseau de 56 ECR (1 488 patients, surtout hémi-visage) : les associations font mieux que les monothérapies ; CO2 fractionné + subcision ou + PRP les plus constants [A, faible certitude] (PMID 42429955). Revue de 30 études sur le CO2 fractionné (18 ECR) : traitement efficace, paramètres à individualiser [A, faible certitude] (PMID 29304516).\n- Pas de revue Cochrane récente sur le photovieillissement trouvée [?].",
+   "titre": "Preuves (efficacité, durabilité) avec tags"
+  },
+  {
+   "markdown": "- **Hyperpigmentation post-inflammatoire (HPI)** : complication la plus fréquente dans une revue de 2 010 cas (2019-2025), surtout phototypes IV-VI ; les lasers ablatifs (CO2, erbium:YAG) portent le risque le plus élevé de cicatrices et d'infections ; atteintes oculaires rares mais parmi les plus graves [B, revue systématique descriptive] (PMID 41968192).\n- **CO2 fractionné, cicatrices d'acné, 107 patients asiatiques** (phototypes II-V) : 15 % d'effets indésirables ; hyperpigmentation 6,4 %, bulles 4 %, croûtes 2,9 %, poussée d'acné 1,7 %, cicatrice 0,6 % [B, rétrospective] (PMID 28746258).\n- **Non ablatif 1 550 nm, 961 séances** : 7,6 % de complications, surtout éruptions acnéiformes (1,87 %) et poussées d'herpès (1,77 %) ; HPI plus fréquente sur peau foncée ; pas de cicatrice [B, rétrospective monocentrique] (PMID 18190541).\n- **Densité de traitement et HPI** : 18,2 % d'HPI avec 8 passages contre 6 % avec 4 passages chez des patients asiatiques, efficacité comparable [B, rétrospective n=47] (PMID 21246574).\n- Les complications des lasers fractionnés, bien que moins fréquentes qu'avec le resurfaçage ablatif classique, peuvent être sévères et durables [B, revue] (PMID 20100273).",
+   "titre": "Complications et fréquences"
+  },
+  {
+   "markdown": "- Sont réservés aux docteurs en médecine « tout acte de physiothérapie aboutissant à la destruction si limitée soit-elle des téguments » (cryothérapie, électrolyse, électro-coagulation, diathermo-coagulation cités) et « toute abrasion instrumentale des téguments à l'aide d'un matériel susceptible de provoquer l'effusion du sang » (arrêté du 6 janvier 1962, art. 2, 4° et 6°, version en vigueur depuis le 27 mai 2024, Légifrance, consulté le 2026-10-03). Le texte ne nomme pas les lasers ; je l'applique aux lasers ablatifs par lecture du 4° (destruction des téguments), sans décision officielle trouvée qui le confirme pour le resurfaçage fractionné [?].\n- Les équipements à rayonnement électromagnétique de haute intensité (lasers, lumière pulsée) destinés au resurfaçage cutané relèvent du règlement européen sur les dispositifs médicaux même sans finalité médicale (règlement (UE) 2017/745, annexe XVI, point 5 ; ANSM, document de référence sur les dispositifs sans finalité médicale, consulté le 2026-10-03).",
+   "titre": "Qui peut le pratiquer en France (réglementation)"
+  },
+  {
+   "markdown": "- CO2 fractionné : de 300 € (lèvre supérieure) à 1 000 € (visage entier) par séance (AFME, tarifs moyens mis à jour le 20 novembre 2022, consulté le 2026-10-03) ; 600 € la séance visage entier (Dr Mayeux, Paris 16, consulté le 2026-10-03). Fait de prix uniquement.\n- Ablatif : souvent 1 séance ; non ablatif : plusieurs séances (3 contre 1 dans l'ECR erbium [B] (PMID 24770501)). Résultat stable à 2 ans dans une série sans témoin [B] (PMID 22622960).",
+   "titre": "Coût et durabilité"
+  },
+  {
+   "markdown": "- [Microneedling](fiche:microneedling) : efficacité comparable à l'erbium dans un petit ECR, récupération plus courte [B] (PMID 32359018).\n- [Peelings](fiche:peelings) superficiels à moyens.\n- [Rétinoïdes](fiche:retinoides) topiques pour le photovieillissement.",
+   "titre": "Alternatives moins invasives"
+  },
+  {
+   "markdown": "- Laser ablatif proposé par un non-médecin ou en institut (voir arrêté de 1962).\n- Peau mate ou foncée (phototypes IV-VI) traitée avec des réglages agressifs sans discussion du risque d'HPI [B] (PMID 41968192, 21246574).\n- Antécédent d'herpès labial non évoqué avant un laser du visage (poussées dans 1,77 % des séances non ablatives) [B] (PMID 18190541).\n- Absence de protection oculaire : atteintes oculaires parmi les complications les plus graves [B] (PMID 41968192).",
+   "titre": "Signaux d'alerte (praticien, tourisme médical, produits)"
+  },
+  {
+   "markdown": "- Modena DAO et al., *Lasers Med Sci* 2020 — PMID 32472427 — [DOI](https://doi.org/10.1007/s10103-020-03046-7)\n- Borges J et al., *An Bras Dermatol* 2014 — PMID 24770501 — [DOI](https://doi.org/10.1590/abd1806-4841.20142370)\n- Robati RM et al., *J Cosmet Dermatol* 2020 — PMID 32359018 — [DOI](https://doi.org/10.1111/jocd.13440)\n- Tretti Clementoni M et al., *Lasers Med Sci* 2012 — PMID 22622960 — [DOI](https://doi.org/10.1007/s10103-012-1116-1)\n- Ou Y et al., *Aesthetic Plast Surg* 2026 — PMID 42429955 — [DOI](https://doi.org/10.1007/s00266-026-06165-8)\n- Xu Y et al., *Facial Plast Surg* 2018 — PMID 29304516 — [DOI](https://doi.org/10.1055/s-0037-1606096)\n- Zhorov I et al., *Lasers Med Sci* 2026 — PMID 41968192 — [DOI](https://doi.org/10.1007/s10103-026-04862-z)\n- Ochi H et al., *Dermatol Surg* 2017 — PMID 28746258 — [DOI](https://doi.org/10.1097/DSS.0000000000001219)\n- Graber EM et al., *Dermatol Surg* 2008 — PMID 18190541 — [DOI](https://doi.org/10.1111/j.1524-4725.2007.34062.x)\n- Chan NPY et al., *Lasers Surg Med* 2010 — PMID 21246574 — [DOI](https://doi.org/10.1002/lsm.20976)\n- Metelitsa AI et al., *Dermatol Surg* 2010 — PMID 20100273 — [DOI](https://doi.org/10.1111/j.1524-4725.2009.01434.x)\n- Réglementation : [arrêté du 6 janvier 1962, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021066541/) ; [ANSM, dispositifs sans finalité médicale](https://ansm.sante.fr/documents/reference/quels-sont-les-dispositifs-sans-finalite-medicale-couverts-par-le-reglement-2017-745) (consultés le 2026-10-03).\n- Prix : [AFME](https://www.afme.org/prix-soins-tarifs-medecine-esthetique/), [Dr Mayeux](https://www.paris-medecine-esthetique.fr/tarifs/) (consultés le 2026-10-03 ; fait de prix uniquement).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Lasers fractionnés (CO2, erbium) — rajeunissement et cicatrices",
+ "type": "acte",
+ "unite": ""
+}

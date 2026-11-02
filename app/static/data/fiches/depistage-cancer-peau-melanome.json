@@ -1,0 +1,86 @@
+{
+ "cibles": [
+  "prevention",
+  "peau"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "depistage-cancer-peau-melanome",
+ "intro": "",
+ "liens": [
+  "depistage-cancer-colorectal",
+  "protection-solaire",
+  "tabac-et-alcool"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "37071090",
+  "31157404",
+  "22517033",
+  "29169295",
+  "30521682",
+  "32041693"
+ ],
+ "preuve_globale": "B",
+ "resume": "Aucun dépistage organisé du mélanome en France. Une synthèse HAS/INCa citée par la presse écarte le dépistage en population générale, avec examen cutané ciblé pour les personnes à haut risque (source secondaire, voir Statut réglementaire).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Aucun dépistage organisé du mélanome en France. Une synthèse HAS/INCa citée par la presse écarte le dépistage en population générale, avec examen cutané ciblé pour les personnes à haut risque (source secondaire, voir Statut réglementaire).\n- Aucun essai randomisé ne répond à la question : Cochrane 2019, 2 études (64 391 personnes), dépistage « ni soutenu ni réfuté » [A]. Pas de donnée sur mortalité, surdiagnostic ou qualité de vie dans ces études.\n- Revue pour l'USPSTF 2023 : trois analyses non randomisées de programmes allemands (1 791 615 personnes) suggèrent aucun bénéfice de mortalité au niveau de la population à 4-10 ans ; l'examen systématique par un clinicien n'est pas associé à un stade plus précoce [B].\n- Une comparaison régionale montrait une baisse de 47 % (hommes) et 49 % (femmes) de la mortalité par mélanome au Schleswig-Holstein après un projet pilote, sans baisse dans les régions voisines (« preuve forte mais pas absolue ») [B]. Contradictoire avec la revue 2023 sur le programme national.\n- La dermoscopie est plus précise que l'inspection seule, mais c'est un outil de diagnostic pour lésion suspecte, pas un dépistage [A].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Le pronostic du mélanome dépend de l'épaisseur au diagnostic. Neuf études (1 326 051 personnes) trouvent un lien constant entre stade avancé au diagnostic et mortalité plus élevée (PMID 37071090) [B]. Mais détecter plus tôt n'est utile que si l'on trouve des mélanomes qui auraient tué ; le dépistage trouve aussi des lésions indolentes (surdiagnostic). L'incidence monte vite alors que la mortalité reste globalement stable (Cochrane 2019, introduction).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "Ce n'est pas un traitement : tableau des approches.\n\n| Méthode | Ce qui est prouvé | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Examen cutané systématique en population | Aucun ECR exploitable (PMID 31157404) ; analyses allemandes : pas de bénéfice de mortalité à l'échelle de la population (PMID 37071090) | [B] | Non organisé | non applicable |\n| Projet pilote SCREEN (Schleswig-Holstein) | Mortalité -47 % (hommes), -49 % (femmes) en 2008/2009 contre stabilité ailleurs (PMID 22517033) ; SMR 0,59 (0,40-0,83) (PMID 29169295) | [B] | Non applicable en France | non applicable |\n| Autoexamen | Un ECR (1 356 personnes) d'une intervention visant à augmenter l'autoexamen : aucun des critères principaux rapportés (PMID 31157404) | [?] | Libre | 0 |\n| Dermoscopie (lésion suspecte) | 103 cohortes, 42 788 lésions : plus précise que l'inspection seule ; à 80 % de spécificité, sensibilité 92 % contre 76 % (en consultation, RDOR 4,7, 3,0-7,5) (PMID 30521682) | [A] | Acte médical | non applicable |\n| Applications smartphone | Neuf études de faible qualité ; SkinVision sensibilité 80 % (63-92), spécificité 78 % (67-87) ; SkinScan 0 % sur 5 mélanomes ; « ne peuvent pas être utilisées pour détecter tous les cas » (PMID 32041693) | [B] | Marquage CE ; protection du public jugée insuffisante par les auteurs | variable (non relevé) |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- **Risque moyen, sans lésion préoccupante** : ni dépistage organisé, ni preuve de bénéfice d'un examen systématique ; surveiller soi-même ses grains de beauté peut se discuter avec un médecin, la preuve manque [?].\n- **Lésion qui change** (taille, forme, couleur, saignement, démangeaison, nouvelle lésion après l'âge adulte) : consultation, pas autoexamen répété.\n- **Risque élevé** (antécédent de mélanome, syndrome familial des naevus atypiques, nombreux naevus) : suivi dermatologique, rythme décidé par le spécialiste. Une synthèse HAS/INCa citée par la presse recommande un examen tous les 6 mois pour les sujets à haut risque (source secondaire, non vérifié [?]). Ces populations étaient exclues de la revue Cochrane.\n- **Prévention primaire** : voir [protection solaire](fiche:protection-solaire).",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "### Essais randomisés\nCochrane 2019 (Johansson) : 2 études (n = 64 391) ; un essai de promotion de l'autoexamen aux États-Unis (n = 1 356, 11 cabinets) sans critère principal rapporté, et un pilote australien de dépistage populationnel (n = 63 035, 3 ans) sans suivi de mortalité ; l'essai en grappes planifié sur 560 000 adultes n'a jamais été mené faute de financement. Risque de biais élevé pour les performances et la détection (PMID 31157404) [A]. Conclusion des auteurs : le dépistage en population générale ne remplit pas les critères d'un programme.\n\n### Observationnel\n- Revue pour l'USPSTF 2023 (Henrikson, 20 études, 6 053 411 personnes) : trois analyses de deux programmes allemands (1 791 615 personnes) : pas de bénéfice de mortalité par mélanome au niveau population à 4-10 ans ; six études (2 935 513 personnes) incohérentes sur l'épaisseur ou le stade ; l'examen systématique n'augmente pas la détection ; deux études (n = 232) : peu ou pas de préjudice cosmétique ou psychosocial persistant (PMID 37071090) [B].\n- Katalinic 2012 : après le dépistage de 360 288 personnes de 20 ans ou plus au Schleswig-Holstein, mortalité par mélanome -47 % (hommes), -49 % (femmes) ; variation annuelle -7,5 % et -7,1 % ; stable dans les régions voisines ; les auteurs parlent de « preuve forte mais pas absolue » (PMID 22517033) [B]. Eisemann 2018 : SMR 0,59 (0,40-0,83) à 5,5 ans, avec biais potentiels qui tendent à gonfler le résultat selon les auteurs (PMID 29169295) [B]. Ces deux études sont antérieures à l'extension nationale évaluée par la revue 2023 et la contredisent.\n\n### Surdiagnostic et faux positifs\nLa Cochrane cite le surdiagnostic comme préjudice central mais n'a trouvé aucun chiffre dans les essais (PMID 31157404). Une revue de 2024 citée par la presse avancerait environ 50 % de mélanomes surdiagnostiqués : source secondaire, non vérifiée [?]. Faux positifs : biopsies et exérèses bénignes, non chiffrées ici [?].\n\n### Dermoscopie\nSur 86 jeux de données pour le mélanome, la dermoscopie est plus précise que l'inspection : RDOR 4,7 (3,0-7,5) en consultation, 5,6 (3,7-8,5) sur images. Précision meilleure en personne que sur images (RDOR 4,6, 2,4-9,0). Limites : lésions sélectionnées pour biopsie, peu d'études en soins primaires, inclusion hétérogène (PMID 30521682) [A].",
+   "titre": "Ce que montrent les études : bénéfice absolu, limites, risques"
+  },
+  {
+   "markdown": "- Examen visuel ou dermoscopie : sans risque direct ; les risques sont ceux du surdiagnostic (exérèses, cicatrices, anxiété) et de la fausse réassurance (application smartphone qui rate des mélanomes, PMID 32041693) [B].\n- Photos de lésions : confidentialité des données de santé, non recherché ici [?].",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- S'en remettre à une application pour écarter un mélanome (SkinScan : 0 sur 5 mélanomes ; SkinVision : sensibilité 80 %) [B].\n- Attendre un « dépistage organisé » alors qu'une lésion change : consulter.\n- Croire que l'autoexamen est prouvé comme réduisant la mortalité : non démontré [?].\n- Négliger la protection solaire en comptant sur le dépistage.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Un bilan annuel de grains de beauté évite les décès » : aucun ECR ; analyses allemandes sans bénéfice de mortalité à l'échelle population (PMID 31157404, 37071090) [B].\n- « Une application détecte le mélanome » : sensibilité 0 % à 80 % selon l'application, études de faible qualité (PMID 32041693) [B].\n- « Plus tôt = toujours mieux » : vrai pour le stade et la mortalité individuelle (neuf études), mais l'examen systématique n'est pas associé à un stade plus précoce (PMID 37071090) [B].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- L'essai de grande ampleur (560 000 adultes) censé trancher la question n'a jamais été réalisé (PMID 31157404) [A].\n- Deux études allemandes de mortalité arrivent à des conclusions opposées selon qu'on compare une région ou le pays (PMID 22517033, 37071090) [B].",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Lésion pigmentée qui change, saigne, démange ou croûte ; lésion qui diffère des autres (« vilain petit canard ») ; plaie qui ne cicatrise pas ; antécédent personnel ou familial de mélanome ; nombreux naevus ou coups de soleil sévères dans l'enfance. Consulter un médecin ou un dermatologue.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- Aucun programme national organisé de dépistage du mélanome retrouvé. HAS, recommandation de détection précoce d'octobre 2006 (stratégie ciblée) et synthèse HAS/INCa : connues par recherche web du 2026-10-15 via sources secondaires ; pages officielles non lues [?].\n- Applications d'aide au diagnostic : marquage CE, statut de dispositif médical non vérifié (PMID 32041693 en critique la portée).\n- Pas de statut AMA applicable.",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- PMID 31157404 — Johansson M et al., *Cochrane Database Syst Rev* 2019, CD012352. doi:10.1002/14651858.CD012352.pub2\n- PMID 37071090 — Henrikson NB et al., *JAMA* 2023 (revue pour l'USPSTF). doi:10.1001/jama.2023.3262\n- PMID 22517033 — Katalinic A et al., *Cancer* 2012. doi:10.1002/cncr.27566\n- PMID 29169295 — Eisemann N et al., *J Med Screen* 2018. doi:10.1177/0969141317734003\n- PMID 30521682 — Dinnes J et al., *Cochrane Database Syst Rev* 2018, CD011902. doi:10.1002/14651858.CD011902.pub2\n- PMID 32041693 — Freeman K et al., *BMJ* 2020. doi:10.1136/bmj.m127\n- Web, consulté le 2026-10-15 (sources secondaires) : recherche sur HAS/INCa, USPSTF.\n\nVoir aussi : [protection solaire](fiche:protection-solaire), [dépistage colorectal](fiche:depistage-cancer-colorectal), [tabac et alcool](fiche:tabac-et-alcool).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Dépistage du mélanome et des cancers de la peau",
+ "type": "condition",
+ "unite": ""
+}

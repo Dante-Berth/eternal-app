@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "ist-vih-prevention",
+ "intro": "",
+ "liens": [
+  "depistage-cancer-col-uterus",
+  "hepatites-b-c-prevention-depistage",
+  "vaccins-dtcap-et-hpv-adulte"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "11869658",
+  "35545381",
+  "26624850",
+  "31056293",
+  "37018493",
+  "38055218"
+ ],
+ "preuve_globale": "A",
+ "resume": "Préservatif utilisé systématiquement : environ 80 % de réduction de la transmission hétérosexuelle du VIH (estimation de cohortes, efficacité réelle) [B].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Préservatif utilisé systématiquement : environ 80 % de réduction de la transmission hétérosexuelle du VIH (estimation de cohortes, efficacité réelle) [B].\n- PrEP orale ténofovir/emtricitabine : RR 0,25 (0,10-0,61) chez les hommes ayant des rapports avec des hommes, 0,25 (0,14-0,46) en couples sérodiscordants ; efficacité liée à l'observance [A].\n- Charge virale indétectable sous traitement : zéro transmission phylogénétiquement liée sur 1 593 couple-années (gays) [B].\n- Doxycycline post-exposition : -66 % d'IST bactériennes dans un essai ouvert, prescription médicale seulement, résistance à surveiller [B, ECR unique n=501].\n- Dépistage : voir aussi [hépatites B et C](fiche:hepatites-b-c-prevention-depistage) ; vaccination hépatite B et HPV recommandées.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Barrière mécanique (préservatif), blocage de la réplication virale par antirétroviraux avant/après exposition (PrEP), suppression virale chez la personne infectée (traitement comme prévention), vaccins (hépatite B, HPV).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Préservatif | Barrière | Cohortes de couples sérodiscordants hétérosexuels : 1,14/100 personnes-années (toujours) vs 5,75 (jamais), efficacité environ 80 % ; efficacité réelle, pas parfaite (PMID 11869658) [B] ; pas d'estimation chiffrée ici pour les autres IST [?] | dispositif_medical | faible |\n| PrEP orale TDF/FTC | Antirétroviral préventif | 15 ECR, plus de 25 000 participants : MSM RR 0,25 (0,1-0,61), couples sérodiscordants RR 0,25 (0,14-0,46), UDI RR 0,51 (0,29-0,92), hétérosexuels RR 0,77 (0,46-1,29, non significatif) ; efficacité liée à l'observance (PMID 35545381) [A] | medicament_ordonnance | remboursé 100 % (voir ci-dessous) |\n| PrEP « à la demande » | Prise autour des rapports | ECR IPERGAY (n=400) : 2 infections sous TDF-FTC (0,91/100 PA) vs 14 sous placebo (6,60), réduction 86 % (40-98) ; événements digestifs 14 % vs 5 %, rénaux 18 % vs 10 % (PMID 26624850) [B, ECR unique n=400] | medicament_ordonnance | remboursé |\n| Traitement du partenaire séropositif (U=U) | Charge virale indétectable | PARTNER2 : 782 couples gays, 1 593 couple-années, 76 088 rapports anaux sans préservatif, 0 transmission liée (IC sup. 0,23/100 couple-années) (PMID 31056293) [B] | medicament_ordonnance | pris en charge |\n| Doxycycline post-exposition | Prophylaxie antibiotique | ECR ouvert n=501 : IST 10,7 % vs 31,9 % des visites (RR 0,34, 0,24-0,46) en cohorte PrEP ; tétracycline-résistance gonocoque 5/13 vs 2/16 (PMID 37018493) [B, ECR unique n=501] ; statut français non consulté [?] | hors_amm ou non vérifié [?] | non vérifié |\n| Vaccin hépatite B | Immunisation | Revue de méta-analyses : vaccination ciblée et universelle réduisent l'infection VHB (PMID 38055218) [A] | medicament_ordonnance | remboursé selon indication |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Truvada et génériques remboursés à 100 % pour la PrEP chez les personnes à haut risque d'acquisition sexuelle du VIH depuis janvier 2016 ; primo-prescription ouverte à tous les médecins depuis le 1er juin 2021 ; suivi trimestriel (ameli et ANSM, via recherche web, consultés le 2026-10-15). Texte officiel d'AMM/RCP non relu directement : [?].\n- Suivi médical : bilan avant mise en route (statut VIH, VHB, fonction rénale), contrôles réguliers du VIH, des IST et de la fonction rénale. Le détail des intervalles n'a pas été relu à la source officielle : à vérifier avec le prescripteur [?]. Aucun protocole de dosage n'est rédigé ici.",
+   "titre": "Statut réglementaire et suivi médical de la PrEP"
+  },
+  {
+   "markdown": "- Débutant : préservatif, vaccination hépatite B et HPV ([fiche HPV](fiche:depistage-cancer-col-uterus), [vaccins](fiche:vaccins-dtcap-et-hpv-adulte)), dépistage au moins une fois dans sa vie (HAS 2017 : test VIH une fois pour les 15-70 ans, en plus du dépistage ciblé ; source HAS via recherche web, consultée le 2026-10-15).\n- Intermédiaire : dépistage régulier selon exposition (CeGIDD, laboratoire, TROD associatif, autotest en pharmacie : fiabilité des autotests non recherchée [?]).\n- Avancé : PrEP prescrite et suivie par un médecin si exposition à haut risque ; discussion de la doxycycline post-exposition avec un médecin.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Arrêter le préservatif sous PrEP sans dépister les autres IST : la PrEP ne protège ni de la syphilis, ni de la chlamydia, ni du gonocoque.\n- PrEP achetée sur le marché gris : mauvaise molécule, sous-dosage, pas de suivi rénal.\n- Se fier à un dépistage fait trop tôt après le risque (fenêtre sérologique, délai exact non relu [?]).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Le préservatif protège à 100 % » : l'estimation de cohortes est d'environ 80 % en usage réel [B].\n- « Séropositif sous traitement = contagieux » : avec charge virale indétectable durable, aucune transmission liée dans PARTNER2 [B].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Méta-analyse PrEP : pas d'efficacité démontrée chez les hétérosexuels dans les essais, à cause d'une observance très faible (RR 0,77, 0,46-1,29) (PMID 35545381) [A].\n- Doxycycline post-exposition : la proportion de gonocoques résistants à la tétracycline était plus élevée dans les bras doxycycline (5/13 vs 2/16) (PMID 37018493) [B].",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Après un rapport à risque (traitement post-exposition de 72 h : à discuter en urgence avec un service d'urgences/CeGIDD, délai et schéma non détaillés ici [?]), symptômes (écoulement, ulcération, brûlures), partenaire diagnostiqué, projet de PrEP, grossesse.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "PrEP : troubles digestifs et atteinte rénale plus fréquents (IPERGAY, PMID 26624850) ; contre-indications (insuffisance rénale, infection VIH non dépistée) et interactions : à voir avec le prescripteur, non relues à la source officielle [?]. Doxycycline : photosensibilité, troubles digestifs, résistances (PMID 37018493). Préservatif : allergie latex (alternatives polyuréthane).",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- Weller S, Davis K, Cochrane 2002, PMID 11869658 ; O Murchu E et al., BMJ Open 2022, PMID 35545381 ; N Engl J Med 2015 (IPERGAY), PMID 26624850 ; Lancet 2019 (PARTNER2), PMID 31056293 ; N Engl J Med 2023 (DoxyPEP), PMID 37018493 ; Expert Rev Vaccines 2024, PMID 38055218.\n- Ameli / ANSM (PrEP, Truvada et génériques), HAS (dépistage VIH 2017), consultés le 2026-10-15 via recherche web, pages non relues intégralement.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Prévention des IST et du VIH (préservatif, PrEP, dépistage)",
+ "type": "condition",
+ "unite": ""
+}

@@ -1,0 +1,78 @@
+{
+ "cibles": [
+  "longevite",
+  "cerveau",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "alimentation",
+ "id": "champignons-et-ergothioneine",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "alimentation-cerveau",
+  "antioxydants-alimentaires-et-absorption",
+  "declin-cognitif-et-neurodegenerescence",
+  "ergothioneine"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "34548082",
+  "33724299",
+  "36139790",
+  "39544014",
+  "40968729",
+  "41416984",
+  "33559585"
+ ],
+ "preuve_globale": "B",
+ "resume": "Cohortes : une association légère avec la mortalité, plus nette avec le cancer mais fragile. Méta-analyse de 5 cohortes (601 893 personnes) : plus de champignons, mortalité toutes causes RR 0,94 (0,91-0,98) ; dans la cohorte américaine NHANES (30 378 personnes), HR 0,84 (0,67-1,06), non significa…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Cohortes : une association légère avec la mortalité, plus nette avec le cancer mais fragile.** Méta-analyse de 5 cohortes (601 893 personnes) : plus de champignons, mortalité toutes causes RR 0,94 (0,91-0,98) ; dans la cohorte américaine NHANES (30 378 personnes), HR 0,84 (0,67-1,06), non significatif [B] (PMID 34548082). Cancer : 17 études observationnelles (dont 11 cas-témoins), RR 0,66 (0,55-0,78), mais seul le cancer du sein ressort au niveau d'un site (RR 0,65), biais de rappel et de sélection reconnus [B, surtout cas-témoins] (PMID 33724299).\n- **L'ergothionéine est l'argument central, et il repose sur peu de choses chez l'humain.** Des taux sanguins bas prédisent un déclin cognitif et fonctionnel plus rapide chez 470 personnes suivies en consultation mémoire (jusqu'à 5 ans) ; association, qui s'explique en grande partie par la maladie cérébrovasculaire et l'atrophie [B, cohorte] (PMID 36139790). Le seul essai de supplémentation lu est un pilote de 19 personnes [B, ECR pilote n=19] (PMID 39544014) : voir [ergothionéine](fiche:ergothioneine).\n- **Aucun essai randomisé de longue durée sur des champignons en tant qu'aliment** (cognition, mortalité, cancer) n'a été trouvé [?].\n- **Risque principal : la confusion avec une espèce toxique** lors de cueillette, pas le champignon de culture.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "L'ergothionéine est un acide aminé soufré apporté par l'alimentation, absorbé via le transporteur OCTN1 ; des revues proposent des effets sur le stress oxydatif et la neuro-inflammation, avec la réserve que les mécanismes restent à confirmer (PMID 40968729, revue). Rien dans les sources lues n'isole l'ergothionéine des autres composants des champignons (sélénium, cuivre, vitamines) comme cause d'un éventuel bénéfice [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Mortalité toutes causes | méta-analyse de 5 cohortes, 601 893 personnes : RR 0,94 (0,91-0,98) ; NHANES seul : HR 0,84 (0,67-1,06) (PMID 34548082) | [B] |\n| Cancer total | RR 0,66 (0,55-0,78) pour la plus forte vs la plus faible consommation ; cancer du sein RR 0,65 (0,52-0,81) ; autres cancers RR 0,80 (0,66-0,97) ; relation non linéaire ; 11 études sur 17 sont des cas-témoins (PMID 33724299) | [B, fragile] |\n| Déclin cognitif, taux d'ergothionéine | 470 personnes âgées en clinique de la mémoire : taux bas associés à un déclin plus rapide de la mémoire, des fonctions exécutives, de l'attention et du langage ; association retrouvée seulement chez les non-déments (PMID 36139790) | [B, cohorte] |\n| Supplémentation en ergothionéine, troubles cognitifs légers | 19 sujets, 25 mg 3 fois par semaine pendant 1 an : meilleure performance à un test d'apprentissage verbal, neurofilament léger stabilisé ; innocuité biologique (PMID 39544014) | [B, ECR pilote n=19] |\n| Pleurote, effet aigu sur cognition et humeur | 33 sujets âgés sains, soupe de nouilles avec 0,5, 1 ou 2 portions de pleurote : humeur mieux maintenue, marqueurs inflammatoires postprandiaux plus bas, cognition sans profil net, BDNF plus bas de façon dose-dépendante (PMID 41416984) | [B, ECR croisé n=33, effet aigu] |\n| Vitamine D, peau, sport | non recherchés dans cette fiche [?] | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Aliment** : portions de pleurote dans l'essai aigu (0,5 à 2) ; grammes par portion non extraits du résumé [?] (PMID 41416984). Quantités des cohortes : non relevées [?].\n- **Ergothionéine en gélule** : 25 mg par prise dans le pilote (PMID 39544014) ; 30 mg/j maximum pour les compléments dans l'UE (voir ci-dessous). Teneur en ergothionéine des différents champignons et effet de la cuisson : non relevés [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Champignons de culture : aliment. L'ergothionéine de synthèse ou de fermentation est un **nouvel aliment autorisé** : le règlement d'exécution (UE) 2018/462 étend son emploi (boissons non alcoolisées, boissons lactées, produits laitiers frais, barres de céréales, confiserie chocolatée, compléments) et fixe pour les compléments un maximum de 30 mg/j pour la population générale (20 mg/j pour les enfants de plus de 3 ans), hors femmes enceintes et allaitantes (EUR-Lex, consulté le 2026-10-14).\n- Cueillette en forêt : voir Sécurité.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Intoxications par confusion d'espèces** : en Allemagne (2000-2018), 4 412 hospitalisations et 22 décès par consommation de champignons, 90 % des décès liés à l'amanite phalloïde (amatoxines) ; des syndromes digestifs peuvent aussi venir de champignons avariés, crus ou mal cuits, ou consommés en grande quantité [B, série hospitalière] (PMID 33559585). Pas de cueillette sans identification certaine par un expert (pharmacien, société mycologique) : conseil de précaution, pas un résultat de l'étude.\n- **Ergothionéine** : aucun signe de toxicité à 25 mg/j dans les essais décrits par une revue (PMID 40968729) ; grossesse et allaitement exclus de l'autorisation (voir ci-dessus).\n- Interactions médicamenteuses des champignons de culture : non recherchées [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Les champignons sont la vitamine de longévité »** : le signal de longévité de l'ergothionéine est animal (voir [ergothionéine](fiche:ergothioneine)) ; chez l'humain, associations et un pilote de 19 personnes [B] (PMID 36139790, 39544014).\n- **« Les champignons préviennent le cancer »** : méta-analyse majoritairement cas-témoins, un seul cancer significatif au niveau d'un site [B, fragile] (PMID 33724299).\n- **« Champignons médicinaux (reishi, lion's mane) »** : hors périmètre de cette fiche, non évalués [?].\n\nVoir aussi : [alimentation : synthèse](fiche:alimentation) · [antioxydants alimentaires et absorption](fiche:antioxydants-alimentaires-et-absorption) · [alimentation et cerveau](fiche:alimentation-cerveau) · [déclin cognitif](fiche:declin-cognitif-et-neurodegenerescence).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 34548082 — Ba et al., *Nutr J* 2021 (mortalité, NHANES + méta-analyse). doi:10.1186/s12937-021-00738-w\n- PMID 33724299 — Ba et al., *Adv Nutr* 2021 (cancer). doi:10.1093/advances/nmab015\n- PMID 36139790 — Wu et al., *Antioxidants* 2022 (ergothionéine plasmatique, Singapour). doi:10.3390/antiox11091717\n- PMID 39544014 — Yau et al., *J Alzheimers Dis* 2024 (pilote, n=19). doi:10.1177/13872877241291253\n- PMID 41416984 — Cha et al., *Food Funct* 2026 (pleurote, effet aigu). doi:10.1039/d5fo03075g\n- PMID 40968729 — May-Zhang et al., *Proc Nutr Soc* 2025 (revue). doi:10.1017/S0029665125101754\n- PMID 33559585 — Wennig et al., *Dtsch Arztebl Int* 2020 (intoxications). doi:10.3238/arztebl.2020.0701\n- Règlement d'exécution (UE) 2018/462 (EUR-Lex, consulté le 2026-10-14).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Champignons comestibles et ergothionéine",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,59 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-18",
+ "famille": "alimentation",
+ "id": "cereales-comparatif-et-top-3",
+ "intro": "Synthèse des fiches céréales du dépôt. Aucun essai ne compare les céréales entre elles : le classement reflète le niveau de preuve disponible, pas un effet mesuré tête à tête.",
+ "liens": [
+  "alimentation",
+  "avoine-et-beta-glucanes",
+  "cereales-completes-et-raffinees",
+  "kamut-boulgour-et-bles-anciens",
+  "legumineuses",
+  "maladie-coeliaque-et-intolerances",
+  "millets-sorgho-teff-fonio-et-mais",
+  "psyllium-et-fibres-solubles",
+  "riz-blanc-complet-et-arsenic",
+  "sarrasin-quinoa-et-pseudo-cereales",
+  "seigle-et-orge"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 0,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [],
+ "preuve_globale": "A",
+ "resume": "Top 3 (critères : 1) preuve de l'effet, 2) dose efficace documentée, 3) prix, 4) tolérance ; le prix n'a pas été relevé, donc il ne départage pas) :",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Top 3** (critères : 1) preuve de l'effet, 2) dose efficace documentée, 3) prix, 4) tolérance ; le prix n'a pas été relevé, donc il ne départage pas) :\n  1. **Avoine** : plusieurs méta-analyses d'ECR sur le LDL (-0,19 à -0,29 mmol/L pour ~3 g/j de β-glucane) [A], allégation de santé UE ; réserve : un essai en conditions réelles n'a rien montré, et aucun critère clinique ([avoine](fiche:avoine-et-beta-glucanes)). Tolérance : bonne, sauf cœliaques (avoine non contaminée).\n  2. **Orge** (flocons, orge mondé) : même mécanisme et mêmes ordres de grandeur que l'avoine (LDL -0,25 mmol/L pour ~6,5 g/j de β-glucane) [A], mais hétérogénéité forte, effet glycémique limité au court terme ([seigle et orge](fiche:seigle-et-orge)). Contient du gluten.\n  3. **Céréales complètes de blé (pain, pâtes, boulgour complets)** : la plus large base observationnelle (RR mortalité 0,94 par 30 g/j, cardiovasculaire 0,92) [B] et petits effets glycémiques en essais [A] ([céréales complètes](fiche:cereales-completes-et-raffinees)) ; preuve causale plus faible, contient du gluten.\n- **Hors podium** : sarrasin, quinoa, millets, sorgho, kamut, riz complet, seigle : intéressants mais essais petits, courts ou rares.\n- **À ne pas surinterpréter** : tous ces effets sont modestes (LDL de 0,2 à 0,3 mmol/L, glycémie postprandiale) et portent sur des marqueurs.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "| Céréale | Meilleure preuve | Niveau | Gluten | Fiche |\n|---|---|---|---|---|\n| Avoine | LDL, 58 ECR | [A] | non (contamination possible) | [avoine](fiche:avoine-et-beta-glucanes) |\n| Orge | LDL, 14 ECR ; glycémie postprandiale, 31 essais | [A] | oui | [seigle et orge](fiche:seigle-et-orge) |\n| Blé complet | mortalité et maladie cardiovasculaire en cohortes | [B] | oui | [céréales complètes](fiche:cereales-completes-et-raffinees) |\n| Riz complet | diabète en cohortes ; essais sans effet sur HbA1c | [B] | non | [riz et arsenic](fiche:riz-blanc-complet-et-arsenic) |\n| Seigle | satiété à court terme, syndrome de l'intestin irritable | [B] | oui | [seigle et orge](fiche:seigle-et-orge) |\n| Sarrasin | 1 petit ECR (n = 19) | [B] | non | [sarrasin, quinoa](fiche:sarrasin-quinoa-et-pseudo-cereales) |\n| Quinoa | triglycérides (1 ECR) ; glycémie à jeun (7 ECR) | [B] | non | [sarrasin, quinoa](fiche:sarrasin-quinoa-et-pseudo-cereales) |\n| Millets, sorgho | IG bas ; petits essais sur diabétiques | [B] | non | [millets, sorgho, teff, fonio, maïs](fiche:millets-sorgho-teff-fonio-et-mais) |\n| Kamut | 5 petits ECR contre blé moderne | [B] | oui | [kamut, boulgour, blés anciens](fiche:kamut-boulgour-et-bles-anciens) |\n| Épeautre, engrain, boulgour, teff, fonio, amarante, maïs | aucun essai clinique trouvé | [?] | variable | — |",
+   "titre": "Comparatif"
+  },
+  {
+   "markdown": "- **Maladie cœliaque** : exclure blé, seigle, orge ; avoine uniquement « sans gluten » ([maladie cœliaque](fiche:maladie-coeliaque-et-intolerances)).\n- **Jeunes enfants** : limiter les produits à base de riz (arsenic) ([riz](fiche:riz-blanc-complet-et-arsenic)).\n- **Syndrome de l'intestin irritable** : les céréales riches en FODMAP (blé, seigle, orge) peuvent déclencher des symptômes.",
+   "titre": "Contre-indications qui changent le classement"
+  },
+  {
+   "markdown": "- Aucun comparatif direct entre céréales ; classement fondé sur la solidité des preuves disponibles.\n- Prix et disponibilité : non relevés [?].\n- Les cohortes sur les céréales complètes mélangent plusieurs céréales ; l'effet propre de chacune n'est pas séparé.\n\nVoir aussi : [alimentation : synthèse](fiche:alimentation) · [légumineuses](fiche:legumineuses) · [psyllium et fibres solubles](fiche:psyllium-et-fibres-solubles).",
+   "titre": "Limites de ce classement"
+  },
+  {
+   "markdown": "Chaque affirmation chiffrée est sourcée dans la fiche correspondante (liens du tableau). Aucune référence nouvelle.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Céréales : comparatif et top 3",
+ "type": "actif",
+ "unite": ""
+}

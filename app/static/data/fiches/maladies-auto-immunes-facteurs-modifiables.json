@@ -1,0 +1,93 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "maladies-auto-immunes-facteurs-modifiables",
+ "intro": "Périmètre : thyroïdite de Hashimoto, polyarthrite rhumatoïde (PR), lupus érythémateux systémique (LES). Ces maladies ont une forte part génétique et hormonale non modifiable (la PR est 3 fois plus fréquente chez la femme selon ameli, voir Statut réglementaire). La question utile : que peut-on réellement changer, et qu'est-ce qui est vendu sans preuve ?",
+ "liens": [
+  "infections-respiratoires-prevention",
+  "omega-3",
+  "prevention-des-cancers",
+  "probiotiques",
+  "selenium",
+  "tabac-et-alcool",
+  "vaccin-pneumocoque",
+  "vaccin-zona-shingrix",
+  "vaccins-respiratoires-grippe-covid-vrs",
+  "vitamine-d"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "24594022",
+  "15022327",
+  "26188616",
+  "35082139",
+  "34959772",
+  "25798805",
+  "28402245",
+  "38364839",
+  "38243784",
+  "38475833",
+  "37827694"
+ ],
+ "preuve_globale": "B",
+ "resume": "Seul facteur modifiable solidement associé : le tabac. PR : RR 1,26 dès 1 à 10 paquets-années, 1,94 à 21-30, plateau ~2 au-delà [A, observationnel] (PMID 24594022) ; LES : fumeur actuel OR 1,50 (1,09-2,08) et 1,56 (1,26-1,95), ex-fumeur sans excès net [A, observationnel] (PMID 15022327, 26188616)…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Seul facteur modifiable solidement associé : le tabac.** PR : RR 1,26 dès 1 à 10 paquets-années, 1,94 à 21-30, plateau ~2 au-delà [A, observationnel] (PMID 24594022) ; LES : fumeur actuel OR 1,50 (1,09-2,08) et 1,56 (1,26-1,95), ex-fumeur sans excès net [A, observationnel] (PMID 15022327, 26188616). Association, pas essai randomisé.\n- **Vitamine D 2000 UI/j, 5,3 ans (VITAL, n=25 871)** : maladies auto-immunes confirmées HR 0,78 (0,61-0,99 ; P=0,05) ; oméga-3 1 g/j HR 0,85 (0,67-1,08), non significatif [B, ECR unique n=25871] (PMID 35082139). Résultat limite, population ≥ 50 ans, non répliqué ici [?].\n- **Aucun régime « anti-inflammatoire » ne traite ni ne prévient ces maladies** : dans la PR, -0,9 cm de douleur sur 10 cm, 7 ECR à risque de biais élevé, certitude très faible [A, très faible certitude] (PMID 34959772).\n- **Hashimoto : pas de dépistage TSH démontré chez l'adulte asymptomatique** (USPSTF 2015 : preuves insuffisantes) ; lévothyroxine sans bénéfice chez ≥ 65 ans en hypothyroïdie fruste [B, ECR unique n=737] (PMID 25798805, 28402245).\n- **Traiter avant la maladie existe en recherche** (abatacept chez les sujets à haut risque de PR : 25 % vs 37 % de PR à 24 mois), mais n'est pas un soin courant [B, ECR unique n=213] (PMID 38364839).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Perte de tolérance immunitaire contre des antigènes du soi, sur terrain génétique et hormonal. Facteurs environnementaux invoqués : tabac (citrullination pulmonaire dans la PR), carence en vitamine D, dysbiose intestinale, infections [?] (mécanismes non relus ici, seule l'association tabac est chiffrée ci-dessus). Pour Hashimoto, la cause dominante des hypothyroïdies en région à iode suffisant (PMID 38243784, introduction) ; facteurs d'environnement comme l'iode ou le tabac non extraits [?].",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Levier | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Arrêt du tabac (PR, LES) | supprime un facteur de risque dose-dépendant | association RR ~2 PR ; OR ~1,5 LES [A, observationnel] (PMID 24594022, 15022327, 26188616). Effet de l'arrêt sur l'évolution d'une PR installée : non recherché [?] | non applicable | 0 |\n| Vitamine D (prévention) | immunomodulation proposée [?] | HR 0,78 [B, ECR unique n=25871] (PMID 35082139) ; voir [vitamine D](fiche:vitamine-d) | complément ou médicament selon dose | non recherché |\n| Oméga-3 (prévention) | idem | HR 0,85 non significatif [B, ECR unique n=25871] (PMID 35082139) ; voir [oméga-3](fiche:omega-3) | complément | non recherché |\n| Sélénium dans Hashimoto | antioxydant, sélénoprotéines | TSH SMD -0,21 (-0,43 à -0,02) sans lévothyroxine ; anticorps anti-TPO SMD -0,96 (-1,36 à -0,56), I² = 90 % ; effets indésirables OR 0,89 (0,46-1,75) ; certitude jugée modérée par les auteurs [A, hétérogène] (PMID 38243784). Bénéfice clinique (symptômes) non montré dans le résumé [?] | complément alimentaire | voir [sélénium](fiche:selenium) |\n| Probiotiques / microbiote | modulation intestinale | 80 ECR : amélioration possible dans LES, néphrite lupique, psoriasis, SEP, maladie de Crohn, RCH ; pas d'amélioration dans la PR ni la spondyloarthrite ; essais hétérogènes [A, faible certitude] (PMID 38475833). Risque de biais et certitude non extraits [?] | complément ou aliment | voir [probiotiques](fiche:probiotiques) |\n| Régimes « anti-inflammatoires » (PR) | apport en oméga-3, fibres, etc. | douleur -9,22 mm sur 100 mm (-14,15 à -4,29), 7 ECR, 326 participants, risque de biais élevé [A, très faible certitude] (PMID 34959772) | non applicable | variable |\n| Hydroxychloroquine (LES) | immunomodulateur | EULAR 2023 : recommandée pour tous les patients lupiques, dose cible 5 mg/kg/j, à ajuster selon le risque de poussée et toxicité rétinienne [B, recommandations d'experts] (PMID 37827694) | médicament sur ordonnance | non recherché |\n| Abatacept préventif (PR à haut risque : ACPA + symptômes) | blocage de la costimulation des lymphocytes T | pendant 12 mois de traitement : 6 % vs 29 % atteignent le critère principal ; à 24 mois 25 % vs 37 % de PR ; effets sur la douleur non maintenus à 24 mois [B, ECR unique n=213] (PMID 38364839) | hors AMM dans cette indication (non vérifié en BDPM) [?] | n/a |",
+   "titre": "Traitements et leviers classés par niveau de preuve"
+  },
+  {
+   "markdown": "- **VITAL (n=25 871 ; ≥ 50 ans hommes, ≥ 55 ans femmes ; suivi médian 5,3 ans)** : 123 vs 155 maladies auto-immunes confirmées sous vitamine D vs placebo ; 130 vs 148 sous oméga-3 vs placebo. Le bras vitamine D seul vs double placebo : HR 0,68 (0,48-0,94). Maladies incluses : PR, pseudo-polyarthrite rhizomélique, thyroïdite auto-immune, psoriasis et autres (PMID 35082139). La limite de significativité et la dose unique (2000 UI) invitent à ne pas généraliser [B, ECR unique n=25871].\n- **Dépistage de la thyroïde** : l'USPSTF conclut en 2015 que les preuves sont insuffisantes pour juger le rapport bénéfice/risque du dépistage de la dysfonction thyroïdienne chez l'adulte non enceinte et asymptomatique (recommandation I) (PMID 25798805). Recommandation française (HAS) : non consultée [?].\n- **Hypothyroïdie fruste** : dans TRUST (≥ 65 ans, TSH 4,60-19,99 mUI/L, T4 libre normale), la lévothyroxine (dose médiane 50 µg) fait baisser la TSH (3,63 vs 5,48) sans changer les scores de symptômes hypothyroïdiens (différence 0,0 ; -2,0 à 2,1) ni de fatigue [B, ECR unique n=737] (PMID 28402245). Ne dit rien sur la TSH très élevée ni sur la population jeune.\n- **Tabac et lupus** : méta-analyse de 9 études (7 cas-témoins, 2 cohortes) : fumeur actuel OR 1,50 (1,09-2,08), ancien fumeur OR 0,98 (0,75-1,27) (PMID 15022327) ; mise à jour 12 articles : actuel OR 1,56 (1,26-1,95), ancien OR 1,23 (0,93-1,63) [A, observationnel] (PMID 26188616).\n- **Tabac et PR** : 3 cohortes et 7 cas-témoins, 4 552 cas ; la PR séropositive pour le facteur rhumatoïde est plus liée (RR 2,47 ; 2,02-3,02) que la séronégative (RR 1,58 ; 1,15-2,18) pour le niveau d'exposition le plus élevé [A, observationnel] (PMID 24594022).\n- **Régimes** : les 12 études (7 en méta-analyse) ont toutes un risque de biais élevé ; Méditerranéen, végétarien, végan, cétogène agrégés (PMID 34959772).",
+   "titre": "Ce que montrent les essais"
+  },
+  {
+   "markdown": "- **Débutant** : ne pas fumer (arrêter si fumeur), voir [tabac et alcool](fiche:tabac-et-alcool) ; vaccins à jour si traitement immunosuppresseur : [zona](fiche:vaccin-zona-shingrix), [pneumocoque](fiche:vaccin-pneumocoque), [grippe/covid/VRS](fiche:vaccins-respiratoires-grippe-covid-vrs) (le choix du vaccin dépend du traitement, avis médical).\n- **Intermédiaire** : si dosage de 25-OH vitamine D bas, corriger (voir [vitamine D](fiche:vitamine-d)) ; ne pas compter dessus pour prévenir la maladie.\n- **Avancé** : en cas de symptômes évocateurs (douleurs articulaires inflammatoires, fatigue, éruption photosensible), consulter pour bilan et traitement de fond précoce ; suivre les recommandations spécialisées (EULAR) avec un rhumatologue.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Prendre du sélénium « pour la thyroïde » sans dosage ni indication, en croyant que baisser les anticorps anti-TPO guérit (l'effet clinique n'est pas montré dans le résumé de la méta-analyse) [?].\n- Doser les anticorps anti-TPO ou la TSH en dépistage sans symptôme et traiter un chiffre limite : l'essai TRUST ne montre pas de bénéfice chez les ≥ 65 ans.\n- Arrêter hydroxychloroquine ou immunosuppresseur au profit d'un régime : pas de preuve qu'un régime les remplace.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Régime anti-inflammatoire / sans gluten / AIP qui guérit la maladie auto-immune »** [M] : le seul chiffre solide trouvé est une baisse de douleur de 0,9 cm sur 10 cm dans la PR, certitude très faible [A, très faible certitude] (PMID 34959772). Régime sans gluten dans Hashimoto : non recherché [?].\n- **« Restaurer le microbiote pour guérir les maladies auto-immunes »** [M] : le signal agrégé existe pour quelques maladies mais pas pour la PR (PMID 38475833) ; qualité des essais non relue [?].\n- **« Les oméga-3 préviennent l'auto-immunité »** [M] : HR 0,85, intervalle 0,67-1,08 [B, ECR unique n=25871] (PMID 35082139).\n- **« Un gros dosage de vitamine D prévient »** : une dose de 2000 UI/j et un résultat limite ; pas de test de doses plus fortes dans le résumé [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Dans VITAL, le bras vitamine D + oméga-3 combinés (HR 0,69 ; 0,49-0,96) et le bras vitamine D seul (HR 0,68) ont des estimations proches, alors que les oméga-3 seuls restent non significatifs (HR 0,74 ; 0,54-1,03) : l'effet est porté surtout par la vitamine D si l'on prend les chiffres au pied de la lettre (PMID 35082139).\n- Chez les sujets à haut risque de PR (ACPA positif avec symptômes), la maladie n'apparaît que chez 37 % sous placebo à 24 mois : le traitement préventif concerne donc une population déjà identifiée par des anticorps et des douleurs (PMID 38364839).\n- Le plateau du risque tabagique dans la PR à ~20 paquets-années (RR 2,07 au-delà de 40) signifie que l'arrêt précoce compte plus que la réduction tardive [?] (interprétation, non testée).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Polyarthrite rhumatoïde : 320 000 personnes soignées en France en 2022, soit 0,46 % de la population ; 72 % des personnes traitées sont des femmes (ameli, page mise à jour le 2025-01-14, consultée le 2026-10-15). Pas de page ameli trouvée pour le lupus ni la thyroïdite de Hashimoto (404, consulté le 2026-10-15).\n- Hydroxychloroquine, immunosuppresseurs, biothérapies : médicaments sur ordonnance ; statut précis non consulté en BDPM [?].\n- Sélénium : complément alimentaire ; voir [sélénium](fiche:selenium).\n- Dépistage TSH, anticorps anti-TPO : recommandation HAS non consultée [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Douleurs et gonflements articulaires symétriques avec raideur matinale prolongée, ou éruption photosensible, aphtes, fatigue inexpliquée : bilan et rhumatologue.\n- Fatigue, prise de poids, frilosité, goitre : TSH.\n- Grossesse envisagée avec anticorps anti-TPO connus : avis médical (non traité ici) [?].",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 35082139 — Hahn J et al., *BMJ* 2022, VITAL maladies auto-immunes (résumé relu).\n- PMID 24594022 — Di Giuseppe D et al., *Arthritis Res Ther* 2014 (résumé relu).\n- PMID 15022327 — Costenbader KH et al., *Arthritis Rheum* 2004 (résumé relu).\n- PMID 26188616 — Jiang F et al., *Clin Rheumatol* 2015 (résumé relu).\n- PMID 38364839 — Cope AP et al., *Lancet* 2024, APIPPRA (résumé relu).\n- PMID 38243784 — Huwiler VV et al., *Thyroid* 2024, sélénium (résumé relu).\n- PMID 25798805 — LeFevre ML, *Ann Intern Med* 2015, USPSTF thyroïde (résumé relu).\n- PMID 28402245 — Stott DJ et al., *N Engl J Med* 2017, TRUST (résumé relu).\n- PMID 34959772 — Schönenberger KA et al., *Nutrients* 2021 (résumé relu).\n- PMID 38475833 — Zeng L et al., *BMC Med* 2024 (résumé relu).\n- PMID 37827694 — Fanouriakis A et al., *Ann Rheum Dis* 2024, EULAR LES (résumé relu).\n- Web : ameli.fr, polyarthrite rhumatoïde (« comprendre »), consulté le 2026-10-15.\n\nVoir aussi : [tabac et alcool](fiche:tabac-et-alcool), [prévention des cancers](fiche:prevention-des-cancers), [infections respiratoires](fiche:infections-respiratoires-prevention).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Maladies auto-immunes : ce qui est modifiable (Hashimoto, polyarthrite, lupus)",
+ "type": "condition",
+ "unite": ""
+}

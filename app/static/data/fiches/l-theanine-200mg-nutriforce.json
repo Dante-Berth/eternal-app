@@ -1,0 +1,72 @@
+{
+ "cibles": [
+  "cerveau",
+  "sante-mentale"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "l-theanine-200mg-nutriforce",
+ "intro": "",
+ "liens": [
+  "cafeine",
+  "l-theanine"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42410082",
+  "38975711",
+  "42761839",
+  "40977612",
+  "42176572"
+ ],
+ "preuve_globale": "B",
+ "resume": "Dose de 200 mg par gélule identique à celle testée en essai (bénéfice modeste sur l'attention en prise unique, [A, faible certitude]), mais à 0,57 € les 200 mg c'est cher : une L-théanine à 500 mg ou 250 mg coûte nettement moins par milligramme, et l'effet sur le stress/l'anxiété reste faible ou…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Dose de 200 mg par gélule identique à celle testée en essai (bénéfice modeste sur l'attention en prise unique, [A, faible certitude]), mais à 0,57 € les 200 mg c'est cher : une L-théanine à 500 mg ou 250 mg coûte nettement moins par milligramme, et l'effet sur le stress/l'anxiété reste faible ou non significatif.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur déclarée | Preuve |\n|---|---|---|\n| L-théanine | 200 mg/gélule | Prise unique de 200 mg : temps de réaction de choix amélioré (SMD 0,51 ; IC 95 % 0,25-0,77) ; stress aigu SMD 0,31, porté par des études à risque de biais élevé ; anxiété incohérente et non significative ; fatigue sans effet ; 31 ECR, n=1168 [A, faible certitude] (PMID 42410082) |\n| Excipients | HPMC (gélule végétale), maltodextrine | Sans objet |\n\nComposition et prix : nutriforce.fr, consulté le 2026-10-06. Forme (L-théanine de synthèse ou fermentation, marque type Suntheanine) non indiquée [?]. Analyse indépendante : aucune trouvée [?].",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Complément alimentaire (déclaration DGCCRF, décret n° 2006-352 ; consulté le 2026-10-06 via recherche web, source primaire non rouverte [?]). Non concerné par l'AMA à ma connaissance de la liste 2026, non revérifié [?]. Pas d'allégation de santé UE autorisée pour la L-théanine : les allégations de la marque sont du marketing [M].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque dit | Les études |\n|---|---|\n| Réduit stress et anxiété sans somnolence | Stress aigu modeste (SMD 0,31) et dépendant d'études biaisées ; anxiété non significative sauf une étude psychiatrique (400 mg/j 8 semaines) [A, faible certitude] (PMID 42410082). ECR 200 mg vs placebo avant un stress virtuel : aucun effet sur les marqueurs salivaires de stress, n=80 [B, ECR unique] (PMID 38975711) |\n| Améliore la qualité du sommeil | Mini-revue : 200-450 mg/j « peut soutenir » la qualité du sommeil, peu d'effet sur la durée [B] (PMID 42761839) ; pas de méta-analyse du sommeil lue ici [?] |\n| « Facilite la perte de graisse » | [M] ; aucune donnée recherchée [?] |\n| Avec le café, 1:1 à 1:2 caféine:théanine pour atténuer les nervosités | Athlètes d'élite (n=12, 3 mg/kg chacun) : moins d'anxiété et de tachycardie que la caféine seule [B, ECR unique petit] (PMID 40977612) ; esport, n=15 : meilleur temps de réaction auditif vs caféine seule [B] (PMID 42176572) |\n\nVoir la fiche [L-théanine](fiche:l-theanine) et [caféine](fiche:cafeine).",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Marque : 1 gélule (200 mg) par jour, de préférence le soir ; maximum 1 000 mg/j. Les essais lus utilisent 200 mg en prise unique 30-60 min avant la tâche (PMID 42410082) ; la mini-revue cite 100-400 mg (PMID 42761839).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- 60 gélules : 33,99 € (nutriforce.fr, 2026-10-06) ; deuxième vendeur français non relevé [?].\n- **0,57 €/gélule de 200 mg** ; à 1 gélule/j : 60 j, soit **≈ 17 €/mois** ; à 2/j : ≈ 34 €.\n- Alternatives (prix relevés 2026-10-06) : ESN, 100 mg × 45 gélules, 14,90 € (esn.com) soit 0,33 € les 100 mg, donc plus cher au mg ; FutuNatura L-théanine FORTE 500 mg × 90 gélules, 26,49 € (via recherche web ; page en 403, prix non confirmé [?]) soit ≈ 0,12 € les 200 mg. Alternative sans produit : une tasse de thé vert (≈ 8-25 mg de théanine par tasse, chiffre non sourcé ici [?]).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non consultés [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Effets graves : aucun rapporté dans la méta-analyse de 31 ECR ; comparaison des abandons placebo vs L-théanine sans signal [A, faible certitude] (PMID 42410082). Données à long terme et chez la femme enceinte : [?].\n- Interactions : hypotenseurs (effet additif possible) et sédatifs : [?] non vérifié dans PubMed ici.\n- Population à risque : enfants, grossesse, allaitement, sans données solides ici.",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- PMID 42410082 — Gerolymos C et al., *Mol Psychiatry* 2026. doi:10.1038/s41380-026-03727-9\n- PMID 42761839 — Cotter J, Kilpatrick HE, *Front Nutr* 2026. doi:10.3389/fnut.2026.1922819\n- PMID 38975711 — McAllister MJ et al., *Stress* 2024. doi:10.1080/10253890.2024.2375588\n- PMID 40977612 — Razazan R et al., *J Int Soc Sports Nutr* 2025. doi:10.1080/15502783.2025.2564238\n- PMID 42176572 — Arslan S et al., *Nutr Res* 2026. doi:10.1016/j.nutres.2026.04.007\n- Nutriforce, ESN, FutuNatura (tentative), consultés le 2026-10-06.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "L-théanine 200 mg — Nutriforce",
+ "type": "produit",
+ "unite": ""
+}

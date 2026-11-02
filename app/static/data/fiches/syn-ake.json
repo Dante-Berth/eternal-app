@@ -1,0 +1,70 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "peptide",
+ "id": "syn-ake",
+ "intro": "",
+ "liens": [
+  "acetyl-hexapeptide-8",
+  "aha-bha",
+  "palmitoyl-pentapeptide-4",
+  "toxine-botulique"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "37349941",
+  "41668671"
+ ],
+ "preuve_globale": "D",
+ "resume": "Petit peptide synthétique (INCI : *Dipeptide Diaminobutyroyl Benzylamide Diacetate*) vendu comme « effet botox-like » ou « venin de serpent en crème ».",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Petit peptide synthétique (INCI : *Dipeptide Diaminobutyroyl Benzylamide Diacetate*) vendu comme « effet botox-like » ou « venin de serpent en crème ».\n- **Preuves directes quasi nulles** : une seule étude à son nom trouvée, **in silico et in vitro** (docking moléculaire, simulation de dynamique, test antioxydant DPPH, cytotoxicité MTT, test d'Ames) : le peptide se lie in silico à des métalloprotéinases et à SIRT1, piège les radicaux libres selon la concentration (DPPH), et les auteurs concluent à une « dose sûre » après tests de cytotoxicité et de génotoxicité (détail des résultats non lu dans le résumé) [D] (PMID 37349941).\n- Chez l'humain, la seule donnée trouvée est un **sérum multi-actifs** (acétyl hexapeptide-8 + Syn-Ake + gluconolactone + autres) dont les rides s'améliorent à 12 semaines (rides statiques −35 à −69 % de score clinique, dynamiques −10 à −13 %), **sans contrôle isolant le Syn-Ake** et avec des auteurs salariés de L'Oréal [B] (PMID 41668671). On ne peut pas lui attribuer l'effet.\n- Comparaison avec la toxine botulique : aucun essai [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Marketing : « mimétique d'un peptide du venin de vipère qui relâche les muscles » [M] ; mécanisme non relu dans une source vérifiée pour cette fiche [?]. L'étude in silico propose une liaison à MMP-1/8/13 et à SIRT1 (PMID 37349941), hypothèses de modélisation.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Interactions avec MMP et SIRT1 | Docking : liaison stable à SIRT1 (−9,32 kcal/mol) et aux MMP ; stabilité sur 50 ns de simulation | [D] (PMID 37349941) |\n| Tolérance cellulaire | Une « dose sûre » déterminée par MTT (cytotoxicité) et test d'Ames (génotoxicité) ; valeurs non lues | [D] (PMID 37349941) |\n| Rides, sérum multi-actifs | 2 études cliniques (n=50 et n=42) : rides statiques −35 à −69 %, dynamiques −10 à −13 % à 12 semaines | [B, sans contrôle de l'actif] (PMID 41668671) |\n| Rides, Syn-Ake seul | Aucun essai trouvé | [?] |\n| Effet « botox-like » comparé à la toxine botulique | Aucun essai | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Concentrations de l'essai multi-actifs : non données dans le résumé lu [?]. Teneurs des produits du commerce : généralement non déclarées ; à vérifier sur chaque fiche produit.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Ingrédient cosmétique (INCI) présent dans des sérums et crèmes vendus en France. CosIng et restrictions UE : non consultés [?]. Pas de forme médicamenteuse ni injectable.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Les auteurs de l'étude in vitro déterminent une dose sûre en cytotoxicité et génotoxicité (PMID 37349941) : cela ne remplace pas un test de tolérance sur peau humaine ; données cliniques de tolérance spécifiques au Syn-Ake : aucune [?]. Les incompatibilités avec les acides forts, en général : voir [AHA et BHA](fiche:aha-bha).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Effet botox en crème / venin de serpent » : rien d'étayé chez l'humain ; l'effet relaxant de l'[acétyl hexapeptide-8](fiche:acetyl-hexapeptide-8), le plus étudié des peptides « botox-like », est lui-même faible et non comparé à la toxine.\n- « Prouvé cliniquement » : les essais cités par les marques portent sur des formules complètes, pas sur le peptide.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour.\n\nVoir aussi : [acétyl hexapeptide-8 (Argireline)](fiche:acetyl-hexapeptide-8), [palmitoyl pentapeptide-4 (Matrixyl)](fiche:palmitoyl-pentapeptide-4), [toxine botulique](fiche:toxine-botulique).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Gok B et al. *J Biomol Struct Dyn* 2024 — PMID 37349941 — [DOI](https://doi.org/10.1080/07391102.2023.2223681)\n2. Zhu M et al. *Int J Cosmet Sci* 2026 — PMID 41668671 — [DOI](https://doi.org/10.1111/ics.70087) (auteurs de L'Oréal, voir la fiche [Argireline](fiche:acetyl-hexapeptide-8))",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "Syn-Ake (dipeptide diaminobutyroyl benzylamide diacétate)",
+ "type": "actif",
+ "unite": ""
+}

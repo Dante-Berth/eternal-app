@@ -1,0 +1,74 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "peptide",
+ "id": "acetyl-hexapeptide-8",
+ "intro": "",
+ "liens": [
+  "rides-et-sillons-nasogeniens",
+  "the-ordinary-multi-peptide-copper-peptides-1"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42675285",
+  "28150423",
+  "42683869",
+  "36909866",
+  "41668671",
+  "41628877",
+  "41657122",
+  "42084412"
+ ],
+ "preuve_globale": "B",
+ "resume": "Hexapeptide cosmétique vendu comme « botox-like » contre les rides d'expression, par un mécanisme proposé de mimétisme de SNAP-25 [M] (PMID 42675285 le décrit comme « SNAP-25 mimetic », sans démontrer d'effet in vivo).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Hexapeptide cosmétique vendu comme « botox-like » contre les rides d'expression, par un mécanisme proposé de mimétisme de SNAP-25 [M] (PMID 42675285 le décrit comme « SNAP-25 mimetic », sans démontrer d'effet in vivo).\n- Humain : un petit ECR de 24 volontaires (60 jours) conclut à une activité anti-rides sur des mesures de microtopographie [B, ECR unique n=24] (PMID 28150423) ; les autres données sont des essais de formules multi-actifs, souvent industriels, qui ne permettent pas d'isoler l'effet du peptide [B].\n- Aucun essai ne le compare à un rétinoïde ni à la toxine botulique [?].\n- Pénétration : doute documenté ; les études récentes cherchent surtout à améliorer sa délivrance (microneedling, solvants, nanoparticules) [D].\n- Statut : cosmétique. Pas d'usage injectable à envisager (voir Formes disponibles).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Proposé : le peptide imiterait la partie N-terminale de SNAP-25 et gênerait l'assemblage du complexe SNARE, donc la libération d'acétylcholine, d'où un relâchement musculaire léger [M, mécanisme de marque]. Cité comme « SNAP-25 mimetic » dans le résumé d'une étude animale (PMID 42675285) : c'est une description, pas une preuve d'effet.\n- Une étude de 2026 sur une formule contenant l'AH-8 montre une hausse du collagène III en culture après exposition aux UV [D] (PMID 42683869, étude L'Oréal : conflit d'intérêt industriel).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Rides, microtopographie (peptide seul) | 24 volontaires randomisés en 4 groupes (AH-3 seul, tripeptide-10 citrulline seul, association, aucun), 60 jours : différences significatives vs baseline et entre groupes sur les paramètres cR2/cR3 du Visioscan ; baisse de la perte insensible en eau avec l'AH-3 | [B, ECR unique n=24] (PMID 28150423) |\n| Rides du contour de l'œil (Asie) | 21 femmes, 8 semaines, 3 groupes (AH-3, palmitoyl pentapeptide-4, placebo) : améliorations chez certains sujets sous AH-3 ; le pentapeptide-4 faisait mieux ; les auteurs appellent à un essai plus grand | [B, ECR unique n=21] (PMID 36909866) |\n| Sérum combiné (AH-8 + dipeptide diaminobutyroyl benzylamide + gluconolactone + niacinamide + laminaire) | 2 études cliniques (n=50 et n=42) : rides statiques −35 à −69 % de score clinique à 12 semaines, rides dynamiques −10 à −13 % ; **auteurs salariés de L'Oréal, sans contrôle isolant l'AH-8** | [B] (PMID 41668671) |\n| Injectable chez le rat (modèle de lambeau) | Argireline injectée : profil de collagène indistinguable du témoin, aucun effet tissulaire détectable | [C] (PMID 42675285) |\n| Photovieillissement chez la souris (AH-8 en microaiguilles dissolvantes) | Réduction des signes visibles (rides, laxité) ; peptide délivré en microaiguilles, pas en crème | [C] (PMID 41628877) |\n| Comparaison avec la toxine botulique | Aucun essai trouvé | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Concentrations des essais humains cités : non données dans les résumés (PMID 28150423, 36909866, 41668671) [?].\n- Vendu : concentration non déclarée sur The Ordinary Multi-Peptide (voir [fiche produit](fiche:the-ordinary-multi-peptide-copper-peptides-1)).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Topique cosmétique** : ingrédient INCI « Acetyl Hexapeptide-8 » présent dans des produits vendus en France (INCI du sérum The Ordinary, consulté le 2026-10-06). La fiche CosIng n'a pas pu être consultée (API et pages inaccessibles depuis cette session, 2026-10-06) : fonctions et restrictions UE à vérifier [?].\n- **Injectable** : aucune autorisation ; l'étude rat citée ci-dessus n'a montré aucun effet. Règle 7 : pas de détail d'usage.\n- **AMA** : non nommé dans la Liste 2026 d'après le décret n° 2025-1226 (Légifrance, consulté le 2026-10-03, non réexaminé aujourd'hui).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Aucun essai de sécurité dédié trouvé ; pas d'événement indésirable signalé dans les résumés des essais cités [?].\n- In vitro, sur kératinocytes HaCaT, l'argireline a montré une cytotoxicité à des concentrations plus basses qu'un extrait de Reishi et que l'α-arbutine [D] (PMID 41657122) ; transposition à la peau intacte non établie.\n- Incompatibilités entre actifs : aucune étude trouvée [?]. Grossesse : aucune donnée [?].\n- Un peptide à visée « myorelaxante » n'a aucune raison d'agir sur la peau sans pénétration : la question de la perméation est centrale (voir ci-dessous).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Effet botox en crème »** [M] : aucune comparaison directe avec la toxine ; l'effet mesuré dans le seul ECR concerne la microtopographie, pas la paralysie musculaire [B] (PMID 28150423). L'injection de l'argireline chez le rat n'a rien changé au collagène [C] (PMID 42675285).\n- **Pénétration** : plusieurs études de 2025-2026 conçoivent des systèmes (microneedling, solvants eutectiques, nanoparticules) précisément parce que l'AH-8 traverse mal le stratum corneum ; en ex vivo la fluorescence d'AH-8 marqué augmente de +504 à +1272 % avec microneedling ou refroidissement vs application simple [D] (PMID 42084412).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- [The Ordinary Multi-Peptide + Copper Peptides 1 %](fiche:the-ordinary-multi-peptide-copper-peptides-1) : contient l'AH-8 à concentration non déclarée, associé à d'autres peptides (effet isolé impossible à attribuer).\n- Alternative mieux prouvée pour les rides : rétinoïdes ([rides](fiche:rides-et-sillons-nasogeniens)).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Raikou V et al. *J Cosmet Dermatol* 2017 — PMID 28150423 — [DOI](https://doi.org/10.1111/jocd.12314)\n2. Aruan RR et al. *J Clin Aesthet Dermatol* 2023 — PMID 36909866 (pas de DOI)\n3. Zhu M et al. *Int J Cosmet Sci* 2026 — PMID 41668671 — [DOI](https://doi.org/10.1111/ics.70087)\n4. Zang S et al. *Int J Cosmet Sci* 2026 — PMID 42683869 — [DOI](https://doi.org/10.1111/ics.70140)\n5. Acuner B et al. *Aesthetic Plast Surg* 2026 — PMID 42675285 — [DOI](https://doi.org/10.1007/s00266-026-06225-z)\n6. Feng M et al. *Int J Biol Macromol* 2026 — PMID 41628877 — [DOI](https://doi.org/10.1016/j.ijbiomac.2026.150669)\n7. Yi KH et al. *J Craniofac Surg* 2026 — PMID 42084412 — [DOI](https://doi.org/10.1097/SCS.0000000000012829)\n8. Dikmen Kucuk S et al. *Int J Cosmet Sci* 2026 — PMID 41657122 — [DOI](https://doi.org/10.1111/ics.70079)\n9. The Ordinary, fiche Multi-Peptide + Copper Peptides 1 % (INCI) — https://theordinary.com/fr-fr/multi-peptide-copper-peptides-1-serum-100625.html (consultée le 2026-10-06)\n10. Décret n° 2025-1226 du 15 décembre 2025 (Liste des interdictions 2026) — https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053036083 (consulté le 2026-10-03)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "Acétyl hexapeptide-8 (Argireline)",
+ "type": "actif",
+ "unite": ""
+}

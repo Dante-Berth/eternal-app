@@ -1,0 +1,65 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "comportement",
+ "id": "pas-quotidiens-et-neat",
+ "intro": "Complément de [exercice-physique.md](fiche:exercice-physique). Toute la preuve sur les pas et la mortalité est observationnelle : [B] au maximum, même avec des méta-analyses (une méta-analyse de cohortes reste une association).",
+ "liens": [
+  "entrainement-en-resistance",
+  "equilibre-mobilite-et-prevention-chutes",
+  "exercice-physique",
+  "glycemie-et-prediabete"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "40713949",
+  "42117327",
+  "39680407",
+  "39384238"
+ ],
+ "preuve_globale": "B",
+ "resume": "Méta-analyse dose-réponse (57 études, 35 cohortes ; GRADE modérée) : inflexion de la courbe vers 5 000-7 000 pas/j pour la mortalité toutes causes, l'incidence cardiovasculaire, la démence et les chutes. 7 000 vs 2 000 pas/j : HR 0,53 (0,46-0,60) pour la mortalité toutes causes ; 0,75 pour les év…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Méta-analyse dose-réponse (57 études, 35 cohortes ; GRADE modérée) : inflexion de la courbe vers 5 000-7 000 pas/j pour la mortalité toutes causes, l'incidence cardiovasculaire, la démence et les chutes. 7 000 vs 2 000 pas/j : HR 0,53 (0,46-0,60) pour la mortalité toutes causes ; 0,75 pour les événements CV ; 0,62 pour la démence ; 0,72 pour les chutes [B, méta-analyse de cohortes] (PMID 40713949).\n- Chez les ≥ 65 ans : −13 % de mortalité par 1 000 pas/j supplémentaires (HR 0,87 ; 0,80-0,95), autour de 5 694 pas/j de moyenne, bénéfice similaire quelle que soit l'allure [B, méta-analyse de cohortes] (PMID 42117327).\n- Il n'y a pas de seuil magique à 10 000 pas : ce chiffre n'apparaît pas comme point d'inflexion dans la méta-analyse ci-dessus [B] (PMID 40713949).\n- Aucun ECR long sur la mortalité par les pas : causalité non démontrée (confusion par l'état de santé de base) [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Dépense énergétique hors exercice (NEAT) et interruption de la sédentarité ; mécanismes précis (métaboliques, vasculaires) non sourcés dans cette fiche [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Tag |\n|---|---|---|\n| Mortalité toutes causes | HR 0,53 (7 000 vs 2 000 pas/j), I² 36,3 %, 14 études | [B] (PMID 40713949) |\n| Mortalité CV | HR 0,53 (0,37-0,77), certitude faible | [B] (PMID 40713949) |\n| Mortalité par cancer | HR 0,63 (0,55-0,72) ; incidence : non significatif (HR 0,94) | [B] (PMID 40713949) |\n| Diabète de type 2 | HR 0,86 (0,74-0,99) | [B] (PMID 40713949) |\n| Symptômes dépressifs | HR 0,78 (0,73-0,83) ; confirmé par une méta-analyse dédiée aux pas et à la dépression (voir sources) | [B] (PMID 40713949, 39680407) |\n| Plateau | inflexion vers 5 000-7 000 pas/j (mortalité, CV, démence, chutes) | [B] (PMID 40713949) |\n| Ajout de 500-1 000 pas | associé à moins de mortalité et d'événements CV | [B, revue parapluie] (PMID 39384238) |\n| Cadence / intensité des pas | chez les ≥ 65 ans, bénéfice similaire quelle que soit l'allure ; autres études de cadence non vérifiées | [B] (PMID 42117327) ; reste [?] |\n| Sédentarité (temps assis) indépendamment des pas | non vérifié | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « 10 000 pas par jour » : repère issu du marketing, pas de seuil retrouvé dans les données [B] (PMID 40713949) ; le bénéfice augmente surtout entre 2 000 et 7 000.\n- « Marcher fait vivre plus longtemps » : association ; les personnes malades marchent moins (causalité inverse) [?].\n- « Plus de pas = toujours mieux » : plateau ; une revue parapluie signale une étude isolée avec +52 % de pathologies méniscales au-delà de 10 000 pas chez des sujets sans arthrose du genou (une seule étude, [B, faible]) (PMID 39384238).\n- Les pas ne remplacent pas la musculation : voir [entraînement en résistance](fiche:entrainement-en-resistance).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Faible risque de blessure rapporté (PMID 42117327). Augmenter progressivement en cas d'arthrose, de neuropathie, de maladie cardiaque ou de risque de chute [?].",
+   "titre": "Sécurité, contre-indications"
+  },
+  {
+   "markdown": "Douleur thoracique ou essoufflement à l'effort, douleurs de genou/hanche persistantes, chutes répétées (voir [équilibre et chutes](fiche:equilibre-mobilite-et-prevention-chutes)).\n\nVoir aussi : [Glycémie et prédiabète](fiche:glycemie-et-prediabete).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 40713949 — Ding D. et al., *Lancet Public Health* 2025. doi:10.1016/S2468-2667(25)00164-1\n- PMID 42117327 — Shah S. et al., *Am J Health Promot* 2026 (≥ 65 ans). doi:10.1177/08901171261438402\n- PMID 39384238 — Xu C. et al., *BMJ Open* 2024 (revue parapluie). doi:10.1136/bmjopen-2024-088524\n- PMID 39680407 — Bizzozero-Peroni B. et al., *JAMA Netw Open* (pas et dépression). Résultat chiffré non relevé ici.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Pas quotidiens et NEAT",
+ "type": "actif",
+ "unite": ""
+}

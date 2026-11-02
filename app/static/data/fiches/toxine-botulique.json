@@ -1,0 +1,83 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "",
+ "id": "toxine-botulique",
+ "intro": "",
+ "liens": [
+  "acide-hyaluronique-filler",
+  "retinoides",
+  "rides-et-sillons-nasogeniens"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 12,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "34224576",
+  "35560135",
+  "36099476",
+  "41508559",
+  "27495260",
+  "35178552",
+  "39623228",
+  "40852933",
+  "41040069",
+  "40391523",
+  "42554024",
+  "17119144"
+ ],
+ "preuve_globale": "A",
+ "resume": "L'acte esthétique le mieux prouvé pour les rides d'expression du tiers supérieur (glabelle, pattes d'oie, front) : revue Cochrane de 65 ECR [A], effet temporaire de quelques mois, risque principal de ptosis palpébral, et danger grave (botulisme) surtout avec les produits non autorisés et les inje…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "L'acte esthétique le mieux prouvé pour les rides d'expression du tiers supérieur (glabelle, pattes d'oie, front) : revue Cochrane de 65 ECR [A], effet temporaire de quelques mois, risque principal de ptosis palpébral, et danger grave (botulisme) surtout avec les produits non autorisés et les injecteurs illégaux.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- **Corrige** : rides dynamiques (dues à la contraction) de la glabelle, des pattes d'oie, du front [A] (PMID 34224576). Indications de l'AMM du Vistabel : rides intersourcilières, pattes d'oie, rides du front, chez l'adulte, quand leur sévérité a un retentissement psychologique important (BDPM, consulté le 2026-10-03).\n- **Ne corrige pas** : rides statiques profondes, perte de volume, sillon nasogénien (voir [filler](fiche:acide-hyaluronique-filler)), relâchement cutané (voir lifting (chirurgie, fiche non écrite)).\n- **« Micro-botox » / effet « lifting »** : revue systématique de 372 patients, définitions et sites d'injection très variables, évaluations patient/médecin très discordantes ; aucune conclusion possible [B] (PMID 35560135).",
+   "titre": "Ce que ça corrige / ne corrige pas"
+  },
+  {
+   "markdown": "- **Cochrane 2021** (65 ECR, 14 919 participants, surtout glabelle) : vs placebo, onabotulinumtoxinA 20 U → succès évalué par le patient à 4 semaines RR 19,45 (IC95 8,60-43,99 ; certitude modérée) ; abobotulinumtoxinA 50 U RR 21,22 (certitude élevée) ; pas de différence d'efficacité entre ces deux produits (RR 1,00) [A] (PMID 34224576). Aucun essai à faible risque de biais dans tous les domaines ; peu de données sur les cycles répétés et la durée d'effet.\n- **Durée** : méta-analyse de 14 ECR (8 369 sujets) avec onabotulinumtoxinA aux doses de l'AMM sur glabelle + pattes d'oie + front : retour au statut de non-répondeur en 182 jours en médiane (IC95 179-215) [A] (PMID 36099476).\n- Méta-analyse 2026 (10 essais, tiers supérieur) : réduction de sévérité importante (d de Cohen 1,93) mais hétérogénéité très forte (I² = 90 %) et biais de publication possible sur la satisfaction [A, hétérogène] (PMID 41508559).",
+   "titre": "Preuves (efficacité, durabilité) avec tags"
+  },
+  {
+   "markdown": "- **Ptosis palpébral** : plus fréquent qu'avec le placebo (glabelle : RR 5,56 ; IC95 1,68-18,38) ; aussi céphalées (RR 1,53) et paupières lourdes (RR 6,94) [A] (PMID 27495260). Cochrane : effets indésirables majeurs (surtout ptosis) Peto OR 3,62 vs placebo pour onabotulinumtoxinA 20 U [A, certitude modérée] (PMID 34224576).\n- Taux global de complications 16 % pour glabelle/front, surtout céphalées, réactions cutanées locales, symptômes neuromusculaires faciaux, transitoires [A] (PMID 35178552). Événements indésirables vs placebo : RR 1,22 (20 ECR) [A] (PMID 39623228).\n- Effets fréquents listés par la notice du Vistabel : céphalées, engourdissement, ptosis palpébral, nausées, érythème, faiblesse musculaire localisée, douleur faciale, œdème et ecchymose au point d'injection ; ptosis du sourcil pour le front (BDPM, consulté le 2026-10-03).\n- **Botulisme iatrogène** : revue de 113 cas, 46 % liés à des produits **non autorisés** ; dysphagie 82 %, ptosis 79 %, insuffisance respiratoire 12 % ; 86,7 % de guérison complète [B, revue de cas] (PMID 40852933). Épidémie en Angleterre en juin 2025 : 25 cas liés à deux praticiens et à un produit non autorisé dosé à 370 U/flacon au lieu des 200 U étiquetées [B, investigation d'épidémie] (PMID 41040069). Chine : 161 cas en 10 ans, la plupart injectés avec une toxine d'origine inconnue par des praticiens non autorisés hors cadre médical [B, série rétrospective] (PMID 40391523) ; 15 cas ventilés mécaniquement, ≈ 14 jours de ventilation en moyenne, 7 trachéotomies [B, série] (PMID 42554024). Cas historiques aux États-Unis : produit non autorisé hautement concentré, doses estimées à 2 857 fois la dose létale [B, série de 4 cas] (PMID 17119144).",
+   "titre": "Complications et fréquences"
+  },
+  {
+   "markdown": "- Médicament **liste I**, **prescription réservée aux spécialistes** en chirurgie plastique, reconstructrice et esthétique, dermatologie, chirurgie de la face et du cou, chirurgie maxillo-faciale et ophtalmologie ; réservé à l'usage professionnel (art. R5121-80 CSP) (BDPM, Vistabel 4 U, consulté le 2026-10-03).\n- Injections à visée esthétique par des non-médecins : illégales, exercice illégal de la médecine (réponse ministérielle, question écrite AN n° 7585, JO du 23 mai 2023, consulté le 2026-10-03).\n- L'ANSM rappelle que les produits injectables esthétiques sont réservés aux professionnels, que la toxine botulique est soumise à prescription, et met en garde contre les produits falsifiés (prix très attractifs, achat hors fournisseurs officiels) (ANSM, actualité du 19 mars 2021, mise à jour le 16 avril 2021, consultée le 2026-10-03).\n- Signalements d'injections illégales de toxine et d'acide hyaluronique à l'Ordre des médecins : 16 (2020), 55 (2022), 104 (2023), chiffres cités dans la question écrite AN n° 16805 (JO du 2 avril 2024, sans réponse ministérielle, consultée le 2026-10-03).\n- AMA : la toxine botulique ne figure pas parmi les substances interdites [?] (liste AMA non consultée dans cette session).",
+   "titre": "Qui peut le pratiquer en France (réglementation)"
+  },
+  {
+   "markdown": "- 200 à 450 € selon les zones (AFME, tarifs moyens mis à jour le 20 novembre 2022, consulté le 2026-10-03) ; ≈ 350 € pattes d'oie + front (Dr Mayeux, Paris 16, consulté le 2026-10-03) ; à partir de 450 € (Dr Dlimi, Lyon, consulté le 2026-10-03). Sources de praticiens : fait de prix uniquement.\n- Effet ≈ 6 mois en médiane aux doses de l'AMM [A] (PMID 36099476) : soit ≈ 400 à 900 € par an pour 2 séances.",
+   "titre": "Coût et durabilité"
+  },
+  {
+   "markdown": "- Rétinoïdes topiques pour les rides fines (pas pour les rides dynamiques) : voir [rétinoïdes](fiche:retinoides).\n- Photoprotection : [?] dans ce repo.\n- Aucune crème « effet botox » n'a de preuve comparable : voir [rides](fiche:rides-et-sillons-nasogeniens).",
+   "titre": "Alternatives moins invasives"
+  },
+  {
+   "markdown": "- Injecteur non médecin, injection à domicile, en institut ou lors de « botox parties » ; produit sorti d'un flacon sans boîte ni étiquette française ; prix anormalement bas (ANSM 2021).\n- Après injection, **urgence** : difficulté à avaler, à parler, à respirer, vision double, faiblesse des membres (signes de botulisme, apparition le plus souvent dans les 4 jours) [B] (PMID 40852933).\n- Doses élevées (masséters, mollets, aisselles) : cas graves décrits avec des injections de mollets et de mâchoire [B] (PMID 42554024).",
+   "titre": "Signaux d'alerte (praticien, tourisme médical, produits)"
+  },
+  {
+   "markdown": "- **« Baby botox / micro-botox = lifting sans chirurgie »** [M] : aucune preuve exploitable [B] (PMID 35560135).\n- **« Crèmes et peptides effet botox »** [M] : voir la fiche [rides](fiche:rides-et-sillons-nasogeniens).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Camargo CP et al., *Cochrane Database Syst Rev* 2021 — PMID 34224576 — [DOI](https://doi.org/10.1002/14651858.CD011301.pub2)\n- Rahman E et al., *Aesthet Surg J* 2023 — PMID 36099476 — [DOI](https://doi.org/10.1093/asj/sjac253)\n- Safia A et al., *J Cosmet Dermatol* 2026 — PMID 41508559 — [DOI](https://doi.org/10.1111/jocd.70655)\n- Jia Z et al., *Aesthetic Plast Surg* 2016 — PMID 27495260 — [DOI](https://doi.org/10.1007/s00266-016-0682-1)\n- Zargaran D et al., *Aesthet Surg J* 2022 — PMID 35178552 — [DOI](https://doi.org/10.1093/asj/sjac036)\n- Zhang W et al., *Aesthetic Plast Surg* 2024 — PMID 39623228 — [DOI](https://doi.org/10.1007/s00266-024-04539-4)\n- Ng ZY et al., *Dermatol Surg* 2022 — PMID 35560135 — [DOI](https://doi.org/10.1097/DSS.0000000000003483)\n- Abouelkheir AR et al., *Cutan Ocul Toxicol* 2025 — PMID 40852933 — [DOI](https://doi.org/10.1080/15569527.2025.2547599)\n- Jasperse J et al., *Euro Surveill* 2025 — PMID 41040069 — [DOI](https://doi.org/10.2807/1560-7917.ES.2025.30.39.2500746)\n- Qiu H et al., *Aesthet Surg J* 2025 — PMID 40391523 — [DOI](https://doi.org/10.1093/asj/sjaf088)\n- Yang P et al., *Clin Toxicol* 2026 — PMID 42554024 — [DOI](https://doi.org/10.1080/15563650.2026.2703260)\n- Chertow DS et al., *JAMA* 2006 — PMID 17119144 — [DOI](https://doi.org/10.1001/jama.296.20.2476)\n- Réglementation : [BDPM, Vistabel 4 unités](https://base-donnees-publique.medicaments.gouv.fr/medicament/68150775/extrait) ; [ANSM, produits injectables falsifiés](https://ansm.sante.fr/actualites/produits-injectables-utilises-en-esthetique-pour-le-traitement-des-rides-attention-aux-marchandises-falsifiees) ; [question écrite AN n° 7585](https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE7585) ; [question écrite AN n° 16805](https://www.assemblee-nationale.fr/dyn/16/questions/QANR5L16QE16805) (consultés le 2026-10-03).\n- Prix : [AFME](https://www.afme.org/prix-soins-tarifs-medecine-esthetique/), [Dr Mayeux](https://www.paris-medecine-esthetique.fr/tarifs/), [Dr Dlimi](https://www.chirurgieesthetiquelyon.com/tarifs-de-la-chirurgie-et-medecine-esthetique-2026) (consultés le 2026-10-03 ; fait de prix uniquement).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Toxine botulique à visée esthétique (rides d'expression)",
+ "type": "acte",
+ "unite": ""
+}

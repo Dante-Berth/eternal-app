@@ -1,0 +1,65 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "medicament",
+ "id": "vaccins-dtcap-et-hpv-adulte",
+ "intro": "",
+ "liens": [
+  "depistage-cancer-colorectal",
+  "vaccin-pneumocoque",
+  "vaccin-zona-shingrix",
+  "vaccins-respiratoires-grippe-covid-vrs"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "31008974",
+  "30269918",
+  "19493565",
+  "21629249",
+  "29740819"
+ ],
+ "preuve_globale": "B",
+ "resume": "dTcaP : rappels à 25, 45, 65 ans puis tous les 10 ans (SPF, consulté le 2026-10-15). Méta-analyse de 17 essais sur les rappels coquelucheux de l'adolescent et de l'adulte : protection de 88,89 % après vaccination mais efficacité « à court terme » ; effets indésirables digestifs plus fréquents ave…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- dTcaP : rappels à 25, 45, 65 ans puis tous les 10 ans (SPF, consulté le 2026-10-15). Méta-analyse de 17 essais sur les rappels coquelucheux de l'adolescent et de l'adulte : protection de 88,89 % après vaccination mais efficacité « à court terme » ; effets indésirables digestifs plus fréquents avec Tdap vs Td (nausées RR 1,26, vomissements RR 2,08) [A, essais hétérogènes, court terme]. Efficacité clinique sur la coqueluche de l'adulte à long terme : [?].\n- HPV adulte : chez les femmes de 24-45 ans, qHPV : efficacité 88,7 % (78,1-94,8) sur infection persistante, CIN ou lésions génitales des types vaccinaux, en per protocole, suivi médian 4,0 ans [B, ECR unique n=3 819]. Chez celles déjà exposées (séropositives, ADN négatives) : 66,9 % (4,3-90,6).\n- Cochrane (essentiellement < 26 ans) : CIN2+ associé à HPV16/18 chez les 24 ans et plus : RR 0,30 (0,11-0,81), certitude modérée, avec des essais non assez longs pour juger le cancer [A].\n- France : rattrapage HPV jusqu'à 26 ans pour tous depuis le 19 décembre 2025 ; au-delà de 26 ans : pas de recommandation retrouvée [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- dTcaP : anatoxines tétanique et diphtérique + antigènes coquelucheux acellulaires. L'immunité anti-coquelucheuse décroît en 5-10 ans selon SPF ; elle ne bloque pas toujours le portage.\n- HPV : pseudo-particules virales L1 ; protègent des types inclus (Gardasil 9 : 9 types), pas des types non couverts, d'où la poursuite du dépistage (voir [dépistage colorectal](fiche:depistage-cancer-colorectal) pour la logique de dépistage organisé).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### dTcaP\n- PMID 31008974 : 17 essais de vaccin à composant coquelucheux chez adolescents et adultes ; protection 88,89 % après vaccination ; la qualité est en partie non précisée dans le résumé ; effet à long terme et sur la mortalité non rapportés [A, court terme].\n- Tétanos et diphtérie : protection reposant sur la séroprotection ; mise en évidence de la persistance des anticorps antitétaniques dans l'étude PMID 30269918 (résumé non relu pour les chiffres) [B]. Pas de nouvelle donnée sur l'incidence réelle du tétanos en France recherchée [?].\n- Coqueluche : cas en hausse en France et en Europe depuis 2024 ; efficacité de 85 % à presque 100 % chez le nourrisson selon SPF (donnée de la page, sans étude citée) ; le principal enjeu est la protection du nourrisson (vaccination de la femme enceinte dès la 20e semaine, cocooning).\n\n### HPV adulte\n- Muñoz et al., 24-45 ans : essai randomisé en double aveugle du qHPV (PMID 19493565, résumé non relu pour les chiffres) ; analyse de fin d'étude : 88,7 % per protocole ; 66,9 % si exposée ; aucune réaction grave liée au vaccin [B, ECR unique n=3 819] (PMID 21629249). Financement de l'essai : non vérifié dans le résumé.\n- Cochrane 2018 : 26 essais (73 428 participants) ; moins de 26 ans, naïves : CIN2+ HPV16/18 de 164 à 2 pour 10 000 ; 24 ans et plus (HPV16/18 négatives) : de 45 à 14 pour 10 000 [A] (PMID 29740819). Cancer du col : non évalué faute de durée.\n- Hommes adultes : non recherché [?].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "(Santé publique France, vaccination-info-service.fr, consulté le 2026-10-15 ; HAS et calendrier du ministère non consultés directement : le site du ministère a opposé une vérification anti-robot.)\n- dTcaP : rappels à 25, 45, 65 ans, puis tous les 10 ans (75, 85...) ; pas de rappel coquelucheux systématique en dehors de la grossesse et des contacts de nourrissons (dernière dose de plus de 5 ans), selon SPF.\n- Grossesse : dTcaP à chaque grossesse, entre 20 et 36 semaines d'aménorrhée.\n- HPV : dès 11 ans, rattrapage jusqu'à 26 ans pour les deux sexes depuis le 19 décembre 2025 ; 3 doses si vaccination entre 15 et 26 ans ; Gardasil 9. Remboursement 65 % (100 % campagne scolaire). Dépistage du col maintenu : tous les 3 ans de 25 à 30 ans, tous les 5 ans de 30 à 65 ans.\n- Remboursement dTcaP : 65 %.",
+   "titre": "Recommandations françaises"
+  },
+  {
+   "markdown": "- dTcaP : douleur, rougeur ou gonflement locaux, fièvre, myalgies ; allergie grave très rare. Contre-indications : allergie aux composants ; encéphalopathie de cause inconnue dans les 7 jours suivant un vaccin coquelucheux ; report si fièvre aiguë.\n- HPV : réactions locales fréquentes, fièvre et douleurs musculaires assez fréquentes ; surveillance de 15 min ; pas d'augmentation de maladies auto-immunes dans des études indépendantes selon SPF (source non relue ici) [?].",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- « Se vacciner contre le HPV après 26 ans protège autant » : l'effet absolu est plus faible chez les femmes déjà exposées ; seuls 3 essais ont inclus des femmes de 25 ans et plus (Cochrane).\n- « Le tétanos nécessite un rappel tous les 10 ans à vie » : en France, les rappels adultes sont à 25, 45, 65 ans puis tous les 10 ans.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 31008974 — Xu Y et al., *Medicine (Baltimore)* 2019\n- PMID 30269918 — Ferlito et al., *Vaccine* 2018 (résumé non relu pour les chiffres)\n- PMID 19493565 — Muñoz N et al., *Lancet* 2009 (résumé non relu pour les chiffres)\n- PMID 21629249 — Castellsagué X et al., *Br J Cancer* 2011. doi:10.1038/bjc.2011.201\n- PMID 29740819 — Arbyn M et al., *Cochrane Database Syst Rev* 2018\n- Web, consulté le 2026-10-15 : vaccination-info-service.fr (Santé publique France), pages Coqueluche, HPV, Adultes 27-64 ans (mise à jour du 2026-04-20).\n\nVoir aussi : [grippe, covid, VRS](fiche:vaccins-respiratoires-grippe-covid-vrs), [zona](fiche:vaccin-zona-shingrix), [pneumocoque](fiche:vaccin-pneumocoque), [dépistage colorectal](fiche:depistage-cancer-colorectal).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Vaccins de l'adulte : tétanos-diphtérie-coqueluche et HPV",
+ "type": "actif",
+ "unite": ""
+}

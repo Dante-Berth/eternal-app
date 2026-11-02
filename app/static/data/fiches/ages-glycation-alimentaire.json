@@ -1,0 +1,86 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-31",
+ "famille": "alimentation",
+ "id": "ages-glycation-alimentaire",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "biomarqueur-hba1c",
+  "biomarqueur-reins-creatinine-cystatine-albuminurie",
+  "carnosine-et-anserine",
+  "carnosine-topique",
+  "cereales-completes-et-raffinees",
+  "glycemie-et-prediabete",
+  "legumineuses",
+  "regime-faible-index-glycemique",
+  "regime-mediterraneen"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "20497781",
+  "23361161",
+  "38607509",
+  "41588485",
+  "41396304",
+  "32661621"
+ ],
+ "preuve_globale": "B",
+ "resume": "Les AGEs (advanced glycation end-products) se forment dans le corps (métabolisme normal) et dans les aliments chauffés. Les aliments riches en graisse et en protéines animales, cuits à sec et à haute température, en contiennent le plus ; fruits, légumes, céréales complètes et lait en contiennent…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Les AGEs (advanced glycation end-products) se forment dans le corps (métabolisme normal) et dans les aliments chauffés. Les aliments riches en graisse et en protéines animales, cuits à sec et à haute température, en contiennent le plus ; fruits, légumes, céréales complètes et lait en contiennent peu, même cuits (PMID 20497781) [B, base de données du même groupe, mesures sur aliments].\n- **Le levier de réduction est la cuisson**, pas l'aliment seul : chaleur humide, temps court, température basse, ingrédient acide (citron, vinaigre) réduisent la formation de nouveaux AGEs (PMID 20497781) [B, mesures sur aliments].\n- **Ce qu'on ne sait pas** : si manger moins d'AGEs améliore la santé. La revue systématique disponible conclut à des preuves insuffisantes pour le recommander (12 essais, 289 participants, qualité faible à très faible) (PMID 23361161) [A, faible certitude].\n- Un taux élevé d'AGEs dans les tissus prédit la mortalité et les événements cardiovasculaires, mais c'est une association observationnelle : elle ne prouve pas que réduire les AGEs alimentaires change le risque [A, observationnel].\n- Conseil pragmatique : les gestes qui baissent les AGEs (moins de viande grillée/frite, plus de légumes, fruits, céréales complètes, cuisson douce) sont déjà ceux de l'alimentation à preuve plus solide ([alimentation](fiche:alimentation)). Pas besoin de compléments « anti-AGEs ».",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Réaction de Maillard / glycation : des sucres réducteurs réagissent avec des protéines, lipides ou acides nucléiques, puis les produits se stabilisent en AGEs (carboxyméthyl-lysine, CML, est un marqueur courant) (PMID 38607509, PMID 20497781).\n- Deux sources : formation endogène (augmentée quand la glycémie est élevée) et apport alimentaire. La part de l'apport alimentaire qui s'accumule dans l'organisme n'est pas établie dans les articles vérifiés ici [?].\n- La fluorescence des AGEs et le contenu en CML se corrèlent mal entre eux dans les aliments testés (PMID 38607509) : « teneur en AGEs » dépend de la méthode de mesure, ce qui rend les tableaux d'aliments peu comparables entre eux.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Tag |\n|---|---|---|\n| Quels aliments / modes de cuisson en contiennent le plus ? | Chaleur sèche : formation de nouveaux AGEs multipliée par plus de 10 à 100 par rapport au cru ; aliments animaux gras et protéinés riches en AGEs ; légumes, fruits, céréales complètes, lait pauvres même cuits (PMID 20497781) | [B] |\n| Aliments transformés | Sauces (tomate, piment), fromage, nuggets, pizza, biscuits : teneurs élevées dans 58 aliments indiens ; plus la cuisson est chaude, plus les AGEs montent (PMID 38607509) | [B] |\n| Réduire la formation à la cuisson | Chaleur humide, temps court, température basse, ingrédients acides (citron, vinaigre) (PMID 20497781) | [B] |\n| Un régime pauvre en AGEs améliore-t-il la santé ? | Méta-analyse de 2 essais de 16 semaines chez adultes sains : 8-isoprostanes et TNF-α plus bas (SMD 0,9 et 1,3). Essais isolés : HOMA-IR et LDL modifié par AGE plus bas chez diabétiques de type 2. Mais 75 % des études durent moins de 6 semaines, plus de la moitié sont de faible qualité, aucune conclusion clinique (PMID 23361161) | [A, faible certitude] |\n| Résultats cliniques durs (infarctus, mortalité) d'un régime pauvre en AGEs | Aucun essai trouvé dans cette recherche | [?] |\n| Les AGEs tissulaires prédisent-ils le risque ? | Autofluorescence cutanée élevée : mortalité toutes causes HR 1,59 (IC 95 % 1,37-1,85), événements cardiovasculaires HR 1,64 (1,34-2,03), AVC HR 2,33 (1,49-3,32) (24 études, 12 361 participants) (PMID 41588485) ; par unité d'autofluorescence : mortalité HR 1,51 (1,35-1,69) (PMID 41396304). Associations plus fortes en insuffisance rénale terminale et dialyse (PMID 41588485, PMID 32661621) | [A, observationnel : association, pas causalité] |\n| Effet sur la peau (rides, élasticité) d'un régime pauvre en AGEs | Non recherché dans cette fiche | [?] |\n\nLimites à garder en tête :\n- L'autofluorescence cutanée mesure l'accumulation tissulaire, qui dépend aussi de la glycémie, de la fonction rénale, du tabac et de l'âge. Elle ne mesure pas l'apport alimentaire.\n- Les données les plus citées sur les teneurs des aliments (PMID 20497781) viennent d'un groupe unique et d'un financement public (NIH) ; les mesures varient selon la méthode (PMID 38607509).",
+   "titre": "Preuves"
+  },
+  {
+   "markdown": "Chaque point repose sur des mesures de teneur dans les aliments, pas sur un bénéfice santé démontré.\n1. **Cuisson** : privilégier vapeur, bouillir, pocher, mijoter, cuisson en cocotte ; éviter grillades, friture, rôtissage à sec et saisie à haute température quand c'est possible (PMID 20497781) [B].\n2. **Durée et température** : cuire moins longtemps, plus doux (PMID 20497781) [B].\n3. **Acidifier** : mariner ou assaisonner avec du citron ou du vinaigre avant cuisson réduit la formation (PMID 20497781) [B].\n4. **Choix des aliments** : plus de légumes, fruits, céréales complètes, légumineuses, lait ; moins de viandes grasses cuites à sec, charcuteries, fromages affinés ou fondus, plats industriels dorés et biscuits (PMID 20497781, PMID 38607509) [B]. Les légumineuses et céréales complètes sont détaillées dans [légumineuses](fiche:legumineuses) et [céréales complètes et raffinées](fiche:cereales-completes-et-raffinees).\n5. **Agir sur la source endogène** : contrôler la glycémie quand elle est élevée ([glycémie et prédiabète](fiche:glycemie-et-prediabete), [régime à faible index glycémique](fiche:regime-faible-index-glycemique)). Le lien entre glycémie et AGEs tissulaires est mécanistique mais n'a pas été vérifié par une référence dans cette fiche [?].",
+   "titre": "Comment réduire l'exposition (sans extrapoler au-delà des données)"
+  },
+  {
+   "markdown": "- Les listes « aliments à éviter à cause des AGEs » circulent sur des blogs ; les teneurs varient fortement selon la méthode de mesure (PMID 38607509). Ne pas traiter un chiffre isolé comme absolu.\n- Éviter toute cuisson « pour les AGEs » ne se justifie pas par un résultat clinique démontré (PMID 23361161). Ce qui est solide pour la santé reste le profil alimentaire global (voir [régime méditerranéen](fiche:regime-mediterraneen)).\n- Compléments « anti-glycation » (carnosine, etc.) : voir [carnosine topique](fiche:carnosine-topique) (données surtout ex vivo) et [carnosine et ansérine](fiche:carnosine-et-anserine). Efficacité pour baisser les AGEs chez l'humain : non recherchée ici [?].",
+   "titre": "Mythes marketing et pièges"
+  },
+  {
+   "markdown": "Pas de statut propre : il s'agit de contaminants de process de cuisson et d'un concept nutritionnel, pas d'une substance autorisée ou interdite. Pas de valeur réglementaire AGEs dans les aliments recherchée ici [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- Réduire les AGEs par la cuisson douce ne présente pas de risque propre ; attention à la **sécurité microbiologique** : cuire à cœur la volaille, la viande hachée et le porc reste nécessaire, même si la cuisson douce est plus longue (point général de sécurité alimentaire, non tiré d'une référence de cette fiche).\n- Populations où les AGEs tissulaires sont le plus associés au risque : insuffisance rénale terminale, dialyse, diabète (PMID 41588485, PMID 41396304). Ces personnes doivent en parler à leur néphrologue ou diabétologue plutôt que de restreindre seules leur alimentation.",
+   "titre": "Sécurité, populations à risque"
+  },
+  {
+   "markdown": "Glycémie et HbA1c ([HbA1c](fiche:biomarqueur-hba1c)), fonction rénale ([reins](fiche:biomarqueur-reins-creatinine-cystatine-albuminurie)) : ce sont les leviers cliniques qui agissent sur la glycation, avec un suivi standardisé. L'autofluorescence cutanée n'est pas un examen de routine en France d'après les articles lus (usage de recherche et de cardiologie/néphrologie) ; son utilité clinique reste à valider (PMID 41588485).",
+   "titre": "Ce qu'un médecin pourrait évaluer"
+  },
+  {
+   "markdown": "- Essais de régime pauvre en AGEs après 2013 (la revue de référence s'arrête fin 2012).\n- Mesures d'AGEs alimentaires par LC-MS/MS (plus spécifiques que ELISA/fluorescence).\n- Effet cutané et rénal d'un régime pauvre en AGEs chez l'humain.\n- Part de l'apport alimentaire réellement absorbée et accumulée.",
+   "titre": "Points à approfondir"
+  },
+  {
+   "markdown": "1. Uribarri J, Woodruff S, Goodman S, et al. Advanced glycation end products in foods and a practical guide to their reduction in the diet. J Am Diet Assoc. 2010;110(6):911-16. PMID 20497781. DOI 10.1016/j.jada.2010.03.018. Lu contre le résumé.\n2. Kellow NJ, Savige GS. Dietary advanced glycation end-product restriction for the attenuation of insulin resistance, oxidative stress and endothelial dysfunction: a systematic review. Eur J Clin Nutr. 2013;67(3):239-48. PMID 23361161. DOI 10.1038/ejcn.2012.220. Lu contre le résumé.\n3. Gottumukkala A, Shakappa D. Estimation of Advanced Glycation End Products in Selected Foods and Beverages by Spectrofluorimetry and ELISA. Plant Foods Hum Nutr. 2024;79(2):277-284. PMID 38607509. DOI 10.1007/s11130-024-01173-y. Lu contre le résumé.\n4. Li AC-W, Huang S-W, Chang J-T, Lin DS-H. Differential impact of advanced glycation end-products on cardiovascular risk across patient populations measured by skin autofluorescence: a meta-analysis. Eur J Med Res. 2026;31(1):320. PMID 41588485. DOI 10.1186/s40001-026-03912-0. Lu contre le résumé.\n5. Pascual-Morena C, Lucerón-Lucas-Torres M, Martínez-García I, et al. Association between skin autofluorescence and all-cause mortality, cardiovascular mortality and cardiovascular disease: a systematic review and meta-analysis. Clin Res Cardiol. 2025. PMID 41396304. DOI 10.1007/s00392-025-02818-x. Lu contre le résumé.\n6. Varikasuvu SR, Sulekar H, Aloori S, Thangappazham B. The association of non-invasive skin autofluorescence measurements with cardiovascular and all-cause mortality in hemodialysis patients: a meta-analysis. Int Urol Nephrol. 2020;52(9):1757-1769. PMID 32661621. DOI 10.1007/s11255-020-02543-6. Lu contre le résumé.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "AGEs alimentaires (produits de glycation avancée) : réduire l'exposition",
+ "type": "actif",
+ "unite": ""
+}

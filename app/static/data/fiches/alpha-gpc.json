@@ -1,0 +1,73 @@
+{
+ "cibles": [
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "alpha-gpc",
+ "intro": "",
+ "liens": [
+  "citicoline",
+  "creatine",
+  "declin-cognitif-et-neurodegenerescence",
+  "ginkgo",
+  "huperzine-a"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "34817582",
+  "40155153",
+  "38875437",
+  "41426989"
+ ],
+ "preuve_globale": "B",
+ "resume": "Donneur de choline vendu comme « nootrope » et « booster de force ». Aucune méta-analyse d'ECR contre placebo trouvée ; l'essentiel de la preuve est coréen, observationnel, et contradictoire sur l'AVC.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Donneur de choline vendu comme « nootrope » et « booster de force ». Aucune méta-analyse d'ECR contre placebo trouvée ; l'essentiel de la preuve est coréen, observationnel, et **contradictoire sur l'AVC**.\n- **Cohorte coréenne de 12 millions de personnes de ≥ 50 ans** : les utilisateurs d'alpha-GPC ont un risque d'AVC plus élevé, aHR 1,46 (1,43–1,48), avec une relation dose-réponse [B, cohorte rétrospective] (PMID 34817582). **Une autre cohorte coréenne** (508 107 patients avec MCI) conclut l'inverse : moindre conversion en démence d'Alzheimer (HR 0,899) et vasculaire (HR 0,832), moindre risque d'AVC chez ceux qui ne convertissent pas [B, cohorte rétrospective] (PMID 40155153). Ni l'une ni l'autre ne prouve de causalité (biais d'indication).\n- **Alzheimer, en ajout au donépézil** : un essai coréen mixte (double aveugle + ouvert, n=119) trouve plus d'amélioration que le donépézil seul, mais sur de petits écarts [B, ECR n=119 mixte] (PMID 38875437).\n- **Face à la citicoline** : 3 ECR, 358 participants, avantage de l'alfoscerate sur le score SCAG (WMD −3,92 ; −7,41 à −0,42) [A, 3 ECR] (PMID 41426989).\n- **Force, puissance, hormone de croissance, sujet sain** : [?] aucun essai trouvé dans PubMed lors de cette recherche ; allégations de marque [M].\n- **UE** : autorisation comme nouvel aliment en cours d'instruction (projet 2026), pas de statut définitif confirmé ici [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Phospholipide qui libère de la choline, précurseur de l'acétylcholine ; les essais cités l'utilisent comme potentialisateur cholinergique (PMID 38875437). Effet sur la cognition de l'adulte sain à dose orale : [?]. Les auteurs de la cohorte de 2021 rappellent le lien entre apport de choline, triméthylamine-N-oxyde (TMAO) produit par le microbiote et risque cardiovasculaire ; c'est une hypothèse, non démontrée pour l'alpha-GPC (PMID 34817582).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Risque d'AVC (population ≥ 50 ans sans AVC ni Alzheimer, 2006-2008, suivi jusqu'en 2018) | 108 877 utilisateurs vs 11 900 100 non-utilisateurs : AVC total aHR 1,46 (1,43–1,48), ischémique 1,36 (1,33–1,39), hémorragique 1,36 (1,28–1,44) ; après appariement, AVC total 1,43 (1,41–1,46) ; risque croissant avec la quantité prescrite (PMID 34817582) | [B, cohorte rétrospective] |\n| MCI → démence | 508 107 patients avec MCI (2013-2016) : conversion Alzheimer HR 0,899 (0,882–0,918), vasculaire HR 0,832 (0,801–0,865) ; effet net surtout avant 65 ans (PMID 40155153) | [B, cohorte rétrospective] |\n| Alzheimer, en plus du donépézil | 119 patients (MMSE ≤ 26), 24 semaines : MMSE +1,61 % (alfoscerate) vs +1,07 % (donépézil seul) ; ADAS-Cog −18,5 % vs −9,4 % ; schéma mixte double aveugle + ouvert, non un ECR pur (PMID 38875437) | [B, ECR n=119 mixte] |\n| Démence, face à la citicoline | 3 ECR, 358 participants, SCAG WMD −3,92 (−7,41 à −0,42) ; pas de différence mémoire ni fluence verbale ; abandon 9,4 % vs 6,7 % (PMID 41426989) | [A, 3 ECR] |\n| Sujet sain : mémoire, attention | [?] | [?] |\n| Performance sportive (force, saut, hormone de croissance) | [?] aucun résultat PubMed retrouvé lors de cette recherche ; arguments de vente | [M] |\n\nLes deux cohortes se contredisent sur l'AVC. Leur seul point commun : les « utilisateurs » reçoivent une prescription pour des troubles cognitifs, donc sont plus âgés et plus à risque d'AVC que les non-utilisateurs (âge moyen 68,3 ans vs 61,6 ans avant appariement dans la cohorte de 2021) (PMID 34817582).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Étudié** : 400 mg 3 fois par jour (1 200 mg/j) par voie orale pendant 24 semaines dans l'essai coréen d'ajout au donépézil (PMID 38875437, texte intégral PMC11175912) ; 1 000 mg/j par voie **intramusculaire** pendant 3 mois dans les 3 ECR face à la citicoline (PMID 41426989, texte intégral PMC12714635). Dose des cohortes coréennes : non indiquée dans les résumés (PMID 34817582, 40155153).\n- **Vendu** : teneurs des compléments (souvent en poudre ou gélules, parfois « 50 % » d'alpha-GPC) : [?] aucune fiche produit consultée.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Corée** : prescrit comme médicament (données de l'assurance nationale) (PMID 34817582, 40155153). **France** : aucune spécialité contenant de l'alfoscerate ou un dérivé de la glycérophosphocholine dans la base de composition de la BDPM, donc pas d'AMM (BDPM, consulté le 2026-10-14). Statut en complément alimentaire (DGCCRF, Novel Food) : [?] catalogue Novel Food inaccessible depuis cet environnement.\n- **UE, complément** : un projet de règlement d'exécution autorisant le L-alpha-GPC issu de phospholipides de soja comme nouvel aliment a été soumis à consultation au Danemark le 2026-06-30, d'après un résumé de moteur de recherche (page officielle non relue, accès refusé) ; adoption non confirmée [?].\n- **AMA** : non nommé dans la Liste des interdictions 2026 (recherche par nom, fichier du 2026-10-13).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Signal AVC** à prendre au sérieux malgré les biais possibles : dose-réponse dans la cohorte de 2021 (PMID 34817582). À discuter avec un médecin en cas d'antécédent vasculaire ; l'inverse est vrai dans la cohorte de 2025 (PMID 40155153).\n- Effets indésirables : non rapportés dans les résumés ; seul chiffre disponible, abandons 9,4 % (alfoscerate) vs 6,7 % (citicoline) (PMID 41426989). Les effets indésirables étaient surveillés dans l'essai coréen sans résultat chiffré dans le résumé (PMID 38875437). Grossesse, allaitement, interactions médicamenteuses : [?] aucune source retrouvée (RCP absent de la BDPM, aucune étude d'interaction dans les 4 PMID).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Aucune fiche produit.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Booster de puissance et de hormone de croissance »** : aucune source PubMed retrouvée [M].\n- **« Protège le cerveau »** : la cohorte la plus grande associe l'alpha-GPC à plus d'AVC (PMID 34817582) ; la suivante, à moins de démence (PMID 40155153). Observationnel dans les deux cas [B].\n- **« Nootrope sûr, c'est juste de la choline »** : la sécurité vasculaire à long terme n'est pas établie (PMID 34817582).\n\nÀ voir aussi : [citicoline](fiche:citicoline) · [Déclin cognitif et neurodégénérescence](fiche:declin-cognitif-et-neurodegenerescence) · [ginkgo](fiche:ginkgo) · [huperzine A](fiche:huperzine-a) · [créatine](fiche:creatine).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 34817582 — Lee G et al., *JAMA Netw Open* 2021. doi:10.1001/jamanetworkopen.2021.36008 (résumé relu).\n- PMID 40155153 — Kim HK et al., *J Prev Alzheimers Dis* 2025. doi:10.1016/j.tjpad.2025.100059 (résumé relu).\n- PMID 38875437 — Lee W, Kim M, *Medicine (Baltimore)* 2024. doi:10.1097/MD.0000000000038067 (résumé relu).\n- PMID 41426989 — Sagaro GG, Amenta F, *Front Neurol* 2025. doi:10.3389/fneur.2025.1649661 (résumé relu).\n- Consultation danoise du 2026-06-30 sur le L-alpha-GPC (nouvel aliment, projet de règlement d'exécution UE), via résumé de moteur de recherche ; page lovguiden.dk non relue.\n- Liste des interdictions AMA 2026, recherche par nom, fichier du 2026-10-13.\n- BDPM, fichier de composition des spécialités (CIS_COMPO_bdpm.txt, base-donnees-publique.medicaments.gouv.fr/download/file/CIS_COMPO_bdpm.txt), recherche par nom de substance (alfoscerate, glycérophosphocholine), consulté le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Alpha-GPC (choline alfoscerate)",
+ "type": "actif",
+ "unite": ""
+}

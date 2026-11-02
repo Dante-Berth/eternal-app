@@ -1,0 +1,88 @@
+{
+ "cibles": [
+  "longevite",
+  "prevention",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-11-02",
+ "famille": "",
+ "id": "biomarqueurs-inflammation-ratio-neutrophiles-lymphocytes-nlr",
+ "intro": "Fiche « examen ». Le NLR se calcule sur une numération formule sanguine (NFS) déjà prescrite : coût marginal nul. La question est de savoir s'il apporte quelque chose. Comparaison avec les autres marqueurs : [panorama des biomarqueurs d'inflammation](fiche:biomarqueurs-inflammation-panorama). Marqueur de référence : [CRP / hs-CRP](fiche:biomarqueur-crp-hscrp).",
+ "liens": [
+  "biomarqueur-crp-hscrp",
+  "biomarqueurs-inflammation-panorama"
+ ],
+ "marqueurs": [
+  "nlr"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 6,
+ "nb_seuils": 5,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "30002404",
+  "30638080",
+  "24388541",
+  "30534554",
+  "39720246",
+  "41146762"
+ ],
+ "preuve_globale": "B",
+ "resume": "Verdict : calculable gratuitement sur une NFS existante, mais pas un outil de décision individuel. Il prédit des événements (surtout chez des patients), n'a ni seuil universel ni gain démontré de prédiction au-delà des scores classiques en population générale.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Verdict : calculable gratuitement sur une NFS existante, mais pas un outil de décision individuel.** Il prédit des événements (surtout chez des patients), n'a ni seuil universel ni gain démontré de prédiction au-delà des scores classiques en population générale.\n- Valeurs de référence : dans la cohorte de Rotterdam (8 711 sujets ≥ 45 ans), NLR moyen 1,76, intervalle de référence 95 % 0,83–3,92 ; il augmente avec l'âge et est plus haut chez l'homme [B, cohorte] (PMID 30002404). Chez des patients de médecine générale danois (CRP < 8 mg/L), 0,74–4,94 entre 18 et 75 ans, 0,89–8,80 au-delà de 76 ans [B, registre] (PMID 30638080). Un même chiffre n'a donc pas la même signification à 40 et à 80 ans.\n- Population générale américaine (NHANES III, 7 363 sujets sans maladie coronaire, 14,1 ans de suivi) : NLR > 4,5 vs < 1,5, HR ajusté de mort coronaire 2,68 (1,07–6,72), mais **C-index inchangé** (0,8709 → 0,8713) en l'ajoutant au score de Framingham ; seule une reclassification modeste (NRI 6,6 %) [B, analyse post hoc] (PMID 24388541). L'IC très large (1,07–6,72) vient de 231 décès coronaires.\n- Méta-analyse de 38 études observationnelles (n = 76 002) : NLR élevé associé à la maladie coronaire (OR 1,62, 1,38–1,91) et aux événements cardiovasculaires composites (OR 3,86, 1,73–8,64) [B, observationnel, essentiellement des patients ; cause et conséquence indiscernables] (PMID 30534554).\n- Aucune étude retrouvée montrant qu'une intervention abaissant le NLR réduit les événements [?].\n- Remboursement/prix : la NFS est un examen courant ; cotation et remboursement exacts non consultés [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "NLR = neutrophiles absolus / lymphocytes absolus. Les neutrophiles montent avec le stress et l'inflammation, les lymphocytes baissent (stress, corticoïdes, infection sévère). Indices dérivés calculés sur la même NFS :\n- **PLR** (plaquettes/lymphocytes) et **SII** (neutrophiles × plaquettes / lymphocytes) : valeurs de référence Rotterdam PLR 120 (61–239), SII 459 (189–1 168) ; le PLR et le SII sont plus hauts chez la femme [B] (PMID 30002404).\n- Les variantes avec albumine, triglycérides, etc. (ex. TyG-NLR, albumine-NLR) se multiplient : dans NHANES 2001-2018 (15 388 sujets), le quartile le plus élevé de TyG × NLR est associé à +63 % de mortalité toutes causes, alors que le TyG seul n'est pas associé à la mortalité [B, cohorte] (PMID 39720246). Un indice composite qui « marche » dans une base épidémiologique n'est pas pour autant meilleur que ses composantes prises séparément : non comparé dans cette fiche [?].",
+   "titre": "Ce que c'est"
+  },
+  {
+   "markdown": "Le NLR est un rapport sans unité. Aucun seuil de décision universel n'est publié ; les bornes ci-dessous sont des intervalles de référence ou des catégories d'analyse, pas des seuils d'action. Les PLR et SII dérivés sont dans la section « Ce que c'est ».\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| NLR | sans unité | 0,83–3,92 (moyenne 1,76) | intervalle de référence à 95 % | ≥ 45 ans, Pays-Bas (Rotterdam, n = 8 711) | [B, cohorte] Fest 2018, PMID 30002404 |\n| NLR | sans unité | 0,74–4,94 | intervalle de référence à 95 % (CRP < 8 mg/L) | 18–75 ans, médecine générale, Danemark | [B, registre] Christiansen 2019, PMID 30638080 |\n| NLR | sans unité | 0,89–8,80 | intervalle de référence à 95 % (CRP < 8 mg/L) | > 76 ans, médecine générale, Danemark | [B, registre] PMID 30638080 |\n| NLR | sans unité | > 4,5 (vs < 1,5) | catégorie la plus haute de l'analyse : HR ajusté de mort coronaire 2,68 (1,07–6,72) ; catégories d'analyse, pas un seuil d'action | 30–79 ans sans maladie coronaire, États-Unis (NHANES III) | [B, post hoc] Shah 2014, PMID 24388541 |\n| NLR | sans unité | — | seuil de décision clinique universel | adulte | non retrouvé [?] |",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Valeurs normales | Dépendent de l'âge, du sexe, de la population ; pas de seuil universel | [B] (PMID 30002404, 30638080) |\n| Mortalité coronaire, population générale | NLR > 4,5 vs < 1,5 : HR 2,68 (1,07–6,72) | [B] (PMID 24388541) |\n| Ajout au score de Framingham | C-index 0,8709 → 0,8713 ; NRI 6,6 % | [B] (PMID 24388541) |\n| Maladie cardiovasculaire (méta-analyse) | OR 1,62 (maladie coronaire), 3,86 (composite) | [B] (PMID 30534554) |\n| Pneumonie communautaire, mortalité | RR 2,02 (1,18–3,47), I² = 99 % (seuils et populations très hétérogènes) | [B] (PMID 41146762) |\n| Baisse du NLR par une intervention | Effet sur les événements : non trouvé | [?] |\n\nL'hétérogénéité extrême (I² = 99 %) de la méta-analyse sur la pneumonie illustre le problème : chaque étude choisit son seuil, et un résultat « significatif » n'indique pas quel chiffre prendre pour décider.",
+   "titre": "Ce que dit la preuve"
+  },
+  {
+   "markdown": "- **Variabilité** : le NLR varie avec l'infection récente, un effort intense, la prise de corticoïdes, le stress aigu. Variabilité intra-individuelle du NLR : non retrouvée [?]. Pour la CRP, elle est de l'ordre de 41 % ([CRP](fiche:biomarqueur-crp-hscrp)).\n- **Pas spécifique** : un NLR haut dit « stress ou inflammation », comme la CRP, sans dire d'où cela vient.\n- **Aucun levier ciblé** : pas de traitement validé qui cible le NLR ; on traite la cause (tabac, obésité viscérale, sommeil, infection chronique) et les facteurs classiques.\n- Les articles récents de type « NLR et mortalité chez les patients X dans NHANES » sont des analyses de bases existantes, répétées sur chaque sous-population ; elles ne remplacent pas un essai ni une validation externe [?, jugement de lecture, non quantifié].",
+   "titre": "Limites pratiques"
+  },
+  {
+   "markdown": "- Le NLR est déjà sur votre NFS : le regarder est gratuit, y réagir seul ne l'est pas. Un NLR élevé isolé sur un seul prélèvement : le refaire hors infection avant d'en tirer quoi que ce soit.\n- Pour suivre l'inflammation de bas grade, la [hs-CRP](fiche:biomarqueur-crp-hscrp) reste le marqueur le mieux documenté et le seul pour lequel il existe des essais d'intervention sur les événements.\n- Ne pas acheter de « score d'inflammation » reposant sur NLR/SII : aucun avantage démontré par rapport à ses composantes.",
+   "titre": "Que faire"
+  },
+  {
+   "markdown": "La NFS est un examen de biologie médicale ; le NLR est un calcul sur ses résultats, sans statut propre. Cotation NABM et remboursement : non consultés [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Interpréter un NLR de 3 comme « anormal » sans tenir compte de l'âge et du contexte (l'intervalle de référence atteint 3,9 à Rotterdam).\n- Conclure d'une association de cohorte (NHANES) à l'utilité d'un traitement.\n- Comparer deux NLR de laboratoires ou de moments différents sans tenir compte de l'effort, du sommeil, d'une infection récente.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Le NLR est un marqueur gratuit de longévité »** : aucune étude retrouvée sur la longévité en tant que telle ; en population générale, il ne dépasse pas le score de Framingham en discrimination (PMID 24388541).\n- **« Un NLR bas prouve une bonne santé »** : un NLR bas n'est pas un résultat clinique ; aucune intervention testée sur ce critère [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Après 76 ans, la borne haute observée en cabinet atteint 8,80 chez des patients à CRP basse, soit environ 1,8 fois la borne des 18–75 ans (4,94) (PMID 30638080).\n- Le NLR est plus haut chez l'homme, le PLR et le SII plus hauts chez la femme (PMID 30002404).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "NLR très élevé accompagné de fièvre, perte de poids, ou NFS franchement anormale (hyperleucocytose, cytopénie) : à voir avec un médecin ; les seuils d'alerte ne sont pas sourcés ici [?].",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 30002404 — Fest J et al., Reference values for white blood-cell-based inflammatory markers in the Rotterdam Study. *Sci Rep* 2018.\n- PMID 30638080 — Christiansen MH et al., Neutrophil-lymphocyte-ratio distributions in a Danish population from general practice. *Scand J Clin Lab Invest* 2019.\n- PMID 24388541 — Shah N et al., NLR significantly improves the Framingham risk score in prediction of CHD mortality: NHANES-III. *Int J Cardiol* 2014.\n- PMID 30534554 — Angkananard T et al., Neutrophil Lymphocyte Ratio and Cardiovascular Disease Risk: A Systematic Review and Meta-Analysis. *Biomed Res Int* 2018.\n- PMID 39720246 — Wang Y et al., TyG index and NLR and all-cause mortality in the general US population: NHANES 2001-2018. *Front Endocrinol* 2024.\n- PMID 41146762 — Ahmad Ganaie Z et al., Elevated NLR and mortality in community-acquired pneumonia: systematic review and meta-analysis. *Cureus* 2025.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueurs d'inflammation : ratio neutrophiles/lymphocytes (NLR) et indices dérivés de la NFS",
+ "type": "biomarqueur",
+ "unite": ""
+}

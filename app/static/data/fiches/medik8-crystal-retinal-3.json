@@ -1,0 +1,69 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "cosmetique",
+ "id": "medik8-crystal-retinal-3",
+ "intro": "",
+ "liens": [
+  "effederm-tretinoine-0-05",
+  "la-roche-posay-retinol-b3-serum",
+  "protection-solaire",
+  "retinoides"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 1,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "9843009"
+ ],
+ "preuve_globale": "B",
+ "resume": "Un des rares rétinols/rétinaux cosmétiques à concentration déclarée (0,03 %), mais inférieure à la dose du seul essai comparatif trouvé (0,05 %) et 10 à 20 fois plus chère par mois que la trétinoïne sur ordonnance.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Un des rares rétinols/rétinaux cosmétiques à concentration déclarée (0,03 %), mais inférieure à la dose du seul essai comparatif trouvé (0,05 %) et 10 à 20 fois plus chère par mois que la trétinoïne sur ordonnance.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- Rétinal « stabilisé » à **0,03 %** (LookFantastic, consulté le 2026-10-06) ; gamme de 0,01 % à 0,2 % (Medik8, consulté le 2026-10-06). Concentration déclarée par la marque, non contrôlée [M].\n- INCI complet non établi : les pages lues divergent (glycérine, hyaluronate de sodium, acétate de tocophéryle ; un agrégateur cite aussi deux dérivés de vitamine C, du squalane et un émulsifiant d'olive) [?].\n- **Rétinal 0,05 % vs trétinoïne 0,05 % vs excipient, 44 sem., 125 patients** : rides et rugosité du pied-de-corbeau réduites à 18 sem. avec les deux actifs, effet moindre à 44 sem. ; trétinoïne plus irritante [B, ECR unique n=125] (PMID 9843009). L'essai porte sur une crème à 0,05 %, pas sur ce produit ni sur 0,03 % [?].\n- Allégations de la marque : « 11 fois plus rapide que le rétinol », « −20 % de rides visibles » (étude de 33 personnes, 12 sem. citée par un revendeur) [M] ; aucun essai publié sur PubMed pour ce produit trouvé [?].\n- Contexte : [rétinoïdes](fiche:retinoides).",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Cosmétique (règlement (CE) n° 1223/2009). Le plafond de 0,3 % ER du règlement (UE) 2024/996 vise le rétinol et ses esters ; le rétinal n'y est pas cité (EUR-Lex, consulté le 2026-10-06). Statut CosIng du rétinal non revérifié ce jour [?]. Grossesse/allaitement : la page DocMorris conseille de consulter un médecin ; rétinoïdes médicamenteux contre-indiqués ; précaution raisonnable par analogie, pas par donnée [?]. AMA : sans objet.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| Allégation | Études |\n|---|---|\n| « 11x plus rapide que le rétinol » | Aucune donnée comparative retrouvée sur PubMed pour cette formule [M] |\n| « 100 % ont trouvé le produit doux » | Étude interne ; tolérance du rétinal meilleure que la trétinoïne dans l'essai à 0,05 % [B, ECR unique n=125] (PMID 9843009) |",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Le soir après nettoyage ; montée progressive : 2 fois/semaine pendant 2 semaines, puis un soir sur deux, puis chaque soir ; écran solaire le matin ; test préalable recommandé (DocMorris, consulté le 2026-10-06). Voir [protection solaire](fiche:protection-solaire). Éviter l'association simultanée avec des acides exfoliants en début de traitement (prudence, non testé) [?].",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "Irritation (rougeur, desquamation) fréquente avec les rétinoïdes ; moindre avec le rétinal qu'avec la trétinoïne à 0,05 % [B, ECR unique n=125] (PMID 9843009). Photosensibilité : écran solaire quotidien.",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- Prix relevés (30 ml) : 49,39 € (DocMorris) à 65,00 € (LookFantastic, rupture) (relevés le 2026-10-06). Durée d'un flacon non indiquée : estimation personnelle 3 mois à usage nocturne → **16 à 22 €/mois**.\n- Alternative à preuve supérieure : [Effederm 0,05 % (trétinoïne)](fiche:effederm-tretinoine-0-05), 1-2 €/mois sur ordonnance, essais [A]. Alternative cosmétique : [La Roche-Posay Rétinol B3](fiche:la-roche-posay-retinol-b3-serum) (concentration non déclarée, 15-18 €/mois).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non relevés [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 9843009 — Creidi P. et al., *J Am Acad Dermatol* 1998. doi:10.1016/s0190-9622(98)70270-1\n- [Medik8, Crystal Retinal](https://int.medik8.com/pages/crystalretinal), consulté le 2026-10-06.\n- Prix et composition : [DocMorris](https://www.docmorris.fr/fr/medik8-crystal-retinal-3-30ml/p-689661), [LookFantastic](https://www.lookfantastic.fr/p/medik8-crystal-retinal-3-serum-30ml/12097972/), relevés le 2026-10-06.\n- Règlement (UE) 2024/996, EUR-Lex, consulté le 2026-10-06.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "Medik8 Crystal Retinal 3 (sérum rétinal 0,03 %, 30 ml)",
+ "type": "produit",
+ "unite": ""
+}

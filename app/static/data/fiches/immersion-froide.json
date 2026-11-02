@@ -1,0 +1,63 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "comportement",
+ "id": "immersion-froide",
+ "intro": "",
+ "liens": [
+  "sauna",
+  "surentrainement-et-inflammation-de-bas-grade"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42683395",
+  "42194413",
+  "34636405",
+  "42088589",
+  "42816732"
+ ],
+ "preuve_globale": "A",
+ "resume": "NMA 2026 : CWI et massage soulagent les courbatures juste après et à 24 h ; CWI réduit aussi les CK ; à 48 h seul le DOMS reste amélioré ; CMJ et CK sans bénéfice à la phase tardive [A].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- NMA 2026 : CWI et massage soulagent les courbatures juste après et à 24 h ; CWI réduit aussi les CK ; à 48 h seul le DOMS reste amélioré ; CMJ et CK sans bénéfice à la phase tardive [A].\n- NMA 2026 (cryothérapies) : cryothérapie corps entier (WBC) en tête sur CK à 48–72 h et saut vertical ; CWI en tête sur IL-6 [A].\n- NMA 2022 (DOMS) : **le chaud** arrive en tête de l'analgésie à < 24–48 h, devant contrast et froid ; qualité limitée [A].\n\n**Contrepoids** : chez les endurants de compétition (16 RCT, 273 participants), aucune modalité n'a battu la récupération passive, une immersion thermoneutre « placebo » faisant aussi bien (PMID 42683395, doi:10.3389/fspor.2026.1876924) [A, certitude très faible à faible] : l'effet sur les courbatures peut être en partie une attente.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Analgésie, vasoconstriction : hypothèse des auteurs [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Preuve |\n|---|---|\n| Courbatures court terme | [A] PMID 42194413, 34636405 |\n| CK | [A] PMID 42194413, 42088589 |\n| Saut vertical 24–72 h | [A] WBC (PMID 42088589) ; CWI IC larges (PMID 42194413) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Non extraites ici [?]. Effet de l'immersion répétée sur les adaptations : une revue parapluie de 15 méta-analyses conclut qu'elle peut freiner force et hypertrophie ; approche périodisée plutôt que systématique [A, certitude faible à très faible] (PMID 42816732, doi:10.1186/s40798-026-01116-8). Voir [surentraînement et stress hormétiques](fiche:surentrainement-et-inflammation-de-bas-grade) et [sauna](fiche:sauna).",
+   "titre": "Température, durée vendues vs étudiées"
+  },
+  {
+   "markdown": "Pratique libre en France. Dispositifs de cryothérapie : statut non vérifié.",
+   "titre": "Statut"
+  },
+  {
+   "markdown": "Non revérifiée ici [?] (risque cardio-vasculaire, Raynaud, hypothermie : avis médical).",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "PMID 42194413 (*Healthcare* 2026, doi:10.3390/healthcare14101321) ; PMID 42088589 (*Front Sports Act Living* 2026, doi:10.3389/fspor.2026.1819396) ; PMID 34636405 (*J Rehabil Med* 2022, doi:10.2340/jrm.v53.331) ; PMID 42683395 (*Front Sports Act Living* 2026, doi:10.3389/fspor.2026.1876924) ; PMID 42816732 (*Sports Med Open* 2026, doi:10.1186/s40798-026-01116-8).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Immersion en eau froide / cryothérapie",
+ "type": "actif",
+ "unite": ""
+}

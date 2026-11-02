@@ -1,0 +1,88 @@
+{
+ "cibles": [
+  "longevite",
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-11-02",
+ "famille": "",
+ "id": "biomarqueurs-fonctionnels-force-marche-composition-corporelle",
+ "intro": "",
+ "liens": [
+  "bilans-biologiques",
+  "entrainement-en-resistance",
+  "equilibre-mobilite-et-prevention-chutes",
+  "osteoporose-et-densite-osseuse",
+  "proteines",
+  "sarcopenie"
+ ],
+ "marqueurs": [],
+ "mesure": "fonctionnel",
+ "nb_pmid": 13,
+ "nb_seuils": 12,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "30312372",
+  "32033882",
+  "36604970",
+  "29425700",
+  "25982160",
+  "36332759",
+  "21205966",
+  "40266699",
+  "33997304",
+  "36215867",
+  "36270627",
+  "41662990",
+  "38247440"
+ ],
+ "preuve_globale": "B",
+ "resume": "Force de préhension et vitesse de marche prédisent la mortalité sur de très grandes cohortes [B, méta-analyses de cohortes] ; ce sont des marqueurs de risque, pas des cibles démontrées.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Force de préhension et vitesse de marche prédisent la mortalité sur de très grandes cohortes [B, méta-analyses de cohortes] ; ce sont des marqueurs de risque, pas des cibles démontrées.\n- Préhension : HR 0,69 pour la force la plus haute vs la plus basse sur 1,9 million de personnes ; HR 1,16 par 5 kg de moins dans PURE.\n- Marche : HR 0,88 par 0,1 m/s en plus chez les plus de 65 ans ; la prédiction par âge, sexe et vitesse égale celle d'un modèle avec comorbidités.\n- DEXA : bonne précision de répétition pour masse maigre et grasse, mais la masse maigre mesurée prédit moins bien la mortalité que la force.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Ces tests intègrent muscle, système nerveux, cœur-poumons et état général : un marqueur global, sans mécanisme unique. Mécanisme causal non recherché [?].\n- La force est le critère central de la sarcopénie dans EWGSOP2, la masse musculaire sert à confirmer et la performance physique à juger la gravité [B, consensus] (PMID 30312372). Voir [Sarcopénie](fiche:sarcopenie).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "Les définitions de la sarcopénie ne s'accordent pas (kappa 0,17 entre EWGSOP2 et SDOC) : un seuil dépend du consensus choisi et de la population.\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| Force de préhension (sarcopénie AWGS 2019) | kg | < 28 chez l'homme ; < 18 chez la femme | force musculaire basse | adultes asiatiques, contexte de consensus | [B, consensus] Chen 2020, PMID 32033882 |\n| Vitesse de marche sur 6 m (sarcopénie AWGS 2019) | m/s | < 1,0 | performance physique basse | adultes asiatiques | [B, consensus] Chen 2020, PMID 32033882 |\n| Short Physical Performance Battery (AWGS 2019) | points | ≤ 9 | performance physique basse | adultes asiatiques | [B, consensus] Chen 2020, PMID 32033882 |\n| Lever de chaise 5 fois (AWGS 2019) | secondes | ≥ 12 | performance physique basse | adultes asiatiques | [B, consensus] Chen 2020, PMID 32033882 |\n| Masse maigre appendiculaire par DXA, ajustée à la taille (AWGS 2019) | kg/m² | < 7,0 chez l'homme ; < 5,4 chez la femme | masse musculaire basse (le résumé indexé écrit « kg/min », coquille probable pour kg/m²) | adultes asiatiques | [B, consensus] Chen 2020, PMID 32033882 |\n| Masse maigre par impédancemétrie, ajustée à la taille (AWGS 2019) | kg/m² | < 7,0 chez l'homme ; < 5,7 chez la femme | masse musculaire basse (même coquille d'unité dans le résumé) | adultes asiatiques | [B, consensus] Chen 2020, PMID 32033882 |\n| Périmètre du mollet (dépistage AWGS 2019) | cm | < 34 chez l'homme ; < 33 chez la femme | dépistage de la sarcopénie | adultes asiatiques | [B, consensus] Chen 2020, PMID 32033882 |\n| Force de préhension (EWGSOP2, appliquée dans des cohortes d'hommes) | kg | < 27 | force basse | hommes blancs de 74 ans en moyenne, 4 cohortes | [B, méta-analyse de cohortes] Westbury 2023, PMID 36604970 |\n| Masse maigre appendiculaire, indice (EWGSOP2, appliquée dans des cohortes d'hommes) | kg/m² | < 7,0 | masse basse | hommes blancs de 74 ans en moyenne | [B, méta-analyse de cohortes] Westbury 2023, PMID 36604970 |\n| Préhension et vitesse de marche (SDOC, appliquée dans des cohortes d'hommes) | kg ; m/s | préhension < 35,5 ; vitesse < 0,8 (version modifiée : < 1,0) | sarcopénie selon SDOC ; accord faible avec EWGSOP2 (κ = 0,17) | hommes blancs de 74 ans en moyenne | [B, méta-analyse de cohortes] Westbury 2023, PMID 36604970 |\n| Seuils EWGSOP2 (femmes ; vitesse de marche ; force non appliquée aux hommes) | kg ; m/s | non retrouvé | le résumé du consensus annonce des seuils chiffrés sans les donner | adultes âgés | non retrouvé : valeurs absentes du résumé de Cruz-Jentoft 2019, PMID 30312372 [?] |\n| Masse grasse et maigre par DEXA (composition corporelle) | kg ou % | seuil de masse grasse ou de masse maigre « saine » : non retrouvé | aucune borne lue | adultes | non retrouvé : aucune source lue [?] |",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "Le tableau classe les marqueurs.\n\n| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Force de préhension et mortalité toutes causes | association | [B, méta-analyse de cohortes] : 38 études, 1 907 580 sujets, 63 087 décès, HR 0,69 (IC 0,64-0,74) ; genou-extension HR 0,86 (PMID 29425700) | non applicable | non applicable |\n| Préhension dans PURE | association | [B, cohorte, 17 pays, n=139 691] : HR 1,16 par 5 kg en moins (toutes causes), 1,17 (CV) ; prédicteur plus fort que la pression systolique ; pas d'association avec chutes ni fractures (PMID 25982160) | non applicable | non applicable |\n| Seuils de préhension | dose-réponse | [B, méta-analyse] : 48 études, 3,1 millions ; baisse de risque toutes causes entre 26 et 50 kg, relation proche de linéaire ; cancer plutôt en U (PMID 36332759) | non applicable | non applicable |\n| Vitesse de marche et survie | association | [B, analyse poolée de 9 cohortes, n=34 485, 65 ans+] : HR 0,88 par 0,1 m/s (IC 0,87-0,90) (PMID 21205966) | non applicable | non applicable |\n| Vitesse de marche habituelle | association | [B, méta-analyse de 48 études] : RR mortalité toutes causes 1,49 pour le plus lent vs le plus rapide ; relation non linéaire (PMID 40266699) | non applicable | non applicable |\n| Masse maigre basse et mortalité | association | [B, méta-analyse de 188 études] : masse basse par DXA HR 1,44 (IC 1,29-1,60), masse réduite HR 1,18 ; scanner HR 1,78 (PMID 33997304) | acte de radiologie/imagerie, remboursement non consulté | non consulté |\n| Définitions de la sarcopénie | classification | [B] : sur 9170 hommes, accord faible entre EWGSOP2 (force + masse) et SDOC (force + marche), kappa 0,17 ; HR de mortalité 1,76 vs 2,75 (PMID 36604970) | non applicable | non applicable |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Débutant : test de force de préhension au dynamomètre (en cabinet ou salle) ; vitesse de marche sur distance courte. Protocole standardisé pour la comparaison : les études de mortalité utilisent des protocoles incomplets et hétérogènes (PMID 36215867), donc comparer avec ses propres valeurs.\n- Intermédiaire : DEXA pour composition corporelle, avec standardisation (alimentation et activité des 24 h précédentes). Précision rapportée : sur 20 sujets récréatifs, erreur de précision de la masse grasse 479 g (même jour) vs 626 g (jours consécutifs) et masse maigre 634 g vs 734 g, sans différence significative (PMID 36270627).\n- Avancé : suivre la tendance sur plusieurs mesures avec le même appareil ; chez 44 femmes, le CV de précision était de 1,17 % (% gras), 1,14 % (masse grasse), 0,72 % (masse maigre) en DXA ; BIA et scan 3D non interchangeables avec la DXA à l'échelle individuelle (PMID 41662990).\n- Pour progresser : [entraînement en résistance](fiche:entrainement-en-resistance), [protéines](fiche:proteines), [équilibre et prévention des chutes](fiche:equilibre-mobilite-et-prevention-chutes).",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Confondre masse maigre DXA et masse musculaire : la DXA inclut des compartiments non musculaires, d'où une association avec la mortalité plus faible qu'au scanner (PMID 33997304).\n- Comparer des valeurs de préhension entre protocoles différents (position du coude, encouragement verbal) ; l'étude de protocoles montre qu'elles changent les valeurs (PMID 36215867).\n- Utiliser un seuil unique : les définitions de sarcopénie ne s'accordent pas (kappa 0,17, PMID 36604970).\n- Appliquer les seuils de préhension d'adultes sains aux malades : dans la maladie rénale chronique, la relation à la mortalité peut être en U (PMID 38247440).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « La DEXA mesure votre âge musculaire/biologique » : pas d'étude vérifiée ici qui valide une telle métrique [?].\n- « Les impédancemètres de salle de bain valent une DEXA » : BIA acceptable en précision mais non interchangeable avec la DEXA pour un individu (PMID 41662990, un seul échantillon de 44 femmes, 40-65 ans).\n- « Augmenter sa force de préhension réduit la mortalité » : aucune donnée interventionnelle citée ici ; PURE conclut qu'il faut tester si l'amélioration de la force réduit la mortalité (PMID 25982160) [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Dans PURE, la force de préhension n'était pas associée aux chutes ni aux fractures (PMID 25982160) [B].\n- Dans la méta-analyse de Li et al., la masse maigre par DXA était associée à la mortalité moins fortement que par BIA ou scanner (PMID 33997304) [B].\n- Remboursement de la DEXA en France pour la composition corporelle (distinct de l'ostéodensitométrie, voir [ostéoporose](fiche:osteoporose-et-densite-osseuse)), dose de rayonnement : non consultés [?].",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Faiblesse récente, perte de poids involontaire, marche ralentie nette ou chutes : consulter, ce n'est pas un chiffre à optimiser mais un signal clinique.\n- Évaluation gériatrique de la sarcopénie : voir [Sarcopénie](fiche:sarcopenie).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 29425700, García-Hermoso A et al., Arch Phys Med Rehabil 2018, doi:10.1016/j.apmr.2018.01.008 (résumé relu).\n- PMID 25982160, Leong DP et al., Lancet 2015, doi:10.1016/S0140-6736(14)62000-6 (résumé relu).\n- PMID 36332759, López-Bueno R et al., Ageing Res Rev 2022, doi:10.1016/j.arr.2022.101778 (résumé relu).\n- PMID 36215867, Núñez-Cortés R et al., Clin Nutr 2022, doi:10.1016/j.clnu.2022.09.006 (résumé relu).\n- PMID 38247440, Chen et al., Ren Fail 2024, doi:10.1080/0886022X.2024.2305855 (résumé relu).\n- PMID 21205966, Studenski S et al., JAMA 2011, doi:10.1001/jama.2010.1923 (résumé relu).\n- PMID 40266699, Wu Q et al., J Sports Sci 2025, doi:10.1080/02640414.2025.2496082 (résumé relu).\n- PMID 33997304, Li GH et al., Osteoporos Sarcopenia 2021, doi:10.1016/j.afos.2021.02.004 (résumé relu).\n- PMID 36604970, Westbury LD et al., J Cachexia Sarcopenia Muscle 2023, doi:10.1002/jcsm.13160 (résumé relu).\n- PMID 30312372, Cruz-Jentoft AJ et al., Age Ageing 2019, doi:10.1093/ageing/afy169 (résumé relu).\n- PMID 36270627, Slater GJ et al., Int J Sport Nutr Exerc Metab 2023, doi:10.1123/ijsnem.2022-0125 (résumé relu).\n- PMID 41662990, Oliver CJ et al., Clin Nutr ESPEN 2026, doi:10.1016/j.clnesp.2026.102959 (résumé relu).\n- Fiches liées : [Sarcopénie](fiche:sarcopenie), [Ostéoporose](fiche:osteoporose-et-densite-osseuse), [Bilans biologiques](fiche:bilans-biologiques).\n- PMID 32033882, Chen LK et al., Asian Working Group for Sarcopenia 2019, J Am Med Dir Assoc 2020, doi:10.1016/j.jamda.2019.12.012 (résumé relu).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Biomarqueurs fonctionnels : force de préhension, vitesse de marche, DEXA",
+ "type": "biomarqueur",
+ "unite": ""
+}

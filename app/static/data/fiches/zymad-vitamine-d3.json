@@ -1,0 +1,70 @@
+{
+ "cibles": [
+  "muscle-os",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "zymad-vitamine-d3",
+ "intro": "",
+ "liens": [
+  "uvedose-100000-ui",
+  "vitamine-d",
+  "vitamine-d3-nutri-and-co-lanoline"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "30293909",
+  "30415629"
+ ],
+ "preuve_globale": "A",
+ "resume": "Vitamine D3 remboursable (2,91 € le flacon de 10 ml, soit environ 0,8 €/mois à 3 gouttes/j) : le moyen le moins cher de corriger une carence documentée, sans bénéfice démontré chez l'adulte non carencé.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Vitamine D3 remboursable (2,91 € le flacon de 10 ml, soit environ 0,8 €/mois à 3 gouttes/j) : le moyen le moins cher de corriger une carence documentée, sans bénéfice démontré chez l'adulte non carencé.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur | Preuve |\n|---|---|---|\n| Cholécalciférol (D3) | 10 000 UI/ml ; 1 goutte = 300 UI | Fractures, chutes, densité osseuse chez l'adulte non sélectionné : aucun effet (81 ECR, n=53 537 ; RR fractures 1,00 ; chutes 0,97) [A] (PMID 30293909). Cancer et événements cardiovasculaires : aucun effet à 2000 UI/j [B, ECR unique n=25871] (PMID 30415629). Correction d'une carence : non couverte par les sources de ce dépôt [?] |\n| Excipients | huile d'olive raffinée, huile essentielle d'orange douce, tocophérols (COVI-OX-T70) | Aucune donnée d'efficacité ; allergie à l'orange non documentée dans les sources lues [?] |\n\nComposition : BDPM (fiche 63902334) et recherche web sur la même base, consultées le 2026-10-06. Détail de la vitamine D : [vitamine D](fiche:vitamine-d).",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Médicament, titulaire Viatris Medical, AMM du 24 mars 2000, remboursé à 65 %, prix 2,91 € honoraire inclus (1,89 € + 1,02 €) ; RCP mis à jour le 28 novembre 2024 ; indication : traitement et/ou prévention de la carence en vitamine D (BDPM, consulté le 2026-10-06). La liste (I/II/ordonnance) n'apparaît pas dans l'extrait lu : la spécialité sœur à 50 000 UI en ampoule est en liste II [?] ; statut d'ordonnance de ce flacon non confirmé. Statut AMA non vérifié [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| Posologie / usage courant | Les études |\n|---|---|\n| Prévention adulte : 2 à 3 gouttes/j, soit 600 à 900 UI/j (BDPM) | Aucun bénéfice osseux démontré en population non carencée [A] (PMID 30293909) ; efficacité sur le taux sanguin chez le carencé : [?] |\n| « Vitamine D contre cancer/cœur » (idée répandue) | [B, ECR unique n=25871] non démontré à 2000 UI/j (PMID 30415629) |",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Selon la BDPM : prévention adulte 2 à 3 gouttes/j ; enfant sain de 0 à 18 ans 1 à 2 gouttes/j ; traitement à doses plus élevées, à fixer avec un médecin après dosage sanguin (consulté le 2026-10-06). Ne pas cumuler avec d'autres sources de vitamine D.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Contre-indications : hypercalcémie, lithiase calcique, hypervitaminose D (BDPM). Effets indésirables : hypercalcémie, hypercalciurie, néphrocalcinose, lithiase, réactions allergiques, calcifications des tissus mous ; surdosage : céphalées, confusion, douleurs osseuses, faiblesse, nausées, polyurie, hypertension, atteinte rénale possible (BDPM).\n- Interactions (RCP) : anticonvulsivants inducteurs enzymatiques (phénobarbital, phénytoïne, carbamazépine) et glucocorticoïdes diminuent l'effet ; diurétiques thiazidiques augmentent le risque d'hypercalcémie ; digoxine : surveillance (BDPM).\n- Grossesse : éviter tout surdosage ; allaitement : supplémentation permise, sans remplacer la dose du nouveau-né (BDPM).\n- Aucun excès d'hypercalcémie à 2000 UI/j sur 5,3 ans [B, ECR unique n=25871] (PMID 30415629).",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- 10 ml × 10 000 UI = 100 000 UI ≈ 333 gouttes ; à 3 gouttes/j, environ 110 jours (calcul personnel) : 2,91 € → **≈ 0,8 €/mois**, ≈ 0,3 € après remboursement à 65 %.\n- Alternatives : [Uvedose 100 000 UI](fiche:uvedose-100000-ui) (ampoule trimestrielle, ≈ 0,8 €/mois) ; [Vitamine D3 Nutri&Co](fiche:vitamine-d3-nutri-and-co-lanoline) (complément, 0,9 à 1,1 €/mois, non remboursé). Rien de moins cher que le médicament remboursé ; l'économie la plus nette reste de ne rien prendre sans carence documentée [A] (PMID 30293909).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non relevés [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 30293909 — Bolland MJ, Grey A, Avenell A, *Lancet Diabetes Endocrinol* 2018. doi:10.1016/S2213-8587(18)30265-1\n- PMID 30415629 — Manson JE et al., *N Engl J Med* 2019 (VITAL). doi:10.1056/NEJMoa1809944\n- BDPM, Zymad 10 000 UI/ml (63902334) et Zymad 50 000 UI (69441965), consultées le 2026-10-06.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Zymad 10 000 UI/ml, gouttes (vitamine D3, médicament)",
+ "type": "produit",
+ "unite": ""
+}

@@ -1,0 +1,83 @@
+{
+ "cibles": [
+  "prevention",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-16",
+ "famille": "",
+ "id": "depistage-fibrillation-atriale-montres-connectees",
+ "intro": "",
+ "liens": [
+  "biomarqueur-frequence-cardiaque-repos-hrv"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "41182224",
+  "34469766",
+  "39230544",
+  "34469764",
+  "31722151",
+  "34448706",
+  "36003419",
+  "39210723",
+  "35667070"
+ ],
+ "preuve_globale": "B",
+ "resume": "Les montres détectent bien la fibrillation atriale (FA) : sensibilité 95 %, spécificité 97 % sur 26 études et 17 349 patients, Apple Watch 94 % / 97 % [A, hétérogénéité très élevée, I² 71 à 99 %] (PMID 41182224).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Les montres détectent bien la fibrillation atriale (FA)** : sensibilité 95 %, spécificité 97 % sur 26 études et 17 349 patients, Apple Watch 94 % / 97 % [A, hétérogénéité très élevée, I² 71 à 99 %] (PMID 41182224).\n- **Détecter n'est pas prévenir un AVC.** Les deux grands essais randomisés de dépistage par ECG prolongé ou enregistreur implantable n'ont pas montré de baisse nette des AVC : LOOP (enregistreur implantable, 6 004 sujets, AVC HR 0,80, IC 0,61-1,05, NS) [B, ECR unique n=6 004] (PMID 34469766) ; GUARD-AF (patch 14 jours, 11 905 sujets, arrêté tôt, AVC 0,7 % vs 0,6 %) [B, ECR unique n=11 905] (PMID 39230544).\n- **Seul STROKESTOP est positif, de justesse** : critère composite HR 0,96 (IC 0,92-1,00, p = 0,045), chez des 75-76 ans invités à un dépistage par ECG intermittent sur 14 jours [B, ECR unique n=28 768] (PMID 34469764).\n- **Aucun essai randomisé de dépistage par montre grand public sur des événements cliniques identifié** [?].\n- Dans l'Apple Heart Study, seulement 0,52 % des utilisateurs ont reçu une alerte ; parmi ceux ayant un patch ECG analysable, 34 % avaient une FA [B, étude ouverte non randomisée, n=419 297] (PMID 31722151). Financée par Apple.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Photopléthysmographie (PPG) : capteur optique du poignet, détecte l'irrégularité du pouls. Certaines montres ajoutent un ECG une dérivation à la demande. Précision comparable entre PPG et ECG selon la méta-analyse PMID 41182224.\n- Une FA asymptomatique ou paroxystique peut passer inaperçue ; le risque d'AVC qu'elle porte est en grande partie réductible par anticoagulation (introduction du résumé de PMID 39230544).\n- Le dépistage ne vaut que si le traitement anticoagulant des FA découvertes par hasard apporte un bénéfice net. LOOP : détection de FA × 3 (31,8 % vs 12,2 %), anticoagulation initiée × 2,7, mais pas de baisse significative des AVC et saignements majeurs 4,3 % vs 3,5 % (HR 1,26, IC 0,95-1,69, NS) ; les auteurs suggèrent que toute FA détectée ne mérite pas d'être traitée (PMID 34469766).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Précision diagnostique des montres | Sensibilité 95 % (IC 92-97), spécificité 97 % (94-98), AUC 0,97 ; Apple Watch 94 % / 97 % ; Samsung 97 % / 96 % ; Withings 89 % / 95 % | [A, I² > 70 %] (PMID 41182224) |\n| Précision toutes arythmies (PPG, 18 études) | Sensibilité 100 %, spécificité 95 %, VPP 85 % | [A] (PMID 34448706) |\n| Apple Heart Study | 419 297 participants, 0,52 % notifiés ; FA sur patch chez 34 % (IC 97,5 % 29-39) ; VPP 0,84 pour la concordance simultanée | [B, n=419 297] (PMID 31722151) |\n| Dépistage par enregistreur implantable (LOOP) | AVC ou embolie : 4,5 % vs 5,6 % (HR 0,80, IC 0,61-1,05) | [B, ECR unique n=6 004] (PMID 34469766) |\n| Dépistage par patch 14 jours (GUARD-AF) | AVC hospitalisé : HR 1,10 (IC 0,69-1,75) ; saignement HR 0,87 ; essai terminé avant l'effectif prévu | [B, ECR unique n=11 905] (PMID 39230544) |\n| Dépistage systématique 75-76 ans (STROKESTOP) | Critère composite 31,9 % vs 33,0 % (HR 0,96, IC 0,92-1,00, p = 0,045) | [B, ECR unique n=28 768] (PMID 34469764) |\n| Coût-efficacité (modèle américain, ≥ 65 ans) | 57 894 $/QALY pour PPG puis ECG de confirmation ; AVC évités 20 à 23 pour 100 000 personnes-années, saignements majeurs + 20 à 44 | [?] modèle de simulation, pas une mesure d'efficacité (PMID 36003419) |\n\nNote : la ligne coût-efficacité est une modélisation, hors échelle des tags ; ne pas la lire comme une preuve d'efficacité.",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- **Débutant** : à partir de 65 ans, prise du pouls par le médecin ou ECG ponctuel lors d'une consultation. Le message des essais est de cibler les âgés à risque (hypertension, diabète, antécédent d'AVC, insuffisance cardiaque), pas les jeunes sportifs (population de LOOP, 70-90 ans avec facteur de risque, PMID 34469766).\n- **Intermédiaire** : si la montre signale une alerte, consulter pour un ECG 12 dérivations ; ne pas se traiter sur alerte seule.\n- **Avancé** : décisions d'anticoagulation = cardiologue (score de risque, saignement). Les recommandations ESC 2024 sur la FA existent (PMID 39210723, résumé indisponible : contenu sur le dépistage non vérifié [?]). Position USPSTF 2022 : « preuves insuffisantes » pour le dépistage des ≥ 50 ans (PMID 35667070, titre vérifié, texte non lu).",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Croire qu'une montre qui ne sonne pas exclut la FA : une FA paroxystique peut passer entre deux mesures [?].\n- Anticoaguler soi-même après une alerte.\n- Multiplier les ECG chez un jeune sain : taux de faux positifs plus pertinent que la détection (non quantifié ici pour ce groupe [?]).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Votre montre vous protège de l'AVC »** [M] : la détection est bonne, mais les essais randomisés de dépistage actif sont négatifs (LOOP, GUARD-AF) ou à peine positifs (STROKESTOP).\n- **« Sensibilité 95 %, donc fiable »** : sur des sujets jeunes à faible prévalence, la valeur prédictive positive chute ; dans l'Apple Heart Study 34 % des alertes analysables étaient confirmées [B, n=419 297] (PMID 31722151).\n- Conflit d'intérêts : Apple a financé l'Apple Heart Study ; LOOP a reçu un financement de Medtronic ; STROKESTOP des financements de Boehringer Ingelheim, Bayer et Bristol Myers Squibb-Pfizer (résumés).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- STROKESTOP : seule la moitié des invités (51,3 %) a participé au dépistage (PMID 34469764).\n- L'ECG intermittent sur 14 jours (STROKESTOP) et l'implant (LOOP) donnent des résultats différents sur les événements ; la détection de plus de FA n'a pas suffi à réduire les AVC dans LOOP.\n- Modèle : le dépistage par montre génère aussi plus de saignements majeurs (+ 20 à 44 pour 100 000 personnes-années) [?] (modèle de simulation, PMID 36003419).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Palpitations, essoufflement, vertige, malaise : consultation, ECG, sans attendre une alerte.\n- Alerte répétée de pouls irrégulier, surtout après 65 ans ou avec hypertension, diabète, antécédent d'AVC.\n- AVC ou symptômes neurologiques brutaux : urgences (15).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- **Statut** : montres grand public avec fonction ECG ou alerte de pouls irrégulier = dispositifs à usage de bien-être ou dispositifs médicaux selon marquage CE de chaque fonction. Statut en France, marquage et position HAS/ANSM : non consultés [?].\n- **Sécurité** : surdiagnostic, anxiété, anticoagulation de FA de faible charge (LOOP : saignements majeurs 4,3 % vs 3,5 %, NS) ; interactions : voir les anticoagulants (fiche non couverte ici).",
+   "titre": "Statut réglementaire et sécurité"
+  },
+  {
+   "markdown": "- Huawei Heart Study et Fitbit Heart Study : non retrouvées par la recherche PubMed.\n- Essais récents de dépistage par montre (type eBRAVE-AF) : non cherchés.\n- Seuil de charge de FA justifiant l'anticoagulation, anticoagulants : fiche à créer.\n\nFiches « examen » liées : [fréquence cardiaque et HRV](fiche:biomarqueur-frequence-cardiaque-repos-hrv)",
+   "titre": "Non recherché / à approfondir"
+  },
+  {
+   "markdown": "1. Barrera et al. *JACC Adv* 2025 — PMID 41182224\n2. Nazarian S et al. *J Med Internet Res* 2021 — PMID 34448706\n3. Perez MV et al. *N Engl J Med* 2019 — PMID 31722151\n4. Svendsen JH et al. *Lancet* 2021 — PMID 34469766\n5. Lopes RD et al. *J Am Coll Cardiol* 2024 — PMID 39230544\n6. Svennberg E et al. *Lancet* 2021 — PMID 34469764\n7. Chen W et al. *JAMA Health Forum* 2022 — PMID 36003419\n8. Van Gelder IC et al. *Eur Heart J* 2024 — PMID 39210723 (titre vérifié, résumé indisponible)\n9. Choi 2022, *Ann Intern Med* (synthèse USPSTF) — PMID 35667070 (titre vérifié, texte non lu)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "dispositif_medical",
+ "titre": "Montres et ECG connectés : dépistage de la fibrillation atriale",
+ "type": "condition",
+ "unite": ""
+}

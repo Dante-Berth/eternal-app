@@ -1,0 +1,113 @@
+{
+ "cibles": [
+  "longevite",
+  "prevention",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-11-02",
+ "famille": "",
+ "id": "biomarqueurs-inflammation-panorama",
+ "intro": "Fiche de synthèse. Elle classe dix marqueurs en « utile / peu utile / inutile hors recherche » et fait le point sur l'« inflammaging » : ce qui est démontré, ce qui ne l'est pas. Détail par marqueur : [CRP / hs-CRP](fiche:biomarqueur-crp-hscrp), [IL-6](fiche:biomarqueur-il6-interleukine-6), [fibrinogène et VS](fiche:biomarqueur-fibrinogene-et-vs), [NLR et indices de la NFS](fiche:biomarqueurs-inflammation-ratio-neutrophiles-lymphocytes-nlr), [GlycA, GDF-15, suPAR](fiche:biomarqueurs-inflammation-emergents-glyca-gdf15-supar). Bilan global : [bilans biologiques de prévention](fiche:bilans-biologiques).",
+ "liens": [
+  "bilans-biologiques",
+  "biomarqueur-apob",
+  "biomarqueur-crp-hscrp",
+  "biomarqueur-fibrinogene-et-vs",
+  "biomarqueur-il6-interleukine-6",
+  "biomarqueurs-inflammation-emergents-glyca-gdf15-supar",
+  "biomarqueurs-inflammation-ratio-neutrophiles-lymphocytes-nlr",
+  "horloges-epigenetiques-et-age-biologique",
+  "myokines",
+  "surentrainement-et-inflammation-de-bas-grade"
+ ],
+ "marqueurs": [],
+ "mesure": "sang",
+ "nb_pmid": 25,
+ "nb_seuils": 5,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "20031199",
+  "39485740",
+  "28845751",
+  "36218336",
+  "37762957",
+  "30537394",
+  "24388541",
+  "28866452",
+  "27136058",
+  "38636622",
+  "20854422",
+  "24312445",
+  "39868911",
+  "22909410",
+  "42579565",
+  "42580608",
+  "30002404",
+  "30065258",
+  "32865380",
+  "30415610",
+  "40588649",
+  "30046148",
+  "39740358",
+  "26799247",
+  "30638080"
+ ],
+ "preuve_globale": "A",
+ "resume": "Un seul marqueur d'inflammation a un dossier solide : la hs-CRP, et son apport reste modeste : association à la maladie coronaire (RR 1,37 par ×3) mais aussi à la mortalité non vasculaire (RR 1,54), variabilité intra-individuelle ≈ 41 % [A] (PMID 20031199, 39485740, repris de la fiche CRP). Les a…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Un seul marqueur d'inflammation a un dossier solide : la hs-CRP**, et son apport reste modeste : association à la maladie coronaire (RR 1,37 par ×3) mais aussi à la mortalité non vasculaire (RR 1,54), variabilité intra-individuelle ≈ 41 % [A] (PMID 20031199, 39485740, repris de la [fiche CRP](fiche:biomarqueur-crp-hscrp)). Les autres marqueurs prédisent aussi en cohorte, mais aucun n'a un meilleur dossier d'action.\n- **Les marqueurs ne sont pas interchangeables avec des objectifs de traitement** : ce sont des témoins. Le test d'un traitement anti-inflammatoire n'a fonctionné que quand l'inflammation baissait réellement et sur des patients cardiaques (CANTOS, colchicine), pas pour le méthotrexate (aucune baisse d'IL-6 ou de CRP, aucun bénéfice).\n- **Inflammaging** : l'augmentation des marqueurs avec l'âge est réelle dans les populations industrialisées mais pas universelle (Tsimane et Orang Asli : peu ou pas d'association avec l'âge) ; le bénéfice de cibler l'inflammation est démontré en prévention cardiovasculaire secondaire, **pas** pour prolonger la vie ou la durée de vie en bonne santé [?].\n- Le plus utile pour la plupart des gens : contrôler les causes (tabac, obésité viscérale, inactivité, sommeil) plutôt que de multiplier les dosages.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Critères : preuve de prédiction (cohortes, méta-analyses), preuve d'intervention (essais), disponibilité, spécificité, existence d'une action. Le classement est un jugement fondé sur les sources citées, pas une règle officielle.\n\n| Marqueur | Classement | Pourquoi (une ligne) |\n|---|---|---|\n| **hs-CRP** | **Utile** (avec réserves) | Meilleur dossier : méta-analyse [A] de 160 309 sujets, seuil de risque en prévention secondaire, essais d'intervention qui ont ciblé l'inflammation chez des patients sélectionnés par une hs-CRP élevée (CANTOS : hs-CRP ≥ 2 mg/L) ; mais non spécifique et très variable (PMID 20031199, 28845751). |\n| **Ferritine** | **Utile, mais pour le fer** | Marqueur de réserves en fer, aussi réactif de phase aiguë : à lire avec la CRP. Mortalité minimale à 60 µg/L (femmes) et 125 µg/L (hommes) dans une cohorte danoise de 161 921 sujets, courbe en U, y compris si CRP ≥ 10 mg/L [B, cohorte] (PMID 36218336). Pas un marqueur d'inflammaging. |\n| **Albumine** | **Utile comme signal de gravité/nutrition, pas comme marqueur d'inflammaging** | Réactif de phase aiguë négatif : sa baisse prédit une survie plus courte dans de nombreuses maladies hospitalières [B, revue narrative] (PMID 37762957). Déjà sur beaucoup de bilans. Valeur prédictive chez le sujet sain : non relue [?]. |\n| **VS** | **Peu utile** | Prédit la mortalité en cohorte (HR 1,23 pour 20–50 mm/h, 1,89 au-delà de 50 ; Rotterdam, n = 5 226) [B] (PMID 30537394) ; examen d'orientation clinique, non spécifique, augmente avec l'âge. Voir [fibrinogène et VS](fiche:biomarqueur-fibrinogene-et-vs). |\n| **Fibrinogène** | **Peu utile** | Preuve épidémiologique ancienne mais aucune action ciblée ; non meilleur que la CRP dans la cohorte chinoise relue dans la fiche dédiée. Voir [fibrinogène et VS](fiche:biomarqueur-fibrinogene-et-vs). |\n| **NLR** | **Peu utile** | Gratuit sur la NFS, mais pas de seuil, dépend de l'âge ; n'améliore pas le C-index de Framingham (0,8709 → 0,8713) en population générale [B] (PMID 24388541). Voir [fiche NLR](fiche:biomarqueurs-inflammation-ratio-neutrophiles-lymphocytes-nlr). |\n| **IL-6** | **Inutile hors recherche** | Prédit chez les ≥ 60 ans (RR de mortalité 1,49, cardiovasculaire 1,69 pour le tertile haut vs bas ; 9 études, 9 087 sujets) [B, méta-analyse d'observationnelles] (PMID 28866452) mais pas mieux que la hs-CRP, dosage peu standardisé, aucun seuil d'action ([fiche IL-6](fiche:biomarqueur-il6-interleukine-6)). |\n| **GlycA** | **Inutile hors recherche** | Stable et prédit les infections sévères et la calcification coronaire [B] (PMID 27136058, 38636622), mais rien ne change dans la décision. |\n| **GDF-15** | **Inutile hors recherche** | Prédit la mortalité (OR 3,38) [B] (PMID 20854422) mais suit surtout la fragilité d'organe (cœur, reins, tabac) ; monte sous metformine (PMID 24312445, 39868911). |\n| **suPAR** | **Inutile hors recherche** | Prédit en population générale (HR 1,74–2,09 après Framingham) [B] (PMID 22909410), capte un risque résiduel hors hs-CRP chez des patients (PMID 42579565) mais aucun traitement ciblé, dosages non standardisés (PMID 42580608). |\n\nConditions pour sortir de « inutile hors recherche » : dosage standardisé, seuil d'action défini, et essai montrant qu'agir sur le marqueur change les événements. Aucun des quatre n'est dans ce cas dans les sources relues [?].",
+   "titre": "Classement"
+  },
+  {
+   "markdown": "Les seuils sont dans les fiches par marqueur, pour ne pas les dupliquer ; cette fiche de synthèse n'en définit aucun.\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| hs-CRP | mg/L | voir la fiche | seuils et sources dans [CRP / hs-CRP](fiche:biomarqueur-crp-hscrp) | adulte | renvoi, aucun seuil ici |\n| IL-6 | pg/mL | voir la fiche | seuils et sources dans [IL-6](fiche:biomarqueur-il6-interleukine-6) | adulte | renvoi, aucun seuil ici |\n| Fibrinogène, VS | g/L ; mm/h | voir la fiche | seuils et sources dans [fibrinogène et VS](fiche:biomarqueur-fibrinogene-et-vs) | adulte | renvoi, aucun seuil ici |\n| NLR | sans unité | voir la fiche | intervalles de référence dans [NLR](fiche:biomarqueurs-inflammation-ratio-neutrophiles-lymphocytes-nlr) | adulte | renvoi, aucun seuil ici |\n| GlycA, GDF-15, suPAR | µmol/L ; ng/L ; ng/mL | — | aucun seuil validé ; voir [GlycA, GDF-15, suPAR](fiche:biomarqueurs-inflammation-emergents-glyca-gdf15-supar) | adulte | non retrouvé [?] |",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "**Démontré**\n- **Des marqueurs plus hauts avec l'âge** : NLR, PLR et SII augmentent avec l'âge (Rotterdam, n = 8 711) [B] (PMID 30002404) ; la hs-CRP, l'IL-6 et la VS aussi dans les cohortes citées. Ferrucci décrit l'inflammageing comme présente chez la plupart des sujets âgés, associée à morbidité, invalidité, fragilité et décès prématuré [B, revue] (PMID 30065258).\n- **Association avec la mortalité** : IL-6 (RR 1,49 toutes causes chez ≥ 60 ans) [B] (PMID 28866452) ; VS (HR 1,23 et 1,89) [B] (PMID 30537394) ; CRP (RR 1,54 non vasculaire) [A] (PMID 20031199). L'association ne distingue pas cause et conséquence : un état de santé qui se dégrade augmente aussi les marqueurs.\n- **Causalité cardiovasculaire, chez des patients** : canakinumab (anti-IL-1β) sur 10 061 patients ayant eu un infarctus et une hs-CRP ≥ 2 mg/L : HR 0,85 (0,74–0,98) pour 150 mg sur le critère principal, sans modifier les lipides [A, ECR] (PMID 28845751) ; colchicine 0,5 mg/j chez 5 522 coronariens chroniques : HR 0,69 (0,57–0,83) [A, ECR] (PMID 32865380). Un essai de méthotrexate faible dose (4 786 patients) est négatif : HR 0,96 (0,79–1,16), sans baisse d'IL-1β, d'IL-6 ni de CRP [A, ECR] (PMID 30415610). Lecture : l'inflammation est une cible en prévention secondaire, à condition de la réduire vraiment ; le canakinumab a un coût (infections, voir [fiche CRP](fiche:biomarqueur-crp-hscrp)).\n- **Dépend de l'environnement** : dans une étude comparant cohortes industrialisées (InCHIANTI, Singapour) et deux populations non industrialisées (Tsimane, Orang Asli), l'axe inflammatoire ne se retrouve pas chez ces dernières et n'est pas associé aux maladies liées à l'âge ; les auteurs concluent que l'inflammaging, mesuré ainsi, est « largement un sous-produit des modes de vie industrialisés » [B] (PMID 40588649).\n\n**Non démontré**\n- **Qu'abaisser l'inflammation de bas grade prolonge la vie ou la durée de vie en bonne santé chez le sujet sans maladie** : aucun essai retrouvé [?]. Les essais positifs portent sur des coronariens (hs-CRP élevée à l'inclusion pour CANTOS).\n- **Un bénéfice hors cardiovasculaire** : Ferrucci écrit que savoir si moduler l'inflammation améliore l'évolution des problèmes non cardiovasculaires est controversé, et que l'effet sur fragilité et multimorbidité repose sur des mécanismes qui « requièrent confirmation chez l'humain » [B, revue] (PMID 30065258).\n- **Un score d'inflammaging validé en pratique** : Franceschi propose de nouveaux biomarqueurs (méthylation, glycomique, métabolomique) pour évaluer l'âge biologique [revue, hypothèse] (PMID 30046148) ; voir [horloges épigénétiques](fiche:horloges-epigenetiques-et-age-biologique). Un score pour décider d'un traitement : non établi [?].\n- **Que les compléments « anti-inflammatoires » réduisent le risque** : une baisse de CRP isolée n'est pas un critère clinique (voir [fiche CRP](fiche:biomarqueur-crp-hscrp)).\n- **Le statut en France de la colchicine à 0,5 mg/j en prévention cardiovasculaire** : non consulté (BDPM) [?].",
+   "titre": "Inflammaging : démontré ou non"
+  },
+  {
+   "markdown": "Pas des « traitements de l'inflammaging », mais des leviers qui font baisser des marqueurs :\n- Entraînement en résistance chez les ≥ 60 ans : CRP −0,74 mg/L [A] (PMID 39740358, repris de la fiche CRP) ; autres effets de l'exercice : [myokines](fiche:myokines).\n- Arrêt du tabac : suPAR retombe au niveau des non-fumeurs en 4 semaines [B] (PMID 26799247).\n- Exercice aérobie 12 semaines : GDF-15 plus bas chez des prédiabétiques [B] (PMID 39868911).\n- Surentraînement et inflammation : [fiche dédiée](fiche:surentrainement-et-inflammation-de-bas-grade).\nAucune de ces baisses n'est démontrée comme réduisant les événements en dehors de leurs bénéfices connus.",
+   "titre": "Leviers non médicamenteux documentés"
+  },
+  {
+   "markdown": "1. hs-CRP, une fois hors infection, éventuellement répétée ; ne pas la traiter isolément.\n2. NLR : regarder la NFS déjà faite ; ne pas en faire un objectif.\n3. Ferritine : pour le fer, avec CRP ; albumine si bilan hospitalier ou suspicion de dénutrition.\n4. Ne pas payer IL-6, GlycA, GDF-15, suPAR pour guider une décision.\n5. Les facteurs causaux restent prioritaires : [ApoB](fiche:biomarqueur-apob), tension, glycémie.",
+   "titre": "Quoi doser, concrètement"
+  },
+  {
+   "markdown": "Les dosages courants (CRP, ferritine, albumine, VS, NFS) sont des examens de biologie médicale ; remboursement et cotation exacts non consultés [?]. Pour GlycA, GDF-15, suPAR : voir la [fiche dédiée](fiche:biomarqueurs-inflammation-emergents-glyca-gdf15-supar) (non consulté [?]).",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Multiplier les dosages « d'inflammation » sans avoir identifié ce qu'on ferait d'un résultat.\n- Confondre prédire et agir : un marqueur prédictif n'est pas une cible.\n- Interpréter une ferritine haute comme une réserve de fer sans CRP.\n- Traiter la baisse d'un chiffre (CRP, GDF-15) comme un gain de santé.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« L'inflammaging est la cause du vieillissement et il faut la traiter »** : démontré comme facteur de risque et cible cardiovasculaire chez des patients, pas comme traitement du vieillissement ; absente ou sans lien avec l'âge dans des populations non industrialisées (PMID 40588649, 30065258).\n- **« Un panel inflammation complet évalue votre âge biologique »** : aucune source relue ne valide un tel panel pour décider ; les horloges épigénétiques ont leur propre fiche (voir [horloges](fiche:horloges-epigenetiques-et-age-biologique)).\n- **« Baissez votre CRP avec ce complément »** : voir [fiche CRP](fiche:biomarqueur-crp-hscrp).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Le méthotrexate à faible dose, anti-inflammatoire classique, n'a pas réduit la CRP ni l'IL-6 dans CIRT et n'a pas réduit les événements ; le bénéfice semble lié à la réduction effective de l'inflammation (PMID 30415610, 28845751).\n- La ferritine associée à la mortalité la plus faible est quasi identique avec ou sans CRP ≥ 10 mg/L (60 vs 52 µg/L chez la femme) (PMID 36218336).\n- Le NLR normal est presque deux fois plus étalé après 76 ans qu'avant (PMID 30638080).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "CRP > 10 mg/L persistante, fièvre, perte de poids, douleurs articulaires, ferritine très élevée ou très basse, albumine basse : à voir avec un médecin ; seuils non sourcés ici [?].",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 20031199 — Emerging Risk Factors Collaboration, Kaptoge S et al., CRP and CHD, stroke, mortality. *Lancet* 2010 (repris de la fiche CRP).\n- PMID 39485740 — variabilité intra-individuelle de la CRP (repris de la fiche CRP, titre non relu ici).\n- PMID 39740358 — Nejatian Hoseinpour A et al., résistance et marqueurs inflammatoires. *Arch Gerontol Geriatr* 2025 (repris de la fiche CRP).\n- PMID 28845751 — Ridker PM et al., Antiinflammatory Therapy with Canakinumab for Atherosclerotic Disease. *N Engl J Med* 2017.\n- PMID 32865380 — Nidorf SM et al., Colchicine in Patients with Chronic Coronary Disease. *N Engl J Med* 2020.\n- PMID 30415610 — Ridker PM et al., Low-Dose Methotrexate for the Prevention of Atherosclerotic Events. *N Engl J Med* 2019.\n- PMID 30065258 — Ferrucci L, Fabbri E, Inflammageing: chronic inflammation in ageing, cardiovascular disease, and frailty. *Nat Rev Cardiol* 2018.\n- PMID 30046148 — Franceschi C et al., Inflammaging: a new immune-metabolic viewpoint for age-related diseases. *Nat Rev Endocrinol* 2018.\n- PMID 40588649 — Franck M et al., Nonuniversality of inflammaging across human populations. *Nat Aging* 2025.\n- PMID 28866452 — Li H et al., Circulating IL-6 levels and cardiovascular and all-cause mortality in the elderly population: a meta-analysis. *Arch Gerontol Geriatr* 2017.\n- PMID 30537394 — Fest J et al., Erythrocyte sedimentation rate as an independent prognostic marker for mortality. *J Intern Med* 2019.\n- PMID 36218336 — Mitchell NH et al., Association of ferritin and transferrin saturation with all-cause mortality, and the effect of concurrent inflammation: a Danish cohort study. *Scand J Clin Lab Invest* 2022.\n- PMID 37762957 — Gremese E et al., Serum Albumin Levels: A Biomarker to Be Repurposed in Different Disease Settings in Clinical Practice. *J Clin Med* 2023.\n- PMID 30002404 — Fest J et al., Reference values for white blood-cell-based inflammatory markers in the Rotterdam Study. *Sci Rep* 2018.\n- PMID 30638080 — Christiansen MH et al., NLR distributions in a Danish population from general practice. *Scand J Clin Lab Invest* 2019.\n- PMID 24388541 — Shah N et al., NLR improves the Framingham risk score: NHANES-III. *Int J Cardiol* 2014.\n- PMID 27136058 — Ritchie SC et al., The Biomarker GlycA Is Associated with Chronic Inflammation and Predicts Long-Term Risk of Severe Infection. *Cell Syst* 2015.\n- PMID 38636622 — Filho RCF et al., GlycA and coronary artery calcium, ELSA-Brasil. *Am J Cardiol* 2024.\n- PMID 20854422 — Wiklund FE et al., MIC-1/GDF15: a new marker of all-cause mortality. *Aging Cell* 2010.\n- PMID 24312445 — Wallentin L et al., GDF-15 for prognostication of cardiovascular and cancer morbidity and mortality in men. *PLoS One* 2013.\n- PMID 39868911 — Yıldırım Ayaz E et al., Exercise and GDF-15 in prediabetes (RCT). *J Diabetes Investig* 2025.\n- PMID 22909410 — Lyngbæk S et al., suPAR, CRP and Framingham Risk Score. *Int J Cardiol* 2013.\n- PMID 42579565 — Ismail A et al., suPAR beyond hs-CRP in T2D with CAD (BARI 2D). *Diabetes Care* 2026.\n- PMID 42580608 — Napolitano F et al., suPAR as a circulating inflammatory biomarker: a systematic review. *Clin Chim Acta*.\n- PMID 26799247 — Eugen-Olsen J et al., Plasma suPAR is lowered by smoking cessation: a randomized controlled study. *Eur J Clin Invest* 2016.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueurs d'inflammation : panorama comparatif et inflammaging",
+ "type": "biomarqueur",
+ "unite": ""
+}

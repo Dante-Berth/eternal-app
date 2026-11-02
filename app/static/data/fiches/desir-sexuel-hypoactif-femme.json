@@ -1,0 +1,67 @@
+{
+ "cibles": [
+  "hormones-sexualite"
+ ],
+ "derniere_maj": "2026-10-08",
+ "famille": "",
+ "id": "desir-sexuel-hypoactif-femme",
+ "intro": "",
+ "liens": [
+  "flibanserine"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "38905407",
+  "27663307"
+ ],
+ "preuve_globale": "A",
+ "resume": "Seule la flibansérine a un grand corpus d'essais : 8 essais, n=7906 [A] ; gain de 0,69 rapport satisfaisant par mois par rapport au placebo chez la préménopausée.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Seule la flibansérine a un grand corpus d'essais : 8 essais, n=7906 [A] ; gain de 0,69 rapport satisfaisant par mois par rapport au placebo chez la préménopausée.\n- Aucune spécialité à base de flibansérine dans la BDPM ni dans le rapport EMA des médicaments (EPAR) (consulté le 2026-10-08) : hors du circuit légal en France. Seul document EMA trouvé : une dérogation pédiatrique de 2008. Absence aux États de l'UE autres que la France : non vérifiée procédure par procédure.\n- Les effets indésirables (vertiges, somnolence, nausées, fatigue, insomnie) sont plus fréquents que sous placebo [A].\n- Compléments « libido féminine », hormones (ménopause), bupropion, sexothérapie : non recherchés dans cette session [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Non extraits [?]. Un désir bas est souvent multifactoriel (relation, santé mentale, médicaments, ménopause) ; ce point n'est pas sourcé ici.",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| [Flibansérine](fiche:flibanserine) | non extrait | [A] effet modeste | absente de la BDPM et de l'EPAR EMA | non applicable |\n| Testostérone chez la femme, tibolone, DHEA | — | [?] non recherché | tibolone : Livial, liste I (BDPM) ; prastérone (DHEA) vaginale : Intrarosa, liste I (BDPM, indication non vérifiée) ; testostérone : spécialités BDPM à indication masculine, aucune spécialité féminine trouvée ; Intrinsa (testostérone, EMA) cité dans le rapport EMA comme médicament centralisé, statut non lu | — |\n| Brémélanotide (PT-141, injectable) | agoniste mélanocortine | [?] non recherché ; fiche à écrire sans protocole | absent de la BDPM et du rapport EMA (consulté le 2026-10-08) ; AMA non vérifié | — |\n| TCC / sexothérapie | — | [?] non recherché | acte libre | — |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Non rédigés.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Attribuer la baisse de désir à une hormone avant d'avoir examiné médicaments (antidépresseurs…), contexte et douleur [?].",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "À compléter après recherche (« viagra féminin » : la flibansérine n'agit pas à la demande ni sur la vascularisation, d'après les protocoles d'essais courants ; non sourcé ici).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Les différences sur le désir (FSFI-d, MD 0,30) sont petites, même significatives [A] (PMID 38905407).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Baisse de désir gênante, douleurs aux rapports, ménopause, ou changement après un médicament : gynécologue ou médecin traitant.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 38905407 — Kamrul-Hasan et al., Medicine (Baltimore) 2024 (8 RCT, n=7906).\n- PMID 27663307 — Terrier et al., Prog Urol 2016 (revue, 4 essais).\n- BDPM (fichiers de téléchargement), https://base-donnees-publique.medicaments.gouv.fr/telechargement — consulté le 2026-10-08 : aucune spécialité flibansérine ni brémélanotide ; Livial, Intrarosa présents.\n- EMA, rapport des médicaments : https://www.ema.europa.eu/en/documents/report/medicines-output-medicines-report_en.xlsx — consulté le 2026-10-08.\n- EMA, décision pédiatrique P/20/2008 : https://www.ema.europa.eu/en/medicines/human/paediatric-investigation-plans/flibanserin — consulté le 2026-10-08.\n- Non vérifiés : liste AMA 2026, indications de Livial/Intrarosa, statut de l'Intrinsa.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "Trouble du désir sexuel hypoactif chez la femme",
+ "type": "condition",
+ "unite": ""
+}

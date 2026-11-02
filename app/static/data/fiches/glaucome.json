@@ -1,0 +1,88 @@
+{
+ "cibles": [
+  "sens-bouche",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "glaucome",
+ "intro": "",
+ "liens": [
+  "exercice-physique",
+  "myopie-enfant-adolescent",
+  "tabac-et-alcool",
+  "vue-dmla-et-cataracte"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "12365904",
+  "25533656",
+  "30862377",
+  "35608575",
+  "35040248",
+  "39513294",
+  "36122660",
+  "37615697",
+  "9780094",
+  "39160282",
+  "39212799"
+ ],
+ "preuve_globale": "A",
+ "resume": "Maladie du nerf optique, silencieuse jusqu'à un stade avancé ; le seul levier traité avec preuve est la baisse de la pression intraoculaire (PIO).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Maladie du nerf optique, silencieuse jusqu'à un stade avancé ; le seul levier traité avec preuve est la baisse de la pression intraoculaire (PIO).\n- Abaisser la PIO ralentit la progression : 45 % vs 62 % de progression avec traitement vs rien à 6 ans [B, ECR unique n=255] (PMID 12365904) ; latanoprost vs placebo, HR de détérioration du champ visuel 0,44 [B, ECR unique n=516] (PMID 25533656).\n- Le laser (SLT) en première intention est une alternative aux collyres [B, ECR unique n=718] (PMID 30862377).\n- Pas de dépistage de masse prouvé (USPSTF : preuves insuffisantes) ; la tonométrie seule rate la moitié des cas (sensibilité 0,48) (PMID 35608575).\n- Nutrition, compléments, exercice : preuves insuffisantes pour traiter ; ne remplacent rien.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Perte progressive de cellules ganglionnaires de la rétine et du champ visuel. La PIO est le facteur modifiable établi ; le glaucome à pression « normale » existe, avec une composante vasculaire discutée (PMID 35040248, revue narrative).\n- Facteurs de risque du glaucome à angle ouvert (méta-analyse d'études prospectives, 50 études) : antécédent familial OR 2,49 (IC 1,92-3,24), myopie OR 2,08 (1,59-2,70), âge (OR 1,07 par année), PIO élevée ; incidence annuelle cumulée 0,21 % [A, observationnel] (PMID 39513294).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "- USPSTF 2022 : preuves insuffisantes pour dépister l'adulte asymptomatique (énoncé I). La revue sous-jacente : tonométrie sensibilité 0,48 (IC 0,31-0,66), OCT 0,79 (spécificité 0,92), périmétrie 0,87 (spécificité 0,82) ; aucun essai de dépistage ne montre de bénéfice visuel (PMID 35608575). Sur le terrain, on dépiste donc les personnes à risque (antécédent familial, myopie forte, âge) lors d'un examen ophtalmologique complet, pas par une tonométrie isolée.\n- Recommandation française de fréquence : non consultée [?].",
+   "titre": "Dépistage"
+  },
+  {
+   "markdown": "| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Collyre analogue de prostaglandine (latanoprost) | augmente l'écoulement de l'humeur aqueuse | HR 0,44 (IC 0,28-0,69) de détérioration du champ visuel à 24 mois vs placebo, baisse de PIO 3,8 vs 0,9 mmHg ; 516 patients ; financement Pfizer et NIHR [B, ECR unique n=516] (PMID 25533656) | médicament sur ordonnance ; génériques latanoprost, latanoprost/timolol présents et commercialisés (BDPM, consulté le 2026-10-15) | non relevé |\n| Baisse de PIO (laser + bêtabloquant) vs rien | — | progression 58/129 (45 %) vs 78/126 (62 %), P = 0,007, PIO -5,1 mmHg (25 %) ; médiane 6 ans ; augmentation de l'opacité du cristallin dans le groupe traité [B, ECR unique n=255] (PMID 12365904) | acte et médicaments | non relevé |\n| Trabéculoplastie laser sélective (SLT) première ligne | remodelage du trabéculum | 3 ans : QoL EQ-5D sans différence (0,89 vs 0,90) ; 74,2 % sans collyre ; chirurgie 0 vs 11 patients [B, ECR unique n=718] (PMID 30862377) ; à 6 ans, progression 19,6 % vs 26,8 % (laser vs collyres, P = 0,006), 69,8 % des yeux sous la PIO cible sans autre traitement [B, ECR unique n=718] (PMID 36122660) | acte médical ; remboursement non consulté [?] | non relevé |\n| Netarsudil/latanoprost | inhibiteur de Rho-kinase + prostaglandine | non-infériorité vs bimatoprost/timolol sur la PIO à 3 mois (PIO moyenne ≈ 15,5 mmHg), n=430, critère PIO seulement [B, ECR unique n=430] (PMID 37615697) | statut FR non consulté [?] | non relevé |\n| Glaucome à pression normale : baisse de PIO de 30 % | — | analyse en intention de traiter : progression 22/66 vs 31/79 non significative (P = 0,21) ; significative (8/66 vs 21/79) en censurant la cataracte postopératoire [B, ECR unique n=145] (PMID 9780094) | — | — |\n| Exercice | baisse transitoire de PIO | revue de 15 études : baisse immédiate après une séance ; effet des programmes longs variable, conclusion « non concluante » [B, faible] (PMID 39160282) | — | gratuit |\n| Statines | — | réseau de méta-analyses : rosuvastatine RR 1,23 (IC 1,03-1,46), simvastatine 1,21, pravastatine 1,20 de glaucome vs placebo, études hétérogènes ; ne pas arrêter une statine sur cette base [A, faible certitude] (PMID 39212799) | — | — |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Débutant : examen ophtalmologique complet si antécédent familial, myopie forte ou plus de 50 ans ; ne pas se fier à une tonométrie seule.\n- Intermédiaire (glaucome diagnostiqué) : PIO cible fixée par l'ophtalmologiste, suivi par champ visuel et OCT ; discuter SLT versus collyres (PMID 30862377).\n- Avancé : chirurgie filtrante ou MIGS si échec ; non recherché ici [?].\n- Observance : non recherchée dans cette fiche [?] ; c'est pourtant la limite pratique des collyres.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Se croire sain parce que la PIO est « normale » (PMID 35608575).\n- Arrêter les collyres parce qu'on ne sent rien : la perte de champ est irréversible, la maladie ne fait pas mal.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Compléments / ginkgo / myrtille pour le glaucome » : aucun essai relu ici, donc rien de démontré [?]. Non recherché spécifiquement (nicotinamide, cannabis, nitrate : non lus).\n- « Le yoga ou le sport soigne le glaucome » : l'exercice baisse la PIO sur quelques heures, durablement non démontré [B, faible] (PMID 39160282).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Dans un essai de dépistage chez des personnes âgées fragiles, le dépistage s'accompagnait de plus de chutes (RR 1,31, IC 1,13-1,50), sans gain visuel (PMID 35608575).\n- Le glaucome à pression normale a un bénéfice de baisse de PIO difficile à montrer à cause de la cataracte induite par la chirurgie (PMID 9780094).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Antécédent familial, myopie forte, diabète : examen régulier. Urgence immédiate : douleur oculaire intense avec halos, rougeur et baisse brutale de vue (glaucome aigu par fermeture de l'angle ; conduite d'urgence non sourcée ici).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "[Vue : DMLA et cataracte](fiche:vue-dmla-et-cataracte) · [Myopie de l'enfant](fiche:myopie-enfant-adolescent) (myopie = facteur de risque) · [Exercice physique](fiche:exercice-physique) · [Tabac et alcool](fiche:tabac-et-alcool)",
+   "titre": "Voir aussi"
+  },
+  {
+   "markdown": "- PMID 12365904 — Heijl A et al., EMGT, *Arch Ophthalmol* 2002 (résumé relu).\n- PMID 25533656 — Garway-Heath DF et al., UKGTS, *Lancet* 2015 (résumé relu ; financement Pfizer).\n- PMID 30862377 — Gazzard G et al., LiGHT, *Lancet* 2019 (résumé relu).\n- PMID 36122660 — Gazzard G et al., LiGHT 6 ans, *Ophthalmology* 2023 (résumé relu).\n- PMID 37615697 — Stalmans I et al., MERCURY-3, *Graefes Arch* 2024 (résumé relu).\n- PMID 9780094 — Collaborative Normal-Tension Glaucoma Study Group, *Am J Ophthalmol* 1998 (résumé relu).\n- PMID 35608575 — Chou R et al., *JAMA* 2022 (résumé relu).\n- PMID 39513294 — Shan et al., *J Glob Health* 2024 (résumé relu).\n- PMID 35040248 — Leung et al., *Clin Exp Ophthalmol* 2022 (résumé relu).\n- PMID 39160282 — González-Devesa et al., *Int Ophthalmol* 2024 (résumé relu).\n- PMID 39212799 — Pan et al., *Graefes Arch* 2025 (résumé relu).\n- BDPM, base de données publique des médicaments, fichier CIS_bdpm (mis à jour le 2026-09-29, consulté le 2026-10-15).\n- Non cherché : recommandation française, remboursement SLT, nutrition/compléments.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Glaucome",
+ "type": "condition",
+ "unite": ""
+}

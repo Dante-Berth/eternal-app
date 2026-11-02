@@ -1,0 +1,83 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "",
+ "id": "prp",
+ "intro": "",
+ "liens": [
+  "alopecie-androgenetique",
+  "greffe-capillaire",
+  "laser-basse-intensite",
+  "minoxidil"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "40944844",
+  "39013743",
+  "37533146",
+  "32410524",
+  "35100488",
+  "29797431",
+  "41219547",
+  "42799286",
+  "42682108",
+  "41069573",
+  "36729475"
+ ],
+ "preuve_globale": "A",
+ "resume": "Le PRP augmente modestement la densité capillaire dans l'alopécie androgénétique d'après plusieurs méta-analyses [A, faible certitude], sans effet démontré sur l'épaisseur du cheveu, avec des essais hétérogènes, un biais de publication et un cadre légal français ambigu : c'est un complément cher…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Le PRP augmente modestement la densité capillaire dans l'alopécie androgénétique d'après plusieurs méta-analyses [A, faible certitude], sans effet démontré sur l'épaisseur du cheveu, avec des essais hétérogènes, un biais de publication et un cadre légal français ambigu : c'est un complément cher du minoxidil, pas un substitut.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- **Peut améliorer** : densité (nombre de cheveux/cm²) et chute dans l'AGA [A, faible certitude] (PMID 40944844, 39013743, 37533146).\n- **Ne corrige pas de façon démontrée** : le diamètre (épaisseur) du cheveu (PMID 40944844, 39013743, 37533146) ; les zones totalement chauves (il faut des follicules vivants ; logique du mécanisme, [?] pas d'étude dédiée trouvée).\n- Aucune durée d'effet établie sans entretien [?].",
+   "titre": "Ce que ça corrige / ne corrige pas"
+  },
+  {
+   "markdown": "- **Méta-analyse 2025, 43 ECR, 1 877 participants (alopécies confondues)** : PRP activé efficace sur la densité et la récidive vs placebo ; PRP non activé associé à plus d'effets indésirables ; chute réduite ; **pas d'effet significatif sur l'épaisseur** ; « preuve modérée » selon les auteurs [A] (PMID 40944844). Auteurs affiliés à BTI Biotechnology Institute (entreprise privée, Vitoria) : affiliation industrielle à garder en tête.\n- **Méta-analyse 2024 (13 ECR dans la méta-analyse, AGA)** : +27,55 cheveux/cm² (IC95 14,04-41,06) vs placebo, I² = 96 % ; diamètre +2,02 µm, non significatif ; **études très hétérogènes, de faible qualité, biais de publication évident**, certitude GRADE faible [A, faible certitude] (PMID 39013743).\n- **Méta-analyse 2023, 9 ECR, 238 patients** : densité ↑ vs placebo à 3 et 6 mois ; nombre et diamètre des cheveux non différents du placebo [A] (PMID 37533146).\n- **Résultats contradictoires sur l'épaisseur** : une méta-analyse de 2020 (10 ECR) concluait à une hausse de la densité **et** de l'épaisseur [A, contradictoire] (PMID 32410524). Les analyses plus récentes et plus larges ne retrouvent pas l'effet sur l'épaisseur.\n- **Biais de design** : dans les essais « demi-tête » (split-scalp), le côté placebo perd beaucoup moins de cheveux que le groupe placebo des essais « tête entière » (≈ 37 cheveux/cm² d'écart à 6 mois), sans doute par diffusion du PRP vers le côté témoin ; cela brouille les conclusions [B, synthèse quantitative] (PMID 35100488).\n- **Méta-analyse en réseau 2018** : PRP à peu près équivalent à finastéride et minoxidil sur le nombre de cheveux, mais qualité de la comparaison PRP vs placebo « très faible » [A, très faible certitude] (PMID 29797431).\n- **PRP vs minoxidil topique, méta-analyse 2025 (9 ECR, 451 participants)** : pas de différence significative sur la densité ; satisfaction plus élevée sous PRP (OR 2,77 ; IC95 1,53-5,04) ; hétérogénéité élevée ; les auteurs concluent à l'absence d'avantage clair du PRP [A, faible certitude] (PMID 41219547).\n- **PRP vs minoxidil 5 %** : revue systématique 2026, 4 ECR, 226 patients, surtout des hommes, suivi 6 mois, préparations trop différentes pour une méta-analyse ; aucune monothérapie ne domine ; l'association PRP + minoxidil donne les résultats les plus favorables [A, faible certitude] (PMID 42799286).\n- **Long terme** : Gentile 2026, 234 patients AGA (135 hommes, 99 femmes), 3 séances de PRP non activé : +31,4 % de densité, +26,8 % d'épaisseur et +29,7 % de nombre de cheveux à 12 mois **par rapport à l'état initial** ; +24,1 % à 36 mois, +17,3 % à 60 mois, +11,2 % à 120 mois chez les patients en entretien. Le titre annonce un essai « randomisé, évaluateur en aveugle », mais le résumé ne décrit **aucun groupe témoin** : c'est une comparaison avant/après [B, avant/après] (PMID 42682108). Inclusions de 2015 à 2025 alors qu'un suivi de 120 mois est rapporté : seule une partie des patients peut l'avoir atteint. Auteur unique. Cette étude ne porte pas sur la greffe.\n- **PRP après greffe** : 3 études (2 ECR), 217 participants, résultats favorables mais non standardisés [B] (PMID 41069573). Voir [greffe capillaire](fiche:greffe-capillaire).",
+   "titre": "Preuves (efficacité, durabilité) avec tags"
+  },
+  {
+   "markdown": "- Effets surtout locaux et transitoires : douleur, saignement, démangeaisons [A] (PMID 36729475) ; douleur après injection [A] (PMID 42799286). Pas d'effet grave rapporté dans les méta-analyses [A] (PMID 37533146, 40944844). Le PRP non activé a plus d'effets indésirables que le PRP activé [A] (PMID 40944844).\n- Fréquences poolées précises non disponibles dans les résumés lus [?].",
+   "titre": "Complications et fréquences"
+  },
+  {
+   "markdown": "- L'ANSM a rappelé en janvier 2018 que l'usage des concentrés plaquettaires autologues (CPA/PRP) **à visée esthétique est interdit** : le CSP (art. L1221-8) ne permet leur usage qu'à **des fins thérapeutiques, dans le cadre d'une seule intervention médicale**, sans conservation ni préparation par un tiers ; les médecins contrevenants s'exposent à des sanctions pénales et disciplinaires (point d'information ANSM du 10 janvier 2018, relayé par [Vidal](https://www.vidal.fr/actualites/22531-concentres-plaquettaires-autologues-l-ansm-rappelle-leur-interdiction-en-injection-a-visee-esthetique.html), consulté le 2026-10-03 ; la page ANSM d'origine renvoie une erreur 404 à cette date).\n- **Zone grise** : je n'ai trouvé aucun texte officiel disant si le PRP pour une AGA diagnostiquée est « thérapeutique » (autorisé) ou « esthétique » (interdit). Des praticiens le présentent comme thérapeutique ; ce n'est pas une position de l'ANSM [?]. En pratique : uniquement par un médecin, après diagnostic, et jamais en institut.\n- Non remboursé (sources de cliniques, pas de source Assurance Maladie trouvée) [?].",
+   "titre": "Qui peut le pratiquer en France (réglementation)"
+  },
+  {
+   "markdown": "- 300 € la séance, 330 € « enrichie », protocole de 3 à 4 séances à un mois d'intervalle puis entretien tous les 6 à 9 mois (Clinique du Grand Paris, consulté le 2026-10-03) ; à partir de 400 €, protocole de 3 séances à 1 200 € (Dr Ktorza, Paris, consulté le 2026-10-03). Ordre de grandeur : ≈ 900-1 350 € la première année, puis entretien. Sources commerciales : fait de prix uniquement.\n- Durabilité sans entretien : inconnue [?] ; le seul suivi long (Gentile) concerne des patients en entretien et n'a pas de groupe témoin [B].",
+   "titre": "Coût et durabilité"
+  },
+  {
+   "markdown": "- Minoxidil topique 5 % [A], finastéride chez l'homme [A] : moins chers et mieux prouvés. Voir [alopécie androgénétique](fiche:alopecie-androgenetique) et [minoxidil](fiche:minoxidil).\n- LLLT (laser basse intensité) [A, hétérogène] : voir [laser basse intensité](fiche:laser-basse-intensite).",
+   "titre": "Alternatives moins invasives"
+  },
+  {
+   "markdown": "- PRP proposé en institut de beauté ou par un non-médecin : illégal (prélèvement sanguin et injection = actes médicaux).\n- Promesse d'« épaississement » du cheveu : non soutenue par les méta-analyses récentes (voir Mythes).\n- Protocole présenté comme suffisant sans traitement médical de fond.\n- PRP « visage » (« vampire lift ») : explicitement interdit en France (ANSM 2018).",
+   "titre": "Signaux d'alerte (praticien, tourisme médical, produits)"
+  },
+  {
+   "markdown": "- **« Le PRP épaissit le cheveu »** [M] : les méta-analyses de 2023, 2024 et 2025 ne trouvent pas d'effet significatif sur le diamètre [A] (PMID 37533146, 39013743, 40944844). Les gains d'épaisseur spectaculaires (+26,8 %) viennent d'une étude avant/après sans groupe témoin [B] (PMID 42682108).\n- **« 90 % de satisfaction »** : chiffres d'essais individuels courts, non poolés [A, faible certitude] (PMID 42799286).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Anitua E et al., *Dermatol Ther (Heidelb)* 2025 — PMID 40944844 — [DOI](https://doi.org/10.1007/s13555-025-01542-8)\n- Kieling L et al., *An Bras Dermatol* 2024 — PMID 39013743 — [DOI](https://doi.org/10.1016/j.abd.2024.01.002)\n- Zhang X et al., *J Cutan Med Surg* 2023 — PMID 37533146 — [DOI](https://doi.org/10.1177/12034754231191461)\n- Evans AG et al., *J Dermatolog Treat* 2020 — PMID 32410524 — [DOI](https://doi.org/10.1080/09546634.2020.1770171)\n- Papakonstantinou M et al., *Plast Reconstr Surg* 2022 — PMID 36729475 — [DOI](https://doi.org/10.1097/PRS.0000000000010076)\n- Gupta AK et al., *J Cosmet Dermatol* 2022 — PMID 35100488 — [DOI](https://doi.org/10.1111/jocd.14813)\n- Gupta AK et al., *JEADV* 2018 — PMID 29797431 — [DOI](https://doi.org/10.1111/jdv.15081)\n- Umar M. et al., *Aesthetic Plast Surg* 2025 — PMID 41219547 — [DOI](https://doi.org/10.1007/s00266-025-05394-7)\n- Garcia Prado AI et al., *Cureus* 2026 — PMID 42799286 — [DOI](https://doi.org/10.7759/cureus.115244)\n- Gentile P, *Aesthet Surg J* 2026 — PMID 42682108 — [DOI](https://doi.org/10.1093/asj/sjag181)\n- Sindhusen S et al., *Cureus* 2025 — PMID 41069573 — [DOI](https://doi.org/10.7759/cureus.94116)\n- Réglementation : point d'information ANSM du 10 janvier 2018 sur les CPA à visée esthétique (via [Vidal](https://www.vidal.fr/actualites/22531-concentres-plaquettaires-autologues-l-ansm-rappelle-leur-interdiction-en-injection-a-visee-esthetique.html), consulté le 2026-10-03).\n- Prix : [Clinique du Grand Paris](https://www.cliniquedugrandparis.com/blog/prp-cheveux-prix-seances-resultats), [Dr Ktorza](https://www.lachirurgieesthetique.org/medecine-esthetique/prp-cheveux/) (consultés le 2026-10-03 ; fait de prix uniquement).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "PRP (plasma riche en plaquettes) du cuir chevelu",
+ "type": "acte",
+ "unite": ""
+}

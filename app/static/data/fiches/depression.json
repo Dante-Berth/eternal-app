@@ -1,0 +1,121 @@
+{
+ "cibles": [
+  "sante-mentale"
+ ],
+ "derniere_maj": "2026-10-08",
+ "famille": "",
+ "id": "depression",
+ "intro": "Périmètre : épisode dépressif caractérisé (EDC) de l'adulte, hors dépression bipolaire, de l'enfant et du post-partum (cités seulement quand une source les mélange). Pas de dose de médicament ici : le choix de la molécule, de la durée et de l'arrêt se fait avec un médecin.",
+ "liens": [
+  "alimentation",
+  "anxiete",
+  "exercice-physique",
+  "omega-3",
+  "sommeil",
+  "stress-chronique-et-cortisol",
+  "tabac-et-alcool",
+  "vitamine-d"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 33,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "29477251",
+  "28178949",
+  "27717254",
+  "24026850",
+  "38355154",
+  "28104735",
+  "27461440",
+  "30917990",
+  "42490943",
+  "41876058",
+  "18843608",
+  "31383846",
+  "39564892",
+  "41923913",
+  "42594843",
+  "38423354",
+  "38199136",
+  "41693488",
+  "38913392",
+  "42374951",
+  "41573044",
+  "28137247",
+  "30720698",
+  "39657294",
+  "38851198",
+  "40692314",
+  "35854107",
+  "36356194",
+  "18199864",
+  "36780865",
+  "36111494",
+  "37173736",
+  "42462453"
+ ],
+ "preuve_globale": "A",
+ "resume": "Tous les antidépresseurs battent le placebo (OR de réponse de 1,37 à 2,13 ; 522 essais, 116 477 patients) [A, certitude modérée à très faible] (PMID 29477251), mais l'écart moyen est petit : −1,94 point d'échelle de Hamilton pour les ISRS, sous le seuil de pertinence clinique de 3 points fixé par…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Tous les antidépresseurs battent le placebo (OR de réponse de 1,37 à 2,13 ; 522 essais, 116 477 patients) [A, certitude modérée à très faible] (PMID 29477251), mais l'écart moyen est petit : −1,94 point d'échelle de Hamilton pour les ISRS, sous le seuil de pertinence clinique de 3 points fixé par les auteurs, avec des essais tous à haut risque de biais [A, contesté] (PMID 28178949).\n- Psychothérapie (TCC, activation comportementale) et exercice font au moins jeu égal avec les médicaments dans les comparaisons directes, sur des essais petits ou ouverts [A, faible certitude] (PMID 27717254, 24026850, 38355154).\n- Pour les formes résistantes : eskétamine nasale (remboursée sous conditions strictes, ASMR V), stimulation magnétique transcrânienne (efficace face au placebo en méta-analyse en réseau, non remboursée en France), psilocybine (non autorisée, essais prometteurs mais courts et difficiles à aveugler).\n- Compléments : millepertuis efficace en essais mais interactions graves ; EPA, safran, SAMe, probiotiques et vitamine D montrent des signaux de qualité très inégale ; aucun ne remplace un traitement d'une dépression modérée à sévère.\n- Idées suicidaires : 3114 (24 h/24, gratuit), 15 ou 112 en urgence.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Pas de mécanisme unique établi. L'explication « déficit en sérotonine » est contredite par la revue parapluie de 2022 (voir Mythes) [A].\n- Facteurs de risque et d'entretien documentés dans ce dépôt : sommeil ([sommeil](fiche:sommeil)), sédentarité ([exercice physique](fiche:exercice-physique)), alcool ([tabac et alcool](fiche:tabac-et-alcool)), stress chronique ([stress chronique et cortisol](fiche:stress-chronique-et-cortisol)). Le poids causal de chacun dans l'EDC n'est pas chiffré ici [?].\n- Le mode d'action des antidépresseurs reste débattu ; l'effet clinique est mesuré sur les scores, pas sur un mécanisme prouvé [?].",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Levier | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Antidépresseurs (21 molécules) | non établi | Réponse vs placebo : OR 2,13 (amitriptyline) à 1,37 (reboxétine) ; 522 essais ; certitude modérée à très faible ; écarts entre molécules petits quand on inclut les essais contre placebo [A, faible certitude] (PMID 29477251). ISRS : −1,94 point de Hamilton, risque d'événement indésirable grave OR 1,37, 131 essais, tous à haut risque de biais, effet jugé cliniquement incertain par les auteurs [A, contesté] (PMID 28178949) | médicament sur ordonnance | non relevé |\n| TCC | restructuration cognitive et comportementale | MDD : g = 0,75 (0,65 après correction du biais de publication) ; petit à modéré face à soins habituels ou placebo pilule ; seuls 17,4 % des essais de haute qualité [A, faible certitude] (PMID 27717254). Contre placebo pilule, 5 ECR, n=509 : SMD −0,22 (−0,42 à −0,02), indépendant de la sévérité initiale [A] (PMID 28104735) | acte de psychothérapie (remboursement selon le praticien : non vérifié) [?] | non relevé |\n| Activation comportementale | reprise d'activités valorisées | Non-infériorité à la TCC, ECR COBRA n=440, PHQ-9 à 12 mois : différence 0,1 (−1,3 à 1,5), marge 1,9 ; menée par des intervenants moins formés [B, ECR unique n=440] (PMID 27461440) | acte de psychothérapie | non relevé |\n| Exercice | non établi | Cochrane 2013 : SMD −0,62 vs contrôles, mais −0,18 (non significatif) sur les 6 essais de bonne qualité ; pas de différence avec psychothérapie ni médicaments (essais petits) [A, faible certitude] (PMID 24026850). Réseau BMJ 2024 : 218 études, 14 170 participants ; marche/course g −0,62, yoga −0,55, renforcement −0,49 ; seule 1 étude à faible risque de biais, certitude faible à très faible [A, faible certitude] (PMID 38355154) | non_applicable | 0 € |\n| Stimulation magnétique transcrânienne (rTMS) | neuromodulation corticale | Réseau BMJ 2019, 113 essais, 6 750 patients : rTMS haute fréquence gauche OR de réponse 3,17 (2,29-4,37) vs sham ; ECT bitemporale OR 8,91 ; qualité typiquement à risque de biais faible ou incertain [A] (PMID 30917990) | dispositif/acte médical ; HAS défavorable à l'inscription à la CCAM le 21 juillet 2022 (service attendu insuffisant) (HAS, avis 2022.0049/AC/SEAP, consulté le 2026-10-08) | non remboursée en France à cette date |\n| Eskétamine nasale (Spravato) | antagoniste NMDA | Dépression résistante, 6 ECR, 1 836 participants : MADRS −2,99 à J28 (−5,10 à −0,89), rémission RR 1,52, rechute HR 0,51 en entretien ; dissociation RR 7,33, hausse de tension RR 3,96 [A, faible certitude] (PMID 42490943). La HAS note un effet « faible » (−3,5 points MADRS, sous le seuil de pertinence clinique) | médicament hospitalier, stupéfiant, prescription psychiatre ; AMM UE 18/12/2019 ; remboursé sous conditions (voir Statuts) | non relevé |\n| Psilocybine | agoniste 5-HT2A (proposé) | 6 ECR : SMD −1,05 (−1,60 à −0,50), mais −0,70 en excluant les groupes liste d'attente (2 essais en double aveugle) ; nausées RR 10,2 ; hétérogénéité méthodologique forte [A, faible certitude] (PMID 41876058) | non_autorisé (stupéfiant) | sans objet |\n| Millepertuis | non établi | Cochrane : 29 essais, 5 489 patients ; RR de réponse vs placebo 1,28 (gros essais) à 1,87 (petits) ; équivalent aux ISRS RR 1,00 ; les essais de pays germanophones sont plus favorables [A, hétérogène] (PMID 18843608) | voir Compléments | non relevé |\n\nLes recommandations HAS (octobre 2017, argumentaire lu en partie) et le résumé HAS « Dépression de l'adulte » (page non lisible, 403 ; contenu connu seulement par un résumé de recherche, non vérifié) vont dans le sens suivant : psychothérapie de soutien en première intention dans l'EDC léger sans antidépresseur d'emblée, psychothérapie à privilégier dans l'EDC modéré avec ou sans médicament, antidépresseur d'emblée et psychiatre dans l'EDC sévère, réévaluation à 4-8 semaines, maintien d'au moins 6 mois puis arrêt progressif [?].",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Pas de protocole de dosage. Parcours, à discuter avec un médecin :\n- **Débutant (EDC léger à modéré)** : évaluation par le médecin traitant (sévérité, idées suicidaires, trouble bipolaire exclu, cause somatique, alcool), psychothérapie structurée, activité physique régulière, sommeil, réduction de l'alcool. Réévaluation à 4-8 semaines.\n- **Intermédiaire (modéré à sévère ou échec du premier palier)** : ajout ou changement de médicament choisi par le médecin selon le profil d'effets indésirables, les interactions et les comorbidités ; psychothérapie combinée.\n- **Avancé (résistant : échec d'au moins deux antidépresseurs)** : avis psychiatrique spécialisé ; options à évaluer : association ou changement de classe, eskétamine, rTMS, ECT (la plus efficace en réseau, PMID 30917990), essais cliniques (psilocybine).",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "| Actif | Résultat | Réserves |\n|---|---|---|\n| Oméga-3 (EPA) | 26 études, 2 160 participants : SMD −0,28 ; bénéfice seulement pour les formulations riches en EPA (≥ 60 %), pas pour le DHA seul [A, hétérogène] (PMID 31383846). Voir [oméga-3](fiche:omega-3) | méta-analyse publiée en 2019 sur des articles jusqu'en 2017 ; chez l'enfant et l'adolescent, Cochrane : preuves « très incertaines » [A, très faible certitude] (PMID 39564892) |\n| Vitamine D | 15 études, 962 participants : SMD −0,98, I² = 79 % [A, très hétérogène] (PMID 41923913). Autre synthèse bayésienne (13 essais) : SMD −0,88, intervalle prédictif traversant zéro [A, très hétérogène] (PMID 42594843). Voir [vitamine D](fiche:vitamine-d) | effets très au-dessus de ceux des antidépresseurs : signal de biais ou d'hétérogénéité plutôt qu'effet réel ; populations souvent carencées ; je n'ai pas trouvé d'essai en population non carencée avec dépression caractérisée [?] |\n| SAMe | Une méta-analyse : monothérapie vs placebo SMD −0,58 (−0,93 à −0,23), en association aux antidépresseurs SMD −0,22 non significatif [A, hétérogène] (PMID 38423354). Une autre (14 essais, 1 522 sujets) : aucune différence significative vs placebo en monothérapie [A, contradictoire] (PMID 38199136) | deux méta-analyses de 2024 aux conclusions opposées ; complément non autorisé comme médicament en France : statut non vérifié [?] |\n| Safran | 34 ECR, 1 769 participants : BDI −4,39 points (−6,64 à −2,15), mais aucun effet sur l'échelle de Hamilton (clinicien), I² = 92 % [A, hétérogène] (PMID 41693488). Vs ISRS : SMD 0,10 (−0,09 à 0,29), non significatif, 8 études [A, faible certitude] (PMID 38913392) | effet sur les auto-questionnaires seulement ; essais courts, souvent de pays producteurs [?] |\n| Probiotiques | 13 études, 710 patients : SMD 0,38 en faveur des probiotiques, I² = 42,8 % [A, faible certitude] (PMID 42374951). Sans les essais financés par l'industrie ou avec traitement associé : −0,21 (−0,65 à 0,23), non significatif [A, faible certitude] (PMID 41573044) | conflit d'intérêts industriel visible ; effet petit |\n| Millepertuis | voir tableau ci-dessus [A, hétérogène] (PMID 18843608) | **interactions graves** (ci-dessous) |\n\nSécurité du millepertuis : par induction enzymatique du cytochrome P450, il réduit l'effet des anticoagulants oraux et des contraceptifs oraux, de la ciclosporine, de l'irinotécan et des antirétroviraux inhibiteurs de protéase ; les RCP lus citent aussi une interaction pharmacodynamique avec les triptans et le risque avec les antidépresseurs sérotoninergiques (RCP ELUSANES MILLEPERTUIS, base ANSM, rubriques 4.3-4.5, consulté le 2026-10-08 ; liste partielle, RCP d'autres spécialités consultés seulement par résumé). L'arrêt brutal du millepertuis fait remonter les concentrations des médicaments inducteurs-dépendants (résumé de recherche, non vérifié). Éviter en grossesse et chez les femmes sans contraception sûre. Statut : plantes et spécialités à base de millepertuis sont des médicaments traditionnels ou à base de plantes ou des compléments selon les produits : statut précis non vérifié (BDPM non consulté) [?].",
+   "titre": "Compléments et approches « naturelles » : ce que disent les méta-analyses"
+  },
+  {
+   "markdown": "- **Alimentation** : SMILES (ECR unique, 67 participants, dépression modérée à sévère, 12 semaines) : séances de conseil diététique vers un régime de type méditerranéen vs soutien social, MADRS d de Cohen −1,16, rémission 32,3 % vs 8,0 % [B, ECR unique n=67] (PMID 28137247). Essai petit, simple aveugle, mono-centre ; ne prouve pas que « le régime guérit la dépression ». Méta-analyse de 16 ECR (45 826 participants, surtout non cliniques) : g = 0,162 sur les symptômes dépressifs, petit effet [A] (PMID 30720698). Voir [alimentation](fiche:alimentation).\n- **Sommeil** : l'insomnie et la dépression s'entretiennent mutuellement ; je n'ai pas relu d'essai spécifique de la prise en charge de l'insomnie sur l'EDC pour cette fiche [?]. Voir [sommeil](fiche:sommeil).\n- **Alcool** : à évaluer systématiquement, car il aggrave l'humeur et le sommeil ; le lien causal et le niveau de risque ne sont pas rechiffrés ici [?]. Voir [tabac et alcool](fiche:tabac-et-alcool).\n- **Luminothérapie** : pour la dépression non saisonnière chez l'adulte, je n'ai pas retenu de méta-analyse vérifiée ; la seule retenue porte sur la dépression périnatale : 6 essais, 167 participantes, RR 1,46 (1,02-2,10) vs lumière faible, un seul essai de bonne qualité [A, très faible certitude] (PMID 39657294). Pour l'adulte hors période périnatale : [?].",
+   "titre": "Alimentation, sommeil, alcool"
+  },
+  {
+   "markdown": "- Méta-analyse de 2024 : au moins un symptôme d'arrêt chez 31 % (27-35) après antidépresseur contre 17 % (14-21) après placebo ; différence d'incidence 0,08 ; symptômes sévères 2,8 % vs 0,6 %. Plus fréquents avec venlafaxine, desvenlafaxine, imipramine, escitalopram ; hétérogénéité importante [A, hétérogène] (PMID 38851198).\n- Réanalyse critique (Moncrieff et Horowitz) : la méta-analyse précédente repose en majorité sur des essais financés par l'industrie où l'arrêt n'était pas un critère d'étude, avec des durées de traitement courtes ; en ne gardant que 5 études qui mesurent systématiquement les symptômes, 55 % (31-81) en présentent au moins un, sans soustraire l'effet nocebo [A, hétérogène] (PMID 40692314). Les deux travaux s'accordent sur la mauvaise qualité des données ; les fourchettes réelles sont donc incertaines.\n- Pratique : ne pas arrêter seul ; un arrêt progressif décidé avec le médecin est la règle. Les symptômes d'arrêt peuvent être pris pour une rechute. Durée de maintien : au moins 6 mois après rémission selon la HAS (résumé de recherche, non vérifié) [?].",
+   "titre": "Arrêt des antidépresseurs et syndrome d'arrêt"
+  },
+  {
+   "markdown": "- Arrêter brutalement parce qu'on « va mieux ».\n- Associer millepertuis et traitement oral (contraception, anticoagulant, antidépresseur).\n- Remplacer un traitement d'un EDC modéré à sévère par un complément ou un régime.\n- Attendre : les premiers effets d'un traitement se jugent sur plusieurs semaines, la HAS préconise une réévaluation à 4-8 semaines (résumé de recherche, non vérifié) [?].\n- Ne pas signaler des idées suicidaires, ou une consommation d'alcool.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« La dépression est un déséquilibre sérotoninergique »** : revue parapluie de 17 études : pas d'association cohérente entre sérotonine et dépression (5-HIAA, taux plasmatique, récepteurs, transporteur, déplétion en tryptophane, gène SERT sur n=115 257 et n=43 165) ; effets des antidépresseurs antérieurs non toujours exclus [A] (PMID 35854107). Une réponse critique existe (PMID 36356194, non relue dans le texte) ; l'absence de preuve d'un déficit ne prouve pas que les antidépresseurs sont inactifs : leur efficacité se mesure sur les essais, pas sur cette théorie.\n- **« Les antidépresseurs ne marchent pas mieux qu'un placebo »** : faux dans l'ensemble (PMID 29477251) et surtout excessif ; mais l'effet moyen est petit, et la littérature était biaisée : 31 % des études FDA non publiées, taille d'effet publiée surestimée de 32 % en moyenne [A] (PMID 18199864). Les ISRS ont un effet moyen cliniquement discutable selon une revue danoise (PMID 28178949), qui est elle-même critiquée pour son seuil de pertinence (point non approfondi ici) [?].\n- **Tests de pharmacogénétique (« trouver le bon antidépresseur par un test ADN »)** : méta-analyse de 10 ECR : rémission meilleure avec test, mais certitude très faible [A, très faible certitude] (PMID 36780865). Autre : RR de rémission 1,41 (1,15-1,74), hétérogénéité des tests (PMID 36111494) ; 5 études à 12 semaines OR 2,23 de réponse, pas de différence à 4 et 24 semaines (PMID 37173736). Une synthèse de 2026 conclut à un bénéfice modeste à court terme pour GeneSight seul, imprécis pour les autres panels (PMID 42462453). Beaucoup de ces essais sont financés par les fabricants de tests ; non relevé étude par étude [?]. Statut FR du remboursement de ces tests : non recherché [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Les essais de psychothérapie contre « liste d'attente » gonflent l'effet : g = 0,75 de la TCC dans l'EDC se réduit à un effet petit à modéré face aux soins habituels ou au placebo pilule (PMID 27717254).\n- Pour l'eskétamine, la HAS note que l'effet à 4 semaines est « faible » et sous le seuil de pertinence clinique, tout en jugeant l'entretien (rechute HR 0,49) plus convaincant (HAS CT-20784, juillet 2024).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Antidépresseurs : médicaments sur ordonnance, remboursés ; fiche BDPM par molécule non consultée (consulté le 2026-10-08, non ouvert) [?].\n- Eskétamine (Spravato 28 mg) : AMM centralisée du 18/12/2019 ; liste des collectivités ; réservé à l'hôpital, stupéfiant, prescription psychiatre ; avis de la Commission de la transparence du 17 juillet 2024 : remboursement maintenu en association à un ISRS ou IRSN uniquement chez les adultes de moins de 65 ans résistants (échec d'au moins deux antidépresseurs de classes différentes lors de l'épisode sévère actuel), SMR modéré dans cette population, insuffisant dans les autres situations de l'AMM, ASMR V (HAS CT-20784, consulté le 2026-10-08, PDF lu en texte intégral). Une page HAS (Spravato 28 mg, EDC modéré à sévère) n'a pas pu être lue (403) : nouvelle indication éventuelle [?].\n- rTMS : avis HAS défavorable à l'inscription à la liste des actes (21 juillet 2022, service attendu insuffisant) ; la HAS a évalué le protocole conventionnel hémisphère gauche haute fréquence en traitement d'appoint de la dépression résistante (HAS 2022.0049/AC/SEAP, consulté le 2026-10-08). Réévaluation depuis 2022 : non recherchée [?].\n- Psilocybine : stupéfiant en France, hors AMM dans la dépression ; selon une réponse ministérielle à une question parlementaire (texte du PDF non lisible, connu par résumé de recherche) elle ne peut être utilisée dans cette indication que dans des essais cliniques autorisés [?]. Essais français signalés par la presse (CHU de Nîmes, Sainte-Anne) : non vérifiés sur CTIS. Statut AMA : non recherché, sans objet pour la plupart des patients [?].\n- Kétamine intraveineuse : non traitée dans cette fiche [?].\n- Millepertuis, SAMe, oméga-3, safran, probiotiques : statut de produit (médicament, complément) non vérifié [?].",
+   "titre": "Statuts et remboursement"
+  },
+  {
+   "markdown": "- Humeur dépressive ou perte d'intérêt la plupart des jours pendant plus de 2 semaines, avec retentissement (travail, sommeil, appétit, énergie).\n- **Urgence** : idées suicidaires ou envie de se faire du mal : 3114 (numéro national de prévention du suicide, gratuit, 24 h/24, 7 j/7, infirmiers et psychologues, aussi pour les proches) ; 15 ou 112 si danger immédiat (sante.fr et résumés de recherche, consulté le 2026-10-08).\n- Consulter aussi en cas de grossesse, d'alcool ou de drogues, de maladie chronique, d'antécédent maniaque (ne pas prendre d'antidépresseur ni de millepertuis sans avis), ou d'absence d'amélioration à 4-8 semaines.\n\nVoir aussi : [Anxiété](fiche:anxiete).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 29477251 : Cipriani A, et al. Lancet 2018. Financement : NIHR Oxford Health BRC, JSPS ; résumé relu.\n- PMID 28178949 : Jakobsen JC, et al. BMC Psychiatry 2017 ; résumé relu.\n- PMID 18199864 : Turner EH, et al. N Engl J Med 2008 ; résumé relu.\n- PMID 27717254 : Cuijpers P, et al. World Psychiatry 2016 ; résumé relu.\n- PMID 28104735 : Furukawa TA, et al. Br J Psychiatry 2017 ; résumé relu.\n- PMID 27461440 : Richards DA, et al. Lancet 2016 (COBRA) ; résumé relu.\n- PMID 24026850 : Cooney GM, et al. Cochrane 2013 ; résumé relu.\n- PMID 38355154 : Noetel M, et al. BMJ 2024 ; résumé relu.\n- PMID 30917990 : Mutz J, et al. BMJ 2019 ; résumé relu.\n- PMID 42490943 : Xie, Front Psychiatry 2026 ; résumé relu.\n- PMID 41876058 : Kishi, J Affect Disord 2026 ; résumé relu.\n- PMID 18843608 : Linde K, et al. Cochrane 2008 ; résumé relu.\n- PMID 31383846 : Liao Y, et al. Transl Psychiatry 2019 ; résumé relu.\n- PMID 39564892 : Campisi, Cochrane 2024 ; résumé partiellement relu.\n- PMID 41923913 : Liu, Front Nutr 2026 ; résumé relu.\n- PMID 42594843 : Xu, Clin Nutr 2026 ; résumé relu.\n- PMID 38423354 : Limveeraprajak, Prog Neuropsychopharmacol Biol Psychiatry 2024 ; résumé relu.\n- PMID 38199136 : Peng, Gen Hosp Psychiatry 2024 ; résumé relu.\n- PMID 41693488 : Mahmoudi, Nutr Neurosci 2026 ; résumé relu.\n- PMID 38913392 : Shafiee, Nutr Rev 2025 ; résumé relu.\n- PMID 42374951 : Tam, East Asian Arch Psychiatry 2026 ; résumé relu.\n- PMID 41573044 : Haiyan, Front Psychiatry 2026 ; résumé relu.\n- PMID 39657294 : Du L, Psychiatry Res 2024 ; résumé relu.\n- PMID 28137247 : Jacka FN, et al. BMC Med 2017 (SMILES) ; résumé relu.\n- PMID 30720698 : Firth J, et al. Psychosom Med 2019 ; résumé relu.\n- PMID 38851198 : Henssler J, et al. Lancet Psychiatry 2024 ; résumé relu (fin du résumé).\n- PMID 40692314 : Moncrieff J, et al. Psychol Med 2025 ; résumé relu.\n- PMID 35854107 : Moncrieff J, et al. Mol Psychiatry 2022 ; résumé relu.\n- PMID 36356194 : Rihmer Z, Neuropsychopharmacol Hung 2022 ; titre seulement, non relu.\n- PMID 36780865 : Bunka, Psychiatry Res 2023 ; résumé relu.\n- PMID 36111494 : Brown, Clin Pharmacol Ther 2022 ; résumé relu.\n- PMID 37173736 : Wang, BMC Psychiatry 2023 ; résumé relu.\n- PMID 42462453 : Pullano, J Psychiatr Res 2026 ; résumé relu.\n- HAS, avis de la Commission de la transparence CT-20784, SPRAVATO 28 mg, adopté le 17 juillet 2024 (PDF lu, consulté le 2026-10-08).\n- HAS, avis n°2022.0049/AC/SEAP du 21 juillet 2022, rTMS dans la dépression résistante (PDF lu, consulté le 2026-10-08).\n- HAS, recommandation de bonne pratique « Épisode dépressif caractérisé de l'adulte : prise en charge en soins de premier recours », argumentaire scientifique, octobre 2017 (consulté partiellement le 2026-10-08).\n- ANSM, RCP ELUSANES MILLEPERTUIS (agence-prd.ansm.sante.fr, consulté le 2026-10-08).\n- sante.fr, « Le numéro national de prévention du suicide » (3114), résumé de recherche, consulté le 2026-10-08.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Dépression caractérisée de l'adulte",
+ "type": "condition",
+ "unite": ""
+}

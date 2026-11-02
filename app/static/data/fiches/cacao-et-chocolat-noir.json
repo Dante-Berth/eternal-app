@@ -1,0 +1,84 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-16",
+ "famille": "alimentation",
+ "id": "cacao-et-chocolat-noir",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "alimentation-cerveau",
+  "alimentation-peau",
+  "cafeine",
+  "tension-arterielle",
+  "the-et-sante"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 13,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28439881",
+  "42679502",
+  "35294962",
+  "42641106",
+  "35460393",
+  "37211619",
+  "21699218",
+  "19754118",
+  "39144282",
+  "7410821",
+  "12944955",
+  "20222713",
+  "31247980"
+ ],
+ "preuve_globale": "A",
+ "resume": "Les flavanols du cacao baissent un peu la tension, de façon cohérente mais petite. Cochrane (35 essais, 40 comparaisons, 1 804 participants surtout sains, durée moyenne 9 semaines) : systolique -1,76 mmHg (-3,09 à -0,43), diastolique -1,76 (-2,57 à -0,94) ; environ -4 mmHg en systolique chez les…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Les flavanols du cacao baissent un peu la tension, de façon cohérente mais petite.** Cochrane (35 essais, 40 comparaisons, 1 804 participants surtout sains, durée moyenne 9 semaines) : systolique -1,76 mmHg (-3,09 à -0,43), diastolique -1,76 (-2,57 à -0,94) ; environ -4 mmHg en systolique chez les hypertendus ; preuve de certitude modérée ; l'exclusion des essais d'auteurs employés par l'industrie réduit un peu l'effet [A] (PMID 28439881). Une mise à jour 2026 (25 essais, n=1 167) trouve systolique -2,73 mmHg, diastolique -1,85, dilatation flux-dépendante +1,31 point de pourcentage [A] (PMID 42679502).\n- **Le seul grand essai sur les événements cliniques est négatif sur son critère principal.** COSMOS (21 442 adultes âgés, extrait de cacao 500 mg de flavanols/j dont 80 mg d'épicatéchine, suivi médian 3,6 ans) : événements CV totaux HR 0,90 (0,78-1,02), non significatif ; mortalité CV HR 0,73 (0,54-0,98) ; mortalité toutes causes HR 0,89 (0,77-1,03) ; analyse per-protocole HR 0,85 (0,72-0,99) [B, ECR unique n=21 442, critère principal négatif] (PMID 35294962).\n- **Cognition** : 16 ECR (n=2 847) de chocolat noir ou cacao : test TMT-B -13,1 s (-17,73 à -8,47), fluence verbale +3,15 ; MMSE sans effet ; 8 études sur 16 avec effet sur au moins un domaine ; effet plus net à ≥ 500 mg de flavanols/j et ≥ 8 semaines [A] (PMID 42641106). Voir aussi [alimentation et cerveau](fiche:alimentation-cerveau).\n- **Cohortes** : plus de chocolat, mortalité plus basse (ATBC, 27 111 hommes, 30 ans) et risque CV un peu plus bas (par 5 g/j RR 0,98) [B] (PMID 35460393). Association, avec biais possible (mangeurs de chocolat plus sains).\n- **Piège : la tablette du commerce n'est pas l'extrait standardisé des essais**, et peut apporter des métaux lourds (voir Sécurité).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Hypothèse : les flavanols augmentent la formation d'oxyde nitrique endothélial et la vasodilatation (rappelée dans la Cochrane, PMID 28439881) ; cohérent avec la hausse de la dilatation flux-dépendante dans la méta-analyse de 2026 (PMID 42679502), qui reste un marqueur. Dans la cohorte ATBC, 4,3 % de l'association avec la mortalité passerait par la baisse de tension (analyse de médiation) [B] (PMID 35460393).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Tension artérielle | Cochrane 2017 : SBP -1,76, DBP -1,76 mmHg ; hypertendus SBP ≈ -4 mmHg ; hétérogénéité non expliquée, certitude abaissée à modérée (PMID 28439881) ; mise à jour 2026 : SBP -2,73, DBP -1,85 (PMID 42679502) | [A] |\n| Fonction vasculaire | FMD +1,31 pt (1,04-1,59), vitesse d'onde de pouls -0,20 m/s (PMID 42679502) | [A, critères intermédiaires] |\n| Événements CV, extrait de cacao | COSMOS : CV total HR 0,90 (0,78-1,02), mortalité CV HR 0,73 (0,54-0,98) ; per-protocole HR 0,85 (0,72-0,99) ; pas de problème de sécurité (PMID 35294962) | [B, ECR unique, critère principal négatif] |\n| Cognition | TMT-A -4,51 s, TMT-B -13,1 s, fluence verbale +3,15 (PMID 42641106) ; adultes sains : temps de fonction exécutive réduit, 7 essais, hétérogénéité (PMID 37211619) | [A, fragile] |\n| Mortalité, cohortes | ATBC : HR 0,88-0,91 selon la catégorie vs la plus basse, mortalité CV -13 %, cancer -12 % ; méta-analyse (908 390 personnes) : risque CV par 5 g/j RR 0,98 (PMID 35460393) | [B] |\n| Photoprotection de la peau, LDL, humeur | essais contradictoires ou non lus dans cette fiche [?] (voir [alimentation et peau](fiche:alimentation-peau)) | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Cochrane** : 30 à 1 218 mg de flavanols (moyenne 670 mg) dans 1,4 à 105 g de produits du cacao par jour (PMID 28439881). **Méta-analyse 2026** : 10,6 à 1 680 mg/j (PMID 42679502). **COSMOS** : 500 mg de flavanols dont 80 mg d'épicatéchine en extrait standardisé (PMID 35294962). **Cognition** : effet plus net à ≥ 500 mg/j et ≥ 8 semaines (PMID 42641106).\n- **Vendu** : la plupart des chocolats n'indiquent pas leur teneur en flavanols ; elle dépend de la variété, de la fermentation, du procédé (« dutching ») ; non vérifiée sur les produits français [?]. Le pourcentage affiché ne prédit pas bien les flavanols : 14 tablettes, flavanols totaux 93,5 à 651,1 mg d'équivalent épicatéchine/100 g (chocolat au lait 40,6 ; blanc 0), R² 0,41-0,49 entre solides de cacao dégraissés et flavanols, car oxydation et alcalinisation (dutching) détruisent les procyanidines (PMID 21699218) ; autre enquête américaine : cacao en poudre > chocolat à cuire > chocolat noir (PMID 19754118). Marché français : non recherché [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Aliment (chocolat noir, poudre de cacao, nibs). Extraits de cacao standardisés : compléments alimentaires ; statut et allégations autorisées non consultés [?].\n- **Teneur maximale en cadmium (règlement (UE) 2023/915)** : chocolat avec ≥ 50 % de matière sèche de cacao : 0,80 mg/kg ; chocolat < 50 % de cacao : 0,30 mg/kg ; poudre de cacao vendue au consommateur : 0,60 mg/kg (EUR-Lex, consulté le 2026-10-14).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Métaux lourds** : sur 72 produits cacaotés américains (2014-2022), 43 % dépassaient la limite californienne (Prop 65) pour le plomb et 35 % pour le cadmium, 0 % pour l'arsenic ; médianes sous les limites, avec des valeurs aberrantes ; **les produits « bio » étaient plus souvent plus riches en plomb et cadmium** ; plusieurs portions par jour cumulées à d'autres sources peuvent dépasser les limites [B, une série de produits américains] (PMID 39144282). Données sur le marché français : non recherchées [?].\n- **Sucre, calories, graisses saturées** : l'effet du chocolat à 70-85 % vs 50 % sur le poids ou la glycémie : non recherché [?].\n- **Théobromine, caféine, sommeil, anxiété** : teneurs non extraites ; voir [caféine](fiche:cafeine) [?].\n- **Oxalates** : le chocolat figure parmi les aliments riches en oxalate dans le dosage de 1980 (PMID 7410821). Interactions médicamenteuses : non recherchées [?]. Effets indésirables du cacao dans la Cochrane : troubles digestifs et nausées chez 1 % des participants sous cacao vs 0,4 % sous contrôle [A] (PMID 28439881).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Le chocolat noir protège le cœur »** : -2 mmHg en moyenne [A] (PMID 28439881) ; COSMOS négatif sur le critère principal [B] (PMID 35294962) ; cohortes : association [B] (PMID 35460393). Vrai pour des flavanols à dose précise, pas pour une tablette quelconque [M].\n- **« Plus le pourcentage de cacao est élevé, plus il y a de flavanols »** : corrélation moyenne seulement (R² 0,41-0,49 pour les solides de cacao dégraissés calculés) ; la teneur étiquetée ne reflétait pas toujours les flavanols mesurés (PMID 21699218).\n- **« Le lait détruit les flavanols du chocolat »** : l'idée vient d'une lettre à *Nature* de 2003 (Serafini et al.), sans résumé disponible sur PubMed, donc non vérifiable ici [?] (PMID 12944955). Les essais retrouvés ne montrent pas de « destruction » : dans un essai croisé (21 volontaires), le lait modifie la formation de neuf métabolites microbiens du cacao dans les urines, dont sept diminuent et deux augmentent [B, petit essai croisé, le débat sur les métabolites de phase II est qualifié d'« objet de nombreuses discussions » par les auteurs] (PMID 20222713). Les essais de biodisponibilité sont menés dans du lait (poudre de cacao dissoute dans du lait demi-écrémé : flavanols absorbés avec récupération d'environ 35 %) [B, 13 volontaires] (PMID 31247980), ce qui montre que les flavanols sont absorbés en présence de lait, sans comparer avec l'eau. Aucun résultat sur la santé n'a été trouvé [?]. Skyr et yaourts : aucune étude trouvée [?].\n- **« Le chocolat bio est plus sain »** : dans une série de 72 produits, les « bio » avaient plus de plomb et de cadmium [B] (PMID 39144282).\n- **« Le chocolat améliore la mémoire »** : effets sur des tests précis (TMT, fluence), pas sur le MMSE [A, fragile] (PMID 42641106).\n\nVoir aussi : [alimentation : synthèse](fiche:alimentation) · [alimentation et cerveau](fiche:alimentation-cerveau) · [tension artérielle](fiche:tension-arterielle) · [thé et santé](fiche:the-et-sante) · [caféine](fiche:cafeine).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 12944955 — Serafini M. et al., *Nature* 2003 (lettre, sans résumé). doi:10.1038/4241013a\n- PMID 20222713 — Urpi-Sarda M. et al., *J Agric Food Chem* 2010 (lait et métabolites du cacao). doi:10.1021/jf904440h\n- PMID 31247980 — Gómez-Juaristi M. et al., *Nutrients* 2019 (biodisponibilité des flavanols). doi:10.3390/nu11071441\n- PMID 28439881 — Ried et al., *Cochrane Database Syst Rev* 2017 (cacao et tension). doi:10.1002/14651858.CD008893.pub3\n- PMID 42679502 — Sakuda et al., *J Nutr Health Aging* 2026 (flavanols, tension et fonction vasculaire). doi:10.1016/j.jnha.2026.100966\n- PMID 35294962 — Sesso et al., *Am J Clin Nutr* 2022 (COSMOS, extrait de cacao). doi:10.1093/ajcn/nqac055\n- PMID 42641106 — Arabpour et al., *Nutr Rev* 2026 (cacao et cognition, 16 ECR). doi:10.1093/nutrit/nuaf286\n- PMID 37211619 — Shateri et al., *Phytother Res* 2023 (chocolat, adultes sains). doi:10.1002/ptr.7896\n- PMID 35460393 — Zhao et al., *Eur J Epidemiol* 2022 (chocolat et mortalité, ATBC). doi:10.1007/s10654-022-00858-5\n- PMID 39144282 — Hands et al., *Front Nutr* 2024 (72 produits, métaux lourds). doi:10.3389/fnut.2024.1366231\n- Règlement (UE) 2023/915, annexe (EUR-Lex, consulté le 2026-10-14).\n- PMID 21699218 — Langer et al., *J Agric Food Chem* 2011 (flavanols, chocolats noirs du commerce). doi:10.1021/jf201398t\n- PMID 19754118 — Miller et al., *J Agric Food Chem* 2009 (flavan-3-ols, produits américains ; auteurs de la Hershey Company). doi:10.1021/jf901821x\n- PMID 7410821 — Kasidas et al., *J Hum Nutr* 1980 (oxalate des aliments). doi:10.3109/09637488009143446",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Cacao et chocolat noir",
+ "type": "actif",
+ "unite": ""
+}

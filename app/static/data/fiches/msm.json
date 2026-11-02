@@ -1,0 +1,79 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "msm",
+ "intro": "",
+ "liens": [
+  "boswellia",
+  "collagene-oral",
+  "curcumine",
+  "glucosamine-et-chondroitine"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "18417375",
+  "40425393",
+  "28736511",
+  "21708034",
+  "37447322",
+  "40123938",
+  "34684621",
+  "31331587",
+  "28300758",
+  "31608447",
+  "38138558"
+ ],
+ "preuve_globale": "B",
+ "resume": "Composé soufré (diméthylsulfone) vendu pour les articulations, la récupération sportive, la peau et les cheveux. Le seul domaine avec des essais randomisés humains est l'arthrose du genou, avec de petits essais (n = 49 à 88) et des effets « faibles, de signification clinique inconnue » selon leur…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Composé soufré (diméthylsulfone) vendu pour les articulations, la récupération sportive, la peau et les cheveux. Le seul domaine avec des essais randomisés humains est l'arthrose du genou, avec de petits essais (n = 49 à 88) et des effets « faibles, de signification clinique inconnue » selon leurs propres auteurs.\n- Aucune méta-analyse en paires spécifique au MSM n'a été retrouvée ici ; une revue systématique de 2008 ne comptait que 2 essais MSM (52 patients sous MSM) et concluait à des données « positives mais non définitives » [B] (PMID 18417375).\n- Les méta-analyses en réseau placent le MSM en bonne position sur la douleur mais avec une certitude « faible » : classement SUCRA = probabilité de rang, pas un effet mesuré (PMID 40425393).\n- Récupération après l'effort : un petit ECR (n = 22) ne trouve aucun effet significatif sur le stress oxydant, les marqueurs de dommage musculaire ni la douleur (PMID 28736511).\n- Tolérance correcte dans les essais jusqu'à 6 g/j sur 16 semaines ; peu de données au-delà.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Source de soufre ; effets anti-inflammatoires et antioxydants décrits surtout chez l'animal et in vitro (revue de synthèse ; résumé sans données chiffrées exploitables ici) [C, D]. Rôle supposé du soufre dans le collagène et la kératine : aucune démonstration retrouvée chez l'humain [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Arthrose du genou, revue systématique 2008 | 2 ECR MSM, 168 patients (52 sous MSM) : amélioration de la douleur dans les deux, mais problèmes de méthode, dose et durée optimales inconnues | [B, 2 petits ECR] (PMID 18417375) |\n| Arthrose du genou, ECR de 12 semaines | MSM 1,125 g trois fois par jour vs placebo, 49 patients : différence de 15,0 mm sur le WOMAC total (p = 0,03), 14,6 mm sur la fonction physique (p = 0,04), douleur WOMAC non significative (p = 0,08) ; « petites » améliorations, intérêt clinique à déterminer | [B, ECR unique n=49] (PMID 21708034) |\n| Gêne légère du genou, adultes japonais | 2 g/j pendant 12 semaines, 88 participants : score JKOM p = 0,046 sur le critère principal | [B, ECR unique n=88] (PMID 37447322) |\n| Arthrose, réseau de 23 études, 21 compléments, 2 455 patients | MSM SUCRA 89 % sur la douleur WOMAC (2e rang ; 1er : extrait d'écorce de fruit de la passion) ; certitude GRADE « faible » | [A, faible certitude] (PMID 40425393) |\n| Arthrose du genou, réseau de 22 ECR, 2 777 patients | MSM 3e rang sur la raideur WOMAC, après NEM (membrane de coquille d'œuf) et Aflapin (extrait de boswellia de marque) ; classement SUCRA, certitude non détaillée dans le résumé | [A, classement SUCRA] (PMID 40123938) |\n| Courses de longue durée | 3 g/j pendant 23 jours, 22 coureurs (semi-marathon) : aucun effet significatif sur le stress oxydant (8-OHdG), la CK/LDH ni la douleur ; réductions de douleur > 10 mm sans significativité statistique | [B, ECR unique n=22] (PMID 28736511) |\n| Profil lipidique, adultes en surpoids | 3 g/j pendant 16 semaines, 22 adultes : HDL plus élevé qu'au départ (p = 0,008 à 8 semaines) ; comparaison intergroupe non détaillée dans le résumé | [B, ECR unique n=22] (PMID 34684621) |\n| Peau, cheveux, ongles | Aucune donnée contrôlée retenue dans cette fiche | [M] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais : 2 g/j (PMID 37447322), 3 g/j (PMID 28736511, 34684621), 3,375 g/j (PMID 21708034), 6 g/j en analyse de sécurité (PMID 31331587).\n- Concentrations vendues en France : non relevées [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Poudre, gélules, comprimés ; plusieurs essais utilisent une matière première de marque (ex. OptiMSM®, Bergstrom Nutrition, fournisseur de l'essai de course et de l'essai de sécurité) : le fabricant a un intérêt dans les résultats (PMID 28736511, 31331587).\n- Statut en France : complément alimentaire ; aucun médicament à base de MSM dans la BDPM (fichier de composition, consulté le 2026-10-14). Nouvel aliment : le MSM (méthylsulfonylméthane, diméthylsulfone) ne figure pas dans la liste de l'Union des nouveaux aliments (règlement d'exécution (UE) 2017/2470, version consolidée du 2026-08-10, texte intégral lu : aucune occurrence de « methylsulfonylmethane » ni de « sulfone »). L'absence de cette liste ne dit pas s'il est considéré comme non nouveau ; le catalogue Novel Food n'a pas pu être interrogé (site inaccessible) [?]. La mention « Novel Food approuvé » d'un fabricant (matière première de marque) n'est retrouvée dans aucun document officiel.\n- Allégations : aucune allégation MSM dans le règlement (UE) n° 432/2012 (version du 2025-08-20) ; aucun avis EFSA sur le MSM retrouvé (Europe PMC, revue *EFSA J*, 2026-10-14) : la « évaluation EFSA d'allégations articulaires » citée par un site d'agrégation n'est pas confirmée et est écartée. Aucune entrée à l'annexe III du règlement (CE) n° 1925/2006 (version 2025-11-26).\n- AMA : liste 2026 non consultée (PDF inaccessible le 2026-10-14) [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- 16 semaines à 6 g/j : pas de différence vs placebo sur NFS, plaquettes, bilirubine, ASAT/ALAT, créatinine, poids ni tension [B, sous-analyse d'un ECR en lombalgie] (PMID 31331587).\n- Revue de synthèse : bien toléré jusqu'à 4 g/j, effets indésirables « peu fréquents et légers » ; revue à intérêts commerciaux possibles non relevés [B, revue] (PMID 28300758).\n- Pharmacocinétique : pas de modification des concentrations des constituants de boswellia, curcumine et extrait d'écorce de pin quand associés au MSM chez 16 volontaires sains, dose unique (PMID 31608447) [B, crossover n=16].\n- Interactions : sulfate de chondroïtine, glucosamine et MSM n'inhibent pas significativement sept CYP in vitro (microsomes hépatiques humains) ; faible potentiel d'interaction attendu, sans étude clinique (PMID 38138558) [D].\n- Grossesse, allaitement, insuffisance rénale ou hépatique, durée d'usage au-delà de 4 mois : aucune donnée de sécurité retrouvée dans PubMed (recherche du 2026-10-14) [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Soufre organique pour le cartilage, la peau et les cheveux » : seul le genou a de petits ECR ; peau et cheveux n'ont aucun essai retenu ici [M].\n- « Efface les courbatures » : essai négatif sur les marqueurs objectifs (PMID 28736511) [B, n=22].\n- « Premier rang des suppléments contre l'arthrose » : un rang SUCRA 89 % issu de petits essais, certitude faible (PMID 40425393).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour. Voisines : [glucosamine et chondroïtine](fiche:glucosamine-et-chondroitine), [boswellia](fiche:boswellia), [curcumine](fiche:curcumine), [collagène oral](fiche:collagene-oral).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Brien et al. *Osteoarthritis Cartilage* 2008 — PMID 18417375 — [DOI](https://doi.org/10.1016/j.joca.2008.03.002)\n2. Debbi et al. *BMC Complement Altern Med* 2011 — PMID 21708034 — [DOI](https://doi.org/10.1186/1472-6882-11-50)\n3. Toguchi et al. *Nutrients* 2023 — PMID 37447322 — [DOI](https://doi.org/10.3390/nu15132995)\n4. Chen et al. *J Integr Med* 2025 — PMID 40425393 — [DOI](https://doi.org/10.1016/j.joim.2025.04.008)\n5. Du et al. *Front Nutr* 2025 — PMID 40123938 — [DOI](https://doi.org/10.3389/fnut.2025.1556133)\n6. Withee et al. *J Int Soc Sports Nutr* 2017 — PMID 28736511 — [DOI](https://doi.org/10.1186/s12970-017-0181-z)\n7. Miller et al. *Nutrients* 2021 — PMID 34684621 — [DOI](https://doi.org/10.3390/nu13103620)\n8. Crawford et al. *Complement Ther Med* 2019 — PMID 31331587 — [DOI](https://doi.org/10.1016/j.ctim.2019.05.022)\n9. Butawan et al. *Nutrients* 2017 — PMID 28300758 — [DOI](https://doi.org/10.3390/nu9030290)\n10. Liu et al. *J Pharm Pharmacol* 2020 — PMID 31608447 — [DOI](https://doi.org/10.1111/jphp.13184)\n11. Kim et al. *Molecules* 2023 — PMID 38138558 — [DOI](https://doi.org/10.3390/molecules28248068)\n12. Règlement d'exécution (UE) 2017/2470 (consolidé 02017R2470-20260810), règlement (CE) n° 1925/2006 (02006R1925-20251126), règlement (UE) n° 432/2012 (02012R0432-20250820) — publications.europa.eu/resource/celex/ — textes intégraux lus le 2026-10-14.\n13. BDPM, fichier CIS_COMPO_bdpm — https://base-donnees-publique.medicaments.gouv.fr — consulté le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "MSM (méthylsulfonylméthane)",
+ "type": "actif",
+ "unite": ""
+}

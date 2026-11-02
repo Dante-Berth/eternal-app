@@ -1,0 +1,55 @@
+/* Calme et clinique, mobile d'abord. Le niveau de preuve est l'élément visuel premier (lettre + intensité d'une teinte) ;
+   les couleurs d'état restent séparées. Polices système : l'app doit fonctionner hors ligne. */
+:root {
+	--bg: #eef1f4; --surface: #ffffff; --ink: #13202c; --muted: #586878; --line: #d9e0e7; --soft: #f5f7f9;
+	--accent: #1b3a5c; --accent-ink: #ffffff;
+	--ev: #17607f; --ev-soft: #dcebf2;
+	--ok: #2c7a4b; --ok-bg: #e1f1e7; --warn: #9a6208; --warn-bg: #f8ebd0; --bad: #a93a28; --bad-bg: #f8ddd7;
+	--disc: #59506f; --disc-bg: #e7e4ef;
+	--f-display: 'Avenir Next', 'Segoe UI', system-ui, sans-serif;
+	--f-body: system-ui, 'Segoe UI', sans-serif;
+	--f-data: ui-monospace, 'SF Mono', Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+	:root {
+		--bg: #0c141c; --surface: #152130; --ink: #e6edf3; --muted: #9baaba; --line: #263648; --soft: #101b27;
+		--accent: #8db4dd; --accent-ink: #0c141c; --ev: #6fb8d6; --ev-soft: #1b3445;
+		--ok: #6cc38a; --ok-bg: #16301f; --warn: #e3b05b; --warn-bg: #3a2d12; --bad: #ee8d7c; --bad-bg: #3c1d17;
+		--disc: #b9aedb; --disc-bg: #2a2540; color-scheme: dark;
+	}
+}
+* { box-sizing: border-box; }
+html, body { height: 100%; margin: 0; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 16px; line-height: 1.45; }
+a { color: var(--accent); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+h1, h2, h3 { font-family: var(--f-display); margin: 0; line-height: 1.15; text-wrap: balance; }
+h1 { font-size: 1.55rem; font-weight: 700; letter-spacing: -0.01em; }
+h2 { font-size: 1.05rem; font-weight: 700; }
+.muted { color: var(--muted); }
+.small { font-size: 0.86rem; }
+.data { font-family: var(--f-data); font-variant-numeric: tabular-nums; }
+
+/* niveau de preuve */
+.ev { display: inline-flex; align-items: center; justify-content: center; flex: none; width: 24px; height: 24px;
+	border-radius: 6px; font-family: var(--f-data); font-weight: 600; font-size: 0.82rem; border: 1.5px solid var(--ev); color: var(--ev); }
+.ev-A { background: var(--ev); color: var(--surface); }
+.ev-B { background: color-mix(in srgb, var(--ev) 55%, var(--surface)); border-color: transparent; color: var(--surface); }
+.ev-C { background: var(--ev-soft); }
+.ev-D { border-style: dotted; background: transparent; }
+.ev-Q, .ev-M { border-color: var(--muted); color: var(--muted);
+	background: repeating-linear-gradient(135deg, transparent 0 3px, var(--line) 3px 4px); }
+.ev-inline { width: 1.25em; height: 1.25em; font-size: 0.72em; border-radius: 4px; vertical-align: 0.1em; margin-inline: 0.15em; }
+.ev-qualif { font-size: 0.8em; color: var(--muted); margin-right: 0.2em; }
+
+/* texte d'une fiche */
+.prose { overflow-wrap: anywhere; }
+.prose > :first-child { margin-top: 0; }
+.prose p, .prose ul, .prose ol { margin: 0.6em 0; }
+.prose li { margin: 0.25em 0; }
+.prose table { display: block; overflow-x: auto; border-collapse: collapse; font-size: 0.88rem; margin: 0.8em 0; max-width: 100%; }
+.prose th, .prose td { border: 1px solid var(--line); padding: 6px 8px; text-align: left; vertical-align: top; min-width: 5.5rem; }
+.prose th { background: var(--soft); font-weight: 600; }
+.prose blockquote { margin: 0.8em 0; padding: 0.2em 0.9em; border-left: 3px solid var(--line); color: var(--muted); }
+.prose code { font-family: var(--f-data); font-size: 0.9em; background: var(--soft); padding: 0 0.25em; border-radius: 4px; }
+.prose .lien-mort { color: var(--muted); }

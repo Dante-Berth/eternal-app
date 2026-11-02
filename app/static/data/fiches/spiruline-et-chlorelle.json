@@ -1,0 +1,77 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "spiruline-et-chlorelle",
+ "intro": "",
+ "liens": [
+  "astaxanthine",
+  "glycemie-et-prediabete",
+  "omega-3",
+  "tension-arterielle",
+  "vitamine-b12-et-folates"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "40953712",
+  "40289965",
+  "29037431",
+  "34538515",
+  "35331862",
+  "37317149",
+  "23036452"
+ ],
+ "preuve_globale": "A",
+ "resume": "Microalgues vendues en poudre ou comprimés comme « superaliments » : spiruline (*Arthrospira platensis*, une cyanobactérie) et chlorelle (*Chlorella vulgaris*, algue verte). Les méta-analyses d'ECR trouvent des effets modestes sur la tension, les lipides et la glycémie, mais avec des résultats co…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Microalgues vendues en poudre ou comprimés comme « superaliments » : spiruline (*Arthrospira platensis*, une cyanobactérie) et chlorelle (*Chlorella vulgaris*, algue verte). Les méta-analyses d'ECR trouvent des effets modestes sur la tension, les lipides et la glycémie, mais avec des résultats contradictoires d'une méta-analyse à l'autre, de petits essais et des produits mal caractérisés.\n- Spiruline, deux méta-analyses opposées : l'une (35 essais) rapporte glycémie à jeun −5,51 mg/dL, LDL-C −7,69 mg/dL, pression systolique −3,85 mmHg, poids −1,78 kg (certitude GRADE faible pour le LDL-C et la glycémie, élevée pour le poids) [A, hétérogène] (PMID 40953712) ; l'autre (9 études) ne trouve que la pression diastolique (−0,42, unité non précisée dans le résumé ; IC −0,81 à −0,02), sans effet significatif sur les lipides [A, effet minime] (PMID 40289965).\n- Chlorelle : méta-analyse de 19 ECR (797 personnes) : cholestérol total −9,09 mg/dL, LDL-C −8,32 mg/dL, systolique −4,51 mmHg [A, petits essais] (PMID 29037431) ; une méta-analyse de 2025 la juge neutre sur la tension et les lipides (PMID 40289965).\n- Risque principal : la contamination (microcystines, bactéries, métaux) et la qualité variable ; l'ANSES déconseille les compléments à base de spiruline en cas de phénylcétonurie ou de terrain allergique.\n- La spiruline n'est pas une source fiable de vitamine B12 pour les végans (analogues inactifs, d'après l'ANSES).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Composition : protéines, phycocyanine, bêta-carotène (spiruline) ; chlorophylle (chlorelle). Des mécanismes anti-inflammatoires et antioxydants sont avancés à partir de modèles animaux et cellulaires, que cette fiche n'a pas relus ; chez l'humain, seul un abaissement de la CRP (−0,86 mg/L) est rapporté dans la méta-analyse sur la spiruline (PMID 40953712). L'hypothèse reste à prouver par des essais cliniques sur critères durs.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Facteurs de risque cardiométaboliques, spiruline | 35 ECR (45 tailles d'effet) : glycémie à jeun −5,51 mg/dL, HOMA-IR −0,68, triglycérides −14,75, cholestérol total −11,5, LDL-C −7,69, HDL-C +1,9 mg/dL, systolique −3,85, diastolique −3,09 mmHg, poids −1,78 kg, CRP −0,86 mg/L ; certitude GRADE faible pour LDL-C, glycémie, HbA1c ; élevée pour le poids | [A, hétérogène, certitude variable] (PMID 40953712) |\n| Facteurs de risque, spiruline vs chlorelle | 9 études spiruline : diastolique −0,42 (IC −0,81 à −0,02 ; unité non précisée dans le résumé) ; lipides non significatifs ; 12 études chlorelle : effet neutre sur la tension et la lipémie ; effet « petit, d'intérêt clinique incertain » ; deux auteurs employés par Sea4Us (entreprise de micro-algues) | [A, effet minime, conflit d'intérêts] (PMID 40289965) |\n| Glycémie et lipides, spiruline (Arthrospira) | 7 études cliniques : glycémie à jeun, cholestérol total et triglycérides diminués, HDL augmenté ; HbA1c non significative ; 27 études animales | [A, 7 petits essais] (PMID 34538515) |\n| Cholestérol, chlorelle | 19 ECR, 797 personnes : CT −9,09 mg/dL (IC −12,91 à −5,26), LDL-C −8,32 (−12,22 à −4,42), systolique −4,51 mmHg, diastolique −1,64, glycémie −4,23 mg/dL ; triglycérides, HDL-C et IMC inchangés ; sous-analyse : effets significatifs pour ≥ 8 semaines et > 4 g/j | [A, petits essais] (PMID 29037431) |\n| Lipides, chlorelle (dose-réponse) | 10 ECR, 539 adultes : CT −7,47 (−12,98 à −1,96), LDL-C −7,71 (−14,05 à −1,37), TG −2,11 (NS) ; seuls 2 essais mesuraient teneur, pureté et contamination des produits | [A, qualité des produits non contrôlée] (PMID 35331862) |\n| Immunité, détox, énergie, fatigue, « anti-métaux lourds » | Non étayé dans mes sources | [M] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Les doses des essais ne sont pas détaillées dans les résumés lus ; une sous-analyse suggère des effets glycémiques à moins de 2 g/j et moins de 2 mois (PMID 34538515) et un effet LDL de la chlorelle entre 0 et 1 500 mg/j (PMID 35331862). Pour la chlorelle, la méta-analyse de 19 ECR trouve des effets significatifs à partir de 8 semaines et au-dessus de 4 g/j (PMID 29037431) : les deux revues divergent sur la dose utile. L'ANSES cite 5 g/j comme quantité maximale préconisée par certains produits. Provenances et prix : aucun relevé de produits fait ici.\n- ANSES : 5 g/j de spiruline apportent 7 à 8,5 mg de bêta-carotène, alors que la limite estimée pour les compléments est de 7 mg/j, en plus de l'alimentation (ANSES, 30/11/2017).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Compléments alimentaires et ingrédients alimentaires. Chlorelle : la consultation Article 4 du règlement (UE) 2015/2283 menée par la République tchèque (demande du 4 mars 2022) conclut que *Chlorella* sp. (*Auxenochlorella protothecoides*, *A. pyrenoidosa*, *C. sorokiniana*, *C. vulgaris*, *Jaagichlorella luteoviridis*, *Parachlorella kessleri*) n'est pas un nouvel aliment, en raison d'une consommation significative dans l'Union avant le 15 mai 1997 (document de la Commission lu en entier le 2026-10-14). Spiruline : *Arthrospira platensis* figure comme « non nouvel aliment » au catalogue Novel Food d'après les résultats de recherche web du 2026-10-14 ; page du catalogue non relue directement (application dynamique). Ce statut ne vaut que pour l'espèce, la forme et l'usage décrits ; d'autres espèces de microalgues (p. ex. *Limnospira*) ont des statuts distincts, non vérifiés ici.\n- Aucun médicament à base de spiruline ou de chlorelle dans la BDPM (fichier de composition, consulté le 2026-10-14).\n- Avis de l'ANSES du 30 novembre 2017 sur les compléments à base de spiruline : voir ci-dessous. Microcystines : l'ANSES (2017) juge utile d'établir un seuil pour la spiruline à partir de la dose journalière tolérable de l'OMS (0,04 µg/kg/j en exposition chronique) et de réévaluer la limite de 1 µg/g fixée pour les compléments à base d'algue Klamath ; il n'y a donc pas, d'après cet avis, de limite spécifique à la spiruline à cette date. Texte réglementaire postérieur à 2017 : non recherché [?].\n- AMA : non concerné.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Nutrivigilance ANSES : effets rapportés = troubles digestifs, allergies, atteintes musculaires ou hépatiques ; doses précises inconnues ; sécurité jugée acceptable « à faibles doses » (jusqu'à plusieurs grammes par jour chez l'adulte) en dehors du risque de contamination [B, signalements de pharmacovigilance] (ANSES, 2017).\n- Contre-indications : phénylcétonurie, terrain allergique (ANSES, 2017). Auto-immunité, traitements immunosuppresseurs, anticoagulants, grossesse, allaitement : l'avis ANSES lu (page de synthèse) ne les mentionne pas, et aucune recherche PubMed dédiée n'a été faite ici [?].\n- Contamination : cyanotoxines (microcystines), bactéries et éléments traces métalliques (plomb, mercure, arsenic) (ANSES). Dans une étude de produits du commerce, 5 produits à base de spiruline sur 5 contenaient des microcystines à des niveaux pouvant dépasser les limites recommandées, avec des bactéries potentiellement pathogènes (*Bacillus cereus*, *Klebsiella pneumoniae*) [B, 5 produits] (PMID 37317149). À l'inverse, dans une étude italienne de 17 marques, les produits à base de spiruline seule étaient exempts de contamination alors que ceux à base d'*Aphanizomenon flos-aquae* contenaient jusqu'à 5,2 µg équivalents MC-LR par gramme (PMID 23036452) [B]. Le risque dépend donc de l'origine et de la culture (bassins ouverts), pas seulement de l'espèce.\n- Chlorelle : contamination des produits non évaluée dans les ECR (PMID 35331862) ; contrôles de produits du commerce pour la chlorelle : aucun trouvé dans les sources lues [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Source de vitamine B12 pour les végans » : l'essentiel de la B12 de la spiruline est sous forme d'analogue inactif (ANSES, 2017) ; voir [vitamine B12 et folates](fiche:vitamine-b12-et-folates).\n- « Détoxifie, élimine les métaux lourds » : aucun essai retenu ; le risque est plutôt d'apporter des métaux et des toxines si le produit est mal contrôlé (ANSES, 2017) [M].\n- « Superaliment qui fait maigrir et baisse le cholestérol » : effets de quelques mg/dL ou mmHg, contradictoires selon la méta-analyse (PMID 40953712, 40289965).\n- « Naturel donc sans risque » : l'ANSES a reçu des signalements d'atteintes hépatiques et musculaires (2017).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour. Voir aussi [astaxanthine](fiche:astaxanthine) (microalgue *Haematococcus*), [oméga-3](fiche:omega-3), [tension artérielle](fiche:tension-arterielle), [glycémie et prédiabète](fiche:glycemie-et-prediabete).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Shiri et al. *Complement Ther Med* 2025 — PMID 40953712 — [DOI](https://doi.org/10.1016/j.ctim.2025.103242)\n2. Pinto-Leite et al. *Nutrients* 2025 — PMID 40289965 — [DOI](https://doi.org/10.3390/nu17060943)\n3. Ghanbari et al. *Curr Probl Cardiol* 2022 — PMID 34538515 — [DOI](https://doi.org/10.1016/j.cpcardiol.2021.100942)\n4. Fallah et al. *Clin Nutr* 2018 — PMID 29037431 — [DOI](https://doi.org/10.1016/j.clnu.2017.09.019)\n5. Sherafati et al. *Complement Ther Med* 2022 — PMID 35331862 — [DOI](https://doi.org/10.1016/j.ctim.2022.102822)\n6. Rhoades et al. *Microorganisms* 2023 — PMID 37317149 — [DOI](https://doi.org/10.3390/microorganisms11051175)\n7. Vichi et al. *Food Chem Toxicol* 2012 — PMID 23036452 — [DOI](https://doi.org/10.1016/j.fct.2012.09.029)\n8. ANSES, « Compléments alimentaires à base de spiruline : privilégier les circuits d'approvisionnement les mieux contrôlés », 30/11/2017 — https://www.anses.fr/fr/content/complements-alimentaires-base-de-spiruline-privilegier-les-circuits-dapprovisionnement-les — consulté le 2026-10-14.\n9. Commission européenne, Novel Food Status Catalogue (https://food.ec.europa.eu/food-safety/novel-food/novel-food-status-catalogue_en, entrée spiruline via recherche web du 2026-10-14) et consultation sur *Chlorella* sp., Ares(2022)1668627 du 07/03/2022 — https://food.ec.europa.eu/system/files/2022-03/novel-food_consult-status_chlorella-sp.pdf — texte lu le 2026-10-14.\n10. BDPM, fichier CIS_COMPO_bdpm — https://base-donnees-publique.medicaments.gouv.fr — consulté le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Spiruline et chlorelle",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,103 @@
+{
+ "cibles": [
+  "hormones-sexualite",
+  "sante-mentale",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-cortisol",
+ "intro": "Fiche « examen » : quel cortisol, à quel moment, pour quelle question. Le stress, les moyens de le réduire et les compléments dits « anti-cortisol » sont dans [stress chronique et cortisol](fiche:stress-chronique-et-cortisol) ; ne pas dupliquer. Compléments : [ashwagandha](fiche:ashwagandha), [magnésium](fiche:magnesium), [sommeil](fiche:sommeil). Autres axes hormonaux : [testostérone et SHBG](fiche:biomarqueur-testosterone-shbg), [DHEA-S et IGF-1](fiche:biomarqueur-igf1-dhea-s).",
+ "liens": [
+  "ashwagandha",
+  "biomarqueur-igf1-dhea-s",
+  "biomarqueur-testosterone-shbg",
+  "magnesium",
+  "sommeil",
+  "stress-chronique-et-cortisol"
+ ],
+ "marqueurs": [
+  "cortisol"
+ ],
+ "mesure": "mixte",
+ "nb_pmid": 13,
+ "nb_seuils": 8,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "32133504",
+  "18334580",
+  "34687601",
+  "41619159",
+  "23312064",
+  "35395560",
+  "31697962",
+  "28124663",
+  "37938144",
+  "38888685",
+  "35730067",
+  "37926862",
+  "28479316"
+ ],
+ "preuve_globale": "A",
+ "resume": "Le cortisol se dose pour trois questions médicales : excès (syndrome de Cushing), insuffisance (surrénale ou hypophyse), suivi d'un traitement. Il ne sert pas à « mesurer son stress » : aucun seuil grand public validé trouvé [?].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Le cortisol se dose pour trois questions médicales : **excès** (syndrome de Cushing), **insuffisance** (surrénale ou hypophyse), **suivi d'un traitement**. Il ne sert pas à « mesurer son stress » : aucun seuil grand public validé trouvé [?].\n- Dépistage du Cushing : cortisol libre urinaire des 24 h, cortisol salivaire de fin de soirée (LNSC) ou freinage à la dexaméthasone ; sensibilités et spécificités de 90 à 99 % dans une méta-analyse de 139 études (14 140 personnes) [A] (PMID 32133504). Il faut d'abord exclure une prise de glucocorticoïdes (PMID 18334580).\n- Seul seuil de freinage retrouvé : cortisol du matin < 1,8 µg/dL (50 nmol/L) après 1 mg de dexaméthasone la veille = réponse normale (consensus Pituitary Society 2021, texte intégral) (PMID 34687601).\n- Cortisol du matin et insuffisance corticotrope : les recommandations citées dans une étude 2026 donnent < 30 µg/L (3 µg/dL) = confirme, > 150 µg/L (15 µg/dL) = exclut ; ces seuils viennent d'anciens dosages et un dosage plus récent les abaisse (PMID 41619159).\n- **Un cortisol salivaire commercial n'a aucune validité démontrée** pour diagnostiquer une « fatigue surrénalienne » ou guider un complément (recherches PubMed, voir fiche stress) [?]. La réponse au réveil (CAR) exige un horaire exact : 5 à 15 min de retard changent le résultat (PMID 23312064).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "| Matrice | Ce que ça reflète | Usage |\n|---|---|---|\n| Sang (sérique) | Cortisol total à l'instant T (lié à la CBG + libre) | Insuffisance surrénalienne, freinage, minuit |\n| Salive | Fraction libre, ponctuelle (minuit, réveil, journée) | Dépistage du Cushing (soir) ; recherche (CAR) |\n| Urine des 24 h | Cortisol libre excrété sur 24 h | Dépistage du Cushing |\n| Cheveu | Exposition sur plusieurs mois | Recherche seulement (voir fiche stress) |\n\nRythme normal : pic dans l'heure suivant le réveil (CAR), déclin en journée, creux nocturne (PMID 35395560, 31697962). Un rythme aplati ou un cortisol salivaire tardif élevé accompagne un risque de décès cardiovasculaire plus élevé dans une cohorte de 1 090 personnes (31 décès cardiovasculaires) : association, pas indication de dosage (PMID 35395560) [B, cohorte unique].",
+   "titre": "Ce que mesure l'examen"
+  },
+  {
+   "markdown": "Conversion (calcul à partir de la masse molaire 362,5, pas d'une source) : 1 µg/dL = 10 µg/L ≈ 27,6 nmol/L ; 1 nmol/L ≈ 0,036 µg/dL. Les intervalles de référence dépendent du dosage ; chaque laboratoire imprime les siens.\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| Cortisol sérique après 1 mg de dexaméthasone (23 h-minuit), prélèvement 8 h | µg/dL (nmol/L) | < 1,8 (< 50) | Réponse normale au freinage | Adulte, après exclusion des glucocorticoïdes | Consensus Pituitary Society 2021, Fleseriu, PMID 34687601 (consulté le 2026-11-01) |\n| Cortisol salivaire de fin de soirée (LNSC) | variable | non retrouvé [?] | Seuil dépendant du dosage ; 2 à 3 prélèvements recommandés | Adulte | PMID 34687601 (nombre de prélèvements) ; valeur numérique non retrouvée [?] |\n| Cortisol libre urinaire des 24 h (UFC) | variable | > limite haute du laboratoire | Dépistage ; 2 à 3 recueils conseillés | Adulte | PMID 34687601 ; valeur numérique non retrouvée [?] |\n| Cortisol sérique du matin | µg/L (µg/dL) | < 30 (< 3) | Confirme une insuffisance corticotrope centrale (ancien dosage) | Adulte, atteinte hypophysaire | Recommandations citées par Gasco 2026, PMID 41619159 |\n| Cortisol sérique du matin | µg/L (µg/dL) | > 150 (> 15) | Exclut une insuffisance corticotrope centrale (ancien dosage) | Adulte, atteinte hypophysaire | Recommandations citées par Gasco 2026, PMID 41619159 |\n| Cortisol sérique du matin, dosage immunologique de 2e génération | µg/L | ≤ 80,8 / > 144,0 | Prédit / exclut l'insuffisance (seuil 180 µg/L au test ACTH) : sensibilité 37 % et spécificité 95 % pour ≤ 80,8 ; sensibilité 95 % et spécificité 29 % pour > 144,0 | 435 adultes, atteinte hypophysaire | Gasco 2026, PMID 41619159 [B, rétrospectif] |\n| Cortisol du matin, test à 1 µg d'ACTH en ambulatoire | nmol/L | < 145 / > 375 | Au-dessous, spécificité 89,9 % pour une réponse anormale ; au-dessus, un test ACTH est normal (sensibilité 100 %) | Patients ambulatoires, un centre | Perton 2017, PMID 28124663 [B, rétrospectif] |\n| Cortisol, intervalle de référence adulte (LC-MS/MS) | nmol/L | non retrouvé [?] | Chiffres absents du texte relu ; l'étude conclut à un intervalle indépendant de l'âge et peu dépendant du sexe | Adultes 32-90 ans, 519 personnes | PMID 37938144 |",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Test | Sensibilité / spécificité (Cushing, méta-analyse) | Remarque |\n|---|---|---|\n| Freinage 1 mg | 98,6 % / 90,6 % | Le plus sensible |\n| UFC 24 h | 94,0 % / 93,0 % | Le moins sensible ; dépend du recueil |\n| Cortisol salivaire de minuit (LNSC) | 95,8 % / 93,4 % | Sensibilité et spécificité comparables aux autres |\n| Cortisol sérique de minuit | 96,1 % / 93,2 % | Demande une hospitalisation en pratique (non sourcé) |\n\nSource : PMID 32133504 [A, méta-analyse de 139 études ; hétérogénéité des seuils et des dosages]. Distinguer un Cushing d'une élévation non tumorale (dépression, alcool, obésité sévère) est plus difficile : LNSC sensibilité 80 %, spécificité 90 % ; cortisol de minuit 91 % / 81 % (PMID 38888685) [A].\n- **Qui dépister** : après exclusion des glucocorticoïdes exogènes, les patients avec plusieurs signes évocateurs, dont ceux à forte valeur discriminante, et les incidentalomes surrénaliens (PMID 18334580) [B, recommandation]. Le registre allemand de 377 patients suspects trouve plus de Cushing parmi ceux adressés pour ostéoporose, incidentalome, syndrome métabolique ou myopathie (PMID 35730067) [B]. Dépistage de masse du cortisol : aucune indication.\n- **Cortisol et santé en population générale** : relations « relativement faibles » entre cortisol et santé dans 100 études, plus nettes pour les mesures intégrées (PMID 31697962) [A, revue systématique]. Cortisol de cheveu plus haut chez les patients cardiovasculaires, SMD 0,48 (PMID 37926862) [A, transversal, causalité non établie].\n- **Baisser le cortisol mesuré améliore-t-il un risque ?** Aucun essai trouvé : voir la fiche stress [?].",
+   "titre": "Ce que dit la preuve (valeur prédictive, utilité clinique)"
+  },
+  {
+   "markdown": "- **Heure du prélèvement** : le dosage du matin n'est comparable qu'au matin. Dans une cohorte ayant des prélèvements non à jeun l'après-midi chez des personnes âgées, les auteurs ne peuvent pas exclure un effet du rythme (PMID 37938144).\n- **Retard au réveil** : chez 50 femmes en bonne santé suivies par actimétrie, un délai de 5 à 15 min entre le réveil et la première salive augmente l'amplitude de la CAR estimée et avance son pic ; les horaires déclarés sont inexacts (PMID 23312064) [B]. Un kit à domicile sans suivi d'horaire est donc peu fiable.\n- **Glucocorticoïdes** (comprimés, injections, aussi locaux ou inhalés) : prédisent un test ACTH anormal (PMID 28124663) et doivent être exclus avant tout dépistage de Cushing (PMID 18334580). Ne jamais arrêter un corticoïde sans médecin (risque d'insuffisance surrénalienne, règle générale non sourcée ici).\n- **Pilule œstroprogestative** : modifie les concentrations de plusieurs stéroïdes (PMID 28479316) ; effet sur le cortisol total par la CBG : non relu [?].\n- **Dosage** : immunodosage et LC-MS/MS diffèrent ; la limite haute d'un intervalle de référence chez la femme avant la ménopause est inférieure d'environ 40 % à celle d'une autre publication (PMID 37938144) [B]. Ne comparer que des résultats du même laboratoire.\n- **Ashwagandha, magnésium, méditation** : voir [stress chronique et cortisol](fiche:stress-chronique-et-cortisol) (effets modestes sur le cortisol mesuré, écarts avec le stress perçu). Sécurité de l'ashwagandha : [ashwagandha](fiche:ashwagandha).\n- **Sommeil, travail de nuit, dépression, alcool, obésité sévère** : peuvent élever le cortisol sans maladie surrénalienne (« pseudo-Cushing ») (PMID 38888685).",
+   "titre": "Ce qui fait varier le résultat (leviers, médicaments, compléments, conditions de prélèvement)"
+  },
+  {
+   "markdown": "- **Cortisol élevé isolé** : ne pas conclure ; refaire dans de bonnes conditions, exclure les corticoïdes (y compris crèmes et collyres dans la liste du médecin), puis un second test différent si le premier est positif ; avis endocrinologue en cas de résultats concordants (PMID 18334580).\n- **Cortisol du matin bas** : pas de diagnostic sur un chiffre ; le test à l'ACTH tranche (PMID 41619159, 28124663). Signes d'alerte : voir « Quand consulter ».\n- **Cortisol salivaire commercial « anormal »** : pas de supplément ou de cure à prendre sur ce résultat ; l'apporter au médecin si des signes cliniques existent.",
+   "titre": "Que faire d'un résultat anormal"
+  },
+  {
+   "markdown": "- Prescrit sur signes cliniques ou incidentalome, par un médecin ; le patient doit rapporter tous ses traitements.\n- LNSC : 2 à 3 prélèvements de fin de soirée ; UFC : 2 à 3 recueils de 24 h (variabilité intra-individuelle) (PMID 34687601).\n- Prix et remboursement en France : non retrouvés [?].",
+   "titre": "Qui, quand, comment (fréquence, remboursement)"
+  },
+  {
+   "markdown": "Examen de biologie médicale prescrit, cotation et remboursement : non consultés [?]. Les kits salivaires grand public et leurs allégations « surrénales » ne reposent sur aucune étude relue [M]. Hydrocortisone orale : médicament sur ordonnance (non consulté dans la BDPM pour cette fiche [?]).",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Prélever à n'importe quelle heure et comparer à un intervalle du matin.\n- Faire un dosage de cortisol sous corticoïde sans le dire.\n- Se fier à un seul recueil urinaire ou une seule salive (PMID 34687601).\n- Interpréter un « profil quatre points » salivaire comme un diagnostic de « fatigue surrénalienne » : aucune étude relue ne le valide [?].",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Mon cortisol salivaire est élevé, il faut un complément adaptogène »** : un cortisol élevé mesuré n'est pas un diagnostic ; les relations cortisol-santé sont faibles en population générale (PMID 31697962) ; pas de validation du test commercial [?] ; l'ashwagandha baisse le cortisol sans effet clair sur le stress perçu (voir fiche stress) [M].\n- **« Le cortisol de cheveu mesure mon stress »** : il reflète plusieurs mois, mais sans seuil validé pour le stress (voir fiche stress) ; les associations avec les maladies sont transversales (PMID 37926862).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Même parmi les tests de référence, l'UFC est le moins sensible pour le Cushing (PMID 32133504), alors que c'est le recueil le plus contraignant.\n- Chez des adultes de 32 à 90 ans mesurés en LC-MS/MS, les intervalles de cortisol n'ont pas justifié d'ajustement à l'âge (PMID 37938144).\n- Le seuil de cortisol du matin pour exclure une insuffisance a été défini sur d'anciens dosages ; avec un dosage récent, le seuil d'exclusion est plus bas (144 vs 150 µg/L) mais perd en spécificité (29 %) (PMID 41619159).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Prise de poids du tronc, vergetures violacées larges, faiblesse musculaire, hypertension et diabète difficiles à contrôler (évoquent un excès) ; fatigue intense avec perte de poids, hypotension, vertiges, malaise ou douleurs abdominales, surtout après arrêt d'un corticoïde (évoquent une insuffisance) ; incidentalome surrénalien découvert à l'imagerie. Liste précise des signes d'alerte par une source française : non relue [?].",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 32133504 — Galm BP et al., Accuracy of laboratory tests for the diagnosis of Cushing syndrome. *J Clin Endocrinol Metab* 2020 (résumé relu)\n- PMID 38888685 — Hinojosa-Amaya JM et al., Differentiating Cushing's syndrome from non-neoplastic hypercortisolism. *Pituitary* 2024 (résumé relu)\n- PMID 18334580 — Nieman LK et al., The diagnosis of Cushing's syndrome: an Endocrine Society clinical practice guideline. *J Clin Endocrinol Metab* 2008 (résumé relu)\n- PMID 34687601 — Fleseriu M et al., Consensus on diagnosis and management of Cushing's disease: a guideline update. *Lancet Diabetes Endocrinol* 2021. doi:10.1016/S2213-8587(21)00235-7 (texte intégral relu)\n- PMID 35730067 — Whom should we screen for Cushing syndrome? Endocrine Society 2008 revisited. *J Clin Endocrinol Metab* 2022 (résumé relu)\n- PMID 41619159 — Gasco V et al., Morning cortisol and central adrenal insufficiency. *J Endocrinol Invest* 2026 (résumé relu)\n- PMID 28124663 — Perton FT et al., Validation of the 1 µg short synacthen test. *Neth J Med* 2017 (résumé relu)\n- PMID 23312064 — Smyth N et al., Delays of 5-15 min between awakening and saliva sampling matter in the cortisol awakening response. *Psychoneuroendocrinology* 2013 (résumé relu)\n- PMID 35395560 — Karl M et al., Dysregulated diurnal cortisol patterns and cardiovascular mortality (KORA-F3). *Psychoneuroendocrinology* 2022 (résumé relu)\n- PMID 31697962 — Caulfield et al., Individual differences in glucocorticoid regulation. *Front Neuroendocrinol* 2019 (résumé relu)\n- PMID 37926862 — Kuckuck S et al., Long-term glucocorticoids and metabolic syndrome/cardiovascular disease. *J Intern Med* 2023 (résumé relu)\n- PMID 37938144 — Steroid reference intervals by LC-MS/MS kit (KORA). *Endocr Connect* 2023 (texte intégral relu)\n- PMID 28479316 — Adrenal steroids reference intervals, LC-MS/MS. *Clin Chim Acta* 2017 (résumé relu)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : cortisol (sérique, salivaire, urinaire, réponse au réveil)",
+ "type": "biomarqueur",
+ "unite": ""
+}

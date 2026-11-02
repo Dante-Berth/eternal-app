@@ -1,0 +1,69 @@
+{
+ "cibles": [
+  "muscle-os",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "vitamine-d3-nutri-and-co-lanoline",
+ "intro": "",
+ "liens": [
+  "uvedose-100000-ui",
+  "vitamine-d"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 2,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "30293909",
+  "30415629"
+ ],
+ "preuve_globale": "A",
+ "resume": "Du cholécalciférol simple, bien dosé et peu cher (≈ 1 €/mois pour 1 000 UI/j), mais le bénéfice clinique d'un complément quotidien n'est pas démontré chez le sujet non carencé, et la posologie haute de la marque (jusqu'à 3 gouttes) dépasse la dose maximale proposée par l'ANSES.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Du cholécalciférol simple, bien dosé et peu cher (≈ 1 €/mois pour 1 000 UI/j), mais le bénéfice clinique d'un complément quotidien n'est pas démontré chez le sujet non carencé, et la posologie haute de la marque (jusqu'à 3 gouttes) dépasse la dose maximale proposée par l'ANSES.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur déclarée | Preuve |\n|---|---|---|\n| Vitamine D3 issue de lanoline | 1 000 UI par goutte | Fractures, chutes, densité osseuse : aucun effet chez l'adulte [A] (PMID 30293909) ; cancer et événements cardiovasculaires : aucun effet à 2 000 UI/j [B, ECR unique n=25871] (PMID 30415629) |\n| Huile vierge de colza | support | sans objet |\n| Extrait riche en tocophérols | antioxydant | sans objet |\n\nComposition lue sur le site de la marque (nutriandco.com, consulté le 2026-10-06) et sur Atida (consulté le 2026-10-06). Sans gélatine, lactose ni gluten (même source). Aucune analyse indépendante du titre en vitamine D trouvée [?].",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "- Complément alimentaire : tout complément doit être déclaré à la DGCCRF (décret n° 2006-352, art. 15 ; DGCCRF, bilan des déclarations, résultat de recherche web, document non rouvert, consulté le 2026-10-06). Pas d'AMM.\n- Doses : ANSES, avis saisine n° 2023-SA-0165 du 2024-07-31 : dose journalière maximale proposée en complément pour l'adulte 50 µg (= 2 000 UI) ; limite supérieure de sécurité 100 µg/j (voir [vitamine D](fiche:vitamine-d), consulté le 2026-10-06 ; arrêté non confirmé modifié [?]). 2 gouttes = 50 µg ; 3 gouttes = 75 µg, au-dessus de la dose proposée.\n- Antidopage : vitamine D non concernée a priori ; liste AMA 2026 non relue [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque dit | Les études |\n|---|---|\n| Contribue à « l'entretien normal de la structure osseuse », au fonctionnement normal du système immunitaire, à l'absorption du calcium | Formulations d'allégations nutritionnelles de type UE ; règlement non rouvert [?]. En clinique : pas de réduction des fractures ni chutes chez l'adulte [A] (PMID 30293909) |\n| Adultes 1 à 3 gouttes/j, femmes enceintes 2 à 3, sportifs et âgés 2 | Aucun essai vérifié ici sur ces sous-populations [?]. La page de la marque et celle d'Atida divergent (1-3 vs 1-2 gouttes pour l'adulte) |\n| Forme lanoline « d'origine naturelle » | Pas d'étude comparant lanoline et autres sources de D3 [?] |",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Selon la marque : 1 à 2 gouttes/j chez l'adulte (nutriandco.com et Atida, consultés le 2026-10-06). Vérifier d'abord son taux sanguin ; ne pas cumuler avec une ampoule type [Uvedose](fiche:uvedose-100000-ui) sans avis médical.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Flacon 15 mL (≈ 335 gouttes) : 9,90 € (Pharmacie des Rochettes) à 11,90 € (marque, Amazon, Cdiscount) ; 13,09 € (Atida) et 13,49 € (Newpharma) selon recherche web ; pages Pharmacie des Rochettes et nutriandco.com lues, Easypara et Newpharma en erreur 403, Atida en rupture au relevé (consultés le 2026-10-06).\n- 1 goutte/j : 0,89 à 1,07 €/mois ; 2 gouttes/j : 1,8 à 2,1 €/mois (prix de 9,90 à 11,90 €).\n- Alternative : [Uvedose](fiche:uvedose-100000-ui), ≈ 0,8 €/mois et remboursé sur ordonnance, même molécule ; mais prescription requise et dose intermittente.",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "La marque affiche 4,8/5 sur 718 avis (nutriandco.com, consulté le 2026-10-06) ; contenu des avis non analysé [?]. Aucun effet indésirable mentionné dans l'avis relu sur Atida (un seul avis).",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "Surdosage : hypercalcémie ; limite supérieure de sécurité 100 µg/j (ANSES, voir fiche vitamine D). Contre-indications et interactions : voir la fiche [vitamine D](fiche:vitamine-d) (non entièrement sourcées [?]).",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- PMID 30293909 — Bolland MJ, Grey A, Avenell A, *Lancet Diabetes Endocrinol* 2018. doi:10.1016/S2213-8587(18)30265-1\n- PMID 30415629 — Manson JE et al., *N Engl J Med* 2019 (VITAL). doi:10.1056/NEJMoa1809944\n- Nutri&Co, page « Vitamine D3 lanoline » (composition, dose, prix, posologie), consultée le 2026-10-06.\n- Pharmacie des Rochettes (9,90 €), Atida (composition, rupture), consultées le 2026-10-06 ; Amazon.fr, Cdiscount, Newpharma (prix via recherche web), 2026-10-06.\n- ANSES, avis saisine n° 2023-SA-0165, 2024-07-31, consulté le 2026-10-06.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Vitamine D3 lanoline en gouttes — Nutri&Co",
+ "type": "produit",
+ "unite": ""
+}

@@ -1,0 +1,102 @@
+{
+ "cibles": [
+  "longevite",
+  "coeur-metabolisme",
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-10",
+ "famille": "complement",
+ "id": "taurine",
+ "intro": "",
+ "liens": [
+  "creatine",
+  "l-carnitine",
+  "mitochondries",
+  "taurine-nutrimuscle-gelules",
+  "the-et-sante"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 19,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "37289866",
+  "41061678",
+  "40472098",
+  "41275513",
+  "40852891",
+  "18325648",
+  "30805607",
+  "40369079",
+  "26781281",
+  "33586039",
+  "39148075",
+  "40546935",
+  "38755142",
+  "39796489",
+  "32871172",
+  "29546641",
+  "41032459",
+  "36862943",
+  "36501132"
+ ],
+ "preuve_globale": "A",
+ "resume": "L'idée « anti-âge » vient d'une étude de *Science* 2023 : la taurine circulante baisserait avec l'âge chez la souris, le singe et l'humain, et en supplémenter prolongerait la vie en bonne santé chez la souris et le ver, la période de bonne santé chez le singe [C] (PMID 37289866). Chez l'humain, l…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **L'idée « anti-âge »** vient d'une étude de *Science* 2023 : la taurine circulante baisserait avec l'âge chez la souris, le singe et l'humain, et en supplémenter prolongerait la vie en bonne santé chez la souris et le ver, la période de bonne santé chez le singe [C] (PMID 37289866). Chez l'humain, les auteurs concluent eux-mêmes que des essais « semblent justifiés » : aucune donnée de longévité humaine [?].\n- **La prémisse humaine est contestée** : sur 137 hommes de 20 à 93 ans, aucune association entre taurine circulante et âge, masse musculaire, force ou fonction mitochondriale [B, observationnel n=137] (PMID 41061678). Une réanalyse dans *Science* 2025 trouve une taurine stable ou en hausse avec l'âge dans trois cohortes humaines, chez le singe et chez la souris [B, observationnel] (PMID 40472098).\n- **Ce qui est le mieux étayé chez l'humain** : un effet modeste sur la pression artérielle et les paramètres métaboliques. Méta-analyse de 34 ECR : tension systolique −4,38 mmHg, glycémie à jeun −5,90 mg/dL, HbA1c −0,21 point [A, hétérogène] (PMID 41275513). Les populations sont surtout des malades (diabète, foie, surpoids), pas des sujets sains.\n- **Sport** : petit effet d'endurance en aigu (g = 0,25), certitude GRADE basse à très basse [A, faible certitude] (PMID 40852891).\n- **Sécurité** : bien tolérée jusqu'à 3 g/j chez l'adulte sain (niveau « observé sûr », pas une limite toxicologique) (PMID 18325648). Les risques des boissons énergisantes viennent surtout de la caféine (PMID 30805607).\n- **Signal à surveiller** : dans des modèles animaux de leucémie myéloïde, le transporteur de la taurine est une dépendance de la cellule cancéreuse [C] (PMID 40369079). Aucune donnée humaine de supplémentation et de cancer [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Acide aminé soufré (au sens large : dérivé de la cystéine) très abondant dans le cœur, le muscle et la rétine, non incorporé aux protéines. Rôles proposés : osmorégulation, conjugaison des acides biliaires, régulation du calcium, effet antioxydant. Pour la pression artérielle, un essai chez des préhypertendus relie la baisse de tension à une hausse de H2S plasmatique et à une meilleure vasodilatation [B, ECR unique n=120] (PMID 26781281). Pour la longévité, les mécanismes avancés chez l'animal (moins de sénescence cellulaire, de dommages à l'ADN, de dysfonction mitochondriale, d'inflammation) restent des résultats [C] (PMID 37289866) ; leur transposition humaine n'est pas démontrée [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Longévité et vieillissement\n| Question | Niveau | Donnée |\n|---|---|---|\n| La taurine baisse-t-elle avec l'âge ? | [B, contradictoire] | Oui dans *Science* 2023 (souris, singes, humains) (PMID 37289866). Non chez 137 hommes de 20 à 93 ans (PMID 41061678). Stable ou en hausse avec l'âge dans 3 cohortes humaines, chez le singe et la souris, en suivi longitudinal et transversal (PMID 40472098). |\n| Supplémenter prolonge-t-il la vie ? | [C] | Durée de vie allongée chez la souris et le ver, durée de vie en bonne santé chez le singe (PMID 37289866). Chiffres précis non relus dans le résumé ; non cités. |\n| Essai humain de longévité | [?] | Aucun trouvé (recherche PubMed « taurine aging », « taurine supplementation older adults »). |\n| Femmes âgées, exercice + taurine | [B] | Un essai existe (PMID 33586039, Chupel et al., *Amino Acids* 2021 ; résumé non relu ici) [?]. |\n\nConflits d'intérêts et financement de ces études : non relus (texte intégral non consulté) [?].\n\nLecture sceptique : même si la taurine baissait avec l'âge, cela ne prouve pas que la baisse cause le vieillissement, et la baisse elle-même est contestée chez l'humain. Le dosage sanguin d'un acide aminé dont une grande part vient de l'alimentation et du muscle est un marqueur fragile.\n\n### Pression artérielle et cœur\n| Indication | Niveau | Donnée |\n|---|---|---|\n| Pression artérielle | [A, hétérogène] | 34 ECR : systolique −4,38 mmHg (IC 95 % −7,26 à −1,50), diastolique −2,54 (−3,97 à −1,11) (PMID 41275513). Autre méta-analyse de 20 ECR (808 participants) : systolique −3,999, diastolique −1,435 mmHg, fréquence cardiaque −3,6 bpm (PMID 39148075). |\n| Préhypertension | [B, ECR unique n=120] | 1,6 g/j pendant 12 semaines : systolique clinique −7,2 mmHg contre −2,6 sous placebo ; en ambulatoire 24 h −3,8 contre −0,3 (PMID 26781281). |\n| Diabète de type 2 | [B, ECR unique n=165] | 2,4 g/j pendant 12 semaines : baisse de la tension systolique et meilleure fonction vasculaire par rapport au placebo (PMID 40546935). |\n| Insuffisance cardiaque | [A, hétérogène] | Dans la méta-analyse de 20 ECR : classe NYHA −0,403, fraction d'éjection +4,98 points (IC 95 % 1,56 à 8,41) (PMID 39148075). Petits essais, populations malades ; aucun critère dur (hospitalisation, mortalité) dans les résumés lus [?]. |\n\nBiais à garder en tête : méta-analyses de petits essais courts (5 à 365 jours), effets variables selon la dose et la durée (PMID 38755142). Une baisse de 3 à 4 mmHg est utile à l'échelle d'une population, mais minime pour un hypertendu traité.\n\n### Glycémie, lipides, syndrome métabolique\n| Indication | Niveau | Donnée |\n|---|---|---|\n| Cardiométabolisme global | [A, hétérogène] | 34 ECR : glycémie à jeun −5,90 mg/dL (IC 95 % −9,65 à −2,15), HbA1c −0,21 % (−0,37 à −0,05), HOMA-IR −0,57, triglycérides −14,42 mg/dL, cholestérol total −12,41 mg/dL, LDL −5,08 mg/dL, CRP et ALAT en baisse ; doses de 1,5 à 3,0 g/j jugées plus efficaces (PMID 41275513). |\n| Syndrome métabolique | [A] | 25 ECR (1 024 participants) : glycémie à jeun −5,88 mg/dL, triglycérides −18,3 mg/dL, tension systolique −4,0 mmHg ; pas d'effet sur le HDL (PMID 38755142). |\n| Surpoids/obésité, prise au long cours | [A, petite taille] | 9 ECR : insuline à jeun −2,15 µU/mL ; HbA1c −0,33 % uniquement chez les obèses ; à 3 g/j, HbA1c −0,37 % et glycémie −7,14 mg/dL (PMID 39796489). Les valeurs du résumé pour TG et cholestérol total (−0,56 et −0,71 mg/dL) sont trop faibles pour être crédibles en l'état, probablement un problème d'unités ; ne pas les retenir. |\n| Poids | [A, contradictoire] | Pas d'effet sur le poids ni la glycémie dans une méta-analyse plus ancienne de 12 études (PMID 32871172), contrairement à la plus récente : les résultats changent avec le jeu d'essais inclus. |\n\n### Performance sportive\n| Indication | Niveau | Donnée |\n|---|---|---|\n| Endurance | [A] | 10 études, 1 à 6 g : g = 0,40 (IC 95 % 0,12 à 0,67), sans effet de la dose ni de la durée de prise (PMID 29546641). |\n| Dose unique avant l'effort | [A, faible certitude] | 23 ECR (N = 308) : g = 0,25 (IC 95 % 0,10 à 0,39) ; GRADE bas à très bas ; intervalles de prédiction incluant souvent zéro ; effets réduits quand on retire les études influentes (PMID 40852891). |\n| Taurine + caféine | [A, faible certitude] | Méta-analyse en réseau de 12 études : l'association améliore la capacité anaérobie (g = 0,46) et le temps de réaction (g = 0,75) par rapport à l'un ou l'autre seul ; la caféine seule réduit l'effort perçu ; effets aérobies variables (PMID 41032459). |\n\nLecture : un petit gain probable en endurance, dont la taille réelle est incertaine. La caféine reste l'ergogène établi (PMID 36862943). Voir [Thé et santé](fiche:the-et-sante) pour la caféine, [Créatine](fiche:creatine) pour un complément sportif bien mieux étayé.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Essais cités : 0,5 à 6 g/j (PMID 38755142), 1,6 g/j (PMID 26781281), 2,4 g/j (PMID 40546935), fenêtre jugée plus efficace 1,5 à 3,0 g/j (PMID 41275513). Vidal mentionne 2 à 3 g/j pour les compléments (Vidal, page du 2018-03-29, consultée le 2026-10-10). Une boisson énergisante type apporte environ 4 g/L de taurine, soit 1 à 2 g par portion de consommation courante (PMID 36501132). Ce sont des données d'étude, pas un conseil de dose.",
+   "titre": "Doses étudiées vs doses vendues"
+  },
+  {
+   "markdown": "- **Complément alimentaire** (gélules, poudre) : forme principale.\n- **Boissons énergisantes** : taurine ajoutée, avec caféine (voir ci-dessous).\n- **Médicament** : aucune spécialité à base de taurine trouvée dans cette recherche ; BDPM non interrogée [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Adulte sain** : l'évaluation de risque retient un niveau « observé sûr » de 3 g/j ; il n'a pas été possible de fixer un NOAEL, faute de schéma systématique d'effets indésirables, et les doses plus hautes ne sont pas démontrées dangereuses mais pas assez étudiées sur le long terme (PMID 18325648).\n- **EFSA 2009** : consommation régulière via boissons énergisantes sans préoccupation de sécurité pour la taurine, NOAEL de 1 000 mg/kg/j, marge de sécurité suffisante pour 125 mL et 350 mL de boisson par jour (EFSA, 2009-02-12, efsa.europa.eu, consulté le 2026-10-10).\n- **Boissons énergisantes (taurine + caféine)** : essai croisé de 38 adultes : la boisson commerciale augmente la tension systolique d'environ 4 mmHg et allonge le QTc de 7 ms à 1 h ; la caféine, pas la taurine ni la glucuronolactone, explique la hausse de tension [B, ECR n=38] (PMID 30805607). ISSN : les ergogènes principaux sont la caféine et les glucides (PMID 36862943). Évaluation d'exposition : limiter à environ 175, 262 et 350 mL les boissons pour des consommateurs de 40, 60 et 80 kg afin d'éviter des troubles du sommeil (PMID 36501132). ANSES : plus de 200 cas d'effets indésirables signalés en nutrivigilance depuis 2008 ; à éviter pour enfants, adolescents, femmes enceintes ou allaitantes et personnes avec maladie cardiovasculaire (ANSES, 2022-06-30, anses.fr, consulté le 2026-10-10). Combinaison avec l'alcool et l'effort intense : ne pas l'étendre au-delà de ces sources, non recherché ici [?].\n- **Grossesse et allaitement** : aucune étude humaine de supplémentation trouvée ; Vidal recommande l'abstention sauf avis médical (Vidal, 2018). Les boissons énergisantes sont déconseillées par l'ANSES.\n- **Précautions citées par Vidal** : épilepsie, troubles thyroïdiens, calcium ; insuffisance cardiaque : sous suivi médical. Source secondaire, non vérifiée dans une source primaire [?].\n- **Interactions médicamenteuses** (antihypertenseurs, antidiabétiques : effet additif possible sur tension et glycémie) : plausible, non documentée dans les résumés lus [?].\n- **Cancer** : la leucémie myéloïde aiguë, chez la souris et sur cellules de patients, dépend de la captation de taurine produite par la moelle osseuse ; bloquer le transporteur ralentit la maladie [C] (PMID 40369079). Cela ne montre pas que la supplémentation provoque un cancer, mais les personnes atteintes ou à risque d'hémopathie devraient en parler à leur médecin. Pas de donnée clinique [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **France/UE** : complément alimentaire ou ingrédient de boisson ; l'acide aminé n'est pas un médicament. Commercialisation des boissons à la taurine autorisée en France depuis mai 2008, après interdiction de fait en 1996 (ANSES, 2022 ; Vidal, 2018).\n- **Allégations** : l'UE a refusé en 2012 plusieurs allégations pour la taurine (retarder la fatigue, améliorer la performance, protéger contre le stress oxydant, soutenir l'immunité…), donc interdites sur les compléments ; relayé par Vidal (2018, consulté le 2026-10-10). Texte du règlement non relu [?].\n- **Novel Food** : statut non vérifié dans le catalogue de l'UE [?].\n- **ANSES/DGCCRF** : pas d'avis spécifique « complément de taurine » trouvé ; les avis ANSES retrouvés portent sur les boissons énergisantes.\n- **AMA** : taurine absente de la Liste des interdictions 2026 (texte officiel en vigueur au 1er janvier 2026, copie nsa.gov.cz, recherche du mot, consultée le 2026-10-10). Le contenu réel d'un complément reste à vérifier avant compétition.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- **« La taurine inverse le vieillissement »** : base animale [C] (PMID 37289866) et prémisse humaine contestée (PMID 41061678, 40472098). Aucun essai de longévité chez l'humain [?].\n- **« Votre taurine baisse avec l'âge, il faut compenser »** : non établi chez l'humain ; trois cohortes montrent une stabilité ou une hausse (PMID 40472098).\n- **« Donne des ailes »** : l'effet stimulant des boissons vient de la caféine ; la taurine ne fait pas monter la tension dans l'essai croisé (PMID 30805607).\n- **« Booster de performance »** : petit effet en endurance, certitude basse (PMID 40852891) ; l'UE a refusé l'allégation de performance (Vidal, 2018).\n- **« Soigne le cœur »** : méta-analyses positives sur tension et fraction d'éjection, mais petits essais, sans critère dur [A, hétérogène] (PMID 39148075) ; ne remplace aucun traitement.\n- **« Naturel donc sans risque »** : bien toléré à 3 g/j, mais effets à long terme non étudiés, et un signal préclinique sur la leucémie myéloïde (PMID 40369079).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Tension, glycémie et HbA1c, bilan lipidique, avant de chercher un complément ; traitements antihypertenseurs et antidiabétiques déjà en cours ; antécédents d'épilepsie, de maladie thyroïdienne ou d'hémopathie. Alternatives mieux étayées : activité physique, alimentation et traitements antihypertenseurs ou antidiabétiques selon l'indication. Pour le sport, la [créatine](fiche:creatine) a des preuves nettement plus solides.",
+   "titre": "Ce qu'un médecin pourrait évaluer"
+  },
+  {
+   "markdown": "[Taurine en gélules Nutrimuscle](fiche:taurine-nutrimuscle-gelules).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "[Longévité](../../vues/themes/longevite.md), [Mitochondries](fiche:mitochondries), [Thé et santé](fiche:the-et-sante) (caféine), [Créatine](fiche:creatine), [L-carnitine](fiche:l-carnitine).",
+   "titre": "Voir aussi"
+  },
+  {
+   "markdown": "- PMID 37289866 — Singh P et al., *Science* 2023, « Taurine deficiency as a driver of aging ».\n- PMID 41061678 — Marcangeli V et al., *Aging Cell* 2025.\n- PMID 40472098 — Fernandez ME et al., *Science* 2025, « Is taurine an aging biomarker? ».\n- PMID 41275513 — Nie Z et al., *Nutr Rev* 2026.\n- PMID 39148075 — Tzang CC et al., *Nutr J* 2024.\n- PMID 38755142 — Tzang CC et al., *Nutr Diabetes* 2024.\n- PMID 39796489 — Sun Q et al., *Nutrients* 2024.\n- PMID 32871172 — Guan L et al., *Eur J Pharmacol* 2020.\n- PMID 26781281 — Sun Q et al., *Hypertension* 2016.\n- PMID 40546935 — Li Y et al., *iScience* 2025.\n- PMID 29546641 — Waldron M et al., *Sports Med* 2018.\n- PMID 40852891 — Deng H et al., *Scand J Med Sci Sports* 2025.\n- PMID 41032459 — Deng H et al., *J Int Soc Sports Nutr* 2025.\n- PMID 36862943 — Jagim AR et al., *J Int Soc Sports Nutr* 2023.\n- PMID 30805607 — Basrai M et al., *J Nutr* 2019.\n- PMID 36501132 — Rubio C et al., *Nutrients* 2022.\n- PMID 18325648 — Shao A, Hathcock JN, *Regul Toxicol Pharmacol* 2008.\n- PMID 40369079 — Sharma S et al., *Nature* 2025.\n- PMID 33586039 — Chupel MU et al., *Amino Acids* 2021 ; résumé non relu.\n- EFSA, communiqué du 12 février 2009 sur taurine et D-glucuronolactone (efsa.europa.eu), consulté le 2026-10-10.\n- ANSES, « Quels sont les effets des boissons énergisantes sur la santé ? », 30 juin 2022 (anses.fr), consulté le 2026-10-10.\n- Vidal, fiche Taurine (compléments alimentaires), mise à jour 29 mars 2018 (vidal.fr), consulté le 2026-10-10 ; source secondaire pour les allégations refusées.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Taurine",
+ "type": "actif",
+ "unite": ""
+}

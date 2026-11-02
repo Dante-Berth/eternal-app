@@ -1,0 +1,117 @@
+{
+ "cibles": [
+  "muscle-os",
+  "hormones-sexualite"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "medicament",
+ "id": "sarms-et-anabolisants",
+ "intro": "Fiche de réduction des risques (règle 7) : mécanisme, preuves, risques, statut légal, ce qu'un médecin peut évaluer, alternatives. **Aucune dose, aucun cycle, aucun protocole, aucun conseil d'achat, aucune fiche produit.** Cible principale hormones-sexualite parce que l'usage médical légitime des androgènes (hypogonadisme) relève de ce système ; voir [testostérone](fiche:testosterone).",
+ "liens": [
+  "alimentation",
+  "baisse-libido-homme-et-testosterone",
+  "creatine",
+  "entrainement-en-resistance",
+  "exercice-physique",
+  "inhibiteurs-de-la-myostatine-et-de-lactivine",
+  "musculation-et-recepteurs-androgeniques",
+  "proteines",
+  "sarcopenie",
+  "sommeil",
+  "testosterone"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 29,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "8637535",
+  "30482179",
+  "30138131",
+  "32748554",
+  "22459616",
+  "39945139",
+  "35842594",
+  "41869035",
+  "39820213",
+  "39755947",
+  "22031847",
+  "40739991",
+  "41178728",
+  "42417499",
+  "41245032",
+  "40765588",
+  "40761329",
+  "39421081",
+  "40401476",
+  "42517308",
+  "40747477",
+  "37567343",
+  "37769866",
+  "41147237",
+  "40579733",
+  "28156209",
+  "37326322",
+  "28698222",
+  "29138605"
+ ],
+ "preuve_globale": "A",
+ "resume": "Ça fait gagner de la masse maigre : c'est le problème. Les androgènes augmentent la masse maigre chez l'humain, y compris chez l'homme sain, et c'est ce qui rend leur usage attractif : testostérone supraphysiologique + musculation, +6,1 kg de masse maigre en 10 semaines (43 hommes sains) [B, ECR…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Ça fait gagner de la masse maigre : c'est le problème.** Les androgènes augmentent la masse maigre chez l'humain, y compris chez l'homme sain, et c'est ce qui rend leur usage attractif : testostérone supraphysiologique + musculation, +6,1 kg de masse maigre en 10 semaines (43 hommes sains) [B, ECR unique n=43] (PMID 8637535). Le gain est réel ; le débat porte sur le prix payé.\n- **SARMs : preuves humaines limitées à des phases II/III de courte durée, chez des malades ou des sujets âgés, par un seul promoteur.** Masse maigre en hausse, mais sans gain fonctionnel dans les essais de phase III sur la cachexie du cancer du poumon [A, hétérogène] (PMID 30482179, PMID 30138131). Aucun SARM n'a reçu d'autorisation de l'EMA ni de la FDA à la date de l'article cité (2020) (PMID 32748554).\n- **Risques documentés** : suppression de l'axe gonadique, baisse du HDL (même avec un SARM, en 21 jours) [B, ECR unique n=76] (PMID 22459616) ; atteintes hépatiques cholestatiques parfois sévères sous SARMs vendus comme compléments [B, cas isolés] ; pour les stéroïdes anabolisants : tension artérielle, LDL, transaminases, testostérone endogène effondrée [A, hétérogénéité non précisée dans le résumé] (PMID 39945139), risque cardiaque, troubles de l'humeur, infertilité parfois durable.\n- **Marché gris** : sur 5 413 échantillons de stéroïdes de marché noir, 36 % de contrefaçons (IC 95 % 29-43) et 37 % de qualité inférieure [A, hétérogénéité élevée] (PMID 35842594) ; produits « SARMs » avec contenu absent, non déclaré ou en quantité différente de l'étiquette [B] (PMID 32748554).\n- **Statut** : SARMs sans AMM (usage détourné) ; stéroïdes anabolisants hors usage médical sans AMM pour cet usage ; **interdits à tout moment en sport (AMA S1, liste 2026)**. Pas d'usage « légal » pour gagner du muscle.\n- **Alternatives avec des preuves bien meilleures** : [musculation](fiche:entrainement-en-resistance), [protéines](fiche:proteines), [créatine](fiche:creatine). Si le vrai sujet est un taux de testostérone bas avec symptômes : consultation et diagnostic, pas auto-médication.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **Stéroïdes anabolisants androgènes (AAS)** : dérivés de la testostérone, ils activent le récepteur des androgènes dans le muscle et dans les autres tissus (prostate, peau, cheveux, axe hypothalamo-hypophysaire). Pris en excès, ils freinent l'axe hypothalamo-hypophyso-gonadique (HPG) : la production endogène de testostérone et de spermatozoïdes chute (PMID 41869035, PMID 39820213) [B, revues narratives].\n- **SARMs (modulateurs sélectifs du récepteur des androgènes)** : composés non stéroïdiens qui se lient au même récepteur avec un effet censé être tissu-spécifique (muscle et os plutôt que prostate) (PMID 22459616, PMID 39755947). La « sélectivité » est une hypothèse de conception : chez l'humain, le ligandrol suppresse tout de même la testostérone, la SHBG, le HDL et les triglycérides de façon dose-dépendante (PMID 22459616) [B, ECR unique n=76].\n- Pas de mécanisme sérieux pour un effet « sans effort » : les gains de l'étude de référence viennent surtout de l'association au travail de force (PMID 8637535).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Contexte | Résultat | Preuve |\n|---|---|---|\n| Testostérone supraphysiologique, hommes sains (10 sem.) | Sans exercice : surface musculaire triceps +424 vs −81 mm², quadriceps +607 vs −131 mm² ; avec exercice : masse maigre +6,1 kg, muscle et force supérieurs à ceux des deux groupes sans exercice (la comparaison directe avec l'exercice seul n'est pas chiffrée dans le résumé) ; humeur et comportement inchangés sur 10 semaines | [B, ECR unique n=43] (PMID 8637535) |\n| Enobosarm, sujets sains âgés (>60 ans) et femmes ménopausées, 12 sem., phase II | Masse maigre en hausse dose-dépendante (P<0,001 à la dose la plus forte vs placebo), fonction physique (P=0,013) et résistance à l'insuline améliorées ; effets indésirables comparables au placebo ; auteurs liés au promoteur (GTx) | [B, ECR unique n=120, promoteur] (PMID 22031847) |\n| Ligandrol (LGD-4033), hommes sains 21-50 ans, 21 jours | Masse maigre en hausse dose-dépendante, masse grasse inchangée ; testostérone totale, SHBG, HDL, triglycérides en baisse ; revenus à la normale après l'arrêt ; ni PSA, ni transaminases, ni hémoglobine modifiés sur cette durée | [B, ECR unique n=76] (PMID 22459616) |\n| Cachexie du cancer, essais randomisés (revue systématique, 20 ECR) | Enobosarm : masse maigre et qualité de vie améliorées ; **aucun agent n'améliore la fonction** | [A, hétérogène] (PMID 30482179) |\n| Cancer du poumon sous chimiothérapie, phase III (POWER 1 et 2) | Masse maigre améliorée, **pas les critères fonctionnels co-primaires** (force de préhension, puissance en montée d'escalier) | [A, deux essais ; lecture d'une revue] (PMID 30138131) |\n| Sarcopénie du sujet âgé / préservation du muscle sous agonistes GLP-1 | Revues de phases II en cours de développement ; « prometteur mais essais plus grands nécessaires » | [B, revues narratives] (PMID 40739991, PMID 41178728) |\n| Gain de muscle chez le sujet sain, usage récréatif, sécurité à long terme | Aucun essai de long terme trouvé ; les doses récréatives sont bien supérieures à celles des essais cliniques | [?] ; (PMID 39755947) |\n\nLecture : la masse maigre mesurée par DEXA monte ; ce n'est pas la même chose que gagner en performance fonctionnelle (PMID 30138131). Le contraste est net avec la musculation, dont l'effet fonctionnel est établi.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Volontairement non chiffré (règle 7). Deux faits seulement : (1) les consommateurs de SARMs déclarent des doses « bien supérieures à celles étudiées en clinique », ce qui aggrave les risques hépatiques, lipidiques et cardiaques (PMID 39755947) [B, revue de niveau 4] ; (2) la quantité réelle dans les produits du marché gris diffère de l'étiquette (voir plus bas).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **Testostérone (médicament)** : sur ordonnance (liste I), indiquée dans l'hypogonadisme confirmé ; détail, remboursement et BDPM dans [testostérone](fiche:testosterone) (BDPM, consulté le 2026-10-08, repris de cette fiche). Utilisée pour gagner du muscle sans hypogonadisme : détournement, hors AMM.\n- **Autres stéroïdes anabolisants** : vendus sur Internet sans AMM ; les douanes françaises notent « l'absence d'autorisation de mise sur le marché » dans la plupart des saisies (testostérone et métandiénone : 50 à 70 % des contentieux) ; les stéroïdes anabolisants androgènes représentent les deux tiers des saisies de produits dopants (réponse ministérielle à la question écrite n° 6178, JO du 5 juin 2018, consultée le 2026-10-13).\n- **SARMs** : aucun médicament autorisé par l'EMA ni la FDA en 2020 (PMID 32748554) ; statut 2026 dans la BDPM et le registre EMA non revérifié [?]. Vendus comme « compléments » ou « produits de recherche » : ce n'est pas un statut légal.\n- **Sanctions pénales et qualification juridique en France** (détention, importation, vente) : non vérifiées ici [?] (Légifrance non consulté).\n- **AMA / WADA, liste 2026 (en vigueur au 1er janvier 2026)** : classe **S1 « Agents anabolisants », interdite à tout moment (en et hors compétition)**, toutes substances « non spécifiées ». S1.1 : stéroïdes anabolisants androgènes administrés de façon exogène ; S1.2 : autres agents anabolisants, dont les SARMs « andarine, enobosarm (ostarine), LGD-4033 (ligandrol), RAD140, S-23 et YK-11 » (liste non exhaustive). Source : texte de la liste 2026 lu dans une copie PDF hébergée par une fédération sportive (segas.gr), le site wada-ama.org ayant refusé l'accès automatisé le 2026-10-13 ; à recontrôler sur wada-ama.org ou medicaments.afld.fr avant toute compétition.\n- **ANSM** : aucune page ANSM spécifique aux SARMs ou aux anabolisants n'a été retrouvée par mes recherches [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "**SARMs**\n- **Foie** : plusieurs cas de lésion hépatique d'origine médicamenteuse sous produits contenant du RAD-140, de l'andarine, du ligandrol ou du « Stenabolic » : ictère cholestatique, y compris un cas très sévère nécessitant plasmaphérèse avec pancréatite et insuffisance rénale aiguë en réanimation (RAD-140 + andarine), un cas hépatocellulaire chez un adolescent, un cas cholestatique prolongé traité par corticoïdes [B, cas isolés] (PMID 42417499, PMID 41245032, PMID 40765588, PMID 40761329, PMID 39421081). Le ligandrol à dose élevée trois mois : ictère, perte de poids, enzymes élevées (PMID 39421081). La fréquence réelle n'est pas connue : les cas sont publiés, pas dénombrés [?].\n- **Revue systématique chez les sportifs** (72 articles, 2003-2022) : prévalence d'usage estimée à 1 à 3 % chez les athlètes ; 15 cas rapportés (tous des hommes, âge médian 32 ans) ; effets décrits : lésion hépatique, myocardite, rupture de tendon, suppression de la testostérone, augmentation de volume de la prostate, résistance à l'insuline altérée [B, niveau de preuve 4] (PMID 39755947).\n- **Lipides et hormones** : HDL, SHBG et testostérone en baisse sous ligandrol, réversible à l'arrêt après 21 jours (PMID 22459616).\n- **Fonction à long terme, cancer, fertilité, os, cœur à moyen terme** : aucune donnée solide pour l'usage récréatif [?].\n\n**Stéroïdes anabolisants androgènes**\n- **Chiffres de la méta-analyse** (athlètes et pratiquants) : tension systolique +12,43 mmHg (IC 95 % 9,59 à 15,26) ; diastolique +8,09 mmHg (5,62 à 10,57) ; LDL +9,12 mg/dL (6,75 à 11,49) ; AST +14,47 U/L (12,41 à 16,52) ; ALT +12,16 U/L (3,28 à 21,04) ; testostérone −141,57 ng/dL (−160,42 à −122,72) [A, types d'études non précisés dans le résumé] (PMID 39945139).\n- **Cœur** : hypertrophie ventriculaire gauche, dysfonction ventriculaire, rigidité artérielle, athérosclérose accélérée, infarctus et mort subite rapportés ; certaines anomalies persistent après l'arrêt [B, revue narrative] (PMID 40401476).\n- **Psychisme** : troubles de l'humeur, anxiété, idées suicidaires, surtout au sevrage ; dysmorphie musculaire et pression sociale comme facteurs de risque ; les symptômes du « syndrome de sevrage » (fatigue, humeur basse, dysfonction sexuelle) peuvent durer des mois ou des années même quand le bilan hormonal est revenu à la normale [B, revues narratives] (PMID 42517308, PMID 41869035). À l'inverse, dans l'essai de 10 semaines, humeur et comportement n'ont pas changé (PMID 8637535) : durée et sélection de l'essai limitent la généralisation.\n- **Fertilité** : suppression de l'axe, atrophie testiculaire, azoospermie ; récupération « souvent prolongée et parfois incomplète » [B, revue narrative] (PMID 40747477). Revue systématique de 13 études : l'infertilité est souvent réversible, mais la production de spermatozoïdes peut mettre plus d'un an à se normaliser [B, revue systématique de petites études] (PMID 37567343). Cohorte rétrospective de 45 hommes (usage médian 4 ans, 51 % d'azoospermes à l'arrivée) : après au moins 3 à 6 mois de traitement spécialisé, seul 1 des 18 azoospermes suivis est devenu normozoospermique, 5 sont restés azoospermes, et 9 couples sur 24 répondants ont obtenu une grossesse [B, rétrospectif n=45] (PMID 37769866). Cohorte rétrospective de 79 hommes ayant pris des anabolisants ≤ 6 mois : 89,9 % de dysfonction érectile et 69,7 % d'azoospermie ou oligozoospermie sévère à la consultation, retour spontané des hormones en 6 à 12 mois ; 58,6 % de normozoospermie à 12 mois sans traitement [B, rétrospectif, biais de recrutement : hommes venus consulter] (PMID 41147237).\n- **Femmes** : l'alopécie androgénique féminine peut être induite ou accélérée par les anabolisants androgènes ; données surtout chez les athlètes féminines [B, revue narrative] (PMID 40579733).\n- **Interactions, contre-indications formelles, grossesse** : non détaillées ici [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Les SARMs sont des stéroïdes sans effets secondaires »** : le ligandrol baisse la testostérone, la SHBG et le HDL dès 21 jours chez l'homme sain (PMID 22459616) ; atteintes hépatiques et cardiaques rapportées en usage récréatif (PMID 39755947) ; la « sélectivité » vient de la conception, pas d'un suivi long chez l'humain [?].\n- **« Plus de masse maigre = plus de performance »** : les essais POWER (phase III) ont augmenté la masse maigre sans améliorer la fonction (PMID 30138131).\n- **« Produit de laboratoire, pureté garantie »** : 36 % de contrefaçons et 37 % de qualité inférieure parmi 5 413 stéroïdes de marché noir (PMID 35842594) ; moins de 20 % des produits dopants saisis à la frontière suisse (1 190) contenaient la substance annoncée à la bonne quantité (PMID 28156209) ; analyse britannique de « SARMs » : un produit sans actif, d'autres avec substances interdites non déclarées, concentrations différentes de l'étiquette (PMID 32748554) ; la gendarmerie décrit des produits « le plus souvent falsifiés ou corrompus » (réponse ministérielle de 2018).\n- **« Un cycle court est sans conséquence »** : même après un usage de 6 mois au plus, une cohorte de consultants montrait azoospermie ou oligozoospermie sévère chez près de 70 % (biais de recrutement) (PMID 41147237).\n- **« La thérapie de relance après un cycle règle tout »** : preuves rétrospectives, hétérogènes, traitements hors AMM et récupération parfois incomplète (PMID 42517308, PMID 37769866, PMID 41147237).\n- **« Légal parce que vendu en ligne comme complément »** : aucune AMM ; classe S1 de l'AMA interdite à tout moment (liste 2026) ; l'étiquette « complément » ne change pas le statut.\n- **« Testostérone sur ordonnance = anabolisant sans risque »** : les essais cardiovasculaires et prostatiques de [testostérone](fiche:testosterone) concernent l'hypogonadisme traité, à dose de remplacement ; ils ne s'appliquent pas aux doses récréatives (PMID 37326322).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- **Un taux de testostérone bas avec symptômes** : diagnostic (symptômes + dosages répétés) et, si confirmé, traitement légitime sous surveillance ; voir [testostérone](fiche:testosterone) et [baisse de désir et testostérone](fiche:baisse-libido-homme-et-testosterone). Un taux bas sans symptômes, ou un taux normal avec envie de « booster », n'est pas une indication.\n- **Après une exposition (SARMs ou anabolisants)** : consulter sans craindre le jugement est recommandé par les revues cliniques, qui décrivent une prise en charge pluridisciplinaire, non culpabilisante, centrée sur l'arrêt complet puis le suivi (PMID 42517308, PMID 40401476). Les points à surveiller se déduisent des risques ci-dessus (foie, lipides, tension, cœur, axe hormonal, fertilité, humeur) ; la liste exacte d'examens n'est pas issue d'un protocole sourcé [?].\n- **Désir d'enfant** : spermogramme et avis d'un andrologue avant toute exposition, puisque la récupération peut être longue et incomplète (PMID 37567343, PMID 37769866).\n- **Dysmorphie musculaire ou pression de l'image corporelle** : un soutien psychologique est un levier, non un détail (PMID 41869035).\n- Les traitements « de relance » après arrêt restent hors AMM, sans essai randomisé robuste (PMID 42517308) : décision strictement médicale, pas de protocole ici.",
+   "titre": "Ce qu'un médecin peut évaluer"
+  },
+  {
+   "markdown": "- **[Entraînement en résistance](fiche:entrainement-en-resistance)** : seul levier avec effet démontré sur la force et l'hypertrophie, aussi chez le sujet âgé ; c'est le socle.\n- **[Protéines](fiche:proteines)** : en plus de l'entraînement, 49 essais (1 863 participants) : force +2,49 kg au 1RM, masse maigre +0,30 kg ; pas de gain supplémentaire au-delà d'environ 1,62 g/kg/j d'apport total [A, effet petit] (PMID 28698222).\n- **[Créatine](fiche:creatine)** : chez l'adulte âgé qui s'entraîne en résistance, +1,37 kg de masse maigre (IC 95 % 0,97-1,76) vs placebo sur 22 essais [A] (PMID 29138605) ; voir la fiche pour les adultes jeunes.\n- **Sommeil, apport énergétique, progression sur plusieurs mois** : [exercice physique](fiche:exercice-physique), [sommeil](fiche:sommeil), [alimentation](fiche:alimentation).\n- **Sarcopénie / perte de muscle avec l'âge ou sous agonistes GLP-1** : [sarcopénie](fiche:sarcopenie) ; les molécules en développement (SARMs, anti-myostatine) restent expérimentales (PMID 40739991, PMID 41178728) ; détail des anticorps anti-myostatine/activine : [inhibiteurs de la myostatine et de l'activine](fiche:inhibiteurs-de-la-myostatine-et-de-lactivine) ; testostérone circulante vs récepteurs androgéniques du muscle : [musculation et récepteurs androgéniques](fiche:musculation-et-recepteurs-androgeniques).",
+   "titre": "Alternatives autorisées avec de meilleures preuves"
+  },
+  {
+   "markdown": "Aucune fiche produit (règle 7 : jamais de produit injectable ou substance non autorisée).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "Fréquence réelle de la toxicité hépatique des SARMs, données de long terme chez le sujet sain, sanctions pénales françaises exactes, statut 2026 EMA/BDPM/ANSM, texte de la liste AMA lu sur le site officiel.",
+   "titre": "Ce qui manque"
+  },
+  {
+   "markdown": "1. Bhasin S et al. *N Engl J Med* 1996 — PMID 8637535 — [DOI](https://doi.org/10.1056/NEJM199607043350101)\n2. Dalton JT et al. *J Cachexia Sarcopenia Muscle* 2011 — PMID 22031847 — [DOI](https://doi.org/10.1007/s13539-011-0034-6)\n3. Basaria S et al. *J Gerontol A Biol Sci Med Sci* 2013 — PMID 22459616 — [DOI](https://doi.org/10.1093/gerona/gls078)\n4. Advani SM et al. *BMC Cancer* 2018 — PMID 30482179 — [DOI](https://doi.org/10.1186/s12885-018-5080-4)\n5. Ramage MI, Skipworth RJE. *Curr Opin Support Palliat Care* 2018 — PMID 30138131 — [DOI](https://doi.org/10.1097/SPC.0000000000000381)\n6. Wen J et al. *J Diabetes* 2025 — PMID 40739991 — [DOI](https://doi.org/10.1111/1753-0407.70119)\n7. Aimelet V, Holst JJ. *Diabetes Obes Metab* 2025 — PMID 41178728 — [DOI](https://doi.org/10.1111/dom.70229)\n8. Vasireddi N et al. *Am J Sports Med* 2025 — PMID 39755947 — [DOI](https://doi.org/10.1177/03635465241252435)\n9. Leaney AE et al. *Drug Test Anal* 2020 — PMID 32748554 — [DOI](https://doi.org/10.1002/dta.2908)\n10. Dao D et al. *Proc (Bayl Univ Med Cent)* 2026 — PMID 42417499 — [DOI](https://doi.org/10.1080/08998280.2026.2691619)\n11. Katibian DJ et al. *JPGN Rep* 2025 — PMID 41245032 — [DOI](https://doi.org/10.1002/jpr3.70041)\n12. Govil D et al. *Cureus* 2025 — PMID 40765588 — [DOI](https://doi.org/10.7759/cureus.87376)\n13. Niazi B et al. *ACG Case Rep J* 2025 — PMID 40761329 — [DOI](https://doi.org/10.14309/crj.0000000000001803)\n14. Labban H et al. *Cureus* 2024 — PMID 39421081 — [DOI](https://doi.org/10.7759/cureus.69601)\n15. Mingxing L, Yanfei Y. *Subst Use Misuse* 2025 — PMID 39945139 — [DOI](https://doi.org/10.1080/10826084.2025.2460986)\n16. Meagher S et al. *Curr Opin Cardiol* 2025 — PMID 40401476 — [DOI](https://doi.org/10.1097/HCO.0000000000001235)\n17. Hyams E et al. *Clin Endocrinol (Oxf)* 2026 — PMID 42517308 — [DOI](https://doi.org/10.1111/cen.70181)\n18. Kowalik K et al. *Front Endocrinol* 2026 — PMID 41869035 — [DOI](https://doi.org/10.3389/fendo.2026.1781416)\n19. Kumar N et al. *Arab J Urol* 2025 — PMID 40747477 — [DOI](https://doi.org/10.1080/20905998.2025.2509456)\n20. Al Hashimi M et al. *Asian J Androl* 2025 — PMID 39820213 — [DOI](https://doi.org/10.4103/aja2024104)\n21. Rajmil O, Moreno-Sepulveda J. *Actas Urol Esp* 2023 — PMID 37567343 — [DOI](https://doi.org/10.1016/j.acuroe.2023.07.007)\n22. Ledesma BR et al. *Fertil Steril* 2023 — PMID 37769866 — [DOI](https://doi.org/10.1016/j.fertnstert.2023.09.016)\n23. İbis MA et al. *BJU Int* 2026 — PMID 41147237 — [DOI](https://doi.org/10.1111/bju.70059)\n24. Brinks AL et al. *Int J Dermatol* 2025 — PMID 40579733 — [DOI](https://doi.org/10.1111/ijd.17941)\n25. Magnolini R et al. *BMC Public Health* 2022 — PMID 35842594 — [DOI](https://doi.org/10.1186/s12889-022-13734-4)\n26. Weber C et al. *Subst Use Misuse* 2017 — PMID 28156209 — [DOI](https://doi.org/10.1080/10826084.2016.1263665)\n27. Morton RW et al. *Br J Sports Med* 2018 — PMID 28698222 — [DOI](https://doi.org/10.1136/bjsports-2017-097608)\n28. Chilibeck PD et al. *Open Access J Sports Med* 2017 — PMID 29138605 — [DOI](https://doi.org/10.2147/OAJSM.S123529)\n29. Lincoff AM et al. *N Engl J Med* 2023 — PMID 37326322 — voir [testostérone](fiche:testosterone) (référence déjà relue dans cette fiche).\n30. Assemblée nationale, 15e législature, question écrite n° 6178 « Trafic de stéroïdes anabolisants androgéniques » et réponse du ministère de l'Action et des comptes publics, JO du 5 juin 2018, p. 4776 — https://questions.assemblee-nationale.fr/dyn/15/questions/QANR5L15QE6178.pdf (consulté le 2026-10-13).\n31. AMA/WADA, Liste des interdictions 2026, classe S1 — copie PDF du texte officiel (2026list_en_final_clean_september_2025.pdf) hébergée par segas.gr, consultée le 2026-10-13 ; wada-ama.org inaccessible aux outils automatisés.\n32. BDPM, statuts de la testostérone — repris de [testostérone](fiche:testosterone) (consulté le 2026-10-08).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "SARMs (ostarine, ligandrol…) et stéroïdes anabolisants androgènes (prise de muscle)",
+ "type": "actif",
+ "unite": ""
+}

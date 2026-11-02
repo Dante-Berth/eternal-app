@@ -1,0 +1,66 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "complement",
+ "id": "solgar-biotine-1000-ug-gelule",
+ "intro": "",
+ "liens": [
+  "biotine",
+  "minoxidil-cooper-5-solution",
+  "vitavea-biotine-10000-ug-gelule"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28879195",
+  "36889777",
+  "40417451"
+ ],
+ "preuve_globale": "?",
+ "resume": "Biotine à dose dix fois plus faible que Vitavea 10 000 µg, donc moins d'artefacts de laboratoire probables, mais aucune preuve d'effet capillaire chez le sujet sain : utile surtout si une carence est démontrée.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Biotine à dose dix fois plus faible que Vitavea 10 000 µg, donc moins d'artefacts de laboratoire probables, mais aucune preuve d'effet capillaire chez le sujet sain : utile surtout si une carence est démontrée.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Composant | Quantité | Preuve |\n|---|---|---|\n| Biotine (vitamine B8) | 1000 µg par gélule végétale | Chute de cheveux chez le sujet sain : aucun essai contrôlé trouvé [?]. Cas de carence ou de pathologie : 18 cas améliorés [B, cas rapportés] (PMID 28879195) |\n| Phosphate dicalcique, cellulose microcristalline, hydroxypropylméthylcellulose, acides gras, sels de magnésium d'acides gras | — | Excipients, liste complète d'après la page Redcare ; pas d'étude |\n\nVoir [biotine](fiche:biotine).",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "- Complément alimentaire : pas d'AMM, pas de preuve d'efficacité exigée avant la vente. Dose maximale autorisée en France : non consultée [?].\n- La page Redcare (consultée le 2026-10-13) recommande aux femmes enceintes ou allaitantes de prendre l'avis d'un professionnel de santé. **Aucune mention de l'interférence avec les analyses** sur cette page ; étiquette non lue [?]. L'avertissement de l'ANSM sur l'interférence de la biotine s'applique « quelle que soit la dose » prise par le patient, d'après la synthèse de recherche web ; texte intégral de l'avis non relu pour cette phrase [?] (ANSM, page « Interférence de la biotine sur les immunodosages », consultée le 2026-10-13).",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- La marque : « La Vitamine B8 (Biotine) contribue à la beauté de la peau, des cheveux et des ongles » et « contribue au maintien de la peau et des cheveux » (Redcare Pharmacie, consulté le 2026-10-13). Statut d'autorisation UE de ces allégations : non vérifié ici [?].\n- Études : bénéfice uniquement chez des patients à carence ou pathologie, absence de preuve suffisante chez le sujet sain [B, cas cliniques] (PMID 28879195). L'interférence biotine/immunodosages est démontrée à 10 mg [B] (PMID 36889777) ; seuil à 1 mg non lu [?]. Les seuils varient selon le réactif [B] (PMID 40417451).",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Selon la page : adulte, 1 gélule végétale par jour, de préférence au repas. Informer le médecin et le laboratoire de toute prise de biotine avant une prise de sang (ANSM). Durée d'arrêt avant analyse : non vérifiée [?].",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- 9,89 € le flacon de 50 gélules (prix conseillé 11,40 €, soit 0,20 € la gélule ; lot de 2 à 19,29 €), Redcare Pharmacie, relevé le 2026-10-13. À une gélule par jour : **environ 6 à 7 € par mois de 30 jours** (5,93 € au prix affiché, 6,84 € au prix conseillé).\n- Même coût mensuel que [Vitavea 10 000 µg](fiche:vitavea-biotine-10000-ug-gelule) pour un dixième de la dose : la dose plus forte ne se justifie par aucune donnée [?]. Alternative à preuve supérieure pour la chute : [minoxidil topique](fiche:minoxidil-cooper-5-solution) [A] ; en cas de doute sur une carence, bilan médical d'abord.",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Aucune source d'avis exploitable relevée [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 28879195 — Patel D.P. et al., *Skin Appendage Disord* 2017. doi:10.1159/000462981\n- PMID 36889777 — McBride M., *Ann Clin Lab Sci* 2023.\n- PMID 40417451 — Chiu K.C. et al., *Pract Lab Med* 2025. doi:10.1016/j.plabm.2025.e00472\n- Redcare Pharmacie, « Solgar Vitamine B8 - Biotine - 50 gélules végétales » (composition, posologie, allégations, avertissements, prix), consultée le 2026-10-13.\n- ANSM, « Interférence de la biotine sur les immunodosages », consultée le 2026-10-13.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Solgar Biotine 1000 µg, gélules végétales (complément alimentaire)",
+ "type": "produit",
+ "unite": ""
+}

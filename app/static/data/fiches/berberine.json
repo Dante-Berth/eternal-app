@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "complement",
+ "id": "berberine",
+ "intro": "",
+ "liens": [
+  "apob-lipides-et-statines",
+  "glycemie-et-prediabete",
+  "omega-3",
+  "semaglutide-et-glp1",
+  "taurine"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 12,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "36467075",
+  "30393248",
+  "40740996",
+  "42653808",
+  "32353823",
+  "34956436",
+  "37183391",
+  "35988871",
+  "38429794",
+  "36999891",
+  "42805510",
+  "42859914"
+ ],
+ "preuve_globale": "A",
+ "resume": "Alcaloïde végétal (Berberis, Coptis, hydraste), vendu comme « Ozempic naturel ». Effets mesurables sur glycémie et lipides chez le diabétique de type 2, mais essais surtout chinois, courts, de qualité méthodologique médiocre, et aucun critère clinique (infarctus, mortalité) trouvé [?].",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Alcaloïde végétal (Berberis, Coptis, hydraste), vendu comme « Ozempic naturel ». Effets mesurables sur glycémie et lipides chez le diabétique de type 2, mais **essais surtout chinois, courts, de qualité méthodologique médiocre**, et aucun critère clinique (infarctus, mortalité) trouvé [?].\n- Diabète de type 2 : HbA1c −0,63 % (IC 95 % −0,72 à −0,53) et glycémie à jeun −0,82 mmol/L sur 37 ECR, 3 048 patients, avec ou sans antidiabétiques [A, qualité des essais limitée] (PMID 36467075). Une autre méta-analyse trouve −0,54 mmol/L de glycémie à jeun et note que l'effet s'estompe au-delà de 90 jours de traitement (PMID 30393248).\n- Lipides : LDL-C −0,495 mmol/L et triglycérides −0,367 mmol/L contre placebo chez des sujets avec syndrome métabolique ; tour de taille −3,27 cm ; pas d'effet sur la pression artérielle (PMID 40740996) [A].\n- La **vraie limite est l'interaction médicamenteuse** : inhibition de CYP3A4, CYP2D6, CYP2C9 et de transporteurs ; ciclosporine +34,5 % d'exposition (AUC) chez des transplantés rénaux (PMID 42653808).\n- Poids : revue systématique de données majoritairement précliniques ; pas de chiffre humain fiable cité ici [?] (PMID 32353823).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Activation de l'AMPK, inhibition de la néoglucogenèse hépatique ; chez l'animal, modification du microbiote et de l'expression de gènes d'adipogenèse (PMID 32353823) [C].\n- Une méta-analyse propose une sécrétion d'insuline dépendante du glucose, sans hypoglycémie (PMID 36467075) : mécanisme proposé par les auteurs, non démontré par cet essai.\n- Biodisponibilité orale très faible (0,68 % chez le rat ; concentrations plasmatiques de l'ordre du ng/mL chez l'humain) (PMID 42653808) : l'action serait en grande partie intestinale et hépatique.",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Diabète de type 2, glycémie | 37 ECR, 3 048 patients : HbA1c −0,63 %, glycémie à jeun −0,82 mmol/L, glycémie à 2 h −1,16 mmol/L ; effet lié aux valeurs de départ | [A, qualité limitée] (PMID 36467075) |\n| Diabète de type 2, autre méta-analyse | 46 essais : HbA1c −0,73, glycémie à jeun −0,86 ; amélioration de HOMA-IR et des lipides ; auteurs chinois, bases chinoises incluses | [A, qualité limitée] (PMID 34956436) |\n| Diabète de type 2, durée et dose | 28 études, 2 313 patients : glycémie à jeun −0,54 mmol/L ; effet « non marquant » au-delà de 90 jours et au-delà de 2 g/j | [A] (PMID 30393248) |\n| Lipides (LDL-C) | 41 ECR : LDL-C −14,98 mg/dL, hétérogénéité forte (I² > 72 %) ; voir [lipides et statines](fiche:apob-lipides-et-statines) | [A, hétérogène] (PMID 37183391) |\n| Lipides, comparaison entre compléments | Méta-analyse en réseau (131 essais) : tous les nutraceutiques testés sauf les policosanols baissent le LDL-C ; bergamote et levure de riz rouge en tête, pas la berbérine | [A] (PMID 35988871) |\n| Syndrome métabolique | Contre placebo : TG −0,367 mmol/L, glycémie à jeun −0,515 mmol/L, tour de taille −3,27 cm ; HDL-C, PAS, PAD inchangés | [A] (PMID 40740996) |\n| Stéatose hépatique (NAFLD) | 10 ECR, 811 patients : ALAT SMD −0,72, ASAT −0,79, HOMA-IR −1,56, IMC −0,58 ; essais courts, auteurs de médecine chinoise | [A, qualité limitée] (PMID 38429794) |\n| Vue d'ensemble | Revue parapluie de 11 méta-analyses : bénéfices sur glycémie, lipides, inflammation ; les auteurs appellent à des ECR de meilleure qualité | [A, qualité méthodologique à améliorer] (PMID 36999891) |\n| Événements cardiovasculaires, mortalité, longévité humaine | Aucun essai trouvé | [?] |\n| Prédiabète, sujets sains | Essais surtout chez le diabétique ; voir [glycémie et prédiabète](fiche:glycemie-et-prediabete) | [?] |\n| Vieillissement | Revues sur la voie AMPK/mitophagie, mécanistiques (PMID 42805510) | [C, D] |\n\nComparaison avec la metformine ou une statine : non recherchée ici [?]. Les médicaments ont des essais d'événements ; la berbérine n'en a pas.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Les méta-analyses regroupent des doses variées ; un effet atténué au-delà de 2 g/j est rapporté (PMID 30393248). Doses exactes par essai : non extraites ici [?].\n- Les compléments vendus varient en teneur (chlorhydrate de berbérine, extrait de Berberis, associations) ; la variabilité de qualité modifie l'exposition (PMID 42653808). Teneurs réelles de produits français : non relevées [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Gélules de chlorhydrate de berbérine ou d'extrait de plante, souvent associées (levure de riz rouge, chrome, etc.). Statut réglementaire en France (plantes autorisées en complément, arrêté, avis ANSES) : non consulté [?].\n- AMA : non recherché [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Effets indésirables fréquents : troubles digestifs, surtout constipation et diarrhée (PMID 36999891) [A]. Pas d'excès d'effets indésirables ni d'hypoglycémie significatifs dans les méta-analyses chez le diabétique (PMID 36467075, PMID 40740996), avec des essais courts.\n- **Interactions** (revue narrative 2026) : inhibition de CYP3A4, CYP2D6 et CYP2C9 ; modulation de la P-gp et des transporteurs OCT/MATE ; additivité pharmacodynamique (hypoglycémie, hypotension, allongement du QT). Preuve humaine documentée pour peu de couples, mécanistique pour la plupart ; ciclosporine : AUC +34,5 %, creux +29,3 % (PMID 42653808) [B].\n- Conséquence pratique : ne pas l'associer sans avis médical à un immunosuppresseur, un anticoagulant, une statine ou un antidiabétique (hypoglycémie). Les couples précis (statines, warfarine) : non vérifiés dans cette fiche [?].\n- Une revue de 2026 traite des effets de la berbérine via SIRT3 « des thérapies moléculaires à la toxicité » (PMID 42859914, titre seul vérifié) : toxicité aux doses de complément [?].\n- Grossesse, allaitement, nouveau-né : aucune source fiable relue ici ; par prudence, à éviter sans avis médical [?]. Insuffisance hépatique ou rénale : non recherché [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Ozempic naturel » : aucun essai ne la compare aux agonistes du GLP-1 ; perte de poids humaine non établie ici [?] ; les [GLP-1](fiche:semaglutide-et-glp1) ont des essais d'événements, la berbérine non.\n- « Statine naturelle » : LDL-C −15 mg/dL en moyenne, très hétérogène, sans résultat clinique (PMID 37183391) ; bergamote et levure de riz rouge font mieux dans la méta-analyse en réseau (PMID 35988871).\n- « Anti-âge / longévité » : mécanismes in vitro et animaux seulement [C, D] ; aucune donnée humaine de survie [?].\n- « Sans effets secondaires » : faux pour les interactions médicamenteuses (PMID 42653808).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour.\n\nVoir aussi : [lipides, ApoB et statines](fiche:apob-lipides-et-statines), [glycémie et prédiabète](fiche:glycemie-et-prediabete), [taurine](fiche:taurine), [oméga-3](fiche:omega-3).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Xie W et al. *Front Pharmacol* 2022 — PMID 36467075 — [DOI](https://doi.org/10.3389/fphar.2022.1015045)\n2. Guo J et al. *Oxid Med Cell Longev* 2021 — PMID 34956436 — [DOI](https://doi.org/10.1155/2021/2074610)\n3. Liang Y et al. *Endocr J* 2018 — PMID 30393248 — [DOI](https://doi.org/10.1507/endocrj.EJ18-0109)\n4. Liu D et al. *Front Pharmacol* 2025 — PMID 40740996 — [DOI](https://doi.org/10.3389/fphar.2025.1572197)\n5. Nie Q et al. *J Transl Med* 2024 — PMID 38429794 — [DOI](https://doi.org/10.1186/s12967-024-05011-2)\n6. Osadnik T et al. *Pharmacol Res* 2022 — PMID 35988871 — [DOI](https://doi.org/10.1016/j.phrs.2022.106402)\n7. Li Z et al. *Phytother Res* 2023 — PMID 36999891 — [DOI](https://doi.org/10.1002/ptr.7806)\n8. Ilyas Z et al. *Biomed Pharmacother* 2020 — PMID 32353823 — [DOI](https://doi.org/10.1016/j.biopha.2020.110137) (auteurs affiliés à Indena, fabricant d'extraits)\n9. Dumitru CN et al. *Pharmaceuticals (Basel)* 2026 — PMID 42653808 — [DOI](https://doi.org/10.3390/ph19081313) (revue narrative)\n10. Hernandez AV et al. *J Diet Suppl* 2023 — PMID 37183391 (résumé relu lors de la fiche lipides)\n11. PMID 42859914 (*SIRT3-dependent actions of berberine…*, 2026) et PMID 42805510 (revue vieillissement, 2026) : titres vérifiés, résumés non relus.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Berbérine",
+ "type": "actif",
+ "unite": ""
+}

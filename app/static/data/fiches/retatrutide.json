@@ -1,0 +1,87 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-07",
+ "famille": "peptide",
+ "id": "retatrutide",
+ "intro": "",
+ "liens": [
+  "epitalon",
+  "exercice-physique",
+  "sarcopenie",
+  "semaglutide-et-glp1"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 10,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42814954",
+  "42810372",
+  "37366315",
+  "38858523",
+  "40609566",
+  "42168638",
+  "25168622",
+  "30029448",
+  "31758732",
+  "37952131"
+ ],
+ "preuve_globale": "A",
+ "resume": "Médicament expérimental d'Eli Lilly qui agit sur trois récepteurs (GIP, GLP-1 et glucagon). En essais de phase 3, il fait perdre beaucoup de poids : −25,0 % à 80 semaines à 12 mg contre −3,9 % sous placebo [A, deux ECR de phase 3 du fabricant] (PMID 42814954, 42810372).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Médicament **expérimental** d'Eli Lilly qui agit sur trois récepteurs (GIP, GLP-1 et glucagon). En essais de phase 3, il fait perdre beaucoup de poids : −25,0 % à 80 semaines à 12 mg contre −3,9 % sous placebo [A, deux ECR de phase 3 du fabricant] (PMID 42814954, 42810372).\n- **Non autorisé en France** : l'ANSM le cite nommément parmi les « peptides » vendus en ligne et a reçu des signalements d'**hospitalisations** après usage (ANSM, 2026).\n- Le produit vendu en ligne n'est pas celui des essais : contenu, dose, stérilité et endotoxines sont inconnus. Aucune étude publiée n'a analysé ces flacons [?].\n- Effets indésirables dans les essais : digestifs (diarrhée chez un tiers des patients aux fortes doses), hypotension, dysesthésies (sensations anormales ou de brûlure de la peau), hausse de la fréquence cardiaque ; arrêts pour effets indésirables jusqu'à 12 % [B] (PMID 42810372, 37366315).\n- Alternatives autorisées, avec suivi médical : sémaglutide et tirzépatide, remboursés sous conditions depuis juin 2026 (voir [sémaglutide et GLP-1](fiche:semaglutide-et-glp1)).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Agoniste des récepteurs du GIP, du GLP-1 et du glucagon : les deux premiers réduisent l'appétit et améliorent la glycémie ; l'action sur le glucagon est censée augmenter la dépense énergétique et la combustion des graisses du foie. Mécanisme décrit par les essais, part de chaque récepteur dans l'effet humain non établie [?].\n- Graisse du foie : essai de phase 2a dans la stéatose hépatique métabolique (PMID 38858523) ; chiffres non extraits ici [?].",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Obésité sans diabète, phase 2 (48 semaines, n = 338) | −8,7 % (1 mg) à −24,2 % (12 mg) vs −2,1 % ; hausse de la fréquence cardiaque dose-dépendante, maximale à 24 semaines (PMID 37366315) | [B, ECR de phase 2] |\n| Obésité sans diabète, phase 3 TRIUMPH-1 (80 semaines, n = 2 339) | −17,6 % (4 mg), −23,7 % (9 mg), −25,0 % (12 mg) vs −3,9 % ; arthrose du genou : douleur WOMAC −1,6 à −1,8 point de plus que le placebo ; apnée du sommeil : −22 à −24 événements/heure de plus que le placebo (PMID 42814954) | [B, ECR pivot du fabricant] |\n| Obésité + diabète de type 2, phase 3 TRIUMPH-2 (80 semaines, n = 1 152) | −11,9 %, −16,8 %, −18,8 % vs −5,1 % (PMID 42810372) | [B, ECR pivot du fabricant] |\n| Composition corporelle, diabète de type 2 (sous-étude de phase 2, 36 semaines) | masse grasse −26,1 % à 8 mg ; seuls 103 participants avec deux DXA (PMID 40609566) ; part de masse maigre perdue non extraite [?] | [B, petit effectif] |\n| Mortalité, événements cardiovasculaires, longévité | aucune donnée publiée | [?] |\n\nSynthèse du niveau : plusieurs ECR concordants sur le poids, donc [A] pour la perte de poids **du médicament testé en essai**. Cela ne dit rien du produit vendu en ligne.",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet (règle 7 : pas de posologie, de reconstitution ni d'injection). Les doses d'essai sont introduites par paliers sur plusieurs semaines, sous surveillance ; les essais montrent que les effets digestifs dépendent de la dose et de la dose de départ (PMID 37366315). Le contenu réel d'un flacon acheté en ligne est inconnu.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **France, ANSM** : « Parmi les produits proposés sans autorisation des autorités sanitaires, on trouve par exemple le rétatrutide » ; l'ANSM « a reçu récemment plusieurs signalements après l'utilisation de peptides frauduleux, notamment le rétatrutide. Certaines personnes ont présenté de graves problèmes de santé et ont dû être hospitalisées ». Effets listés : troubles digestifs, déshydratation, malaise, atteinte du foie visible au bilan sanguin, sensations anormales au toucher, infection au point d'injection, allergie grave (ANSM, « “Peptides” vendus en ligne : ne les utilisez pas, ils peuvent être dangereux », 2026-07-02, mise à jour 2026-08-31, consultée le 2026-10-07).\n- **France, vente en ligne de médicaments sur prescription** : illégale (ANSM, « Lutte contre la vente et la publicité illégale de médicaments aGLP-1 », 2025-09-11, mise à jour 2025-11-18, consultée le 2026-10-07).\n- **UE** : aucune autorisation de mise sur le marché connue ; base EMA non consultée pour cette fiche [?].\n- **AMA** : non vérifié sur la liste 2026 [?]. Une substance sans autorisation pour usage humain relève en principe de la section S0 (substances non approuvées) : à confirmer sur la liste de l'année avant toute compétition.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "Dans les essais (produit pharmaceutique contrôlé, surveillance médicale) :\n- **Digestif** : TRIUMPH-2, diarrhée 27-34 % vs 13 %, nausées 14-28 % vs 8 % (PMID 42810372) [B].\n- **Hypotension** : 1 à 6 % vs < 1 % ; **dysesthésies** : 4 à 7 % vs 1 % (PMID 42810372) [B]. En pharmacovigilance, les dysesthésies et sensations de brûlure cutanée sont aussi associées au sémaglutide et au tirzépatide, plus fréquentes aux fortes doses, et régressent souvent à l'arrêt [B, analyse de pharmacovigilance] (PMID 42168638).\n- **Fréquence cardiaque** : hausse dose-dépendante, maximale à 24 semaines puis en baisse (PMID 37366315) [B].\n- **Arrêts définitifs** pour effet indésirable ou décès : 12 % (9 mg), 8 % (12 mg), 4 % (4 mg) vs 5 % (placebo) ; décès jugés non liés au traitement par les investigateurs (PMID 42810372) [B].\n- Effets à long terme (au-delà de 80 semaines), grossesse, interactions : aucune donnée publiée [?].\n\nHors essais (marché gris) : à ces risques s'ajoutent ceux du produit lui-même (dose inconnue, injection non stérile), sans aucun suivi.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- Aucune étude publiée dans PubMed n'a analysé des flacons de rétatrutide vendus en ligne (recherche du 2026-10-07) [?]. Les certificats d'analyse affichés par les vendeurs ne sont pas une source indépendante.\n- Données sur d'autres peptides du même marché : 337 produits du marché noir analysés par le laboratoire antidopage de Cologne (PMID 25168622) ; pureté de 5 à 75 % pour certains peptides de pharmacies en ligne illégales, métaux lourds au-delà des limites pour l'injection (PMID 30029448) ; « follistatine » réellement présente dans 9 produits sur 17 (PMID 31758732) [B, analyses de produits saisis ou achetés].\n- GLP-1 vendus en ligne : l'EMA a signalé des stylos Ozempic falsifiés dans la chaîne de distribution européenne (voir [sémaglutide et GLP-1](fiche:semaglutide-et-glp1)).",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- **« C'est le même produit que dans les essais de Lilly »** : aucun produit vendu en ligne n'est fabriqué ni contrôlé par le laboratoire pharmaceutique ; contenu inconnu [?].\n- **« Pour la recherche uniquement »** : cette mention sert à contourner la réglementation du médicament ; l'ANSM le classe parmi les produits non autorisés dont elle a reçu des signalements graves (ANSM, 2026).\n- **« Plus fort que le sémaglutide, donc meilleur »** : plus de perte de poids dans les essais, mais aussi plus d'arrêts pour effets indésirables aux fortes doses (PMID 42810372) [B] ; aucune donnée sur la mortalité ou les événements cardiovasculaires [?], contrairement au sémaglutide (PMID 37952131, voir la fiche GLP-1).\n- **« Brûle la graisse sans toucher au muscle »** : part de masse maigre perdue non publiée dans les résumés lus [?] ; avec les autres incrétines, elle représente 25 à 39 % du poids perdu (voir [sémaglutide et GLP-1](fiche:semaglutide-et-glp1)).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Si l'objectif est la **perte de poids en cas d'obésité** : évaluation par un médecin, sémaglutide ou tirzépatide (remboursés depuis le 15 juin 2026 pour IMC ≥ 40, ou ≥ 35 avec comorbidité, après échec de la prise en charge nutritionnelle), chirurgie bariatrique selon les cas.\n- Si l'objectif est **esthétique** ou la « longévité » sans obésité : aucun de ces médicaments n'est indiqué ; l'ANSM le rappelle pour les GLP-1. Voir [exercice physique](fiche:exercice-physique) et [sarcopénie](fiche:sarcopenie) pour préserver le muscle.\n- Après usage d'un produit du marché gris : signaler les effets indésirables (signalement-sante.gouv.fr) et consulter en cas de vomissements persistants, malaise, douleur abdominale intense, jaunisse ou fièvre au point d'injection.\n- Pas de protocole de dosage, de reconstitution ou d'injection, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 37366315 — Jastreboff AM et al., phase 2, *N Engl J Med* 2023. doi:10.1056/NEJMoa2301972 (résumé relu).\n- PMID 42814954 — Jastreboff AM et al., TRIUMPH-1, *N Engl J Med* 2026. doi:10.1056/NEJMoa2604169 (résumé relu).\n- PMID 42810372 — Bellido V et al., TRIUMPH-2, *Lancet* 2026. doi:10.1016/S0140-6736(26)01861-1 (résumé relu).\n- PMID 40609566 — Coskun T et al., composition corporelle, *Lancet Diabetes Endocrinol* 2025. doi:10.1016/S2213-8587(25)00092-0 (résumé relu).\n- PMID 38858523 — Sanyal AJ et al., stéatose hépatique, *Nat Med* 2024 (titre relu, chiffres non extraits).\n- PMID 42168638 — Laroche ML et al., dysesthésies et GLP-1, *Eur J Clin Pharmacol* 2026. doi:10.1007/s00228-026-04079-7 (résumé relu).\n- PMID 25168622 — Krug O et al., *Eur J Clin Pharmacol* 2014. doi:10.1007/s00228-014-1743-5 (repris de la fiche [épitalon](fiche:epitalon)).\n- PMID 30029448 — Janvier S et al., *Talanta* 2018. doi:10.1016/j.talanta.2018.06.023 (repris de la fiche épitalon).\n- PMID 31758732 — Reichel C et al., *Drug Test Anal* 2019. doi:10.1002/dta.2741 (repris de la fiche épitalon).\n- PMID 37952131 — Lincoff AM et al., SELECT, *N Engl J Med* 2023 (voir la fiche GLP-1).\n- ANSM, « “Peptides” vendus en ligne : ne les utilisez pas, ils peuvent être dangereux », 2026-07-02, mis à jour 2026-08-31 — https://ansm.sante.fr/actualites/peptides-vendus-en-ligne-ne-les-utilisez-pas-ils-peuvent-etre-dangereux (consulté le 2026-10-07).\n- ANSM, « Lutte contre la vente et la publicité illégale de médicaments aGLP-1 : les actions de l'ANSM », 2025-09-11, mis à jour 2025-11-18 — https://ansm.sante.fr/actualites/lutte-contre-la-vente-et-la-publicite-illegale-de-medicaments-aglp-1-les-actions-de-lansm (consulté le 2026-10-07).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "Rétatrutide (marché gris)",
+ "type": "actif",
+ "unite": ""
+}

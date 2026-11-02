@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "peptide",
+ "id": "cerebrolysine-et-cortexine",
+ "intro": "",
+ "liens": [
+  "declin-cognitif-et-neurodegenerescence",
+  "dsip",
+  "pinealon-et-peptides-de-khavinson",
+  "selank-et-semax",
+  "tension-arterielle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "37818733",
+  "26356623",
+  "34959697",
+  "31710397",
+  "25832905",
+  "33620612",
+  "30643411",
+  "34260655"
+ ],
+ "preuve_globale": "A",
+ "resume": "Ce ne sont pas des peptides synthétiques purs mais des mélanges : la cérébrolysine est un mélange de peptides de faible poids moléculaire et d'acides aminés issu de cerveau de porc (PMID 37818733) ; la cortexine est un extrait lyophilisé de cortex cérébral animal contenant neuropeptides, acides a…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Ce ne sont pas des peptides synthétiques purs mais des **mélanges** : la cérébrolysine est un mélange de peptides de faible poids moléculaire et d'acides aminés issu de cerveau de porc (PMID 37818733) ; la cortexine est un extrait lyophilisé de cortex cérébral animal contenant neuropeptides, acides aminés et oligo-éléments (PMID 26356623). Composition exacte, lot à lot : non documentée dans les sources lues [?].\n- **Statuts réels** : la cérébrolysine est utilisée comme médicament de l'AVC ischémique aigu en Russie, en Europe de l'Est, en Chine et dans d'autres pays d'Asie et de l'ex-URSS (PMID 37818733). Elle **n'existe pas dans la base publique des médicaments française** (aucune occurrence dans CIS_bdpm et CIS_COMPO_bdpm, BDPM téléchargés le 2026-10-14), pas plus que la cortexine. Son statut dans les autres pays de l'UE : non consulté [?].\n- **AVC ischémique aigu** (Cochrane 2023, 7 ECR, 1 773 participants, dont un ECR de cortexine de 272 participants) : pas d'effet sur la mortalité toute cause (RR 0,96 ; IC 95 % 0,65 à 1,41 ; 6 essais, 1 689 participants, certitude modérée) et **probable augmentation des événements indésirables graves non fatals** (RR 2,39 ; IC 95 % 1,10 à 5,23 ; 3 essais, 1 335 participants, certitude modérée) [A, négatif] (PMID 37818733). Une méta-analyse de sécurité de 12 ECR (2 202 patients) ne trouve en revanche aucune différence significative d'événements graves [A, contradictoire sur la sécurité] (PMID 34959697).\n- **Démence vasculaire** (Cochrane 2019, 6 ECR, 597 participants) : amélioration de la cognition (SMD 0,36 ; IC 95 % 0,13 à 0,58) mais preuve de **très faible qualité**, risque de biais élevé, et effet « peut-être trop faible pour être cliniquement significatif » [A, très faible certitude] (PMID 31710397).\n- **Alzheimer léger à modéré** : méta-analyse de 6 ECR (dose quotidienne unique testée) avec un avantage cognitif à 4 semaines (SMD −0,40 ; IC 95 % −0,66 à −0,13) qui n'est plus significatif à 6 mois sur la cognition seule [A, ECR hétérogènes] (PMID 25832905).\n- **Traumatisme crânien modéré à sévère** : méta-analyse prospective de 2 ECR (185 patients), effet « petit à moyen » sur un critère composite à 30 et 90 jours (SMD 0,31 et 0,34) [A, 2 ECR, n=185] (PMID 33620612) ; méta-analyse plus large surtout fondée sur des cohortes, très hétérogène (I² ≈ 88 %) [B] (PMID 30643411).\n- **Cortexine** : un seul ECR dans l'AVC aigu (inclus dans la Cochrane), études animales surtout russes (PMID 34260655) ; effet chez le sujet sain ou « nootropique » : aucune donnée [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Cérébrolysine : « propriétés neuroprotectrices et neurotrophiques potentielles » (PMID 37818733) ; mécanisme précis non établi. Le mélange contient des centaines de composants non identifiés individuellement [?].\n- Cortexine : décrit comme extrait aux composants multiples ciblant des processus moléculaires et cellulaires ; chez le rat, la cortexine radiomarquée traverse la barrière hémato-encéphalique à 6 à 8 % des concentrations sanguines et se lie in vitro à des récepteurs AMPA/kaïnate [C] (PMID 34260655).",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| AVC ischémique aigu | Pas de bénéfice sur la mortalité ; plus d'événements indésirables graves non fatals ; aucun essai ne rapporte le handicap fonctionnel (dépendance ou décès) ni la qualité de vie ; trois essais soutenus par le fabricant, risque de biais élevé ou incertain | [A, négatif, certitude modérée] (PMID 37818733) |\n| AVC ischémique aigu, sécurité | 12 ECR, 2 202 patients : pas de différence significative d'événements graves | [A] (PMID 34959697) |\n| Démence vasculaire | Cognition et impression clinique globale meilleures (RR de réponse 2,69 ; IC 95 % 1,82 à 3,98) sur 2 essais, 379 participants ; preuve de très faible qualité | [A, très faible certitude] (PMID 31710397) |\n| Alzheimer léger à modéré | Voir TL;DR ; aucun essai ne remplace les traitements autorisés | [A, hétérogène] (PMID 25832905) |\n| Traumatisme crânien | Voir TL;DR | [A, 2 ECR n=185] (PMID 33620612) ; [B, surtout cohortes] (PMID 30643411) |\n| Cortexine, ischémie cérébrale (rat) | Récupération neurologique améliorée, nécrose réduite ; comparaison avec cérébrolysine et Actovegin | [C] (PMID 34260655) |\n| Sujet sain, mémoire, « booster cognitif » | Aucun essai trouvé | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet (règle 7 : pas de posologie). Les essais utilisent des cures intraveineuses d'un produit pharmaceutique à usage hospitalier ; la voie, les volumes et la durée varient d'un essai à l'autre (PMID 31710397) et ne sont pas détaillés ici.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **France** : ni cérébrolysine ni cortexine dans la base publique des médicaments (BDPM, téléchargés le 2026-10-14). Le produit n'a donc ni AMM ni circuit d'accès connu en France ; l'ANSM ne les cite pas nommément dans sa mise en garde sur les « peptides » vendus en ligne (ANSM, 2026-07-02 mise à jour 2026-08-31, consultée le 2026-10-14), dont le message général (« Ces produits n'ont pas été évalués par les autorités de santé et ne sont pas autorisés ») vaut pour tout achat en ligne hors circuit.\n- **Autres pays** : médicament utilisé en AVC aigu en Russie, Europe de l'Est, Chine et Asie, selon la Cochrane (PMID 37818733). Détail par pays : non consulté [?]. Le fabricant actuel et son ancien nom (Ebewe) sont à vérifier auprès d'une autorité [?].\n- **AMA** : ni l'un ni l'autre n'est cité dans la Liste 2026 ; la classe S0 ne vise que les substances sans approbation dans aucun pays, ce qui n'est pas le cas de la cérébrolysine ; aucune des deux n'est nommée dans le texte de la Liste 2026 (PDF WADA, consulté le 2026-10-14) ; l'approbation de la cortexine dans un pays n'ayant pas été vérifiée, son classement S0 ou non reste indéterminé [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Origine animale (cerveau de porc ou de bovin) : risque théorique infectieux et immunologique, aucune donnée chiffrée dans les sources lues [?].\n- Événements indésirables graves non fatals : RR 2,39 dans la Cochrane de 2023, plus marqué dans le sous-groupe d'un des schémas posologiques testés (RR 2,87 ; IC 95 % 1,24 à 6,69 ; 2 essais, 1 189 participants) [A] (PMID 37818733) ; non retrouvé dans une méta-analyse de sécurité plus large (PMID 34959697). L'écart n'est pas résolu ici.\n- Épilepsie, grossesse, insuffisance rénale, interactions médicamenteuses : aucune donnée extraite [?].\n- L'usage en perfusion hospitalière n'a rien à voir avec un flacon acheté en ligne.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Risques génériques : sous-dosage, mauvaise molécule, contamination, endotoxines (ANSM, consultée le 2026-10-14). Pour un mélange non synthétique de composition non standardisée, les contrefaçons et les produits dilués sont plausibles ; analyse de produits vendus en ligne : aucune trouvée [?].",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- AVC aigu : filière neuro-vasculaire (prise en charge en urgence, rééducation), cadre standard ; la cérébrolysine n'y a pas montré de bénéfice sur la mortalité (PMID 37818733).\n- Troubles de la mémoire ou démence : consultation mémoire, traitements autorisés et prise en charge des facteurs vasculaires ; voir [déclin cognitif et neurodégénérescence](fiche:declin-cognitif-et-neurodegenerescence) et [tension artérielle](fiche:tension-arterielle).\n- Traumatisme crânien : rééducation spécialisée.\n- Pas de protocole de dosage ni d'injection, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).\n\nVoir aussi : [Selank et Semax](fiche:selank-et-semax) (peptides russes « nootropes »), [pinéalon et peptides de Khavinson](fiche:pinealon-et-peptides-de-khavinson) (où la cortexine est comparée au pinéalon chez le rat), [DSIP](fiche:dsip).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Ziganshina LE et al. *Cochrane Database Syst Rev* 2023 — PMID 37818733 — [DOI](https://doi.org/10.1002/14651858.CD007026.pub7)\n2. Strilciuc S et al. *Pharmaceuticals (Basel)* 2021 — PMID 34959697 — [DOI](https://doi.org/10.3390/ph14121297)\n3. Cui S et al. *Cochrane Database Syst Rev* 2019 — PMID 31710397 — [DOI](https://doi.org/10.1002/14651858.CD008900.pub3)\n4. Gauthier S et al. *Dement Geriatr Cogn Disord* 2015 — PMID 25832905 — [DOI](https://doi.org/10.1159/000377672)\n5. Vester JC et al. *Neurol Sci* 2021 — PMID 33620612 : titre vérifié, chiffres lus dans le résumé.\n6. Ghaffarpasand F et al. *Neuropsychiatr Dis Treat* 2019 — PMID 30643411 — [DOI](https://doi.org/10.2147/NDT.S186865)\n7. Kurkin DV et al. *PLoS One* 2021 — PMID 34260655 — [DOI](https://doi.org/10.1371/journal.pone.0254493)\n8. Gomazkov OA. *Zh Nevrol Psikhiatr Im S S Korsakova* 2015 — PMID 26356623 — [DOI](https://doi.org/10.17116/jnevro20151158199-104) (revue)\n9. BDPM, fichiers CIS_bdpm et CIS_COMPO_bdpm, téléchargés le 2026-10-14.\n10. ANSM, « “Peptides” vendus en ligne : ne les utilisez pas, ils peuvent être dangereux », 2026-07-02, mis à jour 2026-08-31 — https://ansm.sante.fr/actualites/peptides-vendus-en-ligne-ne-les-utilisez-pas-ils-peuvent-etre-dangereux (consulté le 2026-10-14)\n11. AMA, Liste des interdictions 2026, classe S0 (consultée le 2026-10-14).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "Cérébrolysine et cortexine (extraits peptidiques de cerveau animal)",
+ "type": "actif",
+ "unite": ""
+}

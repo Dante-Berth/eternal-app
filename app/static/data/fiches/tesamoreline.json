@@ -1,0 +1,83 @@
+{
+ "cibles": [
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "peptide",
+ "id": "tesamoreline",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "aod-9604",
+  "exercice-physique",
+  "glycemie-et-prediabete",
+  "secretagogues-de-gh-et-hormone-de-croissance",
+  "secretagogues-gh",
+  "semaglutide-et-glp1"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "18057338",
+  "20554713",
+  "41545261",
+  "18690162",
+  "20101189",
+  "25038357",
+  "38905488",
+  "30029448"
+ ],
+ "preuve_globale": "A",
+ "resume": "Analogue de la GHRH (facteur de libération de l'hormone de croissance) : il fait monter la GH et l'IGF-1. Médicament autorisé aux États-Unis pour « réduire l'excès de graisse abdominale chez l'adulte infecté par le VIH avec lipodystrophie » (étiquette FDA Egrifta WR, révision 3/2025, page DailyMe…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Analogue de la GHRH (facteur de libération de l'hormone de croissance) : il fait monter la GH et l'IGF-1. Médicament **autorisé aux États-Unis** pour « réduire l'excès de graisse abdominale chez l'adulte infecté par le VIH avec lipodystrophie » (étiquette FDA Egrifta WR, révision 3/2025, page DailyMed mise à jour le 2026-07-29, consultée le 2026-10-14). L'étiquette précise qu'il n'est **pas** indiqué pour la perte de poids.\n- Efficacité dans cette indication : sur 412 patients VIH, la graisse viscérale baisse de 15,2 % sous tésamoréline contre une hausse de 5,0 % sous placebo à 26 semaines, avec baisse des triglycérides [B, ECR pivot n=412, financement industriel non précisé dans le résumé] (PMID 18057338) ; analyse poolée de 2 essais de phase 3 (n=806), effet net −15,4 % de graisse viscérale, sans effet sur la graisse sous-cutanée [B, 2 ECR poolés] (PMID 20554713) ; méta-analyse de 5 ECR : graisse viscérale −27,71 cm², graisse hépatique −4,28 points de pourcentage, masse maigre +1,42 kg [A, population VIH uniquement] (PMID 41545261).\n- **L'effet disparaît à l'arrêt** : la graisse viscérale se reforme après interruption (PMID 18690162, PMID 20101189) [B].\n- Le bénéfice **clinique** (infarctus, mortalité) n'est pas démontré : l'étiquette américaine précise que la sécurité cardiovasculaire à long terme n'est pas établie (DailyMed, consultée le 2026-10-14).\n- Chez le sujet sain, l'obèse non VIH ou le sportif : aucun bénéfice démontré ; la molécule est **interdite en permanence** par l'AMA (S2.2.4).\n- **France / UE** : aucune spécialité dans la BDPM ; la demande d'AMM européenne a été **retirée en 2012**.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Analogue du GHRH(1-44) (PMID 20101189) : stimule l'hypophyse, augmente la GH pulsatile et l'IGF-1 (IGF-1 +81 % sous tésamoréline dans l'essai pivot, PMID 18057338) ; le mécanisme de la baisse de graisse viscérale n'est pas détaillé dans les résumés lus [?].\n- Détail pharmacologique et comparaison avec les autres analogues et sécrétagogues : [sécrétagogues de la GH](fiche:secretagogues-gh).",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Graisse abdominale du VIH (essai pivot, 26 semaines) | Graisse viscérale −15,2 % vs +5,0 % ; triglycérides −50 vs +9 mg/dL ; IGF-1 +81 % vs −5 % ; pas de différence significative sur la glycémie ; plus d'arrêts pour effets indésirables sous tésamoréline | [B, ECR n=412] (PMID 18057338) |\n| Graisse abdominale du VIH (2 essais poolés, 52 semaines) | −15,4 % de graisse viscérale vs placebo à 26 semaines ; −17,5 % à 52 semaines chez ceux qui poursuivent ; pas d'effet sur la graisse sous-cutanée | [B, 2 ECR n=806] (PMID 20554713) |\n| Arrêt du traitement | Réaccumulation de la graisse viscérale à l'arrêt | [B] (PMID 18690162, PMID 20101189) |\n| Graisse du foie dans le VIH | Graisse hépatique −2,0 % vs +0,9 % (rapport lipides/eau) à 6 mois, n=50 ; glycémie à jeun plus haute à 2 semaines, sans différence à 6 mois | [B, ECR unique n=50] (PMID 25038357) |\n| VIH sous inhibiteurs d'intégrase | Sous-analyse d'un ECR de 61 personnes (38 sous INSTI) : graisse viscérale médiane −25 vs +14 cm² ; graisse hépatique −4,2 % vs −0,5 % ; pas d'aggravation glycémique | [B, sous-analyse, 31 complétants] (PMID 38905488) |\n| Ensemble des ECR dans le VIH | Graisse viscérale −27,71 cm² (IC 95 % −38,37 à −17,06) ; graisse hépatique −4,28 % ; pas d'effet sur le tissu sous-cutané ni sur l'IMC | [A, population VIH uniquement] (PMID 41545261) |\n| Obésité non VIH, sujet sain, anti-âge, sport | Aucun essai de bénéfice trouvé | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet : pas de posologie dans cette fiche. Le produit pharmaceutique est une présentation médicale à usage hospitalier/ambulatoire encadré ; les « tésamoréline » vendus en ligne ont un contenu réel inconnu sans analyse.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **États-Unis** : médicament Egrifta (versions successives, dont Egrifta WR), indiqué dans la lipodystrophie du VIH (DailyMed, consulté le 2026-10-14). Approbation FDA d'origine le 2010-11-10, application 022505 (devenue BLA 022505), statut « Prescription » (openFDA Drugs@FDA, consulté le 2026-10-14).\n- **UE** : la demande d'AMM d'Egrifta a été retirée par Ferrer Internacional le 21 juin 2012 (EMA, page EPAR Egrifta : « The application for this medicine has been withdrawn », consultée le 2026-10-14) ; le CHMP n'avait pas pu conclure à un rapport bénéfice-risque positif (voir [sécrétagogues de la GH](fiche:secretagogues-gh), qui cite le détail).\n- **France** : aucune occurrence « tésamoréline » dans les fichiers CIS_bdpm et CIS_COMPO_bdpm de la base publique des médicaments (BDPM, téléchargés le 2026-10-14). Accès par autorisation d'accès compassionnel ou importation : non consulté [?].\n- **AMA, Liste 2026** : S2.2.4 « Growth hormone releasing factors », « GHRH and its analogues (e.g. CJC-1293, CJC-1295, sermorelin and tesamorelin) », interdit en permanence (consultée le 2026-10-14). Une prescription médicale légitime n'autorise pas un sportif soumis aux contrôles : autorisation d'usage à des fins thérapeutiques (AUT) à demander à l'avance.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "Source : étiquette américaine Egrifta WR (DailyMed, consultée le 2026-10-14).\n- **Contre-indications** : atteinte de l'axe hypothalamo-hypophysaire, **cancer actif**, hypersensibilité, **grossesse**.\n- **Mises en garde** : risque accru de néoplasmes, IGF-1 élevé, rétention hydrique, intolérance au glucose ou diabète, réactions d'hypersensibilité, réactions au point d'injection, hausse de la mortalité chez les patients en état critique aigu.\n- **Effets fréquents (26 premières semaines, vs placebo)** : réaction au point d'injection 17 % (6 %), arthralgies 13 % (11 %), douleur des membres 6 % (5 %), myalgies 6 % (2 %), œdème périphérique 6 % (2 %).\n- Dans l'essai pivot, les effets indésirables ne diffèrent pas significativement globalement, mais davantage de patients sous tésamoréline ont arrêté pour effet indésirable (PMID 18057338) [B].\n- Le signal glycémique est surtout transitoire : glycémie à jeun plus haute à 2 semaines puis sans différence à 6 mois (PMID 25038357) [B].\n- Le risque théorique de l'IGF-1 chronique est commun aux sécrétagogues de la GH : [secretagogues-gh.md](fiche:secretagogues-gh).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Les « tésamoréline » vendus en ligne ne sont pas le médicament. Risques génériques : sous-dosage, mauvaise molécule, contamination, endotoxines (ANSM, consultée le 2026-10-14) ; contrefaçons de peptides : pureté de 5 à 75 % pour les peptides à cystéine, arsenic et plomb au-delà des limites parentérales ICH [B, analyse de produits sur le marché belge] (PMID 30029448) ; l'étude ne porte pas nommément sur la tésamoréline. Analyse de flacons de tésamoréline : aucune trouvée [?].",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- Graisse abdominale avec VIH : prise en charge par l'équipe de l'infection VIH ; l'accès à la tésamoréline hors AMM UE se discute avec le prescripteur [?]. Pour le tour de taille et la graisse viscérale, les leviers de base sont l'activité physique et l'alimentation : [exercice physique](fiche:exercice-physique), [alimentation](fiche:alimentation).\n- Obésité sans VIH : médicaments autorisés (voir [sémaglutide, tirzépatide et GLP-1](fiche:semaglutide-et-glp1)) ; la tésamoréline n'est pas un traitement de l'obésité.\n- Foie gras (MASLD) : bilan hépatique et métabolique avec le médecin ; la baisse de graisse hépatique a été observée uniquement chez des patients VIH.\n- Pas de protocole de dosage ni d'injection pour un usage hors indication (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun produit à lister (règle 7 pour les produits de « recherche »).\n\nVoir aussi : [sécrétagogues de la GH](fiche:secretagogues-gh), [hormone de croissance et muscle](fiche:secretagogues-de-gh-et-hormone-de-croissance), [AOD-9604](fiche:aod-9604), [glycémie et prédiabète](fiche:glycemie-et-prediabete).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Falutz J et al. *N Engl J Med* 2007 — PMID 18057338 — [DOI](https://doi.org/10.1056/NEJMoa072375)\n2. Falutz J et al. *J Clin Endocrinol Metab* 2010 — PMID 20554713 — [DOI](https://doi.org/10.1210/jc.2010-0490)\n3. Falutz J et al. *AIDS* 2008 — PMID 18690162 — [DOI](https://doi.org/10.1097/QAD.0b013e32830a5058)\n4. Falutz J et al. *J Acquir Immune Defic Syndr* 2010 — PMID 20101189 — [DOI](https://doi.org/10.1097/QAI.0b013e3181cbdaff)\n5. Stanley TL et al. *JAMA* 2014 — PMID 25038357 — [DOI](https://doi.org/10.1001/jama.2014.8334)\n6. Russo SC et al. *AIDS* 2024 — PMID 38905488 — [DOI](https://doi.org/10.1097/QAD.0000000000003965)\n7. Badran AS et al. *Obes Res Clin Pract* 2026 — PMID 41545261 — [DOI](https://doi.org/10.1016/j.orcp.2026.01.002) (méta-analyse de 5 ECR)\n8. Janvier S et al. *Talanta* 2018 — PMID 30029448 — [DOI](https://doi.org/10.1016/j.talanta.2018.06.023)\n9. DailyMed, étiquette EGRIFTA WR (tesamorelin), https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75 (consultée le 2026-10-14) ; openFDA, Drugs@FDA, application 022505 (api.fda.gov/drug/drugsfda.json, consulté le 2026-10-14) : approbation d'origine 2010-11-10.\n10. EMA, EPAR Egrifta, https://www.ema.europa.eu/en/medicines/human/EPAR/egrifta (consulté le 2026-10-14).\n11. BDPM, fichiers CIS_bdpm et CIS_COMPO_bdpm, téléchargés le 2026-10-14.\n12. ANSM, « “Peptides” vendus en ligne : ne les utilisez pas, ils peuvent être dangereux », 2026-07-02, mis à jour 2026-08-31 — https://ansm.sante.fr/actualites/peptides-vendus-en-ligne-ne-les-utilisez-pas-ils-peuvent-etre-dangereux (consulté le 2026-10-14)\n13. AMA, Liste des interdictions 2026, classe S2.2.4 (consultée le 2026-10-14).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "Tésamoréline (Egrifta)",
+ "type": "actif",
+ "unite": ""
+}

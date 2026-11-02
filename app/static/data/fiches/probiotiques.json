@@ -1,0 +1,80 @@
+{
+ "cibles": [
+  "prevention",
+  "sante-mentale"
+ ],
+ "derniere_maj": "2026-10-22",
+ "famille": "complement",
+ "id": "probiotiques",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "aliments-fermentes-kefir-yaourt-kimchi",
+  "anxiete",
+  "depression"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 11,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "34385227",
+  "22570464",
+  "29257353",
+  "37541528",
+  "30294792",
+  "39731509",
+  "36001877",
+  "33870484",
+  "37110319",
+  "36799531",
+  "25922398"
+ ],
+ "preuve_globale": "A",
+ "resume": "Micro-organismes vivants (Lactobacillus, Bifidobacterium, Saccharomyces, E. coli Nissle, etc.) vendus pour « la flore », l'immunité, le moral et le transit. Un probiotique n'est pas un autre : l'effet dépend de la souche, et la plupart des essais utilisent des souches différentes, mal documentées.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Micro-organismes vivants (Lactobacillus, Bifidobacterium, Saccharomyces, E. coli Nissle, etc.) vendus pour « la flore », l'immunité, le moral et le transit. **Un probiotique n'est pas un autre : l'effet dépend de la souche**, et la plupart des essais utilisent des souches différentes, mal documentées.\n- Mieux établi : **diarrhée associée aux antibiotiques**. 42 études, 11 305 adultes : risque réduit de 37 % (RR 0,63 ; IC 95 % 0,54-0,73), certitude modérée, surtout avec Lactobacillus et Bifidobacterium, dose élevée meilleure que faible, pas d'effet si le risque de départ est bas [A] (PMID 34385227) ; ancienne méta-analyse de 63 RCT : RR 0,58, NNT 13, hétérogénéité notable et souches mal décrites [A] (PMID 22570464).\n- **Diarrhée à Clostridioides difficile** : incidence 1,5 % sous probiotique contre 4,0 % sans (RR 0,40 ; 0,30-0,52), NNT 42, certitude modérée ; 27 études sur 39 à risque de biais élevé ou incertain. Pas de bénéfice si le risque de départ est ≤ 5 % ; au-dessus de 5 %, RR 0,30 (0,21-0,42), NNT 12. Les auteurs jugent l'usage de courte durée sûr hors immunodépression ou grande fragilité [A] (PMID 29257353).\n- Syndrome de l'intestin irritable : 82 essais, 10 332 patients ; seules les souches d'*Escherichia* atteignent une certitude modérée sur les symptômes globaux ; Lactobacillus, L. plantarum 299V, Saccharomyces cerevisiae I-3856 et Bifidobacterium : certitude faible à très faible (24 essais sur 82 à faible risque de biais) — **certitude faible à très faible presque partout** ; pas plus d'effets indésirables (PMID 37541528) [A, faible certitude]. Une autre revue conclut que les combinaisons efficaces restent largement indéterminées (PMID 30294792).\n- Dépression et anxiété cliniquement diagnostiquées : 23 RCT, 1 401 patients : dépression SMD −0,96 (−1,31 à −0,61), anxiété −0,59 ; hétérogénéité forte, l'analyse conclut à une durée d'étude et à des formulations qui expliquent l'hétérogénéité ; les prébiotiques seuls n'ont pas d'effet significatif sur la dépression [A, hétérogène] (PMID 39731509). Tailles d'effet très grandes, à prendre avec prudence.\n- **Infections respiratoires hautes** : Cochrane, probiotiques contre placebo : au moins une infection RR 0,76 (0,67-0,87 ; 16 études, 4 798 sujets, certitude faible) ; durée d'un épisode −1,22 jour (certitude faible) ; antibiotiques prescrits RR 0,58 (0,42-0,81, certitude modérée) ; pas d'excès d'effets indésirables [A, faible à modérée] (PMID 36001877). Effet limité à des essais de souches précises, pas à « un probiotique » quelconque.\n- **Grossesse : prudence.** Cochrane : pas d'effet clair sur le diabète gestationnel (RR 0,80 ; 0,54-1,20 ; certitude faible) et **risque de pré-éclampsie augmenté** (RR 1,85 ; 1,04-3,29 ; 4 études, 955 femmes, certitude élevée) [A] (PMID 33870484).\n- Sujet sain, « santé intestinale », poids, peau : aucune méta-analyse de bénéfice clinique relue ici [?].\n- **Risque** : Lactobacillus peut provoquer des bactériémies chez les patients fragiles (réanimation, immunodépression, cathéter central) (PMID 37110319).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Variable selon la souche : modulation du microbiote, exclusion compétitive d'agents pathogènes, effets immunitaires ; mécanismes non relus dans une source vérifiée pour cette fiche [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Diarrhée associée aux antibiotiques (adultes) | RR 0,63 (42 études) ; effet de la dose et de l'espèce ; absent si risque de base faible | [A, certitude modérée] (PMID 34385227) |\n| Diarrhée associée aux antibiotiques (ancien) | RR 0,58 (63 RCT), NNT 13, forte hétérogénéité | [A] (PMID 22570464) |\n| Diarrhée à C. difficile | RR 0,40, NNT 42 ; biais fréquent | [A, certitude modérée] (PMID 29257353) |\n| Colon irritable | Bénéfice possible pour certaines souches, certitude faible à très faible ; effets indésirables non augmentés | [A, faible certitude] (PMID 37541528, PMID 30294792) |\n| Dépression et anxiété (diagnostic clinique) | Dépression SMD −0,96, anxiété SMD −0,59 ; prébiotiques : n.s. | [A, hétérogène] (PMID 39731509) |\n| Infections respiratoires hautes | RR 0,76 (au moins un épisode), −1,22 jour de durée, antibiotiques RR 0,58 ; souches : *L. plantarum* HEAL9, *L. paracasei* 8700:2 ou N1115 cités dans le résumé | [A, faible à modérée] (PMID 36001877) |\n| Diabète gestationnel (prévention) | RR 0,80 (0,54-1,20), incertain ; pré-éclampsie RR 1,85 (1,04-3,29) | [A, certitude faible sur le diabète, élevée sur la pré-éclampsie] (PMID 33870484) |\n| Douleurs abdominales fonctionnelles de l'enfant (4-18 ans) | Succès du traitement 50 % contre 33 % (RR 1,57 ; 1,05-2,36 ; 6 études) ; disparition complète de la douleur non significative (RR 1,55 ; 0,94-2,56) ; aucun événement grave rapporté | [A, certitude faible à très faible] (PMID 36799531) |\n| Poids, peau, « santé intestinale » du sujet sain | Non recherchés dans cette fiche | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- La dose compte pour la diarrhée associée aux antibiotiques (haute dose supérieure à faible dose de la même souche) (PMID 34385227). UFC, souches et durées exactes des essais : non extraites ici [?].\n- Les produits vendus : souche non toujours précisée, viabilité en fin de vie du produit inconnue sans analyse [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Gélules, sachets, aliments fermentés (yaourt, kéfir). Pas de médicament équivalent en France dans cette recherche ; certains produits contenant *Saccharomyces boulardii* sont vendus comme médicament : statut non vérifié [?]. Statut complément, déclaration DGCCRF, allégations autorisées : non consultés [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Revue de sécurité : usage généralement sûr, mais la littérature n'est pas équipée pour répondre « avec confiance » à la question de la sécurité ; risques théoriques : infections systémiques, effets métaboliques indésirables, stimulation immunitaire excessive chez les sujets sensibles, transfert de gènes, troubles digestifs (PMID 25922398) [B].\n- **Bactériémie à Lactobacillus** : rare mais plus fréquente chez les patients sous probiotiques ; facteurs de risque : maladie sévère, immunosuppression, réanimation, cathéter veineux central ; trois souches (L. rhamnosus GG, L. plantarum, L. paracasei) liées par identification moléculaire (PMID 37110319) [B]. Déclaration de conflits d'intérêts non lue ici [?] (affiliations de plusieurs auteurs : sociétés de conseil).\n- À éviter sans avis médical : maladie sévère, immunodépression, réanimation, cathéter veineux central (facteurs de risque de bactériémie, PMID 37110319). **Grossesse** : Cochrane, risque de pré-éclampsie augmenté (RR 1,85) ; les auteurs recommandent la prudence (PMID 33870484) [A]. Autres contre-indications : non recherchées [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Des milliards de bactéries = meilleure flore » : l'effet est propre à la souche et à l'indication ; l'indication la mieux prouvée est la prévention de la diarrhée sous antibiotiques.\n- « Renforce l'immunité » : un effet modeste sur les infections respiratoires hautes existe pour certaines souches (certitude faible à modérée, PMID 36001877) ; pas de preuve d'un renforcement général du sujet sain [?].\n- « Soigne le colon irritable » : certitude faible à très faible (PMID 37541528).\n- « Bon pour le moral » : méta-analyse favorable mais très hétérogène, sur des patients déprimés ou anxieux diagnostiqués, pas sur le bien-être du sujet sain (PMID 39731509).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour.\n\nVoir aussi : [dépression](fiche:depression), [anxiété](fiche:anxiete), [alimentation](fiche:alimentation).\n\nVoir aussi : [aliments fermentés (yaourt, kéfir, kimchi)](fiche:aliments-fermentes-kefir-yaourt-kimchi).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Goodman C et al. *BMJ Open* 2021 — PMID 34385227 — [DOI](https://doi.org/10.1136/bmjopen-2020-043054)\n2. Hempel S et al. *JAMA* 2012 — PMID 22570464 — [DOI](https://doi.org/10.1001/jama.2012.3507)\n3. Goldenberg JZ et al. *Cochrane Database Syst Rev* 2017 — PMID 29257353 — [DOI](https://doi.org/10.1002/14651858.CD006095.pub4)\n4. Goodoory VC et al. *Gastroenterology* 2023 — PMID 37541528 — [DOI](https://doi.org/10.1053/j.gastro.2023.07.018)\n5. Ford AC et al. *Aliment Pharmacol Ther* 2018 — PMID 30294792 — [DOI](https://doi.org/10.1111/apt.15001)\n6. Asad A et al. *Nutr Rev* 2025 — PMID 39731509 — [DOI](https://doi.org/10.1093/nutrit/nuae177)\n7. Doron S, Snydman DR. *Clin Infect Dis* 2015 — PMID 25922398 — [DOI](https://doi.org/10.1093/cid/civ085)\n8. Kullar R et al. *Microorganisms* 2023 — PMID 37110319 — [DOI](https://doi.org/10.3390/microorganisms11040896)\n9. Davidson et al. *Cochrane Database Syst Rev* 2021 — PMID 33870484 — [DOI](https://doi.org/10.1002/14651858.CD009951.pub3)\n10. Wallace et al. *Cochrane Database Syst Rev* 2023 — PMID 36799531 — [DOI](https://doi.org/10.1002/14651858.CD012849.pub2)\n11. Zhao et al. *Cochrane Database Syst Rev* 2022 — PMID 36001877 — [DOI](https://doi.org/10.1002/14651858.CD006895.pub4)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Probiotiques",
+ "type": "actif",
+ "unite": ""
+}

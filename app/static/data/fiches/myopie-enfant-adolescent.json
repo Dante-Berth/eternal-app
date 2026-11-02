@@ -1,0 +1,79 @@
+{
+ "cibles": [
+  "sens-bouche",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "myopie-enfant-adolescent",
+ "intro": "",
+ "liens": [
+  "glaucome",
+  "vue-dmla-et-cataracte"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "35779695",
+  "36809645",
+  "30514630",
+  "38494130",
+  "31142465",
+  "28251836",
+  "39136948",
+  "39945354"
+ ],
+ "preuve_globale": "A",
+ "resume": "La myopie vient d'un allongement de l'œil ; le risque tardif lié à la myopie forte (glaucome, voir glaucome) justifie de la freiner.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- La myopie vient d'un allongement de l'œil ; le risque tardif lié à la myopie forte (glaucome, voir [glaucome](fiche:glaucome)) justifie de la freiner.\n- Lumière du jour : classe en prévention, +40 min d'extérieur par jour de classe réduit l'incidence à 2 ans (IRR 0,84) [B, ECR unique n=6 295] (PMID 35779695).\n- Atropine : l'effet dépend de la dose ; la faible dose (< 0,1 %) donne +0,24 D à 2 ans [A, certitude faible à modérée] (PMID 36809645). Les doses de 0,01 % n'existent pas en spécialité autorisée en France (BDPM, 2026-10-15).\n- Orthokératologie et verres DIMS freinent l'allongement de l'œil.\n- Le rebond après arrêt et les effets à long terme restent mal connus.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Allongement axial de l'œil pendant la croissance. Mécanisme de l'effet de la lumière extérieure : non tranché dans les sources lues [?].",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "Cochrane en réseau (64 essais, 11 617 enfants, certitude très faible à modérée, réseaux peu connectés, estimations surtout directes) (PMID 36809645) : progression de la réfraction à 1 an vs contrôle, mieux (en dioptries) :\n| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Atropine forte dose | antimuscarinique | +0,90 D (IC 0,62-1,18) à 1 an [A, certitude faible à modérée] (PMID 36809645) | collyre 0,3/0,5/1 % : indication mydriase/cycloplégie ; 0,5 % et 1 % commercialisés (BDPM) | non relevé |\n| Atropine dose moyenne | idem | +0,65 D (0,27-1,03) à 1 an [A, certitude faible] (PMID 36809645) | — | — |\n| Atropine faible dose | idem | +0,38 D (0,10-0,66) à 1 an ; +0,24 D (0,17-0,31) à 2 ans ; allongement -0,13 mm à 1 an [A, certitude faible] (PMID 36809645). LAMP (n=438) : changement de réfraction à 1 an -0,27 / -0,46 / -0,59 D avec 0,05 / 0,025 / 0,01 % vs -0,81 D placebo [B, ECR unique n=438] (PMID 30514630) ; à 5 ans, progression cumulée -1,34 / -1,97 / -2,34 D pour 0,05 / 0,025 / 0,01 %, 87,9 % des enfants arrêtant le traitement ont dû le reprendre (progression ≥ 0,5 D) [B, ECR unique n=326] (PMID 38494130) | pas de spécialité 0,01 % dans la BDPM (consultée le 2026-10-15) : usage hors AMM via préparation magistrale, non vérifié [?] | non relevé |\n| Orthokératologie | lentille nocturne aplatissant la cornée | allongement -0,19 mm (IC -0,23 à -0,15) à 1 an [A, certitude faible à modérée] (PMID 36809645) | dispositif ; remboursement non consulté [?] | non relevé |\n| Lentilles souples multifocales | défocus périphérique | +0,26 D (0,17-0,35) à 1 an [A, certitude faible] (PMID 36809645) | non consulté [?] | — |\n| Verres DIMS | segments à défocus myopique | à 2 ans, -0,41 vs -0,85 D, allongement 0,21 vs 0,55 mm ; n=183 ; auteurs liés au fabricant non vérifié [?] [B, ECR unique n=183] (PMID 31142465) | dispositif ; non consulté [?] | — |\n| Sous-correction, lentilles RGP, 7-méthylxanthine | — | pas d'effet [A, certitude faible] (PMID 36809645) | — | — |\n| Temps passé dehors | lumière | cluster : incidence à 2 ans 24,9 % (contrôle), 20,6 % (+40 min/j), 23,8 % (+80 min/j) ; IRR ajusté 0,84 (0,72-0,99) pour +40 min [B, ECR unique n=6 295] (PMID 35779695). Méta-analyse : RR 0,54 (0,34-0,85) d'apparition en essais [A, faible certitude] (PMID 28251836) | gratuit | 0 |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Débutant : temps dehors quotidien, lumière du jour (≥ 15 min à ≥ 2 000 lux associée à moins de décalage myopique dans une cohorte, PMID 39136948 [B, observationnel]).\n- Intermédiaire/avancé : choix atropine / orthokératologie / verres par l'ophtalmologue ; je ne donne pas de schéma, car l'atropine à 0,01 % n'est pas une spécialité française.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Sous-corriger la myopie : sans effet [A, faible] (PMID 36809645).\n- Arrêter l'atropine sans suivi : rebond non quantifié ici, mais reprise nécessaire chez 87,9 % dans LAMP (PMID 38494130).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- « Verres anti-lumière bleue contre la myopie » : non recherché pour la myopie ; pour la fatigue visuelle, pas d'effet démontré (voir [vue](fiche:vue-dmla-et-cataracte)).\n- Lumière rouge répétée à faible intensité : classée en tête par Cochrane mais avec certitude très faible (voir [vue](fiche:vue-dmla-et-cataracte), PMID 39945354).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Effets de l'atropine : pupille dilatée et accommodation réduite dose-dépendantes (-1,98 D d'accommodation à 0,05 % vs -0,26 D à 0,01 %) (PMID 30514630).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Dès qu'un enfant plisse les yeux, rapproche les écrans ou se plaint de mal voir au tableau ; progression rapide : bilan avec cycloplégie. Recommandation française de dépistage : non consultée [?].",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "[Vue : DMLA et cataracte](fiche:vue-dmla-et-cataracte) · [Glaucome](fiche:glaucome)",
+   "titre": "Voir aussi"
+  },
+  {
+   "markdown": "- PMID 36809645 — Lawrenson JG et al., Cochrane 2023 (résumé relu).\n- PMID 30514630, 38494130 — Yam JC et al., LAMP, *Ophthalmology* 2019, Zhang XJ 2024 (résumés relus).\n- PMID 31142465 — Lam CSY et al., *Br J Ophthalmol* 2020 (résumé relu).\n- PMID 35779695 — He X et al., *Ophthalmology* 2022 (résumé relu).\n- PMID 28251836 — Xiong S et al., *Acta Ophthalmol* 2017 (résumé relu).\n- PMID 39136948 — Chen et al., *JAMA Netw Open* 2024 (résumé relu, chiffre partiel).\n- PMID 39945354 — cité dans la fiche vue (non relu ici).\n- BDPM, CIS_bdpm (mise à jour 2026-09-29, consulté le 2026-10-15).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Myopie de l'enfant et de l'adolescent",
+ "type": "condition",
+ "unite": ""
+}

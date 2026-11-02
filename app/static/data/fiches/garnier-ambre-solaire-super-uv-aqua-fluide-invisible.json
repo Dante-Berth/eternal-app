@@ -1,0 +1,63 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "cosmetique",
+ "id": "garnier-ambre-solaire-super-uv-aqua-fluide-invisible",
+ "intro": "",
+ "liens": [
+  "avene-intense-protect-spf50",
+  "protection-solaire"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 1,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "23732711"
+ ],
+ "preuve_globale": "B",
+ "resume": "Un écran visage sans fini blanc qui plaît pour sa texture, mais cher au millilitre (environ 0,32 à 0,42 €/ml contre 0,09 à 0,12 pour l'Avène) ; la protection est du même type, donc à choisir pour l'observance, pas pour le prix.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Un écran visage sans fini blanc qui plaît pour sa texture, mais cher au millilitre (environ 0,32 à 0,42 €/ml contre 0,09 à 0,12 pour l'Avène) ; la protection est du même type, donc à choisir pour l'observance, pas pour le prix.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- Filtres (INCI, concentrations non déclarées) : bis-ethylhexyloxyphenol methoxyphenyl triazine, ethylhexyl triazone, butyl methoxydibenzoylmethane (avobenzone), diethylamino hydroxybenzoyl hexyl benzoate (site de la marque, consulté le 2026-10-06). L'octocrylène n'apparaît pas dans les filtres listés par la marque ; l'INCI complet n'a pas été lu (seul un extrait « principaux » sur MyOrigines) [?].\n- Autres : eau, alcool dénaturé, glycérine, silice, hyaluronate de sodium, beurre de karité (MyOrigines, consulté le 2026-10-06). **Alcool dénaturé** : fini sec, possible gêne sur peau sèche ou sensible (propriété de l'ingrédient, non testée sur ce produit [?]).\n- Preuve de l'actif : l'usage quotidien d'un écran large spectre réduit le vieillissement cutané de 24 % sur 4,5 ans (risque relatif 0,76 ; IC 95 % 0,59 à 0,98 ; 903 adultes ; résultats manquants et puissance modeste, selon les auteurs) (Hughes 2013, PMID 23732711) [B, ECR unique n=903]. La preuve porte sur la classe de produits (écran large spectre appliqué chaque jour), pas sur cette marque. Détail : [protection solaire](fiche:protection-solaire).\n- **Protection UVA** : la page de marque parle de « protection à large spectre » sans indiquer de facteur UVA ni de test [?]. La Recommandation 2006/647/CE exige un facteur UVA ≥ 1/3 du SPF et une longueur d'onde critique ≥ 370 nm pour revendiquer une protection (EUR-Lex, consulté le 2026-10-06) ; un produit commercialisé comme protecteur est donc censé le respecter, mais le logo UVA n'a pas été vérifié sur l'emballage [?].",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Cosmétique (règlement (CE) n° 1223/2009). Étiqueté SPF 50 : catégorie « haute protection » (SPF mesuré 30 à 59,9), la catégorie « très haute protection » commençant à 60 mesuré (Recommandation 2006/647/CE, EUR-Lex, consulté le 2026-10-06). Ce n'est donc pas un « 50+ ». Allégations « protection totale » interdites par la même recommandation. AMA : sans objet.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- « Invisible, non gras, non collant, fraîcheur 12 h » : sensorielle, aucune étude indépendante [M].\n- « Protection à large spectre » : cohérent avec le SPF 50 et les 4 filtres listés ; le chiffre d'efficacité clinique (−24 % de vieillissement) provient d'un essai avec un autre écran [B].\n- « Convient aux peaux sensibles » (mention d'un vendeur) : allégation non vérifiée [M] ; présence d'alcool dénaturé et d'avobenzone à garder en tête en cas de réactivité.",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "« Appliquer généreusement en fin de routine et avant le maquillage, renouveler toutes les 2 heures ; bien agiter » (site de la marque, consulté le 2026-10-06). Le SPF suppose 2 mg/cm² ; à 0,5 mg/cm² la protection s'effondre : voir [protection solaire](fiche:protection-solaire).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Prix relevés (40 ml) : 12,85 € (MyOrigines, consulté), 16,80 € (Cocoon Center, consulté, en réapprovisionnement) ; 12,85 € annoncé par des résultats de recherche pour Carrefour et Cdiscount, pages illisibles (HTTP 403 ou contenu vide) ; 8,99 € annoncé pour Amazon, non vérifié (relevés du 2026-10-06).\n- Avec ~30 ml par mois pour visage et cou (estimation de la fiche actif), un flacon de 40 ml dure environ 1,3 mois → 10 à 13 €/mois.\n- Alternative à preuve équivalente et moins chère : [Avène Intense Protect 50+](fiche:avene-intense-protect-spf50) (SPF 50+, 150 ml, 2,6 à 3,6 €/mois, sans octocrylène). Pour une protection utilisée en quantité suffisante, le prix au millilitre compte : un écran trop cher est un écran sous-dosé.",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Texture « aqua, ultra-légère, absorption en quelques secondes, sans traces blanches » selon la marque et MyOrigines. Tolérance non évaluée [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Composition, prix, consignes : [Garnier](https://www.garnier.fr/nos-marques/soin-solaire/ambre-solaire/super-uv/aqua-fluide-invisible), [MyOrigines](https://www.my-origines.com/fr/ambre-solaire-super-uv-spf50-P916900A.html), [Cocoon Center](https://www.cocooncenter.com/garnier-ambre-solaire-super-uv-aqua-fluide-protecteur-invisible-spf50-40-ml/124061.html) (consultés le 2026-10-06)\n- Réglementation : [Recommandation 2006/647/CE](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32006H0647) (consultée le 2026-10-06)\n- Hughes MC et al., Ann Intern Med 2013 — PMID 23732711 — [DOI](https://doi.org/10.7326/0003-4819-158-11-201306040-00002)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "Garnier Ambre Solaire Super UV Aqua Fluide Invisible SPF50 (40 ml)",
+ "type": "produit",
+ "unite": ""
+}

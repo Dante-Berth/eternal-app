@@ -1,0 +1,93 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-apoa1",
+ "intro": "Fiche « examen ». ApoA-I est la protéine principale des HDL ; c'est le pendant « protecteur » de l'[ApoB](fiche:biomarqueur-apob). Lipides, statines et cibles : [ApoB, lipides et statines](fiche:apob-lipides-et-statines).",
+ "liens": [
+  "alimentation",
+  "apob-lipides-et-statines",
+  "biomarqueur-apob",
+  "biomarqueur-ldl-cholesterol-total-hdl",
+  "exercice-physique",
+  "tabac-et-alcool"
+ ],
+ "marqueurs": [
+  "apoa1",
+  "hdl-c"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 6,
+ "nb_seuils": 4,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "22797450",
+  "42335479",
+  "40009132",
+  "37437107",
+  "31504418",
+  "31591002"
+ ],
+ "preuve_globale": "B",
+ "resume": "Utilité clinique limitée. Dans 37 cohortes (165 544 sujets), ajouter ApoB/ApoA-I à cholestérol total + HDL-C ne change presque pas la discrimination du risque (C-index +0,0006) [A, cohortes] (PMID 22797450, chiffre repris de la fiche liée). Le dosage n'est pas un examen de routine.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Utilité clinique limitée.** Dans 37 cohortes (165 544 sujets), ajouter ApoB/ApoA-I à cholestérol total + HDL-C ne change presque pas la discrimination du risque (C-index +0,0006) [A, cohortes] (PMID 22797450, chiffre repris de la [fiche liée](fiche:apob-lipides-et-statines)). Le dosage n'est pas un examen de routine.\n- **Pas de preuve que monter l'ApoA-I protège.** En randomisation mendélienne (339 210 personnes, UK Biobank), l'élévation génétique de l'ApoA-I augmente l'ApoA-I et le HDL-C **sans association avec les événements cardiovasculaires**, y compris à LDL-C résiduel élevé [B, randomisation mendélienne] (PMID 42335479).\n- L'essai AEGIS-II (perfusion d'ApoA-I, CSL112) **n'a pas atteint son critère principal** ; une analyse exploratoire suggérait un bénéfice quand le LDL-C ≥ 100 mg/dL, hypothèse non confirmée par la génétique ci-dessus [B, ECR unique, analyse exploratoire] (PMID 40009132, revue).\n- Aucun complément n'est démontré pour « monter l'ApoA-I » avec un bénéfice sur les événements [?].\n- Prix et remboursement en France : non établis [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "ApoA-I est la protéine structurale des HDL et intervient dans le transport inverse du cholestérol (efflux) [C, concept physiologique]. Le concentration d'ApoA-I est corrélée au HDL-C, mais la **fonction** des HDL (capacité d'efflux) n'est pas ce que mesure le dosage [revue, PMID 40009132].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| ApoB/ApoA-I ajouté au bilan standard | C-index +0,0006 | [A, cohortes] (PMID 22797450) |\n| ApoA-I plus haute par génétique → moins d'événements CV ? | Non : aucune association | [B, MR] (PMID 42335479) |\n| Perfusion d'ApoA-I (CSL112) après infarctus (AEGIS-II) | Critère principal non atteint ; sous-groupe LDL-C ≥ 100 mg/dL exploratoire | [B, ECR unique] (PMID 40009132) |\n| « HDL-C élevé protège » | Non : niacine, fibrates et inhibiteurs de CETP n'ont pas réduit les événements chez des patients sous statine ; la randomisation mendélienne suggère que le HDL-C n'est probablement pas une cause directe ; relation en U : un HDL-C très élevé (≥ 80 mg/dL chez l'homme, ≥ 100 mg/dL chez la femme) est associé à une mortalité totale et cardiovasculaire plus haute | [B, revue narrative] (PMID 37437107) |\n\nLecture : le rapport ApoB/ApoA-I est un outil de population, pas une cible individuelle. **Un HDL-C ou une ApoA-I « élevée » ne compense pas un LDL-C/ApoB élevé**, et les médicaments qui augmentent le HDL (niacine, fibrates, inhibiteurs de CETP) n'ont pas réduit les événements chez des patients sous statine [B, revue narrative] (PMID 37437107).",
+   "titre": "Ce que dit la preuve"
+  },
+  {
+   "markdown": "Conversion : ApoA-I, 1 g/L = 100 mg/dL ; HDL-C, 1 mmol/L = 38,67 mg/dL. Recommandation : ESC/EAS 2019 (Mach F et al., *Eur Heart J* 2020, PMID 31504418), texte lu sur academic.oup.com, consulté le 2026-11-01.\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| ApoA-I | g/L | non retrouvé [?] | aucune plage de référence ni cible retrouvée ; l'ESC/EAS 2019 ne fixe pas d'objectif | | |\n| HDL-C | | non retrouvé [?] | seuil bas homme/femme : absent du texte ESC/EAS 2019 lu, aucun objectif de traitement | | |\n| HDL-C | mmol/L (mg/dL) | jusqu'à 2,3 (90) | associé à un risque plus bas ; au-delà, ne prédit plus le risque | adulte | ESC/EAS 2019, consulté le 2026-11-01 |\n| HDL-C | mg/dL | ≥ 80 (homme), ≥ 100 (femme) | associé à une mortalité totale et cardiovasculaire plus haute (pronostique, pas un seuil de traitement) | adulte | [B, revue narrative] PMID 37437107 |\n\nVoir [LDL-C, cholestérol total et HDL-C](fiche:biomarqueur-ldl-cholesterol-total-hdl) pour les cibles de LDL-C.",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "- Pas de recommandation retrouvée pour un dosage systématique de l'ApoA-I [?]. L'ESC/EAS 2019 (PMID 31591002) discute les apolipoprotéines, détail non relu (texte inaccessible).\n- Un HDL-C **très bas** (HDL-C bas isolé) peut justifier un avis spécialisé : seuils et causes génétiques non recherchés ici [?].\n- Prélèvement à jeun, variabilité intra-individuelle : non recherchés [?].",
+   "titre": "Qui, quand, comment"
+  },
+  {
+   "markdown": "- Pas d'objectif d'ApoA-I validé. Les leviers sont ceux du risque global : tabac, poids, activité physique, glycémie, tension, LDL/ApoB ([exercice physique](fiche:exercice-physique), [alimentation](fiche:alimentation), [tabac et alcool](fiche:tabac-et-alcool)).\n- Effet de ces leviers sur l'ApoA-I elle-même : non extrait ici [?].",
+   "titre": "Que faire d'une ApoA-I basse ou haute"
+  },
+  {
+   "markdown": "Examen de biologie médicale prescrit. Cotation NABM, prix, remboursement : non retrouvés [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Se rassurer avec un « bon HDL » malgré un LDL-C ou une ApoB élevée.\n- Acheter des compléments « pour monter le HDL/l'ApoA-I » : aucun bénéfice démontré sur les événements.\n- Interpréter ApoB/ApoA-I comme un score personnel : le gain de prédiction est de +0,0006 de C-index (PMID 22797450).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Plus de HDL = moins de crises cardiaques »** : la génétique d'une ApoA-I plus haute n'est pas associée à moins d'événements (PMID 42335479) [B].\n- **« Il faut un ApoA-I optimal pour la longévité »** : aucune donnée de ce type retrouvée [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "L'essai AEGIS-II (ApoA-I perfusée) n'a pas atteint son critère principal ; le sous-groupe à LDL-C élevé est une analyse exploratoire que la randomisation mendélienne n'a pas retrouvée (PMID 40009132, 42335479).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "HDL-C très bas, LDL-C/ApoB très élevé ou antécédents familiaux d'événement cardiovasculaire précoce : avis médical ; seuils chiffrés non relus ici [?].",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 22797450 — Emerging Risk Factors Collaboration, Lipid-related markers and CVD prediction. *JAMA* 2012.\n- PMID 42335479 — Luo S et al., drug-target MR : ApoA-I et résultats cardiovasculaires. *Atherosclerosis* 2026. doi:10.1016/j.atherosclerosis.2026.120815\n- PMID 40009132 — Lan NSR, Watts GF, Quo Vadis after AEGIS. *Curr Atheroscler Rep* 2025. doi:10.1007/s11883-025-01281-3\n- PMID 37437107 — Razavi AC et al., Does Elevated High-Density Lipoprotein Cholesterol Protect Against Cardiovascular Disease? *J Clin Endocrinol Metab* 2024. doi:10.1210/clinem/dgad406\n- PMID 31504418 — Mach F et al., 2019 ESC/EAS Guidelines for the management of dyslipidaemias. *Eur Heart J* 2020 (texte lu sur academic.oup.com, consulté le 2026-11-01).\n- PMID 31591002 — ESC/EAS guidelines 2019 (résumé non disponible).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : ApoA-I (apolipoprotéine A-I) et HDL",
+ "type": "biomarqueur",
+ "unite": ""
+}

@@ -1,0 +1,103 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-foie-alat-ggt-fib4-fibroscan",
+ "intro": "Fiche « examen ». Les transaminases disent s'il y a une agression du foie ; elles ne disent **pas** s'il y a de la fibrose, qui est ce qui fait le pronostic. Maladie correspondante : [stéatose hépatique métabolique (MASLD)](fiche:steatose-hepatique-metabolique-masld). Voisines : [HbA1c](fiche:biomarqueur-hba1c), [glycémie et prédiabète](fiche:glycemie-et-prediabete), [alcool](fiche:tabac-et-alcool), [cancer du foie](fiche:cancer-foie-carcinome-hepatocellulaire).",
+ "liens": [
+  "alimentation",
+  "biomarqueur-hba1c",
+  "cancer-foie-carcinome-hepatocellulaire",
+  "exercice-physique",
+  "glycemie-et-prediabete",
+  "steatose-hepatique-metabolique-masld",
+  "tabac-et-alcool"
+ ],
+ "marqueurs": [
+  "alat",
+  "asat",
+  "ggt",
+  "pal",
+  "bilirubine",
+  "fib4",
+  "elastometrie"
+ ],
+ "mesure": "mixte",
+ "nb_pmid": 10,
+ "nb_seuils": 21,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "35193993",
+  "39048521",
+  "37290471",
+  "30614883",
+  "16729309",
+  "27995906",
+  "34166721",
+  "38419854",
+  "31122026",
+  "36727674"
+ ],
+ "preuve_globale": "A",
+ "resume": "FIB-4 = test de première ligne bon marché pour exclure la fibrose avancée, calculé à partir de l'âge, ASAT, ALAT et plaquettes : âge × ASAT / (plaquettes × √ALAT). Méta-analyse de 36 études, 14 992 patients NAFLD sur biopsie : à son seuil bas, sensibilité 69 %, spécificité 64 %, AUC 0,76 pour la…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **FIB-4 = test de première ligne bon marché pour exclure la fibrose avancée**, calculé à partir de l'âge, ASAT, ALAT et plaquettes : âge × ASAT / (plaquettes × √ALAT). Méta-analyse de 36 études, 14 992 patients NAFLD sur biopsie : à son seuil bas, sensibilité 69 %, spécificité 64 %, AUC 0,76 pour la fibrose ≥ F3 [A, méta-analyse, précision moyenne] (PMID 35193993).\n- **Chez le diabétique de type 2, le seuil bas est moins fiable** : sensibilité 0,74, spécificité 0,62, VPN 0,82 au seuil bas (1,3-1,67) ; la VPN passe sous 0,90 si la prévalence de fibrose avancée dépasse 30 % [A, méta-analyse de 12 études, n=5 624, hétérogène] (PMID 39048521).\n- **FIB-4 et élastométrie (LSM-VCTE) prédisent aussi les événements** : sur 2 518 patients NAFLD sur biopsie (25 études, suivi médian 57 mois, 5,8 % d'événements), l'AUC temporelle à 5 ans est de 0,76 pour la LSM, 0,74 pour le FIB-4, 0,70 pour le NFS et 0,72 pour la fibrose histologique [A, méta-analyse de données individuelles] (PMID 37290471). Des tests simples valent la biopsie pour le pronostic dans cette population.\n- **GGT : marqueur de risque cardiovasculaire, pas seulement du foie.** Méta-analyse dose-réponse (23 études, 1 067 922 sujets) : GGT élevée → mortalité CV HR 1,62 (1,47-1,78) ; ALAT → HR 0,87 (0,73-1,07), non significatif [A, méta-analyse d'études de cohorte] (PMID 30614883).\n- **ALAT normale ≠ foie sain** : un score de fibrose peut être élevé avec des transaminases normales (le FIB-4 intègre l'ALAT au dénominateur) ; chiffres de prévalence de fibrose à ALAT normale : non extraits [?].\n- Aucun complément « protecteur du foie » n'est évalué ici [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "| Test | Ce qu'il reflète | Limite principale | Source |\n|---|---|---|---|\n| ALAT / ASAT | Souffrance des hépatocytes (ALAT plus spécifique du foie) | Pas de fibrose ; seuil « normal » variable selon le labo | PMID 30614883 |\n| GGT | Foie / voies biliaires, alcool, médicaments, stress oxydatif | Peu spécifique ; associée à la mortalité CV | PMID 30614883 |\n| FIB-4 | Probabilité de fibrose avancée (âge, ASAT, ALAT, plaquettes) | Zone grise entre seuils ; performances moindres au grand âge et chez le diabétique | PMID 35193993, 39048521 |\n| Élastométrie (VCTE, Fibroscan) | Rigidité du foie (kPa), reflet de la fibrose | Obésité, repas, congestion et inflammation : non relus ici [?] | PMID 37290471 |\n\nDéfinition du FIB-4 : développé à l'origine pour la fibrose chez des patients VIH/VHC (832 patients, AUC 0,765 pour les stades Ishak 4-6, seuils 1,45 et 3,25) [B, étude de développement, population différente] (PMID 16729309) ; son usage en MASLD est une extension validée par les méta-analyses ci-dessus.",
+   "titre": "Ce que mesure chaque test"
+  },
+  {
+   "markdown": "Conversions : enzymes en UI/L (= U/L) ; bilirubine 1 mg/dL = 17,1 µmol/L (1,2 mg/dL ≈ 20 µmol/L) ; Fibroscan en kPa ; plaquettes en G/L (= 10⁹/L) dans le FIB-4. Le « normal » de laboratoire varie selon le réactif, le sexe et l'âge : l'intervalle imprimé sur le compte rendu prime.\n\nDeux familles de seuils, à ne pas mélanger : l'intervalle de référence des laboratoires (large, bâti sur une population générale qui inclut des stéatoses) et la valeur « vraiment normale » des sociétés savantes (plus basse).\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| ALAT | UI/L | 29–33 | ALAT « vraiment normale » : au-dessus, à explorer (limite haute) | Homme | ACG 2016 (PMID 27995906), AASLD 2023 (PMC10735173), consultés le 2026-11-01 |\n| ALAT | UI/L | 19–25 | ALAT « vraiment normale » : au-dessus, à explorer (limite haute) | Femme | ACG 2016 (PMID 27995906), AASLD 2023 (PMC10735173), consultés le 2026-11-01 |\n| ALAT | UI/L | < 50 (3 laboratoires sur 6), < 46 ou < 41 (1 chacun) | Limite haute de laboratoire | Homme | Conseil scientifique du Luxembourg, 2024-11-13, 6 laboratoires, à titre indicatif ; consulté le 2026-11-01 |\n| ALAT | UI/L | < 35 (3 sur 6), < 29 ou < 33 (1 chacun) | Limite haute de laboratoire | Femme | Idem |\n| ASAT | UI/L | < 50 (3 laboratoires sur 6), < 33 ou < 40 | Limite haute de laboratoire | Homme | Idem |\n| ASAT | UI/L | < 35 (3 sur 6), < 27 ou < 32 | Limite haute de laboratoire | Femme | Idem |\n| ALAT | × limite haute du laboratoire | < 2 / 2–5 / 5–15 / > 15 | Perturbation limite / très modérée / modérée / sévère | Adulte | Conseil scientifique du Luxembourg 2024 (reprend DynaMed 2019, non relu) |\n| GGT | UI/L | < 60 (3 laboratoires), < 45–71 selon labo | Limite haute de laboratoire | Homme | Conseil scientifique du Luxembourg 2024, à titre indicatif |\n| GGT | UI/L | < 40 (3 laboratoires), < 36–42 selon labo | Limite haute de laboratoire | Femme | Idem |\n| Phosphatases alcalines | UI/L | 40–129 (5 laboratoires sur 6), 40–150 (1) | Intervalle de laboratoire | Homme | Idem |\n| Phosphatases alcalines | UI/L | 35–104 (5 laboratoires sur 6), 40–150 (1) | Intervalle de laboratoire | Femme | Idem |\n| Bilirubine totale | mg/dL | < 1,2 (4 laboratoires sur 6), < 24 µmol/L (1) | Limite haute de laboratoire | Adulte | Idem |\n| FIB-4 | sans unité | < 1,3 | Faible risque de fibrose avancée : suivi en soins primaires, réévaluation périodique | Adulte < 65 ans | AASLD 2023 (PMC10735173), figure 2 et tableau 5, consulté le 2026-11-01 |\n| FIB-4 | sans unité | 1,3–2,67 | Risque intermédiaire : examen secondaire (élastométrie ou test sanguin spécialisé) | Adulte < 65 ans | Idem |\n| FIB-4 | sans unité | > 2,67 | Risque élevé : orientation hépatologue envisagée | Adulte < 65 ans | Idem (le texte dit « > 2,67 », le tableau 5 « ≥ 2,67 ») |\n| FIB-4 | sans unité | < 2,0 (seuil bas) | Seuil à utiliser à la place de 1,3 après 65 ans | Adulte ≥ 65 ans | AASLD 2023, figure 2 |\n| FIB-4 | sans unité | – | Faible exactitude avant 35 ans | Adulte < 35 ans | AASLD 2023, figure 2 et tableau 5 |\n| Élastométrie (VCTE) | kPa | < 8 | Fibrose avancée improbable | MASLD | AASLD 2023, section élastographie et tableau 5 |\n| Élastométrie (VCTE) | kPa | 8–12 | Zone grise, NASH fibrosante possible | MASLD | Idem |\n| Élastométrie (VCTE) | kPa | > 12 | Fibrose avancée probable | MASLD | Idem |\n| Élastométrie (VCTE) | kPa | ≥ 20 | Cirrhose probable | MASLD | AASLD 2023, tableau 5 |\n\nSeuils pronostiques issus d'études (tag + PMID) : FIB-4 < 1,3 / 1,3–2,67 / > 2,67 et VCTE < 10 / 10 à < 20 / ≥ 20 kPa pour prédire les événements hépatiques sur 2 518 patients [A, méta-analyse de données individuelles] (PMID 37290471) ; le seuil bas du FIB-4 varie de 1,3 à 1,67 selon les études (PMID 39048521). Seuils EASL 2021 (PMID 34166721, résumé général seulement) : non relus [?]. Les valeurs de laboratoire ci-dessus viennent de 6 laboratoires luxembourgeois, pas de laboratoires français : à confirmer sur le compte rendu. Recommandation française (HAS) sur le bilan hépatique : non retrouvée [?]. GGT et bilirubine : seuils de décision non retrouvés [?]. Une fiche à part pour ASAT, phosphatases alcalines et bilirubine n'est pas justifiée : sources de seuils uniquement de laboratoire.",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| FIB-4 pour la fibrose avancée en NAFLD (biopsie) | AUC 0,76 (≥ F3), sens. 69 %, spéc. 64 % au seuil bas | [A] (PMID 35193993) |\n| Idem chez le diabétique T2 | Précision moyenne, VPN insuffisante si prévalence > 30 % | [A, hétérogène] (PMID 39048521) |\n| Autre méta-analyse (86 études, 46 514 sujets MASLD) | FIB-4 AUC 0,81 pour la fibrose avancée, 0,83 pour la cirrhose ; ELF 0,87 ; FibroMeter 0,84 | [A, qualité hétérogène, AUC poolées] (PMID 38419854) |\n| Prédiction d'événements hépatiques et mortalité | LSM-VCTE 0,76, FIB-4 0,74, NFS 0,70, histologie 0,72 (AUC à 5 ans) | [A, IPD] (PMID 37290471) |\n| GGT et mortalité CV | HR 1,62 | [A, cohortes] (PMID 30614883) |\n| GGT et mortalité cardiovasculaire en coronariens | RR 2,04 (CV) ; 1,49 (toutes causes) | [A, méta-analyse d'études observationnelles] (PMID 31122026) |\n\nLecture : toutes ces relations sont des associations pronostiques ou des performances diagnostiques, pas la preuve qu'un changement du marqueur change l'évolution.",
+   "titre": "Ce que dit la preuve"
+  },
+  {
+   "markdown": "- Qui : personnes avec facteurs de risque métaboliques (diabète, obésité, stéatose), consommation d'alcool à risque, hépatite connue. Indications précises (ex. fréquence de contrôle, FIB-4 puis élastométrie séquentiel) : AASLD 2023 (PMID 36727674) et EASL 2021 (PMID 34166721) en parlent ; contenu détaillé non relu [?].\n- Parcours : FIB-4 en première ligne → élastométrie si valeur intermédiaire ou élevée → avis hépatologue. Ce schéma est cohérent avec les performances ci-dessus ; la formulation officielle n'a pas été relue [?].\n- Fréquence de répétition, valeur du suivi sous perte de poids : non recherchées [?].",
+   "titre": "Qui, quand, comment"
+  },
+  {
+   "markdown": "- ALAT/GGT élevées : chercher alcool, médicaments, compléments (extraits concentrés, etc.), stéatose, hépatite virale : bilan médical ; aucune cure maison.\n- FIB-4 intermédiaire/élevé : élastométrie puis avis spécialisé.\n- Leviers de la stéatose (poids, activité, alimentation) : [exercice](fiche:exercice-physique), [alimentation](fiche:alimentation) ; effet chiffré sur ALAT ou fibrose non extrait dans cette fiche [?]. Voir [MASLD](fiche:steatose-hepatique-metabolique-masld).",
+   "titre": "Que faire d'un résultat anormal"
+  },
+  {
+   "markdown": "Examens de biologie (ALAT, ASAT, GGT, NFS plaquettes) prescrits ; FIB-4 se calcule sans examen supplémentaire. Élastométrie (Fibroscan) : acte médical. Remboursement, indications HAS, cotation : non consultés [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Se rassurer avec des ALAT « normales » : elles ne détectent pas la fibrose.\n- Appliquer le FIB-4 sans tenir compte de l'âge et du diabète : la VPN baisse quand la prévalence de fibrose avancée dépasse 30 % (PMID 39048521).\n- Interpréter une GGT isolée comme une maladie du foie : elle prédit aussi le risque CV (PMID 30614883).\n- Croire que l'élastométrie remplace tout : performance diagnostique de la LSM en méta-analyse diagnostique non extraite ici ; seule la valeur pronostique est documentée plus haut [?].",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Détox du foie » / « cure hépatoprotectrice » sans suivi** : aucune donnée retrouvée dans cette recherche [?]. Contre-indication de principe : les compléments peuvent eux-mêmes élever les enzymes (non sourcé ici [?]).\n- **« Mes transaminases sont normales donc mon foie est en bonne santé »** : non démontré ; le FIB-4 ou l'élastométrie voient la fibrose, pas l'ALAT seule (PMID 37290471).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Dans l'IPD de 25 études, le FIB-4 (simple, sans coût) et la LSM-VCTE ont prédit les événements aussi bien que la fibrose histologique (PMID 37290471). Mais l'étude est financée par l'Innovative Medicines Initiative, avec des co-auteurs de l'industrie (Echosens, Novartis, Pfizer) : à lire en connaissance de cause.\n- Le FIB-4 a été conçu pour une autre maladie (VIH/VHC) avant d'être appliqué à la MASLD (PMID 16729309).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "FIB-4 en zone intermédiaire ou haute, LSM élevée, ALAT/GGT durablement élevées, ou diabète avec stéatose : avis hépatologue / médecin. Seuils d'orientation FIB-4 et kPa : voir le tableau (AASLD 2023).",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 35193993 — Han S et al., Accuracy of noninvasive scoring systems in NAFLD: meta-analysis. *Gut Liver* 2022. doi:10.5009/gnl210391\n- PMID 39048521 — Han JW et al., FIB-4 in NAFLD with type 2 diabetes. *Clin Mol Hepatol* 2024. doi:10.3350/cmh.2024.0330\n- PMID 38419854 — López Tórrez SM et al., serological biomarkers for fibrosis in MASLD. *Front Nutr* 2024. doi:10.3389/fnut.2024.1284509\n- PMID 37290471 — Mózes FE et al., non-invasive tests and histology for outcomes in NAFLD: IPD meta-analysis. *Lancet Gastroenterol Hepatol* 2023. doi:10.1016/S2468-1253(23)00141-3\n- PMID 30614883 — Rahmani J et al., Elevated liver enzymes and cardiovascular mortality. *Eur J Gastroenterol Hepatol* 2019. doi:10.1097/MEG.0000000000001353\n- PMID 31122026 — Yang P et al., GGT and mortality in coronary artery disease. *Angiology* 2019. doi:10.1177/0003319719850058\n- PMID 16729309 — Sterling RK et al., FIB-4 development in HIV/HCV coinfection. *Hepatology* 2006. doi:10.1002/hep.21178\n- PMID 36727674 — Rinella ME et al., AASLD Practice Guidance on NAFLD. *Hepatology* 2023 (résumé non disponible ; texte intégral PMC10735173 lu en partie, premiers 100 000 caractères, le 2026-11-01). doi:10.1097/HEP.0000000000000323\n- PMID 27995906 — Kwo PY et al., ACG Clinical Guideline: Evaluation of Abnormal Liver Chemistries. *Am J Gastroenterol* 2017. doi:10.1038/ajg.2016.517\n- Conseil scientifique du domaine de la santé (Luxembourg), « Le bilan biologique hépato-biliaire en médecine générale », version longue, mise à jour du 2024-11-13 (conseil-scientifique.public.lu, consulté le 2026-11-01).\n- PMID 34166721 — EASL Clinical Practice Guidelines on non-invasive tests, 2021 update. *J Hepatol* 2021. doi:10.1016/j.jhep.2021.05.025",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : foie (ALAT, GGT, FIB-4, élastométrie / Fibroscan)",
+ "type": "biomarqueur",
+ "unite": "                # plusieurs marqueurs (UI/L, µmol/L, kPa, FIB-4 sans unité)"
+}

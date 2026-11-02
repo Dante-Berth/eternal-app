@@ -1,0 +1,68 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "medicament",
+ "id": "vaccins-respiratoires-grippe-covid-vrs",
+ "intro": "",
+ "liens": [
+  "vaccin-pneumocoque",
+  "vaccin-zona-shingrix",
+  "vaccins-dtcap-et-hpv-adulte",
+  "vitamine-d"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "29388196",
+  "42476160",
+  "40691108",
+  "36791160",
+  "40245915",
+  "37018468",
+  "39928572",
+  "42684247"
+ ],
+ "preuve_globale": "A",
+ "resume": "Grippe, adulte sain : le vaccin inactivé fait passer la grippe confirmée de 2,3 % à 0,9 % (RR 0,41, 0,36-0,47) ; les syndromes grippaux de 21,5 % à 18,1 % ; hospitalisation 14,7 % vs 14,1 %, RR 0,96 (0,85-1,08), non significatif [A, preuve modérée] (Cochrane). Un bénéfice absolu modeste.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Grippe, adulte sain : le vaccin inactivé fait passer la grippe confirmée de 2,3 % à 0,9 % (RR 0,41, 0,36-0,47) ; les syndromes grippaux de 21,5 % à 18,1 % ; hospitalisation 14,7 % vs 14,1 %, RR 0,96 (0,85-1,08), non significatif [A, preuve modérée] (Cochrane). Un bénéfice absolu modeste.\n- 65 ans et plus : la haute dose réduit l'hospitalisation pour grippe vs dose standard (RR 0,61, 0,50-0,74 ; -4 par 10 000 vaccinés) et l'hospitalisation toute cause (RR 0,97 ; -29 par 10 000) ; mortalité toute cause : probablement pas de différence [A, certitude élevée sur l'hospitalisation].\n- VRS (60 ans et plus) : efficacité de 82,6 % (57,9-94,1) sur les atteintes respiratoires basses confirmées pour RSVPreF3 (Arexvy), 66,7 % (28,8-85,8) pour RSVpreF (Abrysvo) avec 2 symptômes ; seulement 7 vs 40 cas et 11 vs 33 cas : petits effectifs d'événements. Hospitalisation et mortalité : non primaires dans ces essais [B, ECR unique n=24 966 et n=34 284].\n- Covid : méta-analyse du vaccin XBB.1.5 (saison 2023-2024) : efficacité 64,4 % sur l'hospitalisation et 77,3 % sur le décès le premier mois, mais 52,3 % et 69,4 % au 5e mois ; sur l'infection 52,9 % puis 26,7 % [A, observationnel agrégé, biais de confusion probables].\n- Financements : essais VRS par GSK et Pfizer.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Grippe : antigènes d'hémagglutinine réactualisés chaque année ; protection variable selon l'adéquation des souches.\n- Covid : ARNm codant la protéine Spike de la souche courante ; protection contre l'infection brève, plus durable contre les formes graves.\n- VRS : protéine F de pré-fusion (Arexvy avec adjuvant AS01E ; Abrysvo bivalent non adjuvanté ; mRESVIA ARNm).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "### Grippe\n- Adultes sains 16-65 ans : 52 essais, 25 sur le vaccin inactivé parentéral vs placebo ; nombre à vacciner : 71 pour éviter une grippe confirmée, 29 pour un syndrome grippal ; hospitalisation : bénéfice incertain [A, preuve modérée] (PMID 29388196, essais de 1969 à 2009).\n- 65 ans et plus, haute dose vs dose standard : 14 ECR, 581 845 participants ; hospitalisation pour grippe RR 0,61 ; grippe confirmée en laboratoire RR 0,68 (0,58-0,80) ; cardiorespiratoire RR 0,92 (0,86-0,98) ; toute cause RR 0,97 (0,95-0,99) ; mortalité RR 0,98 (non significatif d'après le résumé tronqué) [A] (PMID 42476160). Vaccin standard vs absence de vaccin chez les plus de 65 ans : pas de méta-analyse d'ECR relue ici [?].\n\n### Covid\n- PMID 40691108 : 21 études (53 396 781 participants), saison 2023-2024, efficacité contre le variant JN.1 plus basse (infection 28,3 %, hospitalisation 46,2 %, décès 57,1 %) ; efficacité sur l'hospitalisation chez les plus de 60 ans non inférieure à celle des moins de 60 ans [A, hétérogène, observationnel].\n- Efficacité sur la mortalité toutes causes chez l'adulte en bonne santé : non recherchée [?].\n\n### VRS\n- AReSVi-006, RSVPreF3 OA, 60 ans et plus : atteintes respiratoires basses confirmées 82,6 % (57,9-94,1) ; forme sévère 94,1 % (62,4-99,9) ; infection respiratoire aiguë 71,7 % (56,2-82,3) ; suivi médian 6,7 mois ; événements graves comparables [B, ECR unique n=24 966] (PMID 36791160). Deuxième saison : voir PMID 40245915 (essai randomisé, résumé non relu pour les chiffres) [?].\n- RENOIR, RSVpreF, 60 ans et plus : 66,7 % (28,8-85,8) avec au moins 2 symptômes, 85,7 % (32,0-98,7) avec au moins 3 [B, ECR unique n=34 284] (PMID 37018468) ; deux saisons : 88,9 % puis 77,8 % sur ≥ 3 symptômes [B, ECR unique n=34 284] (PMID 39928572).\n- Hospitalisation et décès par VRS : non critères principaux, non rapportés dans les résumés lus [?].",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "(Santé publique France, vaccination-info-service.fr, consulté le 2026-10-15 ; HAS non consultée directement.)\n- Grippe : chaque année dès 65 ans, personnes à risque, obèses (IMC ≥ 40), femmes enceintes, certains soignants. Pour les 65 ans et plus, Efluelda (haute dose) et Fluad (adjuvanté) préférés. Gratuit avec bon de l'Assurance maladie pour les groupes cibles ; adultes hors cible non remboursés.\n- Covid : rappel annuel d'automne dès 65 ans et personnes à risque ; dose de printemps pour 80 ans et plus, immunodéprimés, résidents d'Ehpad ; intervalle habituel 6 mois (3 mois pour les plus fragiles) ; vaccin ARNm pris en charge à 100 % (SPF).\n- VRS : 1 dose pour les 75 ans et plus, et dès 65 ans avec maladie respiratoire chronique ou cardiaque ; besoin de rappel annuel non établi. Vaccins : Arexvy, Abrysvo, mRESVIA. Arexvy et mRESVIA non remboursés chez l'adulte selon la page ; la page se contredit sur le seuil (70 ou 75 ans) et sur le remboursement de mRESVIA : à vérifier [?].\n- Coadministration grippe, covid, VRS possible sur des sites différents.",
+   "titre": "Recommandations françaises"
+  },
+  {
+   "markdown": "- Grippe : réactions locales très fréquentes, fièvre et myalgies fréquentes, allergie grave très rare. Cochrane : détails des effets indésirables non relus ici [?].\n- Covid : myocardite et péricardite rares (moins de 1 pour 100 000 injections selon SPF) ; douleur locale, céphalée, fatigue, fièvre.\n- VRS : douleur au site, céphalée, myalgie, fatigue ; réactogénicité supérieure au placebo, événements graves et maladies à médiation immune comparables dans AReSVi-006. Signal de syndrome de Guillain-Barré avec les vaccins VRS évoqué dans la littérature récente (non relu : PMID 42684247, JAMA 2026) [?].\n- Contre-indications communes : allergie aux composants ; report en cas de fièvre aiguë.",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- « Le vaccin grippe empêche d'être malade » : il évite environ 1,4 grippe confirmée pour 100 adultes sains sur une saison et n'a pas de bénéfice démontré sur l'hospitalisation chez eux.\n- « Efficace à 80-90 % » (VRS) : vrai sur de rares événements confirmés par PCR, pas sur l'hospitalisation ou la mortalité.\n- Covid : la protection contre l'infection s'effondre en quelques mois ; seul l'effet sur les formes sévères persiste.",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 29388196 — Demicheli V et al., *Cochrane Database Syst Rev* 2018. doi:10.1002/14651858.CD001269.pub6\n- PMID 42476160 — Zhao et al., *Lancet Healthy Longev* 2026\n- PMID 40691108 — Ma et al., *J Microbiol Immunol Infect* 2026\n- PMID 36791160 — Papi A et al., *N Engl J Med* 2023 (GSK)\n- PMID 40245915 — Ison et al., *Lancet Respir Med* 2025 (résumé non relu)\n- PMID 37018468 — Walsh EE et al., *N Engl J Med* 2023 (Pfizer)\n- PMID 39928572 — Walsh EE et al., *Clin Infect Dis* 2026\n- PMID 42684247 — Senerth et al., *JAMA* 2026 (non relu)\n- Web, consulté le 2026-10-15 : vaccination-info-service.fr (Santé publique France), pages Grippe, Covid-19, VRS, Seniors.\n\nVoir aussi : [pneumocoque](fiche:vaccin-pneumocoque), [zona](fiche:vaccin-zona-shingrix), [dTcaP et HPV](fiche:vaccins-dtcap-et-hpv-adulte), [vitamine D](fiche:vitamine-d).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Vaccins respiratoires de l'adulte : grippe, covid, VRS",
+ "type": "actif",
+ "unite": ""
+}

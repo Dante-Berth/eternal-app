@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "fisetine",
+ "intro": "",
+ "liens": [
+  "metformine",
+  "quercetine",
+  "rapamycine",
+  "resveratrol",
+  "spermidine"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "30279143",
+  "38041783",
+  "29541713",
+  "42218768",
+  "41835341",
+  "42633989",
+  "39384074",
+  "36304817"
+ ],
+ "preuve_globale": "C",
+ "resume": "Flavonol des fraises, pommes, oignons, vendu comme « sénolytique » (élimine les cellules sénescentes). Le résultat fondateur est chez la souris : durée de vie médiane et maximale allongées quand elle est donnée tard dans la vie [C] (PMID 30279143).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Flavonol des fraises, pommes, oignons, vendu comme « sénolytique » (élimine les cellules sénescentes). Le résultat fondateur est **chez la souris** : durée de vie médiane et maximale allongées quand elle est donnée tard dans la vie [C] (PMID 30279143).\n- **Contre-épreuve animale** : dans le Interventions Testing Program (souris hétérogènes UM-HET3), la fisétine n'a **pas allongé la durée de vie** dans l'un ou l'autre sexe aux doses testées [C] (PMID 38041783).\n- **Chez l'humain : aucun essai publié ne montre une réduction des cellules sénescentes ni un bénéfice clinique de la fisétine** dans les sources lues. Les essais existants testent des marqueurs inflammatoires, avec des effectifs de 37 à 44 [B] (PMID 29541713, 42218768). Des essais sénolytiques sont enregistrés ou publiés en protocole seulement (PMID 41835341, 42633989).\n- Biodisponibilité orale **très faible** sous forme non formulée (voir ci-dessous).\n- Le « protocole sénolytique » en prises intermittentes (quelques jours par mois) n'a pas de dose validée chez l'humain [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Hypothèse « hit-and-run » : une prise brève élimine les cellules sénescentes qui sécrètent des facteurs inflammatoires (SASP). Dans l'étude fondatrice, la fisétine était la plus puissante de 10 flavonoïdes pour tuer des fibroblastes sénescents en culture ; elle réduisait des marqueurs de sénescence chez la souris (progéroïde et âgée) et dans des explants de tissu adipeux humain [C] chez la souris, [D] en culture (PMID 30279143).\n- Ce qui est démontré chez l'humain pour un sénolytique, c'est D + quercétine (dasatinib, un médicament anticancéreux) sur le tissu adipeux, 9 patients, sans groupe contrôle : voir [quercétine](fiche:quercetine). Rien d'équivalent pour la fisétine seule dans les sources lues [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Contexte | Résultat | Preuve |\n|---|---|---|\n| Durée de vie, souris C57/progéroïdes (étude fondatrice) | amélioration de l'homéostasie tissulaire, baisse de la pathologie liée à l'âge, médiane et maximum de survie augmentés en traitement tardif (PMID 30279143) | [C] |\n| Durée de vie, souris UM-HET3 (ITP) | aucune extension significative de la survie, ni mâles ni femelles, aux doses et au schéma testés (PMID 38041783) | [C] |\n| Cancer colorectal sous chimiothérapie : 100 mg/j, 37 patients, 7 semaines | IL-8 plus bas que sous placebo (p < 0,03) ; hs-CRP et MMP-7 en baisse seulement dans le groupe fisétine vs son état initial ; autres marqueurs sans différence (PMID 29541713) | [B, ECR unique n=37] ; biomarqueurs inflammatoires, pas de critère clinique |\n| Hommes obèses, 200 mg/j, 12 semaines, avec ou sans entraînement (n = 44) | IL-6 en baisse dans le groupe fisétine seul (p = 0,013), TNF-α en baisse, glycémie et HOMA-IR en baisse dans tous les bras actifs, avec le meilleur résultat dans le groupe entraînement + fisétine (PMID 42218768) | [B, ECR n=44, 4 groupes d'environ 11] ; biomarqueurs, pas de critère clinique ; interactions groupe × temps significatives pour IL-6, TNF-α, glycémie, insuline, HOMA-IR |\n| Cellules sénescentes humaines, fragilité, maladies liées à l'âge | protocoles publiés sans résultats : TROFFi (phase II, 88 survivantes d'un cancer du sein, critère principal : test de marche de 6 min ; NCT05595499) et un essai danois à 100 mg/j pendant 7 semaines (critère principal : suPAR plasmatique) (PMID 41835341, 42633989). ClinicalTrials.gov (recherche « fisetin », 2026-10-14) : plus de 20 essais enregistrés (fragilité, insuffisance rénale, sepsis, COVID-19, syndrome du canal carpien, vieillissement vasculaire…), dont plusieurs terminés ou suspendus ; aucun résultat publié retrouvé dans PubMed pour ceux-ci | [?] |\n\nUne revue de 2024 conclut que les données humaines se limitent à des essais de phase I/II et que « la sécurité, la pharmacocinétique et l'efficacité » restent à établir (PMID 39384074).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais humains lus : 100 mg/j (7 semaines), 200 mg/j (12 semaines) (PMID 29541713, 42218768).\n- Pharmacocinétique : chez 15 volontaires, 1 000 mg de fisétine non formulée donnent une Cmax de 9,97 ng/mL ; une formulation brevetée apportant 192 mg de fisétine donne une Cmax 23 fois supérieure et une exposition (ASC 0-12 h) 27 fois supérieure. Étude financée par le fabricant de la formulation [B] (PMID 36304817). Conséquence : les doses des gélules de fisétine « brute » et celles des essais ne sont pas comparables.\n- Les schémas « sénolytiques » en prises ponctuelles espacées, mis en avant dans le discours commercial, s'appuient sur des extrapolations de la souris ; aucun essai ne les valide chez l'humain [M].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "Gélules et poudres de compléments alimentaires, formes « liposomales » ou « hydrogel » (origine de la matière première variable selon les marques : non relevée [?]). Pas de médicament.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- France, substances à but nutritionnel ou physiologique : l'arrêté du 26 septembre 2016 (Légifrance, version en vigueur depuis le 2017-01-01, consulté le 2026-10-14) autorise dans les compléments les substances hors liste restreinte (limitée à caféine, carnitine, créatine, lycopène) « sous réserve qu'elles ne soient pas considérées comme des nouveaux ingrédients » au sens du règlement (CE) 258/97 ; la DGCCRF tient un registre de ces substances, que je n'ai pas pu consulter. La fisétine n'est pas nommée dans l'arrêté.\n- UE, nouvel aliment : la fisétine ne figure pas dans la liste de l'Union (règlement d'exécution (UE) 2017/2470, consolidé 2026-08-10, recherche « fisétine » : aucune occurrence, EUR-Lex/Office des publications, consulté le 2026-10-14). Son caractère de « nouvel ingrédient » (hors usage avant 1997) pour la fisétine isolée ou concentrée n'a pas pu être tranché : catalogue Novel Food en ligne inaccessible (application JavaScript) [?].\n- Allégations : aucune allégation de santé « anti-âge » ou « sénolytique » autorisée trouvée (registre UE, recherche non exhaustive).\n- AMA : la fisétine n'est pas citée dans la Liste des interdictions 2026 (PDF officiel, parcouru par mots-clés, consulté le 2026-10-14).",
+   "titre": "Réglementaire"
+  },
+  {
+   "markdown": "- Essais lus : aucun événement indésirable rapporté dans l'étude pharmacocinétique (PMID 36304817) ; pour les essais cliniques d'efficacité, la tolérance n'est pas détaillée dans les résumés [?].\n- Pas de données de sécurité à long terme, en grossesse, allaitement, ni d'interactions médicamenteuses dans les résumés relus (recherche PubMed « fisetin », 2026-10-14) [?]. Grossesse et allaitement : à éviter par défaut. Par analogie avec d'autres flavonoïdes, des interactions avec les enzymes de métabolisme des médicaments sont possibles, mais **non démontrées pour la fisétine** ici [?].\n- Allergies et réactions croisées selon l'origine végétale du produit : non recherchées [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Prouvé sénolytique chez l'humain »** : aucune étude humaine de la fisétine seule n'a mesuré de cellules sénescentes dans les sources lues [?] ; la souris a donné un résultat positif (PMID 30279143) et un négatif (PMID 38041783).\n- **« Plus puissante que la quercétine »** : vrai dans la comparaison en culture de l'étude fondatrice [D] ; non testé chez l'humain.\n- **« Les fraises ne suffisent pas, prenez 500 mg »** : aucune donnée ne compare l'apport alimentaire à une dose de complément sur un résultat de santé [?].\n- **« Une cure par mois rajeunit »** : aucune donnée sur l'âge biologique ou la mortalité humaine [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit dans ce dépôt. Voir [quercétine (sénolytique avec dasatinib)](fiche:quercetine), [rapamycine](fiche:rapamycine), [metformine](fiche:metformine), [spermidine](fiche:spermidine) et [resvératrol](fiche:resveratrol) pour les autres pistes « anti-âge » et leur niveau de preuve réel.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 30279143, Yousefzadeh et al., « Fisetin is a senotherapeutic that extends health and lifespan », EBioMedicine 2018 (résumé relu).\n- PMID 38041783, Harrison et al., ITP, « Astaxanthin and meclizine extend lifespan in UM-HET3 male mice; fisetin, SG1002, dimethyl fumarate, mycophenolic acid, and 4-phenylbutyrate do not significantly affect lifespan… », Geroscience 2024 (résumé relu).\n- PMID 29541713, Farsad-Naeimi et al., fisétine chez des patients atteints de cancer colorectal, Food Funct 2018 (résumé relu).\n- PMID 42218768, Alipour et al., fisétine, entraînement et Maresin-1 chez des hommes obèses, J Int Soc Sports Nutr 2026 (résumé relu).\n- PMID 36304817, Krishnakumar et al., « Enhanced bioavailability and pharmacokinetics of a novel hybrid-hydrogel formulation of fisetin… », J Nutr Sci 2022 (résumé relu).\n- PMID 39384074, Tavenier et al., « Fisetin as a senotherapeutic agent: Evidence and perspectives for age-related diseases », Mech Ageing Dev 2024 (résumé relu).\n- PMID 41835341, Ji et al., protocole TROFFi, Ther Adv Med Oncol 2026 (résumé relu ; protocole, sans résultats).\n- PMID 42633989, Tavenier et al., protocole d'un essai à faible dose, Basic Clin Pharmacol Toxicol 2026 (résumé relu ; protocole, sans résultats).\n- Réglementaire : arrêté du 26 septembre 2016 ; règlement (UE) 2017/2470 consolidé 2026-08-10 ; Liste AMA 2026 ; consultés le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Fisétine",
+ "type": "actif",
+ "unite": ""
+}

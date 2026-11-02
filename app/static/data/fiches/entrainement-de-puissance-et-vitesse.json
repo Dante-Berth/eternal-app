@@ -1,0 +1,83 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "comportement",
+ "id": "entrainement-de-puissance-et-vitesse",
+ "intro": "Complément de [entrainement-en-resistance.md](fiche:entrainement-en-resistance) (qui laissait « puissance / vitesse chez le sénior » en [?]). Principe : la puissance (force x vitesse) décline plus vite que la force avec l'âge ; on l'entraîne en exécutant la phase concentrique le plus vite possible. Base neurale : [adaptations-neurales-et-force-maximale.md](fiche:adaptations-neurales-et-force-maximale). Contexte système nerveux : [systeme-nerveux-et-vieillissement-musculaire.md](fiche:systeme-nerveux-et-vieillissement-musculaire) ; versant coordination : [entrainement-moteur-cognitif-et-coordination.md](fiche:entrainement-moteur-cognitif-et-coordination). Autres liens : [equilibre-mobilite-et-prevention-chutes.md](fiche:equilibre-mobilite-et-prevention-chutes), [hiit-et-zone-5-vo2max.md](fiche:hiit-et-zone-5-vo2max).",
+ "liens": [
+  "adaptations-neurales-et-force-maximale",
+  "entrainement-en-resistance",
+  "entrainement-moteur-cognitif-et-coordination",
+  "equilibre-mobilite-et-prevention-chutes",
+  "hiit-et-zone-5-vo2max",
+  "systeme-nerveux-et-vieillissement-musculaire"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 17,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "26545362",
+  "36868491",
+  "31505227",
+  "30387072",
+  "27414690",
+  "34618979",
+  "28598910",
+  "41192799",
+  "42660338",
+  "38305252",
+  "34022464",
+  "36035476",
+  "38727944",
+  "42582047",
+  "22659151",
+  "33450731",
+  "41893610"
+ ],
+ "preuve_globale": "A",
+ "resume": "Résistance chez les >= 50 ans : effet petit à modéré sur la puissance des membres inférieurs (d = 0,34 ; 12 ECR) ; la musculation à vitesse élevée > traditionnelle (Δ 0,62 vs 0,20, méta-régression) [A] (PMID 26545362).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Résistance chez les >= 50 ans : effet petit à modéré sur la puissance des membres inférieurs (d = 0,34 ; 12 ECR) ; la musculation à vitesse élevée > traditionnelle (Δ 0,62 vs 0,20, méta-régression) [A] (PMID 26545362).\n- Fonction et risque de chute : le power training améliore le TUG (-0,31 s, p = 0,05) mais le lever de chaise 30 s est non significatif (p = 0,09) [A, effet limite, 6 et 4 études] (PMID 36868491).\n- Exécuter vite vs vitesse modérée sur la capacité fonctionnelle : preuve jugée non concluante (biais de petites études, hétérogénéité) [A, faible certitude] (PMID 31505227).\n- Plyométrie >= 60 ans : faisable, aucun événement indésirable rapporté, mais 12 études, 289 sujets, PEDro moyen 6 [A, synthèse narrative, faible qualité] (PMID 30387072).\n- Sprint vétéran : la force, la vitesse et la puissance en sprint baissent d'environ 1 %/an même chez des sprinters entraînés [B, transversal] (PMID 27414690).\n- Aucun ECR vérifié ne montre une réduction des chutes réelles par le power training seul [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Puissance = force x vitesse ; elle dépend des fibres rapides, du taux de développement de force (RFD) et de la commande neurale (voir [entrainement-en-resistance.md](fiche:entrainement-en-resistance), section fibres de type II).\n- Charge légère exécutée vite : améliore surtout la vitesse et le RFD précoce ; charge lourde : améliore surtout la force maximale. Chez 45 sujets > 65 ans, 12 sem. à 40 % vs 80 % 1RM : le 80 % progresse plus en 1RM et force théorique (ES 0,55-0,68 vs 0,27-0,47), le 40 % plus en vitesse (ES 0,71 vs 0,39, différence non significative) ; seul le 40 % améliore le RFD précoce (<= 100 ms) ; puissance et hypertrophie similaires [B, ECR intra-sujet] (PMID 34618979).\n- Neuromusculaire : 10 sem. de power training chez 12 sujets >= 65 ans augmentent l'EMG (~41 %) qui explique 33 % du gain de force isométrique (~43 %) [B, petit essai non randomisé] (PMID 28598910).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Tag |\n|---|---|---|\n| Puissance jambes, >= 50 ans | d = 0,34 (+54,9 W), vitesse élevée > traditionnelle ; volume modérateur | [A] (PMID 26545362) |\n| Fonction liée aux chutes | TUG -0,31 s (p = 0,05), 30s-STS +1,71 rép. (p = 0,09) | [A, limite] (PMID 36868491) |\n| Vitesse intentionnelle rapide vs modérée (>= 60 ans, 15 études) | avantage global biaisé par publication ; SPPB favorable ; TUG, chaise, marche : pas de différence | [A, faible certitude] (PMID 31505227) |\n| Excentrique vs traditionnel, âgés (11 ECR) | force +0,27 SMD en faveur de l'excentrique ; puissance 0,20 et hypertrophie non significatives | [A] (PMID 41192799) |\n| Surcharge excentrique (volants), âgés | force SMD 0,50, puissance explosive SMD 0,39 (15 ECR, n = 438) ; au moins non inférieur au classique | [A] (PMID 42660338) |\n| Plyométrie, sécurité >= 60 ans | aucune blessure rapportée ; résultats hétérogènes | [A, narratif] (PMID 30387072) |\n| Sauts et densité osseuse (adultes) | col fémoral +1,50 % (jeunes +1,81 %, âgés +1,03 %) ; hanche total et lombaire non significatifs chez les âgés ; ~50 sauts, 4 fois/sem. | [A] (PMID 38305252) |\n| Entraînement à domicile non supervisé, >= 60 ans (21 études, n = 4053) | puissance (sit-to-stand) g = 0,44 ; chutes non modifiées | [A] (PMID 34022464) |\n| Contrôle par la vitesse (VBT) vs charge fixe, adultes 18-40 ans | perte de vitesse faible ou élevée > charge fixe (SMD 0,33 ou 0,12 ou plus) pour force, saut, sprint ; 14 études, 311 sujets ; non transposable aux > 60 ans | [A, jeunes] (PMID 36035476) |\n| Plyométrie, force maximale, footballeurs (jeunes) | force dynamique ES 0,43, isométrique 0,58 ; certitude faible à très faible | [A, faible certitude, jeunes] (PMID 38727944) |\n| Surcharge légère portée (2 % masse), footballeurs | RFD +7,95 %, CMJ +10,97 %, force maximale inchangée ; n = 30 jeunes | [B, jeunes] (PMID 42582047) |\n| Désentraînement 6 sem. après 12 sem. de power training (femmes 65 ans) | perte de 18-24 % de la force, mais seulement 2-4,5 % de la puissance et 2,8 % de la fonction ; tout reste au-dessus du niveau initial | [B, n = 37] (PMID 22659151) |\n| Sprint vétéran : déclin | force, vitesse, puissance en sprint -1 %/an (27 hommes, 39-96 ans) ; puissance du plus âgé ~1/9 de celle de sprinters d'élite jeunes | [B, transversal] (PMID 27414690) |\n| Sprint vétéran : revue narrative | déclin lié à force et à la dégradation neuromusculaire ; recommandations de programmation | [B, revue narrative] (PMID 33450731) |\n| Sprint vétéran : cohorte 10 ans | voir [entrainement-en-resistance.md](fiche:entrainement-en-resistance) (perte de 21 % de force, 9,5 % de puissance de saut) | [B] |\n| Sprint comme intervention chez les non-athlètes > 60 ans | aucun ECR retenu | [?] |\n| Charge et vitesse optimales universelles | non établies ; dépendent de l'objectif (voir 34618979) | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Les méta-analyses ne fixent pas de dose optimale universelle ; le volume modère l'effet (PMID 26545362). Les chiffres ci-dessous sont des ordres de grandeur issus des études citées, pas des prescriptions : 10-12 sem. d'essais, charge 40-80 % 1RM, 2-3 séances/sem. (PMID 34618979, 42660338).\n- Ordre logique : force de base d'abord ([entrainement-en-resistance.md](fiche:entrainement-en-resistance)), puis intention rapide sur charges modérées, puis sauts de faible amplitude. Cette séquence n'est pas validée par un essai comparatif [?].",
+   "titre": "Progression réaliste (synthèse prudente, non protocole médical)"
+  },
+  {
+   "markdown": "- « Vite = beaucoup mieux que lent pour les seniors » : l'avantage fonctionnel n'est pas concluant et biaisé par les petites études (PMID 31505227), même si la puissance elle-même progresse davantage [A] (PMID 26545362).\n- « Le power training prévient les chutes » : amélioration limite de tests de risque (TUG, p = 0,05), pas de chutes mesurées dans ces méta-analyses (PMID 36868491) [A, effet limite]. Aucun ECR de chutes réelles vérifié [?].\n- « Les sauts font gagner de l'os » : oui au col fémoral, mais peu chez les âgés aux autres sites (PMID 38305252) [A].\n- « Sprinter garde les performances à vie » : le déclin d'environ 1 %/an persiste chez les vétérans entraînés (PMID 27414690) [B].\n- Bracelets/gadgets « de puissance » ou compléments « explosivité » : aucune donnée vérifiée ici [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Plyométrie >= 60 ans : aucun événement indésirable dans 12 études, mais petits effectifs et suivi court ; l'absence de signal n'est pas une preuve d'innocuité (PMID 30387072).\n- Tendon : dans les méta-analyses retenues, aucune donnée spécifique aux tendons de l'adulte âgé ; le remodelage tendineux est jugé limité dans une méta-analyse d'ECR excentrique vs concentrique (ES -0,18) [B] (PMID 41893610). Risque de tendinopathie / rupture du tendon d'Achille chez le sprinter vétéran : non sourcé [?].\n- Prudence : arthrose symptomatique, ostéoporose sévère, antécédent de rupture tendineuse, fluoroquinolones récentes (non sourcé [?]), maladie cardiovasculaire non explorée, vertiges.\n- Un trouble de l'équilibre augmente le risque de chute pendant les sauts ; supervision recommandée au début (non sourcé [?]).",
+   "titre": "Sécurité, contre-indications"
+  },
+  {
+   "markdown": "Douleur tendineuse ou articulaire persistante, gonflement, douleur thoracique, syncope, chute, ostéoporose connue, avant de reprendre des impacts après 60 ans ou en cas de pathologie cardiaque.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 26545362 : Straight CR et al., Sports Med 2016, [DOI](https://doi.org/10.1007/s40279-015-0418-4).\n- PMID 36868491 : Jiménez-Lupión D et al., Arch Phys Med Rehabil 2023, [DOI](https://doi.org/10.1016/j.apmr.2023.01.022).\n- PMID 31505227 : da Rosa Orssatto LB et al., Exp Gerontol 2019, [DOI](https://doi.org/10.1016/j.exger.2019.110731).\n- PMID 34618979 : Rodriguez-Lopez C et al., Scand J Med Sci Sports 2021, [DOI](https://doi.org/10.1111/sms.14073).\n- PMID 28598910 : Beijersbergen CMI et al., Med Sci Sports Exerc 2017, [DOI](https://doi.org/10.1249/MSS.0000000000001345).\n- PMID 30387072 : Vetrovsky T et al., Sports Med 2019, [DOI](https://doi.org/10.1007/s40279-018-1018-x).\n- PMID 38305252 : Florence GE et al., J Sports Sci 2024, [DOI](https://doi.org/10.1080/02640414.2024.2312052).\n- PMID 34022464 : Mañas A et al., Ageing Res Rev 2021, [DOI](https://doi.org/10.1016/j.arr.2021.101368).\n- PMID 41192799 : Chaabene H et al., Ageing Res Rev 2025, [DOI](https://doi.org/10.1016/j.arr.2025.102933).\n- PMID 42660338 : Lan C et al., Exp Gerontol 2026, [DOI](https://doi.org/10.1016/j.exger.2026.113305).\n- PMID 41893610 : Maia COP et al., Sports 2026, [DOI](https://doi.org/10.3390/sports14030119).\n- PMID 22659151 : Pereira A et al., Exp Gerontol 2012, [DOI](https://doi.org/10.1016/j.exger.2012.05.014).\n- PMID 27414690 : Pantoja PD et al., Med Sci Sports Exerc 2016, [DOI](https://doi.org/10.1249/MSS.0000000000001039).\n- PMID 33450731 : Pickering C et al., J Aging Phys Act 2021, [DOI](https://doi.org/10.1123/japa.2020-0302).\n- PMID 36035476 : Held S et al., Front Physiol 2022, [DOI](https://doi.org/10.3389/fphys.2022.926972).\n- PMID 38727944 : Sanchez-Sanchez J et al., Sports Med Open 2024, [DOI](https://doi.org/10.1186/s40798-024-00720-w).\n- PMID 42582047 : Tang B et al., Front Physiol 2026, [DOI](https://doi.org/10.3389/fphys.2026.1828654).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Entraînement de puissance et de vitesse (power training, plyométrie, sprint)",
+ "type": "actif",
+ "unite": ""
+}

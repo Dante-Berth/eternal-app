@@ -1,0 +1,85 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "peptide",
+ "id": "bpc-157",
+ "intro": "",
+ "liens": [
+  "recuperation-musculaire",
+  "retatrutide",
+  "tb-500"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 14,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "41754849",
+  "40789979",
+  "40756949",
+  "34324435",
+  "39325560",
+  "40131143",
+  "41476424",
+  "42578445",
+  "40005999",
+  "41155565",
+  "41155566",
+  "30029448",
+  "31758732",
+  "30165334"
+ ],
+ "preuve_globale": "C",
+ "resume": "Effets de cicatrisation tendon/ligament/muscle rapportés de façon « consistante » chez le rat [C]. L'essentiel de cette littérature vient d'un seul groupe (Université de Zagreb, P. Sikirić) : la revue de 2026 qui la synthétise est signée par ce groupe (PMID 41754849).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Effets de cicatrisation tendon/ligament/muscle rapportés de façon « consistante » **chez le rat** [C]. L'essentiel de cette littérature vient d'un seul groupe (Université de Zagreb, P. Sikirić) : la revue de 2026 qui la synthétise est signée par ce groupe (PMID 41754849).\n- Humain : 3 études pilotes sans groupe témoin, toutes issues de la même clinique privée de Floride (12 + 12 + 2 sujets) [B, très faible]. **Aucun essai randomisé, aucune donnée de sécurité clinique sérieuse.**\n- Interdit en permanence par l'AMA (S0) ; l'ANSM a mis en garde nommément contre le BPC-157 vendu en ligne (2026).\n- Marché gris : des analyses de peptides illégaux montrent des puretés de 5 à 75 %, des doses variables, de l'arsenic et du plomb [B, analyses de produits saisis].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- « Cytoprotection » à large spectre ; dans les modèles précliniques : activation de VEGFR2 et de la voie Akt-eNOS (NO), angiogenèse, activité fibroblastique, signalisation ERK1/2, baisse des cytokines inflammatoires [C] (PMID 40789979, 40756949).\n- Aucune de ces voies n'a été montrée chez l'humain [?].",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Tendon, ligament, muscle, jonctions os-tendon (rat) | Amélioration fonctionnelle, structurelle et biomécanique ; voies systémique ou locale | [C] (PMID 41754849, 40756949) |\n| Revue systématique orthopédie 2025 | 36 études incluses : 35 précliniques, 1 clinique ; niveaux IV–V | [C] (PMID 40756949) |\n| Douleur du genou (humain) | Étude rétrospective, 16 patients joints au téléphone ; 11/12 traités par BPC-157 seul se disent nettement améliorés ; aucun outil validé, aucun témoin, suivi variable | [B, très faible, série rétrospective n=12] (PMID 34324435) |\n| Cystite interstitielle (humain) | Pilote ouvert, 12 femmes réfractaires ; 10/12 rapportent une résolution complète, pas d'effet indésirable rapporté ; ni placebo ni aveugle | [B, très faible, série n=12] (PMID 39325560) |\n| Tolérance intraveineuse (humain) | 2 sujets déjà utilisateurs, 3 jours : pas d'anomalie des marqueurs testés | [B, très faible, n=2] (PMID 40131143) |\n| Sécurité humaine à moyen/long terme | Aucune donnée | [?] |\n\nLecture critique :\n- Les 3 études humaines viennent d'une même clinique privée (Lee E et al., *Altern Ther Health Med*), sans affiliation académique indiquée dans PubMed ; critères subjectifs, effet placebo non contrôlé. La revue AJSM 2026 juge que « d'importants défauts méthodologiques et l'absence de témoins » limitent la seule série orthopédique (PMID 41476424).\n- Scoping review AJSM 2026 (6 peptides dont BPC-157) : 67 % des publications sont animales ; bénéfices humains « non étayés » ; ne pas recommander ces peptides en remplacement ou en complément des soins standard (PMID 42578445).\n- Demi-vie < 30 min, métabolisme hépatique, élimination rénale : données précliniques selon la revue systématique [C] (PMID 40756949).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet pour cette fiche : pas de posologie (règle 7). Point utile : le contenu réel d'un flacon du marché gris est inconnu tant qu'il n'a pas été analysé (voir Qualité).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **France** : l'ANSM a publié le 2026-07-02 (mise à jour 2026-08-31) la mise en garde « “Peptides” vendus en ligne : ne les utilisez pas, ils peuvent être dangereux » : « Parmi les produits proposés sans autorisation des autorités sanitaires, on trouve par exemple le rétatrutide, le BP180, le TB500, le GH, le GHK-Cu, le BPC-157, le NAD+, etc. » ; « Ces produits n'ont pas été évalués par les autorités de santé et ne sont pas autorisés » ; « D'autres sont présentés comme des compléments alimentaires, alors que leur action dépasse celle attendue pour ce type de produits » ; « Certaines personnes ont présenté de graves problèmes de santé et ont dû être hospitalisées » (ANSM, consulté le 2026-10-03).\n- **UE** : aucune autorisation trouvée ; la base EMA n'était pas accessible depuis cette session (recherche à refaire).\n- **AMA** : nommé en exemple dans la section **S0 – Substances non approuvées**, interdite en permanence (en et hors compétition) (Liste des interdictions 2026, publiée au JORF par le décret n° 2025-1226 du 15 décembre 2025, en vigueur au 1er janvier 2026, Légifrance, consulté le 2026-10-03). Le PDF de wada-ama.org n'a pas pu être téléchargé depuis cette session ; le texte du décret reproduit la liste officielle.\n- **Détention (France)** : le BPC-157 ne figure pas dans l'arrêté du 18 mars 2026 fixant les substances dont la détention est pénalement sanctionnée (C. sport, art. L232-26 ; NOR SPOV2607658A, JO du 27 mars 2026) (Légifrance, consulté le 2026-10-03). À l'inverse, la thymosine β4/TB-500 y figure ([fiche TB-500](fiche:tb-500)).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Effets indésirables : aucun rapporté dans les 3 pilotes humains, mais effectifs de 2 à 12 sujets, sans recueil systématique [B, très faible]. L'absence de signal ne vaut pas preuve d'innocuité.\n- Risque tumoral : hypothèse fondée sur l'effet pro-angiogénique préclinique, soulevée par une revue indépendante (Józwiak 2025, PMID 40005999) et contestée par le groupe de Zagreb, qui revendique un effet antitumoral chez l'animal (PMID 41155565, réponse PMID 41155566). Aucune donnée humaine [?].\n- Interactions médicamenteuses, grossesse, allaitement, enfants : aucune donnée [?].\n- Effets rapportés à l'ANSM avec des « peptides » achetés en ligne (tous produits confondus, surtout rétatrutide) : nausées, vomissements, atteintes hépatiques, infections au point d'injection, allergies sévères (ANSM, consulté le 2026-10-03). Ces signalements ne sont pas attribués spécifiquement au BPC-157.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- Dix peptides falsifiés les plus fréquents sur le marché belge, achetés sur 3 pharmacies en ligne illégales : forte variation de la quantité par flacon, pureté de 5 à 75 % pour les peptides à cystéine, arsenic inorganique et plomb, certains échantillons jusqu'à 10 fois la limite de toxicité ICH pour la voie parentérale [B, analyse de produits] (PMID 30029448). Le BPC-157 ne faisait pas partie des peptides testés : extrapolation de catégorie, pas mesure directe.\n- Produits « follistatine 344 » du marché noir : seuls 9 sur 17 contenaient la molécule annoncée, d'autres contenaient d'autres peptides (MGF, GHRP-2) [B, analyse de produits] (PMID 31758732).\n- Revue du laboratoire officiel belge : mauvaise molécule, mauvaise dose ou absence de principe actif, contaminants toxiques et impuretés décrits dans les peptides falsifiés (PMID 30165334).\n- Endotoxines : aucune étude PubMed trouvée mesurant les endotoxines dans des flacons de BPC-157 ou de « peptides de recherche » [?] ; risque plausible pour tout injectable fabriqué hors bonnes pratiques, non quantifié.\n- Erreur à connaître : la revue Józwiak 2025 affirme que le BPC-157 « n'est plus listé par l'AMA » (PMID 40005999) ; c'est faux pour la liste 2026 (décret ci-dessus).",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- Diagnostic précis de la lésion (examen, imagerie), rééducation progressive encadrée (kinésithérapie) ; stratégies de récupération mieux étayées : voir [récupération musculaire](fiche:recuperation-musculaire).\n- Options autorisées pour tendinopathies (rééducation en charge, PRP, infiltrations) : non évaluées dans cette fiche [?].\n- Sportif licencié : vérifier auprès de l'AFLD avant tout produit ; un usage de BPC-157 constitue une violation des règles antidopage.\n- Pas de protocole de dosage, de reconstitution ou d'injection (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun : pas de fiche produit pour un injectable non autorisé (règle 7).\n\nVoir aussi : [rétatrutide](fiche:retatrutide).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Matek D, …, Sikiric P, et al. *Pharmaceuticals (Basel)* 2026 — PMID 41754849 — [DOI](https://doi.org/10.3390/ph19020309) (groupe de Zagreb)\n2. Vasireddi N et al. *HSS J* 2025 — PMID 40756949 — [DOI](https://doi.org/10.1177/15563316251355551)\n3. Lee E et al. *Altern Ther Health Med* 2021 — PMID 34324435 (pas de DOI)\n4. Lee E et al. *Altern Ther Health Med* 2024 — PMID 39325560 (pas de DOI)\n5. Lee E et al. *Altern Ther Health Med* 2025 — PMID 40131143 (pas de DOI)\n6. McGuire FP et al. *Curr Rev Musculoskelet Med* 2025 — PMID 40789979 — [DOI](https://doi.org/10.1007/s12178-025-09990-7)\n7. Mayfield CK et al. *Am J Sports Med* 2026 — PMID 41476424 — [DOI](https://doi.org/10.1177/03635465251357593)\n8. Tewari K et al. *Am J Sports Med* 2026 — PMID 42578445 — [DOI](https://doi.org/10.1177/03635465261464420)\n9. Józwiak M et al. *Pharmaceuticals (Basel)* 2025 — PMID 40005999 — [DOI](https://doi.org/10.3390/ph18020185)\n10. Sikiric P et al. (commentaire) 2025 — PMID 41155565 — [DOI](https://doi.org/10.3390/ph18101450) ; réponse Józwiak M et al. — PMID 41155566 — [DOI](https://doi.org/10.3390/ph18101451)\n11. Janvier S et al. *Talanta* 2018 — PMID 30029448 — [DOI](https://doi.org/10.1016/j.talanta.2018.06.023)\n12. Reichel C et al. *Drug Test Anal* 2019 — PMID 31758732 — [DOI](https://doi.org/10.1002/dta.2741)\n13. Janvier S et al. *J Pharm Biomed Anal* 2018 — PMID 30165334 — [DOI](https://doi.org/10.1016/j.jpba.2018.08.037)\n14. ANSM, « “Peptides” vendus en ligne : ne les utilisez pas, ils peuvent être dangereux », 2026-07-02, mis à jour 2026-08-31 — https://ansm.sante.fr/actualites/peptides-vendus-en-ligne-ne-les-utilisez-pas-ils-peuvent-etre-dangereux (consulté le 2026-10-03)\n15. Décret n° 2025-1226 du 15 décembre 2025 (Liste des interdictions 2026) — https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053036083 (consulté le 2026-10-03)\n16. Arrêté du 18 mars 2026 (détention interdite, art. L232-26 C. sport) — https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053723413 (consulté le 2026-10-03)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "BPC-157",
+ "type": "actif",
+ "unite": ""
+}

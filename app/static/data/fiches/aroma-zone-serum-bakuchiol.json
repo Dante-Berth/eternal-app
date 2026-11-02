@@ -1,0 +1,72 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "cosmetique",
+ "id": "aroma-zone-serum-bakuchiol",
+ "intro": "",
+ "liens": [
+  "bakuchiol",
+  "effederm-tretinoine-0-05",
+  "la-roche-posay-retinol-b3-serum",
+  "medik8-crystal-retinal-3",
+  "protection-solaire"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "29947134",
+  "38564402",
+  "38758222",
+  "30644106",
+  "31423588",
+  "42014129",
+  "30610961"
+ ],
+ "preuve_globale": "B",
+ "resume": "Sérum minimaliste (bakuchiol 1 % dans du squalane), vendu en ligne par une marque française, bon marché ; l'actif a une preuve [B] fragile et des cas d'allergie de contact rapportés, donc l'argument « sans irritation » reste à relativiser.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Sérum minimaliste (bakuchiol 1 % dans du squalane), vendu en ligne par une marque française, bon marché ; l'actif a une preuve [B] fragile et des cas d'allergie de contact rapportés, donc l'argument « sans irritation » reste à relativiser.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "- Bakuchiol **1 %** et squalane végétal d'olive, 30 ml, d'après la fiche produit de la marque telle que relayée par un résultat de recherche web le 2026-10-13 (la page marque a renvoyé une erreur 403 à l'accès direct : valeur à reconfirmer sur la page ou l'emballage).\n- INCI, tel que listé par un comparateur d'ingrédients tiers (qui reprend la page marque) et par Que Choisir Ensemble (mise à jour du 22/05/2025) : Squalane, Isosorbide Dicaprylate, Bakuchiol. Liste complète et ordre sur l'emballage non vérifiés [?]. Le communiqué de presse de la marque de novembre 2020 ne mentionnait que squalane et bakuchiol : la formule a donc changé depuis, sans raison documentée [?].\n- Preuve du bakuchiol : un seul essai comparatif direct (44 patients, 12 semaines), bakuchiol **0,5 % deux fois par jour** contre rétinol 0,5 % une fois par jour, résultats comparables sur rides et pigmentation, moins de desquamation [B] (PMID 29947134) ; revue de 15 essais surtout ouverts et à formules combinées, risque de biais élevé [B, faible rigueur] (PMID 38564402) ; grade C dans une revue de cosmécétiques anti-âge (PMID 38758222). Détail : [bakuchiol](fiche:bakuchiol).\n- La concentration de 1 % de ce produit n'a été testée dans aucun des essais cités, et le rythme d'application diffère : aucune preuve ne porte sur ce sérum lui-même [?].\n- Isosorbide dicaprylate, squalane : émollients cosmétiques, aucun effet anti-âge allégué ici.",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "Produit cosmétique (règlement (CE) 1223/2009), vente libre ; pas d'AMM, pas de statut AMA. Nom INCI BAKUCHIOL ; aucune annexe d'interdiction ou de restriction repérée d'après un miroir tiers de CosIng, base officielle non lue : statut officiel non vérifié [?] (voir [bakuchiol](fiche:bakuchiol)). Que Choisir Ensemble ne signale aucun risque identifié pour les trois ingrédients, y compris pour la femme enceinte : c'est un avis de comparateur de consommateurs, pas une donnée de sécurité (voir ci-dessous).",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "Allégations du communiqué de presse de la marque (novembre 2020) : « alternative naturelle au Rétinol », « efficacité prouvée », « stimule la synthèse de collagène, atténue les rides et taches brunes », « aussi efficace que le rétinol » (intertitre), « non irritant », « non photosensibilisant », « très bien toléré par la peau, même sensible » [M]. Page marque actuelle non relue : ces formulations peuvent avoir changé [?].\n- « Aussi efficace que le rétinol » : un seul petit essai de 44 personnes, contre un rétinol faiblement dosé [B] (PMID 29947134) ; le reste de la littérature est ouvert et combiné (PMID 38564402).\n- « Non irritant / sûr » : des cas d'allergie de contact au bakuchiol dans des cosmétiques sont publiés (PMID 30644106, 31423588, 42014129) [B, cas rapportés] ; la marque recommande elle-même un test au pli du coude (d'après le résultat de recherche relayant sa page).\n- « Non photosensibilisant » : la photosensibilité du bakuchiol purifié n'est pas documentée dans les sources lues [?] (voir [bakuchiol](fiche:bakuchiol)). La marque dit avoir purifié le bakuchiol pour éliminer les composés phototoxiques de la plante (psoralène) [M].\n- « Convient à tous, même sensibles » : pas de donnée de sécurité en grossesse chez l'humain [?] ; des effets de type œstrogène sont décrits chez l'animal et en cellules [C] (PMID 30610961), voir [bakuchiol](fiche:bakuchiol).",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Communiqué de la marque (2020) : quelques gouttes avant le soin de jour et/ou de nuit sur visage, contour des yeux et cou, en massant ; utilisable pur ou personnalisé avec d'autres actifs ; conservation d'au moins 6 mois pour le mélange personnalisé (pas la durée de vie du flacon). Précautions sérieuses : test préalable au pli du coude ; arrêt en cas de réaction ; pas d'avis sur la grossesse faute de donnée, demander à un médecin. Protection solaire quotidienne comme pour tout actif de soin : [protection solaire](fiche:protection-solaire).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "Prix : 7,95 € les 30 ml, soit 265 €/l (Aroma-Zone, prix relayé par un résultat de recherche, consulté le 2026-10-13 ; 5,90 € dans le communiqué de 2020). Durée d'un flacon non indiquée ; estimation personnelle de 2 à 3 mois avec quelques gouttes par jour (hypothèse non sourcée) → environ 3 à 4 €/mois. Preuve [B] fragile pour ce prix, donc risque financier faible. Alternative à preuve plus forte : [Effederm 0,05 %](fiche:effederm-tretinoine-0-05) (trétinoïne [A], 3,39 €, ordonnance, plus irritante, contre-indiquée en grossesse) ; sans ordonnance : [Medik8 Crystal Retinal 3](fiche:medik8-crystal-retinal-3) ou [La Roche-Posay Rétinol B3](fiche:la-roche-posay-retinol-b3-serum), preuve [B] aussi mais plus chers. Aucun essai ne compare le bakuchiol à la trétinoïne [?].",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Des blogs de test existent (non lus) ; aucun avis consommateur n'a été relu pour cette fiche [?].",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Aroma-Zone, « Sérum concentré Bakuchiol » — [fiche produit](https://www.aroma-zone.com/info/fiche-technique/serum-concentre-bakuchiol-aroma-zone) (accès direct bloqué, contenu relayé par recherche web ; consultée le 2026-10-13)\n- Aroma-Zone, communiqué de presse novembre 2020 — [PDF](https://www.ecolomag.fr/wp-content/uploads/2020/12/SCOOP-BEAUTE-AROMA-ZONE-LANCE-SON-SERUM-ULTRA-CONCENTRE-AU-BAKUCHIOL_compressed.pdf) (hébergé par Ecolomag ; consulté le 2026-10-13)\n- Que Choisir Ensemble, composition Aroma-Zone sérum bakuchiol — [page](https://www.quechoisir.org/comparatif-ingredients-indesirables-n941/aroma-zone-serum-bakuchiol-pi1716920/) ; INCI Decoder (Inkee), Aroma Zone Bakuchiol Serum — [page](https://inkeedecoder.com/products/aroma-zone-bakuchiol-serum) (consultées le 2026-10-13)\n- Références cliniques (PMID 29947134, 38564402, 38758222, 30644106, 31423588, 42014129, 30610961) : voir [bakuchiol](fiche:bakuchiol)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "cosmetique",
+ "titre": "Sérum concentré Bakuchiol (Aroma-Zone)",
+ "type": "produit",
+ "unite": ""
+}

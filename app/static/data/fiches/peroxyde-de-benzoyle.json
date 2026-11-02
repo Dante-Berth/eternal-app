@@ -1,0 +1,81 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "medicament",
+ "id": "peroxyde-de-benzoyle",
+ "intro": "",
+ "liens": [
+  "acide-azelaique",
+  "aha-bha",
+  "cutacnyl-peroxyde-de-benzoyle-5",
+  "differine-adapalene-0-1",
+  "epiduo-adapalene-peroxyde-0-1-2-5",
+  "protection-solaire",
+  "retinoides"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 10,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "33825196",
+  "38943431",
+  "12069641",
+  "41657327",
+  "19761357",
+  "42592775",
+  "37941097",
+  "32175593",
+  "41552868",
+  "41853869"
+ ],
+ "preuve_globale": "A",
+ "resume": "Antibactérien topique de référence de l'acné légère à modérée, en monothérapie ou associé à l'adapalène ou à la clindamycine.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Antibactérien topique de référence de l'acné légère à modérée, en monothérapie ou associé à l'adapalène ou à la clindamycine.\n- Réseau de 40 essais, 18 089 participants : contre véhicule, le peroxyde de benzoyle améliore l'acné ressentie (35 % contre 26 %) ; l'association adapalène + peroxyde est classée la plus efficace (54 % contre 35 % sous véhicule), clindamycine + peroxyde ensuite (49 %) ; **confiance globale faible** [A, faible certitude] (PMID 33825196).\n- Réseau de 35 essais, 33 472 participants (≥ 12 semaines) : adapalène-peroxyde, clindamycine-peroxyde et clindamycine-trétinoïne réduisent le plus les lésions ; la plupart des monothérapies ne diffèrent pas entre elles ; ajouter de la clindamycine n'aide pas pour les lésions non inflammatoires (peroxyde seul : RoM 1,15 ; 0,98-1,36 pour l'association) [A] (PMID 38943431).\n- Les retraits pour effets indésirables sont rares : 1,6 % sous peroxyde, 2,5 % avec adapalène, 2,7 % avec clindamycine (PMID 33825196).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Antibactérien oxydant : d'après une revue de 2002 sur l'association clindamycine-peroxyde, ses intermédiaires oxydés interagissent avec des éléments des cellules bactériennes, et il diminue la libération d'espèces réactives de l'oxygène par les polynucléaires neutrophiles « par leur destruction » [D, mécanisme proposé] (PMID 12069641). Mécanisme non relu dans des études primaires.\n- Résistance bactérienne : sur 182 isolats de *C. acnes* de patients, la résistance à la clindamycine est de 22,9 % dans le groupe clindamycine + peroxyde contre 46,7 % sous clindamycine seule ; in vitro, aucune souche résistante n'apparaît sous l'association [B, observationnel] (PMID 41657327).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Acné légère à modérée, vs véhicule | Amélioration ressentie 35 % vs 26 % | [A, faible certitude] (PMID 33825196) |\n| Association adapalène-peroxyde | 54 % vs 35 % (véhicule) ; plus de retraits (2,5 %) | [A, faible certitude] (PMID 33825196) |\n| Lésions inflammatoires et non inflammatoires | Adapalène-peroxyde, clindamycine-peroxyde et clindamycine-trétinoïne en tête ; peroxyde seul égal aux autres monothérapies | [A] (PMID 38943431) |\n| Acné modérée à sévère, acné du dos | Non recherchés | [?] |\n| Résistance bactérienne (association avec la clindamycine) | Résistance à la clindamycine 22,9 % (association) vs 46,7 % (clindamycine seule) sur 182 isolats ; aucune souche résistante in vitro sous association | [B, observationnel] (PMID 41657327) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Une revue narrative conclut à une efficacité égale à 2,5, 5 et 10 %, avec une dermite irritante dépendante de la concentration aux plus fortes teneurs [B, revue narrative] (PMID 19761357). Une revue systématique de 111 articles trouve une efficacité comparable à 2,5 % et à 5 % [B, hétérogène] (PMID 42592775). Les teneurs de chaque essai du réseau cité plus haut ne sont pas extraites des résumés lus. Un essai sur une crème à l'acide salicylique n'a pas trouvé d'infériorité face au peroxyde 5 % (voir [AHA et BHA](fiche:aha-bha), PMID 37941097).",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Gels, crèmes et lotions ; associations fixes avec l'adapalène ou la clindamycine.\n- **France : médicament sur ordonnance.** Cutacnyl 2,5 %, 5 % et 10 % (Galderma) : indication « acné vulgaire », liste II, sur ordonnance uniquement, remboursable à 30 %, AMM valide (BDPM, fiches Cutacnyl, consulté le 2026-10-13 ; RCP du 25/04/2017). La Commission de la transparence a rendu le 2026-01-28 un avis sur une demande de radiation déposée pour ces trois spécialités et a maintenu ses conclusions de 2019, faute de données cliniques fournies par le laboratoire (HAS, consulté le 2026-10-13) ; la portée exacte de cette radiation (remboursement ou commercialisation) n'est pas précisée sur la page lue, vérifier la disponibilité en pharmacie.\n- Association adapalène 0,1 % / peroxyde 2,5 % (Epiduo, Galderma) : liste I, sur ordonnance uniquement, non remboursée (SMR modéré, ASMR V), AMM valide ; **contre-indiquée pendant la grossesse et en cas de projet de grossesse** (BDPM, consulté le 2026-10-13 ; RCP du 21/10/2024).\n- Peroxyde de benzoyle seul en vente libre (cosmétique ou OTC) en France : non vérifié dans la BDPM [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Retraits dus aux effets indésirables bas dans le réseau de 40 essais (PMID 33825196). Dans la revue Cochrane (120 essais), le risque d'arrêt pour effet indésirable est plus élevé que sous placebo (RR 2,13 ; IC 95 % 1,55-2,93 ; 24 essais, 13 744 participants), surtout pour érythème, prurit et brûlure, qui relèvent de la tolérance plutôt que de la sécurité [A, faible certitude] (PMID 32175593). Effets les plus fréquents : sécheresse, irritation, dermite, érythème, douleur d'application, prurit (même source). La revue 2026 ajoute le blanchiment cutané et ne trouve pas d'association avec la benzénémie ni le risque de cancer [B, hétérogène] (PMID 42592775).\n- Allergie : dans une étude ouverte de 6 mois sous triple association contenant du peroxyde (50 participants), 3 arrêts pour allergie au peroxyde (2) ou dermite irritante (1) [B] (PMID 41552868).\n- Libellé officiel (RCP Cutacnyl, BDPM, consulté le 2026-10-13) : sécheresse, rougeur, desquamation et brûlure très fréquentes ; photosensibilité et allergie de contact de fréquence inconnue ; contre-indication : hypersensibilité au peroxyde ou à un excipient ; le gel peut décolorer cheveux, ongles et textiles ; l'exposition solaire majore l'irritation.\n- Grossesse et allaitement (RCP Cutacnyl, BDPM, consulté le 2026-10-13) : utilisation pendant la grossesse seulement si nécessaire ; allaitement avec prudence, sans application sur la poitrine. Le RCP mentionne l'absence d'effet sur la reproduction chez l'animal et l'absence d'effet associé à l'usage courant chez l'humain. Cette dernière ligne est une allégation du RCP, non relue dans une étude. Pour l'association avec l'adapalène : contre-indiquée (voir ci-dessus).\n- Association avec les rétinoïdes : irritation accrue avec l'association adapalène-peroxyde dans la revue 2026 [B, hétérogène] (PMID 42592775).\n- Associer à la [protection solaire](fiche:protection-solaire) reste la règle générale d'un soin d'acné irritant.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Il faut un produit complexe » : les monothérapies ne diffèrent pas entre elles ; les associations gagnent, mais l'ajout de clindamycine est inutile pour les comédons (PMID 38943431).\n- « Les probiotiques font aussi bien » : 5 RCT, 332 patients, aucune réduction significative des lésions face au placebo ou au peroxyde (PMID 41853869).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- [Cutacnyl 5 %](fiche:cutacnyl-peroxyde-de-benzoyle-5) : peroxyde seul, ordonnance, 3,16 € remboursé à 30 %.\n- [Epiduo 0,1 %/2,5 %](fiche:epiduo-adapalene-peroxyde-0-1-2-5) : association adapalène + peroxyde, prix libre non remboursé.\n- Association libre possible avec [Différine adapalène 0,1 %](fiche:differine-adapalene-0-1).\n\nVoir aussi : [rétinoïdes](fiche:retinoides), [AHA et BHA](fiche:aha-bha), [acide azélaïque](fiche:acide-azelaique).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Stuart B et al. *Br J Dermatol* 2021 — PMID 33825196 — [DOI](https://doi.org/10.1111/bjd.20080)\n2. Kakpovbia EE et al. *J Eur Acad Dermatol Venereol* 2025 — PMID 38943431 — [DOI](https://doi.org/10.1111/jdv.20154)\n3. Abedin ZU et al. *J Cosmet Dermatol* 2026 — PMID 41853869 — [DOI](https://doi.org/10.1111/jocd.70792)\n4. Dal Belo SE et al. *J Cosmet Dermatol* 2024 — PMID 37941097 (voir [AHA et BHA](fiche:aha-bha))\n5. Warner GT, Plosker GL. *Am J Clin Dermatol* 2002 — PMID 12069641 — [DOI](https://doi.org/10.2165/00128071-200203050-00007)\n6. Yoshihara K et al. *J Dermatol* 2026 — PMID 41657327 — [DOI](https://doi.org/10.1111/1346-8138.70170)\n7. Sagransky M et al. *Expert Opin Pharmacother* 2009 — PMID 19761357 — [DOI](https://doi.org/10.1517/14656560903277228)\n8. Lim AXH et al. *Clin Exp Dermatol* 2026 — PMID 42592775 — [DOI](https://doi.org/10.1093/ced/llag357)\n9. Yang Z et al. *Cochrane Database Syst Rev* 2020 — PMID 32175593 — [DOI](https://doi.org/10.1002/14651858.CD011154.pub2)\n10. Draelos ZD et al. *J Dermatolog Treat* 2026 — PMID 41552868 — [DOI](https://doi.org/10.1080/09546634.2026.2612873)\n11. BDPM, « CUTACNYL 2,5 POUR CENT / 5 POUR CENT / 10 POUR CENT, gel » — https://base-donnees-publique.medicaments.gouv.fr/medicament/60809088/extrait ; https://base-donnees-publique.medicaments.gouv.fr/medicament/64600787/extrait ; https://base-donnees-publique.medicaments.gouv.fr/medicament/69643899/extrait (consulté le 2026-10-13)\n12. BDPM, « EPIDUO 0,1 %/2,5 %, gel » — https://base-donnees-publique.medicaments.gouv.fr/medicament/60972530/extrait (consulté le 2026-10-13)\n13. HAS, Commission de la transparence, avis Cutacnyl du 2026-01-28 — https://www.has-sante.fr/jcms/p_3859374/fr/cutacnyl-peroxyde-de-benzoyle-acne (consulté le 2026-10-13)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Peroxyde de benzoyle (acné)",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,82 @@
+{
+ "cibles": [
+  "cerveau",
+  "sante-mentale"
+ ],
+ "derniere_maj": "2026-10-12",
+ "famille": "peptide",
+ "id": "selank-et-semax",
+ "intro": "",
+ "liens": [
+  "anxiete",
+  "bpc-157",
+  "epitalon"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 10,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "18454096",
+  "25176261",
+  "29798983",
+  "26924987",
+  "28293190",
+  "30255741",
+  "40692165",
+  "26356395",
+  "42021992",
+  "16634437"
+ ],
+ "preuve_globale": "B",
+ "resume": "Deux peptides synthétiques développés en Russie : Selank (heptapeptide présenté comme anxiolytique ; parenté avec la tuftsine : non relue ici) et Semax (analogue d'un fragment de l'ACTH, présenté comme neuroprotecteur et nootrope). Vendus en ligne comme « boosters cognitifs » ou « sans effet séda…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Deux peptides synthétiques développés en Russie : **Selank** (heptapeptide présenté comme anxiolytique ; parenté avec la tuftsine : non relue ici) et **Semax** (analogue d'un fragment de l'ACTH, présenté comme neuroprotecteur et nootrope). Vendus en ligne comme « boosters cognitifs » ou « sans effet sédatif ». Non autorisés en France à notre connaissance.\n- **Toutes les données cliniques trouvées sont russes, petites et publiées dans une seule revue russe** (*Zhurnal Nevrologii i Psikhiatrii*) : ni essai occidental indépendant, ni méta-analyse, ni réplication [B, faible]. Je ne les tiens pas pour probantes.\n- Selank : comparé à des benzodiazépines (médazépam, phénazépam) dans des troubles anxieux, avec des effets anxiolytiques annoncés comparables sur 60 à 62 patients, sans détail de randomisation ni de double aveugle dans les résumés (PMID 18454096, PMID 25176261) [B, petits essais].\n- Semax : étude chez 110 patients après AVC ischémique, critères de substitution (BDNF plasmatique) et score de Barthel annoncés meilleurs avec Semax ; groupes non clairement randomisés dans le résumé (PMID 29798983) [B, essai ouvert probable].\n- Chez l'humain sain (« nootropique »), amélioration de la mémoire ou de la concentration : aucune donnée trouvée [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Selank : modulation de l'expression de gènes de la transmission GABAergique dans des cellules en culture (PMID 26924987, PMID 28293190) [D] ; revue sur ses cibles moléculaires (PMID 30255741) [D]. Semax : promoteur de la récupération après lésion de la moelle chez la souris via le gène du récepteur μ-opioïde (PMID 40692165) [C]. Un lien avec les récepteurs du système mélanocortine est avancé dans la littérature russe ; non relu ici [?].",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Anxiété généralisée et neurasthénie | Selank (30 patients) contre médazépam : effets anxiolytiques « similaires », plus effet anti-asthénique ; 62 patients au total | [B, petit essai, Russie] (PMID 18454096) |\n| Troubles anxieux phobiques et somatoformes | Selank contre phénazépam, 60 patients : effet anxiolytique « prononcé » et nootropique léger, persistant une semaine après l'arrêt | [B, petit essai, Russie] (PMID 25176261) |\n| Troubles anxieux (Selank + phénazépam) | 40 patients Selank + phénazépam contre 30 sous phénazépam seul : effet de la benzodiazépine plus précoce, moins d'effets indésirables à l'arrêt | [B, petit essai, Russie] (PMID 26356395) |\n| AVC ischémique (récupération) | Semax : BDNF plasmatique plus haut, amélioration de l'indice de Barthel ; 110 patients, 2 cures | [B, essai non clairement randomisé] (PMID 29798983) |\n| Humeur, cognition du sujet sain, vieillissement | Revue 2026 des peptides en gérontologie : Semax cité comme neuroprotecteur, preuves principalement précliniques ou en essais non grands | [?] (PMID 42021992) |\n| Efficacité contre placebo en double aveugle, essais en Europe ou aux États-Unis | Aucun trouvé | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet (règle 7 : pas de posologie). Formes vendues en ligne, teneur réelle et pureté inconnues sans analyse.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Autorisation en Russie sous forme de gouttes nasales ou d'injection : annoncée dans la littérature russe, non vérifiée par une source officielle [?]. Aucune autorisation en France ou dans l'UE trouvée ; ANSM, BDPM, EMA : non consultées pour ces molécules [?]. La page ANSM sur les « peptides » vendus en ligne (2026-08-31, consultée le 2026-10-11) ne cite pas Selank ni Semax.\n- AMA : non recherché [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Effets indésirables des essais russes : non extraits des résumés lus ; seul l'essai combiné rapporte moins d'effets de la benzodiazépine avec le Selank (PMID 26356395). Sécurité à long terme, interactions, grossesse : aucune donnée trouvée [?].\n- Le Semax est un fragment de l'ACTH : conséquences hormonales (axe du cortisol) chez l'humain non évaluées dans les sources lues [?].\n- Des analyses d'anticoagulation avec ces peptides existent dans la littérature russe (PMID 16634437) ; pertinence clinique non relue [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Risques génériques des peptides vendus sans autorisation : sous-dosage, mauvaise molécule, contamination, endotoxines (ANSM, 2026). Analyse de produits Selank ou Semax : aucune trouvée [?].",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- Anxiété : [TCC et traitements autorisés](fiche:anxiete) ; la comparaison avec une benzodiazépine dans les essais russes ne remplace pas les recommandations (les benzodiazépines sont à éviter au long cours).\n- Récupération après AVC : rééducation précoce, suivi neurologique.\n- Mémoire et concentration : sommeil, activité physique, bilan d'une cause médicale ; voir [cerveau](../../vues/themes/cerveau.md).\n- Pas de protocole de dosage, de reconstitution ou d'administration, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).\n\nVoir aussi : [épitalon](fiche:epitalon), [BPC-157](fiche:bpc-157), [anxiété](fiche:anxiete).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Zozulia AA et al. *Zh Nevrol Psikhiatr Im S S Korsakova* 2008 — PMID 18454096 (résumé en anglais, article en russe)\n2. Medvedev VE et al. *Zh Nevrol Psikhiatr Im S S Korsakova* 2014 — PMID 25176261\n3. Medvedev VE et al. *Zh Nevrol Psikhiatr Im S S Korsakova* 2015 — PMID 26356395 — [DOI](https://doi.org/10.17116/jnevro20151156133-40)\n4. Gusev EI et al. *Zh Nevrol Psikhiatr Im S S Korsakova* 2018 — PMID 29798983 — [DOI](https://doi.org/10.17116/jnevro20181183261-68)\n5. Volkova A et al. *Front Pharmacol* 2016 — PMID 26924987 ; Filatova E et al. *Front Pharmacol* 2017 — PMID 28293190 ; Vyunova TV et al. *Protein Pept Lett* 2018 — PMID 30255741 (cellules en culture, revue) : résumés relus partiellement.\n6. Liu R et al. *Br J Pharmacol* 2025 — PMID 40692165 (souris).\n7. Mavrych V et al. *Front Aging* 2026 — PMID 42021992 — [DOI](https://doi.org/10.3389/fragi.2026.1790247) (revue narrative, 20 sources).\n8. PMID 16634437 (Liapina LA et al., *Izv Akad Nauk Ser Biol* 2006) : titre vérifié, résumé non relu.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "Selank et Semax (peptides « nootropiques » russes)",
+ "type": "actif",
+ "unite": ""
+}

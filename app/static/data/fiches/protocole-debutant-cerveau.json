@@ -1,0 +1,42 @@
+{
+ "cibles": [
+  "cerveau"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "",
+ "id": "protocole-debutant-cerveau",
+ "intro": "Classé par rapport preuve/coût. Chaque étape renvoie à sa fiche.\n\n1. **Exercice régulier** [A] — [fiche](fiche:exercice-physique). Meilleure preuve (PMID 40049759, 41016407).\n2. **Ajouter un entraînement cognitif à stratégies** [A] — meilleur combo avec l'exercice (SMD 0,26, PMID 41016407). Pas de preuve ici que ça transfère à la vie quotidienne ou à l'incidence de démence.\n3. **Dormir correctement** — [fiche](fiche:sommeil). Preuve causale : [?].\n4. **Caféine uniquement pour compenser une nuit courte** [A], évitée tard — [fiche](fiche:cafeine).\n5. **Alimentation de type méditerranéen, peu d'ultra-transformés** [B] — [fiche](fiche:alimentation-cerveau). Observationnel : à faire pour la santé globale, sans promesse sur les neurones.\n6. **Compléments (créatine, oméga-3) : optionnels, effet petit/fragile** [A, fragile] — [créatine](fiche:creatine), [oméga-3](fiche:omega-3). Ne remplacent pas 1–2. Doses non rédigées ici.\n\nÀ éviter : alcool « pour le cerveau » (association observationnelle seulement) ; vitamines B « pour le cerveau » après AVC (effet négatif en méta-analyse, PMID 40355028).\n\nCondition associée : [déclin cognitif](fiche:declin-cognitif-et-neurodegenerescence).",
+ "liens": [
+  "alimentation-cerveau",
+  "cafeine",
+  "creatine",
+  "declin-cognitif-et-neurodegenerescence",
+  "exercice-physique",
+  "omega-3",
+  "sommeil"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "40049759",
+  "41016407",
+  "40355028"
+ ],
+ "preuve_globale": "A",
+ "resume": "Classé par rapport preuve/coût. Chaque étape renvoie à sa fiche.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Chaque étape renvoie à sa fiche sourcée. PMID cités ici : 40049759, 41016407, 40355028.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Protocole débutant — cerveau",
+ "type": "protocole",
+ "unite": ""
+}

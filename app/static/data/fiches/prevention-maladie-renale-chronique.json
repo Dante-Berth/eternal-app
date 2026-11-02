@@ -1,0 +1,94 @@
+{
+ "cibles": [
+  "prevention",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "prevention-maladie-renale-chronique",
+ "intro": "La maladie rénale chronique (MRC) est silencieuse jusqu'à un stade avancé et augmente le risque cardiovasculaire. La prévention passe par le contrôle de la tension et de la glycémie, l'évitement des médicaments toxiques pour le rein (AINS en tête) et le dépistage ciblé par créatinine + albuminurie. Voisines : [tension artérielle](fiche:tension-arterielle), [glycémie et prédiabète](fiche:glycemie-et-prediabete), [ApoB, lipides et statines](fiche:apob-lipides-et-statines), [prévention de l'AVC et de l'infarctus](fiche:prevention-avc-et-infarctus), [bilans biologiques](fiche:bilans-biologiques).",
+ "liens": [
+  "apob-lipides-et-statines",
+  "bilans-biologiques",
+  "biomarqueur-ionogramme-calcium-magnesium",
+  "glycemie-et-prediabete",
+  "prevention-avc-et-infarctus",
+  "tabac-et-alcool",
+  "tension-arterielle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 10,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "27383068",
+  "37787795",
+  "39412516",
+  "36351458",
+  "38186904",
+  "38213490",
+  "38299045",
+  "38490803",
+  "40902616",
+  "40876867"
+ ],
+ "preuve_globale": "A",
+ "resume": "Prévalence mondiale estimée à 13,4 % (stades 1-5) et 10,6 % (stades 3-5), surtout stade 3 [B, revue d'études observationnelles de qualité diverse] (PMID 27383068).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Prévalence mondiale estimée à 13,4 % (stades 1-5) et 10,6 % (stades 3-5), surtout stade 3 [B, revue d'études observationnelles de qualité diverse] (PMID 27383068).\n- Un DFGe plus bas et une albuminurie plus haute sont chacun associés à plus de mortalité, d'événements CV et d'hospitalisations, y compris dans les formes légères (méta-analyse de 114 cohortes) [A, études observationnelles] (PMID 37787795).\n- Dépistage recommandé par l'Assurance Maladie pour les personnes à facteurs de risque (diabète, obésité, HTA, maladie CV, prise prolongée de médicaments néphrotoxiques…) : créatinine (DFG) + albuminurie, une fois par an (ameli.fr, consulté le 2026-10-15).\n- AINS au long cours : association à l'apparition et à la progression de la MRC (HR 1,50 poolé, très hétérogène) [B, observationnel] (PMID 39412516).\n- Inhibiteurs de SGLT2 (en traitement, pas en prévention de population) : progression de la maladie rénale RR 0,63, avec ou sans diabète [A] (PMID 36351458).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Les deux causes principales de MRC sont l'hypertension et le diabète (ameli.fr, consulté le 2026-10-15) : l'excès de pression et de glucose abîme les petits vaisseaux du glomérule. Les AINS réduisent le flux sanguin rénal en bloquant les prostaglandines [?] (mécanisme non sourcé ici). Un DFGe bas n'est pas qu'un marqueur rénal : il prédit des événements CV (PMID 37787795).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "- **Test** : prise de sang (créatinine, donc DFGe) + analyse d'urine (albuminurie et créatininurie, sur un échantillon à n'importe quelle heure) ; l'ameli indique un dépistage annuel pour les personnes à risque, qui permet de retarder l'évolution (ameli.fr, page « Prévenir et dépister la maladie rénale chronique » du 8 janvier 2025, consulté le 2026-10-15).\n- **Population ciblée selon l'ameli** : diabète, obésité, maladie cardiovasculaire (HTA, insuffisance cardiaque, athérome), maladie auto-immune, maladie urologique ou épisode d'insuffisance rénale aiguë, MRC dans la famille, exposition professionnelle toxique (plomb, cadmium, mercure) ou à des produits de contraste iodés, prise prolongée de médicaments toxiques pour les reins (AINS, chimiothérapie).\n- Dépistage par bandelette urinaire à la médecine du travail (ameli.fr, même page).\n- Dépistage de **toute la population générale** : non recommandé dans les sources lues ici ; les revues de coût-efficacité de 2024 (PMID 38186904, 38213490, 38299045) n'ont pas été lues en détail [?].\n- **Guideline de référence** : KDIGO 2024 (PMID 38490803), titre vérifié, texte non lu ici : les seuils de classification (G/A) ne sont pas repris [?]. Guide HAS « parcours de soins MRC de l'adulte » (2023) cité par l'ameli : non consulté directement.",
+   "titre": "Qui dépister, avec quoi"
+  },
+  {
+   "markdown": "| Levier | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Contrôler la tension | réduit la pression glomérulaire | cible intensive : bénéfice net positif y compris sur les événements rénaux [A, analyse post hoc] (PMID 40902616) | médicament sur ordonnance | non recherché |\n| Contrôler la glycémie | diminue l'atteinte microvasculaire | association [B] ; voir [glycémie et prédiabète](fiche:glycemie-et-prediabete) | variable | — |\n| Inhibiteurs de SGLT2 | hémodynamique glomérulaire (non détaillé) | 13 ECR, 90 409 participants : progression de la maladie rénale RR 0,63 (0,58-0,69) ; lésion rénale aiguë RR 0,77 ; décès CV ou hospitalisation IC RR 0,77 ; effets similaires avec ou sans diabète [A] (PMID 36351458) | médicament sur ordonnance, indication exacte non consultée (BDPM) [?] | non recherché |\n| Éviter les AINS au long cours | évite la baisse du flux rénal | [B, observationnel] (PMID 39412516) | AINS : médicament, certains sans ordonnance | — |\n| Arrêt du tabac, alimentation, activité, poids | diminution des facteurs de risque | liste de l'ameli (consulté le 2026-10-15) ; effet rénal chiffré non recherché [?] | non applicable | 0 |",
+   "titre": "Traitements et leviers classés par niveau de preuve"
+  },
+  {
+   "markdown": "- **AINS au long cours** : méta-analyse de 40 études (1 757 118 personnes), observationnelles : OR 1,24 (1,11-1,39) pour la survenue de MRC, HR 1,50 (1,31-1,7) pour la survenue ou la progression ; HR 1,31 sans MRC de départ, HR 1,67 (1,38-2,02) avec MRC préexistante. Hétérogénéité très élevée (I² ≈ 91 %), donc ordre de grandeur plus que valeur précise ; un lien causal pur n'est pas démontré (confusion par l'indication douleur/maladie) [B] (PMID 39412516).\n- **« Triple whammy » (diurétique + IEC ou sartan + AINS)** : lésion rénale aiguë OR 2,01 (1,30-3,10) dans 5 études cas-témoins (410 130 personnes), certitude faible ; pas d'effet significatif sur la mortalité (certitude très faible) [B, observationnel] (PMID 40876867).\n- Autres médicaments (inhibiteurs de la pompe à protons, produits de contraste, lithium, chimiothérapies) : les associations avec la MRC sont décrites dans la littérature mais n'ont pas été relues ici [?]. Un médecin ou un pharmacien ajuste ou évite ces médicaments en cas de DFGe bas, de déshydratation ou de grand âge.\n- Conduite pratique : en cas de douleur, demander au médecin ou au pharmacien l'alternative adaptée (par exemple paracétamol) ; ne pas associer AINS + diurétique + IEC/sartan sans avis ; suspendre les AINS en cas de déshydratation (vomissements, diarrhée, forte chaleur) — recommandation générale non sourcée dans les études lues [?].",
+   "titre": "AINS et autres médicaments néphrotoxiques"
+  },
+  {
+   "markdown": "- **Débutant** : connaître sa tension et sa glycémie ; limiter sel et alcool ; ne pas prendre d'AINS en continu sans avis ; ne pas fumer ([tabac et alcool](fiche:tabac-et-alcool)).\n- **Intermédiaire** : si facteur de risque (diabète, HTA, obésité, maladie CV), créatinine + albuminurie une fois par an avec le médecin traitant.\n- **Avancé** : avec un néphrologue ou le médecin traitant, discuter les traitements qui protègent le rein (contrôle de la tension, SGLT2) quand la MRC est établie.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Se fier à la créatinine seule sans albuminurie : l'albuminurie est un second axe de risque indépendant du DFGe (PMID 37787795).\n- Penser que « le rein va bien » parce qu'il n'y a pas de symptôme.\n- Prendre des AINS en vente libre de façon répétée chez une personne âgée, diabétique ou hypertendue.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Détox rénale », cures de plantes ou compléments pour « nettoyer les reins »** [M] : aucun essai relu ici ; non recherché en détail [?].\n- **« Les AINS en vente libre sont anodins »** : la fréquence et la durée comptent ; association à la MRC dans 40 études observationnelles (PMID 39412516) [B].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Même avec une albuminurie normale (UACR < 10 mg/g), un DFGe de 45-59 était associé à plus d'hospitalisations qu'un DFGe de 90-104 (HR ajusté 1,3 ; 161 vs 79 événements pour 1000 personnes-années) (PMID 37787795) [B, observationnel].\n- Les inhibiteurs de SGLT2 ont des bénéfices rénaux similaires avec ou sans diabète (PMID 36351458) [A].",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Dépistage de la MRC : proposé aux personnes à risque par le médecin traitant, annuel (ameli.fr, consulté le 2026-10-15).\n- Statut BDPM des AINS (certains en vente libre) et des SGLT2 : non consulté dans cette session [?].\n- Pas de dépistage organisé de population en France repéré.",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- DFGe bas ou albuminurie retrouvés sur une analyse, tension élevée persistante, diabète.\n- Urines mousseuses ou sang dans les urines, gonflement des chevilles, baisse du volume d'urine.\n- Avant tout traitement long par AINS ou lorsque vous prenez diurétique et IEC/sartan.\n\nFiches « examen » liées : [ionogramme](fiche:biomarqueur-ionogramme-calcium-magnesium)",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 27383068 — Hill NR et al., *PLoS One*, prévalence mondiale de la MRC (résumé relu).\n- PMID 37787795 — Grams ME et al. (CKD Prognosis Consortium), *JAMA* 2023 (résumé relu).\n- PMID 36351458 — Nuffield Dept of Population Health Renal Studies Group, *Lancet* 2022, SGLT2 et reins (résumé relu).\n- PMID 39412516 — Soliman S et al., *Rom J Intern Med* 2025, AINS et MRC (résumé relu).\n- PMID 40876867 — Calvo DM et al., *Br J Clin Pharmacol* 2025, « triple whammy » (résumé relu).\n- PMID 38490803 — KDIGO 2024 (titre vérifié, texte non lu).\n- PMID 38186904, 38213490, 38299045 — revues de coût-efficacité du dépistage (titres vérifiés, non lus).\n- PMID 40902616 — voir [tension artérielle](fiche:tension-arterielle).\n- Web : ameli.fr, « Prévenir et dépister la maladie rénale chronique » (maladie-renale-chronique/prevention-depistage, page du 8 janvier 2025), consulté le 2026-10-15.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Prévention de la maladie rénale chronique",
+ "type": "condition",
+ "unite": ""
+}

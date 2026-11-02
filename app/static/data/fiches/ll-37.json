@@ -1,0 +1,80 @@
+{
+ "cibles": [
+  "peau",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "peptide",
+ "id": "ll-37",
+ "intro": "",
+ "liens": [
+  "bpc-157",
+  "kpv",
+  "thymosine-alpha-1",
+  "vitamine-d"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "29091929",
+  "25041740",
+  "34687253",
+  "32927756",
+  "42707805",
+  "42095322",
+  "33101482"
+ ],
+ "preuve_globale": "B",
+ "resume": "Peptide antimicrobien de l'immunité innée : LL-37 est un fragment du précurseur hCAP18 (PMID 29091929). Les vendeurs de « peptides » en ligne le présentent comme anti-infectieux, anti-biofilm, « booster d'immunité » et cicatrisant.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Peptide antimicrobien de l'immunité innée : LL-37 est un fragment du précurseur hCAP18 (PMID 29091929). Les vendeurs de « peptides » en ligne le présentent comme anti-infectieux, anti-biofilm, « booster d'immunité » et cicatrisant.\n- Les seules données humaines trouvées concernent **un médicament expérimental topique**, testé sur les ulcères veineux de jambe chroniques, pas un produit de « recherche » injecté :\n  - premier essai chez l'humain (n=34) : cicatrisation plus rapide aux deux concentrations les plus faibles, **aucun effet à la plus forte** ; pas de problème de tolérance locale ni générale [B, ECR unique n=34, résultat préliminaire] (PMID 25041740) ;\n  - phase IIb multicentrique (n=148) : **critère principal non atteint** sur l'ensemble de la population ; une analyse post hoc suggère un bénéfice dans le sous-groupe des grands ulcères (≥ 10 cm²) [B, ECR n=148, négatif sur le critère principal] (PMID 34687253).\n- Voie injectable ou orale chez le sujet sain, immunité, infections, peau : aucune donnée humaine trouvée [?].\n- Le peptide a un **double visage** : complexé à l'ADN, LL-37 est décrit comme autoantigène dans le psoriasis et le lupus (PMID 32927756), et une revue 2026 décrit un basculement de médiateur de cicatrisation en promoteur tumoral selon la concentration [D, revue] (PMID 42707805). Ce n'est pas un « booster » anodin.\n- Statut : aucun médicament à base de LL-37 dans la base publique des médicaments ; vendu hors cadre légal.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Peptide cationique amphiphile qui perturbe les membranes microbiennes et module l'immunité : il stimule la production de cytokines et le recrutement des cellules immunitaires (PMID 32927756). Il est peu exprimé dans la peau saine et augmente après lésion ou inflammation (PMID 32927756).\n- Son effet dépend du contexte : concentration, récepteur, stade de la maladie et micro-environnement (PMID 42095322). Cytotoxicité, dégradation rapide par les protéases et résistance sont les freins cités à son usage thérapeutique (PMID 42095322).",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Ulcère veineux de jambe, application locale (médicament expérimental) | Phase I/II n=34 : cicatrisation environ 6 et 3 fois plus rapide que placebo pour les deux concentrations basses (p = 0,003 et 0,088), rien à la plus forte ; promoteur de l'essai : société qui développe le médicament | [B, ECR unique n=34] (PMID 25041740) |\n| Ulcère veineux de jambe, phase IIb | n=148 : pas d'amélioration significative sur la population entière ; bénéfice post hoc chez les grands ulcères, à confirmer par un essai dimensionné pour ce sous-groupe | [B, ECR n=148, critère principal négatif] (PMID 34687253) |\n| Infection, immunité, biofilm (sujet sain ou malade, voie systémique) | Aucun essai humain trouvé | [?] |\n| Peau, rides, cheveux | Aucun essai humain trouvé | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet (règle 7 : pas de posologie). Les essais cités testaient un médicament expérimental, formulé et dosé pour la plaie, qui n'est pas ce que vendent les sites de « peptides » ; le contenu réel des flacons est inconnu sans analyse.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **France** : aucune substance « LL-37 », « cathélicidine » ni « ropocamptide » dans les fichiers CIS_bdpm et CIS_COMPO_bdpm de la base publique des médicaments (BDPM, téléchargés le 2026-10-14). Le LL-37 n'est pas cité nommément par la mise en garde de l'ANSM sur les « peptides » vendus en ligne (« Ces produits n'ont pas été évalués par les autorités de santé et ne sont pas autorisés », ANSM, publiée le 2026-07-02, mise à jour le 2026-08-31, consultée le 2026-10-14) : le message général s'applique à l'ensemble de ces produits.\n- **AMA** : pas de mention nominative dans la Liste des interdictions 2026 ; une substance sans approbation de santé humaine, y compris en développement clinique, relève de la classe S0 (substances non approuvées), interdite en permanence (Liste 2026, consultée le 2026-10-14). Recherche dans le texte de la Liste 2026 (PDF WADA, consulté le 2026-10-14) : aucune mention nominative du LL-37.\n- **Médicament expérimental topique** : phase IIb publiée en 2021 ; pas d'autorisation trouvée dans ce travail [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Essais topiques : bonne tolérance locale et générale, sur des effectifs de 34 et 148 patients et quelques semaines (PMID 25041740, PMID 34687253) [B]. Aucune donnée sur un usage systémique répété chez l'humain [?].\n- **Maladies auto-immunes** : LL-37 complexé à l'ADN propre active les cellules dendritiques plasmacytoïdes et entretient le psoriasis et le lupus (PMID 32927756, PMID 33101482) [D, revue]. Un peptide qui augmente cette voie est un risque théorique pour les personnes atteintes de ces maladies ; aucune donnée chez l'humain traité [?].\n- **Cancer** : effet pro- ou anti-tumoral selon le contexte (cancer colorectal notamment) [D, revue] (PMID 42707805, PMID 42095322). Antécédent de cancer : aucune donnée de sécurité trouvée [?].\n- Interactions médicamenteuses, grossesse, allaitement : aucune donnée trouvée [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Risques génériques signalés par l'ANSM : composition incertaine, produits frauduleux, graves problèmes de santé possibles (ANSM, consultée le 2026-10-14) ; sous-dosage, mauvaise molécule, contamination, endotoxines. Analyse de flacons de LL-37 : aucune trouvée [?]. Un peptide immunostimulant contaminé par des endotoxines pose un problème précis, puisqu'il est injecté dans un système immunitaire que l'on cherche à « booster ».",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- Infections à répétition : bilan infectieux et immunologique, vaccinations à jour (voir [vitamine D](fiche:vitamine-d) pour la carence, qui se corrige et se mesure) ; pas de peptide à substituer.\n- Plaie chronique ou ulcère de jambe : prise en charge spécialisée (compression pour l'ulcère veineux, plaies et cicatrisation). Le traitement de référence de l'ulcère veineux reste la compression, d'après le résumé de l'essai de phase IIb (PMID 34687253).\n- Psoriasis, lupus : dermatologue ou interniste ; ne pas ajouter un stimulant immunitaire non évalué.\n- Pas de protocole de dosage ni d'injection, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).\n\nVoir aussi : [thymosine alpha-1](fiche:thymosine-alpha-1) (peptide immunitaire avec un statut de médicament dans certains pays), [KPV](fiche:kpv), [BPC-157](fiche:bpc-157) (autre peptide vendu pour « guérir »).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Grönberg A, Mahlapuu M, Ståhle M, Whately-Smith C, Rollman O. *Wound Repair Regen* 2014 — PMID 25041740 — [DOI](https://doi.org/10.1111/wrr.12211)\n2. Mahlapuu M et al. *Wound Repair Regen* 2021 — PMID 34687253 — [DOI](https://doi.org/10.1111/wrr.12977)\n3. Pahar B et al. *Vaccines (Basel)* 2020 — PMID 32927756 — [DOI](https://doi.org/10.3390/vaccines8030517) (revue)\n4. Alecu M et al. *Exp Ther Med* 2020 — PMID 33101482 — [DOI](https://doi.org/10.3892/etm.2020.9322) (revue)\n5. Mihailovic PM et al. *PLoS One* 2017 — PMID 29091929 — [DOI](https://doi.org/10.1371/journal.pone.0187432) (souris ; utilisée ici pour la définition de LL-37 comme fragment de hCAP18)\n6. Selvaraj K, Girish C. *World J Gastrointest Pharmacol Ther* 2026 — PMID 42707805 — [DOI](https://doi.org/10.4292/wjgpt.122448) (revue)\n7. Liu Q, Xu P, Zhang C. *Immun Inflamm Dis* 2026 — PMID 42095322 — [DOI](https://doi.org/10.1002/iid3.70451) (revue)\n8. ANSM, « “Peptides” vendus en ligne : ne les utilisez pas, ils peuvent être dangereux », 2026-07-02, mis à jour 2026-08-31 — https://ansm.sante.fr/actualites/peptides-vendus-en-ligne-ne-les-utilisez-pas-ils-peuvent-etre-dangereux (consulté le 2026-10-14)\n9. Base de données publique des médicaments (BDPM), fichiers CIS_bdpm et CIS_COMPO_bdpm, téléchargés le 2026-10-14.\n10. AMA, Liste des interdictions 2026, classe S0 (consultée le 2026-10-14).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "LL-37 (cathélicidine humaine)",
+ "type": "actif",
+ "unite": ""
+}

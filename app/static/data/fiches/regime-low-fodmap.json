@@ -1,0 +1,66 @@
+{
+ "cibles": [
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-23",
+ "famille": "alimentation",
+ "id": "regime-low-fodmap",
+ "intro": "",
+ "liens": [
+  "ail-et-oignon",
+  "aliments-fermentes-kefir-yaourt-kimchi",
+  "ble-gluten-epeautre-et-cereales-anciennes",
+  "legumineuses",
+  "maladie-coeliaque-et-intolerances",
+  "regimes-comparatif"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "34376515",
+  "40573159",
+  "28846594",
+  "27272325"
+ ],
+ "preuve_globale": "A",
+ "resume": "Efficace sur les symptômes du syndrome de l'intestin irritable (SII) : 13 essais, 944 patients, classé premier pour l'amélioration globale (RR de non-amélioration 0,67 ; IC 0,48-0,91 vs régime habituel) [A] (PMID 34376515).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Efficace sur les symptômes du syndrome de l'intestin irritable (SII)** : 13 essais, 944 patients, classé premier pour l'amélioration globale (RR de non-amélioration 0,67 ; IC 0,48-0,91 vs régime habituel) [A] (PMID 34376515).\n- **Meilleur que les conseils diététiques standard (BDA/NICE) sur les ballonnements** : RR 0,72 (0,55-0,94) [A] (PMID 34376515). Pas démontré supérieur sur le transit [A].\n- **Ce n'est pas un régime à vie** : phase d'éviction, réintroduction et personnalisation, sous l'égide d'un diététicien ; les essais n'ont pas étudié la réintroduction [A, limite] (PMID 34376515).\n- **Hors SII** : amélioration des symptômes fonctionnels dans les MICI, pas de bénéfice net dans le reflux ; hétérogénéité forte, pas de méta-analyse [B] (PMID 40573159).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- **FODMAP** : *fermentable oligosaccharides, disaccharides, monosaccharides and polyols* (PMID 34376515, 28846594).\n- **Trois phases en pratique** : éviction, réintroduction, personnalisation. Les essais regroupés portent sur l'éviction et n'ont pas étudié la réintroduction (PMID 34376515) ; l'accompagnement par un diététicien est recommandé en 2e ligne par la BDA (PMID 27272325).\n- **Comparateurs des essais** : régime habituel, conseils BDA/NICE (alimentation saine), régime riche en FODMAP, régime « traditionnel » (PMID 34376515, 28846594). La définition du témoin varie, ce qui explique une partie de l'hétérogénéité.\n- **Durée des essais** : 3 à 12 semaines (PMID 40573159).\n- **Listes d'aliments** (blé, oignon, ail, légumineuses, certains fruits, polyols) : description courante, non extraite des résumés lus [?]. Voir [légumineuses](fiche:legumineuses), [ail et oignon](fiche:ail-et-oignon).",
+   "titre": "Variantes et contenu"
+  },
+  {
+   "markdown": "Non revérifié [?]. Réduction des glucides fermentescibles (oligosaccharides, disaccharides, monosaccharides, polyols) qui peuvent déclencher ou aggraver les symptômes du SII (PMID 28846594).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Source | Résultat | Preuve |\n|---|---|---|\n| Méta-analyse en réseau, 13 ECR, 944 pts, SII | symptômes globaux : RR de non-amélioration 0,67 (0,48-0,91) vs régime habituel ; premier rang pour douleur, ballonnements, transit (non supérieur pour le transit) ; essais surtout en soins secondaires/tertiaires (PMID 34376515) | [A] |\n| Méta-analyse (RCT + cohortes) | douleur et ballonnements réduits vs régime classique et vs régime riche en FODMAP ; pas de différence sur la consistance des selles ; supériorité sur les régimes conventionnels non démontrée à long terme (PMID 28846594) | [A, hétérogénéité non chiffrée dans le résumé] |\n| Revue systématique de 14 ECR (SII, MICI, reflux), 3-12 semaines | SII : douleur, ballonnements, qualité de vie améliorés ; MICI : surtout les symptômes fonctionnels ; reflux : pas de bénéfice net ; pas de méta-analyse (PMID 40573159) | [A, revue sans pooling] |\n| Recommandations de la British Dietetic Association | algorithme simplifié : 1re ligne = alimentation saine (par tout soignant), 2e ligne = low-FODMAP par un diététicien (PMID 27272325) | recommandation (pas de tag de preuve) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- « Régime santé pour tous » : les auteurs d'une revue soulignent qu'il n'est pas universellement nécessaire et que certaines améliorations peuvent venir de mesures moins restrictives (moins de transformés et de sucres) [A, revue] (PMID 40573159).\n- « À suivre longtemps » : risque de carences et d'altération du microbiote avec un régime restrictif prolongé ; supervision par un diététicien recommandée [B] (PMID 40573159).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Restriction alimentaire : carences, altération du microbiote, risque chez les personnes avec troubles du comportement alimentaire (non sourcé dans les résumés lus) [?]. Éliminer d'abord une maladie organique (coeliaque, MICI) : avis médical ; voir [maladie cœliaque et intolérances](fiche:maladie-coeliaque-et-intolerances). Prix et coût d'accompagnement : non recherchés.\n\nStatut réglementaire : sans objet (pattern alimentaire).\n\nVoir aussi : [légumineuses](fiche:legumineuses) · [ail et oignon](fiche:ail-et-oignon) · [blé, gluten](fiche:ble-gluten-epeautre-et-cereales-anciennes) · [aliments fermentés](fiche:aliments-fermentes-kefir-yaourt-kimchi) · [comparatif des régimes](fiche:regimes-comparatif).",
+   "titre": "Sécurité, populations à risque"
+  },
+  {
+   "markdown": "- PMID 34376515 — Black C.J. et al., *Gut* 2022. doi:10.1136/gutjnl-2021-325214\n- PMID 28846594 — Altobelli E. et al., *Nutrients* 2017. doi:10.3390/nu9090940\n- PMID 40573159 — Kuźmin et al., *Nutrients* 2025. doi:10.3390/nu17122045\n- PMID 27272325 — McKenzie Y.A. et al., *J Hum Nutr Diet* 2016. doi:10.1111/jhn.12385",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Régime pauvre en FODMAP (syndrome de l'intestin irritable)",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,92 @@
+{
+ "cibles": [
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-16",
+ "famille": "",
+ "id": "test-multi-cancers-galleri-mced",
+ "intro": "",
+ "liens": [
+  "bilans-biologiques",
+  "cancer-pancreas",
+  "depistage-cancer-col-uterus",
+  "depistage-cancer-colorectal",
+  "depistage-cancer-poumon",
+  "depistage-cancer-prostate-psa",
+  "depistage-cancer-sein",
+  "prevention-des-cancers"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42773209",
+  "42773207",
+  "42216824",
+  "36400018",
+  "41173830",
+  "40926064",
+  "41567711"
+ ],
+ "preuve_globale": "B",
+ "resume": "Galleri analyse la méthylation de l'ADN libre circulant pour détecter un « signal cancer » et prédire son organe d'origine. Spécificité ≈ 99,5–99,6 %, mais sensibilité faible : 26,7–37,2 % pour tous les cancers (essai NHS-Galleri) et 39,3 % dans PATHFINDER 2 [B, descriptif sans test d'hypothèse]…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Galleri analyse la méthylation de l'ADN libre circulant pour détecter un « signal cancer » et prédire son organe d'origine. Spécificité ≈ 99,5–99,6 %, mais **sensibilité faible : 26,7–37,2 % pour tous les cancers** (essai NHS-Galleri) et 39,3 % dans PATHFINDER 2 [B, descriptif sans test d'hypothèse] (PMID 42773209, 42773207). Un test négatif n'exclut donc pas un cancer.\n- Valeur prédictive positive 45,8–58,0 % selon le tour dans NHS-Galleri, 60,3 % dans PATHFINDER 2 (population ≥ 50 ans, 32 007 analysables) [B] : environ un résultat positif sur deux est un faux positif ou n'aboutit pas à un cancer identifié à 12 mois.\n- **Critère principal de l'essai randomisé NHS-Galleri (142 250 participants, 50–77 ans) non atteint** : pas de baisse des cancers de stade III/IV ; l'impact sur la mortalité n'est pas mesuré à ce stade [B, ECR unique n=142 250] ; mortalité : [?] (PMID 42773209). Une dépêche de presse spécialisée évoque une amélioration sur le stade IV seul, non vérifiée ici (PMID 42216824, news).\n- Les seules études publiées sont financées ou co-écrites par GRAIL (affiliations dans PMID 42773209, 42773207, 36400018, 41173830).\n- Statut France/UE : aucune information retrouvée [?]. États-Unis : demande d'approbation FDA (PMA) déposée en janvier 2026, avis favorable d'un comité consultatif le 23 septembre 2026 ; pas de décision finale trouvée au 2026-10-16 (presse et communiqués de la société, non officiel).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Prise de sang → séquençage ciblé de motifs de méthylation de l'ADN tumoral libre → classifieur d'apprentissage automatique (cancer oui/non + origine). La méthylation sur génome entier est la technologie jugée la plus prometteuse dans l'étude de développement de GRAIL, dont les auteurs sont majoritairement employés ou liés à GRAIL [D, développement industriel, pas une preuve clinique] (PMID 36400018). Le signal dépend davantage de la fraction d'ADN tumoral circulant que du stade ou du type de tumeur (même étude) : les petites tumeurs peu « libérantes » sont manquées.",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Outil | Ce qu'on sait | Preuve | Statut FR | Coût |\n|---|---|---|---|---|\n| Galleri (MCED) | Spécificité élevée, sensibilité faible ; pas de bénéfice démontré sur les stades avancés ; mortalité inconnue | [B] performance ; [B, ECR unique n=142 250] critère principal non atteint | statut UE/France non recherché [?] | non consulté [?] |\n| Dépistages organisés validés (côlon, sein, col, poumon fumeurs) | Réduisent la mortalité, voir fiches ci-dessous | selon fiches | Programmes nationaux | gratuit/remboursé selon fiches |\n\nVoir : [dépistage colorectal](fiche:depistage-cancer-colorectal) · [sein](fiche:depistage-cancer-sein) · [col de l'utérus](fiche:depistage-cancer-col-uterus) · [poumon](fiche:depistage-cancer-poumon) · [prostate PSA](fiche:depistage-cancer-prostate-psa) · [pancréas](fiche:cancer-pancreas) · [prévention des cancers](fiche:prevention-des-cancers).",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "| Étude | Population | Résultat | Réf. |\n|---|---|---|---|\n| NHS-Galleri, tours 1–3 | 142 250 randomisés ; ≈ 70 000 par tour | positifs 1,03 % → 0,80 % → 0,90 % ; PPV 58,0 / 50,4 / 45,8 % ; NPV ≈ 98,9 % ; spécificité 99,50–99,60 % ; précision de l'organe d'origine 91,1–93,6 % | PMID 42773209 |\n| PATHFINDER 2 | 35 878 inclus ; 32 007 analysables, ≥ 50 ans | détection 0,54 % ; PPV 60,3 % ; NPV 99,2 % ; sensibilité 39,3 % (tous), 69,8 % (12 cancers prédéfinis) ; nombre à dépister pour trouver 1 cancer : 185 ; gestes invasifs après test positif : 0,6 % (213), dont 90,5 % non chirurgicaux ; pas d'événement indésirable grave lié à l'étude à l'analyse | PMID 42773207 |\n| Données réelles (>111 000 tests) | clientèle payante, âge médian 58 ans | signal détecté 0,91 % ; origine correcte dans 87 % ; suivi connu pour 459/1 011 positifs seulement | PMID 41173830 |\n\nLes auteurs de PATHFINDER 2 précisent que des essais randomisés et un suivi plus long sont nécessaires pour juger l'utilité clinique (PMID 42773207).",
+   "titre": "Chiffres clés"
+  },
+  {
+   "markdown": "- **Faux négatifs** : sensibilité globale 26,7–39,3 % ; un résultat négatif ne dispense pas des dépistages recommandés [B].\n- **Faux positifs et bilans inutiles** : ≈ 40–54 % des positifs ne mènent pas à un cancer identifié selon les PPV ci-dessus ; 0,6 % des personnes testées ont eu un geste invasif après test positif dans PATHFINDER 2 [B].\n- **Détresse psychologique** après un « signal cancer détecté » : des travaux qualitatifs existent (PMID 40926064, 41567711), non relus ici [?].\n- **Surdiagnostic** : risque théorique de détecter des cancers indolents (comme pour le PSA, voir [fiche](fiche:depistage-cancer-prostate-psa)) ; non quantifié pour les MCED dans ce que j'ai relu [?].\n- Biais de sélection des cohortes « réelles » (clients payants) : les chiffres de suivi sont incomplets (PMID 41173830).",
+   "titre": "Sécurité, risques, limites"
+  },
+  {
+   "markdown": "Pas de protocole : aucune recommandation officielle consultée n'inclut ce test [?]. Ordre de priorité raisonnable : dépistages organisés validés → arrêt du tabac/alcool → bilans de [prévention](fiche:bilans-biologiques). Si une personne envisage tout de même le test (payant, hors programme) : en discuter avec un médecin ou un oncologue, qui doit organiser le bilan en cas de positif.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Lire « spécificité 99,5 % » comme « 99,5 % de fiabilité » : la spécificité ne dit pas la probabilité d'avoir un cancer si le test est positif (PPV ≈ 46–60 %).\n- Croire qu'un test négatif remplace mammographie, coloscopie ou frottis.\n- Utiliser le test à des fins de « longévité » sur une personne jeune ou à faible risque : population étudiée ≥ 50 ans [B] ; en dessous, [?].",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Détecte plus de 50 cancers »** : la sensibilité sur 12 types prédéfinis atteint 47,6–69,8 % ; sur tous les cancers 26,7–39,3 % [B]. Le chiffre de « types détectés » masque la faible sensibilité sur les stades précoces.\n- **« Détection précoce = vies sauvées »** : l'ECR n'a pas atteint son critère principal (baisse des stades III/IV) ; la mortalité n'est pas démontrée (PMID 42773209) [B, ECR unique n=142 250].\n- **« Données indépendantes »** : tous les articles de performance relus ont des auteurs affiliés à GRAIL (PMID 42773209, 42773207, 41173830).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Les chiffres de performance de NHS-Galleri sont des analyses secondaires descriptives, « sans test d'hypothèse » (PMID 42773209).\n- Le nombre de personnes à tester pour détecter un cancer est de 185 dans PATHFINDER 2 (PMID 42773207).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Ce n'est pas un test de symptôme. Symptômes (perte de poids inexpliquée, sang dans les selles, toux persistante, boule, saignement anormal) : consulter directement, sans attendre ou remplacer par un test sanguin. Antécédents familiaux forts : oncogénétique.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- Statut CE/UE, HAS, INCa, ANSM : [?].\n- Prix en France et accès via laboratoire ou clinique : [?].\n- Autres tests MCED (par ex. CancerSEEK, Shield pour le côlon) : [?].\n- Résultats détaillés du critère principal de NHS-Galleri (stade III/IV, stade IV, mortalité) : article principal non retrouvé dans PubMed ; seule la dépêche (PMID 42216824) et l'introduction de PMID 42773209 les résument [?].\n- FDA : suivre la décision finale (voir communiqués GRAIL, consulté le 2026-10-16).",
+   "titre": "Non recherché / à approfondir"
+  },
+  {
+   "markdown": "- PMID 42773209 — Neal RD et al., Performance of a MCED test in the randomized NHS-Galleri trial. *Nat Med* 2026. doi:10.1038/s41591-026-04652-8\n- PMID 42773207 — Nabavizadeh N et al., Performance and safety of a MCED test: PATHFINDER 2. *Nat Med* 2026. doi:10.1038/s41591-026-04618-w\n- PMID 41173830 — Matrana M et al., Real-world data from over 100,000 MCED tests. *Nat Commun* 2025. doi:10.1038/s41467-025-64094-7\n- PMID 36400018 — Jamshidi A et al., cfDNA approaches for MCED. *Cancer Cell* 2022. doi:10.1016/j.ccell.2022.10.022\n- PMID 42216824 — Galleri MCED Test Fails to Meet Primary Endpoint in Large Trial. *Cancer Discov* 2026 (news). doi:10.1158/2159-8290.CD-NW2026-0060\n- PMID 40926064 — Marlow LAV et al., cancer expectations et réponses psychologiques, MCED. *Br J Cancer* 2025 (non relu en détail).\n- PMID 41567711 — Marlow LAV et al., expérience du bilan après un test MCED positif (NHS-Galleri), entretiens qualitatifs. *EClinicalMedicine* 2026 (non relu en détail).\n- Statut FDA : communiqués de GRAIL et presse, recherche web du 2026-10-16 (non officiel, pas de décision finale trouvée).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Tests sanguins multi-cancers (MCED) : Galleri de GRAIL",
+ "type": "condition",
+ "unite": ""
+}

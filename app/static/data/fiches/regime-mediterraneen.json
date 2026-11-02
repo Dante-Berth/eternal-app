@@ -1,0 +1,108 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "cerveau",
+  "longevite",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-23",
+ "famille": "alimentation",
+ "id": "regime-mediterraneen",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "alimentation-cerveau",
+  "cereales-completes-et-raffinees",
+  "declin-cognitif-et-neurodegenerescence",
+  "depression",
+  "glycemie-et-prediabete",
+  "huile-olive-vierge-extra",
+  "legumes-comparatif-et-tier-list",
+  "legumineuses",
+  "noix-et-fruits-a-coque",
+  "omega-3",
+  "poissons-gras-omega-3-et-mercure",
+  "tension-arterielle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 20,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "29897866",
+  "23432189",
+  "42090744",
+  "42134945",
+  "42463337",
+  "41241045",
+  "39797935",
+  "41259881",
+  "38219230",
+  "41408634",
+  "40344371",
+  "41208411",
+  "42654169",
+  "42048757",
+  "41470853",
+  "41381307",
+  "41850610",
+  "40335749",
+  "40198072",
+  "41411872"
+ ],
+ "preuve_globale": "B",
+ "resume": "C'est le régime le mieux étayé du dépôt, mais surtout par des cohortes. Un seul grand essai randomisé en prévention primaire (PREDIMED, 7 447 personnes à haut risque) : événements cardiovasculaires majeurs HR 0,69 (0,53-0,91) avec huile d'olive vierge extra et HR 0,72 (0,54-0,95) avec noix, contr…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **C'est le régime le mieux étayé du dépôt, mais surtout par des cohortes.** Un seul grand essai randomisé en prévention primaire (PREDIMED, 7 447 personnes à haut risque) : événements cardiovasculaires majeurs HR 0,69 (0,53-0,91) avec huile d'olive vierge extra et HR 0,72 (0,54-0,95) avec noix, contre un conseil de réduire les graisses. **La publication de 2013 a été retirée** (randomisation non respectée sur plusieurs sites) puis republiée en 2018 avec des analyses corrigées [B, ECR unique n=7447, republié] (PMID 29897866, PMID 23432189).\n- **Prévention cardiovasculaire primaire** : 87 études, plus de 1,4 million de personnes, adhésion élevée associée à moins de maladie coronarienne (HR 0,95), de fibrillation atriale (HR 0,65) et de mortalité cardiovasculaire (HR 0,97) ; les effets sont modestes sauf pour l'artérite des membres inférieurs ; la meilleure preuve vient de PREDIMED [B] (PMID 42090744).\n- **Après un événement cardiovasculaire (prévention secondaire)** : cohortes, mortalité toutes causes HR 0,71-0,74 pour l'adhésion maximale ; un seul sous-groupe d'essais randomisés suggère un bénéfice (mortalité CV RR 0,40 ; 0,19-0,83), avec 52 % de cohortes à risque de biais élevé [B] (PMID 42134945, PMID 42463337).\n- **Diabète de type 2** : prévention, HR 0,92 (0,90-0,94) par augmentation d'adhésion, certitude modérée, cohortes (24 études, 991 878 personnes) ; l'unique essai inclus HR 0,75 (0,56-1,01), non significatif [B] (PMID 41241045).\n- **Cognition et dépression** : associations de cohortes, hétérogènes ; très peu d'essais [B] (PMID 39797935, PMID 41259881, PMID 38219230). Aucune preuve qu'un régime change l'évolution d'une démence installée [?].\n- **Ce n'est pas un aliment ni un supplément** : l'effet, s'il existe, est celui d'un ensemble (huile d'olive vierge extra, noix, légumineuses, légumes, poisson) ; on ne sait pas quelle partie porte le bénéfice [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Hypothèses non tranchées. Dans PREDIMED, une signature de métabolites urinaires de polyphénols (huile d'olive vierge, vin, noix, fruits, légumes) est associée à moins d'événements cardiovasculaires (HR par écart-type 0,80 ; 0,68-0,94 ; étude nichée, association) [B] (PMID 41408634). Une analyse transcriptomique de PREDIMED montre une légère hausse de l'expression de gènes d'efflux du cholestérol, sur 151 personnes de PREDIMED [B, exploratoire] (PMID 40344371, mécanisme, pas un critère clinique). Effet de substitution (moins de viande transformée, de sucres ajoutés) : non isolé dans les sources lues [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "- **Pas de définition unique.** Les études mesurent l'adhésion par des scores différents (score PREDIMED à 14-17 points, MEDI-LITE, etc.) : source d'hétérogénéité.\n- Pattern « traditionnel » décrit par une revue de 2025 (auteurs liés à PREDIMED) : aliments végétaux peu transformés (fruits, légumes, céréales complètes, légumineuses, fruits à coque), **huile d'olive vierge extra comme principale graisse**, consommation faible à modérée de vin rouge aux repas ; ce n'est pas un régime végétarien [B, revue narrative] (PMID 41208411).\n- Poisson et viande rouge : fréquences exactes des études non extraites ici [?]. Voir [poissons gras](fiche:poissons-gras-omega-3-et-mercure).",
+   "titre": "Définition utilisée par les études"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Événements CV majeurs, prévention primaire, personnes à haut risque (PREDIMED, 4,8 ans) | HR 0,69 (huile d'olive vierge extra), 0,72 (noix) vs conseil pauvre en graisses ; 96, 83 et 109 événements ; première publication retirée, republiée en 2018 | [B, ECR unique n=7447] (PMID 29897866, PMID 23432189) |\n| Prévention CV primaire, population générale | 87 études, > 1,4 M personnes : coronaropathie HR 0,95, FA 0,65, AVC 0,97, HTA 0,97, mortalité CV 0,97 | [B] (PMID 42090744) |\n| Prévention secondaire CV, cohortes | 22 cohortes, 104 386 patients : mortalité toutes causes RR 0,71 (0,65-0,78), CV 0,75, récidive 0,83 ; hétérogénéité forte | [B] (PMID 42134945) |\n| Idem, cohortes seules (13 cohortes, 54 034 patients) | mortalité toutes causes RR 0,74, CV 0,84, événements récidivants 0,60 ; biais de publication pour la récidive | [B] (PMID 42463337) |\n| Maladie coronarienne établie | une comparaison randomisée Méditerranéen vs pauvre en graisses : MACE HR 0,72 (0,54-0,96), certitude modérée ; cohortes : mortalité toutes causes HR 0,74 | [B, peu d'essais] (PMID 42654169) |\n| Diabète de type 2, prévention | HR 0,92 par adhésion (cohortes) ; unique ECR HR 0,75 (0,56-1,01) | [B] (PMID 41241045) |\n| Cardiométabolique (obésité, syndrome métabolique) | obésité adulte OR 0,95 (0,93-0,97), surpoids OR 0,94 ; syndrome métabolique RR 0,98 ; certitudes variables | [B] (PMID 42048757) |\n| Diabète de type 2 établi, essais randomisés | glycémie à jeun −0,845 mmol/L, IMC −0,83 kg/m², LDL −8,1 mg/dL, PAD −2,0 mmHg ; PAS −5,1 mmHg non significative | [A, effet modeste] (PMID 41470853) |\n| Personnes à risque de DT2/CV, 9 ECR (1 337 personnes) | HbA1c −0,18 (−0,35 à −0,01), LDL −0,10, triglycérides −0,20 (unités non précisées dans le résumé) ; glycémie, insuline, HOMA-IR, cholestérol total, HDL inchangés | [A, effet modeste] (PMID 41381307) |\n| Troubles cognitifs, démence, Alzheimer | 23 études : troubles cognitifs HR 0,82, démence 0,89, Alzheimer 0,70 ; hétérogénéité importante | [B] (PMID 39797935) |\n| Maladies neurologiques et dépression | 45 études, > 730 000 personnes : Alzheimer OR 0,92, trouble cognitif léger RR 0,93, dépression RR 0,96, Parkinson RR 0,90 ; **pas d'association** avec la prévalence de démence ni le passage du trouble léger à la démence | [B] (PMID 41259881) |\n| Dépression chez des adultes déprimés, essais | 5 ECR, 1 507 personnes : SMD −0,53 (−0,90 à −0,16), I² 87 %, intervalle de prédiction −1,86 à 0,81 (peut inclure 0), risque de biais préoccupant, certitude faible | [A, certitude faible] (PMID 38219230) |\n| Dépression, femmes ménopausées (UK Biobank, 58 001) | score maximal vs minimal : HR 0,75 (0,63-0,89), effet surtout avant 60 ans | [B] (PMID 41850610) |\n| Polyarthrite rhumatoïde | cohorte UK Biobank 117 341 : HR 0,713 (0,580-0,876) pour le quartile le plus élevé ; méta-analyse de 6 études OR 0,838 | [B] (PMID 40335749) |\n| Os (PREDIMED-Plus : Méditerranéen hypocalorique + activité physique vs Méditerranéen libre, 3 ans, 924 personnes) | densité lombaire préservée chez les femmes, pas chez les hommes ; contenu minéral total et prévalence de faible DMO inchangés ; l'effet du régime seul n'est pas isolé | [B, ECR secondaire] (PMID 40198072) |\n| Fragilité (PREDIMED-Plus, transversal, 6 874 personnes) | adhésion maximale, pré-fragilité OR 0,705 ; fragilité OR 0,479 non significatif (p = 0,097) | [B, transversal] (PMID 41411872) |\n| Cancer, longévité, perte de poids durable | non recherchés dans cette fiche | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- **Dans PREDIMED, le bras « huile d'olive » recevait de l'huile vierge extra gratuite et le bras « noix » des noix mélangées** ; le groupe témoin recevait un conseil de réduire les graisses et de petits cadeaux non alimentaires (PMID 29897866). Les quantités journalières exactes ne sont pas dans le résumé [?].\n- **Le témoin n'était pas un régime occidental habituel** : c'était un conseil pauvre en graisses. L'essai compare deux régimes sains, pas un régime sain à l'alimentation moyenne.\n- **Rien à acheter** : aucun produit labellisé « méditerranéen » n'a été testé. Voir [huile d'olive vierge extra](fiche:huile-olive-vierge-extra) et [noix et fruits à coque](fiche:noix-et-fruits-a-coque) pour les quantités.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Aliments ordinaires ; pas de statut réglementaire propre. Allergènes à déclaration obligatoire concernés : poissons, fruits à coque, céréales contenant du gluten (règlement (UE) n° 1169/2011, annexe II, EUR-Lex, consulté le 2026-10-14, cité dans les fiches [poissons gras](fiche:poissons-gras-omega-3-et-mercure) et [légumineuses](fiche:legumineuses)).\n- Dopage : sans objet.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Alcool (vin rouge)** : composante facultative et contestée du modèle. La revue la plus récente note que l'inclusion d'une boisson alcoolisée dans un régime sain est « de plus en plus controversée » et qu'un essai randomisé (UNATI, 10 000 buveurs) est en cours [B, revue narrative] (PMID 41208411). **Ne pas commencer à boire pour « faire méditerranéen »** : l'alcool n'est pas nécessaire au bénéfice observé dans les autres composantes [?].\n- **Énergie** : huile d'olive, noix et fromage sont très caloriques ; ajoutés sans remplacer d'autres graisses, ils font grossir. La version étudiée dans PREDIMED-Plus était hypocalorique et associée à l'activité physique (PMID 40198072).\n- **Poisson** : consignes de mercure, grossesse et espèces à éviter dans [poissons gras](fiche:poissons-gras-omega-3-et-mercure).\n- **Allergie aux fruits à coque ou au poisson** : le régime se décline sans ces aliments, mais les essais ne l'ont pas testé ainsi [?].\n- **Anticoagulants** : un résultat de PREDIMED rapporte moins d'initiations d'antivitamines K avec le bras huile d'olive (incidence de prescription, pas une interaction) ; voir [huile d'olive](fiche:huile-olive-vierge-extra) [B]. Interaction vitamine K des légumes verts avec les antivitamines K : non recherchée ici [?].\n- Insuffisance rénale, grossesse, enfants, troubles du comportement alimentaire : non couverts [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **Une seule grande randomisation en prévention primaire**, publiée deux fois (la première retirée). Les conclusions « cohortes + PREDIMED » reposent donc sur un essai unique à haut risque CV, mené en Espagne.\n- **Cohortes** : les personnes qui adhèrent au régime ont aussi d'autres comportements favorables (activité, non-fumeur, niveau d'études) ; l'ajustement ne les élimine pas.\n- **Hétérogénéité de définition** du « régime méditerranéen » entre études, et hétérogénéité statistique forte (I² jusqu'à 87 % pour la dépression).\n- **Conflits d'intérêts et réseau d'auteurs** : plusieurs synthèses sont signées par des investigateurs de PREDIMED (Estruch, Martínez-González), financés par des fonds publics espagnols ; l'huile et les noix étaient fournies aux participants. Déclarations de conflits non relues ici [?].\n- **Transposabilité hors bassin méditerranéen** (France du Nord, coût, habitudes) : non recherchée dans cette fiche [?]. Une méta-analyse chez les diabétiques observe de plus grands effets sur la pression artérielle dans les populations non méditerranéennes (PMID 41470853).",
+   "titre": "Limites de la preuve"
+  },
+  {
+   "markdown": "- **« Prouvé par un grand essai »** : l'essai fondateur a été retiré en 2018 puis republié avec des analyses corrigées ; les conclusions ont survécu, mais avec un niveau de preuve inférieur à celui d'un essai propre [B] (PMID 29897866, PMID 23432189).\n- **« Le vin rouge est bon pour le cœur »** : composante contestée ; essai en cours (PMID 41208411) [?].\n- **« Plus de pâtes, pizza et fromage »** : le modèle étudié repose sur des végétaux peu transformés, des légumineuses, des noix, de l'huile vierge extra ; les plats « italiens » industriels ne sont pas le régime testé [B, revue] (PMID 41208411).\n- **« Il protège de tout (cancer, Alzheimer, vieillissement) »** : résultats cognitifs hétérogènes (Alzheimer 0,70 dans une méta-analyse, OR 0,92 dans une autre, aucune association avec la démence ou la progression du trouble léger dans la seconde) [B] (PMID 39797935, PMID 41259881) ; cancer et longévité non recherchés [?].\n- **« Ça fait maigrir »** : l'effet de poids de la version libre n'a pas été relu ici ; la version hypocalorique avec activité physique est un autre traitement (PMID 40198072) [?].\n- **« Compléter avec de l'huile de poisson revient au même »** : les gélules d'oméga-3 ne reproduisent pas le bénéfice des cohortes (voir [poissons gras](fiche:poissons-gras-omega-3-et-mercure)).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Si le but est de choisir un modèle global pour le cœur et le métabolisme, c'est le mieux documenté ; l'appliquer, c'est : huile d'olive vierge extra comme graisse principale, une poignée de noix par jour, légumineuses plusieurs fois par semaine, légumes et fruits à chaque repas, céréales complètes, poisson, peu de viande transformée, et aucun alcool imposé. Aucune dose exacte n'est démontrée ; viser le pattern, pas le chiffre [?].\n\nVoir aussi : [alimentation, synthèse transversale](fiche:alimentation), [alimentation et cerveau](fiche:alimentation-cerveau), [déclin cognitif et neurodégénérescence](fiche:declin-cognitif-et-neurodegenerescence), [dépression](fiche:depression), [légumineuses](fiche:legumineuses), [céréales complètes](fiche:cereales-completes-et-raffinees), [légumes : tier list](fiche:legumes-comparatif-et-tier-list), [oméga-3](fiche:omega-3), [tension artérielle](fiche:tension-arterielle), [glycémie et prédiabète](fiche:glycemie-et-prediabete).",
+   "titre": "Conseil pratique (honnête)"
+  },
+  {
+   "markdown": "- PMID 29897866 — Estruch R et al., *N Engl J Med* 2018 (republication corrigée de PREDIMED). doi:10.1056/NEJMoa1800389\n- PMID 23432189 — Estruch R et al., *N Engl J Med* 2013 (publication retirée). doi:10.1056/NEJMoa1200303\n- PMID 42090744 — Volpe et al., *Nutrition* 2025. doi:10.1016/j.nut.2025.113038\n- PMID 42134945 — Goldberg A et al., *Br J Gen Pract* 2026. doi:10.3399/bjgp26X745221\n- PMID 42463337 — Gitsi E et al., *Nutr Metab Cardiovasc Dis* 2026. doi:10.1016/j.numecd.2026.104854\n- PMID 42654169 — Mo L et al., *Nutrients* 2026. doi:10.3390/nu18162589\n- PMID 41241045 — Wallerer et al., *Adv Nutr* 2025. doi:10.1016/j.advnut.2025.100562\n- PMID 42048757 — Muscogiuri et al., *Nutrition* 2025. doi:10.1016/j.nut.2025.112947\n- PMID 41470853 — Wu et al., *Nutrients* 2025. doi:10.3390/nu17243908\n- PMID 41381307 — Lauria et al., *Nutr Metab Cardiovasc Dis* 2025. doi:10.1016/j.numecd.2025.104433\n- PMID 39797935 — Fekete M et al., *GeroScience* 2025. doi:10.1007/s11357-024-01488-3\n- PMID 41259881 — Zuliani G et al., *Nutrition* 2025. doi:10.1016/j.nut.2025.112990\n- PMID 38219230 — Bizzozero-Peroni B et al., *Nutr Rev* 2025. doi:10.1093/nutrit/nuad176\n- PMID 41850610 — Fan et al., *J Affect Disord* 2026. doi:10.1016/j.jad.2026.121645\n- PMID 40335749 — Hu P et al., *Eur J Clin Nutr* 2025. doi:10.1038/s41430-025-01628-8\n- PMID 40198072 — Vázquez-Lorente H et al., *JAMA Netw Open* 2025. doi:10.1001/jamanetworkopen.2025.3710\n- PMID 41411872 — Torrego-Ellacuría M et al., *J Nutr Health Aging* 2025. doi:10.1016/j.jnha.2025.100757\n- PMID 41408634 — Domínguez-López et al., *BMC Med* 2025. doi:10.1186/s12916-025-04587-w\n- PMID 40344371 — Hernando-Redondo J et al., *Mol Nutr Food Res* 2025. doi:10.1002/mnfr.70050\n- PMID 41208411 — Barbería-Latasa M, Martínez-González MA, *Cardiovasc Res* 2025. doi:10.1093/cvr/cvaf218\n- Règlement (UE) n° 1169/2011, annexe II (EUR-Lex, consulté le 2026-10-14).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Régime méditerranéen",
+ "type": "actif",
+ "unite": ""
+}

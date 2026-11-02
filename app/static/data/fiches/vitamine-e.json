@@ -1,0 +1,84 @@
+{
+ "cibles": [
+  "prevention",
+  "coeur-metabolisme"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "complement",
+ "id": "vitamine-e",
+ "intro": "",
+ "liens": [
+  "antioxydants-alimentaires-et-absorption",
+  "astaxanthine",
+  "luteine-et-zeaxanthine",
+  "mitochondries",
+  "selenium",
+  "vitamine-c-orale",
+  "vue-dmla-et-cataracte"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 12,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "15537682",
+  "22419320",
+  "21990298",
+  "21051774",
+  "39099617",
+  "36480969",
+  "20427778",
+  "28128435",
+  "37702300",
+  "32151478",
+  "11757504",
+  "28566525"
+ ],
+ "preuve_globale": "A",
+ "resume": "Antioxydant liposoluble dont la carence est rare (malabsorption des graisses, abétalipoprotéinémie). Les compléments à 400 UI et plus n'ont pas tenu leurs promesses en prévention : pas de bénéfice cardiovasculaire, plus de cancers de la prostate dans SELECT, et une surmortalité dans les essais à…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Antioxydant liposoluble dont la carence est rare (malabsorption des graisses, abétalipoprotéinémie). Les compléments à 400 UI et plus n'ont pas tenu leurs promesses en prévention : pas de bénéfice cardiovasculaire, plus de cancers de la prostate dans SELECT, et une surmortalité dans les essais à fortes doses.\n- Mortalité : méta-analyse de 19 essais (135 967 participants) : doses ≥ 400 UI/j, différence de risque +39 décès pour 10 000 personnes (IC 3-74) ; doses faibles −16 pour 10 000 (IC −41 à 10) ; relation dose-réponse significative au-dessus de 150 UI/j ; les essais à fortes doses étaient souvent petits et menés chez des malades chroniques [A, effet faible, généralisation limitée] (PMID 15537682).\n- Cochrane 2012 (essais à faible risque de biais) : vitamine E RR 1,03 (IC 1,00-1,05) pour la mortalité, 46 essais ; le bêta-carotène RR 1,05 ; sélénium et vitamine C sans effet [A] (PMID 22419320).\n- Cancer de la prostate (SELECT, 35 533 hommes) : vitamine E 400 UI/j, HR 1,17 (IC 99 % 1,004-1,36), soit +1,6 cas pour 1 000 personnes-années [B, ECR unique n=34 887] (PMID 21990298).\n- AVC : pas d'effet sur l'AVC total (RR 0,98), AVC ischémique −10 % (RR 0,90), AVC hémorragique +22 % (RR 1,22 ; IC 1,00-1,48) [A] (PMID 21051774).\n- Une indication a un essai positif : la stéatohépatite non alcoolique (NASH) chez des adultes non diabétiques, à 800 UI/j (voir tableau), à décider avec un hépatologue.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Protège les lipides membranaires de l'oxydation ; l'alpha-tocophérol est la seule forme considérée comme essentielle (EFSA 2024). Effet sur la coagulation : l'EFSA retient le risque de saignement comme effet critique pour la limite supérieure (PMID 39099617). Mécanisme des effets hépatiques : non recherché dans cette fiche ; seul l'effet clinique est documenté (voir NASH).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Mortalité, dose-réponse | 19 essais, 135 967 participants : ≥ 400 UI/j : +39/10 000 (3-74) ; < 400 UI/j : −16/10 000 (−41 à 10) | [A, effet faible] (PMID 15537682) |\n| Mortalité, tous antioxydants | 78 ECR : vitamine E RR 1,03 (1,00-1,05) (46 essais à faible risque de biais) ; bêta-carotène RR 1,05 (1,01-1,09) ; vitamine A 1,07 (0,97-1,18) NS ; C 1,02 (0,98-1,07) NS ; sélénium 0,97 (0,91-1,03) NS | [A] (PMID 22419320) |\n| Risque cardiovasculaire et diabète (méta-analyse de micronutriments) | Vitamines C, D, E et sélénium : aucun effet sur le risque CV ou le diabète de type 2 | [A] (PMID 36480969) |\n| Cancer de la prostate, SELECT | Vitamine E : 620 vs 529 cas, HR 1,17 (IC 99 % 1,004-1,36), p = 0,008 ; sélénium HR 1,09 (0,93-1,27) NS ; association HR 1,05 (0,89-1,22) NS | [B, ECR unique n=34 887] (PMID 21990298) |\n| AVC | 9 ECR, 118 765 participants : total RR 0,98 (0,91-1,05) ; hémorragique RR 1,22 (1,00-1,48), p = 0,045 ; ischémique RR 0,90 (0,82-0,99), p = 0,02 | [A] (PMID 21051774) |\n| NASH (adultes non diabétiques) | 800 UI/j pendant 96 semaines, 247 adultes : amélioration histologique 43 % vs 19 % sous placebo (p = 0,001) ; fibrose non améliorée ; transaminases et stéatose réduites | [B, ECR unique n=247] (PMID 20427778) |\n| Maladie d'Alzheimer et trouble cognitif léger | Cochrane 2017 : MCI (n = 516) : passage à la démence RR 1,03 (0,79-1,35) ; maladie d'Alzheimer (n = 304) : pas d'effet cliniquement important sur la cognition ; moindre déclin fonctionnel (ADCS-ADL, MD 3,15 ; 0,07-6,23), un seul essai | [A, 2 essais exploitables] (PMID 28128435) |\n| DMLA, vitamine E seule | 1 204 personnes, 7 événements : RR 1,36 (0,31-6,05), certitude très faible ; la vitamine E fait partie de la formule AREDS en combinaison, voir [vue, DMLA et cataracte](fiche:vue-dmla-et-cataracte) | [A, très faible certitude, un seul essai] (PMID 37702300) |\n| Peau, vieillissement, cheveux | Aucun essai oral retenu dans cette fiche | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Essais : 400 UI/j d'acétate de dl-alpha-tocophéryle (SELECT) (PMID 21990298) ; 800 UI/j dans la NASH (PMID 20427778) ; la méta-analyse de Miller couvre 16,5 à 2 000 UI/j, médiane 400 UI/j (PMID 15537682).\n- Les compléments vendus contiennent souvent 100 à 400 UI ou plus ; aucun relevé de produits n'a été fait ici ; vérifier le contenu en mg et la forme sur l'étiquette (alpha-tocophérol seul, tocophérols mélangés, tocotriénols). Les UI et les mg ne se convertissent pas de la même manière selon que la forme est naturelle ou synthétique : vérifier l'étiquette.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Médicaments (BDPM, consultés le 2026-10-14) : Toco 500 mg capsule molle (acétate de tocophéryle) et Tocolion, indication « traitement des carences en vitamine E », remboursés à 65 % ; SMR important en cas de carence prouvée, insuffisant dans les autres cas ; ASMR V (page Toco 500). Vitamine E injectable (Provepharm), préparations multivitaminées, Vedrop 50 mg/mL (solution buvable).\n- Compléments alimentaires : alpha-tocophérol, acétate de tocophéryle, tocotriénols. Arrêté du 9 mai 2006 (Légifrance, version en vigueur, consulté le 2026-10-14) : formes admises (annexe II) D- et DL-alpha-tocophérol, leurs acétates et le succinate acide de D-alpha-tocophérol ; les tocotriénols n'y figurent pas ; dose journalière maximale 30 mg (mg ET) par portion journalière recommandée (annexe III), non touchée par l'annulation partielle du Conseil d'État (décision n° 295235 du 27 avril 2011, qui ne vise que les vitamines K, B1, B2, B5, B8 et B12). Le projet d'actualisation soumis à l'ANSES proposait 150 mg pour l'adulte ; l'ANSES (avis du 31 juillet 2024, saisine 2023-SA-0165) l'a jugé non susceptible de dépasser la limite supérieure de 300 mg, a proposé d'ajouter un avertissement vitamine E et anticoagulants, et la réponse ministérielle de février 2025 indique que les doses de 2006 n'ont pas été modifiées (cette dernière via recherche web, non relue). Conversion UI/mg des produits vendus : non sourcée ici, se référer à l'étiquette en mg.\n- Limite supérieure EFSA (2024) : 300 mg/j d'alpha-tocophérol pour les adultes, y compris femmes enceintes et allaitantes ; 100 mg/j pour 1-3 ans, 120 pour 4-6 ans, 160 pour 7-10 ans, 220 pour 11-14 ans, 260 pour 15-17 ans ; ces limites ne s'appliquent pas aux personnes sous anticoagulants ou antiagrégants (aspirine), en prévention cardiovasculaire secondaire ou avec malabsorption de la vitamine K (PMID 39099617).\n- AMA : non concerné.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Coagulation : effet critique retenu par l'EFSA (PMID 39099617). Anticoagulants, antiagrégants, chirurgie programmée : éviter les doses supérieures à l'apport nutritionnel sans avis médical.\n- AVC hémorragique : +22 % (RR 1,22) dans la méta-analyse (PMID 21051774) ; trois cas d'hémorragie intracérébrale cryptogénique chez des patients prenant de la vitamine E au-dessus des doses recommandées, avec alpha-tocophérolémie élevée [B, série de 3 cas] (PMID 32151478).\n- Cancer de la prostate : sur-risque dans SELECT (PMID 21990298).\n- Mortalité à fortes doses (≥ 400 UI/j) : voir TL;DR (PMID 15537682).\n- Statines et niacine : dans un essai de 3 ans chez 160 patients coronariens à HDL bas, l'association d'antioxydants (composition non détaillée dans le résumé) a atténué la hausse protectrice du HDL2 sous simvastatine-niacine ; résumé : « l'usage des vitamines antioxydantes dans ce contexte doit être remis en question » [B, ECR unique n=160] (PMID 11757504). Chimiothérapie, radiothérapie : recherche PubMed ciblée sans revue exploitable retrouvée ; avis oncologue [?].\n- Grossesse : la limite supérieure EFSA de 300 mg/j d'alpha-tocophérol s'applique aussi aux femmes enceintes et allaitantes (PMID 39099617) ; effets d'une dose supérieure : aucune donnée retenue, ne pas dépasser sans avis médical.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Antioxydant anti-âge qui protège le cœur » : aucun effet cardiovasculaire (PMID 36480969) ; surmortalité possible à ≥ 400 UI/j [A, effet faible] (PMID 15537682, 22419320).\n- « Protège la prostate » : l'inverse dans SELECT (PMID 21990298).\n- « Pour la mémoire / Alzheimer » : pas d'effet sur la cognition ni sur le passage de MCI à démence (PMID 28128435).\n- « Naturel (tocophérols mélangés) vs synthétique » : aucune comparaison sur critère clinique retrouvée [?] ; seules des différences de profil de stéréoisomères dans le plasma et le lait de femmes allaitantes sont décrites entre RRR- et all-rac-alpha-tocophérol [B, ECR sur marqueur biologique, n=89] (PMID 28566525).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour. Voisines : [vitamine C orale](fiche:vitamine-c-orale), [sélénium](fiche:selenium), [astaxanthine](fiche:astaxanthine), [antioxydants alimentaires](fiche:antioxydants-alimentaires-et-absorption), [mitochondries](fiche:mitochondries), [lutéine et zéaxanthine](fiche:luteine-et-zeaxanthine).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Miller et al. *Ann Intern Med* 2005 — PMID 15537682 — [DOI](https://doi.org/10.7326/0003-4819-142-1-200501040-00110)\n2. Bjelakovic et al. *Cochrane Database Syst Rev* 2012 — PMID 22419320 — [DOI](https://doi.org/10.1002/14651858.CD007176.pub2)\n3. An et al. *J Am Coll Cardiol* 2022 — PMID 36480969 — [DOI](https://doi.org/10.1016/j.jacc.2022.09.048)\n4. Klein et al. *JAMA* 2011 — PMID 21990298 — [DOI](https://doi.org/10.1001/jama.2011.1437)\n5. Schürks et al. *BMJ* 2010 — PMID 21051774 — [DOI](https://doi.org/10.1136/bmj.c5702)\n6. Sanyal et al. *N Engl J Med* 2010 — PMID 20427778 — [DOI](https://doi.org/10.1056/NEJMoa0907929)\n7. Farina et al. *Cochrane Database Syst Rev* 2017 — PMID 28128435 — [DOI](https://doi.org/10.1002/14651858.CD002854.pub4)\n8. Evans et al. *Cochrane Database Syst Rev* 2023 — PMID 37702300 — [DOI](https://doi.org/10.1002/14651858.CD000254.pub5)\n9. Le et al. *J Stroke Cerebrovasc Dis* 2020 — PMID 32151478 — [DOI](https://doi.org/10.1016/j.jstrokecerebrovasdis.2020.104747)\n10. EFSA NDA Panel, tolerable upper intake level for vitamin E, *EFSA J* 2024 — PMID 39099617 — [DOI](https://doi.org/10.2903/j.efsa.2024.8953)\n11. Arrêté du 9 mai 2006 (annexes II et III) — https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000637294 — consulté le 2026-10-14.\n12. ANSES, avis saisine 2023-SA-0165, 31 juillet 2024 — https://www.anses.fr/fr/system/files/NUT2023SA0165.pdf — lu le 2026-10-14.\n13. Brown et al. *N Engl J Med* 2001 — PMID 11757504 — [DOI](https://doi.org/10.1056/NEJMoa011090)\n14. Gaur et al. *J Nutr* 2017 — PMID 28566525 — [DOI](https://doi.org/10.3945/jn.116.245134) \n15. BDPM, fichiers CIS_bdpm, CIS_COMPO_bdpm, CIS_CIP_bdpm et page « extrait » de Toco 500 mg (CIS 67657448) — https://base-donnees-publique.medicaments.gouv.fr — consultés le 2026-10-14.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Vitamine E (alpha-tocophérol)",
+ "type": "actif",
+ "unite": ""
+}

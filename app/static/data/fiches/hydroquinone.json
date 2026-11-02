@@ -1,0 +1,73 @@
+{
+ "cibles": [
+  "peau"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "medicament",
+ "id": "hydroquinone",
+ "intro": "",
+ "liens": [
+  "acide-azelaique",
+  "acide-tranexamique",
+  "protection-solaire",
+  "retinoides",
+  "vitamine-c"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 4,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "39685940",
+  "39673630",
+  "41149049",
+  "40590795"
+ ],
+ "preuve_globale": "A",
+ "resume": "Dépigmentant topique, longtemps le traitement local de référence du mélasma. Son usage prolongé est limité par le risque d'ochronose exogène (pigmentation paradoxale) et de toxicité mélanocytaire, d'après les introductions des méta-analyses citées (PMID 39685940, PMID 39673630).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Dépigmentant topique, longtemps le traitement local de référence du mélasma. Son usage prolongé est limité par le risque d'**ochronose exogène** (pigmentation paradoxale) et de toxicité mélanocytaire, d'après les introductions des méta-analyses citées (PMID 39685940, PMID 39673630).\n- La formule de Kligman (hydroquinone + trétinoïne + dexaméthasone) est décrite comme « gold standard » du mélasma (PMID 39685940).\n- Cystéamine 5 % contre hydroquinone 4 % : 7 RCT, pas de différence significative sur le score MASI (SMD 0,16 ; −0,22 à 0,53) ; les effets indésirables (érythème, irritation, brûlure, sécheresse) sont similaires entre les deux, plus fréquents que sous placebo [A] (PMID 39673630). Autre méta-analyse (8 études) : cystéamine non supérieure aux régimes à l'hydroquinone, à la formule de Kligman modifiée ou à la mésothérapie à l'acide tranexamique [A] (PMID 39685940).\n- Réseau de 14 essais, 738 femmes : le PRP intradermique, seul ou avec acide tranexamique oral, ressort devant l'hydroquinone 4 % ; les autres modalités sont comparables [A, effectifs modestes] (PMID 41149049).\n- Réseau de 9 essais, 358 participants : l'acide tranexamique injectable associé à l'hydroquinone 4 % donne la plus grande amélioration du MASI ; effets indésirables légers et transitoires [A] (PMID 40590795).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Non relu dans les sources vérifiées pour cette fiche [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Mélasma, vs cystéamine 5 % | Efficacité similaire (SMD 0,16, n.s.), effets indésirables similaires | [A] (PMID 39673630) |\n| Mélasma, vs cystéamine, formule de Kligman, TXA mésothérapie | Pas de différence statistique | [A] (PMID 39685940) |\n| Mélasma, dans un réseau de 15 modalités | Dépassée par PRP intradermique (± TXA oral) | [A] (PMID 41149049) |\n| Mélasma, TXA injectable + hydroquinone 4 % | Meilleur MASI du réseau de 9 essais | [A] (PMID 40590795) |\n| Ochronose, risque à long terme | Cité en introduction des revues, non quantifié dans les résumés | [?] |\n| Autres hyperpigmentations, taches solaires | Non recherchés | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Les essais utilisent surtout 4 % (PMID 39673630, PMID 41149049, PMID 40590795). Durées et schémas : non extraits [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Préparations dermatologiques à 4 % dans les essais ; dans la formule de Kligman, associée à un rétinoïde et à un corticoïde.\n- **Cosmétique : interdite dans l'UE.** L'hydroquinone figure à l'annexe II (substances interdites) du règlement (CE) 1223/2009, entrée 1339, avec une exception renvoyant à l'entrée 14 de l'annexe III ; le règlement (UE) 2021/1099 y a ajouté la désoxyarbutine (entrée 1657) parce qu'elle libère de l'hydroquinone (texte du règlement consulté via le Journal officiel de l'UE republié, 2026-10-13). Un produit « éclaircissant » du commerce qui en contient est donc non conforme ; la DGDDI a retiré 253 références de produits éclaircissants en 2022, dont plusieurs pour hydroquinone (sante.fr, « Produits à visée éclaircissante », consulté le 2026-10-13).\n- Usage médical (préparation prescrite) : cadre exact (préparation magistrale, ANSM) non vérifié [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Ochronose exogène et toxicité mélanocytaire sur usage prolongé (PMID 39685940, PMID 39673630) [A, citée en introduction].\n- Irritation sous hydroquinone similaire à celle de la cystéamine (PMID 39673630).\n- Produits éclaircissants du marché parallèle : l'hydroquinone y est parfois ajoutée en secret, ainsi que du mercure, d'après la DGCCRF (sante.fr). Grossesse et absorption systémique : non documentées ici [?].\n- Le mélasma est photodépendant : [protection solaire](fiche:protection-solaire) indispensable.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- « Sérum éclaircissant sans hydroquinone aussi efficace » : cystéamine 5 % égale l'hydroquinone sur le MASI dans 7 essais, mais sur un seul actif précis (PMID 39673630) ; la plupart des « éclaircissants » du commerce ne sont pas évalués [?].\n- « L'hydroquinone est sans danger parce qu'elle est classique » : l'ochronose limite l'usage prolongé (PMID 39685940).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit à ce jour.\n\nVoir aussi : [acide tranexamique](fiche:acide-tranexamique), [rétinoïdes](fiche:retinoides), [acide azélaïque](fiche:acide-azelaique), [vitamine C](fiche:vitamine-c), [protection solaire](fiche:protection-solaire).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "5. Règlement (UE) 2021/1099, annexe II du règlement (CE) 1223/2009 — https://boe.gob.es/doue/2021/238/L00029-00031.pdf (consulté le 2026-10-13) ; sante.fr, Produits à visée éclaircissante — https://www.sante.fr/produits-visee-eclaircissante (consulté le 2026-10-13)\n1. Mawu FO, Christopher PM. *Arch Dermatol Res* 2024 — PMID 39673630 — [DOI](https://doi.org/10.1007/s00403-024-03571-3)\n2. Wu BQ et al. *J Clin Med* 2024 — PMID 39685940 — [DOI](https://doi.org/10.3390/jcm13237483)\n3. Leung JH et al. *Diseases* 2025 — PMID 41149049 — [DOI](https://doi.org/10.3390/diseases13100316)\n4. Nukaly H et al. *Aesthet Surg J* 2025 — PMID 40590795 — [DOI](https://doi.org/10.1093/asj/sjaf097)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Hydroquinone (mélasma)",
+ "type": "actif",
+ "unite": ""
+}

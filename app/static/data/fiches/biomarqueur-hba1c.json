@@ -1,0 +1,101 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-11-01",
+ "famille": "",
+ "id": "biomarqueur-hba1c",
+ "intro": "Fiche « examen ». Définitions du prédiabète, traitements, CGM et compléments « glycémie » : [Glycémie et prédiabète](fiche:glycemie-et-prediabete) (seuils ADA/HAS, limites de l'HbA1c, mythes). Cette fiche ajoute ce que prédit le chiffre, sa variabilité et ses biais.",
+ "liens": [
+  "biomarqueur-fer-ferritine-transferrine",
+  "biomarqueur-glycemie-a-jeun-hgpo",
+  "fer-et-ferritine",
+  "glycemie-et-prediabete"
+ ],
+ "marqueurs": [
+  "hba1c"
+ ],
+ "mesure": "sang",
+ "nb_pmid": 9,
+ "nb_seuils": 12,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "24668104",
+  "30371961",
+  "37531355",
+  "41358893",
+  "42828220",
+  "40887553",
+  "20547905",
+  "17536077",
+  "39980144"
+ ],
+ "preuve_globale": "A",
+ "resume": "L'HbA1c reflète la glycémie moyenne des ≈ 3 derniers mois (dépend de la durée de vie des globules rouges) ; seuils ADA 2026 : 5,7–6,4 % prédiabète, ≥ 6,5 % diabète (voir fiche liée).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- L'HbA1c reflète la glycémie moyenne des ≈ 3 derniers mois (dépend de la durée de vie des globules rouges) ; seuils ADA 2026 : 5,7–6,4 % prédiabète, ≥ 6,5 % diabète (voir [fiche liée](fiche:glycemie-et-prediabete)).\n- **Prédiction cardiovasculaire quasi nulle en plus des facteurs classiques** : sur 294 998 personnes sans diabète ni maladie CV connus (73 études), ajouter l'HbA1c change le C-index de +0,0018 ; association en **J** avec le risque CV [A, données individuelles] (PMID 24668104). Ne pas chercher à la « minimiser ».\n- Pronostic du prédiabète défini par HbA1c : HR de diabète 5,55 (2,77–11,12) pour 5,7–6,4 % et 10,10 (3,59–28,43) pour 6,0–6,4 %, mais **certitude faible** ; 33 à 59 % reviennent à la normale en 1 à 5 ans [A, 103 cohortes, Cochrane] (PMID 30371961).\n- Variabilité entre deux dosages du même sujet sain : CV médian 1,7 % ; 8,3–8,4 % chez le diabétique ; augmente avec le niveau d'HbA1c [A, méta-analyse de petites études] (PMID 37531355).\n- **Biais connus** : carence en fer (+0,66 point), déficit en G6PD (valeur basse), anémie, hémoglobinopathies, grossesse, dialyse ; et écarts **indépendants de la glycémie** selon l'origine : +0,13 à +0,47 point chez les Noirs américains vs Blancs (voir plus bas).\n- France : dépistage du diabète par **glycémie veineuse à jeun**, pas par HbA1c (voir Statut).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Le glucose se fixe sur l'hémoglobine dans le globule rouge ; plus la glycémie moyenne est haute, plus la fraction glyquée augmente. Elle intègre surtout le dernier mois. Elle ne dit rien de la variabilité dans la journée (voir [CGM](fiche:glycemie-et-prediabete)).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "Conversions : HbA1c (mmol/mol) = (HbA1c % − 2,15) × 10,929 (5,7 % ≈ 39 ; 6,5 % ≈ 48 mmol/mol). Glycémie : 1 g/L = 100 mg/dL. Les tests sur glycémie à jeun et HGPO : [fiche dédiée](fiche:biomarqueur-glycemie-a-jeun-hgpo).\n\nSeuils diagnostiques officiels (aucun tag de preuve) :\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| HbA1c | % (mmol/mol) | 5,7–6,4 (39–47) | prédiabète | adulte | ADA, Standards of Care 2026, PMID 41358893 (via la [fiche liée](fiche:glycemie-et-prediabete), 2026-10-13) |\n| HbA1c | % (mmol/mol) | ≥ 6,5 (≥ 48) | diabète (diagnostic) ; confirmer par un 2e test | adulte | ADA 2026, PMID 41358893 |\n| HbA1c | % | 6,0–6,4 | prédiabète selon les seuils ESC 2020 | adulte | cité par une synthèse HAS de juillet 2025 (via la fiche liée, non relu dans le texte ESC) [?] |\n| HbA1c | % | tout seuil | critère de diagnostic ou de dépistage en France | adulte, France | aucun seuil HbA1c dans le texte HAS lu ; l'HbA1c n'est ni recommandée ni remboursée pour le dépistage (ameli, 2026-10-13) |\n| HbA1c | % | ≥ 6,5 | seuil de diagnostic OMS | adulte | non relu dans le rapport OMS ici [?] |\n| HbA1c | % | — | cible de traitement du diabétique | diabétique traité | non traité, cibles individualisées [?] |\n| HbA1c | % | — | valeurs selon l'origine, l'âge, la grossesse | par population | non retrouvé comme seuils officiels distincts [?] ; écarts d'origine : voir « Causes d'erreur » |\n\nSeuils pronostiques issus d'études (tag + PMID) :\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| HbA1c | % | 5,7–6,4 | passage au diabète : HR 5,55 (2,77–11,12) [A, certitude faible] | adultes en prédiabète, 4 études, 5 223 sujets | PMID 30371961 |\n| HbA1c | % | 6,0–6,4 | passage au diabète : HR 10,10 (3,59–28,43) [A, certitude faible] | adultes en prédiabète, 6 études, 4 532 sujets | PMID 30371961 |\n| HbA1c | % | — | association en J avec le risque CV ; C-index +0,0018 [A, données individuelles] | 294 998 adultes sans diabète ni MCV | PMID 24668104 |\n| HbA1c | points | +0,66 (0,31–1,00) | majoration liée à la carence en fer [A, 30 études] | carence en fer / anémie ferriprive | PMID 42828220 |\n| HbA1c | points | ≈ 0,1 | variation sans signification (CV intra-individuel 1,7 %) [A, méta-analyse de petites études] | sujet sain | PMID 37531355 |",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Valeur ajoutée pour le risque CV (sans diabète) | C-index +0,0018 ; reclassement NRI 0,42 (−0,63 à 1,48), non significatif ; association en J ; au moins aussi utile que la glycémie à jeun, aléatoire ou post-charge | [A] (PMID 24668104, Emerging Risk Factors Collaboration) |\n| Passage du prédiabète au diabète (HbA1c 5,7–6,4 %) | HR 5,55 (2,77–11,12), 4 études, 5 223 sujets | [A, certitude faible] (PMID 30371961) |\n| Idem (HbA1c 6,0–6,4 %) | HR 10,10 (3,59–28,43), 6 études, 4 532 sujets | [A, certitude faible] (PMID 30371961) |\n| Retour à la normale | 33–59 % à 1–5 ans ; 17–42 % à 6–11 ans (ensemble des définitions) | [A, certitude modérée] (PMID 30371961) |\n| Comparaison HbA1c et glycémie à jeun pour l'incidence du diabète | « données limitées » : plus d'incidence avec l'HbA1c 6,0–6,4 % qu'avec 5,7–6,4 % | [A, limité] (PMID 30371961) |\n\nLes auteurs de la Cochrane recommandent la prudence avant d'intervenir de façon active sur la seule étiquette « prédiabète », les états normoglycémie/prédiabète/diabète fluctuant dans les deux sens (PMID 30371961).",
+   "titre": "Ce que le chiffre prédit"
+  },
+  {
+   "markdown": "- Chez le sujet sain, le CV intra-individuel médian est de 1,7 % (IQR 1,3–2,2 %) ; chez le diabétique de type 1 ou 2 autour de 8,3–8,4 % (PMID 37531355). Autour de 5,7 %, 1,7 % représente ≈ ±0,1 point : une variation de 0,1 point n'a pas de signification.\n- ADA 2026 : proche du seuil, refaire à 3–6 mois ; en cas de tests discordants, répéter celui qui dépasse le seuil (voir [fiche liée](fiche:glycemie-et-prediabete), PMID 41358893).",
+   "titre": "Variabilité et répétition du dosage"
+  },
+  {
+   "markdown": "| Facteur | Effet | Preuve |\n|---|---|---|\n| Carence en fer / anémie ferriprive | HbA1c majorée de +0,66 point (IC 0,31–1,00), −0,50 après supplémentation | [A, 30 études ; 14 d'intervention] (PMID 42828220) |\n| Déficit en G6PD | HbA1c plus basse (4,50 % vs 5,27 % chez 28 déficients vs 492 normaux, dosage enzymatique) | [B, étude transversale] (PMID 40887553) |\n| Anémie, EPO, variantes de l'hémoglobine, grossesse, hémodialyse, G6PD | ADA 2026 déconseille de se fier à l'HbA1c : utiliser la glycémie | consensus ADA (PMID 41358893) |\n| Origine (Noirs américains vs Blancs) | HbA1c plus élevée à glycémie égale : +0,13 (SIGT) et +0,21 (NHANES III) en tolérance normale ; +0,26 et +0,30 en prédiabète ; +0,47 pour les deux en diabète ; mécanisme inconnu | [B, 2 études transversales] (PMID 20547905) |\n| Origine, patients avec intolérance au glucose (DPP, 3 819 sujets) | HbA1c ajustée : 5,78 % (Blancs), 5,93 % (Hispanique), 6,00 % (Asiatiques), 6,12 % (Amérindiens), 6,18 % (Noirs) ; la comparaison entre groupes peut être invalide | [A, ECR/analyse transversale du DPP, P < 0,001] (PMID 17536077) |\n| Âge, autres facteurs (hémoglobine, hématocrite) | HbA1c et hémoglobine corrélées dans une étude de population (PMID 39980144, résumé non relu) | [?] |\n\nLecture : une « HbA1c prédiabétique » sans anémie, sans carence en fer et avec une glycémie à jeun normale mérite d'abord un contrôle (ferritine : voir [fer et ferritine](fiche:fer-et-ferritine)).",
+   "titre": "Causes d'erreur à connaître"
+  },
+  {
+   "markdown": "- Aucun essai ne définit une HbA1c « optimale » chez le sujet sain [?]. L'association en J avec le risque CV (PMID 24668104) interdit de transformer « plus bas = mieux » en objectif.\n- Chez le diabétique traité, les cibles sont individualisées (non traité ici) [?].",
+   "titre": "Cible « optimale » pour la longévité ?"
+  },
+  {
+   "markdown": "- Confirmer par une glycémie veineuse à jeun, rechercher une carence en fer ou une anémie, répéter à 3–6 mois.\n- Les leviers qui baissent le risque de diabète sont le mode de vie intensif (perte de poids, activité) puis la metformine ou le tirzépatide selon le profil : détail et niveaux de preuve dans [glycémie et prédiabète](fiche:glycemie-et-prediabete). Pas de schéma ici.",
+   "titre": "Que faire d'un résultat élevé"
+  },
+  {
+   "markdown": "- Examen de biologie médicale. Dépistage recommandé en France par **glycémie veineuse à jeun** ; l'Assurance maladie écrit que l'HbA1c « en tant qu'outil de dépistage n'est pas recommandé[e], ni remboursé[e] pour l'instant en France » (ameli, page lue le 2026-10-13, d'après la [fiche liée](fiche:glycemie-et-prediabete)). Pour le suivi des diabétiques, un extrait de recherche ameli.fr indique un dosage recommandé au moins 2 fois par an et un diabète de type 2 reconnu en ALD avec examens pris en charge à 100 % (page non ouverte, extrait consulté le 2026-10-17 ; règles actuelles à vérifier sur ameli). Prix de l'examen hors remboursement : non relevé [?].",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Se faire doser l'HbA1c « pour la longévité » sans glycémie à jeun ni ferritine.\n- Réagir à un écart de 0,1 point : c'est du bruit (CV ≈ 1,7 % chez le sujet sain).\n- Comparer HbA1c et origine sans tenir compte des écarts glucose-indépendants.\n- S'appuyer sur l'HbA1c dans les situations qui la faussent (anémie, grossesse, dialyse, hémoglobinopathie) ; demander la glycémie.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« L'HbA1c prédit le risque cardiaque mieux que le cholestérol »** : elle apporte +0,0018 de C-index aux facteurs classiques (PMID 24668104).\n- **« Plus bas c'est toujours mieux »** : association en J avec le risque CV (PMID 24668104).\n- **« Un prédiabète = un diabète qui vient »** : un tiers à plus de la moitié reviennent à la normale en 1–5 ans (PMID 30371961).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- L'HbA1c d'un même patient diffère de 0,13 à 0,47 point selon l'origine à glycémie égale (PMID 20547905).\n- Les fluctuations entre normoglycémie, prédiabète et diabète se font dans les deux sens même après des années (PMID 30371961).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "HbA1c ≥ 6,5 % ou glycémie à jeun ≥ 1,26 g/L (confirmation et prise en charge) ; soif intense, polyurie, amaigrissement inexpliqué. Anémie, carence en fer, drépanocytose ou autre hémoglobinopathie : demander une glycémie plutôt que l'HbA1c.\n\nFiches « examen » liées : [bilan du fer (une carence fausse l'HbA1c)](fiche:biomarqueur-fer-ferritine-transferrine)",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 24668104 — Emerging Risk Factors Collaboration, Glycated hemoglobin measurement and prediction of cardiovascular disease. *JAMA* 2014. doi:10.1001/jama.2014.1873\n- PMID 30371961 — Richter B et al., Development of type 2 diabetes in people with intermediate hyperglycaemia. *Cochrane Database Syst Rev* 2018. doi:10.1002/14651858.CD012661.pub2\n- PMID 37531355 — Gough A et al., Within-subject variation of HbA1c. *PLoS One* 2023. doi:10.1371/journal.pone.0289085\n- PMID 20547905 — Ziemer DC et al., Glucose-independent, black-white differences in HbA1c. *Ann Intern Med* 2010. doi:10.7326/0003-4819-152-12-201006150-00004\n- PMID 17536077 — Herman WH et al., Differences in A1C by race and ethnicity among patients with IGT in the DPP. *Diabetes Care* 2007. doi:10.2337/dc06-2003\n- PMID 42828220 — Souza EMC, Domingueti CP, carence en fer et HbA1c. *Biochem Med* 2026 (repris de la fiche liée, résumé relu).\n- PMID 40887553 — Mungkalasut P et al., déficit en G6PD et HbA1c. *Diabetologia* 2025 (repris de la fiche liée, résumé relu).\n- PMID 41358893 — ADA, Diagnosis and Classification of Diabetes: Standards of Care 2026. *Diabetes Care* 2026 (repris de la fiche liée).\n- PMID 39980144 — Zhang T et al., HbA1c et hémoglobine, étude de population. *J Diabetes* 2025 (titre seulement ; résumé non relu).\n- ameli, page sur le dépistage du diabète de type 2 (lue le 2026-10-13, via la fiche liée).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : HbA1c (hémoglobine glyquée)",
+ "type": "biomarqueur",
+ "unite": ""
+}

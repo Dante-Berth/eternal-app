@@ -1,0 +1,69 @@
+{
+ "cibles": [
+  "muscle-os",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "uvedose-100000-ui",
+ "intro": "",
+ "liens": [
+  "vitamine-d3-nutri-and-co-lanoline"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 3,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "30293909",
+  "20460620",
+  "30415629"
+ ],
+ "preuve_globale": "A",
+ "resume": "Une ampoule tous les 3 mois pour environ 2,35 € (remboursée à 65 %) est le moyen le moins cher de corriger ou prévenir une carence documentée ; chez un sujet non carencé, aucun essai ne montre de bénéfice clinique et les très fortes doses espacées ont même été associées à plus de chutes.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Une ampoule tous les 3 mois pour environ 2,35 € (remboursée à 65 %) est le moyen le moins cher de corriger ou prévenir une carence documentée ; chez un sujet non carencé, aucun essai ne montre de bénéfice clinique et les très fortes doses espacées ont même été associées à plus de chutes.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur | Preuve |\n|---|---|---|\n| Cholécalciférol (D3) | 100 000 UI (2,5 mg) par ampoule de 2 mL, arôme citron | Correction d'une carence : non couverte par les sources de ce dépôt [?]. Fractures/chutes chez l'adulte non carencé : aucun effet (81 ECR, n=53 537 ; RR fractures 1,00, chutes 0,97) [A] (PMID 30293909) |\n\nComposition et posologie : BDPM (base-donnees-publique.medicaments.gouv.fr, fiche 63489259), consultée le 2026-10-06. Excipients non relus [?].",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "- Médicament, **liste II (sur ordonnance)**, remboursable à 65 %, AMM du 22 août 1989, laboratoire Crinex (BDPM, consulté le 2026-10-06).\n- Indication : traitement et prévention de la carence en vitamine D (BDPM, consulté le 2026-10-06).\n- Prix relevé : 1,33 € hors honoraires, 2,35 € honoraires inclus (BDPM via recherche web et fiche, consultés le 2026-10-06). Non vérifié sur le Journal officiel [?].\n- Antidopage : statut AMA non vérifié [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| L'étiquette / l'usage courant | Les études |\n|---|---|\n| Prévention de la carence : 1 ampoule tous les 3 mois (adulte) | Posologie de la BDPM (consultée le 2026-10-06). Efficacité sur la correction du taux sanguin : [?] non recherchée ici |\n| « La vitamine D protège os et chutes » (idée répandue) | [A] aucun effet chez l'adulte en population générale, y compris à > 800 UI/j (PMID 30293909) |\n| Dose forte et espacée = pratique | [B, ECR unique n=2256] une dose annuelle de 500 000 UI chez des femmes ≥ 70 ans a augmenté les chutes (RR 1,15) et les fractures (RR 1,26) vs placebo (PMID 20460620). Dose 5 fois plus forte que l'ampoule, mais montre que « plus » n'est pas sans risque [?] pour 100 000 UI trimestriel : non testé ici |\n| Cancer, cœur | [B, ECR unique n=25871] pas d'effet à 2000 UI/j (PMID 30415629) |",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Selon la BDPM : adulte, prévention 1 ampoule tous les 3 mois ; traitement 1 à 2 ampoules par mois, maximum 600 000 UI/an ; pure ou diluée dans de l'eau ou du lait (consulté le 2026-10-06). Doses de traitement : à décider avec un médecin après dosage sanguin.",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- Contre-indications (BDPM) : hypercalcémie, hypercalciurie, lithiase calcique, intoxication à la vitamine D. Surdosage : hypercalcémie, hypercalciurie, lithiase.\n- Précaution : surveiller la calcémie en cas de doses élevées répétées ; éviter de cumuler avec d'autres sources de vitamine D (compléments, autres spécialités).\n- Grossesse et allaitement : non recommandé à cette dose selon la fiche BDPM résumée ; schéma spécifique à prescrire.\n- Aucun excès d'hypercalcémie à 2000 UI/j sur 5,3 ans [B, ECR unique n=25871] (PMID 30415629), mais ce n'est pas la même modalité (dose quotidienne).\n- Interactions détaillées : voir le RCP (BDPM), non relues [?].",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- 2,35 € l'ampoule : 100 000 UI/3 mois ≈ 1 100 UI/j, soit **≈ 0,8 €/mois** sans remboursement, ≈ 0,3 € après remboursement à 65 % (calcul à partir des prix BDPM).\n- Complément équivalent : [Vitamine D3 Nutri&Co](fiche:vitamine-d3-nutri-and-co-lanoline), 1 goutte = 1 000 UI, ≈ 0,9 à 1,1 €/mois pour 1 000 UI/j : même molécule, même niveau de preuve, mais sans remboursement ni dose unique intermittente.\n- Rien de moins cher que le médicament remboursé ; l'économie la plus nette est de ne rien prendre en l'absence de carence documentée [A] (PMID 30293909).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non relevés [?]. Une dose unique par trimestre n'impose pas de prise quotidienne (donnée de posologie BDPM, pas un avis).",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 30293909 — Bolland MJ, Grey A, Avenell A, *Lancet Diabetes Endocrinol* 2018. doi:10.1016/S2213-8587(18)30265-1\n- PMID 30415629 — Manson JE et al., *N Engl J Med* 2019 (VITAL). doi:10.1056/NEJMoa1809944\n- PMID 20460620 — Sanders KM et al., *JAMA* 2010. doi:10.1001/jama.2010.594\n- BDPM, fiche Uvedose 100 000 UI (63489259), consultée le 2026-10-06.\n- sante.fr et Vidal (prix 2,35 €, remboursement 65 %), via recherche web, consultés le 2026-10-06.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "medicament_ordonnance",
+ "titre": "Uvedose 100 000 UI (vitamine D3, médicament)",
+ "type": "produit",
+ "unite": ""
+}

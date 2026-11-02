@@ -1,0 +1,72 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "medicament",
+ "id": "regaine-minoxidil-5-mousse",
+ "intro": "",
+ "liens": [
+  "alostil-5-mousse",
+  "minoxidil",
+  "minoxidil-cooper-5-solution"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "17761356",
+  "12196747",
+  "26387973",
+  "21700360",
+  "34370845"
+ ],
+ "preuve_globale": "A",
+ "resume": "Même minoxidil 5 % en mousse, même excipients que l'Alostil mousse, mais vendu en France via des importateurs à environ 24 €/mois : aucun avantage démontré sur Alostil mousse (13-17 €/mois) ni sur Minoxidil Cooper 5 % (5-8 €/mois).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Même minoxidil 5 % en mousse, même excipients que l'Alostil mousse, mais vendu en France via des importateurs à environ 24 €/mois : aucun avantage démontré sur [Alostil mousse](fiche:alostil-5-mousse) (13-17 €/mois) ni sur [Minoxidil Cooper 5 %](fiche:minoxidil-cooper-5-solution) (5-8 €/mois).",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Composant | Quantité | Rôle | Preuve |\n|---|---|---|---|\n| Minoxidil | 50 mg/g | Actif | [A] chez l'homme (voir [minoxidil](fiche:minoxidil)) ; mousse 5 % supérieure au placebo à 16 sem. [B, ECR unique n=352] (PMID 17761356) |\n| Éthanol, eau, butylhydroxytoluène, acides lactique et citrique, glycérol, alcools cétylique et stéarylique, polysorbate 60 | — | Excipients | Sans propylène glycol ; sensibilisation rare possible (alcools gras, BHT) [?] |\n\nComposition selon la notice suisse (Compendium.ch, titulaire JNTL Consumer Health II, consulté le 2026-10-06). Les excipients correspondent à ceux de l'Alostil mousse relevés dans [la fiche Alostil](fiche:alostil-5-mousse) (BDPM) ; les gaz propulseurs ne figurent pas dans la notice suisse lue [?].",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "- France : aucune fiche « Regaine mousse » trouvée dans la BDPM ; la mousse 5 % enregistrée est **Alostil 5 % mousse** (Kenvue France, prix libre, non remboursable) (BDPM, fiche 69250554, consulté le 2026-10-06). Un « Regaine » en France relève donc d'un produit autorisé dans un autre pays, revendu par des intermédiaires [?] : statut d'importation non vérifié.\n- Le « Regaine 5 % solution » figure dans le même groupe générique que l'Alostil 5 % solution (BDPM, consulté le 2026-10-06).\n- Suisse : indiqué dans l'alopécie androgénétique masculine, contre-indiqué chez la femme et avant 18 ans ; alerte de décembre 2025 sur l'hypertrichose chez l'enfant après exposition accidentelle (Compendium.ch, consulté le 2026-10-06).\n- AMA : sans objet pour le minoxidil topique, non vérifié sur la liste de l'année [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "- « Résultats visibles dès 12 semaines, cliniquement prouvés » (page revendeur) : l'essai de la mousse mesure l'effet à 16 semaines [B, ECR unique n=352] (PMID 17761356) ; sur 5 % solution, supériorité sur 2 % à 48 semaines [B, ECR unique n=393] (PMID 12196747). Le résultat à 12 semaines n'est pas retrouvé dans les résumés lus [M].\n- Sur 104 semaines (ouvert, n=45), les gains reviennent vers la valeur initiale : le produit stabilise plus qu'il ne fait repousser durablement [B] (PMID 26387973).\n- Avantage réel de la mousse : moins d'intolérance locale que la solution 2 % au propylène glycol chez 113 femmes (p = 0,046) [B, ECR unique n=113] (PMID 21700360) ; pas d'essai « Regaine vs Alostil », la molécule et la formule étant les mêmes [?].",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "1 g (une demi-capsule) deux fois par jour sur cuir chevelu sec, 2 g/j maximum ; laver les mains ; éviter le contact avec nourrissons et animaux (chats : 12,9 % de décès parmi les cas symptomatiques, série de 211 cas) [B] (PMID 34370845).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "Irritation et prurit, plus fréquents à 5 % qu'à 2 % [B, ECR unique n=393] (PMID 12196747) ; hypotension, céphalées et prudence en cas de maladie cardiovasculaire selon la page revendeur (non confirmé sur RCP français) [?]. Femme : contre-indiqué dans la notice suisse. Détail : [minoxidil](fiche:minoxidil).",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "- Prix relevé : 73,62 € TTC pour 3 × 60 g chez une pharmacie autrichienne en ligne (meinarztbedarf.com, relevé le 2026-10-06) ; un second vendeur français n'a pas pu être relevé, la fourchette est donc inconnue [?]. À 2 g/j, 180 g = 90 jours, soit **≈ 24 €/mois**.\n- Alternatives à preuve équivalente : [Alostil 5 % mousse](fiche:alostil-5-mousse) (même mousse, enregistrée en France, 13-17 €/mois) et [Minoxidil Cooper 5 % solution](fiche:minoxidil-cooper-5-solution) (5-8 €/mois, sans propylène glycol).",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non relevés [?]. Les participantes de l'essai de 2011 jugeaient plus souvent que la mousse « ne gêne pas la coiffure » (p = 0,002) [B] (PMID 21700360).",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- PMID 17761356 — Olsen E.A. et al., *J Am Acad Dermatol* 2007. doi:10.1016/j.jaad.2007.04.012\n- PMID 12196747 — Olsen E.A. et al., *J Am Acad Dermatol* 2002. doi:10.1067/mjd.2002.124088\n- PMID 21700360 — Blume-Peytavi U. et al., *J Am Acad Dermatol* 2011. doi:10.1016/j.jaad.2010.09.724\n- PMID 26387973 — Kanti V. et al., *J Eur Acad Dermatol Venereol* 2015. doi:10.1111/jdv.13324\n- PMID 34370845 — Tater K.C. et al., *J Am Anim Hosp Assoc* 2021. doi:10.5326/JAAHA-MS-7154\n- BDPM, Alostil 5 % mousse (69250554), consulté le 2026-10-06.\n- [Compendium.ch, Regaine mousse 5 %](https://compendium.ch/fr/product/1226332-regaine-mousse-5), consulté le 2026-10-06.\n- Prix : [meinarztbedarf.com](https://meinarztbedarf.com/fr-fr/products/regaine-manner-mousse-5-minoxidil-3-60-g-180-produit-de-croissance-capillaire-topique), relevé le 2026-10-06.",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Regaine Homme 5 % mousse (minoxidil, princeps Kenvue)",
+ "type": "produit",
+ "unite": ""
+}

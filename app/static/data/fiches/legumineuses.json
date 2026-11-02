@@ -1,0 +1,98 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-18",
+ "famille": "alimentation",
+ "id": "legumineuses",
+ "intro": "",
+ "liens": [
+  "alimentation",
+  "antioxydants-alimentaires-et-absorption",
+  "apob-lipides-et-statines",
+  "glycemie-et-prediabete",
+  "noix-et-fruits-a-coque",
+  "proteines",
+  "tension-arterielle"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 21,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "24710915",
+  "36811595",
+  "29230416",
+  "15228991",
+  "27030531",
+  "24014659",
+  "19526214",
+  "19939654",
+  "38337705",
+  "40660242",
+  "37960209",
+  "31006811",
+  "29666853",
+  "31278047",
+  "36986086",
+  "24746974",
+  "20938438",
+  "18028245",
+  "37505726",
+  "41714947",
+  "36678214"
+ ],
+ "preuve_globale": "A",
+ "resume": "L'effet démontré par essais randomisés est modeste mais réel : environ une portion par jour (130 g) abaisse un peu le LDL. 26 ECR (n=1 037, ≥ 3 semaines, dose médiane 130 g/j) : LDL -0,17 mmol/L (-0,25 à -0,09), mais pas d'effet sur l'apolipoprotéine B ni le non-HDL [A] (PMID 24710915).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **L'effet démontré par essais randomisés est modeste mais réel : environ une portion par jour (130 g) abaisse un peu le LDL.** 26 ECR (n=1 037, ≥ 3 semaines, dose médiane 130 g/j) : LDL -0,17 mmol/L (-0,25 à -0,09), mais pas d'effet sur l'apolipoprotéine B ni le non-HDL [A] (PMID 24710915).\n- **Cohortes : mortalité toutes causes légèrement plus basse, pas de lien net avec la mortalité CV.** 32 cohortes (1 141 793 personnes) : mortalité totale HR 0,94 (0,91-0,98), AVC HR 0,91 (0,84-0,99), mortalité CV HR 0,99 (0,91-1,09), cancer HR 0,85 (0,72-1,01) ; par 50 g/j, mortalité totale HR 0,94 (0,89-0,99) ; certitude faible à modérée [B] (PMID 36811595). Résultat voisin pour 6 études plus anciennes (mortalité totale RR 0,93, CV RR 0,96 non significatif) (PMID 29230416).\n- **Longévité : le lien est réel en cohortes mais modeste, et ne prouve pas la causalité.** Chez 785 personnes de 70 ans et plus (Japon, Suède, Grèce, Australie), suivies jusqu'à 7 ans, les légumineuses sont le seul groupe alimentaire prédictif de survie de façon constante : RR 0,92 (0,85-0,99) par 20 g/j supplémentaires [B, cohorte n = 785, petite taille d'échantillon] (PMID 15228991). Dans la méta-analyse de 32 cohortes, l'effet est de -6 % de mortalité totale pour 50 g/j, sans lien net avec la mortalité cardiovasculaire (PMID 36811595). Aucun essai randomisé sur la mortalité ; consommateurs de légumineuses et mode de vie global ne sont pas séparés [?].\n- **Glycémie, poids, tension : petits effets, hétérogènes.** Poids -0,34 kg en médiane de 6 semaines (21 ECR) [A] (PMID 27030531) ; tension systolique -2,25 mmHg (8 essais) [A, hétérogène] (PMID 24014659) ; glycémie à jeun et marqueurs glycémiques longs abaissés, forte hétérogénéité inexpliquée [A] (PMID 19526214).\n- **Il n'existe pas de « meilleure » légumineuse démontrée.** Aucun essai ni méta-analyse trouvé ne compare lentilles, pois chiches, haricots, pois et soja entre eux ; chaque type a ses propres données, de force différente (voir « Quelle légumineuse choisir ? »). La quantité totale (environ 130 g par jour dans les essais) est mieux étayée que le choix de l'espèce.\n- **Danger à connaître : haricots rouges crus ou mal cuits** (phytohémagglutinine). Voir Sécurité.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Aliments riches en fibres, amidon à digestion lente et protéines végétales (description du résumé des essais) ; part de l'effet sur le LDL due aux fibres, aux protéines ou à la substitution d'autres aliments : non démêlée dans les sources lues [?] (PMID 19526214, 24710915).",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| LDL cholestérol | 26 ECR, n=1 037 : -0,17 mmol/L ; ApoB et non-HDL sans effet (PMID 24710915) | [A, essais de courte durée : les auteurs demandent des essais plus longs et de meilleure qualité] |\n| Mortalité (cohortes) | toutes causes HR 0,94 ; AVC 0,91 ; CV 0,99 (NS) ; mortalité coronarienne 0,93 (NS) ; cancer 0,85 (0,72-1,01, NS) (PMID 36811595) | [B] |\n| Glycémie | 41 essais : légumineuses seules, glycémie à jeun SMD -0,82 (-1,36 à -0,27), insuline SMD -0,49 ; dans des régimes à faible IG, protéines glyquées SMD -0,28 ; hétérogénéité élevée (PMID 19526214) | [A, hétérogène] |\n| Poids | 21 ECR, n=940, 132 g/j en médiane : -0,34 kg (-0,63 à -0,04) en 6 semaines, même sans restriction calorique ; effet sur la graisse corporelle suggéré par 6 essais (PMID 27030531) | [A] |\n| Tension artérielle | 8 essais isocaloriques, n=554 : systolique -2,25 mmHg (-4,22 à -0,28), diastolique -0,71 mmHg (NS) (PMID 24014659) | [A, hétérogène] |\n| Cancer colorectal, démence, os, rein | non recherchés dans cette fiche [?] | [?] |\n| Soja et dérivés (tofu, boissons) | voir « Quelle légumineuse choisir ? » | [A] pour le LDL, [B] pour la mortalité |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Aucune comparaison directe entre espèces n'a été trouvée : le tableau juxtapose des études de populations, de doses et de durées différentes, il ne classe pas.\n\n| Type | Meilleure preuve trouvée | Niveau |\n|---|---|---|\n| Légumineuses hors soja (haricots, pois, lentilles, pois chiches, regroupés) | 10 ECR, n = 268, ≥ 3 semaines : LDL -8,0 mg/dL (-11,4 à -4,6), cholestérol total -11,8 mg/dL (PMID 19939654) | [A, petits essais anciens] |\n| Lentilles | 1 ECR, n = 38 adultes à tour de taille élevé, 12 semaines, repas à base de lentilles vs repas à base de viande : LDL et cholestérol total plus bas, glycémie postprandiale, IL-17 et IL-1β plus bas ; symptômes digestifs nuls ou légers ; le comparateur est de la viande, donc l'effet peut venir du remplacement (PMID 38337705) | [B, ECR unique n = 38] |\n| Pois chiches, houmous | 28 études (40 comparaisons) à court terme : aire sous la courbe de glycémie postprandiale -47,89 (-64,20 à -31,58) vs aliments à glucides équivalents, sans effet sur le pic de glycémie ni sur l'insuline ; certitude très faible ; correspondance avec un employé d'un industriel (PepsiCo) (PMID 40660242). Autre méta-analyse de 12 études (n = 182, sujets sains) : réduction de la glycémie postprandiale vs pomme de terre et blé (PMID 37960209) | [A, effets aigus, certitude très faible] |\n| Soja (tofu, boissons, edamame) | LDL -4,76 mg/dL (-6,71 à -2,80), soit environ 3-4 %, pour 25 g/j de protéine de soja en médiane, 6 semaines, 41 essais (PMID 31006811). Cohortes : 7 études, mortalité toutes causes HR 0,96 (0,90-1,02), non significatif (PMID 29666853) ; 23 études : mortalité par cancer RR 0,88 (0,79-0,99) et cardiovasculaire 0,85 (0,72-0,99), mais la protéine de soja n'est pas associée à la mortalité totale ni cardiovasculaire (PMID 31278047) ; 29 études : diabète de type 2 TRR 0,83 (0,74-0,93), maladie cardiovasculaire 0,87 (0,81-0,94) pour la consommation la plus haute (PMID 36986086) | [A] pour le LDL (effet minime) ; [B, discordant] pour la mortalité |\n| Lupin | ECR croisé, n = 72 hypercholestérolémiques, 25 g/j de protéine de lupin vs lait : LDL plus bas (PMID 24746974) ; ECR de 12 mois, n = 131 en perte de poids : pas d'effet sur le poids, mais insuline et tension systolique sur 24 h (-1,3 mmHg) plus basses (PMID 20938438) | [B, deux ECR] |\n| Haricots rouges ou blancs, pois cassés, fèves, flageolets, pois mange-tout | pas de méta-analyse ou d'essai propre trouvé ; inclus dans les regroupements ci-dessus | [?] |\n| Arachide (légumineuse au sens botanique) | non traitée dans cette fiche ni dans [noix et fruits à coque](fiche:noix-et-fruits-a-coque) | [?] |\n\n**Lecture honnête.** Le soja a le plus d'essais sur le LDL mais l'effet est le plus petit (3-4 %) ; les légumineuses hors soja font un peu mieux dans un pool plus petit. Les lentilles et pois chiches ont des données de glycémie, rien ne les classe au-dessus des haricots ou des pois. En pratique, le choix se fait sur la tolérance digestive, la cuisson et le goût, et sur la variété ; les bénéfices en cohortes viennent de la quantité totale (voir TL;DR).\n\n**Points de sécurité propres à certains types** : haricots rouges mal cuits (lectine) et fèves (favisme) dans « Sécurité » ci-dessous. **Lupin** : allergène à déclaration obligatoire (règlement (UE) n° 1169/2011, annexe II) ; chez 47 enfants allergiques à l'arachide, 34 % étaient sensibilisés au lupin et au moins 4 % allergiques (minimum, IC 1-15 %) [B] (PMID 18028245). Soja : autres risques (thyroïde, effets hormonaux) non recherchés ici [?].",
+   "titre": "Quelle légumineuse choisir ?"
+  },
+  {
+   "markdown": "- **Dose des essais** : médiane 130-132 g/j de légumineuses (environ 1 portion), durée médiane 6 semaines (PMID 24710915, 27030531). Poids cuit ou sec : non précisé dans les résumés [?]. Cohortes : unité de 50 g/j (PMID 36811595).\n- **Conserves, plats cuisinés, farines, « pâtes de légumineuses »** : l'effet de la transformation (sel, sucre, cuisson, mouture) n'est pas évalué dans les sources lues [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Aliment. Soja, arachide et lupin sont des allergènes à déclaration obligatoire (règlement (UE) n° 1169/2011, annexe II, EUR-Lex, consulté le 2026-10-14).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **Phytohémagglutinine (lectine) des haricots rouges** : lors d'une intoxication collective en Bretagne (2018), 200 personnes sur 1 700 ont eu une gastro-entérite aiguë après un chili con carne ; la lectine dépassait la dose potentiellement toxique (400 HAU/g) ; les haricots rouges crus avaient une activité de 66 667 HAU/g et avaient été insuffisamment cuits [B, enquête d'épidémie] (PMID 37505726). Cas pédiatrique sévère décrit en 2026 (PMID 41714947, titre seul). Les haricots secs se trempent et se cuisent complètement ; durée de cuisson et méthode de neutralisation : non extraites des sources lues [?].\n- **Inconfort digestif (ballonnements)** : fréquent en pratique ; non sourcé ici [?].\n- **Autres limites** : **favisme** : les fèves provoquent une hémolyse chez les personnes déficientes en G6PD, gravité maximale chez les nourrissons, enfants et femmes enceintes ; hospitalisation et transfusion parfois nécessaires [B, revue de cas] (PMID 36678214). Insuffisance rénale (potassium, phosphore) et goutte : recherche PubMed ciblée sur légumineuses et goutte, aucune donnée exploitable trouvée [?].\n- **Médicaments** : pas d'interaction recherchée [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "Fiche d'aliment générique, aucun produit fiché.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- **« Les lectines des légumineuses sont toxiques, il faut les éviter »** : le danger documenté concerne des haricots rouges mal cuits [B] (PMID 37505726) ; les légumineuses cuites sont associées à une mortalité totale légèrement plus basse en cohortes [B] (PMID 36811595). Les effets d'un régime sans lectines n'ont pas été recherchés [?].\n- **« Les légumineuses font maigrir »** : -0,34 kg en médiane en 6 semaines : effet minime [A] (PMID 27030531).\n- **« Les protéines végétales remplacent la viande sans réserve »** : non évalué ici, voir [alimentation](fiche:alimentation) et [protéines](fiche:proteines) [?].\n\nVoir aussi : [alimentation : synthèse](fiche:alimentation) · [lipides et ApoB](fiche:apob-lipides-et-statines) · [glycémie et prédiabète](fiche:glycemie-et-prediabete) · [tension artérielle](fiche:tension-arterielle) · [antioxydants alimentaires](fiche:antioxydants-alimentaires-et-absorption).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- PMID 24710915 — Ha et al., *CMAJ* 2014 (LDL, 26 ECR). doi:10.1503/cmaj.131727\n- PMID 36811595 — Zargarzadeh et al., *Adv Nutr* 2023 (mortalité, 32 cohortes). doi:10.1016/j.advnut.2022.10.009\n- PMID 29230416 — Li et al., *Biomed Res Int* 2017 (6 cohortes). doi:10.1155/2017/8450618\n- PMID 27030531 — Kim et al., *Am J Clin Nutr* 2016 (poids). doi:10.3945/ajcn.115.124677\n- PMID 24014659 — Jayalath et al., *Am J Hypertens* 2014 (tension). doi:10.1093/ajh/hpt155\n- PMID 19526214 — Sievenpiper et al., *Diabetologia* 2009 (glycémie). doi:10.1007/s00125-009-1395-7\n- PMID 37505726 — Watier-Grillot et al., *Toxins* 2023 (phytohémagglutinine, Bretagne). doi:10.3390/toxins15070457\n- PMID 19939654 — Bazzano et al., *Nutr Metab Cardiovasc Dis* 2011 (légumineuses hors soja, lipides). doi:10.1016/j.numecd.2009.08.012\n- PMID 38337705 — Chamberlin et al., *Nutrients* 2024 (lentilles, 12 semaines). doi:10.3390/nu16030419\n- PMID 40660242 — Mah et al., *Nutr J* 2025 (pois chiche et glycémie postprandiale ; correspondance PepsiCo). doi:10.1186/s12937-025-01176-8\n- PMID 37960209 — Nam et al., *Nutrients* 2023 (pois chiches et glycémie). doi:10.3390/nu15214556\n- PMID 31006811 — Blanco Mejia et al., *J Nutr* 2019 (protéine de soja et LDL). doi:10.1093/jn/nxz020\n- PMID 29666853 — Namazi et al., *Food Funct* 2018 (soja et mortalité). doi:10.1039/c7fo01622k\n- PMID 31278047 — Nachvak et al., *J Acad Nutr Diet* 2019 (soja, isoflavones et mortalité). doi:10.1016/j.jand.2019.04.011\n- PMID 36986086 — Zuo et al., *Nutrients* 2023 (soja, diabète et maladies cardiovasculaires). doi:10.3390/nu15061358\n- PMID 24746974 — Bähr et al., *Clin Nutr* 2015 (protéine de lupin, lipides). doi:10.1016/j.clnu.2014.03.008\n- PMID 20938438 — Belski et al., *Int J Obes* 2011 (lupin, perte de poids). doi:10.1038/ijo.2010.213\n- PMID 18028245 — Shaw et al., *Allergy* 2008 (allergie au lupin, enfants allergiques à l'arachide). doi:10.1111/j.1398-9995.2007.01568.x\n- PMID 15228991 — Darmadi-Blackberry et al., *Asia Pac J Clin Nutr* 2004 (légumineuses et survie des personnes âgées).\n- PMID 41714947 — Haile et al., *Int J Emerg Med* 2026 (haricots rouges, cas pédiatrique ; titre seul). doi:10.1186/s12245-026-01141-0\n- Règlement (UE) n° 1169/2011, annexe II (EUR-Lex, consulté le 2026-10-14).\n- PMID 36678214 — Beretta et al., *Nutrients* 2023 (favisme). doi:10.3390/nu15020343",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "aliment",
+ "titre": "Légumineuses (lentilles, pois chiches, haricots)",
+ "type": "actif",
+ "unite": ""
+}

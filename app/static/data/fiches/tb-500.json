@@ -1,0 +1,88 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "peptide",
+ "id": "tb-500",
+ "intro": "",
+ "liens": [
+  "bpc-157",
+  "recuperation-musculaire",
+  "retatrutide"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 17,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "23084823",
+  "27450738",
+  "21872226",
+  "20536469",
+  "26056426",
+  "25826322",
+  "34346165",
+  "41229390",
+  "25042765",
+  "41476424",
+  "42578445",
+  "30063853",
+  "34170491",
+  "27596300",
+  "25168622",
+  "30029448",
+  "31758732"
+ ],
+ "preuve_globale": "C",
+ "resume": "« TB-500 » désigne à l'origine une préparation vétérinaire (chevaux de course) dont l'ingrédient clé est le fragment acétylé Ac-LKKTETQ (acides aminés 17–23 de la thymosine β4, Tβ4) (PMID 23084823). Le nom est aussi employé en ligne pour la Tβ4 entière : on ne sait pas ce qu'on achète.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- « TB-500 » désigne à l'origine une **préparation vétérinaire** (chevaux de course) dont l'ingrédient clé est le fragment acétylé Ac-LKKTETQ (acides aminés 17–23 de la thymosine β4, Tβ4) (PMID 23084823). Le nom est aussi employé en ligne pour la Tβ4 entière : on ne sait pas ce qu'on achète.\n- Les données humaines existantes portent sur la **Tβ4 entière**, par voie oculaire, cutanée ou intraveineuse, pas sur le fragment TB-500 : séries et essais de phase 2 en cicatrisation, un ECR cardiaque de 96 patients au critère principal négatif [B]. Pour l'appareil locomoteur : aucune donnée humaine [?].\n- Interdit en permanence par l'AMA (S2.3) ; en France, sa **détention sans raison médicale est un délit** (C. sport, art. L232-26). Cité par l'ANSM dans sa mise en garde de 2026.\n- Risque théorique : la Tβ4 stimule migration et invasion de cellules cancéreuses in vitro [D] et sa surexpression est associée à un pronostic défavorable dans certains cancers (association, pas causalité).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- La Tβ4 (43 acides aminés) séquestre l'actine G ; le segment 17–23 (LKKTETQ) porte le site de liaison à l'actine, la migration cellulaire et la cicatrisation (PMID 23084823) [D].\n- Effets précliniques : angiogenèse, migration des kératinocytes, dépôt de collagène, effet anti-inflammatoire [C] (PMID 27450738) ; des peptides dérivés de la Tβ4 sont pro-angiogéniques in vitro et in vivo [C] (PMID 21872226).",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Cicatrisation cutanée (animal) | Accélération chez l'animal, y compris diabétique et âgé, et sur brûlures | [C] (PMID 27450738) |\n| Ulcères (escarres, ulcères veineux) et plaies d'épidermolyse bulleuse (humain) | La revue mentionne des essais de phase 2 où la réparation était accélérée ; résultats chiffrés non donnés dans le résumé ; revue signée par des chercheurs à l'origine de ce développement | [B, phase 2, chiffres non extraits] (PMID 27450738) |\n| Ulcères cornéens neurotrophiques (humain, collyre Tβ4) | 9 patients en usage compassionnel : cicatrisation nette pour 6 défauts géographiques, aucun changement pour 3 défauts ponctués | [B, série n=9] (PMID 20536469) |\n| Sécheresse oculaire modérée à sévère (humain, collyre RGN-259 0,1 %) | ECR phase 2, 72 sujets, 28 jours : **aucun des deux critères principaux significatif** (gêne, coloration cornéenne inférieure) ; secondaires favorables (gêne −27 %, p = 0,0244 ; coloration centrale p = 0,0075) ; auteurs liés au développement | [B, critères principaux négatifs] (PMID 26056426) |\n| Sécheresse oculaire sévère (humain, RGN-259 0,1 %) | ECR phase 2, 9 patients : à J56, gêne −35,1 % (p = 0,0141) et coloration cornéenne −59,1 % (p = 0,0108) vs véhicule ; effectif minuscule | [B, n=9] (PMID 25826322) |\n| Tβ4 recombinante IV, volontaires sains | Phase I, 54 sujets en dose unique et 30 en doses répétées sur 10 jours : événements indésirables légers à modérés, pas de toxicité limitante ; promoteur = fabricant ; ne concerne pas le TB-500 ni la voie du marché gris | [B, phase I] (PMID 34346165) |\n| Infarctus STEMI après angioplastie (Tβ4 recombinante, humain) | ECR double aveugle n=96 : **pas de différence significative** de taille d'infarctus sur l'ensemble ; réduction seulement dans le sous-groupe traité < 8 h (n=43) | [B, ECR unique n=96, critère global négatif] (PMID 41229390) |\n| Fracture (souris) | Cal plus résistant (+41 % de force à la rupture) | [C] (PMID 25042765) |\n| Tendon, muscle, ligament (humain) | Aucune donnée orthopédique humaine | [?] (PMID 41476424) |\n| Fragment TB-500 (Ac-LKKTETQ) chez l'humain | Aucune étude clinique trouvée | [?] |\n\nLa revue scoping AJSM 2026 conclut que les bénéfices revendiqués des peptides dont TB-500 pour la récupération musculo-squelettique « restent non étayés » par les essais humains (PMID 42578445).",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet (règle 7 : pas de posologie). Le contenu réel d'un flacon vendu comme « TB-500 » (fragment ou Tβ4 entière, quantité, pureté) est inconnu sans analyse.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **AMA** : « Thymosine-β4 et ses dérivés, par ex. TB-500 » figure en S2.3 (Facteurs de croissance et modulateurs de facteurs de croissance), interdite en permanence (Liste des interdictions 2026, publiée au JORF par le décret n° 2025-1226 du 15 décembre 2025, en vigueur au 1er janvier 2026, Légifrance, consulté le 2026-10-03). Le PDF de wada-ama.org n'a pas pu être téléchargé depuis cette session.\n- **France, détention** : la même mention figure dans l'arrêté du 18 mars 2026 (NOR SPOV2607658A, JO du 27 mars 2026) fixant les substances dont la détention, « sans raison médicale dûment justifiée », est punie d'un an d'emprisonnement et de 3 750 € d'amende (C. sport, art. L232-26 I ; Légifrance, consulté le 2026-10-03). Le texte de l'article ne restreint pas l'infraction aux sportifs.\n- **France, ANSM** : le « TB500 » est cité parmi les « produits proposés sans autorisation des autorités sanitaires » ; « Ces produits n'ont pas été évalués par les autorités de santé et ne sont pas autorisés » (ANSM, actualité du 2026-07-02 mise à jour le 2026-08-31, consultée le 2026-10-03).\n- **UE** : aucune autorisation de mise sur le marché trouvée ; base EMA non accessible depuis cette session.\n- Médicaments Tβ4 en développement (collyre, gel) : aucun n'est autorisé en France à notre connaissance ; la revue de 2018 décrivait des essais de phase 3 oculaires « en cours » (PMID 30063853), issue non vérifiée ici [?].",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Tβ4 entière dans les essais : la revue de 2016 la qualifie de « sûre et bien tolérée » (PMID 27450738), mais il s'agit de produits pharmaceutiques contrôlés, sur des durées courtes ; cela ne s'applique pas à un produit du marché gris ni au fragment TB-500 [B].\n- Cancer (théorique) : Tβ4 et ses fragments, y compris sans site de liaison à l'actine, augmentent migration, invasion et prolifération de cellules de cancer de l'ovaire in vitro [D] (PMID 34170491) ; dans 138 tumeurs de vessie, une forte expression de Tβ4 est associée au stade, aux métastases ganglionnaires et à une survie plus courte (association) [B, cohorte] (PMID 27596300). Effet d'un apport exogène sur le risque de cancer chez l'humain : aucune donnée [?].\n- Interactions, grossesse, allaitement : aucune donnée [?].\n- Risques communs aux injectables illégaux : voir ci-dessous et la fiche [BPC-157](fiche:bpc-157).",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- La thymosine β4 fait partie des « découvertes marquantes » parmi 337 produits du marché noir analysés par le laboratoire antidopage de Cologne (2010–2013) [B, analyse de produits saisis] (PMID 25168622).\n- Peptides falsifiés achetés sur des pharmacies en ligne illégales (Belgique) : quantité très variable, pureté de 5 à 75 % pour les peptides à cystéine, arsenic et plomb au-delà des limites ICH parentérales [B, analyse de produits] (PMID 30029448). TB-500 non testé dans cette étude.\n- Mauvaise molécule : des produits vendus comme « follistatine » ne contenaient la molécule annoncée que dans 9 cas sur 17 [B, analyse de produits] (PMID 31758732).\n- Endotoxines : aucune étude PubMed trouvée sur des flacons de TB-500 [?].",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- Diagnostic de la lésion (examen, échographie, IRM) et rééducation encadrée ; stratégies de récupération mieux étayées : [récupération musculaire](fiche:recuperation-musculaire).\n- Plaies chroniques ou ulcères : prise en charge en centre de cicatrisation (non évaluée dans cette fiche) [?].\n- Sportif : toute détention est à risque pénal et disciplinaire ; contacter l'AFLD en cas de doute.\n- Pas de protocole de dosage, de reconstitution ou d'injection, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).\n\nVoir aussi : [rétatrutide](fiche:retatrutide).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Ho EN et al. *J Chromatogr A* 2012 — PMID 23084823 — [DOI](https://doi.org/10.1016/j.chroma.2012.09.043)\n2. Kleinman HK et al. *Vitam Horm* 2016 — PMID 27450738 — [DOI](https://doi.org/10.1016/bs.vh.2016.04.005)\n3. Dettin M et al. *Cell Immunol* 2011 — PMID 21872226 — [DOI](https://doi.org/10.1016/j.cellimm.2011.07.008)\n4. Dunn SP et al. *Ann N Y Acad Sci* 2010 — PMID 20536469 — [DOI](https://doi.org/10.1111/j.1749-6632.2010.05471.x)\n5. Zhang Y et al. *Cardiovasc Res* 2025 — PMID 41229390 — [DOI](https://doi.org/10.1093/cvr/cvaf223)\n6. Brady RD et al. *J Orthop Res* 2014 — PMID 25042765 — [DOI](https://doi.org/10.1002/jor.22686)\n7. Sosne G. *Expert Opin Biol Ther* 2018 — PMID 30063853 — [DOI](https://doi.org/10.1080/14712598.2018.1486818)\n8. Mayfield CK et al. *Am J Sports Med* 2026 — PMID 41476424 — [DOI](https://doi.org/10.1177/03635465251357593)\n9. Tewari K et al. *Am J Sports Med* 2026 — PMID 42578445 — [DOI](https://doi.org/10.1177/03635465261464420)\n10. Yoon HJ et al. *Genes Genomics* 2021 — PMID 34170491 — [DOI](https://doi.org/10.1007/s13258-021-01127-7)\n11. Wang ZY et al. *Neoplasma* 2016 — PMID 27596300 — [DOI](https://doi.org/10.4149/neo_2016_619)\n12. Krug O et al. *Eur J Clin Pharmacol* 2014 — PMID 25168622 — [DOI](https://doi.org/10.1007/s00228-014-1743-5)\n13. Janvier S et al. *Talanta* 2018 — PMID 30029448 — [DOI](https://doi.org/10.1016/j.talanta.2018.06.023)\n14. Reichel C et al. *Drug Test Anal* 2019 — PMID 31758732 — [DOI](https://doi.org/10.1002/dta.2741)\n15. Sosne G, Ousler GW, *Clin Ophthalmol* 2015 — PMID 26056426 — [DOI](https://doi.org/10.2147/OPTH.S80954)\n16. Sosne G et al., *Cornea* 2015 — PMID 25826322 — [DOI](https://doi.org/10.1097/ICO.0000000000000379)\n17. Wang X et al., *J Cell Mol Med* 2021 — PMID 34346165 — [DOI](https://doi.org/10.1111/jcmm.16693)\n18. Décret n° 2025-1226 du 15 décembre 2025 (Liste des interdictions 2026) — https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053036083 (consulté le 2026-10-03)\n19. Arrêté du 18 mars 2026 (détention interdite) — https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053723413 ; C. sport art. L232-26 — https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043414447/2026-01-27 (consultés le 2026-10-03)\n20. ANSM, « “Peptides” vendus en ligne : ne les utilisez pas, ils peuvent être dangereux », 2026-07-02, mis à jour 2026-08-31 — https://ansm.sante.fr/actualites/peptides-vendus-en-ligne-ne-les-utilisez-pas-ils-peuvent-etre-dangereux (consulté le 2026-10-03)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "TB-500 (thymosine bêta-4 et fragment)",
+ "type": "actif",
+ "unite": ""
+}

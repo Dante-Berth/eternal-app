@@ -1,0 +1,74 @@
+{
+ "cibles": [
+  "muscle-os"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "complement",
+ "id": "beta-alanine-carnosyn-nutrimuscle-poudre",
+ "intro": "",
+ "liens": [
+  "beta-alanine",
+  "creatine",
+  "creatine-monohydrate-decathlon"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "42370349",
+  "41971372",
+  "26175657",
+  "40205676",
+  "42384726",
+  "30980076",
+  "42639281"
+ ],
+ "preuve_globale": "A",
+ "resume": "Bêta-alanine pure (marque CarnoSyn®, un seul ingrédient) à 130-146 €/kg, soit environ 15-18 € par mois à la portion de 4,2 g/j ; le prix est le point faible, car l'effet est conditionnel au type d'effort (aucun effet sur les sprints répétés, certitude très faible chez la femme) et la créatine est…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Bêta-alanine pure (marque CarnoSyn®, un seul ingrédient) à 130-146 €/kg, soit environ 15-18 € par mois à la portion de 4,2 g/j ; le prix est le point faible, car l'effet est conditionnel au type d'effort (aucun effet sur les sprints répétés, certitude très faible chez la femme) et la créatine est mieux prouvée [A].",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "| Actif | Teneur déclarée | Preuve |\n|---|---|---|\n| Bêta-alanine (CarnoSyn®) | 4 200 mg par portion de 4,2 g (« quatre doseurs ») ; pureté minimale 98 % déclarée | Temps jusqu'à épuisement chez la femme : SMD 0,49, certitude très faible [A, très faible certitude] (PMID 42370349). Sprints répétés : aucun effet, 17 RCT [A] (PMID 41971372). Augmentation de la carnosine musculaire avec 4 à 6 g/j pendant 4 semaines [B] (PMID 26175657) |\n| Autres ingrédients | Aucun annoncé (« et c'est tout ») | Sans objet |\n\n- Marque CarnoSyn® : la marque revendique la seule bêta-alanine brevetée du marché, « 55 études cliniques » ; ces études n'ont pas été relues. Les méta-analyses de la fiche [bêta-alanine](fiche:beta-alanine) portent sur la bêta-alanine en général : un avantage propre à la forme brevetée n'est pas établi ici [?].\n- Format : 240 g (≈ 57 portions, calcul de la fiche car le nombre de portions n'est pas affiché) et 500 g ; un doseur ≈ 1,05 g (calcul, non déclaré).\n- Certifications annoncées sur la page : usine « labellisée Sport Protect » (certificat lié, document non ouvert) ; matières premières « attestées conformes AMA » avec un certificat WADA bêta-alanine lié (non ouvert) ; ingrédient certifié FSSC 22000 ; certificat halal. **Informed Sport, Cologne List et Banned Substance Control : non mentionnés** sur la page lue. Un label d'usine n'équivaut pas à un test de lot par un tiers [?].\n- Allergènes : atelier traitant lait, œuf, céréales, soja, poisson, mollusques et crustacés. Vegan selon la marque.\n- Composition, certifications et prix : eu.nutrimuscle.com, consulté le 2026-10-13.",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "- Complément alimentaire. Présence de la bêta-alanine dans la liste DGCCRF des SBNP « éligibles à l'article 15 » et dose maximale non relues à la source (PDF en HTTP 403) : voir [bêta-alanine](fiche:beta-alanine) [?].\n- Allégations de santé UE : les 14 allégations « bêta-alanine » du registre de la Commission sont toutes non autorisées (version de 2013, consulté le 2026-10-13) ; la page de la marque présente le produit comme « idéal en pré-workout » (marque) ; évolution après 2013 non vérifiée [?].\n- AMA/WADA : la bêta-alanine n'est pas nommée dans la liste 2026 (voir [bêta-alanine](fiche:beta-alanine), consulté le 2026-10-13). Le risque d'un sportif testé est la contamination.",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque dit | Les études |\n|---|---|\n| « Idéal en pré-workout » | La bêta-alanine agit par accumulation de carnosine sur plusieurs semaines (4 à 6 g/j pendant 4 semaines, PMID 26175657), pas par une prise ponctuelle avant l'effort [B] |\n| Brevetée, « 55 études cliniques », pureté ≥ 98 % | Études de la marque non relues [?] ; sprints répétés : aucun effet sur 17 RCT quelles que soient la dose et la durée [A] (PMID 41971372) |\n| Efficacité sportive (page produit) | Temps jusqu'à épuisement chez la femme : SMD 0,49 mais certitude très faible [A, très faible certitude] (PMID 42370349) ; natation : pas d'effet significatif prouvé [A, faible] (PMID 40205676) |\n| « Synergie » avec d'autres produits de la gamme | Avec la créatine, aucun bénéfice de plus que la créatine seule (réseau de 52 RCT) [A] (PMID 42384726) |\n| Petits picotements cutanés temporaires, dose à répartir | Paresthésies : OR 8,9 vs placebo, seul effet indésirable rapporté [A] (PMID 30980076) ; doses fractionnées recommandées [B] (PMID 26175657) |\n\nVoir [bêta-alanine](fiche:beta-alanine).",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Marque : 4,2 g par jour, répartis au cours des repas, dilués dans 250 mL d'eau minérale tempérée ; avec un repas ou une boisson glucidique ; la répartition réduit les picotements. La dose se situe dans la fourchette de 4 à 6 g/j étudiée pour élever la carnosine (PMID 26175657) [B]. L'ISSN cite aussi des doses fractionnées de 1,6 g pour limiter les paresthésies (PMID 26175657).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "- 240 g : 34,95 € soit 145,63 €/kg (31,46 € en abonnement, −10 %, 3 livraisons minimum). 500 g : 64,95 € soit 129,90 €/kg (58,46 € en abonnement d'après les données de la page, non affiché dans le texte). eu.nutrimuscle.com, consulté le 2026-10-13.\n- Coût à 4,2 g/j (126 g par mois) : ≈ 16,4 € avec le 500 g, ≈ 18,4 € avec le 240 g (16,5 € en abonnement). Fourchette : 15-18 € (l'abonnement 500 g donnerait ≈ 14,7 €).\n- Preuve : conditionnelle au type d'effort, avec une certitude très faible chez la femme et aucun effet sur les sprints répétés ; pour le même budget, la [créatine](fiche:creatine) est mieux étayée (voir [créatine monohydrate Decathlon](fiche:creatine-monohydrate-decathlon), environ 2 € par mois).\n- Alternative de bêta-alanine moins chère : MyProtein France (non retrouvée en ligne), Yamamoto BetaALA 250 g chez Fitadium (prix non lu) ; prix en euros d'une alternative non établi [?].",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Non consultés [?]. La marque elle-même signale des picotements cutanés temporaires.",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Paresthésies (fourmillements) : seul effet indésirable rapporté en méta-analyse, OR 8,9 (IC crédible 95 % : 2,2-32,6), transitoires ; abandons comparables au placebo ; petite hausse de l'ALAT restée dans les valeurs normales [A] (PMID 30980076). Apparition à partir de 8 g/j d'après l'Anses (avis 2014-SA-0008), à dose fractionnée ou forme retard moindres.\n- La marque déconseille le produit aux enfants, recommande l'avis d'un professionnel de santé en cas de grossesse ou d'allaitement, et déconseille l'association avec MusclePump et le pré-workout de la marque (source de marque). Interactions médicamenteuses, contre-indications et populations à risque : non documentées dans les sources lues [?].\n- Sportif testé : un ingrédient unique évite la contamination typique des mélanges préentraînement (PMID 42639281) [B], mais aucun certificat de lot indépendant n'est relevé [?].",
+   "titre": "Sécurité"
+  },
+  {
+   "markdown": "1. Nutrimuscle, « Bêta-Alanine Carnosyn® en poudre » — https://eu.nutrimuscle.com/fr/products/beta-alanine-carnosyn-r-en-poudre (consulté le 2026-10-13)\n2. PMID 42370349, PMID 41971372, PMID 40205676, PMID 42384726, PMID 30980076, PMID 26175657, PMID 42639281 : études reprises de la fiche [bêta-alanine](fiche:beta-alanine) (résumés relus lors de sa rédaction).\n3. Statut réglementaire (DGCCRF, registre UE des allégations, Anses, liste AMA 2026) : sources et dates de consultation dans la fiche [bêta-alanine](fiche:beta-alanine).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Bêta-Alanine Carnosyn® en poudre — Nutrimuscle",
+ "type": "produit",
+ "unite": ""
+}

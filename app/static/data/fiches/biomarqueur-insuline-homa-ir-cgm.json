@@ -1,0 +1,99 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention",
+  "longevite"
+ ],
+ "derniere_maj": "2026-11-02",
+ "famille": "",
+ "id": "biomarqueur-insuline-homa-ir-cgm",
+ "intro": "Fiche « examen ». Seuils de glycémie, prédiabète, traitements et détail du CGM (valeurs normales, essais, statut HAS) : [Glycémie et prédiabète](fiche:glycemie-et-prediabete). Cette fiche ajoute ce que prédisent l'insuline et le HOMA-IR, leur variabilité, et la place réelle du capteur chez le non-diabétique. L'HbA1c a sa propre fiche : [HbA1c](fiche:biomarqueur-hba1c).",
+ "liens": [
+  "alimentation",
+  "biomarqueur-hba1c",
+  "exercice-physique",
+  "glycemie-et-prediabete",
+  "metformine",
+  "semaglutide-et-glp1"
+ ],
+ "marqueurs": [
+  "insuline",
+  "homa-ir"
+ ],
+ "mesure": "mixte",
+ "nb_pmid": 8,
+ "nb_seuils": 6,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "28811358",
+  "29618016",
+  "42082197",
+  "40087045",
+  "24974303",
+  "31127824",
+  "41246623",
+  "42654410"
+ ],
+ "preuve_globale": "B",
+ "resume": "Insuline à jeun et HOMA-IR sont associés à la mortalité chez le non-diabétique, mais sur peu d'études : 7 études, 26 976 adultes ; mortalité toutes causes RR 1,34 (1,11-1,62) pour le HOMA-IR, RR 1,13 (1,00-1,27, non significatif) pour l'insuline seule [A, études observationnelles, peu nombreuses]…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Insuline à jeun et HOMA-IR sont associés à la mortalité chez le non-diabétique, mais sur peu d'études : 7 études, 26 976 adultes ; mortalité toutes causes RR 1,34 (1,11-1,62) pour le HOMA-IR, RR 1,13 (1,00-1,27, non significatif) pour l'insuline seule [A, études observationnelles, peu nombreuses] (PMID 28811358). L'association avec la mortalité cardiovasculaire repose sur 2 études (HOMA-IR RR 2,11 ; 1,01-4,41), jugée « peu fiable » par les auteurs.\n- **Le dosage est bruyant** : sur deux prélèvements à 46 jours d'écart chez 102 adultes de 68 à 88 ans sans diabète, le CV intra-individuel du HOMA-IR est de 30,4 % (insuline 28,8 %, glycémie 5,6 %) ; variation minimale détectable à 95 % : 2,3 unités de HOMA-IR [B, cohorte, sujets âgés] (PMID 29618016). Une baisse « de 3 à 2 » entre deux bilans peut être du bruit.\n- **Aucun seuil de HOMA-IR validé par un essai ou une recommandation retrouvée** [?] ; aucun essai ne montre qu'un traitement guidé par l'insuline à jeun ou le HOMA-IR réduit les événements [?].\n- Capteur de glucose chez le non-diabétique : valeurs de référence établies (153 sujets sains), utilité éducative à court terme possible, **aucun résultat clinique dur** [B] (voir section CGM).\n- Glycémie post-prandiale comme marqueur de risque indépendant chez le non-diabétique : pas de méta-analyse retrouvée dans les recherches de ce travail [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- L'insulinorésistance : il faut plus d'insuline pour obtenir le même effet sur le glucose. Le HOMA-IR dérive de deux dosages à jeun (insuline et glycémie) ; la formule exacte n'est pas relue ici. La mesure de référence est le clamp euglycémique hyperinsulinémique, lourd et réservé à la recherche (PMID 42082197, comparaison clamp vs indices, 13 sujets, résumé relu).\n- Le HOMA-IR ne dit rien de la glycémie après repas ni de la sécrétion d'insuline en réponse à un repas.\n- Dosage de l'insuline : standardisation entre laboratoires et seuils par méthode : non recherchés [?]. Comparer deux résultats du même laboratoire.",
+   "titre": "Mécanisme et ce que mesure l'examen"
+  },
+  {
+   "markdown": "Conversion : 1 µUI/mL = 6,0 pmol/L (facteur du moteur : pmol/L × 0,1667 = µUI/mL). Aucun seuil officiel d'insulinorésistance n'a été retrouvé ; les seuils ci-dessous sont des points de coupure statistiques (indice de Youden) pour prédire un diabète futur, propres à une cohorte, et ne définissent pas une « insulinorésistance ».\n\n| Marqueur | Unité | Borne | Signification | Population | Source |\n|---|---|---|---|---|---|\n| Insuline à jeun | µUI/mL | ≥ 9 à 15 (selon l'horizon de suivi) | point de coupure optimal pour prédire un diabète de type 2 incident à 3, 6 ou 9 ans | femme adulte d'âge moyen sans diabète (cohorte ARIC) | [B, cohorte] Xing 2025, PMID 40087045 |\n| Insuline à jeun | µUI/mL | ≥ 11 à 12 (selon l'horizon de suivi) | point de coupure optimal pour prédire un diabète de type 2 incident | homme adulte d'âge moyen sans diabète (cohorte ARIC) | [B, cohorte] PMID 40087045 |\n| HOMA-IR | sans unité | ≥ 2,4 à 3,2 (selon l'horizon de suivi) | point de coupure optimal pour prédire un diabète de type 2 incident (AUC 0,69-0,78) | femme adulte d'âge moyen sans diabète (cohorte ARIC) | [B, cohorte] PMID 40087045 |\n| HOMA-IR | sans unité | ≥ 2,8 à 3,2 (selon l'horizon de suivi) | point de coupure optimal pour prédire un diabète de type 2 incident | homme adulte d'âge moyen sans diabète (cohorte ARIC) | [B, cohorte] PMID 40087045 |\n| HOMA-IR | sans unité | — | seuil d'insulinorésistance validé (diagnostic ou cible) | adulte | non retrouvé [?] |\n| Insuline à jeun | µUI/mL | — | valeur de référence par méthode de dosage | adulte | non retrouvé [?] |",
+   "titre": "Valeurs, unités et seuils (avec la source de chaque seuil)"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| Mortalité toutes causes, non-diabétiques (HOMA-IR, top vs bas) | RR 1,34 (1,11-1,62) ; insuline seule 1,13 (1,00-1,27) ; 7 études, 26 976 adultes | [A, observationnel] (PMID 28811358) |\n| Mortalité cardiovasculaire (HOMA-IR) | RR 2,11 (1,01-4,41), 2 études ; insuline seule 1,40 (0,49-3,96), 1 étude | [A, très peu d'études] (PMID 28811358) |\n| Mortalité coronaire, hommes finlandais non diabétiques, 20 ans (273 décès) | HR quartile haut vs bas : HOMA-IR 1,69 (1,15-2,48) ; insuline 1,59 (1,09-2,32) ; glycémie à jeun 1,26 (0,90-1,76, non significatif) | [B, cohorte unique, hommes] (PMID 24974303) |\n| Répétabilité à 46 jours (adultes de 68-88 ans) | ICC 0,70 ; CV intra-individuel 30,4 % ; MDC95 = 2,3 | [B, n=102] (PMID 29618016) |\n\nLecture : association probable avec le risque, mais (1) population, dosage et seuils variables, (2) corrélation forte avec l'adiposité abdominale, que les modèles ajustent plus ou moins, (3) aucune preuve d'un bénéfice à cibler le chiffre lui-même. Le gain de prédiction au-delà des facteurs classiques (C-index) n'a pas été retrouvé [?].",
+   "titre": "Ce que le chiffre prédit"
+  },
+  {
+   "markdown": "- **Valeurs de référence** (153 sujets sains non obèses, 7-80 ans, Dexcom G6, jusqu'à 10 jours) : glycémie moyenne 98-99 mg/dL (104 après 60 ans) ; 96 % du temps entre 70 et 140 mg/dL ; 2,1 % du temps (30 min/j) au-dessus de 140 ; CV 17 % [B, étude prospective] (PMID 31127824). Un capteur en vie courante affiche donc des excursions brèves même chez un sujet sain.\n- **Usage guidé par un capteur** : revue systématique de 7 études (2020-2025, synthèse narrative) : marcher avant le pic post-prandial réduit glucose, insuline et peptide C ; le capteur sert de levier de motivation ; critères de substitution seulement [B] (PMID 41246623).\n- **Hypothèse non testée** : une revue narrative récente propose un parcours « CGM + alimentation + jeûne + metformine/acarbose » pour la prévention cardiovasculaire, tout en écrivant que les essais à critères durs manquent et que le cadre reste « hypothesis-generating » [B, revue narrative, hypothèse] (PMID 42654410).\n- Aucun essai trouvé avec incidence du diabète ou événement cardiovasculaire comme critère chez le non-diabétique (voir la [fiche liée](fiche:glycemie-et-prediabete)) [?].\n- **Statut en France** : voir la [fiche liée](fiche:glycemie-et-prediabete) (avis HAS lus pour les diabétiques traités par insuline ; rien trouvé pour les personnes sans diabète). Capteurs grand public : marquage CE et disponibilité en France non vérifiés ici [?].",
+   "titre": "Capteurs de glucose (CGM) chez le non-diabétique"
+  },
+  {
+   "markdown": "- Pas de recommandation de dosage systématique de l'insuline retrouvée dans ce travail [?]. En pratique, la glycémie à jeun et l'HbA1c suffisent pour dépister le prédiabète ([HbA1c](fiche:biomarqueur-hba1c)).\n- Contexte où l'insuline/HOMA-IR peut avoir du sens : discussion d'un syndrome métabolique, d'un SOPK ou d'un foie gras avec un médecin ; l'intérêt incrémental par rapport au tour de taille, aux triglycérides et à la glycémie n'est pas démontré ici [?].\n- Conditions de prélèvement (jeûne, durée, traitements) : à respecter à l'identique d'un bilan à l'autre ; durée de jeûne optimale non vérifiée [?].",
+   "titre": "Qui, quand, comment"
+  },
+  {
+   "markdown": "Les leviers à preuve sont ceux du syndrome métabolique et du prédiabète, pas un « traitement de l'insuline » : perte de poids, activité physique, alimentation, puis avis médical pour les médicaments. Détail et preuves : [glycémie et prédiabète](fiche:glycemie-et-prediabete), [exercice physique](fiche:exercice-physique), [alimentation](fiche:alimentation), [metformine](fiche:metformine), [sémaglutide et GLP-1](fiche:semaglutide-et-glp1). Pas de schéma ici.",
+   "titre": "Que faire d'un HOMA-IR élevé"
+  },
+  {
+   "markdown": "Insuline à jeun : examen de biologie médicale sur prescription. Cotation NABM, prix et remboursement : non retrouvés dans les sources officielles consultées [?]. Aucun statut AMA pertinent (examen).",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "- Interpréter une variation de HOMA-IR de 1-2 points entre deux bilans comme un progrès ou une dégradation (bruit de 30 %, PMID 29618016).\n- Fixer un « seuil optimal » de HOMA-IR vu sur internet : pas de seuil validé retrouvé [?].\n- Porter un capteur pour « dépister » un prédiabète ou comparer ses pics à ceux d'un autre : 2 % du temps au-dessus de 140 mg/dL est normal (PMID 31127824).\n- Conclure que l'insuline normale écarte une insulinorésistance : la fiche n'a pas de donnée de sensibilité/spécificité du HOMA-IR par rapport au clamp [?].",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Aplatir les pics de glycémie rallonge la vie »** : aucun essai à critère clinique chez le non-diabétique ; les revues disponibles ne trouvent que des critères de substitution à court terme (PMID 41246623, 42654410) [M].\n- **« Le HOMA-IR est l'indicateur anti-âge de référence »** : associations avec la mortalité sur peu d'études, bruit de 30 % entre deux dosages, aucun essai de cible (PMID 28811358, 29618016).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Chez les hommes finlandais suivis 20 ans, l'insuline et le HOMA-IR étaient associés à la mortalité coronaire, la **glycémie à jeun non** (HR 1,26, IC 0,90-1,76) : un sujet « normoglycémique » peut avoir un HOMA-IR élevé [B] (PMID 24974303). Reste un résultat de cohorte unique.",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Glycémie à jeun ou HbA1c au-dessus des seuils ([glycémie et prédiabète](fiche:glycemie-et-prediabete)), soif intense, perte de poids inexpliquée, antécédent familial de diabète avec tour de taille élevé : avis médical. Ne pas attendre un HOMA-IR.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 28811358 — Zhang X et al., Fasting insulin, insulin resistance, and risk of cardiovascular or all-cause mortality in non-diabetic adults: a meta-analysis. *Biosci Rep* 2017 (résumé relu).\n- PMID 24974303 — Kurl S et al., HOMA-IR, fasting insulin and fasting glucose with CHD mortality in nondiabetic men: a 20-year observational study. *Acta Diabetol* 2015 (résumé relu).\n- PMID 29618016 — Poon AK et al., Short-term repeatability of insulin resistance indexes in older adults: ARIC. *J Clin Endocrinol Metab* 2018 (résumé relu).\n- PMID 31127824 — Shah VN et al., CGM profiles in healthy nondiabetic participants. *J Clin Endocrinol Metab* 2019. doi:10.1210/jc.2018-02763 (résumé relu).\n- PMID 41246623 — Ahmed N et al., CGM in non-diabetic individuals for cardiovascular prevention: systematic review. *Cureus* 2025. doi:10.7759/cureus.94460 (résumé relu, tronqué).\n- PMID 42654410 — Văcărescu C, Cozma D, CGM as a candidate precision tool for cardiovascular prevention and healthy longevity, narrative review. *Medicina (Kaunas)* 2026. doi:10.3390/medicina62081513 (résumé relu).\n- PMID 42082197 — Sanchez-Delgado G et al., insulin sensitivity combining CGM and urinary C-peptide excretion. *Diabetes Obes Metab* 2026. doi:10.1111/dom.70802 (résumé relu).\n- PMID 40087045 — Xing Z et al., Sex-specific optimal cut-off points for metabolic health indicators to predict incident type 2 diabetes mellitus. *Nutr Metab Cardiovasc Dis* 2025. doi:10.1016/j.numecd.2025.103963 (résumé relu).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Biomarqueur : insuline à jeun, HOMA-IR et capteurs de glucose (CGM)",
+ "type": "biomarqueur",
+ "unite": ""
+}

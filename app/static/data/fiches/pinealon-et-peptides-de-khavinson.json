@@ -1,0 +1,86 @@
+{
+ "cibles": [
+  "cerveau",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-14",
+ "famille": "peptide",
+ "id": "pinealon-et-peptides-de-khavinson",
+ "intro": "",
+ "liens": [
+  "cerebrolysine-et-cortexine",
+  "declin-cognitif-et-neurodegenerescence",
+  "dsip",
+  "epitalon",
+  "exercice-physique",
+  "melatonine",
+  "selank-et-semax",
+  "sommeil",
+  "thymuline"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 8,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "21978084",
+  "22567179",
+  "26390612",
+  "33396470",
+  "28509493",
+  "24738258",
+  "30029448",
+  "31758732"
+ ],
+ "preuve_globale": "C",
+ "resume": "Pinéalon : tripeptide Glu-Asp-Arg (EDR), vendu comme « neuroprotecteur », « nootrope » et « anti-âge cérébral ». Il appartient à la famille des « peptides bio-régulateurs » (courts di-, tri- ou tétrapeptides, dont l'épitalon et le Vesugen) développée par le gérontologue russe Vladimir Khavinson.",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Pinéalon** : tripeptide Glu-Asp-Arg (EDR), vendu comme « neuroprotecteur », « nootrope » et « anti-âge cérébral ». Il appartient à la famille des « peptides bio-régulateurs » (courts di-, tri- ou tétrapeptides, dont l'[épitalon](fiche:epitalon) et le Vesugen) développée par le gérontologue russe Vladimir Khavinson.\n- **Honnêteté sur les sources** : sur les 22 résultats PubMed pour « pinealon » (recherche du 2026-10-14), d'après les noms d'auteurs et les revues de la liste, la quasi-totalité vient de laboratoires russes, dont plusieurs articles signés par Khavinson lui-même ; une grande part est publiée dans une revue russe de gérontologie (*Advances in Gerontology*) ou dans le *Bulletin of Experimental Biology and Medicine*. **Aucune réplication indépendante hors de ce réseau ni aucun ECR en double aveugle trouvés** [?]. Cela ne prouve pas que les résultats sont faux ; cela signifie qu'on ne peut pas les considérer comme confirmés. L'affiliation de chaque article n'a pas été vérifiée une par une.\n- Preuves : cellules et rats. Pinéalon et ROS dans des neurones cérébelleux, neutrophiles et cellules PC12 en culture : moins de ROS et de mort nécrotique, modification du cycle cellulaire [D] (PMID 21978084, article cosigné par Khavinson). Chez le rat, l'administration à des mères atteintes d'hyperhomocystéinémie expérimentale a amélioré l'apprentissage et la résistance des neurones de leurs petits au stress oxydant [C] (PMID 22567179).\n- Humain : une étude sur 32 patients âgés de 41 à 83 ans, polypathologiques avec syndrome cérébral organique en rémission, conclut à un effet « géroprotecteur » du pinéalon et du Vesugen (âge biologique), avec aussi une **activité pro-oxydante** et une **inhibition de l'hématopoïèse** relevées par les auteurs eux-mêmes ; groupe contrôle et aveugle : non décrits dans le résumé [B, très faible, série non contrôlée apparente, n=32] (PMID 26390612).\n- Aucun produit à base de pinéalon n'est autorisé en France ; ne pas confondre avec les « extraits de glande pinéale » ni avec la mélatonine ([mélatonine](fiche:melatonine), un complément ou médicament avec de réelles données).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Selon l'équipe, les peptides courts entreraient dans la cellule, se lieraient aux histones ou aux acides nucléiques et moduleraient l'expression des gènes ; pour l'EDR, une revue de 2020 rédigée par Khavinson décrit une action sur la voie MAPK/ERK, la caspase-3, p53, SOD2, GPX1, la sérotonine et d'autres protéines impliquées dans l'Alzheimer, « supposée » à partir de modèles et d'expériences in vitro/animales [D, revue de l'équipe] (PMID 33396470).\n- Dans les cellules, le pinéalon réduit les ROS et active des processus prolifératifs, d'où la conclusion de ses auteurs qu'il interagit « directement avec le génome de la cellule » (PMID 21978084) [D] : hypothèse, non démontrée chez l'humain.",
+   "titre": "Mécanisme proposé"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| Stress oxydant (cellules : neurones cérébelleux, neutrophiles, PC12) | Moins de ROS et de nécrose, ERK1/2 activé plus tardivement | [D] (PMID 21978084) |\n| Hyperhomocystéinémie prénatale (rat) | Meilleure orientation spatiale et apprentissage des petits ; neurones plus résistants | [C] (PMID 22567179) |\n| Hypoxie et hypothermie, rats âgés de 18 mois | Effets sur le comportement et la neurochimie ; la cortexine agit davantage sur les radicaux libres et la caspase-3 que le pinéalon | [C] (PMID 28509493) |\n| Polypathologie avec syndrome cérébral organique (humain) | Âge biologique amélioré selon les auteurs, avec marqueurs pro-oxydants et moins de cellules CD34+ | [B, n=32, non contrôlé apparent] (PMID 26390612) |\n| Revue des « bio-régulateurs » neuroprotecteurs (humain) | Revue russe comparant cortexine et cérébrolysine (complexes polypeptidiques) à Semax, Cortagen et pinéalon (peptides courts) ; chiffres cliniques non extraits | [?] (PMID 24738258) |\n| Mémoire, concentration, anti-âge cérébral du sujet sain | Aucun essai contrôlé en double aveugle trouvé | [?] |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "Sans objet (règle 7 : pas de posologie). Les concentrations des expériences cellulaires ne se transposent pas à l'humain, et le contenu réel des flacons est inconnu sans analyse.",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **France** : aucune occurrence « pinéalon », « Vesugen » ni « épithalamine » dans les fichiers CIS_bdpm et CIS_COMPO_bdpm de la base publique des médicaments (BDPM, téléchargés le 2026-10-14). Pas de nom dans la mise en garde ANSM sur les « peptides » vendus en ligne, dont le message général s'applique (« Ces produits n'ont pas été évalués par les autorités de santé et ne sont pas autorisés », ANSM, 2026-07-02 mise à jour 2026-08-31, consultée le 2026-10-14).\n- **Russie et autres pays** : statut réglementaire de ces peptides : non consulté [?].\n- **AMA** : non cité nommément (recherche dans le texte de la Liste 2026 (PDF WADA, consulté le 2026-10-14) : aucune mention nominative) ; une substance sans approbation de santé humaine relève de la classe S0 par la définition de la classe.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Seule observation de sécurité humaine trouvée : signal pro-oxydant et baisse des cellules souches hématopoïétiques CD34+ dans l'étude de 32 patients, interprété par les auteurs comme une inhibition de l'hématopoïèse sans conséquence clinique démontrée [B, très faible] (PMID 26390612). Ce signal n'est pas rassurant : aucun suivi hématologique n'est décrit dans les résumés des autres travaux.\n- Interactions, grossesse, usage prolongé : aucune donnée trouvée [?].",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- Contrefaçons de peptides vendus par des pharmacies en ligne illégales : pureté de 5 à 75 % pour les peptides à cystéine, arsenic inorganique et plomb jusqu'à dix fois la limite parentérale ICH [B, analyse de produits] (PMID 30029448) ; pour la follistatine, 9 produits sur 17 en contenaient réellement [B] (PMID 31758732). Aucune de ces études ne porte sur le pinéalon ; analyse de flacons de pinéalon : aucune trouvée [?].",
+   "titre": "Qualité des produits du marché gris"
+  },
+  {
+   "markdown": "- Trouble de la mémoire ou de la concentration : bilan (sommeil, humeur, thyroïde, B12, médicaments, audition), consultation mémoire si plainte persistante ; voir [déclin cognitif](fiche:declin-cognitif-et-neurodegenerescence), [sommeil](fiche:sommeil) et [exercice physique](fiche:exercice-physique).\n- Pas de protocole de dosage ni d'injection, pas de fiche produit (règle 7).",
+   "titre": "Ce qu'un médecin pourrait évaluer / alternatives autorisées"
+  },
+  {
+   "markdown": "Aucun (règle 7).\n\nVoir aussi : [épitalon](fiche:epitalon) (même réseau d'auteurs, même absence de réplication indépendante), [Selank et Semax](fiche:selank-et-semax), [cérébrolysine et cortexine](fiche:cerebrolysine-et-cortexine), [DSIP](fiche:dsip), [thymuline](fiche:thymuline).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "1. Khavinson V et al. *Rejuvenation Res* 2011 — PMID 21978084 — [DOI](https://doi.org/10.1089/rej.2011.1172)\n2. Arutjunyan A et al. *Int J Clin Exp Med* 2012 — PMID 22567179 (rat ; pas de DOI dans la notice PubMed)\n3. Mendzheritsky AM et al. *Adv Gerontol* 2015 — PMID 28509493 (rats âgés ; résumé relu)\n4. Meshchaninov VN et al. *Adv Gerontol* 2015 — PMID 26390612 (humain, n=32 ; résumé relu)\n5. Khavinson V et al. *Molecules* 2020 — PMID 33396470 — [DOI](https://doi.org/10.3390/molecules26010159) (revue de l'équipe)\n6. Umnov RS et al. *Adv Gerontol* 2013 — PMID 24738258 (revue ; résumé sans chiffres)\n7. Janvier S et al. *Talanta* 2018 — PMID 30029448 — [DOI](https://doi.org/10.1016/j.talanta.2018.06.023)\n8. Reichel C et al. *Drug Test Anal* 2019 — PMID 31758732 — [DOI](https://doi.org/10.1002/dta.2741)\n9. BDPM, fichiers CIS_bdpm et CIS_COMPO_bdpm, téléchargés le 2026-10-14.\n10. ANSM, « “Peptides” vendus en ligne : ne les utilisez pas, ils peuvent être dangereux », 2026-07-02, mis à jour 2026-08-31 — https://ansm.sante.fr/actualites/peptides-vendus-en-ligne-ne-les-utilisez-pas-ils-peuvent-etre-dangereux (consulté le 2026-10-14)\n11. AMA, Liste des interdictions 2026, classe S0 (consultée le 2026-10-14).",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_autorise",
+ "titre": "Pinéalon (EDR) et « peptides bio-régulateurs » de Khavinson",
+ "type": "actif",
+ "unite": ""
+}

@@ -1,0 +1,67 @@
+{
+ "cibles": [
+  "peau",
+  "sens-bouche"
+ ],
+ "derniere_maj": "2026-10-06",
+ "famille": "complement",
+ "id": "sports-research-astaxanthin-triple-strength-12-mg",
+ "intro": "",
+ "liens": [
+  "astaxanthine"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "32874213",
+  "34578794",
+  "40761858",
+  "40014233",
+  "32202443"
+ ],
+ "preuve_globale": "B",
+ "resume": "Même molécule que les astaxanthines européennes à 4 ou 8 mg, mais à une dose de 12 mg que les essais n'ont pas justifiée et qui dépasse le plafond de 8 mg/jour des compléments en UE ; pour un acheteur français, c'est un produit d'import américain plus cher et hors cadre, à écarter au profit d'une…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "Même molécule que les astaxanthines européennes à 4 ou 8 mg, mais à une dose de 12 mg que les essais n'ont pas justifiée et qui dépasse le plafond de 8 mg/jour des compléments en UE ; pour un acheteur français, c'est un produit d'import américain plus cher et hors cadre, à écarter au profit d'une astaxanthine européenne à 4 ou 8 mg.",
+   "titre": "Verdict en une phrase"
+  },
+  {
+   "markdown": "Page Target (US), lue le 2026-10-06 ; le panneau « Supplement Facts » n'a pas été lu (WebFetch renvoie un résumé de la page, pas l'étiquette).\n\n| Élément | Teneur déclarée | Preuve |\n|---|---|---|\n| Astaxanthine de *Haematococcus pluvialis*, « source islandaise » | 12 mg par portion (1 softgel) ; 60 softgels = 60 jours | Peau/yeux : essais à 3-6 mg [B] ; lipides/glycémie : méta-analyses [A, modeste] ; performance : nulle [A] (voir [astaxanthine](fiche:astaxanthine)) |\n| Huile de coco vierge bio | quantité non indiquée | porteur lipophile ; l'affirmation « aide l'absorption » est celle de la marque [M] |\n| Enveloppe : gélatine, glycérine végétale, eau purifiée | - | - |\n| Tocophérols | quantité non indiquée | antioxydant de conservation |\n\nAllergènes déclarés : noix (coco) ; sans soja ni gluten. Mentions : non-OGM, usines conformes cGMP avec analyses par un tiers (page Target, [M]). Une version « veggie softgels » apparaît chez certains revendeurs (Fruugo) : la page Target indique de la gélatine, ce qui est contradictoire entre les sources [?].\n\n**Limite de la lecture** : page Sports Research (marque) en 404, iHerb en 403, Amazon illisible par l'outil ; l'étiquette complète, les conseils d'emploi et les avertissements n'ont pas été vus. Prix chez Amazon, iHerb, Macy's et eBay relevés via un moteur de recherche, non lus à la page.",
+   "titre": "Composition : actifs clés + concentration si connue + preuve de chaque actif"
+  },
+  {
+   "markdown": "- **Statut FR/UE** : produit américain (complément alimentaire aux États-Unis). Dans l'UE, l'astaxanthine d'*H. pluvialis* en complément est un nouvel aliment limité à **8 mg d'astaxanthine/jour** pour les plus de 14 ans (règlement d'exécution (UE) 2023/1581 modifiant 2017/2470, EUR-Lex, consulté le 2026-10-06). **12 mg/jour dépasse ce plafond** ; l'EFSA n'a évalué la sécurité des compléments que jusqu'à 8 mg/j (PMID 32874213).\n- **Importation** : pas de distributeur français trouvé ; le produit s'achète sur des sites américains avec expédition internationale. Conformité à l'étiquetage français (langue, mentions UE) : non vérifiée [?]. Un complément à 12 mg commercialisé en France serait un produit non conforme ; la position d'importation individuelle (usage personnel) n'a pas été vérifiée auprès de la DGCCRF [?].\n- **AMA** : astaxanthine non vérifiée sur la liste 2026 ; risque de contamination des compléments non certifiés [?].",
+   "titre": "Statut réglementaire"
+  },
+  {
+   "markdown": "| La marque dit (page Target, lue le 2026-10-06) | Les études |\n|---|---|\n| « Soutient l'activité antioxydante », bénéfice pour la peau et les yeux | Peau : hydratation et élasticité un peu mieux, rides non significatives [A, contradictoire] (PMID 34578794, 40761858) ; yeux : un petit essai pédiatrique à 4 mg, auteurs AstaReal [B] (PMID 40014233) |\n| « Triple Strength », « formule tout-en-un » | Aucun essai ne compare 12 mg à 4 mg ; les essais sur la peau utilisent 3-6 mg (PMID 32202443) [?] |\n| Huile de coco « pour optimiser l'absorption » | Non démontré par un essai lu ici [M] |\n| Avis clients : réduction des corps flottants, souplesse articulaire | Aucune donnée trouvée [?] |\n\nLes trois essais positifs (peau, œil) étant en partie industriels, voir [conflits d'intérêt](fiche:astaxanthine).",
+   "titre": "Ce que dit la marque vs ce que disent les études"
+  },
+  {
+   "markdown": "Une softgel par jour d'après la page Target (60 softgels = 2 mois) ; instructions complètes de l'étiquette non lues [?]. Les études prennent l'actif pendant 4 à 12 semaines avec ou sans repas ; l'absorption plus forte avec des graisses n'est pas démontrée par un essai ici. Sécurité et interactions : [astaxanthine](fiche:astaxanthine).",
+   "titre": "Mode d'application"
+  },
+  {
+   "markdown": "Prix par mois (30 softgels), converti à 0,891 €/USD (taux EUR/USD de 1,1249 trouvé par recherche web pour le 2026-10-06, source non vérifiée) :\n\n| Vendeur | Prix US | ≈ €/mois |\n|---|---|---|\n| Target (lu à la page) | 41,32 $ ; 30,99 $ avec Target Circle | 18,4 ; 13,8 |\n| Amazon.com (résultat de recherche) | 26,95 $ ; 22,91 $ en abonnement | 12,0 ; 10,2 |\n| iHerb (résultat de recherche) | 27,97 $ | 12,5 |\n\nFourchette retenue : 10-18 €/mois, hors frais de port, TVA et droits de douane à l'import (non estimés) [?].\n\n**Alternatives européennes** (annonces vues dans les résultats de recherche sur Amazon.fr et Cdiscount, 2026-10-06, pages non lues pour le prix) :\n- Astaxanthine 8 mg, 120 capsules, 21,47 € (Cdiscount) : ≈ 5,4 €/mois, **à la limite du plafond UE** et plus proche de la zone étudiée.\n- Astaxanthine 4 mg en gélules (Nutrimea, Aroma-Zone, Nutrixeal) : prix non relevé [?].\n- « Nu U Nutrition » 12 mg, 180 softgels, « fabriqué en Europe » : 16,78 € sur Amazon.fr (≈ 2,8 €/mois), mais 12 mg dépasse aussi le plafond ; à ne pas retenir malgré le prix.\n\n**Top 3 (critères : preuve de l'actif, concentration efficace, prix, tolérance)**\n1. Astaxanthine 4 mg de marque européenne : dose des essais sur la peau et l'œil, plafond UE respecté, quelques euros par mois. Preuve équivalente, tolérance mieux documentée aux doses étudiées.\n2. Astaxanthine 8 mg européenne : plafond UE, ≈ 5,4 €/mois, aucune preuve que 8 mg fasse mieux que 4 mg.\n3. Sports Research 12 mg : même preuve, dose non justifiée et au-dessus du plafond UE, import, prix 2 à 4 fois supérieur.\n\nPour le risque réel, voir la [fiche actif](fiche:astaxanthine) : l'astaxanthine a des effets modestes sur les marqueurs métaboliques et peu d'effet clinique démontré.",
+   "titre": "Rapport preuve/prix + alternative moins chère à preuve équivalente ou supérieure"
+  },
+  {
+   "markdown": "Note Target : 4,6/5 sur 149 avis (page lue, 2026-10-06). Tolérance, texture et odeur : aucun détail lu [?]. Les bénéfices rapportés par les clients (corps flottants, souplesse) ne sont pas une preuve.",
+   "titre": "Retours utilisateurs (tolérance/texture uniquement)"
+  },
+  {
+   "markdown": "- Target.com, produit « Sports Research Astaxanthin Triple Strength 12 mg 60 softgels », prix, composition, allégations, avis, consulté le 2026-10-06.\n- Résultats de recherche web (Amazon.com, iHerb, Macy's, eBay, Cdiscount, Amazon.fr), prix, 2026-10-06 ; taux EUR/USD de 1,1249 trouvé par recherche web pour le 2026-10-06, source non vérifiée.\n- Règlement d'exécution (UE) 2023/1581 du 1er août 2023 (JO L 194/5), EUR-Lex, consulté le 2026-10-06.\n- PMID 32874213 — EFSA NDA Panel, *EFSA J* 2020. doi:10.2903/j.efsa.2020.5993\n- PMID 34578794 — Zhou X et al., *Nutrients* 2021. doi:10.3390/nu13092917\n- PMID 40761858 — Yang Q et al., *Front Med* 2025. doi:10.3389/fmed.2025.1582946\n- PMID 32202443 — Ng QX et al., *J Diet Suppl* 2020. doi:10.1080/19390211.2020.1739187\n- PMID 40014233 — Hecht K et al., *Adv Ther* 2025. doi:10.1007/s12325-025-03125-7",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Sports Research Astaxanthin Triple Strength 12 mg (60 softgels)",
+ "type": "produit",
+ "unite": ""
+}

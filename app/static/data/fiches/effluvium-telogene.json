@@ -1,0 +1,77 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-03",
+ "famille": "",
+ "id": "effluvium-telogene",
+ "intro": "",
+ "liens": [
+  "alimentation-cheveux",
+  "alopecie-androgenetique-femme",
+  "biomarqueur-fer-ferritine-transferrine",
+  "fer-et-ferritine"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 5,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "39950230",
+  "41607990",
+  "41535530",
+  "41214906",
+  "42210891"
+ ],
+ "preuve_globale": "B",
+ "resume": "Chute diffuse non cicatricielle, cause la plus fréquente de chute diffuse chez la femme [B] (PMID 39950230).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Chute diffuse non cicatricielle, cause la plus fréquente de chute diffuse chez la femme [B] (PMID 39950230).\n- Déclencheurs : médicaments, traumatisme, stress physique ou émotionnel ; carences fréquentes au bilan [B] (PMID 39950230).\n- Ferritine plus basse chez les femmes avec TE : 24,3 vs 44,8 ng/mL chez les témoins ; < 15 ng/mL chez 28 % des cas et aucun témoin (étude transversale, 100 femmes) [B] (PMID 41607990).\n- Aucun essai randomisé de traitement lu [?] ; le traitement est d'abord la correction de la cause.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Passage prématuré de follicules en phase télogène, avec chute excessive [B] (PMID 41607990). Sommeil : substance P et inflammation neurogène proposées pour le TE [B] (PMID 41535530).",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Levier | Preuve | Notes |\n|---|---|---|\n| Corriger une carence en fer (voir [fer et ferritine](fiche:fer-et-ferritine)) | [?] aucun essai de supplémentation lu ; association ferritine basse–TE [B] | Cross-sectionnel, n=100 : association ne prouve pas la causalité |\n| Bilan biologique (ferritine, TSH, B12) | [B] rétrospectif de 2851 femmes : ferritine basse chez 46,5 %, carence en fer 29,5 %, B12 5,8 % ; hémoglobine basse 11,1 % | Étude monocentrique rétrospective, pas de groupe témoin |\n| Arrêt du médicament en cause | [?] | À décider avec le prescripteur |\n| GLP-1 (sémaglutide, tirzépatide) | [B] revue de portée : lien possible avec TE, risque ↑ avec la perte de poids et la dose ; preuves conflictuelles | Contexte : perte de poids rapide |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "Pas de protocole cosmétique validé. Consultation → bilan → correction de la cause → réévaluation à 3–6 mois.",
+   "titre": "Protocoles"
+  },
+  {
+   "markdown": "- Prendre du fer à l'aveugle : une surcharge a des risques ; le dosage relève d'un médecin (non sourcé ici).\n- Confondre TE chronique et FPHL ([fiche femme](fiche:alopecie-androgenetique-femme)).",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Cure de compléments anti-chute en 1 mois »** : aucun essai randomisé lu pour le TE [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Dans une cohorte brésilienne (AGA auto-déclarée, 80 paires appariées dont 17 de femmes), la ferritine augmentait avec la sévérité de l'apnée du sommeil chez les femmes [B] (PMID 41214906). Petit échantillon ; causalité et portée pratique non établies.",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "[Alimentation et cheveux](fiche:alimentation-cheveux)",
+   "titre": "Voir aussi"
+  },
+  {
+   "markdown": "Chute > 6 mois, perte de poids rapide, signes thyroïdiens, ou traitement GLP-1 en cours avec chute importante.\n\nFiches « examen » liées : [bilan du fer](fiche:biomarqueur-fer-ferritine-transferrine)",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- PMID 41607990 — Thamotharan et al., *Cureus* 2025, ferritine et TE (100 femmes). doi:10.7759/cureus.100249\n- PMID 39950230 — Karakoyun et al., *J Cosmet Dermatol* 2025, 2851 femmes avec TE (rétrospectif). doi:10.1111/jocd.70037\n- PMID 42210891 — Zarabian et al., *Dermatol Surg* 2026, GLP-1 et chute (revue de portée). doi:10.1097/DSS.0000000000005176\n- PMID 41535530 — Boghosian T. et al., *Dermatol Ther (Heidelb)* 2026, sommeil et chute (revue systématique). doi:10.1007/s13555-025-01641-6\n- PMID 41214906 — Xerfan et al., *J Sleep Res* 2025, fer et apnée du sommeil dans l'AGA. doi:10.1111/jsr.70236",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "non_applicable",
+ "titre": "Effluvium télogène",
+ "type": "condition",
+ "unite": ""
+}

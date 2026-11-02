@@ -1,0 +1,83 @@
+{
+ "cibles": [
+  "prevention",
+  "coeur-metabolisme",
+  "longevite"
+ ],
+ "derniere_maj": "2026-10-16",
+ "famille": "",
+ "id": "depistage-score-calcique-coronaire-cac",
+ "intro": "",
+ "liens": [
+  "apob-lipides-et-statines",
+  "irm-corps-entier-prenuvo-et-coeur",
+  "prevention-avc-et-infarctus"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 6,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "35467692",
+  "18367736",
+  "30145934",
+  "39863372",
+  "35240010",
+  "30423391"
+ ],
+ "preuve_globale": "A",
+ "resume": "Le CAC (scanner sans injection, quelques minutes) affine le risque cardiovasculaire, il ne traite rien. Ajouté à un calculateur de risque : gain de statistique C de +0,036 sur 6 cohortes (17 961 sujets) ; les auteurs jugent le gain modeste et concluent qu'aucune donnée ne montre un bénéfice clini…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **Le CAC (scanner sans injection, quelques minutes) affine le risque cardiovasculaire, il ne traite rien.** Ajouté à un calculateur de risque : gain de statistique C de +0,036 sur 6 cohortes (17 961 sujets) ; les auteurs jugent le gain modeste et concluent qu'aucune donnée ne montre un bénéfice clinique de l'ajout du CAC [A, observationnelle] (PMID 35467692).\n- **Valeur pronostique solide** : dans MESA (6 722 sujets sans maladie cardiovasculaire, suivi médian 3,8 ans), le risque d'événement coronarien était multiplié par 9,67 pour un score > 300 versus 0, dans les quatre groupes ethniques [B, cohorte prospective unique, n=6 722] (PMID 18367736).\n- **Aucun essai randomisé trouvé montrant qu'un dépistage par CAC réduit infarctus ou mortalité chez l'asymptomatique** [?]. La recherche PubMed faite pour cette fiche n'en a pas retourné.\n- **Ne pas confondre** : le CAC (calcium des plaques, asymptomatique) et le coroscanner injecté (CCTA, personne avec douleur thoracique). Le CCTA a des essais randomisés ; le CAC de dépistage, non.\n- Un score à 0 n'exclut pas une plaque molle non calcifiée. Chiffres sur la durée de validité d'un CAC à 0 : non lus dans cette fiche [?].",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Le calcium des artères coronaires se dépose dans les plaques d'athérome. Le scanner non injecté le quantifie (score d'Agatston : surface × densité) ; le score reflète la charge de plaque calcifiée cumulée, pas la sténose ni la vulnérabilité de la plaque.\n- Le CCTA (injecté, iode) visualise la lumière et les plaques, calcifiées ou non. Il sert à confirmer ou écarter une sténose chez un patient symptomatique, pas à dépister.\n- Les plaques non calcifiées échappent au CAC : un CAC à 0 ne dit pas « pas de plaque ». Cette limite est connue de la littérature ; je n'ai pas lu d'étude chiffrée ici [?].",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Question | Résultat | Preuve |\n|---|---|---|\n| CAC ajouté au calculateur de risque (asymptomatique) | Gain de C +0,036 (IC 0,020-0,052), 6 cohortes, 1 043 événements ; 85,5 à 96,4 % des sujets « bas risque » reclassés à risque par le CAC n'ont pas eu d'événement à 5-10 ans ; 91,4 à 99,2 % des « haut risque » reclassés bas n'en ont pas eu | [A, observationnelle] (PMID 35467692) |\n| Valeur pronostique du CAC | Score > 300 : risque d'événement coronarien × 9,67 versus 0 ; doubler le score augmente le risque d'événement majeur de 15 à 35 % selon le groupe | [B, cohorte prospective unique, n=6 722] (PMID 18367736) |\n| Dépistage par CAC et événements cliniques | Aucun essai randomisé identifié | [?] |\n| CCTA après douleur thoracique stable (SCOT-HEART) | Décès coronarien ou infarctus à 5 ans : 2,3 % vs 3,9 % (HR 0,59, IC 0,41-0,84) ; à 10 ans : 6,6 % vs 8,2 % (HR 0,79, IC 0,63-0,99) ; revascularisations similaires ; plus de traitements préventifs dans le groupe CCTA | [B, ECR unique n=4 146] (PMID 30145934, PMID 39863372) |\n| CCTA vs coronarographie invasive (DISCHARGE) | Événements cardiovasculaires majeurs à 3,5 ans : 2,1 % vs 3,0 % (HR 0,70, IC 0,46-1,07, NS) ; complications majeures de procédure 0,5 % vs 1,9 % (HR 0,26) | [B, ECR unique n=3 561] (PMID 35240010) |\n\nLimites : SCOT-HEART est un essai ouvert chez des patients symptomatiques ; ses résultats ne se transposent pas à un dépistage de personnes sans symptôme.",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- **Débutant** : calculer d'abord le risque (tension, lipides, tabac, diabète) et traiter les facteurs modifiables ; le CAC n'est pas un préalable. Voir [ApoB, lipides et statines](fiche:apob-lipides-et-statines) et [Prévention de l'AVC et de l'infarctus](fiche:prevention-avc-et-infarctus).\n- **Intermédiaire** : un CAC se discute avec un médecin quand le risque calculé est limite et que le résultat changerait la décision (traiter ou non par statine). Les recommandations américaines sur le cholestérol incluent le CAC dans ce cas (2018 AHA/ACC, PMID 30423391, texte intégral non lu ici : résumé indisponible, contenu précis des recommandations non vérifié [?]).\n- **Avancé** : le CCTA est une indication de symptômes (douleur thoracique), prescrite par un cardiologue. Pas un bilan de « santé ».",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "- Se faire scanner « pour voir » sans savoir quelle décision le résultat changerait.\n- Lire un CAC à 0 comme un permis d'ignorer l'ApoB ou le tabac.\n- Confondre CAC et coroscanner injecté, ou CAC et IRM corps entier (voir [IRM corps entier (Prenuvo) et maladie coronarienne](fiche:irm-corps-entier-prenuvo-et-coeur)).\n- Répéter l'examen à intervalles courts : intervalle utile non recherché [?].",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "- **« Un scanner du cœur à 100-200 € vous sauve la vie »** [M] : aucun essai randomisé identifié montrant un bénéfice de survie du dépistage par CAC [?]. La méta-analyse PMID 35467692 conclut que le gain de discrimination est modeste et peut être annulé par les coûts, les découvertes fortuites et l'irradiation.\n- **« Un CAC élevé justifie de traiter n'importe quelle plaque avec des compléments (K2, etc.) »** : aucune donnée citée ici ; non recherché [?].\n- **Le CAC mesure la plaque calcifiée, pas la plaque « à risque »** : l'argument « plus c'est calcifié, plus c'est stable » n'est pas évalué dans cette fiche [?].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Le CAC reclasse dans les deux sens : il peut rassurer un patient jugé à haut risque par le calculateur (91,4 à 99,2 % sans événement) autant qu'inquiéter un patient jugé à bas risque [A, observationnelle] (PMID 35467692).\n- Dans SCOT-HEART, le groupe CCTA a reçu plus de traitements préventifs (OR 1,17) sans plus de revascularisations (HR 1,00) à 10 ans ; que ce surcroît de traitement explique le bénéfice est une hypothèse des auteurs, non démontrée par l'essai [B, ECR unique n=4 146] (PMID 39863372).\n- Conflits d'intérêts : SCOT-HEART financé par des fonds publics écossais et la British Heart Foundation ; DISCHARGE financé par l'Union européenne (résumés).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "- Douleur thoracique d'effort, essoufflement inhabituel : consultation, pas un scanner commandé seul.\n- Antécédents familiaux d'infarctus précoce, hypercholestérolémie sévère : médecin traitant ou cardiologue, avant tout CAC.\n- Décision sur une statine à risque limite : consultation pour savoir si un CAC changerait la décision.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "- **Statut** : acte d'imagerie médicale (scanner), prescrit par un médecin. Cotation, remboursement et indications HAS du CAC en France : non consultés [?].\n- **Sécurité** : irradiation (dose d'un CAC non chiffrée ici [?]), découvertes fortuites (nodules pulmonaires, etc.) pouvant mener à d'autres examens ; le CCTA ajoute l'injection d'iode (allergie, fonction rénale). Les complications de la coronarographie invasive (1,9 %) sont supérieures à celles du CCTA (0,5 %) dans DISCHARGE (PMID 35240010).",
+   "titre": "Statut réglementaire et sécurité"
+  },
+  {
+   "markdown": "- Essais randomisés de dépistage par CAC (DANCAVAS, ROBINSCA, etc.) : non trouvés par la recherche, pas conclu à leur absence.\n- Recommandations ESC et HAS sur le CAC, durée de validité d'un CAC à 0, effet sur l'adhésion aux statines, coût en France.",
+   "titre": "Non recherché / à approfondir"
+  },
+  {
+   "markdown": "1. Bell KJL et al. *JAMA Intern Med* 2022 — PMID 35467692\n2. Detrano R et al. *N Engl J Med* 2008 — PMID 18367736\n3. SCOT-HEART Investigators. *N Engl J Med* 2018 — PMID 30145934\n4. Williams MC et al. *Lancet* 2025 — PMID 39863372\n5. DISCHARGE Trial Group. *N Engl J Med* 2022 — PMID 35240010\n6. Grundy SM et al. *J Am Coll Cardiol* 2018 — PMID 30423391 (titre vérifié, résumé indisponible)",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "acte_medical",
+ "titre": "Score calcique coronaire (CAC) et coroscanner",
+ "type": "condition",
+ "unite": ""
+}

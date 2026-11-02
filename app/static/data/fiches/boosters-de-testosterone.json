@@ -1,0 +1,108 @@
+{
+ "cibles": [
+  "muscle-os",
+  "hormones-sexualite"
+ ],
+ "derniere_maj": "2026-10-13",
+ "famille": "complement",
+ "id": "boosters-de-testosterone",
+ "intro": "",
+ "liens": [
+  "ashwagandha",
+  "baisse-libido-homme-et-testosterone",
+  "creatine",
+  "dhea",
+  "ecdysterone",
+  "entrainement-en-resistance",
+  "fadogia-agrestis",
+  "hmb",
+  "leucine-eaa-et-bcaa",
+  "magnesium",
+  "musculation-et-recepteurs-androgeniques",
+  "proteines",
+  "sarms-et-anabolisants",
+  "sommeil",
+  "testosterone",
+  "tongkat-ali",
+  "vitamine-d",
+  "zinc"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 17,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "37697053",
+  "24074738",
+  "28841667",
+  "18500945",
+  "34836225",
+  "42688439",
+  "31385468",
+  "40219032",
+  "35954909",
+  "37253363",
+  "25844073",
+  "36171789",
+  "29183075",
+  "32748554",
+  "18563865",
+  "29621580",
+  "38328764"
+ ],
+ "preuve_globale": "A",
+ "resume": "La plupart ne font pas monter la testostérone totale. Revue systématique de 52 études sur 27 « boosters » : la majorité échoue à dépasser le placebo ; les exceptions citées (HMB, bétaïne chez l'athlète ; *Eurycoma longifolia*, ashwagandha chez l'homme sain ; quelques produits de marque chez l'hom…",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- **La plupart ne font pas monter la testostérone totale.** Revue systématique de 52 études sur 27 « boosters » : la majorité échoue à dépasser le placebo ; les exceptions citées (HMB, bétaïne chez l'athlète ; *Eurycoma longifolia*, ashwagandha chez l'homme sain ; quelques produits de marque chez l'homme hypogonadique) reposent sur peu d'études [A, qualité variable] (PMID 37697053). Voir [HMB](fiche:hmb) pour la contradiction avec la méta-analyse dédiée.\n- **Même une hausse de testostérone ne se traduit pas par plus de muscle dans les essais lus** : D-aspartate, ZMA, tribulus : hormones inchangées ou muscle inchangé [A, petits ECR] (PMID 24074738, 28841667, 18500945, 34836225). Le lien entre petites variations de testostérone dans la norme et gain de masse : non démontré par les sources lues [?].\n- **Fenugrec** : le seul avec un signal poolé, petit : testostérone totale SMD 0,25 (IC 0,02-0,48), testostérone libre non significative, certitude très faible, « ne soutient pas les allégations » [A, très faible certitude] (PMID 42688439).\n- **Marché** : sur 50 produits « T boosters », 24,8 % contenaient un ingrédient avec une hausse de testostérone publiée, 10,1 % un ingrédient avec une baisse, 61,5 % aucune donnée ; 13 dépassaient les limites supérieures de sécurité (zinc, vitamine B3, magnésium) [B, analyse de marché] (PMID 31385468).\n- **Contamination** : les produits vendus comme SARMs ou anabolisants sont très souvent non conformes (voir plus bas) ; aucune analyse de produits « T boosters » à base de plantes trouvée [?].\n- **Pour le muscle** : levier réel = entraînement, protéines, créatine, sommeil ; en cas de vrais symptômes de déficit androgénique, bilan médical : [testostérone](fiche:testosterone), [baisse de libido et testostérone](fiche:baisse-libido-homme-et-testosterone).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Les ingrédients sont censés soit stimuler la sécrétion de LH/testostérone (tribulus, D-aspartate), soit freiner la conversion en œstrogènes ou la liaison à la SHBG (fenugrec, certains minéraux), soit corriger une carence (zinc, vitamine D, magnésium). Seul le dernier cas a une logique physiologique démontrée, et uniquement chez les carencés. Pour les autres, le mécanisme proposé n'est pas étayé chez l'humain par les sources lues [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Ingrédient | Testostérone | Muscle / performance | Preuve |\n|---|---|---|---|\n| **Tribulus terrestris** | 10 études (483 participants, 400-750 mg/j, 1-3 mois) : 8 sur 10 sans changement des androgènes ; 2 études chez des hypogonadiques avec +60-70 ng/dL, effet jugé de faible portée clinique (PMID 40219032) | Revue de 7 études chez des hommes actifs : pas de preuve claire sur les marqueurs hormonaux ni de dommage musculaire (PMID 35954909). ECR en simple aveugle, 30 CrossFiteurs, 770 mg/j, 6 semaines : pas d'effet sur la composition corporelle ni la performance ; interaction significative pour la testostérone et le développé couché (PMID 34836225) | [A, faible qualité] ; [B, ECR n=30] |\n| **Fenugrec** | 13 ECR : testostérone totale SMD 0,25 (IC 0,02-0,48), libre SMD 0,08 (IC −0,48 à 0,63) ; certitude très faible, aucun essai à faible risque de biais (PMID 42688439) | 7 études, 449 participants : masse maigre SMD 0,19 (IC −0,10 à 0,49), presse SMD 0,22 (IC −0,02 à 0,47), tous deux non significatifs ; les auteurs concluent pourtant à un effet « anabolique », ce que leurs propres intervalles ne soutiennent pas (PMID 37253363) | [A, très faible certitude] |\n| **Acide D-aspartique (DAA)** | 3 g/j, 28 jours : testostérone, LH inchangées chez des hommes entraînés (PMID 24074738). 3 g/j : aucun effet ; 6 g/j : testostérone totale et libre **diminuées** (14 jours, n=24) (PMID 25844073). 6 g/j, 12 semaines : testostérone inchangée, estradiol −16 % (PMID 28841667) | 12 semaines, n=22 : hypertrophie et force identiques au placebo (PMID 28841667) ; 28 jours : aucun effet sur composition ni force (PMID 24074738) | [A, petits ECR concordants] |\n| **ZMA** (zinc, magnésium, vitamine B6) | 42 hommes entraînés, 8 semaines : pas de différence de testostérone, de composition corporelle ni de 1RM ; zinc sérique +11-17 % non significatif (PMID 18500945) | idem | [B, ECR n=42] |\n| **Zinc** | effet seulement chez les carencés ; pas d'effet chez l'homme non carencé | voir [zinc](fiche:zinc) | [B] |\n| **Vitamine D** | à voir dans [vitamine D](fiche:vitamine-d) ; 10 études de cholécalciférol dans la revue sur les boosters, aucune n'apparaît parmi les exceptions « efficaces » (PMID 37697053) | pas de bénéfice musculaire chez le non-carencé : voir fiche | [A] |\n| **Magnésium** | voir [magnésium](fiche:magnesium) ; 5 études zinc/magnésium dans la revue, aucune parmi les exceptions (PMID 37697053) | voir fiche | [A] |\n| **Ashwagandha** | voir [ashwagandha](fiche:ashwagandha) : citée comme « possiblement efficace » chez l'homme sain dans la revue sur les boosters (PMID 37697053) ; atteintes hépatiques documentées (ANSES 2024, voir fiche) | gain de force non robuste | [A, faible certitude] |\n| **HMB, bétaïne** | revue sur les boosters : « efficaces » chez l'athlète (PMID 37697053) ; méta-analyse dédiée au HMB : pas d'effet global (PMID 36171789) | [HMB](fiche:hmb) : pas de gain de masse démontré | [A, contradictoire] |\n| **Créatine** | non élevée dans la revue (PMID 37697053) ; ce n'est pas son mécanisme | voir [créatine](fiche:creatine) | [A] |\n\nLimite : pour la plupart des ingrédients, les essais durent de quelques jours à quelques semaines et portent sur des hommes jeunes dont la testostérone est déjà normale. Chez des hommes réellement hypogonadiques, les résultats peuvent différer, mais la seule hausse mesurée pour le tribulus (+60-70 ng/dL) est de faible ampleur clinique (PMID 40219032).",
+   "titre": "Preuves par ingrédient"
+  },
+  {
+   "markdown": "- Tribulus : 400-750 mg/j (PMID 40219032), 770 mg/j dans l'essai CrossFit (PMID 34836225). DAA : 3 à 6 g/j (PMID 25844073). Fenugrec : doses et extraits variables, non relevés ici [?]. ZMA : composition de l'essai non détaillée dans le résumé [?].\n- Produits : les 50 « T boosters » analysés contenaient en médiane 1 291 % des apports de référence en vitamine B12, 807,6 % en B6, 272 % en zinc ; 13 dépassaient la limite supérieure de sécurité (zinc, B3, magnésium) (PMID 31385468) [B, étiquettes américaines]. Produits français : teneurs et prix non relevés [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- **France/UE** : compléments alimentaires (gélules, poudres, mélanges). Statut des plantes (tribulus, fenugrec) selon l'arrêté du 24 juin 2014 et des substances selon l'arrêté du 26 septembre 2016, et allégations de santé autorisées : non vérifiés ; Légifrance et EUR-Lex inaccessibles depuis cet environnement (tentatives du 2026-10-13) [?]. Existence d'une allégation de santé UE sur le zinc liée à la testostérone sanguine normale : à confirmer dans le registre UE (règlement 432/2012) [?]. Aucune allégation « booste la testostérone » n'est, à notre connaissance, autorisée pour une plante ; non vérifié [?].\n- **AMA** : plantes et DAA : statut non vérifié (liste 2026 non consultée, 2026-10-13) [?]. Les prohormones, la DHEA, les SARMs et les stéroïdes anabolisants sont des substances que l'AMA interdit à notre connaissance ; non vérifié sur la liste 2026 [?]. Voir [DHEA](fiche:dhea) et [SARMs et anabolisants](fiche:sarms-et-anabolisants).\n- **Médicament** : les traitements de la testostérone sont sur ordonnance ; voir [testostérone](fiche:testosterone).",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- **SARMs vendus sur internet** : sur 44 produits achetés, 52 % contenaient un SARM (ostarine, LGD-4033 ou andarine), 39 % un autre médicament non approuvé (ibutamoren, GW501516, SR9009), 9 % aucun principe actif détecté, 25 % des substances non déclarées ; la dose réelle correspondait à l'étiquette dans 41 % des cas [B, analyses chimiques, produits vendus comme SARMs et non comme « boosters »] (PMID 29183075). Un échantillon britannique de 2021 trouve les mêmes écarts : aucun principe actif pour certains, substances interdites non déclarées pour d'autres [B] (PMID 32748554).\n- **Compléments « classiques »** : étude internationale sur 634 compléments de 13 pays (2001-2002) : environ 15 % des compléments non hormonaux contenaient des stéroïdes anabolisants non déclarés (surtout des prohormones) ; produits additionnés intentionnellement de stéroïdes classiques détectés depuis 2002 [B, revue] (PMID 18563865).\n- **Adolescents** : 9 % des 170 jeunes de salles de sport à Athènes consommaient un complément contaminé par stéroïdes, prohormones, SARMs ou inhibiteurs d'aromatase ; les échantillons de protéines et de créatine testés étaient propres [B, observationnel] (PMID 29621580).\n- **Boosters de testostérone à base de plantes** : aucune analyse de contamination trouvée dans ma recherche [?]. Le risque documenté se concentre sur les produits « anabolisants/SARMs/prohormones », pas sur les extraits de tribulus ou de fenugrec en tant que tels.\n- **Conséquences** : dose inconnue, molécule inconnue, effets hormonaux et hépatiques imprévisibles, risque de contrôle antidopage positif. Préférer des produits certifiés pour l'antidopage ; une certification réduit le risque sans le supprimer [?].",
+   "titre": "Contamination et produits adultérés"
+  },
+  {
+   "markdown": "- **Tribulus** : un cas d'atteinte hépatique et rénale grave (bilirubine 48 mg/dL, créatinine 7,1) chez un homme de 46 ans après deux mois de prise, guérison après plasmaphérèse [B, cas isolé] (PMID 38328764) ; aucune toxicité rapportée dans les 7 études d'une revue sur des hommes actifs (PMID 35954909). Cas isolé ≠ fréquence, mais l'absence de pharmacovigilance chiffrée est un risque [?].\n- **DAA** : à 6 g/j, baisse de testostérone totale et libre en 14 jours (PMID 25844073) ; baisse d'estradiol (PMID 28841667). Conséquences cliniques de long terme : inconnues [?].\n- **Zinc, magnésium, vitamines B** : des produits dépassent les limites supérieures de sécurité (PMID 31385468) ; voir [zinc](fiche:zinc) et [magnésium](fiche:magnesium) pour les risques d'excès.\n- **Ashwagandha** : atteinte du foie rapportée, avis de l'ANSES ; voir [ashwagandha](fiche:ashwagandha).\n- **Fenugrec** : sécurité détaillée non relue (le résumé de la méta-analyse ne chiffre pas les effets indésirables) [?] ; interactions avec antidiabétiques ou anticoagulants : non vérifiées [?].\n- **Cancer hormonodépendant, troubles de la prostate, fertilité, adolescents** : non étudiés dans les sources lues ; éviter sans avis médical [?].\n- **SARMs et prohormones** : non approuvés, toxicité non établie (PMID 32748554) ; les documenter n'est pas un conseil de les utiliser.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Booste naturellement la testostérone de 30-50 % »** : la revue systématique de 52 études conclut que la plupart des boosters ne dépassent pas le placebo [A] (PMID 37697053) ; pour le tribulus, 8 essais sur 10 ne montrent aucun changement [A, faible qualité] (PMID 40219032).\n- **« Le D-aspartate augmente la testostérone »** : à 6 g/j, elle baisse chez les hommes entraînés et le muscle n'en profite pas [A, petits ECR] (PMID 25844073, 28841667).\n- **« Le ZMA améliore la récupération et la testostérone »** : pas de différence sur les hormones ni la composition en 8 semaines [B] (PMID 18500945).\n- **« Le fenugrec fait gagner du muscle »** : intervalles de confiance qui incluent 0 pour la masse maigre et la force [A, très faible certitude] (PMID 37253363, 42688439).\n- **« Formule complète = plusieurs ingrédients actifs »** : 8,3 ingrédients par produit en moyenne, 109 composants distincts sur 50 produits ; 10,1 % contenaient un ingrédient associé à une baisse de testostérone (PMID 31385468).\n- **« 100 % naturel, donc sans risque »** : produits adultérés par des SARMs et stéroïdes non déclarés (voir plus haut) [B].",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Pour le muscle : [protéines](fiche:proteines), [créatine](fiche:creatine), [leucine, EAA et BCAA](fiche:leucine-eaa-et-bcaa), [entraînement en résistance](fiche:entrainement-en-resistance), [sommeil](fiche:sommeil). Sur le lien réel entre testostérone, récepteurs androgéniques et gain de muscle : [musculation et récepteurs androgéniques](fiche:musculation-et-recepteurs-androgeniques). Pour des symptômes de déficit (libido, fatigue, perte de masse) : dosage de la testostérone et avis médical, voir [testostérone](fiche:testosterone).",
+   "titre": "Alternatives"
+  },
+  {
+   "markdown": "Aucune fiche produit « booster de testostérone » dans le dépôt. Fiches dédiées aux ingrédients populaires hors de cette revue : [tongkat ali](fiche:tongkat-ali) (avis EFSA défavorable sur la sécurité), [fadogia agrestis](fiche:fadogia-agrestis) (aucune donnée humaine), [ecdystérone](fiche:ecdysterone) (surveillée par l'AMA).",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 37697053 — Morgado et al., *Int J Impot Res* 2024. doi:10.1038/s41443-023-00763-9\n- PMID 31385468 — Clemesha CG et al., *World J Mens Health* 2020. doi:10.5534/wjmh.190043\n- PMID 40219032 — Vilar Neto JO et al., *Nutrients* 2025. doi:10.3390/nu17071275\n- PMID 35954909 — Fernández-Lázaro D et al., *Int J Environ Res Public Health* 2022. doi:10.3390/ijerph19159533\n- PMID 34836225 — Fernández-Lázaro D et al., *Nutrients* 2021. doi:10.3390/nu13113969\n- PMID 42688439 — Yang et al., *Front Nutr* 2026. doi:10.3389/fnut.2026.1903508\n- PMID 37253363 — Isenmann E et al., *Int J Sports Med* 2023. doi:10.1055/a-2048-5925\n- PMID 24074738 — Willoughby DS, Leutholtz B, *Nutr Res* 2013. doi:10.1016/j.nutres.2013.07.010\n- PMID 25844073 — Melville GW et al., *J Int Soc Sports Nutr* 2015. doi:10.1186/s12970-015-0078-7\n- PMID 28841667 — Melville GW et al., *PLoS One* 2017. doi:10.1371/journal.pone.0182630\n- PMID 18500945 — Wilborn CD et al., *J Int Soc Sports Nutr* 2004. doi:10.1186/1550-2783-1-2-12\n- PMID 36171789 — Zhao L, Mohammad M, *Food Sci Nutr* 2022. doi:10.1002/fsn3.2887\n- PMID 29183075 — Van Wagoner RM et al., *JAMA* 2017. doi:10.1001/jama.2017.17069\n- PMID 32748554 — Leaney AE et al., *Drug Test Anal* 2021. doi:10.1002/dta.2908\n- PMID 18563865 — Geyer H et al., *J Mass Spectrom* 2008. doi:10.1002/jms.1452\n- PMID 29621580 — Tsarouhas K et al., *Food Chem Toxicol* 2018. doi:10.1016/j.fct.2018.03.043\n- PMID 38328764 — Mohy-Ud-Din N et al., *ACG Case Rep J* 2024. doi:10.14309/crj.0000000000001267",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "complement_alimentaire",
+ "titre": "Boosters de testostérone (tribulus, fenugrec, DAA, ZMA…)",
+ "type": "actif",
+ "unite": ""
+}

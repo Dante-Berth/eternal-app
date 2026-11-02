@@ -1,0 +1,92 @@
+{
+ "cibles": [
+  "coeur-metabolisme",
+  "prevention"
+ ],
+ "derniere_maj": "2026-10-15",
+ "famille": "",
+ "id": "steatose-hepatique-metabolique-masld",
+ "intro": "",
+ "liens": [
+  "berberine",
+  "cancer-foie-carcinome-hepatocellulaire",
+  "choline",
+  "exercice-physique",
+  "glycemie-et-prediabete",
+  "metformine",
+  "prevention-diabete-type-2",
+  "semaglutide-et-glp1",
+  "tabac-et-alcool",
+  "vitamine-e"
+ ],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 9,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "41510965",
+  "38847589",
+  "38324483",
+  "40305708",
+  "34966282",
+  "37290471",
+  "41804193",
+  "39412049",
+  "39834076"
+ ],
+ "preuve_globale": "A",
+ "resume": "Le levier de base est la perte de poids : dans les essais avec biopsies appariées (26 études, 1 963 participants), la résolution de la MASH sans aggravation de la fibrose atteint 12 % en moyenne, 25 % avec une perte observée > 3 % [A, hétérogénéité I² 76 %] (PMID 41510965).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Le levier de base est la perte de poids : dans les essais avec biopsies appariées (26 études, 1 963 participants), la résolution de la MASH sans aggravation de la fibrose atteint 12 % en moyenne, 25 % avec une perte observée > 3 % [A, hétérogénéité I² 76 %] (PMID 41510965).\n- L'exercice aérobie réduit la graisse hépatique indépendamment de la perte de poids : OR 4,86 (1,72-13,8) d'une baisse relative ≥ 30 % de la graisse IRM [B, analyse groupée post hoc de 3 ECR, n=88] (PMID 38847589).\n- Médicaments : résmétirom 80 mg, résolution de la NASH 25,9 % vs 9,7 % placebo, fibrose améliorée 24,2 % vs 14,2 % à 52 semaines [B, ECR unique n=966] (PMID 38324483) ; sémaglutide 2,4 mg, résolution 62,9 % vs 34,3 %, fibrose 36,8 % vs 22,4 % à 72 semaines (analyse intermédiaire) [B, ECR unique n=800] (PMID 40305708).\n- Café : chez les patients MASLD, OR 0,67 (0,55-0,80) de fibrose ; mais pas d'effet sur l'incidence dans la population générale [B, observationnel] (PMID 34966282).\n- La fibrose (pas la graisse) prédit les complications : FIB-4 et élastométrie ont des performances pronostiques comparables à la biopsie (tAUC à 5 ans 0,74 / 0,76 / 0,72) (PMID 37290471).",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "Lien avec obésité, résistance à l'insuline ([glycémie et prédiabète](fiche:glycemie-et-prediabete)). Mécanisme détaillé : non développé [?].",
+   "titre": "Mécanismes"
+  },
+  {
+   "markdown": "| Actif | Mécanisme | Preuve | Statut FR | Coût/mois |\n|---|---|---|---|---|\n| Perte de poids (alimentation, exercice) | Réduit la graisse et l'inflammation | [A] (PMID 41510965) | Non applicable | non applicable |\n| Exercice aérobie | Baisse la graisse hépatique hors perte de poids | [B] (PMID 38847589) | Non applicable | non applicable |\n| Agonistes GLP-1 (sémaglutide), tirzépatide, chirurgie bariatrique | Perte de poids | [A, exploratoire, réseau faiblement connecté] supérieurs au placebo pour la résolution de MASH (PMID 41804193) ; voir [sémaglutide](fiche:semaglutide-et-glp1) | Indication MASH en France : non consultée [?] | non recherché |\n| Résmétirom | Agoniste thyroïdien bêta hépatique | [B, ECR unique n=966] (PMID 38324483) | Non consulté [?] | non recherché |\n| Vitamine E | Antioxydant | Revue Cochrane 2024 existe ; chiffres non lus [?] (PMID 39412049) ; [fiche](fiche:vitamine-e) | Complément | voir fiche |\n| Berbérine, choline | - | voir [berbérine](fiche:berberine), [choline](fiche:choline) | Compléments | voir fiches |\n| Café | Association | [B] (PMID 34966282) | Aliment | non applicable |",
+   "titre": "Traitements classés par niveau de preuve"
+  },
+  {
+   "markdown": "- Débutant : perte de poids même modeste (> 3 % déjà associée à plus de résolution), activité aérobie ([exercice](fiche:exercice-physique)), alcool limité ([tabac et alcool](fiche:tabac-et-alcool)).\n- Intermédiaire : calcul du FIB-4 par le médecin (âge, ASAT, ALAT, plaquettes) ; si élevé, élastométrie.\n- Avancé : fibrose F2-F3 : avis hépatologue ; molécules ci-dessus.",
+   "titre": "Protocoles : débutant / intermédiaire / avancé"
+  },
+  {
+   "markdown": "Se fier à l'ALAT normale pour exclure une fibrose (non démontré dans les sources lues [?]) ; compter sur un complément à la place de la perte de poids.",
+   "titre": "Erreurs fréquentes"
+  },
+  {
+   "markdown": "Les « cures détox hépatiques » : aucun ECR retrouvé [?]. Les méta-analyses de perte de poids restent hétérogènes : la meta-régression sur les traitements est « hypothesis-generating », les auteurs refusant toute inférence causale (PMID 41804193).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "- Les essais de MASH ont un taux de réponse placebo élevé (34,3 % de résolution sous placebo dans l'essai sémaglutide) (PMID 40305708).\n- Le lien avec le cancer : stéatose = facteur de risque de [CHC](fiche:cancer-foie-carcinome-hepatocellulaire) (PMID 39834076).",
+   "titre": "Ce que peu de gens savent (sourcé uniquement)"
+  },
+  {
+   "markdown": "Bilan hépatique anormal, diabète de type 2 ou obésité abdominale, plaquettes basses, fibrose estimée par FIB-4 élevé, toute cirrhose.",
+   "titre": "Quand consulter"
+  },
+  {
+   "markdown": "Statut BDPM/AMM du sémaglutide, tirzépatide, résmétirom dans la MASH : non consulté [?]. Pas de statut AMA applicable à ces molécules dans ce travail (non vérifié).",
+   "titre": "Statut réglementaire (France/UE)"
+  },
+  {
+   "markdown": "[Cardio-métabolique](../../vues/themes/cardio-metabolique.md), [métformine](fiche:metformine), [prévention du diabète de type 2](fiche:prevention-diabete-type-2), [cancer du foie](fiche:cancer-foie-carcinome-hepatocellulaire).",
+   "titre": "Voir aussi"
+  },
+  {
+   "markdown": "- PMID 41510965 — Jayabalan D et al., *Am J Gastroenterol* 2026. doi:10.14309/ajg.0000000000003918\n- PMID 41804193 — Monami M et al., *Diabetes Obes Metab* 2026. doi:10.1111/dom.70617\n- PMID 38847589 — Cuthbertson DJ et al., *Liver Int* 2024. doi:10.1111/liv.15947\n- PMID 38324483 — Harrison SA et al., *N Engl J Med* 2024\n- PMID 40305708 — Sanyal AJ et al., *N Engl J Med* 2025\n- PMID 34966282 — Kositamongkol C et al., *Front Pharmacol* 2021\n- PMID 37290471 — Mózes FE et al., *Lancet Gastroenterol Hepatol* 2023. doi:10.1016/S2468-1253(23)00141-3\n- PMID 39412049 — Wen H et al., *Cochrane Database Syst Rev* 2024 (chiffres non lus)\n- PMID 39834076 — Wang J et al., *Ann Med* 2025",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "mixte",
+ "titre": "Stéatose hépatique métabolique (MASLD / MASH)",
+ "type": "condition",
+ "unite": ""
+}

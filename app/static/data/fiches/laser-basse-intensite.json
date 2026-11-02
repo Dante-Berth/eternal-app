@@ -1,0 +1,70 @@
+{
+ "cibles": [
+  "cheveux"
+ ],
+ "derniere_maj": "2026-10-16",
+ "famille": "dispositif",
+ "id": "laser-basse-intensite",
+ "intro": "",
+ "liens": [],
+ "marqueurs": [],
+ "mesure": "",
+ "nb_pmid": 7,
+ "nb_seuils": 0,
+ "pied": "Fiche éducative à usage personnel. Pas un avis médical. Consulter un médecin ou un dermatologue avant tout traitement.",
+ "pmid": [
+  "39404126",
+  "42339398",
+  "40826200",
+  "39828269",
+  "28396101",
+  "24474647",
+  "28328705"
+ ],
+ "preuve_globale": "A",
+ "resume": "Plusieurs méta-analyses d'ECR trouvent un gain de densité vs appareil factice dans l'AGA [A, hétérogène] : SMD 1,14 (<20 sem.) et 1,44 (>20 sem.), I² 81-88 % (PMID 39404126) ; +18,56 cheveux/cm² et +10,62 µm (PMID 42339398).",
+ "schema_version": 1,
+ "sections": [
+  {
+   "markdown": "- Plusieurs méta-analyses d'ECR trouvent un gain de densité vs appareil factice dans l'AGA [A, hétérogène] : SMD 1,14 (<20 sem.) et 1,44 (>20 sem.), I² 81-88 % (PMID 39404126) ; +18,56 cheveux/cm² et +10,62 µm (PMID 42339398).\n- Hétérogénéité très forte, appareils et paramètres différents, aveugle difficile : l'ampleur réelle est incertaine.\n- Ajouté au minoxidil, résultats contradictoires : bénéfice (7 ECR, densité +6,62/cm²) (PMID 40826200) vs aucune différence (4 ECR) (PMID 39828269).\n- Pas de comparaison tête-à-tête solide avec finastéride/minoxidil ; un complément coûteux, pas une base.",
+   "titre": "TL;DR"
+  },
+  {
+   "markdown": "- Photobiomodulation : hypothèse d'activation mitochondriale du follicule ; mécanisme non démontré par les essais cliniques cités ici [?].",
+   "titre": "Mécanisme"
+  },
+  {
+   "markdown": "| Indication | Résultat | Preuve |\n|---|---|---|\n| AGA, 5 méta-analyses (LLLT homme, minoxidil 2 et 5 % homme, finastéride 1 mg, minoxidil 2 % femme) | Tous les traitements supérieurs au placebo (p < 0,00001) ; forte hétérogénéité | [A, hétérogène] (PMID 28396101) |\n| Alopécies (38 études, 3 098 patients, 2 930 AGA) | Densité : SMD 1,14 [0,51-1,78] avant 20 sem. et 1,44 [0,97-1,91] après 20 sem. vs placebo ; I² 88 % et 81 % ; autres alopécies : données insuffisantes | [A, hétérogène] (PMID 39404126) |\n| Lasers et dispositifs énergétiques (37 études, 3 298 patients) | LLLT : +18,56/cm², +10,62 µm vs factice ; +11,75/cm² ajouté au minoxidil ; effets indésirables légers et transitoires ; lasers fractionnés (acte médical) : effet plus grand mais résumé sans détail de design | [A, prudence] (PMID 42339398) |\n| LLLT + minoxidil vs minoxidil seul (7 ECR) | Densité +6,62/cm² (IC95 2,04-11,20), diamètre +0,01 mm, satisfaction RR 1,71 ; sécurité similaire | [A, hétérogène] (PMID 40826200) |\n| Même question (4 ECR) | Aucune différence sur nombre de cheveux (DM −0,04 ; IC95 −1,22 à 1,14) ni diamètre | [A, contradictoire] (PMID 39828269) |",
+   "titre": "Preuves par indication"
+  },
+  {
+   "markdown": "- Sans objet (dispositif). Les paramètres (longueur d'onde, énergie, durée, fréquence) varient entre études ; je n'ai pas relevé la correspondance précise avec les casques et peignes vendus au public [?].\n- **Essais par appareil (relus sur PubMed le 2026-10-16)** :\n  - HairMax LaserComb : ECR multicentrique contre appareil factice, 269 personnes randomisées, 3 séances/sem. pendant 26 sem. ; densité de cheveux terminaux +18 à +26/cm² vs +1,6 à +9,4 sous factice ; co-auteurs liés à l'industrie, financement non relevé [B, ECR multicentrique] (PMID 24474647).\n  - Casque Capillus (650 nm), femmes uniquement : ECR multicentrique, un jour sur deux pendant 17 sem. ; +51 % de cheveux vs factice ; l'étude est signée par un auteur affilié à Capillus, effectif non lu dans le résumé [B, ECR unique] (PMID 28328705).\n  - Aucun ECR trouvé dans PubMed pour iRestore, Theradome, Kiierr ni d'autres modèles du marché [?].\n- **Prix et marquage CE (consultés le 2026-10-16, incomplets)** : site HairMax, prix en dollars, FDA « cleared » mentionné, CE et livraison UE non indiqués sur la page lue ($249 à $1 999 selon le modèle) ; Capillus : prix en dollars sur des pages américaines (environ 900 à 2 000 $), aucun vendeur français trouvé. Un revendeur britannique affiche un CE pour HairMax, non vérifié auprès d'un organisme officiel [?]. Fiche produit non rédigée : exige au moins 2 vendeurs français et le statut CE.\n- Dispositifs grand public (casques, peignes, bandeaux) : une méta-analyse compte le HairMax LaserComb comme dispositif « FDA-cleared » aux États-Unis (PMID 28396101), ce qui est une autorisation américaine, pas un statut français. Les ECR cités ne permettent pas, d'après leurs résumés, de dire si un modèle vendu en France est celui testé [?].",
+   "titre": "Concentrations étudiées vs concentrations vendues"
+  },
+  {
+   "markdown": "- Casques, peignes, bandeaux domestiques et séances en cabinet. Statut FR/UE (marquage CE, dispositif médical ou non) : non vérifié ici (ANSM non consultée le 2026-10-06) [?].\n- AMA : sans objet.",
+   "titre": "Formes disponibles et statut"
+  },
+  {
+   "markdown": "- Effets indésirables légers et transitoires dans les méta-analyses citées [A] (PMID 42339398, 40826200 : pas de différence entre groupes).\n- Contre-indications (photosensibilisants, épilepsie photosensible, cancer cutané du cuir chevelu, grossesse) : non sourcées dans cette session [?] ; à discuter avec un médecin.\n- Pas d'interaction documentée dans ces résumés.",
+   "titre": "Sécurité, interactions, incompatibilités"
+  },
+  {
+   "markdown": "- **« Prouvé cliniquement »** : les méta-analyses regroupent des appareils différents et sont très hétérogènes (I² > 80 %) ; l'étiquette ne garantit pas que le modèle acheté ait été testé [A, hétérogène] (PMID 39404126).\n- **« Multiplie l'effet du minoxidil »** : l'effet additionnel est modeste dans une méta-analyse et nul dans une autre [A, contradictoire] (PMID 40826200, 39828269).",
+   "titre": "Mythes marketing démontés"
+  },
+  {
+   "markdown": "Aucune fiche produit : preuves par technologie, pas par marque ; ne pas acheter sans vérifier le modèle exact testé en ECR.",
+   "titre": "Produits notables"
+  },
+  {
+   "markdown": "- PMID 24474647 — Jimenez J.J. et al., *Am J Clin Dermatol* 2014 (HairMax LaserComb, ECR). doi:10.1007/s40257-013-0060-6\n- PMID 28328705 — Friedman S., Schnoor P., *Dermatol Surg* 2017 (casque Capillus, femmes). doi:10.1097/DSS.0000000000001114\n- PMID 28396101 — Adil A., Godwin M., *J Am Acad Dermatol* 2017. doi:10.1016/j.jaad.2017.02.054\n- PMID 39404126 — Perez S.M. et al., *Dermatol Surg* 2025. doi:10.1097/DSS.0000000000004442\n- PMID 42339398 — Alahmadi M. et al., *Skin Appendage Disord* 2026. doi:10.1159/000551411\n- PMID 40826200 — Mawu F.O. et al., *Lasers Med Sci* 2025. doi:10.1007/s10103-025-04593-7\n- PMID 39828269 — Alosaimi A. et al., *J Dermatolog Treat* 2025. doi:10.1080/09546634.2024.2447355",
+   "titre": "Sources"
+  }
+ ],
+ "sources_verifiees": "partielle",
+ "statut_fr": "dispositif_medical",
+ "titre": "Laser et LED basse intensité (LLLT)",
+ "type": "actif",
+ "unite": ""
+}
