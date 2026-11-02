@@ -59,7 +59,7 @@ Maquette cliquable : https://claude.ai/artifact/E5TTWfwF6mJAutH3wwPoRL (privée)
 - 23 des 38 fiches biomarqueurs ont un tableau de seuils exploitable ; 15 n'en ont pas (CRP, Lp(a), vitamine D, insuline/HOMA-IR, homocystéine, NT-proBNP, RDW, IL-6, fibrinogène, inflammation émergente, Alzheimer, fonctionnels, horloges…).
 - 39 lignes de seuils sur 291 ont une source « non retrouvée » : le moteur ne leur donne jamais de statut.
 - 30 fiches sur 38 n'ont pas d'`unite` (fiches multi-marqueurs).
-- Identifiants stables des marqueurs : `donnees/marqueurs.json` (77 marqueurs, résolu le 2026-11-02). Il reste à relier les libellés des tableaux de seuils (« Uricémie », « PA domicile »…) à ces identifiants : fait par le moteur à l'étape 3, ou par une colonne dédiée.
+- Identifiants stables des marqueurs : `donnees/marqueurs.json` (82 marqueurs, résolu le 2026-11-02). Il reste à relier les libellés des tableaux de seuils (« Uricémie », « PA domicile »…) à ces identifiants : fait par le moteur à l'étape 3, ou par une colonne dédiée.
 - Seuils à recontrôler : ferritine ASH 2026 (source secondaire), hémoglobine OMS 2024, glycémie OMS/IDF 2006. Toutes les fiches de ce lot sont `sources_verifiees: partielle`.
 - Pas de fiche obésité/surpoids dans `conditions/`. `apob-lipides-et-statines` et la fiche LDL-C se recoupent (non fusionnées).
 
