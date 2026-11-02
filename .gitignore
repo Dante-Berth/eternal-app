@@ -1,0 +1,31 @@
+# Dépendances et sorties de build
+node_modules/
+.svelte-kit/
+dist/
+build/
+static/data/
+coverage/
+.vite/
+
+# Python (compilateur)
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Secrets et données personnelles : ne jamais versionner
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+donnees-perso/
+*.eternal-export*
+*.eternal-backup*
+
+# Éditeurs et système
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.log

@@ -1,0 +1,3 @@
+[submodule "vendor/eternal"]
+	path = vendor/eternal
+	url = https://github.com/Dante-Berth/eternal.git
