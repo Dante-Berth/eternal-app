@@ -28,6 +28,19 @@ class TestDonnees(unittest.TestCase):
             self.assertIn(j["ressenti"], range(1, 6))
         self.assertIs(d["partage"]["actif"], False)
 
+    def test_traitement_avec_fiche_ou_substance_jamais_les_deux(self):
+        for t in charger("docs", "exemple-donnees.json")["traitements"]:
+            self.assertEqual(("fiche" in t) + ("substance" in t), 1, t["id"])
+
+    def test_habitudes_en_niveaux_grossiers_sans_texte_libre(self):
+        niveaux = {"jamais", "occasionnel", "regulier", "quotidien"}
+        habitudes = charger("docs", "exemple-donnees.json")["profil"]["habitudes"]
+        self.assertEqual(len({h["habitude"] for h in habitudes}), len(habitudes))
+        for h in habitudes:
+            self.assertEqual(set(h), {"habitude", "niveau"})
+            self.assertIn(h["niveau"], niveaux)
+            self.assertRegex(h["habitude"], r"^[a-z0-9]+(-[a-z0-9]+)*$")
+
     def test_identifiants_de_mesure_uniques(self):
         ids = [m["id"] for m in charger("docs", "exemple-donnees.json")["mesures"]]
         self.assertEqual(len(ids), len(set(ids)))

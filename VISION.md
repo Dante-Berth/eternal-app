@@ -24,7 +24,7 @@ Hors périmètre : suivi alimentaire détaillé (calories, macros), scores de lo
 - Quand deux référentiels divergent (ferritine OMS 2020 ≤ 15 contre ASH 2026 ≤ 30), l'app montre les deux avec leur source.
 - Le LLM explique, il ne décide pas : seuils, contre-indications, interactions et classement sont déterministes. Plus tard seulement.
 - Pas de dose, de reconstitution ni de protocole pour un injectable non autorisé.
-- Données locales, pas de compte, export complet, aucune donnée personnelle dans le dépôt.
+- Données locales, pas de compte, export complet, aucune donnée personnelle dans le dépôt. La personne déclare ses traitements et ses habitudes (aliments, mode de vie) en choix structurés, sans texte libre.
 - Information éducative, pas un avis médical, affiché à chaque recommandation.
 
 ## Vie privée et partage
@@ -74,4 +74,4 @@ Maquette cliquable : https://claude.ai/artifact/E5TTWfwF6mJAutH3wwPoRL (privée)
 ## Questions ouvertes
 - Fusion des doublons restants dans la bibliothèque (ApoB/LDL, sécrétagogues de GH).
 - Faut-il publier le code ou la bibliothèque en open source ? Modèle de monétisation exact (abonnement, achat unique) et compatibilité avec l'anonymat (jeton sans compte).
-- Relecture des fiches par des médecins (champ `relu_par`) : à décider.
+- Relecture des fiches par des médecins (champ `relu_par`) : à décider. Interactions : gravité, relecture médicale et substances sans fiche, voir `docs/interactions.md`.

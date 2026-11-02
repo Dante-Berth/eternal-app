@@ -63,6 +63,14 @@ Valeurs proposées :
 ## Trou à combler côté données de l'utilisateur
 Le format v1 ne connaît que `traitements[].fiche` : on ne peut déclarer qu'un levier de la bibliothèque. Or l'interaction qui compte vient d'un **médicament hors bibliothèque** (anticoagulant, antidépresseur, etc.). Il faudra un champ `substance` (identifiant d'une classe ou d'une DCI de `substances`) et une saisie assistée, sans stocker de texte libre. C'est un changement additif du format (v1 → v1.1 ou v2) à décider avant d'écrire le moteur d'alertes.
 
+## Aliments et mode de vie déclarés par la personne
+Décision de l'auteur (2026-11-02) : la personne peut ajouter ce qui la concerne, pour que les interactions couvrent aussi l'alimentation et le mode de vie (pamplemousse, alcool, légumes verts riches en vitamine K, café, tabac, soja, activité physique…).
+- **Format** : `profil.habitudes[]`, déjà ajouté à `docs/format-donnees.md` : un identifiant de `eternal/donnees/habitudes.json` et un niveau parmi `jamais`, `occasionnel`, `regulier`, `quotidien`. Pas de quantité ni de texte libre (même règle que pour le futur partage anonyme).
+- **Bibliothèque** (à écrire dans `eternal`) : `donnees/habitudes.json`, avec le même contrôle que `marqueurs.json` ; une habitude pointe vers sa fiche quand elle en a une (par exemple `legumes-verts-a-feuilles`). Les interactions peuvent viser une `fiche`, une `substance` ou une `habitude` (`"b": { "habitude": "pamplemousse" }`).
+- **Moteur** : une interaction n'est évaluée que si les deux côtés sont connus de la personne. Une habitude non déclarée produit « non renseigné, aucune vérification possible », pas « aucun risque ». L'interface peut proposer de la déclarer au moment où elle ajoute un traitement concerné.
+- **Vie privée** : les habitudes sont des données de santé, locales et exportées avec le reste ; elles sont exclues du partage anonyme tant qu'aucune classe grossière n'a été décidée pour elles.
+- **Preuve** : une interaction avec un aliment suit les mêmes statuts que les autres. Beaucoup n'ont aucune donnée humaine (le pamplemousse est l'exception bien établie pour le CYP3A4 ; la grenade ne l'est pas, voir plus haut) : ne pas transformer une idée reçue en alerte.
+
 ## Proposition de pilote
 Commencer par **les antivitamines K** : 39 fiches concernées, sujet à fort enjeu, sources connues (RCP, EFSA, PubMed). Étapes :
 1. Relire les 45 lignes du sondage (`python3 compilateur/sonde_interactions.py anticoagul warfarine "antivitamine K"`), vérifier chaque PMID, trier en `documente` / `plausible` / `non_demontre` / `aucune_donnee`.
@@ -70,9 +78,10 @@ Commencer par **les antivitamines K** : 39 fiches concernées, sujet à fort enj
 3. Ajouter `substance` au format utilisateur, puis les alertes au moteur avec des vecteurs de test (une alerte, une absence de donnée, un résultat négatif).
 Puis, dans l'ordre : grossesse et allaitement (157 et 83 fiches, forme la plus homogène), insuffisance rénale (39), CYP.
 
-## Décisions pour l'auteur
-1. Pilote sur les antivitamines K, ou un autre point de départ ?
-2. Source de gravité : échelle maison, ou référentiel public (par exemple le thésaurus ANSM des interactions médicamenteuses, à vérifier avant usage : non lu ici) ?
-3. Relecture médicale des paires `documente` avant affichage (`relu_par`) : obligatoire ou non ?
-4. Ajouter les médicaments courants comme `substances` sans fiche, ou créer de vraies fiches ? Les créer demande un travail de bibliothèque beaucoup plus lourd.
-5. Que faire quand la bibliothèque ne sait rien : se taire, ou afficher « aucune donnée » à chaque levier suivi ? (Proposition : afficher, pour ne pas donner une fausse assurance.)
+## Décisions
+Validées par l'auteur le 2026-11-02 : le principe de l'étude, le pilote sur les antivitamines K, l'affichage de « aucune donnée » plutôt que le silence, et l'ajout par la personne de ses habitudes.
+
+Encore ouvertes :
+1. **Source de gravité** : échelle maison, ou référentiel public (par exemple le thésaurus ANSM des interactions médicamenteuses, à vérifier avant usage : non lu ici) ? Tant que rien n'est tranché, `gravite` reste `inconnue`.
+2. **Relecture médicale** des paires `documente` avant affichage (`relu_par`) : obligatoire ou non ? Proposition : obligatoire avant toute diffusion hors de l'auteur.
+3. **Médicaments courants** : `substances` sans fiche (rapide, suffit pour détecter) ou vraies fiches (travail de bibliothèque beaucoup plus lourd) ? Proposition : `substances` d'abord.

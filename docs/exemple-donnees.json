@@ -1,16 +1,74 @@
 {
   "schema_version": 1,
-  "profil": { "annee_naissance": 1988, "sexe": "F", "objectifs": ["energie", "coeur"] },
+  "profil": {
+    "annee_naissance": 1988,
+    "sexe": "F",
+    "objectifs": [
+      "energie",
+      "coeur"
+    ],
+    "habitudes": [
+      {
+        "habitude": "pamplemousse",
+        "niveau": "quotidien"
+      },
+      {
+        "habitude": "alcool",
+        "niveau": "occasionnel"
+      }
+    ]
+  },
   "mesures": [
-    { "id": "m-0001", "marqueur": "ferritine", "valeur": 22, "unite": "µg/L", "date": "2026-10-12", "note": "" },
-    { "id": "m-0002", "marqueur": "ldl-c", "valeur": 1.28, "unite": "g/L", "date": "2026-10-12", "note": "" },
-    { "id": "m-0003", "marqueur": "hba1c", "valeur": 5.3, "unite": "%", "date": "2026-10-12", "note": "" }
+    {
+      "id": "m-0001",
+      "marqueur": "ferritine",
+      "valeur": 22,
+      "unite": "µg/L",
+      "date": "2026-10-12",
+      "note": ""
+    },
+    {
+      "id": "m-0002",
+      "marqueur": "ldl-c",
+      "valeur": 1.28,
+      "unite": "g/L",
+      "date": "2026-10-12",
+      "note": ""
+    },
+    {
+      "id": "m-0003",
+      "marqueur": "hba1c",
+      "valeur": 5.3,
+      "unite": "%",
+      "date": "2026-10-12",
+      "note": ""
+    }
   ],
   "traitements": [
-    { "id": "t-0001", "fiche": "fer-et-ferritine", "debut": "2026-10-20", "fin": null }
+    {
+      "id": "t-0001",
+      "fiche": "fer-et-ferritine",
+      "debut": "2026-10-20",
+      "fin": null
+    },
+    {
+      "id": "t-0002",
+      "substance": "antivitamine-k",
+      "debut": "2025-03-01",
+      "fin": null
+    }
   ],
   "journal": [
-    { "date": "2026-11-01", "ressenti": 4, "leviers": ["marche", "avoine"] }
+    {
+      "date": "2026-11-01",
+      "ressenti": 4,
+      "leviers": [
+        "marche",
+        "avoine"
+      ]
+    }
   ],
-  "partage": { "actif": false }
+  "partage": {
+    "actif": false
+  }
 }
