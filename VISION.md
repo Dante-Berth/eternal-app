@@ -66,7 +66,7 @@ Maquette cliquable : https://claude.ai/artifact/E5TTWfwF6mJAutH3wwPoRL (privée)
 ## Prochaines étapes, dans l'ordre
 1. **Bibliothèque** (reste) : compléter les fiches sans seuils (CRP, Lp(a), vitamine D faites le 2026-11-02 ; 12 restantes) (chaque seuil sourcé, PMID vérifié) ; décider comment lier les lignes de seuils à un identifiant de marqueur ; `population` par marqueur si le moteur en a besoin. Fait : `donnees/marqueurs.json`, champ `marqueurs:`, validation par `verifier.py`.
 2. **Environnement** : installer Node (via nvm), puis `npm create svelte` dans `eternal-app`.
-3. **Moteur** : implémenter le statut d'une mesure en TypeScript contre `moteur/vecteurs/statut.json`, puis classement des leviers et alertes. Il faut aussi des interactions (`donnees/interactions.json`, à écrire côté bibliothèque) et des contre-indications structurées.
+3. **Moteur** (statut fait ; alertes : voir `docs/interactions.md`) : implémenter le statut d'une mesure en TypeScript contre `moteur/vecteurs/statut.json`, puis classement des leviers et alertes. Il faut aussi des interactions (`donnees/interactions.json`, à écrire côté bibliothèque) et des contre-indications structurées.
 4. **Wiki** : fait le 2026-11-02 pour la recherche, la lecture et le hors-ligne (`app/src/routes/savoir/`). Reste : liens entre fiches par domaine, fiche d'un marqueur avec ses seuils lus par le moteur, installation PWA (manifeste, icônes), référencement si le wiki devient public.
 5. **Suivi** : saisie des mesures, courbes, journal, export chiffré.
 6. Plus tard : étude de cohorte (cadre éthique et CNIL à vérifier), Stoffel, LLM, import Apple Santé, paiement.
