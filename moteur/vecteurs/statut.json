@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "_doc": "Cas de test du statut d'une mesure. Seuils tirés des fiches eternal au 2026-11-01 ; la ferritine ASH 2026 vient d'une source secondaire, à recontrôler.",
+  "cas": [
+    { "nom": "ldl sous la cible (risque faible)", "marqueur": "ldl-c", "valeur": 1.10, "unite": "g/L", "attendu": { "statut": "ok" } },
+    { "nom": "ldl au-dessus de la cible", "marqueur": "ldl-c", "valeur": 1.28, "unite": "g/L", "attendu": { "statut": "a_regarder" } },
+    { "nom": "ldl saisi en mmol/L est converti", "marqueur": "ldl-c", "valeur": 3.31, "unite": "mmol/L", "attendu": { "statut": "a_regarder", "valeur_g_par_l": 1.28 } },
+    { "nom": "ferritine sous le seuil OMS", "marqueur": "ferritine", "valeur": 12, "unite": "µg/L", "sexe": "F", "attendu": { "statut": "hors_cible", "referentiels": ["OMS 2020", "ASH 2026"] } },
+    { "nom": "ferritine entre les deux seuils : divergence affichée", "marqueur": "ferritine", "valeur": 22, "unite": "µg/L", "sexe": "F", "attendu": { "statut": "a_regarder", "divergence": true, "referentiels": ["ASH 2026"] } },
+    { "nom": "ferritine dans la référence", "marqueur": "ferritine", "valeur": 60, "unite": "µg/L", "sexe": "F", "attendu": { "statut": "ok" } },
+    { "nom": "ferritine au-dessus de 150 chez la femme", "marqueur": "ferritine", "valeur": 180, "unite": "µg/L", "sexe": "F", "attendu": { "statut": "a_regarder" } },
+    { "nom": "hba1c normale", "marqueur": "hba1c", "valeur": 5.3, "unite": "%", "attendu": { "statut": "ok" } },
+    { "nom": "hba1c prédiabète", "marqueur": "hba1c", "valeur": 6.0, "unite": "%", "attendu": { "statut": "a_regarder" } },
+    { "nom": "hba1c au seuil diagnostique : confirmer", "marqueur": "hba1c", "valeur": 6.5, "unite": "%", "attendu": { "statut": "hors_cible", "message_contient": "confirmer" } },
+    { "nom": "hba1c en mmol/mol est convertie", "marqueur": "hba1c", "valeur": 39, "unite": "mmol/mol", "attendu": { "statut": "a_regarder", "valeur_pct": 5.7 } },
+    { "nom": "vitamine d déficit sévère", "marqueur": "vitamine-d-25-oh", "valeur": 25, "unite": "nmol/L", "attendu": { "statut": "hors_cible" } },
+    { "nom": "vitamine d en zone discutée", "marqueur": "vitamine-d-25-oh", "valeur": 48, "unite": "nmol/L", "attendu": { "statut": "discute" } },
+    { "nom": "vitamine d en ng/mL est convertie (19,2 ng/mL = 48 nmol/L)", "marqueur": "vitamine-d-25-oh", "valeur": 19.2, "unite": "ng/mL", "attendu": { "statut": "discute", "valeur_nmol_par_l": 48 } },
+    { "nom": "tension domicile non élevée", "marqueur": "pa-domicile", "valeur": [118, 68], "unite": "mmHg", "attendu": { "statut": "ok" } },
+    { "nom": "tension domicile élevée, pas hypertension", "marqueur": "pa-domicile", "valeur": [128, 79], "unite": "mmHg", "attendu": { "statut": "a_regarder" } },
+    { "nom": "tension domicile : la diastolique seule suffit", "marqueur": "pa-domicile", "valeur": [118, 86], "unite": "mmHg", "attendu": { "statut": "hors_cible" } },
+    { "nom": "seuil sans source retrouvée : inconnu", "marqueur": "fer-serique", "valeur": 12, "unite": "µmol/L", "attendu": { "statut": "inconnu" } },
+    { "nom": "valeur impossible refusée", "marqueur": "hba1c", "valeur": 55, "unite": "%", "attendu": { "erreur": "valeur_implausible" } }
+  ]
+}
