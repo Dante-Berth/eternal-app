@@ -21,6 +21,8 @@
 		{#each onglets as nom (nom)}
 			{#if nom === 'Savoir'}
 				<a href={resolve('/savoir')} aria-current={dansSavoir ? 'page' : undefined}>{nom}</a>
+			{:else if nom === 'Moi'}
+				<a href={resolve('/moi')} aria-current={page.url.pathname.includes('/moi') ? 'page' : undefined}>{nom}</a>
 			{:else}
 				<span aria-disabled="true" title="Pas encore disponible">{nom}</span>
 			{/if}

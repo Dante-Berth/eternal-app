@@ -1,8 +1,10 @@
+import { fileURLToPath } from 'node:url';
 import { defineConfig } from 'vitest/config';
 import adapter from '@sveltejs/adapter-static';
 import { sveltekit } from '@sveltejs/kit/vite';
 
 export default defineConfig({
+	resolve: { alias: { '#moteur': fileURLToPath(new URL('../moteur/src/index.ts', import.meta.url)) } },
 	plugins: [
 		sveltekit({
 			compilerOptions: {
