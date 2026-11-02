@@ -69,3 +69,60 @@ export interface ErreurStatut {
 	erreur: CodeErreur;
 	detail: string;
 }
+
+export type StatutInteraction = 'documente' | 'plausible' | 'non_demontre' | 'aucune_donnee';
+/** alerte = documenté ; prudence = plausible ; aucune_donnee = rien à signaler faute de donnée (≠ « sans risque »). */
+export type CategorieAlerte = 'alerte' | 'prudence' | 'aucune_donnee';
+
+export interface Cote {
+	fiche?: string;
+	substance?: string;
+	habitude?: string;
+}
+
+export interface SourceInteraction {
+	pmid?: string;
+	texte?: string;
+	fiche?: string;
+}
+
+export interface Interaction {
+	id: string;
+	a: Cote;
+	b: Cote;
+	statut: StatutInteraction;
+	effet: string;
+	gravite: string;
+	conduite: string | null;
+	preuve: string;
+	sources: SourceInteraction[];
+}
+
+export interface DonneesInteractions {
+	substances: Record<string, { nom: string; inclut?: string[] }>;
+	interactions: Interaction[];
+}
+
+export interface Declaration {
+	habitudes?: Array<{ habitude: string; niveau: 'jamais' | 'occasionnel' | 'regulier' | 'quotidien' }>;
+	traitements?: Array<{ fiche?: string; substance?: string; debut?: string; fin?: string | null }>;
+}
+
+export interface Alerte {
+	id: string;
+	categorie: CategorieAlerte;
+	statut: StatutInteraction;
+	a: Cote;
+	b: Cote;
+	effet: string;
+	gravite: string;
+	conduite: string | null;
+	preuve: string;
+	sources: SourceInteraction[];
+}
+
+export interface ResultatAlertes {
+	alertes: Alerte[];
+	/** Habitudes non déclarées dont dépend une interaction d'un traitement actif : vérification impossible. */
+	a_renseigner: Array<{ habitude: string; interactions: string[] }>;
+}

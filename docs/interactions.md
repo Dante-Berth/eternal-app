@@ -81,6 +81,15 @@ Les 45 lignes du sondage ont été relues par trois relecteurs indépendants, ch
 - **Points faibles connus** : le côté `antivitamine-k` généralise parfois une source qui ne nomme que la warfarine (dit dans `commentaire`) ; l'entrée boswellia (in vitro, preuve D) est à la limite de `aucune_donnee` ; une entrée de peptides (selank) décrit un effet propre sur la coagulation et pas une interaction médicamenteuse ; PMID 20630973 a été retiré faute de résumé lisible. La mélatonine (cas avec la warfarine) et les oméga-3 ont une ligne traitée dans leur propre fiche.
 - **Non traité** : les antihypertenseurs, antidiabétiques, immunosuppresseurs, chimiothérapies et antidépresseurs cités dans les mêmes fiches (hors périmètre du pilote).
 
+## Alertes du moteur (2026-11-02)
+`moteur/src/alertes.ts` : `alertesInteractions(declaration, interactions, aujourdhui)`, fonction pure, 31 tests (`vecteurs/alertes.json` + jeu réel).
+- Une interaction n'est évaluée que si ses deux côtés sont actifs : traitement sans `fin` ou avec `fin` future et `debut` passé, habitude déclarée autre que `jamais`.
+- `documente` → `alerte`, `plausible` → `prudence`, `non_demontre` et `aucune_donnee` → `aucune_donnee` (jamais « pas d'interaction »). Tri alerte, prudence, aucune donnée.
+- Une substance déclarée correspond à une interaction écrite sur une classe qui l'inclut (AVK ⊂ « anticoagulant »). L'inverse non : « anticoagulant » sans précision ne déclenche pas une interaction écrite sur les AVK seuls.
+- `a_renseigner` : habitudes visées par une interaction d'un traitement actif mais absentes de la déclaration (≠ « jamais »).
+- Gravité et conduite sont recopiées de la source, jamais calculées ; elles valent `inconnue` / `null` aujourd'hui.
+- Pas encore : interface, médicaments par DCI (les `membres` ne sont pas des identifiants), contre-indications.
+
 ## Plan du pilote (réalisé pour l'étape 1)
 Commencer par **les antivitamines K** : 39 fiches concernées, sujet à fort enjeu, sources connues (RCP, EFSA, PubMed). Étapes :
 1. Relire les 45 lignes du sondage (`python3 compilateur/sonde_interactions.py anticoagul warfarine "antivitamine K"`), vérifier chaque PMID, trier en `documente` / `plausible` / `non_demontre` / `aucune_donnee`.

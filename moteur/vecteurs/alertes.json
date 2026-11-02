@@ -1,0 +1,339 @@
+{
+  "_doc": "Vecteurs d'alertes d'interaction. `donnees` est un jeu minimal inventé pour le test, pas la bibliothèque. Chaque cas donne la déclaration, la date du jour, et le résultat attendu : ids par catégorie, habitudes à renseigner.",
+  "donnees": {
+    "substances": {
+      "avk": {
+        "nom": "AVK"
+      },
+      "aod": {
+        "nom": "AOD"
+      },
+      "anticoagulant": {
+        "nom": "Anticoagulants",
+        "inclut": [
+          "avk",
+          "aod"
+        ]
+      }
+    },
+    "interactions": [
+      {
+        "id": "vitk--avk",
+        "a": {
+          "habitude": "vitamine-k"
+        },
+        "b": {
+          "substance": "avk"
+        },
+        "statut": "documente",
+        "effet": "x",
+        "gravite": "inconnue",
+        "conduite": null,
+        "preuve": "B",
+        "sources": [
+          {
+            "pmid": "1"
+          }
+        ]
+      },
+      {
+        "id": "ail--anticoagulant",
+        "a": {
+          "fiche": "ail"
+        },
+        "b": {
+          "substance": "anticoagulant"
+        },
+        "statut": "plausible",
+        "effet": "x",
+        "gravite": "inconnue",
+        "conduite": null,
+        "preuve": "B",
+        "sources": []
+      },
+      {
+        "id": "ginseng--avk",
+        "a": {
+          "fiche": "ginseng"
+        },
+        "b": {
+          "substance": "avk"
+        },
+        "statut": "non_demontre",
+        "effet": "x",
+        "gravite": "inconnue",
+        "conduite": null,
+        "preuve": "C",
+        "sources": []
+      },
+      {
+        "id": "creatine--avk",
+        "a": {
+          "fiche": "creatine"
+        },
+        "b": {
+          "substance": "avk"
+        },
+        "statut": "aucune_donnee",
+        "effet": "x",
+        "gravite": "inconnue",
+        "conduite": null,
+        "preuve": "?",
+        "sources": []
+      }
+    ]
+  },
+  "cas": [
+    {
+      "nom": "documenté : habitude régulière + AVK actif",
+      "aujourdhui": "2026-11-02",
+      "declaration": {
+        "habitudes": [
+          {
+            "habitude": "vitamine-k",
+            "niveau": "regulier"
+          }
+        ],
+        "traitements": [
+          {
+            "substance": "avk",
+            "debut": "2025-01-01",
+            "fin": null
+          }
+        ]
+      },
+      "attendu": {
+        "alerte": [
+          "vitk--avk"
+        ],
+        "prudence": [],
+        "aucune_donnee": [],
+        "a_renseigner": []
+      }
+    },
+    {
+      "nom": "plausible via la classe qui inclut : AVK déclaré, interaction écrite sur « anticoagulant »",
+      "aujourdhui": "2026-11-02",
+      "declaration": {
+        "traitements": [
+          {
+            "substance": "avk"
+          },
+          {
+            "fiche": "ail"
+          }
+        ]
+      },
+      "attendu": {
+        "alerte": [],
+        "prudence": [
+          "ail--anticoagulant"
+        ],
+        "aucune_donnee": [],
+        "a_renseigner": [
+          {
+            "habitude": "vitamine-k",
+            "interactions": [
+              "vitk--avk"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nom": "anticoagulant sans précision ne déclenche pas une interaction écrite sur AVK seul",
+      "aujourdhui": "2026-11-02",
+      "declaration": {
+        "traitements": [
+          {
+            "substance": "anticoagulant"
+          },
+          {
+            "fiche": "ginseng"
+          }
+        ]
+      },
+      "attendu": {
+        "alerte": [],
+        "prudence": [],
+        "aucune_donnee": [],
+        "a_renseigner": []
+      }
+    },
+    {
+      "nom": "non démontré et aucune donnée restent séparés d'une alerte",
+      "aujourdhui": "2026-11-02",
+      "declaration": {
+        "traitements": [
+          {
+            "substance": "avk"
+          },
+          {
+            "fiche": "ginseng"
+          },
+          {
+            "fiche": "creatine"
+          }
+        ]
+      },
+      "attendu": {
+        "alerte": [],
+        "prudence": [],
+        "aucune_donnee": [
+          "creatine--avk",
+          "ginseng--avk"
+        ],
+        "a_renseigner": [
+          {
+            "habitude": "vitamine-k",
+            "interactions": [
+              "vitk--avk"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nom": "habitude non déclarée : à renseigner, pas de faux « aucun risque »",
+      "aujourdhui": "2026-11-02",
+      "declaration": {
+        "traitements": [
+          {
+            "substance": "avk"
+          }
+        ]
+      },
+      "attendu": {
+        "alerte": [],
+        "prudence": [],
+        "aucune_donnee": [],
+        "a_renseigner": [
+          {
+            "habitude": "vitamine-k",
+            "interactions": [
+              "vitk--avk"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "nom": "habitude déclarée « jamais » : rien à signaler, rien à renseigner",
+      "aujourdhui": "2026-11-02",
+      "declaration": {
+        "habitudes": [
+          {
+            "habitude": "vitamine-k",
+            "niveau": "jamais"
+          }
+        ],
+        "traitements": [
+          {
+            "substance": "avk"
+          }
+        ]
+      },
+      "attendu": {
+        "alerte": [],
+        "prudence": [],
+        "aucune_donnee": [],
+        "a_renseigner": []
+      }
+    },
+    {
+      "nom": "traitement terminé : plus d'alerte",
+      "aujourdhui": "2026-11-02",
+      "declaration": {
+        "habitudes": [
+          {
+            "habitude": "vitamine-k",
+            "niveau": "quotidien"
+          }
+        ],
+        "traitements": [
+          {
+            "substance": "avk",
+            "debut": "2024-01-01",
+            "fin": "2025-06-01"
+          }
+        ]
+      },
+      "attendu": {
+        "alerte": [],
+        "prudence": [],
+        "aucune_donnee": [],
+        "a_renseigner": []
+      }
+    },
+    {
+      "nom": "traitement pas encore commencé : plus d'alerte",
+      "aujourdhui": "2026-11-02",
+      "declaration": {
+        "habitudes": [
+          {
+            "habitude": "vitamine-k",
+            "niveau": "quotidien"
+          }
+        ],
+        "traitements": [
+          {
+            "substance": "avk",
+            "debut": "2027-01-01"
+          }
+        ]
+      },
+      "attendu": {
+        "alerte": [],
+        "prudence": [],
+        "aucune_donnee": [],
+        "a_renseigner": []
+      }
+    },
+    {
+      "nom": "tri : alerte avant prudence avant aucune donnée",
+      "aujourdhui": "2026-11-02",
+      "declaration": {
+        "habitudes": [
+          {
+            "habitude": "vitamine-k",
+            "niveau": "quotidien"
+          }
+        ],
+        "traitements": [
+          {
+            "substance": "avk"
+          },
+          {
+            "fiche": "creatine"
+          },
+          {
+            "fiche": "ail"
+          }
+        ]
+      },
+      "attendu": {
+        "alerte": [
+          "vitk--avk"
+        ],
+        "prudence": [
+          "ail--anticoagulant"
+        ],
+        "aucune_donnee": [
+          "creatine--avk"
+        ],
+        "a_renseigner": []
+      }
+    },
+    {
+      "nom": "rien de déclaré : rien",
+      "aujourdhui": "2026-11-02",
+      "declaration": {},
+      "attendu": {
+        "alerte": [],
+        "prudence": [],
+        "aucune_donnee": [],
+        "a_renseigner": []
+      }
+    }
+  ]
+}
