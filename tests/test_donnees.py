@@ -93,5 +93,29 @@ class TestMarqueurs(unittest.TestCase):
         self.assertGreaterEqual(vus, 3)
 
 
+@unittest.skipUnless(os.path.exists(MARQUEURS), "sous-module eternal absent")
+class TestInteractions(unittest.TestCase):
+    def setUp(self):
+        self.inter = charger("vendor", "eternal", "donnees", "interactions.json")
+        self.habitudes = {h["id"] for h in charger("vendor", "eternal", "donnees", "habitudes.json")["habitudes"]}
+
+    def test_exemple_utilisateur_pointe_vers_des_ids_connus(self):
+        ex = charger("docs", "exemple-donnees.json")
+        for t in ex["traitements"]:
+            if "substance" in t:
+                self.assertIn(t["substance"], self.inter["substances"], t["id"])
+        for h in ex["profil"]["habitudes"]:
+            self.assertIn(h["habitude"], self.habitudes)
+
+    def test_aucune_donnee_ne_se_confond_pas_avec_une_interaction(self):
+        for x in self.inter["interactions"]:
+            if x["statut"] == "aucune_donnee":
+                self.assertEqual(x["gravite"], "inconnue", x["id"])
+                self.assertIsNone(x["conduite"], x["id"])
+
+    def test_gravite_toujours_inconnue_tant_quaucune_echelle(self):
+        self.assertEqual({x["gravite"] for x in self.inter["interactions"]}, {"inconnue"})
+
+
 if __name__ == "__main__":
     unittest.main()

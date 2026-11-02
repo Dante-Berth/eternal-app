@@ -8,6 +8,8 @@ Sorties (déterministes, sans horodatage) :
   index.json        métadonnées de toutes les fiches + vocabulaire (chargé au démarrage de l'app)
   fiches/<id>.json  une fiche : sections Markdown, liens, PMID (chargée à la demande)
   marqueurs.json    identifiants stables des marqueurs, unités et conversions (copie de donnees/marqueurs.json)
+  habitudes.json    habitudes déclarables (copie de donnees/habitudes.json)
+  interactions.json substances et interactions relues (copie de donnees/interactions.json)
   recherche.json    index de recherche précalculé (texte normalisé : minuscules, sans accents)
   seuils.json       lignes des tableaux « Valeurs, unités et seuils », une par seuil
 
@@ -264,10 +266,11 @@ def main(argv=None):
         ecrire(os.path.join(a.sortie, "fiches", fid + ".json"), dict(f, schema_version=SCHEMA_VERSION))
     ecrire(os.path.join(a.sortie, "recherche.json"), {
         "schema_version": SCHEMA_VERSION, "fiches": [entree_recherche(f) for f in fiches.values()]})
-    marqueurs_chemin = os.path.join(a.source, "donnees", "marqueurs.json")
-    if os.path.exists(marqueurs_chemin):
-        with open(marqueurs_chemin, encoding="utf-8") as fh:
-            ecrire(os.path.join(a.sortie, "marqueurs.json"), json.load(fh))
+    for nom in ("marqueurs", "habitudes", "interactions"):
+        chemin = os.path.join(a.source, "donnees", nom + ".json")
+        if os.path.exists(chemin):
+            with open(chemin, encoding="utf-8") as fh:
+                ecrire(os.path.join(a.sortie, nom + ".json"), json.load(fh))
     ecrire(os.path.join(a.sortie, "seuils.json"), {"schema_version": SCHEMA_VERSION, "seuils": seuils})
     print("%d fiches, %d lignes de seuils (%d à source non retrouvée) → %s" % (
         len(index), len(seuils), sum(1 for s in seuils if s["non_retrouve"]), a.sortie))

@@ -53,6 +53,7 @@ Maquette cliquable : https://claude.ai/artifact/E5TTWfwF6mJAutH3wwPoRL (privée)
 ## Fait
 - Bibliothèque : 38 fiches biomarqueurs, dont 14 créées ou complétées le 2026-11-01 avec un tableau de seuils sourcés (colonnes fixes : Marqueur, Unité, Borne, Signification, Population, Source).
 - Bibliothèque : `donnees/marqueurs.json` (id, nom, fiche principale, unité usuelle, conversions affines, forme « paire » pour la tension), champ `marqueurs:` sur les 38 fiches biomarqueurs, contrôles dans `verifier.py`.
+- Bibliothèque : `donnees/interactions.json` (43 paires, pilote antivitamines K) et `donnees/habitudes.json`, validés par `verifier.py` (2026-11-02).
 - App : squelette SvelteKit (`app/`), wiki (recherche + lecture + hors-ligne), moteur de statut (`moteur/`, 6 marqueurs, 19 vecteurs). `.gitignore`, `decisions.md`, sous-module, compilateur Python (fiches → `build/index.json`, `build/fiches/<id>.json`, `build/seuils.json`), format de données v1, 19 vecteurs de test du moteur, 10 tests.
 
 ## Constats sur la bibliothèque (compilateur, 2026-11-02)

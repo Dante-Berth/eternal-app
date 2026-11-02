@@ -71,7 +71,17 @@ Décision de l'auteur (2026-11-02) : la personne peut ajouter ce qui la concerne
 - **Vie privée** : les habitudes sont des données de santé, locales et exportées avec le reste ; elles sont exclues du partage anonyme tant qu'aucune classe grossière n'a été décidée pour elles.
 - **Preuve** : une interaction avec un aliment suit les mêmes statuts que les autres. Beaucoup n'ont aucune donnée humaine (le pamplemousse est l'exception bien établie pour le CYP3A4 ; la grenade ne l'est pas, voir plus haut) : ne pas transformer une idée reçue en alerte.
 
-## Proposition de pilote
+## Résultat du pilote (2026-11-02)
+Les 45 lignes du sondage ont été relues par trois relecteurs indépendants, chaque PMID vérifié dans PubMed (`get_article_metadata`), puis fusionnées en **43 paires** dans `eternal/donnees/interactions.json` (commit 0b14c71) avec `habitudes.json` (6 habitudes déclarables). `verifier.py` contrôle les références, les statuts et que chaque PMID cité figure dans une fiche.
+- **Statuts** : 25 `aucune_donnee`, 13 `plausible`, 4 `documente`, 1 `non_demontre`. Autrement dit, **la bibliothèque ne sait rien ou presque sur la plupart des paires**, et l'interface devra le dire.
+- **Documentés** : vitamine K alimentaire × antivitamine K (essai croisé randomisé, INR 3,1 → 2,8 avec un régime enrichi ; les preuves de revue sont contradictoires selon la dose), glucosamine × antivitamine K (plus de 40 cas, EFSA), vitamine E × anticoagulants et antiagrégants (avis EFSA 2024, texte réglementaire sans chiffre).
+- **Rétrogradés par la relecture** : ail, ginkgo, mélatonine, grenade, rhodiola passent de « documenté » (fiche) à `plausible`, car le résumé ne contient pas de chiffre d'interaction. Trois paires du ginkgo avaient des statuts contradictoires entre relecteurs : le plus prudent a été retenu.
+- **Conduite** : `null` partout. Aucun RCP, ANSM ou EFSA n'a été relu directement ; ils sont cités de seconde main. Remplir `conduite` demande de lire ces textes.
+- **Gravité** : `inconnue` partout (échelle non choisie).
+- **Points faibles connus** : le côté `antivitamine-k` généralise parfois une source qui ne nomme que la warfarine (dit dans `commentaire`) ; l'entrée boswellia (in vitro, preuve D) est à la limite de `aucune_donnee` ; une entrée de peptides (selank) décrit un effet propre sur la coagulation et pas une interaction médicamenteuse ; PMID 20630973 a été retiré faute de résumé lisible. La mélatonine (cas avec la warfarine) et les oméga-3 ont une ligne traitée dans leur propre fiche.
+- **Non traité** : les antihypertenseurs, antidiabétiques, immunosuppresseurs, chimiothérapies et antidépresseurs cités dans les mêmes fiches (hors périmètre du pilote).
+
+## Plan du pilote (réalisé pour l'étape 1)
 Commencer par **les antivitamines K** : 39 fiches concernées, sujet à fort enjeu, sources connues (RCP, EFSA, PubMed). Étapes :
 1. Relire les 45 lignes du sondage (`python3 compilateur/sonde_interactions.py anticoagul warfarine "antivitamine K"`), vérifier chaque PMID, trier en `documente` / `plausible` / `non_demontre` / `aucune_donnee`.
 2. Écrire `donnees/interactions.json` et `substances`, étendre `verifier.py` (fiches et PMID existants, statut permis, une source par `documente`).
