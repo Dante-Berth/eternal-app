@@ -17,7 +17,7 @@ Aider une personne à **comprendre ses analyses biologiques** et à choisir **de
 
 Trois moments clés : « je reçois mon bilan » (situer chaque valeur, ce qui peut la fausser), « que puis-je faire ? » (leviers classés par lien avec mes mesures puis par preuve, effets sur les autres systèmes), « est-ce que ça a marché ? » (courbe d'une mesure avec les leviers suivis entre deux bilans).
 
-Hors périmètre : suivi alimentaire détaillé (calories, macros), scores de longévité ou « âge biologique » (marketing non validé), diagnostic.
+Hors périmètre : suivi alimentaire détaillé (calories, macros), score de longévité **unique** ou « âge biologique » (marketing non validé), diagnostic. Voir « Idées à instruire » pour la piste d'un profil d'effets par résultat de santé.
 
 ## Principes non négociables
 - Chaque affirmation d'efficacité porte un niveau de preuve (A à D, M, ?) ; « aucune donnée » est une réponse normale. Règles complètes : `vendor/eternal/CLAUDE.md`.
@@ -70,6 +70,12 @@ Maquette cliquable : https://claude.ai/artifact/E5TTWfwF6mJAutH3wwPoRL (privée)
 4. **Wiki** : fait le 2026-11-02 pour la recherche, la lecture et le hors-ligne (`app/src/routes/savoir/`). Reste : liens entre fiches par domaine, fiche d'un marqueur avec ses seuils lus par le moteur, installation PWA (manifeste, icônes), référencement si le wiki devient public.
 5. **Suivi** : saisie des mesures, courbes, journal, export chiffré.
 6. Plus tard : étude de cohorte (cadre éthique et CNIL à vérifier), Stoffel, LLM, import Apple Santé, paiement.
+
+## Idées à instruire
+- **Profil d'effets par levier** (proposé par l'auteur le 2026-11-02 : une note de longévité adossée à la science, ou plusieurs scores : force, endurance, cognition, cancer, maladies neurodégénératives, auto-immunes…). Position retenue : **pas de note unique**, parce qu'aucune échelle validée ne permet d'additionner une réduction de mortalité, un gain de force et un risque de cancer, et que choisir les poids serait une opinion présentée comme un chiffre. Piste défendable : pour chaque levier, un **tableau d'effets par résultat de santé**, chaque case donnant l'effet mesuré (HR/RR avec intervalle, ou écart de valeur), la population, le niveau de preuve et la source, **sans agrégation entre résultats**. Le moteur classerait les leviers par résultat choisi par la personne (« je veux travailler la force »), pas par une note globale.
+- **État des données** (sonde du 2026-11-02 sur 231 fiches d'actifs) : mortalité citée dans 112 fiches mais avec un HR/RR chiffré tagué [A] dans 28 seulement ; cancer 94 / 10 ; cognition 89 / 5 ; force 72 / 1 ; neurodégénératif 51 / 3 ; endurance 40 / 0 ; auto-immun 19 / 0. La plupart des cases seraient donc « aucune donnée », et l'effet sur la mortalité d'un complément est presque toujours inconnu.
+- **Limites à afficher** : un effet moyen de méta-analyse ne dit pas ce que ce levier fera à cette personne ; les essais sur critères intermédiaires (marqueur) ne sont pas des essais de mortalité ; les effets ne s'additionnent pas.
+- **Prérequis** : un champ structuré `effets:` dans les fiches d'actifs (résultat, mesure, valeur, IC, population, preuve, PMID) validé par `verifier.py`, comme `marqueurs:`. À décider avant tout affichage.
 
 ## Questions ouvertes
 - Fusion des doublons restants dans la bibliothèque (ApoB/LDL, sécrétagogues de GH).
