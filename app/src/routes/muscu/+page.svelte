@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
+	import SousOnglets from '#lib/ui/SousOnglets.svelte';
 	import Courbe from '#lib/suivi/Courbe.svelte';
 	import {
 		ajouterSeance, dernieresSeries, historique, nomsExercices, seancesRecentes, supprimerSeance, volume,
@@ -7,7 +8,18 @@
 	} from '#lib/muscu/seances.js';
 	import { stockageMuscu } from '#lib/muscu/stockage.svelte.js';
 
-	onMount(() => stockageMuscu.charger());
+	onMount(() => {
+		stockageMuscu.charger();
+		if (new URLSearchParams(location.search).get('reprendre')) reprendre();
+	});
+
+	/** Préremplit le brouillon avec la dernière séance (mêmes exercices et séries). */
+	function reprendre() {
+		const derniere = seancesRecentes(stockageMuscu.carnet)[0];
+		if (!derniere) return;
+		titre = derniere.nom ?? '';
+		brouillon = derniere.exercices.map((e) => ({ nom: e.nom, series: e.series.map((s) => ({ reps: String(s.reps), charge: s.charge ? String(s.charge) : '' })) }));
+	}
 	const carnet = $derived(stockageMuscu.carnet);
 	const aujourdhui = new Date().toISOString().slice(0, 10);
 	const jolie = (d: string) => d.split('-').reverse().join('/');
@@ -55,6 +67,7 @@
 <svelte:head><title>Muscu · Eternal</title></svelte:head>
 
 <div class="page">
+	<SousOnglets />
 	<header>
 		<p class="eyebrow">Muscu</p>
 		<h1>Carnet d’entraînement</h1>

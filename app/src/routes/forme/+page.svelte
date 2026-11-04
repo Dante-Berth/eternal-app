@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
+	import SousOnglets from '#lib/ui/SousOnglets.svelte';
 	import CarteEpreuve from '#lib/suivi/CarteEpreuve.svelte';
 	import { EPREUVES, FAMILLES, ajouterMesure, serie, supprimerMesure, type Famille } from '#lib/suivi/mesures.js';
 	import { stockageSuivi } from '#lib/suivi/stockage.svelte.js';
@@ -12,6 +13,7 @@
 <svelte:head><title>Forme · Eternal</title></svelte:head>
 
 <div class="page">
+	<SousOnglets />
 	<header>
 		<p class="eyebrow">Forme</p>
 		<h1>Force, souplesse, endurance</h1>

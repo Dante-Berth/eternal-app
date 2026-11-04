@@ -6,8 +6,13 @@
 	import type { LayoutProps } from './$types';
 
 	let { children }: LayoutProps = $props();
-	const onglets = ['Jour', 'Mesures', 'Leviers', 'Savoir', 'Forme', 'Muscu', 'Moi'];
-	const dansSavoir = $derived(page.url.pathname.includes('/savoir'));
+	const chemin = $derived(page.url.pathname);
+	const onglets = $derived([
+		{ nom: 'Jour', href: resolve('/'), actif: !/\/(savoir|muscu|forme|moi)/.test(chemin) },
+		{ nom: 'Sport', href: resolve('/muscu'), actif: /\/(muscu|forme)/.test(chemin) },
+		{ nom: 'Savoir', href: resolve('/savoir'), actif: chemin.includes('/savoir') },
+		{ nom: 'Moi', href: resolve('/moi'), actif: chemin.includes('/moi') },
+	]);
 </script>
 
 <svelte:head>
@@ -18,18 +23,8 @@
 <div class="coque">
 	<main>{@render children()}</main>
 	<nav aria-label="Sections">
-		{#each onglets as nom (nom)}
-			{#if nom === 'Savoir'}
-				<a href={resolve('/savoir')} aria-current={dansSavoir ? 'page' : undefined}>{nom}</a>
-			{:else if nom === 'Forme'}
-				<a href={resolve('/forme')} aria-current={page.url.pathname.includes('/forme') ? 'page' : undefined}>{nom}</a>
-			{:else if nom === 'Muscu'}
-				<a href={resolve('/muscu')} aria-current={page.url.pathname.includes('/muscu') ? 'page' : undefined}>{nom}</a>
-			{:else if nom === 'Moi'}
-				<a href={resolve('/moi')} aria-current={page.url.pathname.includes('/moi') ? 'page' : undefined}>{nom}</a>
-			{:else}
-				<span aria-disabled="true" title="Pas encore disponible">{nom}</span>
-			{/if}
+		{#each onglets as o (o.nom)}
+			<a href={o.href} aria-current={o.actif ? 'page' : undefined}>{o.nom}</a>
 		{/each}
 	</nav>
 </div>
@@ -39,8 +34,7 @@
 	main { flex: 1; min-height: 0; overflow-y: auto; overflow-x: hidden; }
 	nav { display: flex; border-top: 1px solid var(--line); background: var(--surface);
 		padding-bottom: env(safe-area-inset-bottom, 0); }
-	nav a, nav span { flex: 1; text-align: center; padding: 12px 2px; font-size: 0.74rem; font-weight: 600;
+	nav a { flex: 1; text-align: center; padding: 14px 2px; min-height: 48px; font-size: 0.86rem; font-weight: 600;
 		color: var(--muted); text-decoration: none; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 	nav a[aria-current='page'] { color: var(--accent); box-shadow: inset 0 3px 0 var(--accent); }
-	nav span { opacity: 0.45; }
 </style>
