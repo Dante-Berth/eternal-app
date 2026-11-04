@@ -1,0 +1,1033 @@
+{
+ "_doc": "Interactions entre un levier de la bibliothèque (fiche), une substance (classe de médicaments) ou une habitude, vues d'un côté `a` et de l'autre `b`. Construit par relecture manuelle, jamais par extraction automatique. statut : documente (effet observé chez l'humain ou texte réglementaire lu), plausible (mécanisme ou cas isolés, non démontré), non_demontre (testé, rien trouvé), aucune_donnee (non recherché ou introuvable : ce n'est PAS « pas d'interaction »). gravite : `inconnue` tant qu'aucune échelle sourcée n'a été choisie. conduite : seulement si un texte officiel lu la donne. Pilote : antivitamines K, anticoagulants et antiagrégants.",
+ "interactions": [
+  {
+   "a": {
+    "fiche": "acide-phosphatidique"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "PMID 26566242 et 28184235 vérifiés (revues sur l'acide phosphatidique et mTOR/force musculaire) ; leurs résumés ne parlent pas d'anticoagulants. La fiche dit elle-même que la recherche était limitée à ces résumés : absence de donnée, pas de résultat négatif.",
+   "conduite": null,
+   "effet": "aucune donnée d'interaction trouvée avec les anticoagulants pour un usage prolongé (> 8 semaines)",
+   "fiche_origine": "acide-phosphatidique",
+   "gravite": "inconnue",
+   "id": "acide-phosphatidique--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "non applicable (aucune étude)",
+   "preuve": "?",
+   "sources": [
+    {
+     "pmid": "26566242"
+    },
+    {
+     "pmid": "28184235"
+    }
+   ],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "ail-et-oignon"
+   },
+   "b": {
+    "substance": "antivitamine-k"
+   },
+   "commentaire": "Ligne candidate étiquetée documente, rétrogradée en plausible. PMID 17918162 (Borrelli 2007) vérifié : le résumé dit seulement que l'ail « may enhance » l'effet des anticoagulants (warfarine, fluindione), à partir de cas ; pas de chiffre. PMID 11144706 (Vaes 2000) vérifié : « Evidence is lacking for an interaction of warfarin with garlic » ; les 3 cas d'hémorragie sous ail concernaient des patients qui ne prenaient pas de warfarine. Les deux sources divergent donc : plausible, pas documenté. La conduite de la fiche (prudence, avis médical) n'a pas de source officielle : null. La mention d'antiagrégants dans la ligne est une précaution sans source : pas d'entrée créée.",
+   "conduite": null,
+   "effet": "l'ail pourrait renforcer l'effet anticoagulant de la warfarine ou de la fluindione (altération de la fonction plaquettaire, risque hémorragique) ; preuve faible, basée sur des cas",
+   "fiche_origine": "ail-et-oignon",
+   "gravite": "inconnue",
+   "id": "ail-et-oignon--antivitamine-k",
+   "mecanisme": "pharmacodynamique",
+   "population": "adultes ; rapports de cas, pas d'essai",
+   "preuve": "B",
+   "sources": [
+    {
+     "pmid": "17918162"
+    },
+    {
+     "pmid": "11144706"
+    }
+   ],
+   "statut": "plausible"
+  },
+  {
+   "a": {
+    "fiche": "astaxanthine"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "PMID 35631193 vérifié (méta-analyse astaxanthine et syndrome métabolique : effet marginal sur la tension) mais il ne concerne que les antihypertenseurs, pas les anticoagulants : non cité. La « prudence par défaut » de la fiche pour les anticoagulants n'a aucune source. Partie antihypertenseurs/immunosuppresseurs hors périmètre AVK.",
+   "conduite": null,
+   "effet": "aucune interaction documentée avec les anticoagulants dans les sources lues ; mises en garde de marques seulement",
+   "fiche_origine": "astaxanthine",
+   "gravite": "inconnue",
+   "id": "astaxanthine--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "non applicable (aucune étude)",
+   "preuve": "?",
+   "sources": [],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "baies-myrtilles-et-anthocyanes"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "Recherche négative de la fiche = absence de donnée, pas résultat négatif d'un essai. PMID 29703387 vérifié (revue de 46 ECR sur jus autres que pamplemousse : pas d'interaction sévère, cas isolés ; jus de myrtille-étanercept classé favorable) : aucune mention d'anticoagulant dans le résumé, donc non retenu comme source de cette paire.",
+   "conduite": null,
+   "effet": "recherche PubMed ciblée (myrtille/anthocyanes et warfarine ou INR) : aucune donnée trouvée",
+   "fiche_origine": "baies-myrtilles-et-anthocyanes",
+   "gravite": "inconnue",
+   "id": "baies-myrtilles-et-anthocyanes--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "non applicable (aucune étude)",
+   "preuve": "?",
+   "sources": [],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "berberine"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "La ligne ne cite aucun PMID et dit « non vérifiés [?] ». La fiche mentionne ailleurs (ligne précédente) une inhibition de CYP2C9 par la berbérine d'après une revue 2026 (PMID 42653808), non vérifié ici car hors de ma ligne : candidat à une requalification en plausible (pharmacocinetique) par qui relira cette fiche.",
+   "conduite": null,
+   "effet": "association à un anticoagulant à éviter sans avis médical ; couple warfarine non vérifié dans la fiche",
+   "fiche_origine": "berberine",
+   "gravite": "inconnue",
+   "id": "berberine--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "non applicable (aucune étude citée)",
+   "preuve": "?",
+   "sources": [],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "boosters-de-testosterone"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "Ligne dit « non vérifiées [?] » : non recherché. Portée limitée au fenugrec dans une fiche multi-actifs ; la paire est fiche-niveau, à reformuler si les ingrédients deviennent des entités. Partie antidiabétiques hors périmètre.",
+   "conduite": null,
+   "effet": "interactions du fenugrec avec les anticoagulants non vérifiées",
+   "fiche_origine": "boosters-de-testosterone",
+   "gravite": "inconnue",
+   "id": "boosters-de-testosterone--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "non applicable (non recherché)",
+   "preuve": "?",
+   "sources": [],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "boswellia"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "PMID 40352903 vérifié : induction in vitro de CYP1A2/2B6/3A4 (cellules HepG2, via récepteur CAR, avec docking in silico) ; le résumé évoque des interactions avec les médicaments métabolisés par les CYP mais ne nomme ni anticoagulant ni warfarine. Le lien avec les anticoagulants est une extrapolation de la fiche : classé plausible au mieux, un relecteur peut le rétrograder en aucune_donnee. Pas de chiffre dans la ligne.",
+   "conduite": null,
+   "effet": "un extrait de Boswellia carteri augmente in vitro l'expression de gènes de cytochromes P450 (CYP1A2, 2B6, 3A4) ; aucune étude clinique d'interaction ; prudence pour les médicaments à marge étroite dont les anticoagulants",
+   "fiche_origine": "boswellia",
+   "gravite": "inconnue",
+   "id": "boswellia--anticoagulant",
+   "mecanisme": "pharmacocinetique",
+   "population": "in vitro (cellules HepG2)",
+   "preuve": "D",
+   "sources": [
+    {
+     "pmid": "40352903"
+    }
+   ],
+   "statut": "plausible"
+  },
+  {
+   "a": {
+    "fiche": "cannelle"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "Recherche datée et négative : absence de donnée. Pas de PMID dans la ligne. Partie antidiabétiques hors périmètre.",
+   "conduite": null,
+   "effet": "aucune étude clinique d'interaction avec les anticoagulants retrouvée dans PubMed",
+   "fiche_origine": "cannelle",
+   "gravite": "inconnue",
+   "id": "cannelle--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "non applicable (aucune étude)",
+   "preuve": "?",
+   "sources": [
+    {
+     "texte": "Recherche PubMed de la fiche cannelle, 2026-10-14 (aucun résultat)"
+    }
+   ],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "coenzyme-q10"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "Non recherché. PMID 36130103 vérifié (méta-analyse CoQ10 et tension, SBP -4,77 mmHg, IC95 -6,57 à -2,97) : concerne les antihypertenseurs, hors périmètre AVK, non cité. Piste pour le relecteur : la littérature signale un cas CoQ10-warfarine, non traité par la fiche, à chercher (je ne l'affirme pas ici).",
+   "conduite": null,
+   "effet": "interaction avec les anticoagulants non recherchée dans la fiche",
+   "fiche_origine": "coenzyme-q10",
+   "gravite": "inconnue",
+   "id": "coenzyme-q10--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "non applicable (non recherché)",
+   "preuve": "?",
+   "sources": [],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "curcumine"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "Ligne dit « non recherchées [?] ». Les antiplaquettaires et les CYP sont cités dans la même ligne : pas d'entrée séparée créée (à faire si on étend à antiagregant-plaquettaire). Partie chimiothérapie hors périmètre.",
+   "conduite": null,
+   "effet": "interactions avec les anticoagulants non recherchées dans la fiche",
+   "fiche_origine": "curcumine",
+   "gravite": "inconnue",
+   "id": "curcumine--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "non applicable (non recherché)",
+   "preuve": "?",
+   "sources": [],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "egcg-et-extraits-de-the-vert"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "Ligne groupée statines/bêtabloquants/anticoagulants/chimiothérapies avec « voir un pharmacien » ; aucun PMID, aucun résultat. Le texte ne décrit pas d'interaction : pas de signal.",
+   "conduite": null,
+   "effet": "pas de donnée : le décalage de prise avec les anticoagulants n'est pas validé par les sources lues",
+   "fiche_origine": "egcg-et-extraits-de-the-vert",
+   "gravite": "inconnue",
+   "id": "egcg-et-extraits-de-the-vert--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "non applicable (aucune étude citée)",
+   "preuve": "?",
+   "sources": [],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "exercices-polyarticulaires"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "Précaution générique sans source ni tag ; le mot « anticoagulants » désigne une situation clinique (risque de saignement), pas une interaction substance-substance. Frontière avec hors sujet : retenu comme aucune_donnee, à écarter si le projet ne veut que des paires substance/habitude documentées.",
+   "conduite": null,
+   "effet": "avis médical conseillé sous anticoagulants avant des exercices polyarticulaires ; aucune source",
+   "fiche_origine": "exercices-polyarticulaires",
+   "gravite": "inconnue",
+   "id": "exercices-polyarticulaires--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "non applicable (aucune étude)",
+   "preuve": "?",
+   "sources": [],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "ginkgo"
+   },
+   "b": {
+    "substance": "antiagregant-plaquettaire"
+   },
+   "commentaire": "relecteur 1 (documente) : Issue de la ligne 15 (+ RCP de la ligne 14). PMID 40198642 vérifié : clopidogrel et aspirine 2,61 % chacun, 12,94 % d'interactions au total, association significative (p<0,05) avec saignement et coagulation anormale. Réserve : étude rétrospective sans groupe sans ginkgo, effet propre du ginkgo non isolable ; preuve B maintenue (observationnelle). Hors périmètre strict AVK, créée car l'id antiagregant-plaquettaire est autorisé. | relecteur 2 (plausible) : Monographie non relue directement, texte repris de la fiche ; aucune étude chiffrée. Statut plausible : précaution mécanistique, pas d'effet démontré. | relecteur 3 (plausible) : Le RCP n'a pas été relu ici et PMID 32478963 ne mentionne que la warfarine : rétrogradé documente -> plausible. Remonter à documente après lecture du RCP. Conduite laissée null pour la même raison. | Désaccord entre relecteurs : statut positif le plus prudent retenu.",
+   "conduite": null,
+   "effet": "l'association ginkgo et clopidogrel ou aspirine est l'interaction la plus fréquente et est associée à un risque de saignement et à des tests de coagulation anormaux",
+   "fiche_origine": "ginkgo",
+   "gravite": "inconnue",
+   "id": "ginkgo--antiagregant-plaquettaire",
+   "mecanisme": "additif",
+   "population": "adultes hospitalisés, Vietnam ; 2 647 prescriptions, 747 patients analysés pour saignement (31, soit 4,15 %, avec symptômes)",
+   "preuve": "B",
+   "sources": [
+    {
+     "pmid": "40198642"
+    },
+    {
+     "texte": "RCP Tanakan (BDPM), consulté le 2026-10-14, cité par la fiche ginkgo : précautions avec les antiplaquettaires (texte non relu directement)"
+    },
+    {
+     "texte": "Monographie EMA/HMPC ginkgo (adoptée janvier 2015), citée par la fiche ginkgo, consultée le 2026-10-14"
+    },
+    {
+     "texte": "RCP Tanakan 40 mg (ANSM/BDPM), consulté le 2026-10-13 d'après la fiche audition-et-perte-auditive ; non relu pour ce lot"
+    },
+    {
+     "pmid": "32478963"
+    }
+   ],
+   "statut": "plausible"
+  },
+  {
+   "a": {
+    "fiche": "ginkgo"
+   },
+   "b": {
+    "substance": "anticoagulant-oral-direct"
+   },
+   "commentaire": "relecteur 1 (plausible) : Issue des lignes 14 et 15. Le texte réglementaire parle de précaution et de P-gp « possible » (mécanisme, non démontré) ; PMID 40198642 vérifié : « interactions with anticoagulants including direct oral anticoagulants and acenocoumarol were not statistically significant ». Donc plausible, pas documente ; la preuve B décrit l'étude négative, pas un effet. Seul le dabigatran est nommé par les textes, les autres AOD ne sont pas traités. | relecteur 2 (plausible) : Aucune étude citée ; mécanisme seul. Seul le dabigatran est nommé, pas la classe entière. | Désaccord entre relecteurs : statut positif le plus prudent retenu.",
+   "conduite": null,
+   "effet": "précaution avec le dabigatran (inhibition possible de la P-gp intestinale) ; interaction non significative avec les anticoagulants oraux directs dans une étude observationnelle",
+   "fiche_origine": "ginkgo",
+   "gravite": "inconnue",
+   "id": "ginkgo--anticoagulant-oral-direct",
+   "mecanisme": "pharmacocinetique",
+   "population": "adultes ; étude rétrospective hospitalière, Vietnam",
+   "preuve": "B",
+   "sources": [
+    {
+     "pmid": "40198642"
+    },
+    {
+     "texte": "RCP Tanakan (BDPM) et monographie EMA/HMPC 2015, consultés le 2026-10-14, cités par la fiche ginkgo : précaution avec le dabigatran (textes non relus directement)"
+    },
+    {
+     "texte": "Monographie EMA/HMPC ginkgo (adoptée janvier 2015), citée par la fiche ginkgo, consultée le 2026-10-14"
+    }
+   ],
+   "statut": "plausible"
+  },
+  {
+   "a": {
+    "fiche": "ginkgo"
+   },
+   "b": {
+    "substance": "antivitamine-k"
+   },
+   "commentaire": "relecteur 1 (documente) : Fusion des lignes 14 (RCP) et 15 (PMID 40198642), même paire. Statut documente au sens « texte réglementaire », mais les preuves cliniques sont mixtes : PMID 40198642 vérifié, le résumé dit que les interactions avec les anticoagulants (AOD et acénocoumarol) ne sont pas statistiquement significatives ; ce volet est un résultat négatif sous-puissant. Tous les chiffres de la fiche (2 647 prescriptions, 12,94 %, 747 patients, 31 soit 4,15 %) figurent dans le résumé. Conduite laissée à null : le RCP/HMPC n'a pas été relu directement, seulement via la fiche ; à remplir (« surveillance au début, à l'arrêt et au changement de produit » selon la fiche) après lecture de la source. | relecteur 2 (non_demontre) : Études non identifiées dans la fiche, donc non vérifiables. Le PMID 19719333 (revue 2009) rapporte néanmoins des cas cliniques d'interaction ginkgo-warfarine ; il n'est pas cité par la ligne, à ajouter côté fiche avant de trancher entre non_demontre et plausible. | relecteur 3 (documente) : PMID 32478963 vérifié : ginkgo nommé dans le résumé parmi les produits à risque de saignement accru avec la warfarine. Pas de chiffre propre au ginkgo dans le résumé ; le résultat qualitatif y figure, statut documente maintenu (rapports humains) mais preuve B faible. Warfarine seule dans la source. La fiche 'ginkgo' existe, utilisée comme côté a ; la ligne vient de la fiche audition. | Désaccord entre relecteurs : statut positif le plus prudent retenu.",
+   "conduite": null,
+   "effet": "le RCP Tanakan prévoit une surveillance sous warfarine ; l'EMA/HMPC note des études sans interaction nette avec la warfarine mais conseille un suivi ; une étude observationnelle hospitalière ne trouve pas d'interaction significative avec l'acénocoumarol",
+   "fiche_origine": "ginkgo",
+   "gravite": "inconnue",
+   "id": "ginkgo--antivitamine-k",
+   "mecanisme": "pharmacodynamique",
+   "population": "adultes sous AVK ; étude rétrospective hospitalière, Vietnam, 2 647 prescriptions",
+   "preuve": "B",
+   "sources": [
+    {
+     "texte": "RCP Tanakan (BDPM), consulté le 2026-10-14, cité par la fiche ginkgo : surveillance avec warfarine et phenprocoumone (texte non relu directement)"
+    },
+    {
+     "texte": "Monographie EMA/HMPC ginkgo, janvier 2015, consultée le 2026-10-14, citée par la fiche ginkgo (texte non relu directement)"
+    },
+    {
+     "pmid": "40198642"
+    },
+    {
+     "texte": "Monographie EMA/HMPC ginkgo (adoptée janvier 2015), citée par la fiche ginkgo, consultée le 2026-10-14"
+    },
+    {
+     "pmid": "32478963"
+    }
+   ],
+   "statut": "plausible"
+  },
+  {
+   "a": {
+    "fiche": "ginseng"
+   },
+   "b": {
+    "substance": "antivitamine-k"
+   },
+   "commentaire": "Lignes 17 et 18 fusionnées. 18637764 : ECR ouvert n=25 (12 vs 13), pas de différence de pic d'INR ni d'AUC entre groupes ; 19913311 : croisé en double aveugle n=25, variation d'INR -0,16 vs -0,03 (3e sem.), NS ; 28725042 : rat, plateau de warfarine réduit et CYP3A4/2C9 augmentés ; 19719333 : 'ginseng may interact with phenelzine and warfarin' (cas et séries). Chiffres retrouvés dans les résumés. Statut choisi plausible par prudence (essais sous-dimensionnés + signal animal et cas) ; non_demontre défendable si l'auteur tranche pour les seuls essais humains. Revue 31493264 (2019) vérifiée : ne conclut pas sur anticoagulants, évalue selon l'origine/teneur en ginsénosides (limitée) ; non retenue comme source.",
+   "conduite": null,
+   "effet": "Deux petits essais chez des patients (n=25 chacun) sans différence d'INR avec le ginseng ; antagonisme de la warfarine chez le rat avec des ginsénosides ; une revue 2009 signale que le ginseng 'pourrait interagir' avec la warfarine.",
+   "fiche_origine": "ginseng",
+   "gravite": "inconnue",
+   "id": "ginseng--antivitamine-k",
+   "mecanisme": "pharmacocinetique",
+   "population": "Patients sous warfarine (essais) ; rat (modèle animal)",
+   "preuve": "B",
+   "sources": [
+    {
+     "pmid": "18637764"
+    },
+    {
+     "pmid": "19913311"
+    },
+    {
+     "pmid": "28725042"
+    },
+    {
+     "pmid": "19719333"
+    }
+   ],
+   "statut": "plausible"
+  },
+  {
+   "a": {
+    "fiche": "glucosamine-et-chondroitine"
+   },
+   "b": {
+    "substance": "antivitamine-k"
+   },
+   "commentaire": "PMID 42015979 vérifié : déclaration EFSA 2011 (indexée sous un PMID récent), '>40 case reports', INR monte puis retombe à l'arrêt, mécanisme non établi. Le résumé nomme les coumariniques 'especially warfarin' ; acénocoumarol et fluindione ne sont pas nommés dans le résumé. Surveillance de l'INR par le RCP français non lue : conduite laissée à null.",
+   "conduite": null,
+   "effet": "Plus de 40 cas rapportés d'INR augmenté après début de glucosamine, parfois avec hémorragie ; l'EFSA conclut à un risque d'interaction chez certains individus, ampleur non chiffrable.",
+   "fiche_origine": "glucosamine-et-chondroitine",
+   "gravite": "inconnue",
+   "id": "glucosamine-et-chondroitine--antivitamine-k",
+   "mecanisme": "inconnu",
+   "population": "Patients sous anticoagulants coumariniques (surtout warfarine)",
+   "preuve": "B",
+   "sources": [
+    {
+     "pmid": "42015979"
+    }
+   ],
+   "statut": "documente"
+  },
+  {
+   "a": {
+    "fiche": "grenade"
+   },
+   "b": {
+    "substance": "antivitamine-k"
+   },
+   "commentaire": "Lignes 20 et 21 fusionnées. 24813412 : 'studies in humans find that pomegranate juice does not increase exposure to either CYP2C9 or CYP3A4 substrates' (vérifié). 36903363 : 'observational studies reported that PJ prolonged the pharmacodynamics of warfarin and sildenafil' ; essais cliniques limités à une dose unique (vérifié). 29703387 : autres jus que le pamplemousse, pas d'interaction sévère malgré des cas sporadiques (vérifié, ne cite pas la grenade spécifiquement). Aucun chiffre ; pas documente. PMID 21142260 (pamplemousse) non vérifié, non utilisé.",
+   "conduite": null,
+   "effet": "Des études observationnelles rapportent une prolongation de l'effet de la warfarine avec le jus de grenade ; inhibition constante des CYP2C9/3A4 au laboratoire, mais aucune hausse d'exposition aux substrats testés chez l'humain.",
+   "fiche_origine": "grenade",
+   "gravite": "inconnue",
+   "id": "grenade--antivitamine-k",
+   "mecanisme": "pharmacocinetique",
+   "population": "Buveurs de jus de grenade sous warfarine",
+   "preuve": "C",
+   "sources": [
+    {
+     "pmid": "24813412"
+    },
+    {
+     "pmid": "36903363"
+    },
+    {
+     "pmid": "29703387"
+    }
+   ],
+   "statut": "plausible"
+  },
+  {
+   "a": {
+    "fiche": "infections-urinaires-recurrentes-prevention"
+   },
+   "b": {
+    "substance": "antivitamine-k"
+   },
+   "commentaire": "La fiche dit 'non vérifiées'. PMID 32478963 vérifié ici : cranberry nommée dans le résumé, sans chiffre propre ; rapports hétérogènes, donc plausible et non documente. Pas de fiche canneberge séparée : côté a = la fiche condition. PMID 32497610 de la ligne (D-mannose, diarrhée 8/103) vérifié mais hors sujet (effet indésirable, pas anticoagulant) : non utilisé.",
+   "conduite": null,
+   "effet": "Interactions de la canneberge avec la warfarine rapportées ; la canneberge figure parmi les produits associés à un risque de saignement accru avec la warfarine dans une revue systématique",
+   "fiche_origine": "infections-urinaires-recurrentes-prevention",
+   "gravite": "inconnue",
+   "id": "infections-urinaires-recurrentes-prevention--antivitamine-k",
+   "mecanisme": "inconnu",
+   "population": "patients sous warfarine ; revue systématique de rapports",
+   "preuve": "B",
+   "sources": [
+    {
+     "pmid": "32478963"
+    }
+   ],
+   "statut": "plausible"
+  },
+  {
+   "a": {
+    "fiche": "l-carnitine"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "PMID 16901595 vérifié (Hathcock, Council for Responsible Nutrition, 2006) : le résumé ne mentionne aucune interaction ; l'affirmation 'absence d'interaction' n'y figure pas, donc non retenu comme source. Recherche restreinte à l'acénocoumarol ; la fiche parle d'anticoagulants en général.",
+   "conduite": null,
+   "effet": "Aucune étude d'interaction retrouvée (PubMed 'carnitine acenocoumarol INR' : 0 résultat, reconfirmé le 2026-11-02).",
+   "fiche_origine": "l-carnitine",
+   "gravite": "inconnue",
+   "id": "l-carnitine--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "Adultes sous anticoagulant",
+   "preuve": "?",
+   "sources": [
+    {
+     "texte": "Recherche PubMed 'carnitine acenocoumarol INR', 0 résultat, fiche l-carnitine, reconfirmée le 2026-11-02"
+    }
+   ],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "l-carnitine-carnipure-nutrimuscle"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "Fiche produit ; l'interaction vise la L-carnitine (fiche actifs l-carnitine existante), à rattacher si souhaité.",
+   "conduite": null,
+   "effet": "Interaction avec les anticoagulants non recherchée",
+   "fiche_origine": "l-carnitine-carnipure-nutrimuscle",
+   "gravite": "inconnue",
+   "id": "l-carnitine-carnipure-nutrimuscle--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "non précisée",
+   "preuve": "?",
+   "sources": [],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "melatonine"
+   },
+   "b": {
+    "substance": "antivitamine-k"
+   },
+   "commentaire": "RÉTROGRADÉ documente -> plausible. PMID 12076414 vérifié (revue Cochrane jet-lag, 2002) : 'Case reports suggest that ... patients taking warfarin may come to harm' et 'a possible interaction with warfarin, need investigation' ; aucun chiffre, pas d'étude. La fiche elle-même dit 'non retrouvée dans le RCP lu'. Les PMID 11317475 et 18763235 (fluvoxamine/CYP1A2) hors sujet, non vérifiés.",
+   "conduite": null,
+   "effet": "Des cas rapportés suggèrent un risque chez les patients sous warfarine ; l'interaction reste à étudier.",
+   "fiche_origine": "melatonine",
+   "gravite": "inconnue",
+   "id": "melatonine--antivitamine-k",
+   "mecanisme": "inconnu",
+   "population": "Patients sous warfarine",
+   "preuve": "B",
+   "sources": [
+    {
+     "pmid": "12076414"
+    }
+   ],
+   "statut": "plausible"
+  },
+  {
+   "a": {
+    "fiche": "nattokinase"
+   },
+   "b": {
+    "substance": "antiagregant-plaquettaire"
+   },
+   "commentaire": "PMID 18310985 vérifié : cas unique, les auteurs suggèrent un risque accru d'hémorragie intracérébrale. Cas isolé, donc plausible. Prudence antiagrégants/AINS mentionnée dans la fiche sans autre source.",
+   "conduite": null,
+   "effet": "Un cas d'hémorragie cérébelleuse après 7 jours de nattokinase 400 mg/j chez un patient sous aspirine avec microbleeds cérébraux.",
+   "fiche_origine": "nattokinase",
+   "gravite": "inconnue",
+   "id": "nattokinase--antiagregant-plaquettaire",
+   "mecanisme": "additif",
+   "population": "Patient sous aspirine avec microangiopathie cérébrale",
+   "preuve": "B",
+   "sources": [
+    {
+     "pmid": "18310985"
+    }
+   ],
+   "statut": "plausible"
+  },
+  {
+   "a": {
+    "fiche": "nattokinase"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "34199189 vérifié : 153 patients, nattokinase 100 mg/j + fondaparinux/énoxaparine, 'without adverse drug reactions or drug interactions', sans groupe contrôle comparable (héparines, pas AVK/AOD). 38812930 vérifié : ECR n=178, aucun effet indésirable, 'multiple heart medications' sans précision d'anticoagulants. Statut aucune_donnee pour les AVK/AOD ; mécanisme additif seulement supposé (activité fibrinolytique).",
+   "conduite": null,
+   "effet": "Aucune étude d'interaction dédiée avec les anticoagulants (AVK, AOD) ; données d'observation non contrôlées chez 153 patients sous fondaparinux ou énoxaparine sans interaction rapportée.",
+   "fiche_origine": "nattokinase",
+   "gravite": "inconnue",
+   "id": "nattokinase--anticoagulant",
+   "mecanisme": "additif",
+   "population": "Patients vasculaires sous anticoagulant",
+   "preuve": "B",
+   "sources": [
+    {
+     "pmid": "34199189"
+    },
+    {
+     "pmid": "38812930"
+    }
+   ],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "nattokinase"
+   },
+   "b": {
+    "substance": "antivitamine-k"
+   },
+   "commentaire": "Moitié allergie au soja de la ligne 26 écartée (hors sujet). Aucun PMID cité pour l'AVK.",
+   "conduite": null,
+   "effet": "Effets sur l'INR sous antivitamine K non recherchés ; teneur en vitamine K2 des produits à vérifier.",
+   "fiche_origine": "nattokinase",
+   "gravite": "inconnue",
+   "id": "nattokinase--antivitamine-k",
+   "mecanisme": "inconnu",
+   "population": "Patients sous AVK",
+   "preuve": "?",
+   "sources": [
+    {
+     "texte": "Fiche nattokinase (renvoi vers vitamine-k2), consultée le 2026-11-02"
+    }
+   ],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "nicotinamide-orale"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "Seule la fin de la ligne concerne les anticoagulants ; le PMID 11126400 (hépatotoxicité) est hors sujet et non cité en source.",
+   "conduite": null,
+   "effet": "Interactions médicamenteuses avec les anticoagulants non retrouvées.",
+   "fiche_origine": "nicotinamide-orale",
+   "gravite": "inconnue",
+   "id": "nicotinamide-orale--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "Adultes sous anticoagulant",
+   "preuve": "?",
+   "sources": [
+    {
+     "texte": "Fiche nicotinamide-orale, mention [?] 'non retrouvés', consultée le 2026-11-02"
+    }
+   ],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "omega-3"
+   },
+   "b": {
+    "substance": "antiagregant-plaquettaire"
+   },
+   "commentaire": "PMID 38742535 vérifié : méta-analyse de 11 ECR, 120 643 patients, RR 1,09 (0,91-1,31) ; EPA purifié forte dose : +50 % relatif, +0,6 % absolu ; antiplaquettaire de fond : différence de risque -0,01 (-0,02 à 0), p=0,056 (limite). Concerne les antiplaquettaires, pas les anticoagulants.",
+   "conduite": null,
+   "effet": "Pas d'excès de saignement avec les oméga-3 en ECR (RR 1,09 ; IC 0,91-1,31), et risque de saignement non associé à un traitement antiplaquettaire de fond.",
+   "fiche_origine": "omega-3",
+   "gravite": "inconnue",
+   "id": "omega-3--antiagregant-plaquettaire",
+   "mecanisme": "additif",
+   "population": "Patients inclus dans 11 ECR (120 643 patients)",
+   "preuve": "A",
+   "sources": [
+    {
+     "pmid": "38742535"
+    }
+   ],
+   "statut": "non_demontre"
+  },
+  {
+   "a": {
+    "fiche": "omega-3"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "Lignes 28 et 29 fusionnées (la 29 répète le RCP). RCP/EFSA non relus directement. La méta-analyse 38742535 ne porte pas sur les anticoagulants (anticoagulation de fond non analysée dans le résumé) : non utilisée ici. Statut plausible : surveillance réglementaire sans donnée d'interaction chiffrée.",
+   "conduite": null,
+   "effet": "Le RCP d'Omacor demande une surveillance sous anticoagulant à 4 capsules/j ; l'EFSA ne retient pas de risque de saignement spontané jusqu'à ~5 g/j d'EPA+DHA.",
+   "fiche_origine": "omega-3",
+   "gravite": "inconnue",
+   "id": "omega-3--anticoagulant",
+   "mecanisme": "additif",
+   "population": "Adultes sous anticoagulant, forte dose",
+   "preuve": "?",
+   "sources": [
+    {
+     "texte": "RCP Omacor (BDPM), cité par la fiche omega-3, consulté le 2026-10-03"
+    },
+    {
+     "texte": "EFSA, avis 2012 sur la limite supérieure des oméga-3, cité par la fiche omega-3, consulté le 2026-10-03"
+    }
+   ],
+   "statut": "plausible"
+  },
+  {
+   "a": {
+    "fiche": "phosphatidylserine"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "Recherche indiquée dans la fiche, non refaite.",
+   "conduite": null,
+   "effet": "Aucune étude d'interaction ni RCP retrouvés ; absence d'interaction non établie.",
+   "fiche_origine": "phosphatidylserine",
+   "gravite": "inconnue",
+   "id": "phosphatidylserine--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "Adultes sous anticoagulant",
+   "preuve": "?",
+   "sources": [
+    {
+     "texte": "Recherche PubMed 'phosphatidylserine safety adverse effects review' et BDPM, fiche phosphatidylserine, consultée le 2026-11-02"
+    }
+   ],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "quercetine"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "Ligne de la fiche taguée [?], aucun PMID : pas de source à vérifier. Pas de mécanisme précis disponible, donc pas plausible.",
+   "conduite": null,
+   "effet": "Mécanismes évoqués dans une revue de sécurité, liste détaillée non relue ; aucune donnée d'interaction retenue",
+   "fiche_origine": "quercetine",
+   "gravite": "inconnue",
+   "id": "quercetine--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "non précisée",
+   "preuve": "?",
+   "sources": [],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "regime-mediterraneen"
+   },
+   "b": {
+    "substance": "antivitamine-k"
+   },
+   "commentaire": "Seule la 2e phrase de la ligne est retenue. La 1re (PREDIMED : moins d'initiations d'AVK avec huile d'olive) est une incidence de prescription, pas une interaction : écartée. Pour l'effet de la vitamine K alimentaire, voir entrée habitude--antivitamine-k de vitamine-k2.",
+   "conduite": null,
+   "effet": "Interaction vitamine K des légumes verts avec les antivitamines K non recherchée dans cette fiche",
+   "fiche_origine": "regime-mediterraneen",
+   "gravite": "inconnue",
+   "id": "regime-mediterraneen--antivitamine-k",
+   "mecanisme": "pharmacodynamique",
+   "population": "non précisée",
+   "preuve": "?",
+   "sources": [],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "resveratrol"
+   },
+   "b": {
+    "substance": "antiagregant-plaquettaire"
+   },
+   "commentaire": "Recherche sans résultat = absence de donnée, pas résultat négatif (aucun essai testant l'interaction). Pas de PMID à vérifier.",
+   "conduite": null,
+   "effet": "Recherche PubMed sans résultat pertinent : risque ni démontré ni écarté",
+   "fiche_origine": "resveratrol",
+   "gravite": "inconnue",
+   "id": "resveratrol--antiagregant-plaquettaire",
+   "mecanisme": "inconnu",
+   "population": "non précisée",
+   "preuve": "?",
+   "sources": [],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "resveratrol"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "Recherche sans résultat = absence de donnée, pas résultat négatif (aucun essai testant l'interaction). Pas de PMID à vérifier.",
+   "conduite": null,
+   "effet": "Recherche PubMed sans résultat pertinent : risque ni démontré ni écarté",
+   "fiche_origine": "resveratrol",
+   "gravite": "inconnue",
+   "id": "resveratrol--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "non précisée",
+   "preuve": "?",
+   "sources": [],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "rhodiola"
+   },
+   "b": {
+    "substance": "antivitamine-k"
+   },
+   "commentaire": "PMID 26613955 vérifié : -21 %, p=0,023, n=13, mention de la warfarine dans le résumé. Statut plausible et non documenté : la sonde est le losartan, aucune donnée avec warfarine/AVK ; l'extrapolation est celle des auteurs ('might be'). Seule la warfarine est citée (acénocoumarol et fluindione, CYP2C9 aussi, non cités).",
+   "conduite": null,
+   "effet": "Inhibition modeste du CYP2C9 (rapport EXP-3174/losartan -21 %, p=0,023) après 14 j de Rhodiola rosea ; effet possiblement pertinent pour les substrats à marge étroite comme la warfarine, non testé avec la warfarine",
+   "fiche_origine": "rhodiola",
+   "gravite": "inconnue",
+   "id": "rhodiola--antivitamine-k",
+   "mecanisme": "pharmacocinetique",
+   "population": "13 volontaires sains, ECR croisé, produit du commerce (Arctic Root)",
+   "preuve": "B",
+   "sources": [
+    {
+     "pmid": "26613955"
+    }
+   ],
+   "statut": "plausible"
+  },
+  {
+   "a": {
+    "fiche": "selank-et-semax"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "PMID 16634437 vérifié : revue russe de 2006, résumé qualitatif sans chiffre ni donnée humaine avec un anticoagulant ; décrit un effet propre des peptides sur l'hémostase, pas une interaction médicamenteuse. Cité pour contexte seulement, statut aucune_donnee. Ligne limite (quasi hors sujet) : à écarter si le schéma exige une interaction avec un médicament.",
+   "conduite": null,
+   "effet": "Études d'effets sur la coagulation de peptides régulateurs (glyprolines, semax, selank) dans la littérature russe ; aucune donnée d'interaction avec un anticoagulant",
+   "fiche_origine": "selank-et-semax",
+   "gravite": "inconnue",
+   "id": "selank-et-semax--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "non précisée (revue expérimentale/théorique)",
+   "preuve": "?",
+   "sources": [
+    {
+     "pmid": "16634437"
+    }
+   ],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "spiruline-et-chlorelle"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "Absence de mention ANSES (page de synthèse) n'est pas une preuve d'absence d'interaction.",
+   "conduite": null,
+   "effet": "Interaction avec les anticoagulants non recherchée (aucune recherche PubMed dédiée) ; l'avis ANSES lu ne la mentionne pas",
+   "fiche_origine": "spiruline-et-chlorelle",
+   "gravite": "inconnue",
+   "id": "spiruline-et-chlorelle--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "non précisée",
+   "preuve": "?",
+   "sources": [],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "tongkat-ali"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "Fiche : aucune donnée trouvée [?] ; la fiche conseille d'éviter par prudence, ce n'est pas une source de conduite.",
+   "conduite": null,
+   "effet": "Aucune donnée trouvée sur la prise d'anticoagulants",
+   "fiche_origine": "tongkat-ali",
+   "gravite": "inconnue",
+   "id": "tongkat-ali--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "non précisée",
+   "preuve": "?",
+   "sources": [],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "vitamine-c-orale"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "Non recherché dans la fiche.",
+   "conduite": null,
+   "effet": "Interaction avec les anticoagulants non recherchée",
+   "fiche_origine": "vitamine-c-orale",
+   "gravite": "inconnue",
+   "id": "vitamine-c-orale--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "non précisée",
+   "preuve": "?",
+   "sources": [],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "vitamine-e"
+   },
+   "b": {
+    "substance": "antiagregant-plaquettaire"
+   },
+   "commentaire": "PMID 39099617 vérifié : exclusion des UL pour patients sous anticoagulants/antiplaquettaires et effet critique = coagulation/saignement, dans le résumé. Documenté comme texte réglementaire (avis scientifique EFSA), sans chiffre d'interaction ; pas d'essai d'interaction cité. Mécanisme laissé 'inconnu' (l'additivité est une inférence). Conduite laissée null : la phrase 'éviter les doses supérieures à l'apport nutritionnel sans avis médical' vient de la fiche, pas de l'EFSA (résumé).",
+   "conduite": null,
+   "effet": "L'EFSA retient le risque de saignement (effet sur la coagulation) comme effet critique de la limite supérieure ; la limite de 300 mg/j d'alpha-tocophérol ne s'applique pas aux personnes sous anticoagulants ou antiplaquettaires",
+   "fiche_origine": "vitamine-e",
+   "gravite": "inconnue",
+   "id": "vitamine-e--antiagregant-plaquettaire",
+   "mecanisme": "inconnu",
+   "population": "adultes sous anticoagulant ou antiplaquettaire (aspirine), alpha-tocophérol",
+   "preuve": "?",
+   "sources": [
+    {
+     "pmid": "39099617"
+    },
+    {
+     "texte": "EFSA, avis sur la limite supérieure de la vitamine E, EFSA J 2024;22(8):e8953 (résumé lu via PubMed), consulté le 2026-11-02"
+    }
+   ],
+   "statut": "documente"
+  },
+  {
+   "a": {
+    "fiche": "vitamine-e"
+   },
+   "b": {
+    "substance": "anticoagulant"
+   },
+   "commentaire": "PMID 39099617 vérifié : exclusion des UL pour patients sous anticoagulants/antiplaquettaires et effet critique = coagulation/saignement, dans le résumé. Documenté comme texte réglementaire (avis scientifique EFSA), sans chiffre d'interaction ; pas d'essai d'interaction cité. Mécanisme laissé 'inconnu' (l'additivité est une inférence). Conduite laissée null : la phrase 'éviter les doses supérieures à l'apport nutritionnel sans avis médical' vient de la fiche, pas de l'EFSA (résumé).",
+   "conduite": null,
+   "effet": "L'EFSA retient le risque de saignement (effet sur la coagulation) comme effet critique de la limite supérieure ; la limite de 300 mg/j d'alpha-tocophérol ne s'applique pas aux personnes sous anticoagulants ou antiplaquettaires",
+   "fiche_origine": "vitamine-e",
+   "gravite": "inconnue",
+   "id": "vitamine-e--anticoagulant",
+   "mecanisme": "inconnu",
+   "population": "adultes sous anticoagulant ou antiplaquettaire (aspirine), alpha-tocophérol",
+   "preuve": "?",
+   "sources": [
+    {
+     "pmid": "39099617"
+    },
+    {
+     "texte": "EFSA, avis sur la limite supérieure de la vitamine E, EFSA J 2024;22(8):e8953 (résumé lu via PubMed), consulté le 2026-11-02"
+    }
+   ],
+   "statut": "documente"
+  },
+  {
+   "a": {
+    "habitude": "vitamine-k-alimentaire"
+   },
+   "b": {
+    "substance": "antivitamine-k"
+   },
+   "commentaire": "Fusion de trois entrées (legumes-verts-a-feuilles, cruciferes-brocoli-et-sulforaphane, vitamine-k-alimentaire). Statut documente d'après l'essai croisé randomisé (chiffres lus dans le résumé de 15121490), nuancé par la revue 26962786. Les études portent sur la vitamine K alimentaire en général, pas sur le brocoli ni sur l'acénocoumarol ou la fluindione. Hors suppléments. PMID 20630973 (cité par la fiche brocoli) retiré des sources : résumé indisponible, non vérifiable.",
+   "conduite": null,
+   "effet": "La vitamine K alimentaire déplace l'INR : INR 2,6 à 3,3 après 4 jours de régime appauvri en vitamine K (p=0,005), 3,1 à 2,8 avec un régime enrichi (p=0,04). Une revue systématique trouve des preuves contradictoires, avec un effet détectable surtout au-delà d'environ 150 µg/j, et des apports stables plus pertinents qu'une restriction.",
+   "fiche_origine": "legumes-verts-a-feuilles",
+   "gravite": "inconnue",
+   "id": "vitamine-k-alimentaire--antivitamine-k",
+   "mecanisme": "pharmacodynamique",
+   "population": "patients sous antivitamine K stable (essai croisé n=12 ; cohorte de 39 patients ; revue de 2 essais et 9 études observationnelles)",
+   "preuve": "B",
+   "sources": [
+    {
+     "pmid": "15121490"
+    },
+    {
+     "pmid": "26962786"
+    }
+   ],
+   "statut": "documente"
+  },
+  {
+   "a": {
+    "fiche": "vitamine-k2"
+   },
+   "b": {
+    "substance": "anticoagulant-oral-direct"
+   },
+   "commentaire": "Non recherché dans la fiche. Ne pas déduire une absence d'interaction.",
+   "conduite": null,
+   "effet": "Interaction avec les anticoagulants oraux directs non recherchée",
+   "fiche_origine": "vitamine-k2",
+   "gravite": "inconnue",
+   "id": "vitamine-k2--anticoagulant-oral-direct",
+   "mecanisme": "inconnu",
+   "population": "non précisée",
+   "preuve": "?",
+   "sources": [],
+   "statut": "aucune_donnee"
+  },
+  {
+   "a": {
+    "fiche": "vitamine-k2"
+   },
+   "b": {
+    "substance": "antivitamine-k"
+   },
+   "commentaire": "PMID 21205949 vérifié (résumé relu, la fiche disait 'non relu') : chiffres INR 1,5 puis 8,5 présents. Source = un cas isolé, donc plausible selon le schéma, malgré un mécanisme pharmacologique classique. Peut passer à documente avec le RCP d'un AVK (non lu ici). Warfarine uniquement dans la source ; acénocoumarol/fluindione extrapolés par la classe.",
+   "conduite": null,
+   "effet": "Un supplément de vitamine K s'oppose aux AVK ; cas publié : INR 8,5 environ 2 semaines après l'arrêt d'un supplément de vitamine K chez un patient sous warfarine (INR 1,5 à l'arrêt, dose de warfarine augmentée de 14,3 %)",
+   "fiche_origine": "vitamine-k2",
+   "gravite": "inconnue",
+   "id": "vitamine-k2--antivitamine-k",
+   "mecanisme": "pharmacodynamique",
+   "population": "cas unique : homme de 64 ans, fibrillation atriale, warfarine",
+   "preuve": "B",
+   "sources": [
+    {
+     "pmid": "21205949"
+    }
+   ],
+   "statut": "plausible"
+  }
+ ],
+ "schema_version": 1,
+ "substances": {
+  "antiagregant-plaquettaire": {
+   "membres": [
+    "aspirine",
+    "clopidogrel",
+    "prasugrel",
+    "ticagrelor"
+   ],
+   "nom": "Antiagrégants plaquettaires",
+   "type": "classe"
+  },
+  "anticoagulant": {
+   "inclut": [
+    "antivitamine-k",
+    "anticoagulant-oral-direct"
+   ],
+   "nom": "Anticoagulants (sans précision)",
+   "note": "Une interaction écrite sur « anticoagulant » vaut pour toute classe qu'il inclut.",
+   "type": "classe"
+  },
+  "anticoagulant-oral-direct": {
+   "membres": [
+    "apixaban",
+    "rivaroxaban",
+    "dabigatran",
+    "edoxaban"
+   ],
+   "nom": "Anticoagulants oraux directs",
+   "type": "classe"
+  },
+  "antivitamine-k": {
+   "membres": [
+    "warfarine",
+    "acénocoumarol",
+    "fluindione"
+   ],
+   "nom": "Antivitamines K",
+   "type": "classe"
+  }
+ }
+}

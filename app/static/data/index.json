@@ -8334,7 +8334,7 @@
   }
  ],
  "schema_version": 1,
- "source_commit": "6823c62528ef347ae06e903bd0bffa5b54fe5f81",
+ "source_commit": "0b14c714e9921db24c435fba35cc66572eb1a301",
  "vocabulaire": {
   "_doc": "Vocabulaires contrôlés du frontmatter. Lu par scripts/verifier.py et, à terme, par la compilation et l'application. Ajouter une valeur ici avant de l'utiliser dans une fiche.",
   "cibles": {

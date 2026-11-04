@@ -1,0 +1,36 @@
+{
+ "_doc": "Habitudes (aliments, boissons, mode de vie) que la personne peut déclarer. `fiche` : fiche de la bibliothèque qui en parle, ou null. Une habitude n'a d'intérêt pour le moteur que si une interaction de interactions.json la vise : les habitudes sans interaction écrite sont déclarables mais ne produisent aucune alerte.",
+ "habitudes": [
+  {
+   "fiche": "legumes-verts-a-feuilles",
+   "id": "vitamine-k-alimentaire",
+   "nom": "Apport alimentaire en vitamine K (légumes verts à feuilles, choux, huiles)"
+  },
+  {
+   "fiche": null,
+   "id": "pamplemousse",
+   "nom": "Pamplemousse et jus de pamplemousse"
+  },
+  {
+   "fiche": null,
+   "id": "alcool",
+   "nom": "Alcool"
+  },
+  {
+   "fiche": null,
+   "id": "tabac",
+   "nom": "Tabac"
+  },
+  {
+   "fiche": "cafeine",
+   "id": "cafe",
+   "nom": "Café et caféine"
+  },
+  {
+   "fiche": "the-et-sante",
+   "id": "the",
+   "nom": "Thé"
+  }
+ ],
+ "schema_version": 1
+}
