@@ -91,7 +91,7 @@
 	.val small { color: var(--muted); }
 	.corps { padding: 0 12px 12px; display: grid; gap: 10px; }
 	.corps p { margin: 0; }
-	form { display: grid; grid-template-columns: 1fr 1fr auto; gap: 8px; }
+	form { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr) auto; gap: 8px; }
 	input, textarea { font: inherit; padding: 9px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); color: var(--ink); min-width: 0; width: 100%; }
 	button { font: inherit; font-size: 0.86rem; padding: 6px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--soft); color: var(--ink); }
 	button:disabled { opacity: 0.5; }

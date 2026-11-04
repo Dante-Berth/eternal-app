@@ -6,7 +6,7 @@
 	import type { LayoutProps } from './$types';
 
 	let { children }: LayoutProps = $props();
-	const onglets = ['Aujourd’hui', 'Mesures', 'Leviers', 'Savoir', 'Forme', 'Muscu', 'Moi'];
+	const onglets = ['Jour', 'Mesures', 'Leviers', 'Savoir', 'Forme', 'Muscu', 'Moi'];
 	const dansSavoir = $derived(page.url.pathname.includes('/savoir'));
 </script>
 
@@ -39,8 +39,8 @@
 	main { flex: 1; min-height: 0; overflow-y: auto; overflow-x: hidden; }
 	nav { display: flex; border-top: 1px solid var(--line); background: var(--surface);
 		padding-bottom: env(safe-area-inset-bottom, 0); }
-	nav a, nav span { flex: 1; text-align: center; padding: 12px 2px; font-size: 0.78rem; font-weight: 600;
-		color: var(--muted); text-decoration: none; min-width: 0; }
+	nav a, nav span { flex: 1; text-align: center; padding: 12px 2px; font-size: 0.74rem; font-weight: 600;
+		color: var(--muted); text-decoration: none; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 	nav a[aria-current='page'] { color: var(--accent); box-shadow: inset 0 3px 0 var(--accent); }
 	nav span { opacity: 0.45; }
 </style>

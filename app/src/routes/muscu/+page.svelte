@@ -103,8 +103,8 @@
 		<section>
 			<h2>Progression</h2>
 			<div class="ligne2">
-				<select bind:value={choisi} aria-label="Exercice">
-					{#each noms as n (n)}<option value={n} selected={n === exo}>{n}</option>{/each}
+				<select value={exo} onchange={(e) => (choisi = e.currentTarget.value)} aria-label="Exercice">
+					{#each noms as n (n)}<option value={n}>{n}</option>{/each}
 				</select>
 				<select bind:value={metrique} aria-label="Mesure">
 					{#each Object.entries(METRIQUES) as [k, v] (k)}<option value={k}>{v}</option>{/each}
