@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
+	import Minuteur from '#lib/muscu/Minuteur.svelte';
 	import SousOnglets from '#lib/ui/SousOnglets.svelte';
 	import Courbe from '#lib/suivi/Courbe.svelte';
 	import {
@@ -70,6 +71,7 @@
 
 <div class="page">
 	<SousOnglets />
+	<Minuteur />
 	<header>
 		<p class="eyebrow">Muscu</p>
 		<h1>Carnet d’entraînement</h1>
