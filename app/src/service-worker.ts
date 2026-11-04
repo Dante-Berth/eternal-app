@@ -34,7 +34,7 @@ self.addEventListener('fetch', (event: FetchEvent) => {
 			} catch (erreur) {
 				// Hors ligne sur une page jamais vue : coquille de la bibliothèque plutôt qu'une erreur réseau.
 				if (requete.mode === 'navigate') {
-					const secours = await cache.match('/savoir');
+					const secours = await cache.match('/');
 					if (secours) return secours;
 				}
 				throw erreur;
