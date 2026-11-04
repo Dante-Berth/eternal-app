@@ -8,10 +8,10 @@
 	let { children }: LayoutProps = $props();
 	const chemin = $derived(page.url.pathname);
 	const onglets = $derived([
-		{ nom: 'Jour', href: resolve('/'), actif: !/\/(savoir|muscu|forme|moi)/.test(chemin) },
+		{ nom: 'Jour', href: resolve('/'), actif: !/\/(savoir|muscu|forme|moi|bilan)/.test(chemin) },
 		{ nom: 'Sport', href: resolve('/muscu'), actif: /\/(muscu|forme)/.test(chemin) },
 		{ nom: 'Savoir', href: resolve('/savoir'), actif: chemin.includes('/savoir') },
-		{ nom: 'Moi', href: resolve('/moi'), actif: chemin.includes('/moi') },
+		{ nom: 'Moi', href: resolve('/moi'), actif: /\/(moi|bilan)/.test(chemin) },
 	]);
 </script>
 

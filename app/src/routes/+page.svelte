@@ -33,6 +33,7 @@
 			<a class="gros" href="{resolve('/muscu')}?reprendre=1">Refaire « {derniere.nom ?? jolie(derniere.date)} »</a>
 		{/if}
 		<a class="gros" href={resolve('/forme')}>Ajouter une mesure</a>
+		{#if !vide}<a class="gros" href={resolve('/bilan')}>Voir mon bilan</a>{/if}
 	</div>
 
 	{#if vide}

@@ -193,6 +193,12 @@
 	</section>
 
 	<section>
+		<h2>Bilan</h2>
+		<p class="muted small">Résumé de vos séances et mesures sur 30 jours, 3 mois ou 1 an ; exports CSV pour analyser vous-même.</p>
+		<a class="lien-bouton" href={resolve('/bilan')}>Ouvrir mon bilan</a>
+	</section>
+
+	<section>
 		<h2>Sauvegarde</h2>
 		<p class="muted small">Profil, mesures de forme et séances de muscu sont stockés dans ce navigateur seulement. Vider les données du site les efface : exportez régulièrement. Le fichier n’est ni chiffré ni envoyé.</p>
 		<div class="actions">
@@ -205,6 +211,7 @@
 
 <style>
 	.actions { display: flex; gap: 8px; }
+	.lien-bouton { display: grid; place-items: center; min-height: 44px; border: 1px solid var(--line); border-radius: 8px; background: var(--soft); color: var(--ink); text-decoration: none; font-weight: 600; }
 	.fichier { flex: none; font: inherit; font-size: 0.86rem; padding: 6px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--soft); cursor: pointer; }
 	.fichier input { position: absolute; width: 1px; height: 1px; opacity: 0; }
 	.page { padding: 20px 16px 32px; display: grid; gap: 22px; }
