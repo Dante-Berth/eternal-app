@@ -8,10 +8,17 @@
 		NIVEAUX, ajouterTraitement, definirHabitude, supprimerTraitement, terminerTraitement, type Niveau,
 	} from '#lib/profil/profil.js';
 	import { stockage } from '#lib/profil/stockage.svelte.js';
+	import { stockageSuivi } from '#lib/suivi/stockage.svelte.js';
+	import { stockageMuscu } from '#lib/muscu/stockage.svelte.js';
+	import { exporter, importer } from '#lib/sauvegarde/sauvegarde.js';
 	import type { PageProps } from './$types';
 
 	let { data }: PageProps = $props();
-	onMount(() => stockage.charger());
+	onMount(() => {
+		stockage.charger();
+		stockageSuivi.charger();
+		stockageMuscu.charger();
+	});
 
 	const aujourdhui = new Date().toISOString().slice(0, 10);
 	const metas = $derived(new Map(data.metas.map((m) => [m.id, m])));
@@ -43,6 +50,31 @@
 		requete.trim().length < 2 ? [] : chercher(requete, data.recherche, metas, { type: 'actif' }).slice(0, 6),
 	);
 	const maj = (p: typeof profil) => stockage.definir(p);
+
+	let message = $state('');
+	function telecharger() {
+		const texte = exporter({ profil: stockage.profil, suivi: stockageSuivi.suivi, carnet: stockageMuscu.carnet });
+		const a = document.createElement('a');
+		a.href = URL.createObjectURL(new Blob([texte], { type: 'application/json' }));
+		a.download = `eternal-sauvegarde-${aujourdhui}.json`;
+		a.click();
+		URL.revokeObjectURL(a.href);
+		message = 'Sauvegarde téléchargée. Elle contient vos données de santé : rangez-la en lieu sûr.';
+	}
+	async function restaurer(e: Event) {
+		const input = e.currentTarget as HTMLInputElement;
+		const fichier = input.files?.[0];
+		input.value = '';
+		if (!fichier) return;
+		const r = importer(await fichier.text());
+		if (!r.ok) { message = r.erreur; return; }
+		const { traitements, habitudes, mesures, seances } = r.resume;
+		if (!confirm(`Remplacer les données de cet appareil par la sauvegarde ?\n${traitements} traitement(s), ${habitudes} habitude(s), ${mesures} mesure(s) de forme, ${seances} séance(s).`)) return;
+		stockage.definir(r.sauvegarde.profil);
+		stockageSuivi.definir(r.sauvegarde.suivi);
+		stockageMuscu.definir(r.sauvegarde.carnet);
+		message = 'Sauvegarde restaurée.';
+	}
 </script>
 
 <svelte:head><title>Moi · Eternal</title></svelte:head>
@@ -159,9 +191,22 @@
 			{/if}
 		{/if}
 	</section>
+
+	<section>
+		<h2>Sauvegarde</h2>
+		<p class="muted small">Profil, mesures de forme et séances de muscu sont stockés dans ce navigateur seulement. Vider les données du site les efface : exportez régulièrement. Le fichier n’est ni chiffré ni envoyé.</p>
+		<div class="actions">
+			<button type="button" onclick={telecharger}>Exporter (JSON)</button>
+			<label class="fichier">Importer<input type="file" accept="application/json,.json" onchange={restaurer} /></label>
+		</div>
+		{#if message}<p class="small" role="status">{message}</p>{/if}
+	</section>
 </div>
 
 <style>
+	.actions { display: flex; gap: 8px; }
+	.fichier { flex: none; font: inherit; font-size: 0.86rem; padding: 6px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--soft); cursor: pointer; }
+	.fichier input { position: absolute; width: 1px; height: 1px; opacity: 0; }
 	.page { padding: 20px 16px 32px; display: grid; gap: 22px; }
 	.eyebrow { margin: 0 0 4px; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
 	.avert { color: var(--bad); }
