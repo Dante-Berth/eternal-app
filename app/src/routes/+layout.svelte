@@ -6,7 +6,7 @@
 	import type { LayoutProps } from './$types';
 
 	let { children }: LayoutProps = $props();
-	const onglets = ['Aujourd’hui', 'Mesures', 'Leviers', 'Savoir', 'Forme', 'Moi'];
+	const onglets = ['Aujourd’hui', 'Mesures', 'Leviers', 'Savoir', 'Forme', 'Muscu', 'Moi'];
 	const dansSavoir = $derived(page.url.pathname.includes('/savoir'));
 </script>
 
@@ -23,6 +23,8 @@
 				<a href={resolve('/savoir')} aria-current={dansSavoir ? 'page' : undefined}>{nom}</a>
 			{:else if nom === 'Forme'}
 				<a href={resolve('/forme')} aria-current={page.url.pathname.includes('/forme') ? 'page' : undefined}>{nom}</a>
+			{:else if nom === 'Muscu'}
+				<a href={resolve('/muscu')} aria-current={page.url.pathname.includes('/muscu') ? 'page' : undefined}>{nom}</a>
 			{:else if nom === 'Moi'}
 				<a href={resolve('/moi')} aria-current={page.url.pathname.includes('/moi') ? 'page' : undefined}>{nom}</a>
 			{:else}
