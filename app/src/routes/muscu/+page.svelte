@@ -3,7 +3,7 @@
 	import SousOnglets from '#lib/ui/SousOnglets.svelte';
 	import Courbe from '#lib/suivi/Courbe.svelte';
 	import {
-		ajouterSeance, dernieresSeries, historique, nomsExercices, seancesRecentes, supprimerSeance, volume,
+		ajouterSeance, ajuster, dernieresSeries, historique, nomsExercices, seancesRecentes, supprimerSeance, volume,
 		type Exercice,
 	} from '#lib/muscu/seances.js';
 	import { stockageMuscu } from '#lib/muscu/stockage.svelte.js';
@@ -30,6 +30,7 @@
 	let brouillon = $state<Array<{ nom: string; series: Ligne[] }>>([]);
 	let nouveau = $state('');
 	let erreur = $state('');
+	let confirme = $state('');
 
 	const noms = $derived(nomsExercices(carnet));
 
@@ -52,6 +53,7 @@
 		if (apres === carnet) { erreur = 'Aucune série valide : répétitions entières > 0, charge ≥ 0.'; return; }
 		erreur = '';
 		stockageMuscu.definir(apres);
+		confirme = `Séance enregistrée (${brouillon.length} exercice${brouillon.length > 1 ? 's' : ''}).`;
 		brouillon = [];
 		titre = '';
 	}
@@ -92,13 +94,25 @@
 				</div>
 				{#each b.series as s, j (j)}
 					<div class="serie">
-						<span class="data n">{j + 1}</span>
-						<input type="text" inputmode="numeric" bind:value={s.reps} placeholder="reps" aria-label="Répétitions série {j + 1}" />
-						<input type="text" inputmode="decimal" bind:value={s.charge} placeholder="kg" aria-label="Charge série {j + 1}" />
-						<button type="button" onclick={() => b.series.splice(j, 1)} aria-label="Retirer la série {j + 1}">×</button>
+						<div class="titre-serie">
+							<span class="muted small">Série {j + 1} · répétitions à gauche, kg à droite</span>
+							<button type="button" class="petit" onclick={() => b.series.splice(j, 1)} aria-label="Retirer la série {j + 1}">×</button>
+						</div>
+						<div class="champs">
+							<div class="pas">
+								<button type="button" onclick={() => (s.reps = ajuster(s.reps, -1))} aria-label="Une répétition de moins">−</button>
+								<input type="text" inputmode="numeric" bind:value={s.reps} placeholder="reps" aria-label="Répétitions série {j + 1}" />
+								<button type="button" onclick={() => (s.reps = ajuster(s.reps, 1))} aria-label="Une répétition de plus">+</button>
+							</div>
+							<div class="pas">
+								<button type="button" onclick={() => (s.charge = ajuster(s.charge, -2.5))} aria-label="2,5 kg de moins">−</button>
+								<input type="text" inputmode="decimal" bind:value={s.charge} placeholder="kg" aria-label="Charge série {j + 1}" />
+								<button type="button" onclick={() => (s.charge = ajuster(s.charge, 2.5))} aria-label="2,5 kg de plus">+</button>
+							</div>
+						</div>
 					</div>
 				{/each}
-				<button type="button" onclick={() => b.series.push({ reps: b.series.at(-1)?.reps ?? '', charge: b.series.at(-1)?.charge ?? '' })}>+ Série</button>
+				<button type="button" class="large" onclick={() => b.series.push({ reps: b.series.at(-1)?.reps ?? '', charge: b.series.at(-1)?.charge ?? '' })}>+ Série (comme la précédente)</button>
 			</div>
 		{/each}
 
@@ -110,6 +124,7 @@
 		<p class="muted small">Les séries de la dernière fois sont préremplies. Charge vide = poids du corps.</p>
 		{#if erreur}<p class="avert small" role="alert">{erreur}</p>{/if}
 		<button class="primaire" type="button" onclick={enregistrer} disabled={brouillon.length === 0}>Enregistrer la séance</button>
+		{#if confirme}<p class="ok" role="status">{confirme}</p>{/if}
 	</section>
 
 	{#if noms.length}
@@ -160,14 +175,21 @@
 	section { display: grid; gap: 10px; }
 	.ligne2 { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
 	.ajout { display: grid; grid-template-columns: 1fr auto; gap: 8px; }
-	input, select { font: inherit; padding: 9px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); color: var(--ink); min-width: 0; width: 100%; }
-	button { font: inherit; font-size: 0.86rem; padding: 6px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--soft); color: var(--ink); }
+	input, select { font: inherit; min-height: 44px; padding: 9px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); color: var(--ink); min-width: 0; width: 100%; }
+	button { font: inherit; font-size: 0.9rem; min-height: 44px; padding: 6px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--soft); color: var(--ink); }
 	button:disabled { opacity: 0.5; }
 	.primaire { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); padding: 11px; font-size: 1rem; font-weight: 600; }
 	.exo { border: 1px solid var(--line); border-radius: 10px; background: var(--surface); padding: 10px; display: grid; gap: 8px; }
 	.entete { display: flex; justify-content: space-between; align-items: center; }
-	.serie { display: grid; grid-template-columns: 24px 1fr 1fr auto; gap: 8px; align-items: center; }
-	.n { color: var(--muted); text-align: center; }
+	.serie { display: grid; gap: 6px; }
+	.titre-serie { display: flex; justify-content: space-between; align-items: center; }
+	.champs { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+	.pas { display: grid; grid-template-columns: 44px minmax(0, 1fr) 44px; gap: 4px; }
+	.pas button { padding: 0; font-size: 1.3rem; }
+	.pas input { text-align: center; font-size: 1.1rem; }
+	.large { min-height: 44px; }
+	.petit { padding: 0; width: 44px; min-height: 44px; font-size: 1.2rem; }
+	.ok { margin: 0; padding: 10px 12px; border-radius: 8px; background: var(--ok-bg); color: var(--ok); font-weight: 600; }
 	table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
 	th { text-align: left; font-size: 0.78rem; color: var(--muted); font-weight: 600; }
 	th, td { padding: 6px 4px; border-bottom: 1px solid var(--line); }

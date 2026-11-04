@@ -101,3 +101,10 @@ export function dernieresSeries(c: Carnet, nom: string): Serie[] {
 	}
 	return [];
 }
+
+/** Ajoute `pas` à une valeur saisie (virgule ou point), sans descendre sous 0 ; champ vide = 0. */
+export function ajuster(saisie: string, pas: number): string {
+	const v = Number(saisie.trim().replace(',', '.'));
+	const base = Number.isFinite(v) ? v : 0;
+	return String(Math.max(0, Math.round((base + pas) * 100) / 100));
+}

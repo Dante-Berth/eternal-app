@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { ajouterSeance, carnetVide, dernieresSeries, e1rm, historique, lireCarnet, nomsExercices, supprimerSeance, volume } from './seances.js';
+import { ajuster, ajouterSeance, carnetVide, dernieresSeries, e1rm, historique, lireCarnet, nomsExercices, supprimerSeance, volume } from './seances.js';
 
 const squat = (series: Array<[number, number]>) => ({ nom: 'Squat', series: series.map(([reps, charge]) => ({ reps, charge })) });
 
@@ -33,5 +33,12 @@ describe('carnet de musculation', () => {
 		expect(relu.seances[0].nom).toBe('Jambes');
 		expect(supprimerSeance(c, c.seances[0].id).seances).toHaveLength(0);
 		expect(lireCarnet(null).seances).toHaveLength(0);
+	});
+	it('ajuste une saisie sans descendre sous zéro', () => {
+		expect(ajuster('100', 2.5)).toBe('102.5');
+		expect(ajuster('2,5', -2.5)).toBe('0');
+		expect(ajuster('', 1)).toBe('1');
+		expect(ajuster('abc', -1)).toBe('0');
+		expect(ajuster('0.1', 0.2)).toBe('0.3');
 	});
 });
